@@ -1,23 +1,30 @@
 {
   "name": "Cambium 2014",
-  "description": "Providing global, dependable wireless broadband and Wi-Fi solutions with real-time cloud management.",
-  "categoryId": 18,
-  "size": "m",
+  "description": "Professional Development For Software Professionals.",
+  "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/cambium_2014-logo.webp",
-  "websiteUrl": "https://www.cambiumnetworks.com/",
-  "careersUrl": "https://www.cambiumlearning.com/careers/",
+  "websiteUrl": "https://cambium.co.il/",
+  "careersUrl": "https://cambium.co.il/jobs/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "cambium-applicable-innovation",
   "crunchbaseId": null,
   "finderId": "cambium",
   "xId": null,
   "addresses": [
     {
-      "street": "אנפה",
-      "houseNumber": 11,
-      "city": "ירוחם",
-      "lat": 30.9855868,
-      "lon": 34.9179882
-    }
+      "street": "מתחם דמרי",
+      "houseNumber": null,
+      "city": "דימונה",
+      "lat": 31.073195413406076,
+      "lon": 35.03256611207804
+    },
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.065378798329526,
+      "lon": 34.78557544668187
+    },
   ]
 }

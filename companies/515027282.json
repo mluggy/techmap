@@ -1,0 +1,23 @@
+{
+  "name": "Valerann",
+  "description": "This SaaS company leverages Big Data to transform road safety, efficiency, and sustainability through advanced Intelligent Transportation Systems.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/valerann-logo.webp",
+  "websiteUrl": "https://www.valerann.com/",
+  "careersUrl": "https://www.valerann.com/careers",
+  "isHiring": true,
+  "linkedinId": "valerann",
+  "crunchbaseId": null,
+  "finderId": "valerann",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוקן",
+      "houseNumber": 32,
+      "city": "תל אביב - יפו",
+      "lat": 32.051553,
+      "lon": 34.771982
+    }
+  ]
+}

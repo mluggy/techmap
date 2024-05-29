@@ -1,0 +1,23 @@
+{
+  "name": "Marx Biotechnology",
+  "description": "A Jerusalem-based biotech startup conducting animal and human pilot trials, funded by the EU's Horizon 2020 program.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/marx_biotechnology-logo.webp",
+  "websiteUrl": "https://marxbio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "marx-biotechnology-ltd",
+  "crunchbaseId": "marx-biotechnology",
+  "finderId": "marx-biotechnology",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מעבר המיתלה",
+      "houseNumber": 3,
+      "city": "ירושלים",
+      "lat": 31.7999147,
+      "lon": 35.2244744
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Elastimed",
+  "description": "Introducing the first robotic stocking specifically designed to address lymphatic and venous conditions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/elastimed-logo.webp",
+  "websiteUrl": "https://www.elastimed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "haptico",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקידמה",
+      "houseNumber": 7,
+      "city": "יקנעם עילית",
+      "lat": 32.66993075,
+      "lon": 35.10747075437456
+    }
+  ]
+}

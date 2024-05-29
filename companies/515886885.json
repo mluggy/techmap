@@ -1,0 +1,23 @@
+{
+  "name": "Iluria",
+  "description": "A free app that enables multi-device note taking, listing, reminders, image capturing, voice memo recording, and organizing with labels and colors.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/iluria-logo.webp",
+  "websiteUrl": "https://keep.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "iluria-ltd1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שמואל הנביא",
+      "houseNumber": 42,
+      "city": "הוד השרון",
+      "lat": 32.1490298,
+      "lon": 34.8809681
+    }
+  ]
+}

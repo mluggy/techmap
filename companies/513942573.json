@@ -1,0 +1,23 @@
+{
+  "name": "Paretix Pareto",
+  "description": "An AI-driven underwriting platform offering comprehensive credit recommendations and decision-making capabilities.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/paretix_pareto-logo.webp",
+  "websiteUrl": "https://www.paretix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pareto-pulse",
+  "crunchbaseId": "paretix-pareto-ltd",
+  "finderId": "paretix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יבנה",
+      "houseNumber": 31,
+      "city": "תל אביב - יפו",
+      "lat": 32.063042,
+      "lon": 34.774299
+    }
+  ]
+}

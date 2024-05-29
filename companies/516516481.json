@@ -1,0 +1,23 @@
+{
+  "name": "Wevo Energy",
+  "description": "A comprehensive electric vehicle charging management solution for residential, commercial, and public spaces.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/wevo_energy-logo.webp",
+  "websiteUrl": "https://wevo.energy/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wevo-energy",
+  "crunchbaseId": null,
+  "finderId": "wevo-energy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסייפן",
+      "houseNumber": 9,
+      "city": "עין ורד",
+      "lat": 32.2715393,
+      "lon": 34.9304542
+    }
+  ]
+}

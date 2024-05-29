@@ -1,0 +1,23 @@
+{
+  "name": "Adar Biotech",
+  "description": "Offering bulk discounts on lab reagents and innovative monoclonal antibody development services.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/adar_biotech-logo.webp",
+  "websiteUrl": "http://adarbiotech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "adar-biotech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יבנה",
+      "houseNumber": 27,
+      "city": "רחובות",
+      "lat": 31.899323,
+      "lon": 34.8026909
+    }
+  ]
+}

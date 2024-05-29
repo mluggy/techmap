@@ -1,0 +1,23 @@
+{
+  "name": "Treat Me",
+  "description": "Comprehensive Recovery Care Focused on Patients' Needs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/treat_me-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "treat-me",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "וינגיט",
+      "houseNumber": 19,
+      "city": "קריית אונו",
+      "lat": 32.062912194932366,
+      "lon": 34.854031104743186
+    }
+  ]
+}

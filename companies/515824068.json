@@ -1,0 +1,23 @@
+{
+  "name": "Jama Dayan",
+  "description": "A freely accessible platform showcasing cutting-edge research on hypertension, diabetes, stroke, dementia, and machine learning.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/jama_dayan-logo.webp",
+  "websiteUrl": "https://jamanetwork.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jama",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד נורדאו",
+      "houseNumber": 92,
+      "city": "תל אביב - יפו",
+      "lat": 32.091568,
+      "lon": 34.782198
+    }
+  ]
+}

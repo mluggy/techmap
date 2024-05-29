@@ -1,0 +1,23 @@
+{
+  "name": "Iop Medical",
+  "description": "A sensor that can be implanted to allow individuals to monitor their own eye pressure.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/iop_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "iop-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "4",
+      "houseNumber": null,
+      "city": "קצרין",
+      "lat": 31.9825747,
+      "lon": 34.7597188
+    }
+  ]
+}

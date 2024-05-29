@@ -1,0 +1,23 @@
+{
+  "name": "Incredibuild Software",
+  "description": "This company speeds up development processes both on-premises and in the cloud for quicker builds and improved products.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/incredibuild_software-logo.webp",
+  "websiteUrl": "https://www.incredibuild.com/",
+  "careersUrl": "https://www.incredibuild.com/career",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "incredibuild",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

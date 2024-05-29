@@ -1,0 +1,23 @@
+{
+  "name": "M M A Tech",
+  "description": "A free service offering instant translation of words, phrases, and web pages in over 100 languages.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/m_m_a_tech-logo.webp",
+  "websiteUrl": "https://translate.google.ru/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "m-m-a-tech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד הגעתון",
+      "houseNumber": 1,
+      "city": "נהרייה",
+      "lat": 33.0061707,
+      "lon": 35.097461
+    }
+  ]
+}

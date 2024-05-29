@@ -1,0 +1,23 @@
+{
+  "name": "Flexiwan",
+  "description": "This company offers a customizable SD-WAN & SASE platform that reduces software and hardware costs by enabling dynamic integration of third-party applications.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/flexiwan-logo.webp",
+  "websiteUrl": "https://flexiwan.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "flexiwan",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגולן",
+      "houseNumber": 16,
+      "city": "הוד השרון",
+      "lat": 32.1592864,
+      "lon": 34.9224335
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Spherestec",
+  "description": "A user-friendly, stable, and secure solution that minimizes maintenance and ensures high performance even under heavy loads.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/spherestec-logo.webp",
+  "websiteUrl": "https://spherestec.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "spherestec",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדולב",
+      "houseNumber": 4,
+      "city": "חיפה",
+      "lat": 32.8154416,
+      "lon": 34.9680634
+    }
+  ]
+}

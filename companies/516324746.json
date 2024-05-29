@@ -1,0 +1,23 @@
+{
+  "name": "Qualiifly",
+  "description": "We streamline and expedite the technical interview process with our efficient Interview-as-a-Service (IAAS) platform.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/qualiifly-logo.webp",
+  "websiteUrl": "https://qualiifly.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "qualiifly",
+  "crunchbaseId": null,
+  "finderId": "qualiifly",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אקסודוס",
+      "houseNumber": 7,
+      "city": "אשדוד",
+      "lat": 31.7948991,
+      "lon": 34.6326254
+    }
+  ]
+}

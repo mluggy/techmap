@@ -1,0 +1,23 @@
+{
+  "name": "Uveye",
+  "description": "This company specializes in automated vehicle inspections throughout the entire vehicle lifecycle, supported by industry giants like GM and Toyota.",
+  "categoryId": 15,
+  "size": "m",
+  "logoFile": "logos/uveye-logo.webp",
+  "websiteUrl": "https://www.uveye.com/",
+  "careersUrl": "https://www.uveye.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "uveye",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמינדב",
+      "houseNumber": 21,
+      "city": "תל אביב - יפו",
+      "lat": 32.064839,
+      "lon": 34.795597
+    }
+  ]
+}

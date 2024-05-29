@@ -1,0 +1,23 @@
+{
+  "name": "Edgify",
+  "description": "Platforms for training AI models collaboratively on edge devices.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/edgify-logo.webp",
+  "websiteUrl": "https://edgify.ai/",
+  "careersUrl": "https://edgify.ai/careers/",
+  "isHiring": true,
+  "linkedinId": "edgifyai",
+  "crunchbaseId": "edgify",
+  "finderId": "pixoneye",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין מנחם",
+      "houseNumber": 11,
+      "city": "רמת גן",
+      "lat": 32.0862661,
+      "lon": 34.800174909775976
+    }
+  ]
+}

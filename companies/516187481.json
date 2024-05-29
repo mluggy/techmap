@@ -1,0 +1,23 @@
+{
+  "name": "Tupaia",
+  "description": "A global crowdsourcing initiative using an app to gather and share clinic data and procurement resources.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/tupaia-logo.webp",
+  "websiteUrl": "https://www.tupaia.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tupaia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "למרחב",
+      "houseNumber": 12,
+      "city": "רמת השרון",
+      "lat": 32.1462554,
+      "lon": 34.8332184
+    }
+  ]
+}

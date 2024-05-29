@@ -1,0 +1,23 @@
+{
+  "name": "Pathkeeper Surgical",
+  "description": "This innovative solution enhances surgical planning and navigation with real-time, high-precision 3D imaging for precise tool and anatomy tracking, ensuring optimal clinical results.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/pathkeeper_surgical-logo.webp",
+  "websiteUrl": "https://www.path-keeper.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pathkeeper",
+  "crunchbaseId": "path-keeper-surgical",
+  "finderId": "deep-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כרמל",
+      "houseNumber": 16,
+      "city": "רחובות",
+      "lat": 31.9348826,
+      "lon": 34.8079343
+    }
+  ]
+}

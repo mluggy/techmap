@@ -1,0 +1,23 @@
+{
+  "name": "Viridix",
+  "description": "Provides precise soil moisture data and actionable irrigation insights via app, using self-charging, multi-depth sensors with wireless connectivity.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/viridix-logo.webp",
+  "websiteUrl": "https://www.viridix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "viridix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האורנים",
+      "houseNumber": 36,
+      "city": "כפר האורנים",
+      "lat": 31.92021655861795,
+      "lon": 35.0391929039507
+    }
+  ]
+}

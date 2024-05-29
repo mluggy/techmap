@@ -1,0 +1,23 @@
+{
+  "name": "Medva Gis",
+  "description": "A leader in transforming geographic data into valuable decision-making tools, specializing in cloud-based Decision Support Systems for managers.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/medva_gis-logo.webp",
+  "websiteUrl": "https://www.medva-gis.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "medva-gis",
+  "crunchbaseId": null,
+  "finderId": "mdvia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.106754,
+      "lon": 34.83522
+    }
+  ]
+}

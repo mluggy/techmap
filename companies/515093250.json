@@ -1,0 +1,23 @@
+{
+  "name": "Bitrated",
+  "description": "A solution designed to prevent fraud within the Bitcoin network.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/bitrated-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bitrated",
+  "crunchbaseId": "bitrated",
+  "finderId": "bitrated",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התורן",
+      "houseNumber": 8,
+      "city": "יבנה",
+      "lat": 31.8694715,
+      "lon": 34.7335671
+    }
+  ]
+}

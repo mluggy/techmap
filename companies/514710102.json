@@ -1,0 +1,23 @@
+{
+  "name": "Breeze Animation L T D",
+  "description": "Offering nonstop flights on underserved routes across the U.S., this airline delivers affordable fares with a focus on comfort and new aircraft.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/breeze_animation_l_t_d-logo.webp",
+  "websiteUrl": "https://www.flybreeze.com/",
+  "careersUrl": "https://jobs.flybreeze.com/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "breeze",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חצור",
+      "houseNumber": 22,
+      "city": "כרמיאל",
+      "lat": 32.9101231,
+      "lon": 35.2955662
+    }
+  ]
+}

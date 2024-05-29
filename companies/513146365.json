@@ -1,0 +1,23 @@
+{
+  "name": "Kast Silicone",
+  "description": "A platform enabling friends to stream and watch videos, movies, live content, and games together.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/kast_silicone-logo.webp",
+  "websiteUrl": "https://kastapp.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kast",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרטוב",
+      "houseNumber": 3,
+      "city": "בית שמש",
+      "lat": 31.74604985141803,
+      "lon": 34.99390957502699
+    }
+  ]
+}

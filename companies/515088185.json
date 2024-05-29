@@ -1,0 +1,23 @@
+{
+  "name": "Reep Technologies",
+  "description": "This Israeli company offers a laser deinking solution that allows paper to be reused, eliminating the need for traditional paper procurement and recycling processes.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/reep_technologies-logo.webp",
+  "websiteUrl": "https://www.reepcorp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "reep-corp",
+  "crunchbaseId": null,
+  "finderId": "reep-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התנופה",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.099682,
+      "lon": 34.8569061
+    }
+  ]
+}

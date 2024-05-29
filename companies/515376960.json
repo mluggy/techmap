@@ -1,0 +1,23 @@
+{
+  "name": "Cassit Orthopedics",
+  "description": "A comprehensive platform offering information, team insights, products, training, and regulatory details.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cassit_orthopedics-logo.webp",
+  "websiteUrl": "https://cassit-ot.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cassit",
+  "crunchbaseId": null,
+  "finderId": "cassit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אליפלט",
+      "houseNumber": 26,
+      "city": "תל אביב - יפו",
+      "lat": 32.057708,
+      "lon": 34.764336
+    }
+  ]
+}

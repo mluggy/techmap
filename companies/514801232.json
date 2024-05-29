@@ -1,0 +1,23 @@
+{
+  "name": "S Park Parking Technologies",
+  "description": "A free service providing instant translation of text and web content in over 100 languages.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/s_park_parking_technologies-logo.webp",
+  "websiteUrl": "https://translate.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "spark-parking-technology",
+  "crunchbaseId": "spark-parking-technologies",
+  "finderId": "spark_parking",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

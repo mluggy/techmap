@@ -1,0 +1,23 @@
+{
+  "name": "Fitness 22",
+  "description": "A highly popular and efficient fitness app that provides users with comprehensive workout plans, tips, and videos.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/fitness_22-logo.webp",
+  "websiteUrl": "https://fitness22.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fitness22",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יצחק רבין",
+      "houseNumber": 1,
+      "city": "פתח תקווה",
+      "lat": 32.2101852,
+      "lon": 34.9650933
+    }
+  ]
+}

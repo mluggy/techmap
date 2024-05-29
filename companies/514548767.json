@@ -1,0 +1,23 @@
+{
+  "name": "Yotpo",
+  "description": "They offer an integrated marketing solution that simplifies shopper engagement across all stages.",
+  "categoryId": 2,
+  "size": "l",
+  "logoFile": "logos/yotpo-logo.webp",
+  "websiteUrl": "https://www.yotpo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "yotpo",
+  "crunchbaseId": null,
+  "finderId": "yotpo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.064654,
+      "lon": 34.785584
+    }
+  ]
+}

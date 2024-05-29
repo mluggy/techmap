@@ -1,0 +1,23 @@
+{
+  "name": "Active Trail",
+  "description": "מערכת דיוור אלקטרוני מתקדמת שנלחמת בדואר זבל ומאפשרת הפצת ניוזלטרים באישור בלבד.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/active_trail-logo.webp",
+  "websiteUrl": "https://www.activetrail.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "activetrail",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 48,
+      "city": "תל אביב - יפו",
+      "lat": 32.0631601,
+      "lon": 34.7803411
+    }
+  ]
+}

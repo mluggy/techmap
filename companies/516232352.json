@@ -1,0 +1,23 @@
+{
+  "name": "Kai AI",
+  "description": "An empathetic AI companion designed to enhance well-being and personal growth.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/kai_ai-logo.webp",
+  "websiteUrl": "https://kai.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kai-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 45,
+      "city": "חיפה",
+      "lat": 32.819776250000004,
+      "lon": 34.9988252
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ariga Technologies",
+  "description": "Offers database schema management solutions including safe migrations, CI verification, and deployment planning.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/ariga_technologies-logo.webp",
+  "websiteUrl": "https://ariga.io/",
+  "careersUrl": "https://ariga.io/career/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ariga",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית הלל",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.069135,
+      "lon": 34.791589
+    }
+  ]
+}

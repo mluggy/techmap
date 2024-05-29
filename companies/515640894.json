@@ -1,0 +1,23 @@
+{
+  "name": "D S Raider",
+  "description": "This all-terrain vehicle with powerful 9,000W motors and rear-wheel drive is designed to conquer sand, mud, rocks, and snow, setting a new standard for off-road mobility.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/d_s_raider-logo.webp",
+  "websiteUrl": "https://www.ezraider.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dsraider",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 15,
+      "city": "כפר סבא",
+      "lat": 32.1666204,
+      "lon": 34.9281644
+    }
+  ]
+}

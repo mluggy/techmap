@@ -1,0 +1,23 @@
+{
+  "name": "Bookaway",
+  "description": "Offering one-tap booking for worldwide travel with 24-hour support and a variety of transport options tailored to your preferences.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/bookaway-logo.webp",
+  "websiteUrl": "https://www.bookaway.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "travelertick",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תע\"ש",
+      "houseNumber": 6,
+      "city": "רמת גן",
+      "lat": 32.0889179,
+      "lon": 34.8015247
+    }
+  ]
+}

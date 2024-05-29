@@ -1,0 +1,23 @@
+{
+  "name": "Climber O D E",
+  "description": "Global sports organization coordinating international climbing competitions and fostering international collaboration.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/climber_o_d_e-logo.webp",
+  "websiteUrl": "https://www.ifsc-climbing.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "climber",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שארית הפליטה",
+      "houseNumber": 30,
+      "city": "חיפה",
+      "lat": 32.764264,
+      "lon": 34.9904441
+    }
+  ]
+}

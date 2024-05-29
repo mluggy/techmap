@@ -1,0 +1,23 @@
+{
+  "name": "Hishtil",
+  "description": "Established in 1974, this global nursery corporation excels in producing and selling vegetables, herbs, seedlings, and young plants for both professional and hobbyist markets.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/hishtil-logo.webp",
+  "websiteUrl": "https://www.hishtil.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hishtil",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן יהודה אליעזר",
+      "houseNumber": null,
+      "city": "אשקלון",
+      "lat": 31.640234,
+      "lon": 34.5482579
+    }
+  ]
+}

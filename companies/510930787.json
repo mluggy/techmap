@@ -1,0 +1,23 @@
+{
+  "name": "Micronet",
+  "description": "The leading provider of top-tier IT products and cutting-edge tech solutions in the Bahamas.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/micronet-logo.webp",
+  "websiteUrl": "https://www.micronet.bs/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "micronet",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 16,
+      "city": "ראש העין",
+      "lat": 32.1088976,
+      "lon": 34.9653972
+    }
+  ]
+}

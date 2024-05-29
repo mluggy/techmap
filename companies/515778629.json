@@ -1,0 +1,23 @@
+{
+  "name": "Masterschool",
+  "description": "A global network offering immersive online tech training with industry expert mentorship, professional networking, and job placement support.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/masterschool-logo.webp",
+  "websiteUrl": "https://www.masterschool.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "masterschool",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לינקולן",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.066035,
+      "lon": 34.782959
+    }
+  ]
+}

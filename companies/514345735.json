@@ -1,0 +1,23 @@
+{
+  "name": "Vorpal",
+  "description": "Founded in 2016, Vorpal is a drone detection, geolocation, and tracking company that provides a drone tracking system and counter UAS platform.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/vorpal-logo.webp",
+  "websiteUrl": "https://www.vorpal-corp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vorpal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שמחה הולצברג",
+      "houseNumber": 11,
+      "city": "כפר סבא",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

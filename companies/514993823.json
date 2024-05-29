@@ -1,0 +1,23 @@
+{
+  "name": "Takeda Israel",
+  "description": "A global biopharmaceutical leader dedicated to innovative research and patient-centric healthcare solutions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/takeda_israel-logo.webp",
+  "websiteUrl": "https://www.takeda.com/",
+  "careersUrl": "https://www.takeda.com/careers/",
+  "isHiring": true,
+  "linkedinId": "takeda-pharmaceuticals",
+  "crunchbaseId": null,
+  "finderId": "takeda",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אפעל",
+      "houseNumber": 25,
+      "city": "פתח תקווה",
+      "lat": 32.09584395,
+      "lon": 34.846930395423286
+    }
+  ]
+}

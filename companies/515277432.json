@@ -1,0 +1,23 @@
+{
+  "name": "Lemonade",
+  "description": "Providing highly-rated, user-friendly insurance services, often praised for their modern approach.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/lemonade-logo.webp",
+  "websiteUrl": "https://www.lemonade.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lemonade",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דובנוב",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.075065,
+      "lon": 34.783164
+    }
+  ]
+}

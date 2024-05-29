@@ -1,0 +1,23 @@
+{
+  "name": "Biflow Medical",
+  "description": "A company dedicated to innovating AAA treatment through endovascular repair using a unique dual-stent mechanism.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/biflow_medical-logo.webp",
+  "websiteUrl": "https://biflow-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "biflow-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Songo Media",
+  "description": null,
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/songo_media-logo.webp",
+  "websiteUrl": "https://www.songo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "songo-media",
+  "crunchbaseId": "say-media-group",
+  "finderId": "say-media1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.1066986,
+      "lon": 34.8348566
+    }
+  ]
+}

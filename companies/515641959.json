@@ -1,0 +1,23 @@
+{
+  "name": "Myselffit",
+  "description": "App that Precisely Measures Body Fat Percentage.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/myselffit-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "myselffit",
+  "crunchbaseId": "myselffit",
+  "finderId": "myselffit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נצח ישראל",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.077725,
+      "lon": 34.778658
+    }
+  ]
+}

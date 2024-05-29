@@ -1,0 +1,23 @@
+{
+  "name": "Phytopharma International",
+  "description": "Since 1993, they have specialized in producing high-quality health products sold exclusively through chemists and pharmacies.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/phytopharma_international-logo.webp",
+  "websiteUrl": "https://www.phytopharma.ch/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "phytopharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד רבין יצחק",
+      "houseNumber": 1,
+      "city": "עפולה",
+      "lat": 32.6236389,
+      "lon": 35.3176342
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sitago",
+  "description": "A secure and fair gaming platform with advanced fraud detection for social interactive games.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/sitago-logo.webp",
+  "websiteUrl": "https://www.sitago.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sitago",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן צבי יצחק",
+      "houseNumber": 61,
+      "city": "חיפה",
+      "lat": 32.752336,
+      "lon": 34.9720848
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Nanit Israel",
+  "description": "Provides comprehensive baby monitoring with personalized health, wellness, and developmental insights.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/nanit_israel-logo.webp",
+  "websiteUrl": "https://www.nanit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nanit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Plate My Meal",
+  "description": "A free service providing instant translation between English and over 100 languages for words, phrases, and web pages.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/plate_my_meal-logo.webp",
+  "websiteUrl": "https://translate.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "plate-my-meal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגלעד",
+      "houseNumber": 4,
+      "city": "תנובות",
+      "lat": 32.3083284118628,
+      "lon": 34.964514293042754
+    }
+  ]
+}

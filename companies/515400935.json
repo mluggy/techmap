@@ -1,0 +1,23 @@
+{
+  "name": "Agrimapic",
+  "description": "Utilizing drone technology and sophisticated analysis, this company delivers detailed data and 2D/3D imagery to help agricultural clients boost crop yields and profits.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/agrimapic-logo.webp",
+  "websiteUrl": "https://www.agrimapic.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "agrimapic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חנקין",
+      "houseNumber": 7,
+      "city": "חולון",
+      "lat": 32.02711285,
+      "lon": 34.7795151
+    }
+  ]
+}

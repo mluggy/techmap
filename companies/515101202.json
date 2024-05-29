@@ -1,0 +1,23 @@
+{
+  "name": "Empow Cyber Security",
+  "description": "Our studio offers fun, hands-on STEM education for kids ages 7-15, including coding, robotics, and animation.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/empow_cyber_security-logo.webp",
+  "websiteUrl": "https://empow.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "empow",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היצירה",
+      "houseNumber": 29,
+      "city": "רמת גן",
+      "lat": 32.0848749,
+      "lon": 34.8030899
+    }
+  ]
+}

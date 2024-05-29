@@ -1,0 +1,23 @@
+{
+  "name": "Pulsenmore",
+  "description": "Pioneering home ultrasound technology for remote clinical diagnosis and enhanced healthcare access.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/pulsenmore-logo.webp",
+  "websiteUrl": "https://pulsenmore.com/",
+  "careersUrl": "https://pulsenmore.com/jobs/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pulsenmore",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עומרים",
+      "houseNumber": 8,
+      "city": "עומר",
+      "lat": 31.2712166,
+      "lon": 34.8421314
+    }
+  ]
+}

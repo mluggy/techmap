@@ -1,0 +1,23 @@
+{
+  "name": "Backbox Software",
+  "description": "Their platform streamlines and secures network configuration management for teams.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/backbox_software-logo.webp",
+  "websiteUrl": "https://backbox.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "backbox",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 13,
+      "city": "ראש העין",
+      "lat": 32.1011543,
+      "lon": 34.9196002
+    }
+  ]
+}

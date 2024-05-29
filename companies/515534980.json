@@ -1,0 +1,23 @@
+{
+  "name": "Yoom.com",
+  "description": "Automate and streamline 3D character creation with neural network technology to expedite animation processes.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/yoom_com-logo.webp",
+  "websiteUrl": "https://yoom.com/",
+  "careersUrl": "https://yoom.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "yoom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08452905,
+      "lon": 34.80020929592628
+    }
+  ]
+}

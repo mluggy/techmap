@@ -1,0 +1,23 @@
+{
+  "name": "Emuze Ev",
+  "description": "Developing high-end e-mobility platforms, this company specializes in electric scooters and alternative personal vehicles.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/emuze_ev-logo.webp",
+  "websiteUrl": "https://www.emuzev.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "emuze-connect",
+  "crunchbaseId": "emuze",
+  "finderId": "emuze",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השיבולת",
+      "houseNumber": 440,
+      "city": "גבעת עדה",
+      "lat": 32.5212214,
+      "lon": 35.0161985
+    }
+  ]
+}

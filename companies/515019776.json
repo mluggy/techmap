@@ -1,0 +1,23 @@
+{
+  "name": "Capitalise",
+  "description": "Automated tool for converting text to capitalized case by changing the starting letter of every word to upper case.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/capitalise-logo.webp",
+  "websiteUrl": "https://convertcase.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "capitalise",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלנבי",
+      "houseNumber": 105,
+      "city": "תל אביב - יפו",
+      "lat": 32.063907,
+      "lon": 34.773007
+    }
+  ]
+}

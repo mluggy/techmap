@@ -1,0 +1,23 @@
+{
+  "name": "Oneview Space",
+  "description": "Empowering patients with knowledge and self-service tools to enhance hospital care experiences and clinical outcomes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/oneview_space-logo.webp",
+  "websiteUrl": "https://www.oneviewhealthcare.com/",
+  "careersUrl": "https://www.oneviewhealthcare.com/oneview-healthcare/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "oneview",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קפלנסקי",
+      "houseNumber": 8,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0388295,
+      "lon": 34.893638
+    }
+  ]
+}

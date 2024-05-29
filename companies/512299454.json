@@ -1,0 +1,23 @@
+{
+  "name": "Tav Tech",
+  "description": "Pioneering skincare with pressurized gas technology to transform liquids into fine misty jets for advanced treatments.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/tav_tech-logo.webp",
+  "websiteUrl": "https://tav-tech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "tav-tech-ltd",
+  "crunchbaseId": null,
+  "finderId": "tavtech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 40,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0267353,
+      "lon": 34.8933861
+    }
+  ]
+}

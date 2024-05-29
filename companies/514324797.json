@@ -1,0 +1,23 @@
+{
+  "name": "Radiflow",
+  "description": "The platform offers comprehensive cybersecurity solutions with integrated SIEM, analytics, network security, and asset management, enabling seamless data enrichment and anomaly detection through advanced APIs.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/radiflow-logo.webp",
+  "websiteUrl": "https://www.radiflow.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "radiflow",
+  "crunchbaseId": null,
+  "finderId": "radiflow",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 38,
+      "city": "תל אביב - יפו",
+      "lat": 32.1103886,
+      "lon": 34.84245
+    }
+  ]
+}

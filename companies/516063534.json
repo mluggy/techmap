@@ -1,0 +1,23 @@
+{
+  "name": "Seecares",
+  "description": "Innovative parsing technology offering automatic NOI underwriting with comprehensive insights from various data sources and file types.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/seecares-logo.webp",
+  "websiteUrl": "https://seecares.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "seecares",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השייטת",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.9987463,
+      "lon": 34.7357214
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Crowdstrike Israel R D",
+  "description": "CrowdStrike is a leading cybersecurity company specializing in next-generation endpoint protection, threat intelligence, and proactive threat hunting.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/crowdstrike_israel_r_d-logo.webp",
+  "websiteUrl": "https://www.crowdstrike.com/",
+  "careersUrl": "https://www.crowdstrike.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "crowdstrike",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08254365,
+      "lon": 34.801384906098356
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Aneustart",
+  "description": "Providing a seamless online navigation experience with efficient redirecting services.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/aneustart-logo.webp",
+  "websiteUrl": "https://aneustart.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aneustart",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אליקום",
+      "houseNumber": 3,
+      "city": "ראשון לציון",
+      "lat": 31.9520525,
+      "lon": 34.8057744
+    }
+  ]
+}

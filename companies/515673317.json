@@ -1,0 +1,23 @@
+{
+  "name": "6 Degrees",
+  "description": "Wearable AI transforming motion into digital commands, enabling full smart device control for users with varying physical abilities.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/6_degrees-logo.webp",
+  "websiteUrl": "https://www.6degrees.tech/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "6degrees",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמיקם אליהו (קשאק)",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.0558708,
+      "lon": 34.7619318
+    }
+  ]
+}

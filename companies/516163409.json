@@ -1,0 +1,23 @@
+{
+  "name": "Snax Games",
+  "description": "Offering a wide variety of appetizers, small plates, and snacks, along with soups, salads, and sandwiches.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/snax_games-logo.webp",
+  "websiteUrl": "https://snaxrestaurant.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "snax",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הזיתים",
+      "houseNumber": 22,
+      "city": "הרצליה",
+      "lat": 32.1779987,
+      "lon": 34.847629
+    }
+  ]
+}

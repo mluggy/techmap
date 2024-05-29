@@ -1,0 +1,23 @@
+{
+  "name": "Ginzi Io",
+  "description": "A platform that allows agents to effortlessly customize responses, reducing handling time and enhancing customer satisfaction with AI-driven quality.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/ginzi_io-logo.webp",
+  "websiteUrl": "https://www.ginzi.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "ginzi",
+  "crunchbaseId": "ginzi",
+  "finderId": "ginzi-io",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בן גוריון דוד",
+      "houseNumber": 42,
+      "city": "רמת גן",
+      "lat": 32.0665161,
+      "lon": 34.8162604
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Goto",
+  "description": "App for shared transportation.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/goto-logo.webp",
+  "websiteUrl": "https://www.goto.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "goto",
+  "crunchbaseId": null,
+  "finderId": "goto",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 82,
+      "city": "תל אביב - יפו",
+      "lat": 32.066186,
+      "lon": 34.792954
+    }
+  ]
+}

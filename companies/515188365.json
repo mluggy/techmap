@@ -1,0 +1,23 @@
+{
+  "name": "Elementor",
+  "description": "Platform for creating and customizing websites using WordPress.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/elementor-logo.webp",
+  "websiteUrl": "https://elementor.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pogo-me",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bel Har Investments",
+  "description": "Specializing in electronic components, this company facilitates global connectivity across various sectors such as computing, networking, telecommunications, and transportation.",
+  "categoryId": 16,
+  "size": "s",
+  "logoFile": "logos/bel_har_investments-logo.webp",
+  "websiteUrl": "https://www.belfuse.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן שפרוט",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.7763981,
+      "lon": 35.2114836
+    }
+  ]
+}

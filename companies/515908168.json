@@ -1,0 +1,23 @@
+{
+  "name": "Hellopurple",
+  "description": "Offering color-matching employment opportunities in the innovative gaming industry.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/hellopurple-logo.webp",
+  "websiteUrl": "https://app.hellopurple.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "hellopurple",
+  "crunchbaseId": null,
+  "finderId": "hellopurple",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חזה עופרה",
+      "houseNumber": 940,
+      "city": "בית אריה",
+      "lat": 32.04287483454876,
+      "lon": 35.04732573363285
+    }
+  ]
+}

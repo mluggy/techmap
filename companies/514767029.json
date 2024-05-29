@@ -1,0 +1,23 @@
+{
+  "name": "Top Car Armoring",
+  "description": "Company specializing in the production of armored vehicles.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/top_car_armoring-logo.webp",
+  "websiteUrl": "https://inkasarmored.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "top-car-armoring",
+  "finderId": "top-car-armoring",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אמסטרדם",
+      "houseNumber": 10,
+      "city": "שדרות",
+      "lat": 31.5227684,
+      "lon": 34.6109457
+    }
+  ]
+}

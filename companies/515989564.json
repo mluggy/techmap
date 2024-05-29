@@ -1,0 +1,23 @@
+{
+  "name": "Book A Space",
+  "description": "An all-in-one platform for booking and managing spaces, meeting rooms, events, and venues for hoteliers, co-working spaces, and property owners.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/book_a_space-logo.webp",
+  "websiteUrl": "https://www.bookasp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "book-a-space",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפיוס",
+      "houseNumber": 16,
+      "city": "הרצליה",
+      "lat": 32.1595075,
+      "lon": 34.848501
+    }
+  ]
+}

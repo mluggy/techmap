@@ -1,0 +1,23 @@
+{
+  "name": "Ravin AI",
+  "description": "Utilizing advanced computer vision, this company automates vehicle inspections to efficiently detect and classify damages, saving time and reducing costs.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/ravin_ai-logo.webp",
+  "websiteUrl": "https://www.ravin.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ravin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כיאט",
+      "houseNumber": 6,
+      "city": "חיפה",
+      "lat": 32.8191165,
+      "lon": 34.9991822
+    }
+  ]
+}

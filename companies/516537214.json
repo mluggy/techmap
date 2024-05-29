@@ -1,0 +1,23 @@
+{
+  "name": "Evermile",
+  "description": "This company enhances delivery services for various industries, ensuring faster and more efficient delivery times.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/evermile-logo.webp",
+  "websiteUrl": "https://www.evermile.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "evermile",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האחים מסלאויטה",
+      "houseNumber": 11,
+      "city": "תל אביב - יפו",
+      "lat": 32.067716,
+      "lon": 34.791033
+    }
+  ]
+}

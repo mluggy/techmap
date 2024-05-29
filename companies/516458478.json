@@ -1,0 +1,23 @@
+{
+  "name": "Forsea Foods",
+  "description": "Forsea offers innovative cell-cultured freshwater eel meat, revolutionizing a staple in Asian cuisine.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/forsea_foods-logo.webp",
+  "websiteUrl": "https://forseafoods.com/",
+  "careersUrl": "https://www.forseafoods.com/career-lobby",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "forsea",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מודעי יצחק",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.8997571,
+      "lon": 34.7877012
+    }
+  ]
+}

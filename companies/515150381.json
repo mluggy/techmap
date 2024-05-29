@@ -1,0 +1,23 @@
+{
+  "name": "Talksense",
+  "description": "Streamlining CRM data entry through voice, this solution enhances real-time data accuracy and organizational efficiency with quick deployment.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/talksense-logo.webp",
+  "websiteUrl": "https://www.talksense.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "talksense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון",
+      "houseNumber": 52,
+      "city": "גן יבנה",
+      "lat": 31.7951265,
+      "lon": 34.7188079
+    }
+  ]
+}

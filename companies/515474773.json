@@ -1,0 +1,23 @@
+{
+  "name": "Radgreen",
+  "description": "Empowering commercial buildings with advanced air quality management through a centralized and comprehensive monitoring system.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/radgreen-logo.webp",
+  "websiteUrl": "https://radgreen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "radgreen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנדס",
+      "houseNumber": 69,
+      "city": "רמת גן",
+      "lat": 32.0505477,
+      "lon": 34.8422027
+    }
+  ]
+}

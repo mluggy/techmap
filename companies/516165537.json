@@ -1,0 +1,23 @@
+{
+  "name": "Elastic Technologies Israel",
+  "description": "Unlock meaningful data insights and outcomes with an AI-powered enterprise search platform.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/elastic_technologies_israel-logo.webp",
+  "websiteUrl": "https://www.elastic.co/",
+  "careersUrl": "https://www.elastic.co/careers",
+  "isHiring": true,
+  "linkedinId": "elastic-co",
+  "crunchbaseId": null,
+  "finderId": "elastic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 48,
+      "city": "תל אביב - יפו",
+      "lat": 32.0631601,
+      "lon": 34.7803411
+    }
+  ]
+}

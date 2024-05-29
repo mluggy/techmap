@@ -1,0 +1,23 @@
+{
+  "name": "Apiiro",
+  "description": "Specializing in simplifying software security, this company helps streamline codebase management and enforce regulatory compliance efficiently.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/apiiro-logo.webp",
+  "websiteUrl": "https://apiiro.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "apiiro",
+  "crunchbaseId": null,
+  "finderId": "apiiro",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

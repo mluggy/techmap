@@ -1,0 +1,23 @@
+{
+  "name": "Olive X Press",
+  "description": "A device for pressing olive oil that is designed to fit on countertops.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/olive_x_press-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "olive-x-press",
+  "crunchbaseId": null,
+  "finderId": "olive-x-press",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המנורה",
+      "houseNumber": 4,
+      "city": "נורדיה",
+      "lat": 32.3152806,
+      "lon": 34.8949552
+    }
+  ]
+}

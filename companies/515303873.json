@@ -1,0 +1,23 @@
+{
+  "name": "Algobrix",
+  "description": "A coding game for children that combines building robots with interactive programming through coding bricks.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/algobrix-logo.webp",
+  "websiteUrl": "https://www.algobrix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "algobrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דמארי שושנה",
+      "houseNumber": 9,
+      "city": "כפר סבא",
+      "lat": 32.1867794,
+      "lon": 34.8944845
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Elgo Irrigation",
+  "description": "Founded in 1906, this company revolutionized Israeli irrigation as the inventor of the sprinkler.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/elgo_irrigation_ltd-logo.webp",
+  "websiteUrl": "https://www.elgo.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "elgo-irrigation",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוהם-פארק התעשייה",
+      "houseNumber": 4,
+      "city": "קיסריה",
+      "lat": 32.482164404638915,
+      "lon": 34.94609143290146
+    }
+  ]
+}

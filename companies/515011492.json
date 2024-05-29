@@ -1,0 +1,23 @@
+{
+  "name": "Zuta Labs",
+  "description": "Developers of the Robotic Printer, currently not available for purchase, cautioning against unauthorized sales.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/zuta_labs-logo.webp",
+  "websiteUrl": "https://www.zutalabs.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "zuta-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.7545045,
+      "lon": 35.2172163
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Maverick Medical AI",
+  "description": "An AI-powered platform that independently learns and performs medical coding.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/maverick_medical_ai-logo.webp",
+  "websiteUrl": "https://maverick-ai.com/",
+  "careersUrl": "https://maverick-ai.com/maverick-medical-ai-jobs-career-opportunities/",
+  "isHiring": true,
+  "linkedinId": "maverick-medical-ai",
+  "crunchbaseId": "maverick-medical-ai",
+  "finderId": "maverick-medical-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגליל",
+      "houseNumber": 10,
+      "city": "פרדס חנה-כרכור",
+      "lat": 32.4806629,
+      "lon": 34.9872327
+    }
+  ]
+}

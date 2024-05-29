@@ -1,0 +1,23 @@
+{
+  "name": "Scisparc",
+  "description": "An experienced team collaborates with distinguished scientific advisors to advance drug development endeavors.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/scisparc-logo.webp",
+  "websiteUrl": "https://scisparc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "therapix-biosciences",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ולנברג ראול",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.1105162,
+      "lon": 34.8376966
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Vacayz",
+  "description": "Premier vacation rental management offering comprehensive services and 24/7 support for luxury homes in Scottsdale.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/vacayz-logo.webp",
+  "websiteUrl": "https://www.vacayaz.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vacayz",
+  "crunchbaseId": null,
+  "finderId": "vacayz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אילת",
+      "houseNumber": 61,
+      "city": "תל אביב - יפו",
+      "lat": 32.0597437,
+      "lon": 34.76674105273763
+    }
+  ]
+}

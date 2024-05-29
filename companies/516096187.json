@@ -1,0 +1,23 @@
+{
+  "name": "Nanose Medical",
+  "description": "A renowned nanotechnology expert and professor pioneers non-invasive disease diagnosis technology.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/nanose_medical-logo.webp",
+  "websiteUrl": "https://nanosemed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nanose-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 45,
+      "city": "נתניה",
+      "lat": 32.2840942,
+      "lon": 34.8606134
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Flux Life",
+  "description": "A decentralized cloud platform featuring user-operated, scalable, and globally distributed computational nodes.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/flux_life-logo.webp",
+  "websiteUrl": "https://runonflux.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "flux",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ארלוזורוב",
+      "houseNumber": 111,
+      "city": "תל אביב - יפו",
+      "lat": 32.084431,
+      "lon": 34.786971
+    }
+  ]
+}

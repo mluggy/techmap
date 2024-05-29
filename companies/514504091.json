@@ -1,0 +1,23 @@
+{
+  "name": "Dbs H",
+  "description": "Providing seamless data integration solutions for both SQL and NoSQL databases.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/dbs_h-logo.webp",
+  "websiteUrl": "https://www.dbs-h.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "dbs-h",
+  "crunchbaseId": null,
+  "finderId": "dbs-h",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אנוסי משהד",
+      "houseNumber": 5,
+      "city": "ירושלים",
+      "lat": 31.7447622,
+      "lon": 35.232965
+    }
+  ]
+}

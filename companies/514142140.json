@@ -1,0 +1,23 @@
+{
+  "name": "Plus 500",
+  "description": "A platform for trading multiple types of assets.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/plus_500-logo.webp",
+  "websiteUrl": "https://us.plus500.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "plus500",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מת\"ם",
+      "houseNumber": 10,
+      "city": "חיפה",
+      "lat": 32.78885186136649,
+      "lon": 34.959076941226385
+    }
+  ]
+}

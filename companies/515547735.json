@@ -1,0 +1,23 @@
+{
+  "name": "Verbit",
+  "description": "Audio and Video Captioning and Transcription Services.",
+  "categoryId": 1,
+  "size": "l",
+  "logoFile": "logos/verbit_software-logo.webp",
+  "websiteUrl": "https://verbit.ai/",
+  "careersUrl": "https://verbit.ai/careers-listing/",
+  "isHiring": true,
+  "linkedinId": "verbit",
+  "crunchbaseId": null,
+  "finderId": "verbit-software",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.08005635,
+      "lon": 34.799938614641945
+    }
+  ]
+}

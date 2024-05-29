@@ -1,0 +1,23 @@
+{
+  "name": "Pentaxi",
+  "description": "An innovator in urban air mobility, providing safe, accessible, and sustainable eVTOL transportation for a cleaner, more enjoyable commute.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/pentaxi-logo.webp",
+  "websiteUrl": "https://pentaxi.aero/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "innovaero",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מאיר אריאל",
+      "houseNumber": 4,
+      "city": "נתניה",
+      "lat": 32.28154967292362,
+      "lon": 34.87388058016155
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Leadspace",
+  "description": "Leverage enriched data from top B2B sources to enhance campaign segmentation, validate leads, and score them at both company and buying center levels.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/leadspace-logo.webp",
+  "websiteUrl": "https://www.leadspace.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "leadspace",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 4,
+      "city": "הוד השרון",
+      "lat": 32.1312727,
+      "lon": 34.896831
+    }
+  ]
+}

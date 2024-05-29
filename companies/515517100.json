@@ -1,0 +1,23 @@
+{
+  "name": "Kiami",
+  "description": "An online retailer offering affordable clothing, shoes, lingerie, maternity wear, plus sizes, and bedding for the entire family.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/kiami-logo.webp",
+  "websiteUrl": "https://www.kiabi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kiami",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רום יעל",
+      "houseNumber": 3,
+      "city": "פתח תקווה",
+      "lat": 32.0990658,
+      "lon": 34.88073582934503
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Schneider Electric Israel",
+  "description": "Schneider Electric is a global leader in energy management and automation, providing solutions that optimize energy usage, improve efficiency, and ensure sustainability.",
+  "categoryId": 17,
+  "size": "l",
+  "logoFile": "logos/schneider_electric_israel-logo.webp",
+  "websiteUrl": "https://www.se.com/",
+  "careersUrl": "https://www.se.com/us/en/about-us/careers/overview.jsp",
+  "isHiring": true,
+  "linkedinId": "schneider-electric",
+  "crunchbaseId": null,
+  "finderId": "schneider-electric",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המעלית",
+      "houseNumber": 2,
+      "city": "קדימה",
+      "lat": 32.2745434,
+      "lon": 34.9199989
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Legstate",
+  "description": "Offering preinstalled packages on DEMO systems, LegState leverages expert experience to showcase best practice solutions, streamlining implementation and minimizing errors.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/legstate-logo.webp",
+  "websiteUrl": "https://www.legstate.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "legstate",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ביל\"ו",
+      "houseNumber": 39,
+      "city": "רעננה",
+      "lat": 32.1798659,
+      "lon": 34.864688
+    }
+  ]
+}

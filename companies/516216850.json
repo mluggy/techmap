@@ -1,0 +1,23 @@
+{
+  "name": "Retrain AI",
+  "description": "Utilizing generative AI, our platform streamlines candidate sourcing, screening, and ranking while offering data-driven insights for strategic hiring.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/retrain_ai-logo.webp",
+  "websiteUrl": "https://www.retrain.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "retrain-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.06530465,
+      "lon": 34.784687671749694
+    }
+  ]
+}

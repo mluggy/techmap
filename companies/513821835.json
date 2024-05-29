@@ -1,0 +1,23 @@
+{
+  "name": "Checkmarx",
+  "description": "The industry leader in application security, they offer a comprehensive cloud-native platform to mitigate risks in modern software, including proprietary and open source code, APIs, and infrastructure as code.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/checkmarx-logo.webp",
+  "websiteUrl": "https://checkmarx.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "checkmarx",
+  "crunchbaseId": null,
+  "finderId": "checkmarx",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08254365,
+      "lon": 34.801384906098356
+    }
+  ]
+}

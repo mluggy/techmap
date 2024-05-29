@@ -1,0 +1,23 @@
+{
+  "name": "Nucleon Cyber",
+  "description": "Their technology helps organizations proactively detect and mitigate threats, enhancing overall security.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/nucleon_cyber-logo.webp",
+  "websiteUrl": "https://nucleon.sh/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "shieldlock",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1666204,
+      "lon": 34.9281644
+    }
+  ]
+}

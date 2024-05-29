@@ -1,0 +1,23 @@
+{
+  "name": "Alsomine",
+  "description": "A blockchain-based e-commerce platform transforming gift card solutions to boost revenue and liquidity while enhancing customer satisfaction.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/alsomine-logo.webp",
+  "websiteUrl": "https://www.alsomine.com/",
+  "careersUrl": "https://www.alsomine.com/careers",
+  "isHiring": true,
+  "linkedinId": "alsomine",
+  "crunchbaseId": "alsomine",
+  "finderId": "alsomine",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מצדה",
+      "houseNumber": 7,
+      "city": "בני ברק",
+      "lat": 32.0935847,
+      "lon": 34.8251159
+    }
+  ]
+}

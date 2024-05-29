@@ -1,0 +1,23 @@
+{
+  "name": "Cogme",
+  "description": "Boost your working memory and attention with personalized training, progress tracking, and dedicated coach support.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cogme-logo.webp",
+  "websiteUrl": "https://app.cogmed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cogme",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתיב האור",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.78785285,
+      "lon": 34.96565267465318
+    }
+  ]
+}

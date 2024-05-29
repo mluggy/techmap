@@ -1,0 +1,23 @@
+{
+  "name": "Prisma Photonics",
+  "description": "They ensure the continuous operation of essential infrastructure through advanced monitoring with existing optical fiber.",
+  "categoryId": 13,
+  "size": "m",
+  "logoFile": "logos/prisma_photonics-logo.webp",
+  "websiteUrl": "https://www.prismaphotonics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "prisma-photonics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' רוקח",
+      "houseNumber": 97,
+      "city": "תל אביב - יפו",
+      "lat": 32.1043282,
+      "lon": 34.8088651
+    }
+  ]
+}

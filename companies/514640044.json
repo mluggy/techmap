@@ -1,0 +1,23 @@
+{
+  "name": "Spivitech",
+  "description": "Our website enhances user experience by remembering preferences, ensuring functionality and security, personalizing your visit, and analyzing traffic.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/spivitech-logo.webp",
+  "websiteUrl": "https://www.spivi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "spivitech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השקמה",
+      "houseNumber": 2,
+      "city": "אזור",
+      "lat": 32.0320199,
+      "lon": 34.7973339
+    }
+  ]
+}

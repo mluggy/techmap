@@ -1,0 +1,23 @@
+{
+  "name": "Anchor Fintech",
+  "description": "A free, comprehensive podcast platform designed for creators.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/anchor_fintech-logo.webp",
+  "websiteUrl": "https://podcasters.spotify.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "anchor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.064654,
+      "lon": 34.785584
+    }
+  ]
+}

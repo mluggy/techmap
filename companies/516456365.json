@@ -1,0 +1,23 @@
+{
+  "name": "One Submit",
+  "description": "A platform for independent artists to submit their music.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/one_submit-logo.webp",
+  "websiteUrl": "https://www.one-submit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "one-submit",
+  "crunchbaseId": null,
+  "finderId": "one-submit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבשמים",
+      "houseNumber": 4,
+      "city": "גני תקווה",
+      "lat": 32.06530815,
+      "lon": 34.87973805
+    }
+  ]
+}

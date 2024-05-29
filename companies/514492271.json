@@ -1,0 +1,23 @@
+{
+  "name": "Healthwatch",
+  "description": "A new campaign promotes public input to address health inequalities in England's health and social care services.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/healthwatch-logo.webp",
+  "websiteUrl": "https://www.healthwatch.co.uk/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "healthwatch",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברקוביץ",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.078703,
+      "lon": 34.7870616
+    }
+  ]
+}

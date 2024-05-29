@@ -1,0 +1,23 @@
+{
+  "name": "Mirato",
+  "description": "An automated tool for pre-answering due diligence questionnaires, enhancing efficiency and scaling TPRM processes.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/mirato-logo.webp",
+  "websiteUrl": "https://mirato.com/",
+  "careersUrl": "https://mirato.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mirato",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

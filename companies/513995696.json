@@ -1,0 +1,23 @@
+{
+  "name": "Intuit Israel",
+  "description": "A global technology platform simplifying financial management and tax preparation for individuals and businesses with products like QuickBooks, TurboTax, and Mint.",
+  "categoryId": 10,
+  "size": "xl",
+  "logoFile": "logos/intuit-logo.webp",
+  "websiteUrl": "https://www.intuit.com/",
+  "careersUrl": "https://www.intuit.com/careers/",
+  "isHiring": true,
+  "linkedinId": "intuit",
+  "crunchbaseId": "intuit",
+  "finderId": "intuit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפסגות",
+      "houseNumber": 9,
+      "city": "פתח תקווה",
+      "lat": 32.097946,
+      "lon": 34.8551804
+    }
+  ]
+}

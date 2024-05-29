@@ -1,0 +1,23 @@
+{
+  "name": "Otoma",
+  "description": "Automated solutions streamline workflows and enhance productivity by minimizing human effort and maximizing creative potential.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/otoma-logo.webp",
+  "websiteUrl": "https://otoma.com/",
+  "careersUrl": "https://otoma.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "insightguard",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

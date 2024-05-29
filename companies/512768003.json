@@ -1,0 +1,23 @@
+{
+  "name": "Novocure Israel",
+  "description": "An innovative oncology firm developing Tumor Treating Fields therapy to combat cancer.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/novocure_israel-logo.webp",
+  "websiteUrl": "https://www.novocure.com/",
+  "careersUrl": "https://www.novocure.com/careers/",
+  "isHiring": true,
+  "linkedinId": "novocure-inc",
+  "crunchbaseId": null,
+  "finderId": "novocure",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חת נחום",
+      "houseNumber": 5,
+      "city": "טירת כרמל",
+      "lat": 32.783678,
+      "lon": 34.960601
+    }
+  ]
+}

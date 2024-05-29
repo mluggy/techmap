@@ -1,0 +1,23 @@
+{
+  "name": "Kemtai",
+  "description": "A cutting-edge digital fitness platform offering live feedback to improve exercise form and efficacy.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/kemtai-logo.webp",
+  "websiteUrl": "https://kemtai.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kemtai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קהילת קישינוב",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.108561228211585,
+      "lon": 34.825467433114504
+    }
+  ]
+}

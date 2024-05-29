@@ -1,0 +1,23 @@
+{
+  "name": "Red Hat Israel",
+  "description": "Red Hat is a leading provider of open-source enterprise software solutions, including Linux, cloud, container, and Kubernetes technologies.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/red_hat_israel-logo.webp",
+  "websiteUrl": "https://www.redhat.com",
+  "careersUrl": "https://www.redhat.com/en/jobs",
+  "isHiring": true,
+  "linkedinId": "red-hat",
+  "crunchbaseId": null,
+  "finderId": "red-hat",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפנינה",
+      "houseNumber": 8,
+      "city": "רעננה",
+      "lat": 32.1760349,
+      "lon": 34.8903837
+    }
+  ]
+}

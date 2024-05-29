@@ -1,0 +1,23 @@
+{
+  "name": "Pyrogss",
+  "description": "Enhance communication by seamlessly sending WhatsApp messages through web hook POST requests, integrating sticky notes, and utilizing message templates for efficiency.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/pyrogss-logo.webp",
+  "websiteUrl": "https://joni.pyrogss.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pyrogss",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דיזנגוף",
+      "houseNumber": 69,
+      "city": "תל אביב - יפו",
+      "lat": 32.0762702,
+      "lon": 34.7745048
+    }
+  ]
+}

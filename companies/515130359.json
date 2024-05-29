@@ -1,0 +1,23 @@
+{
+  "name": "Click Ins",
+  "description": "Vehicle Inspections Enhanced by Artificial Intelligence.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/click_ins-logo.webp",
+  "websiteUrl": "https://www.click-ins.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "Click-Ins",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הצורן",
+      "houseNumber": 4,
+      "city": "נתניה",
+      "lat": 32.2863673,
+      "lon": 34.8653462
+    }
+  ]
+}

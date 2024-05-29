@@ -1,0 +1,23 @@
+{
+  "name": "Segoma",
+  "description": "A web platform developed with create-react-app technology.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/segoma-logo.webp",
+  "websiteUrl": "https://www.segoma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "segoma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.1598236,
+      "lon": 34.8080456
+    }
+  ]
+}

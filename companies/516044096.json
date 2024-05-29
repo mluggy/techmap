@@ -1,0 +1,23 @@
+{
+  "name": "Homez Technologies",
+  "description": "A worldwide provider of turnkey, stylishly furnished apartments for flexible rental durations.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/homez_technologies-logo.webp",
+  "websiteUrl": "https://www.homez.com/",
+  "careersUrl": "https://www.homez.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "homez",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחווה",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.062283,
+      "lon": 34.764451
+    }
+  ]
+}

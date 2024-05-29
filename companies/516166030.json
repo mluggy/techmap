@@ -1,0 +1,23 @@
+{
+  "name": "Excita Medical",
+  "description": "Medical device utilizing electrical pulses to stimulate muscles.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/excita_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "excita-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית תבור",
+      "houseNumber": 2,
+      "city": "יקנעם עילית",
+      "lat": 32.6459074,
+      "lon": 35.0969814
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Zoomin Software",
+  "description": "They provide AI-driven solutions for efficient knowledge management and personalized user experiences.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/zoomin_software-logo.webp",
+  "websiteUrl": "https://www.zoominsoftware.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "zoomin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 124,
+      "city": "תל אביב - יפו",
+      "lat": 32.0869162,
+      "lon": 34.7822126
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Feelbetter",
+  "description": "A multidisciplinary therapeutic team offering specialized services in psychology, art therapy, mindfulness-based psychotherapy, and third-wave CBT.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/feelbetter-logo.webp",
+  "websiteUrl": "https://www.feelbetter.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "feelbetter",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מרים החשמונאית",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.167309314499974,
+      "lon": 34.804659250302514
+    }
+  ]
+}

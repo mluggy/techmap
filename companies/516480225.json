@@ -1,0 +1,23 @@
+{
+  "name": "Hypeindex",
+  "description": "Offering cutting-edge tech for real-time news analysis to stay ahead in finance and capitalize on market trends.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/hypeindex-logo.webp",
+  "websiteUrl": "https://www.hypeindex.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hypeindex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עטרות",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.0741566,
+      "lon": 34.8198988
+    }
+  ]
+}

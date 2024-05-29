@@ -1,0 +1,23 @@
+{
+  "name": "Addon Optics",
+  "description": "A service specializing in multifocal lenses.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/addon_optics-logo.webp",
+  "websiteUrl": "https://www.addonnetworks.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "addon-optics",
+  "finderId": "addon-optics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 30,
+      "city": "נתניה",
+      "lat": 32.283315349999995,
+      "lon": 34.8595275
+    }
+  ]
+}

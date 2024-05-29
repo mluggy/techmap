@@ -1,0 +1,23 @@
+{
+  "name": "Wise Mon",
+  "description": "Solutions for managing and monitoring your network access and inventory.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/wise_mon-logo.webp",
+  "websiteUrl": "https://wise-mon.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wise-mon",
+  "crunchbaseId": null,
+  "finderId": "wise-mon-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ניל\"י",
+      "houseNumber": 3,
+      "city": "חולון",
+      "lat": 32.0255013,
+      "lon": 34.7830006
+    }
+  ]
+}

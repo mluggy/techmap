@@ -1,0 +1,23 @@
+{
+  "name": "Spiritt Labs",
+  "description": "A subscription service enabling entrepreneurs to create full-scale software applications by simply detailing their vision, with no coding or design skills required.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/spiritt_labs-logo.webp",
+  "websiteUrl": "https://spiritt.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "spiritt-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 37,
+      "city": "תל אביב - יפו",
+      "lat": 32.0639619,
+      "lon": 34.7738712
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cirotta Tech",
+  "description": "A phone case that protects against hacking.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/cirotta_tech-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cirotta",
+  "crunchbaseId": "cirotta",
+  "finderId": "cirotta",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 15,
+      "city": "רעננה",
+      "lat": 32.19630935,
+      "lon": 34.88423473965118
+    }
+  ]
+}

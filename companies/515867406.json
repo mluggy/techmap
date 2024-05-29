@@ -1,0 +1,23 @@
+{
+  "name": "Thinkz",
+  "description": "Developing AI-driven technology, this company specializes in authenticating real-time data through its innovative Live Data Verification system.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/thinkz-logo.webp",
+  "websiteUrl": "https://thinkz.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "thinkz-iot-com",
+  "crunchbaseId": null,
+  "finderId": "thinkz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

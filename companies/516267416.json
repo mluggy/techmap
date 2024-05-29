@@ -1,0 +1,23 @@
+{
+  "name": "Akooda Tech",
+  "description": "Delivering insights for informed decision-making across processes, personnel, customers, and resources.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/akooda_tech-logo.webp",
+  "websiteUrl": "https://www.akooda.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "akooda",
+  "crunchbaseId": "akooda",
+  "finderId": "akooda",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 100,
+      "city": "תל אביב - יפו",
+      "lat": 32.069111,
+      "lon": 34.786789
+    }
+  ]
+}

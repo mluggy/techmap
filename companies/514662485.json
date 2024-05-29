@@ -1,0 +1,23 @@
+{
+  "name": "Opinion Stage",
+  "description": "Enabling collaborative and visually appealing content creation that drives customer insights and engagement while fostering continuous product improvement.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/opinion_stage-logo.webp",
+  "websiteUrl": "https://www.opinionstage.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "opinion-stage",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זמורה",
+      "houseNumber": 8,
+      "city": "שוהם",
+      "lat": 32.0081684,
+      "lon": 34.949276
+    }
+  ]
+}

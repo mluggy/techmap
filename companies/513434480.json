@@ -1,0 +1,23 @@
+{
+  "name": "Pronto Diagnostics",
+  "description": "מעבדה המספקת את כל סוגי הבדיקות הגנטיות להריון בשלווה ובביטחון.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/pronto_diagnostics-logo.webp",
+  "websiteUrl": "https://www.prontodiagnostics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pronto-diagnostics",
+  "crunchbaseId": null,
+  "finderId": "pronto-diagnostics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רח 2233",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.0376994,
+      "lon": 34.7489382
+    }
+  ]
+}

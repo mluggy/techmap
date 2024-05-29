@@ -1,0 +1,23 @@
+{
+  "name": "8 Fig",
+  "description": "This company offers customized financial support to help online businesses grow while preserving brand integrity.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/8_fig-logo.webp",
+  "websiteUrl": "https://www.8fig.co/",
+  "careersUrl": "https://www.8fig.co/jobs/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "8fig",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.08005635,
+      "lon": 34.799938614641945
+    }
+  ]
+}

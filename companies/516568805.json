@@ -1,0 +1,23 @@
+{
+  "name": "Eversense Sps",
+  "description": "A long-lasting CGM system providing continuous glucose monitoring for up to 180 days for individuals with diabetes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/eversense_sps-logo.webp",
+  "websiteUrl": "https://global.eversensediabetes.com/",
+  "careersUrl": "https://www.senseonics.com/careers/benefits",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eversense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגפן",
+      "houseNumber": 1,
+      "city": "פתח תקווה",
+      "lat": 32.0754864,
+      "lon": 34.8633524
+    }
+  ]
+}

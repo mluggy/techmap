@@ -1,0 +1,23 @@
+{
+  "name": "Aero Crs",
+  "description": "Airline booking solutions hosted on the cloud.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/aero_crs-logo.webp",
+  "websiteUrl": "https://www.go7.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "aerocrs",
+  "finderId": "aerocrs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.0707597,
+      "lon": 34.7892768
+    }
+  ]
+}

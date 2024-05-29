@@ -1,0 +1,23 @@
+{
+  "name": "Nrgene Technologies",
+  "description": "Leveraging genomic data and AI, this company swiftly identifies optimal solutions for sustainability.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/nrgene_technologies-logo.webp",
+  "websiteUrl": "https://nrgene.com/",
+  "careersUrl": "https://nrgene.com/careers/",
+  "isHiring": true,
+  "linkedinId": "nrgene-ltd",
+  "crunchbaseId": null,
+  "finderId": "nrgene",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולדה מאיר",
+      "houseNumber": 5,
+      "city": "נס ציונה",
+      "lat": 31.9160002,
+      "lon": 34.8020721
+    }
+  ]
+}

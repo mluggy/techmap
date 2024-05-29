@@ -1,0 +1,23 @@
+{
+  "name": "Supplant",
+  "description": "Experience innovative crop management through our extensive plant database built from global sensor data.",
+  "categoryId": 13,
+  "size": "m",
+  "logoFile": "logos/supplant-logo.webp",
+  "websiteUrl": "https://supplant.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "SupPlant",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד רבין יצחק",
+      "houseNumber": 1,
+      "city": "עפולה",
+      "lat": 32.6236389,
+      "lon": 35.3176342
+    }
+  ]
+}

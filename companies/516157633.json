@@ -1,0 +1,23 @@
+{
+  "name": "Profutech",
+  "description": "A revolutionary smart kitchen appliance offering fully automated storage and preparation of meals with integrated features including freezing, cooking, and steaming.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/profutech-logo.webp",
+  "websiteUrl": "https://profutech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "profutech",
+  "finderId": "profutech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבינוביץ יהושע",
+      "houseNumber": 72,
+      "city": "חולון",
+      "lat": 31.996045631219197,
+      "lon": 34.774991546183216
+    }
+  ]
+}

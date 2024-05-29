@@ -1,0 +1,23 @@
+{
+  "name": "Green Fleet",
+  "description": "Online System for Managing Mass Transportation Operations.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/green_fleet-logo.webp",
+  "websiteUrl": "https://www.greenfleetec.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "green-fleet",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מצדה",
+      "houseNumber": 7,
+      "city": "בני ברק",
+      "lat": 32.0935847,
+      "lon": 34.8251159
+    }
+  ]
+}

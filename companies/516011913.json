@@ -1,0 +1,23 @@
+{
+  "name": "Tagim Investments",
+  "description": "A system that tracks and maintains livestock health.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/tagim_investments-logo.webp",
+  "websiteUrl": "https://www.tagimtech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "tagim",
+  "crunchbaseId": "tagim",
+  "finderId": "tagim",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מעש",
+      "houseNumber": 23,
+      "city": "ירושלים",
+      "lat": 31.8576017,
+      "lon": 35.2168482
+    }
+  ]
+}

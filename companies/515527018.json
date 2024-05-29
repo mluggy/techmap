@@ -1,0 +1,23 @@
+{
+  "name": "Lama Consulting",
+  "description": "A leading auction house for acquiring and selling Modern and Contemporary Art and Design.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/lama_consulting-logo.webp",
+  "websiteUrl": "https://www.lamodern.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lama",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקסטל",
+      "houseNumber": 4,
+      "city": "אור עקיבא",
+      "lat": 32.5201675,
+      "lon": 34.9186564
+    }
+  ]
+}

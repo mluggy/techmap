@@ -1,0 +1,23 @@
+{
+  "name": "Therapin",
+  "description": "Medications Derived from Cannabis.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/therapin-logo.webp",
+  "websiteUrl": "https://www.therapinhealth.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "therapin-ltd",
+  "crunchbaseId": "therapin",
+  "finderId": "hi-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העליה",
+      "houseNumber": null,
+      "city": "רמות מנשה",
+      "lat": 32.5984699,
+      "lon": 35.0542315
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Citi Venture Tel Aviv",
+  "description": "Provides comprehensive financial services, including credit cards, banking, savings accounts, and mortgages.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/citi_venture_tel_aviv-logo.webp",
+  "websiteUrl": "https://www.citi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "citi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 91,
+      "city": "תל אביב - יפו",
+      "lat": 32.069753,
+      "lon": 34.7830543
+    }
+  ]
+}

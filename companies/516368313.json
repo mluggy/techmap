@@ -1,0 +1,23 @@
+{
+  "name": "Livez AI",
+  "description": "Our mobile app provides screenings, early detection, and personalized resources to prevent diseases and reduce healthcare claims.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/livez_ai-logo.webp",
+  "websiteUrl": "https://livez.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "livez",
+  "crunchbaseId": "livez",
+  "finderId": "p4-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

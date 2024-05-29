@@ -1,0 +1,23 @@
+{
+  "name": "Olehpay",
+  "description": "Facilitates fee-free USD to NIS money transfers to any Israeli account at competitive exchange rates.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/olehpay-logo.webp",
+  "websiteUrl": "https://olehpay.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "olehpay",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יפו",
+      "houseNumber": 155,
+      "city": "ירושלים",
+      "lat": 31.7866243,
+      "lon": 35.2098659
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sentra",
+  "description": "An event was celebrated with festive joy during the Renewal Week at the Holy Metropolis of Kleisoura in Kastoria.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/sentra-logo.webp",
+  "websiteUrl": "https://sentra.com.gr/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sentra",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 156,
+      "city": "תל אביב - יפו",
+      "lat": 32.0797181,
+      "lon": 34.7957816
+    }
+  ]
+}

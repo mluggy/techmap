@@ -1,0 +1,23 @@
+{
+  "name": "Adstrix",
+  "description": "Leveraging trusted data sources and proprietary insights, our platform delivers precise audience-targeted recommendations for your advertising needs.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/adstrix-logo.webp",
+  "websiteUrl": "http://www.adstrix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "adstrix",
+  "finderId": "adstrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 15,
+      "city": "קיסריה",
+      "lat": 32.4811959,
+      "lon": 34.9481254
+    }
+  ]
+}

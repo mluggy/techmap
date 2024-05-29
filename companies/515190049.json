@@ -1,0 +1,23 @@
+{
+  "name": "Cclearly",
+  "description": "Specializing in privacy-first digital marketing, this company's AI-driven technology optimizes campaigns using non-PII data elements and historical insights.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/cclearly-logo.webp",
+  "websiteUrl": "http://www.cclearly.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cclearly",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגפן",
+      "houseNumber": 37,
+      "city": "רמת השרון",
+      "lat": 32.1299383,
+      "lon": 34.846137
+    }
+  ]
+}

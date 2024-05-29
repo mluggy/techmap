@@ -1,0 +1,23 @@
+{
+  "name": "Payosu",
+  "description": "A billing and payment platform tailored for freelancers.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/payosu-logo.webp",
+  "websiteUrl": "https://www.payosu.com/",
+  "careersUrl": "https://valasciences.com/careers/",
+  "isHiring": true,
+  "linkedinId": "payosu",
+  "crunchbaseId": null,
+  "finderId": "vala",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בורלא יהודה",
+      "houseNumber": 5,
+      "city": "רעננה",
+      "lat": 32.1916005,
+      "lon": 34.8647952
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Gemina",
+  "description": "Leveraging advanced Deep Learning, this API automates data entry for accounting services by extracting over 85% of invoice data with exceptional accuracy.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/gemina-logo.webp",
+  "websiteUrl": "https://www.gemina.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gemina",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המתנחלים גני יהודה",
+      "houseNumber": 12,
+      "city": "סביון",
+      "lat": 32.04311446221043,
+      "lon": 34.87237356121328
+    }
+  ]
+}

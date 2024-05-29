@@ -1,0 +1,23 @@
+{
+  "name": "Actics Medical",
+  "description": "Optimizing care for foot disorders linked to diabetes, orthopedic, and neural conditions, significantly reducing costs and resources.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/actics_medical-logo.webp",
+  "websiteUrl": "https://www.acticsmedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "actics-medical",
+  "crunchbaseId": "actics-medical",
+  "finderId": "actics-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הזית",
+      "houseNumber": 12,
+      "city": "רחובות",
+      "lat": 31.9018689,
+      "lon": 34.7999654
+    }
+  ]
+}

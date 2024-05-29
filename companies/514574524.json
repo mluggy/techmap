@@ -1,0 +1,23 @@
+{
+  "name": "Turpaz Industries",
+  "description": "An American company specializing in creating fragrances and flavors.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/turpaz_industries-logo.webp",
+  "websiteUrl": "https://turpaz.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "turpaz-industries",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הלהב",
+      "houseNumber": 2,
+      "city": "חולון",
+      "lat": 32.0065596,
+      "lon": 34.8004787
+    }
+  ]
+}

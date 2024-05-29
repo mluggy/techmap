@@ -1,0 +1,23 @@
+{
+  "name": "Cropx Technologies",
+  "description": "An intuitive agronomy platform harnessing AI and machine learning to optimize farm management through real-time data integration.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/cropx_technologies-logo.webp",
+  "websiteUrl": "https://cropx.com/",
+  "careersUrl": "https://cropx.com/careers/",
+  "isHiring": true,
+  "linkedinId": "cropx-ltd",
+  "crunchbaseId": null,
+  "finderId": "cropx",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גבורי ישראל",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.276021814444555,
+      "lon": 34.86095337458108
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Entor Software",
+  "description": "Entor revolutionizes B2B analytics by enhancing usage data with business context to drive growth.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/entor_software-logo.webp",
+  "websiteUrl": "https://www.entor.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "entor",
+  "crunchbaseId": "entor-fcc9",
+  "finderId": "entor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אד\"ם הכהן",
+      "houseNumber": 16,
+      "city": "תל אביב - יפו",
+      "lat": 32.084887,
+      "lon": 34.777334
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Armis Security",
+  "description": "A prominent ASM platform leveraging a dual-method strategy for asset discovery and management.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/armis_security-logo.webp",
+  "websiteUrl": "https://www.armis.com/",
+  "careersUrl": "https://www.armis.com/armis-careers/",
+  "isHiring": true,
+  "linkedinId": "armis-security",
+  "crunchbaseId": null,
+  "finderId": "armis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ארניה אסוולדו",
+      "houseNumber": 29,
+      "city": "תל אביב - יפו",
+      "lat": 32.0693445,
+      "lon": 34.7860947
+    }
+  ]
+}

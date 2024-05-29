@@ -1,0 +1,23 @@
+{
+  "name": "Esti Friedman Investments",
+  "description": "A unified app designed for content creators to maintain consistent aesthetics across social media platforms.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/esti_friedman_investments-logo.webp",
+  "websiteUrl": "https://esti.app/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "estiapp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרב שאולזון",
+      "houseNumber": 58,
+      "city": "ירושלים",
+      "lat": 31.7860095,
+      "lon": 35.1739445
+    }
+  ]
+}

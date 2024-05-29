@@ -1,0 +1,23 @@
+{
+  "name": "Reigo Investments",
+  "description": "A platform for investing in real estate.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/reigo_investments-logo.webp",
+  "websiteUrl": "https://reigo-inv.com/",
+  "careersUrl": "https://reigo-inv.com/careers/research-team-leader-3/",
+  "isHiring": true,
+  "linkedinId": "reigo-investments",
+  "crunchbaseId": "reigo-investments",
+  "finderId": "reigo-investments",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החילזון",
+      "houseNumber": 5,
+      "city": "רמת גן",
+      "lat": 32.0861321,
+      "lon": 34.8040698
+    }
+  ]
+}

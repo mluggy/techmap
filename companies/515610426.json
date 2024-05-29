@@ -1,0 +1,23 @@
+{
+  "name": "Five Sigma",
+  "description": "Platform for managing insurance claims using artificial intelligence.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/five_sigma-logo.webp",
+  "websiteUrl": "https://fivesigmalabs.com/",
+  "careersUrl": "https://fivesigmalabs.com/careers/",
+  "isHiring": true,
+  "linkedinId": "five-sigma",
+  "crunchbaseId": null,
+  "finderId": "five-sigma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.070501,
+      "lon": 34.785145
+    }
+  ]
+}

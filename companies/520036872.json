@@ -1,0 +1,23 @@
+{
+  "name": "Nice",
+  "description": "Solutions for managing customer relationships and mitigating risks.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/nice-logo.webp",
+  "websiteUrl": "https://www.nice.com/",
+  "careersUrl": "https://www.nice.com/careers",
+  "isHiring": true,
+  "linkedinId": "nice-systems",
+  "crunchbaseId": null,
+  "finderId": "nice-systems",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זרחין אלכסנדר",
+      "houseNumber": 13,
+      "city": "רעננה",
+      "lat": 32.1976788,
+      "lon": 34.8811941
+    }
+  ]
+}

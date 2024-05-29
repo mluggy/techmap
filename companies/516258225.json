@@ -1,0 +1,23 @@
+{
+  "name": "Velotix",
+  "description": "Our platform facilitates efficient data access management with a front-end dashboard and an automated policy repository driven by symbolic AI.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/velotix-logo.webp",
+  "websiteUrl": "https://www.velotix.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "velotix",
+  "crunchbaseId": "velotix",
+  "finderId": "velotix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין מנחם",
+      "houseNumber": 14,
+      "city": "רמת גן",
+      "lat": 32.0838947,
+      "lon": 34.79965
+    }
+  ]
+}

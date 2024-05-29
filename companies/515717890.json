@@ -1,0 +1,23 @@
+{
+  "name": "Notraffic",
+  "description": "Revolutionizing urban mobility, this AI-driven platform optimizes traffic signals to enhance city grid connectivity and address modern traffic issues.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/notraffic-logo.webp",
+  "websiteUrl": "https://notraffic.tech/",
+  "careersUrl": "https://notraffic.tech/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "notraffic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 53,
+      "city": "תל אביב - יפו",
+      "lat": 32.062391,
+      "lon": 34.791838
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Aerotactix Israel",
+  "description": "Developing advanced counter-drone technology to safeguard vital areas like airports, borders, and military installations.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/aerotactix_israel-logo.webp",
+  "websiteUrl": "https://www.aerotactics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "aerotactix",
+  "finderId": "aerotactix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 58,
+      "city": "פתח תקווה",
+      "lat": 32.0953971,
+      "lon": 34.8531501
+    }
+  ]
+}

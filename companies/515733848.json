@@ -1,0 +1,23 @@
+{
+  "name": "Ix Den",
+  "description": "The system monitors equipment status and verifies sensor accuracy to enhance operational protection.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/ix_den-logo.webp",
+  "websiteUrl": "https://ixden.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ix-den",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין מנחם",
+      "houseNumber": 11,
+      "city": "רמת גן",
+      "lat": 32.0862661,
+      "lon": 34.800174909775976
+    }
+  ]
+}

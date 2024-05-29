@@ -1,0 +1,23 @@
+{
+  "name": "Lavaa",
+  "description": "Offering top-notch subwoofers, audio accessories, internet cables, PCs, and DVRs to elevate your audio experience.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/lavaa-logo.webp",
+  "websiteUrl": "https://lavaaa.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lavaa",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שומשום",
+      "houseNumber": 7,
+      "city": "אבן יהודה",
+      "lat": 32.276492,
+      "lon": 34.8915466
+    }
+  ]
+}

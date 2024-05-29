@@ -1,0 +1,23 @@
+{
+  "name": "Omplant",
+  "description": "Providing a free resource to help dental professionals identify implants through patient radiographs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/omplant-logo.webp",
+  "websiteUrl": "https://whatimplantisthat.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "omplant",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד הגעתון",
+      "houseNumber": 48,
+      "city": "נהרייה",
+      "lat": 33.0061707,
+      "lon": 35.097461
+    }
+  ]
+}

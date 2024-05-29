@@ -1,0 +1,23 @@
+{
+  "name": "Lockoncam",
+  "description": "A patented system ensuring personal meeting security through encrypted video documentation accessible only with the original participants' keys.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/lockoncam-logo.webp",
+  "websiteUrl": "https://www.lockoncam.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lockoncam",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המזמור",
+      "houseNumber": 2,
+      "city": "פרדס חנה-כרכור",
+      "lat": 32.4862303,
+      "lon": 34.9936062
+    }
+  ]
+}

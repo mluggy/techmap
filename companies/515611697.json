@@ -1,0 +1,23 @@
+{
+  "name": "Aquant Technologies",
+  "description": "Offering AI-driven recommendations grounded in deep contextual insights from comprehensive service data, documentation, and user interactions.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/aquant_technologies-logo.webp",
+  "websiteUrl": "https://www.aquant.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aquant-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 82,
+      "city": "תל אביב - יפו",
+      "lat": 32.067605,
+      "lon": 34.785948
+    }
+  ]
+}

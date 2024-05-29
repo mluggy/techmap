@@ -1,0 +1,23 @@
+{
+  "name": "Albarius",
+  "description": "We streamline complex policy creation and ensure the efficiency of daily policy operations.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/albarius-logo.webp",
+  "websiteUrl": "https://albarius.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "albarius-security",
+  "crunchbaseId": null,
+  "finderId": "albarius",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היצירה",
+      "houseNumber": 12,
+      "city": "רמת גן",
+      "lat": 32.0848749,
+      "lon": 34.8030899
+    }
+  ]
+}

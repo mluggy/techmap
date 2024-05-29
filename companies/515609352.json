@@ -1,0 +1,23 @@
+{
+  "name": "Prosper 3 D",
+  "description": "A platform for managing orders, items, and user accounts with detailed statistics and history tracking.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/prosper_3_d-logo.webp",
+  "websiteUrl": "https://customers.prosper3d.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "prosper3d",
+  "crunchbaseId": null,
+  "finderId": "prosper3d",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 116,
+      "city": "תל אביב - יפו",
+      "lat": 32.073165,
+      "lon": 34.795106
+    }
+  ]
+}

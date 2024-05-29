@@ -1,0 +1,23 @@
+{
+  "name": "Arcadia Math",
+  "description": "A robust account system offering automatic privacy protection, advanced spam filters, and security alerts to safeguard your personal information and alert you of potential threats.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/arcadia_math-logo.webp",
+  "websiteUrl": "https://myaccount.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "arcadia-math",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ההדס",
+      "houseNumber": 15,
+      "city": "בנימינה",
+      "lat": 32.52271358204358,
+      "lon": 34.940800275381385
+    }
+  ]
+}

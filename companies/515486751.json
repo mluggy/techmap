@@ -1,0 +1,23 @@
+{
+  "name": "Technopulm",
+  "description": "The company offers a unique handheld device for comprehensive lung function diagnostics, enabling remote healthcare solutions for both clinics and home use.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/technopulm-logo.webp",
+  "websiteUrl": "https://t-pulm.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "technopulm1",
+  "crunchbaseId": null,
+  "finderId": "technopulm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חכם עפג'ין אברהם",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.887358194597223,
+      "lon": 34.824850274528515
+    }
+  ]
+}

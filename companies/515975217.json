@@ -1,0 +1,23 @@
+{
+  "name": "Hi Auto",
+  "description": "Leading in conversational AI for nationwide QSRs, this company enhances customer experiences and boosts order value with 94% accuracy in noisy environments.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/hi_auto-logo.webp",
+  "websiteUrl": "https://hi.auto/",
+  "careersUrl": "https://hi.auto/careers/",
+  "isHiring": true,
+  "linkedinId": "hi-auto",
+  "crunchbaseId": null,
+  "finderId": "hi-auto",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכפר",
+      "houseNumber": 6,
+      "city": "קריית אונו",
+      "lat": 32.0545578,
+      "lon": 34.8532831
+    }
+  ]
+}

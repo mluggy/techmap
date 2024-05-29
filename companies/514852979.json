@@ -1,0 +1,23 @@
+{
+  "name": "Sap Port Business Solutions",
+  "description": "Streamlining travel, expense, and invoice processes for enhanced oversight and control.",
+  "categoryId": 14,
+  "size": "xl",
+  "logoFile": "logos/sap_port_business_solutions-logo.webp",
+  "websiteUrl": "https://www.concur.com/",
+  "careersUrl": "https://jobs.sap.com/",
+  "isHiring": true,
+  "linkedinId": "sap",
+  "crunchbaseId": null,
+  "finderId": "sap",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד הרכס",
+      "houseNumber": 13,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9228472,
+      "lon": 34.9906948
+    }
+  ]
+}

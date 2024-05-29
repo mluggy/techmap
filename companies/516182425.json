@@ -1,0 +1,23 @@
+{
+  "name": "Circuit Bio",
+  "description": "A synthetic biology firm advancing gene circuit technology for targeted cancer immunotherapy, leveraging a platform that enables the production of immune-stimulating proteins.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/circuit_bio-logo.webp",
+  "websiteUrl": "https://circuitbiotech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "circuit-bio",
+  "finderId": "circuit-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רמון אילן",
+      "houseNumber": 2,
+      "city": "נס ציונה",
+      "lat": 31.9177299,
+      "lon": 34.80439671200948
+    }
+  ]
+}

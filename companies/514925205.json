@@ -1,0 +1,23 @@
+{
+  "name": "Granalix Bio Technologies",
+  "description": "A biotech firm based in Jerusalem specializing in innovative solutions with dedicated sales and support services.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/granalix_bio_technologies-logo.webp",
+  "websiteUrl": "https://int.granalix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "granalix-bio-technologies-ltd",
+  "crunchbaseId": null,
+  "finderId": "granalix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 6,
+      "city": "ירושלים",
+      "lat": 31.7544321,
+      "lon": 35.2168529
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Accellta",
+  "description": "This company specializes in efficient, custom 3D suspension culturing of high-quality stem cells for drug discovery, regenerative medicine, and research, significantly cutting production time and costs.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/accellta-logo.webp",
+  "websiteUrl": "https://www.accellta.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "accellta-ltd.",
+  "crunchbaseId": null,
+  "finderId": "accellta",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד שיקגו",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.777619567625585,
+      "lon": 35.02418568819216
+    }
+  ]
+}

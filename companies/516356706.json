@@ -1,0 +1,23 @@
+{
+  "name": "Engini AI",
+  "description": "Promoting tech entrepreneurship through economic studies, policy insights, and advocacy at local and national levels.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/engini_ai-logo.webp",
+  "websiteUrl": "https://www.engine.is/",
+  "careersUrl": "https://www.engine.is/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "engini",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 28,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

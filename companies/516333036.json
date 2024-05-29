@@ -1,0 +1,23 @@
+{
+  "name": "Head Habitat",
+  "description": "Evaluation of Data in Mental Health Services.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/head_habitat-logo.webp",
+  "websiteUrl": "https://www.lowcountryhabitat.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "head-habitat",
+  "finderId": "head-habitat",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פני הגבעה",
+      "houseNumber": 27,
+      "city": "רמת גן",
+      "lat": 32.0884919,
+      "lon": 34.8097739
+    }
+  ]
+}

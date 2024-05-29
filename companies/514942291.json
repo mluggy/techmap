@@ -1,0 +1,23 @@
+{
+  "name": "Synvaccine",
+  "description": "A cutting-edge biotech firm revolutionizing viral engineering for vaccines, gene therapy, and cancer immunotherapy through innovative design.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/synvaccine-logo.webp",
+  "websiteUrl": "https://www.synvaccine.com/",
+  "careersUrl": "https://www.synvaccine.com/careers--synvaccine",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": "syn-vaccine",
+  "finderId": "synvaccine",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולדה מאיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.9137859,
+      "lon": 34.8024773
+    }
+  ]
+}

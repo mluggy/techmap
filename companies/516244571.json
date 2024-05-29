@@ -1,0 +1,23 @@
+{
+  "name": "Prevera",
+  "description": "This company creates antimicrobial proteins from natural amino acids that protect food from pathogens and provide essential nutrients without disrupting the microbiome.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/prevera-logo.webp",
+  "websiteUrl": "https://prevera.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "prevera",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבושם",
+      "houseNumber": 3,
+      "city": "אשדוד",
+      "lat": 31.81932655,
+      "lon": 34.666914500510586
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "My Route Online",
+  "description": "This easy-to-use tool optimizes routes by time or distance, supports multiple file formats, and allows users to navigate via GPS, smartphone, or printed maps.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/my_route_online-logo.webp",
+  "websiteUrl": "https://www.myrouteonline.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "myrouteonline",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבין יצחק",
+      "houseNumber": 6,
+      "city": "קריית אונו",
+      "lat": 32.0647098,
+      "lon": 34.8649952
+    }
+  ]
+}

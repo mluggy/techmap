@@ -1,0 +1,23 @@
+{
+  "name": "Levent Levi Properties",
+  "description": "A premier firm excelling in design, development, and real estate, driven by a team of innovative designers dedicated to crafting luxurious spaces.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/levent_levi_properties-logo.webp",
+  "websiteUrl": "https://leventrealty.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "levent-projects",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יוני נתניהו",
+      "houseNumber": 10,
+      "city": "גבעת שמואל",
+      "lat": 32.072321,
+      "lon": 34.8548677
+    }
+  ]
+}

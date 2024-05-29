@@ -1,0 +1,23 @@
+{
+  "name": "Bayer Israel",
+  "description": "Developing innovative agricultural solutions to support farmers and enhance crop production for a sustainable future.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/bayer_israel-logo.webp",
+  "websiteUrl": "https://www.cropscience.bayer.us/",
+  "careersUrl": "https://www.bayer.com/en/career",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bayer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 36,
+      "city": "הוד השרון",
+      "lat": 32.1312727,
+      "lon": 34.896831
+    }
+  ]
+}

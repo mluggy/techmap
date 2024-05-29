@@ -1,0 +1,23 @@
+{
+  "name": "Breathe Me",
+  "description": "A solution designed to monitor and manage asthma and COPD conditions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/breathe_me-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "breathe-me",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זרחין אלכסנדר",
+      "houseNumber": 13,
+      "city": "רעננה",
+      "lat": 32.1976788,
+      "lon": 34.8811941
+    }
+  ]
+}

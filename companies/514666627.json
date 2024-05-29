@@ -1,0 +1,23 @@
+{
+  "name": "Lyra Medical",
+  "description": "Lyra provides personalized mental health care through various formats, including in-person, virtual, and text, supported by a 24/7 concierge team.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/lyra_medical-logo.webp",
+  "websiteUrl": "https://www.lyrahealth.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "lyra-medical",
+  "crunchbaseId": null,
+  "finderId": "lyra-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 3,
+      "city": "בנימינה",
+      "lat": 32.5128454,
+      "lon": 34.9484798
+    }
+  ]
+}

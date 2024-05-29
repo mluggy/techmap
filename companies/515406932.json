@@ -1,0 +1,23 @@
+{
+  "name": "Owlytics Healthcare",
+  "description": "Combining stylish smartwatches with AI-driven analytics, Owlytics offers continuous fall detection and personalized health monitoring for seniors.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/owlytics_healthcare-logo.webp",
+  "websiteUrl": "https://www.owlytics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "owlytics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך הראשונים",
+      "houseNumber": 38,
+      "city": "בני עטרות",
+      "lat": 32.02792155288306,
+      "lon": 34.91730348992738
+    }
+  ]
+}

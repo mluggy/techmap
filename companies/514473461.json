@@ -1,0 +1,23 @@
+{
+  "name": "Photopill Medical",
+  "description": "Founded by a biochemist and Crohn’s Disease patient, this company aims to ease IBD patient distress through safer and cost-effective solutions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/photopill_medical-logo.webp",
+  "websiteUrl": "https://photopill-med.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "photopill-medical1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדגניות",
+      "houseNumber": 15,
+      "city": "רחובות",
+      "lat": 31.8756659,
+      "lon": 34.8131987
+    }
+  ]
+}

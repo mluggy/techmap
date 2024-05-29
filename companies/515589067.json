@@ -1,0 +1,23 @@
+{
+  "name": "Loyaltydog",
+  "description": "A digital card-based loyalty tool enabling seamless customer interaction and engagement through mobile wallets.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/loyaltydog-logo.webp",
+  "websiteUrl": "https://loyalty.dog/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "loyaltydog",
+  "crunchbaseId": null,
+  "finderId": "drinkedin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבנים",
+      "houseNumber": 8,
+      "city": "זכרון יעקב",
+      "lat": 32.56123695,
+      "lon": 34.95224768275322
+    }
+  ]
+}

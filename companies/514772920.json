@@ -1,0 +1,23 @@
+{
+  "name": "Bazaart",
+  "description": "An advanced AI tool that effortlessly eliminates unwanted objects from photos, giving you complete control over your images.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/bazaart-logo.webp",
+  "websiteUrl": "https://www.bazaart.me/",
+  "careersUrl": "https://www.bazaart.me/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bazaart",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לסקוב חיים רא\"ל",
+      "houseNumber": 14,
+      "city": "חיפה",
+      "lat": 32.7707339,
+      "lon": 35.0060697
+    }
+  ]
+}

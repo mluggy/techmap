@@ -1,0 +1,23 @@
+{
+  "name": "Docauthority",
+  "description": "Detection and safeguarding of confidential information.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/docauthority-logo.webp",
+  "websiteUrl": "https://docauthority.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "docauthority",
+  "crunchbaseId": "docauthority",
+  "finderId": "cloudauthority",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 15,
+      "city": "רעננה",
+      "lat": 32.19630935,
+      "lon": 34.88423473965118
+    }
+  ]
+}

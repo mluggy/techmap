@@ -1,0 +1,23 @@
+{
+  "name": "Orbs",
+  "description": "An open-access digital ledger system.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/orbs-logo.webp",
+  "websiteUrl": "https://www.orbs.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "orbs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רב אלוף דוד אלעזר",
+      "houseNumber": 15,
+      "city": "תל אביב - יפו",
+      "lat": 32.072099,
+      "lon": 34.788187
+    }
+  ]
+}

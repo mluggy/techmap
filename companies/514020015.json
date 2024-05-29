@@ -1,0 +1,23 @@
+{
+  "name": "Pango Pay Go",
+  "description": "A platform providing parking permits, payment solutions for violations, and reservation services.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/pango_pay_go-logo.webp",
+  "websiteUrl": "https://www.mypango.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pango",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שחם",
+      "houseNumber": 3,
+      "city": "פתח תקווה",
+      "lat": 32.0843166,
+      "lon": 34.8584859
+    }
+  ]
+}

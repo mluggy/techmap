@@ -1,0 +1,23 @@
+{
+  "name": "Tymely AI",
+  "description": "A cutting-edge AI solution that manages intricate customer service inquiries for retailers, ensuring top-tier performance.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/tymely_ai-logo.webp",
+  "websiteUrl": "https://www.tymely.ai/",
+  "careersUrl": "https://www.tymely.ai/careers",
+  "isHiring": true,
+  "linkedinId": "tymelyinc",
+  "crunchbaseId": "tymely-ai",
+  "finderId": "tymely",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0835579,
+      "lon": 34.8040988
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "I Know First",
+  "description": "This company offers daily market forecasts for various financial assets using an advanced artificial intelligence algorithm.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/i_know_first-logo.webp",
+  "websiteUrl": "https://iknowfirst.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "i-know-first",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כ\"ג יורדי הסירה",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.0962824,
+      "lon": 34.7750041
+    }
+  ]
+}

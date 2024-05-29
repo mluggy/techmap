@@ -1,0 +1,23 @@
+{
+  "name": "Enercon Technologies",
+  "description": "A multi-disciplinary firm specializing in engineering and environmental services to enhance the safety and efficiency of the energy life cycle.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/enercon_technologies-logo.webp",
+  "websiteUrl": "https://www.enercon.com/",
+  "careersUrl": "https://www.enercon.de/en/jobs-careers/working-at-enercon",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "enercon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 27,
+      "city": "נתניה",
+      "lat": 32.2797087,
+      "lon": 34.8638687
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Happydural",
+  "description": "A FemTech company offering an AI-driven anesthetic management system that ensures accurate dosing by continuously monitoring the drug's effects on patients.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/happydural-logo.webp",
+  "websiteUrl": "https://www.happy-dural.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "happydural",
+  "finderId": "happydural",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קויפמן יחזקאל",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.063117,
+      "lon": 34.762003
+    }
+  ]
+}

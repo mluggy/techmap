@@ -1,0 +1,23 @@
+{
+  "name": "Endoways",
+  "description": "This company offers a groundbreaking fully disposable robotic system that enhances medical procedures with precise, low-radiation delivery and remote operation.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/endoways-logo.webp",
+  "websiteUrl": "https://www.endoways.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "endoways.com",
+  "crunchbaseId": null,
+  "finderId": "endoways",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 9,
+      "city": "קיסריה",
+      "lat": 32.4811959,
+      "lon": 34.9481254
+    }
+  ]
+}

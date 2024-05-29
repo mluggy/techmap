@@ -1,0 +1,23 @@
+{
+  "name": "Simbla",
+  "description": "A no-code development platform enabling non-coders to swiftly create customized, AI-driven cloud CRM solutions.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/simbla-logo.webp",
+  "websiteUrl": "https://www.simbla.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "simbla",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוטה גור",
+      "houseNumber": 9,
+      "city": "פתח תקווה",
+      "lat": 32.0938214,
+      "lon": 34.8648016
+    }
+  ]
+}

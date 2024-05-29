@@ -1,0 +1,23 @@
+{
+  "name": "Artbrain",
+  "description": "Connecting collectors with their favorite pieces through technology to enhance the business and customer relations of auction houses and art galleries.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/artbrain-logo.webp",
+  "websiteUrl": "https://www.artbrain.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "artbrain",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רמב\"ן",
+      "houseNumber": 8,
+      "city": "ירושלים",
+      "lat": 31.7749561,
+      "lon": 35.2167035
+    }
+  ]
+}

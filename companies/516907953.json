@@ -1,0 +1,23 @@
+{
+  "name": "Talma Medical Diagnostics",
+  "description": "A device that diagnoses acute middle ear infections using EEG technology.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/talma_medical_diagnostics-logo.webp",
+  "websiteUrl": "https://telmamedical.com.au/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "talma-medical-diagnostics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קויפמן יחזקאל",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.063117,
+      "lon": 34.762003
+    }
+  ]
+}

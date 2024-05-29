@@ -1,0 +1,23 @@
+{
+  "name": "Radsee Technologies",
+  "description": "Providing top-tier 4D imaging radar with exceptional performance and seamless integration capabilities.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/radsee_technologies-logo.webp",
+  "websiteUrl": "https://radsee.com/",
+  "careersUrl": "https://radsee.com/job/",
+  "isHiring": true,
+  "linkedinId": "radsee",
+  "crunchbaseId": "radsee-herzliya-israel",
+  "finderId": "radsee",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 45,
+      "city": "נתניה",
+      "lat": 32.2840942,
+      "lon": 34.8606134
+    }
+  ]
+}

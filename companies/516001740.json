@@ -1,0 +1,23 @@
+{
+  "name": "Nanorobotics",
+  "description": "Microscopic robots designed to locate and eliminate cancer cells.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/nanorobotics-logo.webp",
+  "websiteUrl": "https://nanorobotics.tech/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nanorobotics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנגר",
+      "houseNumber": 24,
+      "city": "הוד השרון",
+      "lat": 32.1302892,
+      "lon": 34.8947603
+    }
+  ]
+}

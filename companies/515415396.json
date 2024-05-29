@@ -1,0 +1,23 @@
+{
+  "name": "Stackpath",
+  "description": "A cloud computing service providing localized platforms in major global markets to enhance the proximity and performance of internet-centric applications and microservices.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/stackpath-logo.webp",
+  "websiteUrl": "https://www.stackpath.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "stackpath",
+  "crunchbaseId": null,
+  "finderId": "stackpath",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העצמאות",
+      "houseNumber": 65,
+      "city": "פתח תקווה",
+      "lat": 32.0745882,
+      "lon": 34.8691489
+    }
+  ]
+}

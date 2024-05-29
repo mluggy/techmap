@@ -1,0 +1,23 @@
+{
+  "name": "Fmr Operation Services",
+  "description": "A leading provider of investment advisory services for individuals and workplaces.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/fmr_operation_services-logo.webp",
+  "websiteUrl": "https://www.fidelity.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fmr",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 17,
+      "city": "תל אביב - יפו",
+      "lat": 32.0657345,
+      "lon": 34.7857836
+    }
+  ]
+}

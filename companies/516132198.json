@@ -1,0 +1,23 @@
+{
+  "name": "Navan Labs Israel",
+  "description": "A top-rated all-in-one app simplifying corporate travel and expense management with enhanced visibility, savings, and control.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/navan_labs_israel-logo.webp",
+  "websiteUrl": "https://navan.com/",
+  "careersUrl": "https://navan.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "navan",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב - יפו",
+      "lat": 32.060334,
+      "lon": 34.782124
+    }
+  ]
+}

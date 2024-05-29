@@ -1,0 +1,23 @@
+{
+  "name": "Ptvisor",
+  "description": "Explore our website to discover everything we offer and feel free to reach out to us.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ptvisor-logo.webp",
+  "websiteUrl": "https://ptvisor.com/?trk=public_post-text",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ptvisor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פקיעין המערבית",
+      "houseNumber": null,
+      "city": "פקיעין (בוקייעה)",
+      "lat": 32.97702429971282,
+      "lon": 35.33565325619027
+    }
+  ]
+}

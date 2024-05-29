@@ -1,0 +1,23 @@
+{
+  "name": "Verifyoo",
+  "description": "Their patented system verifies users through dynamic shape and feature analysis of randomly generated letters drawn on their devices, offering scalable risk-based authentication.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/verifyoo-logo.webp",
+  "websiteUrl": "https://verifyoo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "verifyoo",
+  "finderId": "verifyoo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אביטל",
+      "houseNumber": 34,
+      "city": "ראש העין",
+      "lat": 32.0929799,
+      "lon": 34.9766567
+    }
+  ]
+}

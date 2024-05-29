@@ -1,0 +1,23 @@
+{
+  "name": "Spotlock",
+  "description": "Optimizing Costs of Building Materials.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/spotlock-logo.webp",
+  "websiteUrl": "https://spotlock.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "spotlock",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות דם המכבים",
+      "houseNumber": 38,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9036665,
+      "lon": 35.0067451
+    }
+  ]
+}

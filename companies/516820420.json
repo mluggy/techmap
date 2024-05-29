@@ -1,0 +1,23 @@
+{
+  "name": "Electric Algae",
+  "description": "This climate tech innovator specializes in producing renewable energy from macroalgae.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/electric_algae-logo.webp",
+  "websiteUrl": "https://www.electric-algae.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "electricalgae",
+  "crunchbaseId": null,
+  "finderId": "electricalgae",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 21,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

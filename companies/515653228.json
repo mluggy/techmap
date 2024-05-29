@@ -1,0 +1,23 @@
+{
+  "name": "Endo Gi Medical",
+  "description": "Developer of an advanced system for medical use, showcased during MAGIC 2022.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/endo_gi_medical-logo.webp",
+  "websiteUrl": "https://www.endo-gi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "endogi-medical",
+  "crunchbaseId": null,
+  "finderId": "endogi-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Saola",
+  "description": "A rare, recently discovered bovid, the saola is known for its distinct horns and striking head markings.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/saola-logo.webp",
+  "websiteUrl": "https://www.savethesaola.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "saola",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08254365,
+      "lon": 34.801384906098356
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Moving Life",
+  "description": "Collapsible Mobility Scooter.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/moving_life-logo.webp",
+  "websiteUrl": "https://www.movinglife.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "moving-life",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגנן",
+      "houseNumber": 16,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.8828339,
+      "lon": 34.9624834
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tailor Ed",
+  "description": "Learning Bot powered by artificial intelligence.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/tailor_ed-logo.webp",
+  "websiteUrl": "https://www.tailor-ed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "tailor-ed",
+  "finderId": "tailored",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 43,
+      "city": "תל אביב - יפו",
+      "lat": 32.070828,
+      "lon": 34.777763
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Workito",
+  "description": "ספקית שירותים לניהול קל ומהיר של תשלומים לפנסיה, ביטוח לאומי ותנאים סוציאליים לעובדי משק הבית דרך הנייד.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/workito-logo.webp",
+  "websiteUrl": "https://www.workito.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "workito",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוקן",
+      "houseNumber": 32,
+      "city": "תל אביב - יפו",
+      "lat": 32.051553,
+      "lon": 34.771982
+    }
+  ]
+}

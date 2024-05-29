@@ -1,0 +1,23 @@
+{
+  "name": "Breeze Creative",
+  "description": "A company specializing in creative solutions based in Moshav Bnei Atarot, providing design and innovation services.",
+  "categoryId": 4,
+  "size": "s",
+  "logoFile": "logos/breeze_creative-logo.webp",
+  "websiteUrl": "https://breezecreative.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "breeze-creative",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "",
+      "houseNumber": 22,
+      "city": "בני עטרות",
+      "lat": 32.0235637,
+      "lon": 34.9118719
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Aspecto",
+  "description": "Empowering developers with instant insights into microservices behavior for enhanced visibility and rapid feedback in production environments.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/aspecto-logo.webp",
+  "websiteUrl": "https://www.aspecto.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aspecto",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוקן",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.051717,
+      "lon": 34.772405
+    }
+  ]
+}

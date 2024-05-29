@@ -1,0 +1,23 @@
+{
+  "name": "Vim Marketplace",
+  "description": "A versatile text editor designed for efficient text creation and modification, widely available on UNIX systems.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/vim_marketplace-logo.webp",
+  "websiteUrl": "https://www.vim.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vim",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השלום",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.071909,
+      "lon": 34.795576
+    }
+  ]
+}

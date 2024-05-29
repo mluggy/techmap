@@ -1,0 +1,23 @@
+{
+  "name": "Identifai Genetics",
+  "description": "A company specializing in digitally isolating and analyzing fetal DNA from maternal blood samples to identify actionable genetic variants.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/identifai_genetics-logo.webp",
+  "websiteUrl": "https://identifai-genetics.com/",
+  "careersUrl": "https://identifai-genetics.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "identifai-genetics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 22,
+      "city": "ראש העין",
+      "lat": 32.1088976,
+      "lon": 34.9653972
+    }
+  ]
+}

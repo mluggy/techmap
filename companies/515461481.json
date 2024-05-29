@@ -1,0 +1,23 @@
+{
+  "name": "Wisesight Technologies",
+  "description": "Real-time Parking Monitoring Powered by AI Technology.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/wisesight_technologies-logo.webp",
+  "websiteUrl": "https://www.wisesight.ai/",
+  "careersUrl": "https://www.wisesight.ai/careers",
+  "isHiring": true,
+  "linkedinId": "wise-sight",
+  "crunchbaseId": "wisesight-technologies",
+  "finderId": "wisesight-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבא אבן",
+      "houseNumber": 16,
+      "city": "ירושלים",
+      "lat": 31.7842843,
+      "lon": 35.2045279
+    }
+  ]
+}

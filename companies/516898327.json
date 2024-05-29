@@ -1,0 +1,23 @@
+{
+  "name": "Phenota",
+  "description": "A startup operating in confidentiality.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/phenota-logo.webp",
+  "websiteUrl": "https://phenota.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "phenota",
+  "crunchbaseId": null,
+  "finderId": "phenota",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יצחק רבין",
+      "houseNumber": 2,
+      "city": "פתח תקווה",
+      "lat": 32.2101852,
+      "lon": 34.9650933
+    }
+  ]
+}

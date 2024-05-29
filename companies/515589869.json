@@ -1,0 +1,23 @@
+{
+  "name": "Meetinkz",
+  "description": "This platform allows you to host executive meetings, seminars, and business events in unique spaces like designer venues and restaurants, with optional catering services.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/meetinkz-logo.webp",
+  "websiteUrl": "https://meetinkz.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "meetinkz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רגבה",
+      "houseNumber": null,
+      "city": "רגבה",
+      "lat": 32.976173450000005,
+      "lon": 35.0979954
+    }
+  ]
+}

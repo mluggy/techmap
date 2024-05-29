@@ -1,0 +1,23 @@
+{
+  "name": "Cellint",
+  "description": "Providing precise street-level location data and analytics for Smart City management, mobility, planning, and advertising.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/cellint-logo.webp",
+  "websiteUrl": "https://www.cellint.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cellint-traffic-solutions",
+  "crunchbaseId": null,
+  "finderId": "cellint",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בת שבע",
+      "houseNumber": 1,
+      "city": "לוד",
+      "lat": 31.9530326,
+      "lon": 34.88971251534439
+    }
+  ]
+}

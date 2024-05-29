@@ -1,0 +1,23 @@
+{
+  "name": "Wisio Israel",
+  "description": "A platform facilitating personalized video advice and services from favorite creators to their followers.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/wisio_israel-logo.webp",
+  "websiteUrl": "https://www.wisio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "officialwisio",
+  "crunchbaseId": null,
+  "finderId": "ScaleAbout",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ראשון לציון",
+      "houseNumber": 14,
+      "city": "נתניה",
+      "lat": 32.3284738,
+      "lon": 34.8503349
+    }
+  ]
+}

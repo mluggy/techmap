@@ -1,0 +1,23 @@
+{
+  "name": "Oasis Security",
+  "description": "A platform for managing identities of non-human entities.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/oasis_security-logo.webp",
+  "websiteUrl": "https://www.oasis.security/",
+  "careersUrl": "https://www.oasis.security/careers",
+  "isHiring": true,
+  "linkedinId": "non-human-identity-management-oasis",
+  "crunchbaseId": "oasis-security-ltd",
+  "finderId": "oasis-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 21,
+      "city": "תל אביב - יפו",
+      "lat": 32.064084,
+      "lon": 34.771849
+    }
+  ]
+}

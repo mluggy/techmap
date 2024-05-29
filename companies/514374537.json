@@ -1,0 +1,23 @@
+{
+  "name": "Stat Market",
+  "description": "The internet's premier statistics database offering extensive data from over 22,500 sources on more than 60,000 topics.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/stat_market-logo.webp",
+  "websiteUrl": "https://www.statista.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "stat-market",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נצח ישראל",
+      "houseNumber": 35,
+      "city": "הוד השרון",
+      "lat": 32.1625842,
+      "lon": 34.9106627
+    }
+  ]
+}

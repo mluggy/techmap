@@ -1,0 +1,23 @@
+{
+  "name": "Academe Data",
+  "description": "A newly opened 14-story residential community designed for professional and graduate students offers state-of-the-art living facilities.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/academe_data-logo.webp",
+  "websiteUrl": "https://academe198sf.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "academe",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ולנברג ראול",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.107529,
+      "lon": 34.827772
+    }
+  ]
+}

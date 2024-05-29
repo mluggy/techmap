@@ -1,0 +1,23 @@
+{
+  "name": "Datum Dental",
+  "description": "A free service providing instant translation for words, phrases, and web pages in over 100 languages.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/datum_dental-logo.webp",
+  "websiteUrl": "https://translate.google.co.uk/",
+  "careersUrl": "https://www.datumdental.com/en/company/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "datum-dental-ltd-datum-biotech-s-subsidiary",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הירקון",
+      "houseNumber": 38,
+      "city": "יבנה",
+      "lat": 31.8993238,
+      "lon": 34.7403121
+    }
+  ]
+}

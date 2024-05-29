@@ -1,0 +1,23 @@
+{
+  "name": "Pushub Me",
+  "description": "A premier self-serve demand side platform specializing in push notifications, inpage, and rich media for affiliates and agencies.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/pushub_me-logo.webp",
+  "websiteUrl": "https://pushub.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pushub",
+  "crunchbaseId": "pushub",
+  "finderId": "pushub",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המרכבה",
+      "houseNumber": 26,
+      "city": "חולון",
+      "lat": 32.0199282,
+      "lon": 34.8042081
+    }
+  ]
+}

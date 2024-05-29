@@ -1,0 +1,23 @@
+{
+  "name": "Tectona",
+  "description": "Designers of exquisite outdoor furniture including sofas, low armchairs, tables, parasols, and loungers.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/tectona-logo.webp",
+  "websiteUrl": "https://www.tectona.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tectona",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין מנחם",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.08566465,
+      "lon": 34.799904568972636
+    }
+  ]
+}

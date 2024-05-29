@@ -1,0 +1,23 @@
+{
+  "name": "Muze Art",
+  "description": "Currently closed for modern art exhibitions, the museum offers details on tenders, calls for proposals, job opportunities, and publications.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/muze_art-logo.webp",
+  "websiteUrl": "https://www.tamuseum.org.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "muze-ai-art",
+  "crunchbaseId": null,
+  "finderId": "muze-art",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השדות",
+      "houseNumber": 5,
+      "city": "כפר פינס",
+      "lat": 32.487519946273856,
+      "lon": 35.004128089214326
+    }
+  ]
+}

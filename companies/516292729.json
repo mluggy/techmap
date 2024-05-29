@@ -1,0 +1,23 @@
+{
+  "name": "Pumba Parking",
+  "description": "A neighborhood-focused street parking system designed for city drivers.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/pumba_parking-logo.webp",
+  "websiteUrl": "https://pumbaparking.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pumbaparking",
+  "crunchbaseId": null,
+  "finderId": "pumba",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 71,
+      "city": "תל אביב - יפו",
+      "lat": 32.0827759,
+      "lon": 34.7806588
+    }
+  ]
+}

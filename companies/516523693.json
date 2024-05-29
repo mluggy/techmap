@@ -1,0 +1,23 @@
+{
+  "name": "Pylon Medical",
+  "description": "This company turns identified medical needs into reality by bringing together top engineers, clinicians, and market experts.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pylon_medical-logo.webp",
+  "websiteUrl": "https://medxelerator.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pylon-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0215775,
+      "lon": 34.854526
+    }
+  ]
+}

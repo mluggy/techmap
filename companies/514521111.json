@@ -1,0 +1,23 @@
+{
+  "name": "Tipalti Solutions",
+  "description": "Tipalti offers fully automated payables solutions that streamline and enhance business efficiency at scale.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/tipalti_solutions-logo.webp",
+  "websiteUrl": "https://tipalti.com/",
+  "careersUrl": "https://tipalti.com/careers/",
+  "isHiring": true,
+  "linkedinId": "tipalti",
+  "crunchbaseId": null,
+  "finderId": "tipalti",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רוזן פנחס",
+      "houseNumber": 65,
+      "city": "תל אביב - יפו",
+      "lat": 32.1072592,
+      "lon": 34.8273286
+    }
+  ]
+}

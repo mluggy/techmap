@@ -1,0 +1,23 @@
+{
+  "name": "Eat Id",
+  "description": "Harnessing precise consumer food preference data, this company streamlines menu planning to reduce waste and boost customer satisfaction in commercial kitchens.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/eat_id-logo.webp",
+  "websiteUrl": "https://www.eat.vision/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "eat-id",
+  "crunchbaseId": null,
+  "finderId": "eat-id",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בוני העיר",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.100101,
+      "lon": 34.783343
+    }
+  ]
+}

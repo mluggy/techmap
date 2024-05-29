@@ -1,0 +1,23 @@
+{
+  "name": "Klear.com",
+  "description": "Platform for connecting brands with social media influencers.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/klear_com-logo.webp",
+  "websiteUrl": "https://klearcom.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "klearinfluencer",
+  "crunchbaseId": "twtrland",
+  "finderId": "twtrland",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יותם",
+      "houseNumber": 33,
+      "city": "חיפה",
+      "lat": 32.7929549,
+      "lon": 34.9873496
+    }
+  ]
+}

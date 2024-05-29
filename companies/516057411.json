@@ -1,0 +1,23 @@
+{
+  "name": "Starget Pharma",
+  "description": "An innovative clinical-stage company pioneering Smart Targeted Radioligands for treating hard-to-heal cancers.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/starget_pharma-logo.webp",
+  "websiteUrl": "https://stargetpharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "starget-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שניר",
+      "houseNumber": 26,
+      "city": "רמת השרון",
+      "lat": 32.13981,
+      "lon": 34.831537
+    }
+  ]
+}

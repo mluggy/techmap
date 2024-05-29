@@ -1,0 +1,23 @@
+{
+  "name": "Insurtix",
+  "description": "All-inclusive online solution for insurance companies.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/insurtix-logo.webp",
+  "websiteUrl": "https://www.insurtix.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "insurtix",
+  "crunchbaseId": "insurtix-ltd",
+  "finderId": "insurtix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד אבא אבן",
+      "houseNumber": 16,
+      "city": "הרצליה",
+      "lat": 32.16222215,
+      "lon": 34.80753269535335
+    }
+  ]
+}

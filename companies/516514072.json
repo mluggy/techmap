@@ -1,0 +1,23 @@
+{
+  "name": "Faddom",
+  "description": "Providing 24/7 real-time, passive IT infrastructure visibility with dynamic mapping, deliverable within an hour.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/faddom-logo.webp",
+  "websiteUrl": "https://faddom.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "faddom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תע\"ש",
+      "houseNumber": 8,
+      "city": "רמת גן",
+      "lat": 32.0889179,
+      "lon": 34.8015247
+    }
+  ]
+}

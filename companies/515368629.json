@@ -1,0 +1,23 @@
+{
+  "name": "Hydro X",
+  "description": "Pioneering a water-based hydrogen carrier, this company reduces project costs and safety requirements with a non-toxic, non-flammable solution.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/hydro_x-logo.webp",
+  "websiteUrl": "https://hydrox.earth/",
+  "careersUrl": "https://hydrox.earth/hydro-x-careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hydro-x",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שמעון",
+      "houseNumber": 12,
+      "city": "בית שמש",
+      "lat": 31.7390657,
+      "lon": 34.9872574
+    }
+  ]
+}

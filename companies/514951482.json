@@ -1,0 +1,23 @@
+{
+  "name": "Switchbee",
+  "description": "Innovative smart home system offering quick installation for full control, automation, and energy efficiency.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/switchbee-logo.webp",
+  "websiteUrl": "https://www.switchbee.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "switchbee",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 2,
+      "city": "נתניה",
+      "lat": 32.2761147,
+      "lon": 34.8578734
+    }
+  ]
+}

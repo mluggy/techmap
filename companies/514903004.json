@@ -1,0 +1,23 @@
+{
+  "name": "Palantir Engineering Israel",
+  "description": "We create software solutions that enable organizations to seamlessly unify their data, decisions, and operations.",
+  "categoryId": 1,
+  "size": "xl",
+  "logoFile": "logos/palantir_engineering_israel-logo.webp",
+  "websiteUrl": "https://www.palantir.com/",
+  "careersUrl": "https://www.palantir.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "palantir",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 46,
+      "city": "תל אביב - יפו",
+      "lat": 32.063755,
+      "lon": 34.774745
+    }
+  ]
+}

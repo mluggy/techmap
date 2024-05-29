@@ -1,0 +1,23 @@
+{
+  "name": "Uni Diamonds",
+  "description": "Providing real-time analysis of over 1 million diamonds to enable informed business decisions based on market data.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/uni_diamonds-logo.webp",
+  "websiteUrl": "https://www.uni.diamonds/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "unidiamonds",
+  "crunchbaseId": null,
+  "finderId": "uni-diamonds",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בצלאל",
+      "houseNumber": 54,
+      "city": "רמת גן",
+      "lat": 32.0861425,
+      "lon": 34.8007768
+    }
+  ]
+}

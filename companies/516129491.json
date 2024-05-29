@@ -1,0 +1,23 @@
+{
+  "name": "Futora Marketplace",
+  "description": "An innovative Brooklyn-based company focused on authentic experiences and forward-thinking creations.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/futora_marketplace-logo.webp",
+  "websiteUrl": "https://futuralaboratories.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "futora",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 76,
+      "city": "תל אביב - יפו",
+      "lat": 32.063194,
+      "lon": 34.79858
+    }
+  ]
+}

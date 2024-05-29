@@ -1,0 +1,23 @@
+{
+  "name": "Geosim Systems",
+  "description": "They offer cutting-edge 3D city visualization technology with exceptional detail, realism, and interactive features.",
+  "categoryId": 4,
+  "size": "s",
+  "logoFile": "logos/geosim_systems-logo.webp",
+  "websiteUrl": "https://geosimcities.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "geosim",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התנופה",
+      "houseNumber": 4,
+      "city": "פתח תקווה",
+      "lat": 32.099682,
+      "lon": 34.8569061
+    }
+  ]
+}

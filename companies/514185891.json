@@ -1,0 +1,23 @@
+{
+  "name": "Novaremed",
+  "description": "Specializing in non-opioid solutions, the company develops chemically distinct treatments for peripheral neuropathy and neuropathic pain.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/novaremed-logo.webp",
+  "websiteUrl": "https://www.novaremed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "novaremed-ag",
+  "crunchbaseId": null,
+  "finderId": "novaremed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסיבים",
+      "houseNumber": 24,
+      "city": "פתח תקווה",
+      "lat": 32.087622100000004,
+      "lon": 34.856272603101615
+    }
+  ]
+}

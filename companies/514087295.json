@@ -1,0 +1,23 @@
+{
+  "name": "Sandigo",
+  "description": "A platform for embracing and implementing Web3.0 technologies.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/sandigo-logo.webp",
+  "websiteUrl": "https://www.sandiego.gov/",
+  "careersUrl": "https://www.sandiego.edu/jobs/",
+  "isHiring": true,
+  "linkedinId": "sandigo-xyz",
+  "crunchbaseId": null,
+  "finderId": "sandigo-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' שאול המלך",
+      "houseNumber": 39,
+      "city": "תל אביב - יפו",
+      "lat": 32.0778913,
+      "lon": 34.790694
+    }
+  ]
+}

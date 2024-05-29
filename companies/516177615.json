@@ -1,0 +1,23 @@
+{
+  "name": "Ooro Medical",
+  "description": "Provides innovative blockchain solutions to improve security, transparency, and efficiency in digital interactions across industries.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/ooro_medical-logo.webp",
+  "websiteUrl": "https://oaro.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ooro-medical-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 22,
+      "city": "ראש העין",
+      "lat": 32.108278,
+      "lon": 34.9652441
+    }
+  ]
+}

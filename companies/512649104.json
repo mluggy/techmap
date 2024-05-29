@@ -1,0 +1,23 @@
+{
+  "name": "English Adventure",
+  "description": "Offering creative and experiential learning, the EPIC program empowers 3rd graders to become independent learners.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/english_adventure_ltd-logo.webp",
+  "websiteUrl": "https://www.eadventure.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "english-adventure",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 8,
+      "city": "רמת השרון",
+      "lat": 32.1375493,
+      "lon": 34.8451267
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Agrosolar",
+  "description": "Irrigation Solutions Powered by Solar Energy.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/agrosolar-logo.webp",
+  "websiteUrl": "https://www.agrosglobal.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "agrosolar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברקוביץ",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.078703,
+      "lon": 34.7870616
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Algopix Holdings",
+  "description": "An AI-driven tool enabling optimal product selection and cross-channel analysis for smarter sales decisions.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/algopix_holdings-logo.webp",
+  "websiteUrl": "https://algopix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "algopix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השלום",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.072245,
+      "lon": 34.796049
+    }
+  ]
+}

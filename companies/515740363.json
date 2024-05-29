@@ -1,0 +1,23 @@
+{
+  "name": "Pick A Pier",
+  "description": "Enabling boaters to efficiently book, communicate with marinas, manage documents, and enjoy a sustainable boating experience.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/pick_a_pier-logo.webp",
+  "websiteUrl": "https://company.pickapier.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pickapier",
+  "crunchbaseId": null,
+  "finderId": "pick-a-pier",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 45,
+      "city": "חיפה",
+      "lat": 32.819776250000004,
+      "lon": 34.9988252
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Loola Communication",
+  "description": "A platform that enables social media influencers to broadcast live content.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/loola_communication-logo.webp",
+  "websiteUrl": "https://loola.tv/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "loola-communication",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

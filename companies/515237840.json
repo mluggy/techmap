@@ -1,0 +1,23 @@
+{
+  "name": "Naturongo",
+  "description": "A software enterprise leveraging expertise from various health professionals to offer practical solutions for alternative and complementary medicine practitioners.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/naturongo-logo.webp",
+  "websiteUrl": "https://www.naturongo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "naturongo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנוטרים",
+      "houseNumber": 18,
+      "city": "מזכרת בתיה",
+      "lat": 31.8506602,
+      "lon": 34.836324
+    }
+  ]
+}

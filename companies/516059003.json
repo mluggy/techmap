@@ -1,0 +1,23 @@
+{
+  "name": "Antishock Technologies",
+  "description": "A device that monitors blood flow in vessels without needing invasive procedures.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/antishock_technologies-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "antishock",
+  "crunchbaseId": "antishock",
+  "finderId": "antishock",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתיב האור",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.78785285,
+      "lon": 34.96565267465318
+    }
+  ]
+}

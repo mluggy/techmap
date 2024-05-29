@@ -1,0 +1,23 @@
+{
+  "name": "Hyro AI",
+  "description": "We offer a solution that automates customer interactions to enhance engagement and optimize resources.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/hyro_ai-logo.webp",
+  "websiteUrl": "https://www.hyro.ai/",
+  "careersUrl": "https://www.hyro.ai/careers/",
+  "isHiring": true,
+  "linkedinId": "hyroai",
+  "crunchbaseId": "airbud-technologies-inc",
+  "finderId": "airbud-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.07003,
+      "lon": 34.786371
+    }
+  ]
+}

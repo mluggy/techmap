@@ -1,0 +1,23 @@
+{
+  "name": "Aisap",
+  "description": "Leveraging AI and deep learning, AISAP provides real-time ultrasound guidance and multi-organ diagnoses to enhance clinical outcomes and healthcare efficiency.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/aisap-logo.webp",
+  "websiteUrl": "https://www.aisap.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aisap",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך שיבא",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.0520429,
+      "lon": 34.8376893
+    }
+  ]
+}

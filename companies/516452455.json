@@ -1,0 +1,23 @@
+{
+  "name": "Lua Connect",
+  "description": "An app designed to foster genuine relationships.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/lua_connect-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lua-connect",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "וינקלר אלתר",
+      "houseNumber": 12,
+      "city": "פתח תקווה",
+      "lat": 32.0913173,
+      "lon": 34.8728406
+    }
+  ]
+}

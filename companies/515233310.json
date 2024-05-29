@@ -1,0 +1,23 @@
+{
+  "name": "Lishtot Detection",
+  "description": "Their technology uniquely measures Total Contaminant Levels in water using a sensor and advanced algorithm.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/lishtot_detection-logo.webp",
+  "websiteUrl": "https://www.lishtot.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lishtot",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אוסישקין",
+      "houseNumber": 49,
+      "city": "ירושלים",
+      "lat": 31.7795875,
+      "lon": 35.2122172
+    }
+  ]
+}

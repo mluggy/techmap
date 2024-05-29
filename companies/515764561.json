@@ -1,0 +1,23 @@
+{
+  "name": "Qniverse",
+  "description": "A Dynamic Space for Exercise and Fun Activities.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/qniverse-logo.webp",
+  "websiteUrl": "https://qniverse.co.uk/",
+  "careersUrl": "https://qniverse.co.uk/careers/",
+  "isHiring": true,
+  "linkedinId": "hoppa-group",
+  "crunchbaseId": null,
+  "finderId": "takaro-tech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.10981,
+      "lon": 34.838876
+    }
+  ]
+}

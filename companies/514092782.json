@@ -1,0 +1,23 @@
+{
+  "name": "Mapi Pharma",
+  "description": "A pharmaceutical company specializing in the development of treatments for neuropathic pain, epilepsy, schizophrenia, and long-acting injectable therapies.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/mapi_pharma-logo.webp",
+  "websiteUrl": "https://mapi-pharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mapi-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אינשטיין",
+      "houseNumber": 16,
+      "city": "נס ציונה",
+      "lat": 31.9155629,
+      "lon": 34.8062323
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Clinch Labs",
+  "description": "Their tools empower the creation of visually appealing ads by leveraging existing assets and integrating diverse data sources.",
+  "categoryId": 2,
+  "size": "m",
+  "logoFile": "logos/clinch_labs-logo.webp",
+  "websiteUrl": "https://clinch.co/",
+  "careersUrl": "https://clinch.co/jobs/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "clinch",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השזיף",
+      "houseNumber": 6,
+      "city": "קיסריה",
+      "lat": 32.5044435,
+      "lon": 34.9071822
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Dynamicam",
+  "description": "Offering automated, fiber-optic cable camera systems with programmable movement presets for venues and studios globally.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/dynamicam-logo.webp",
+  "websiteUrl": "https://www.dynami-cam.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dynamicam",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 10,
+      "city": "ראש העין",
+      "lat": 32.1088976,
+      "lon": 34.9653972
+    }
+  ]
+}

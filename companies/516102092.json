@@ -1,0 +1,23 @@
+{
+  "name": "Litebc",
+  "description": "A device for blood count analysis that doesn't require invasive procedures.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/litebc-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "litebc",
+  "crunchbaseId": "litebc-ltd",
+  "finderId": "litebc-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 2,
+      "city": "יקנעם עילית",
+      "lat": 32.6611393,
+      "lon": 35.1063611
+    }
+  ]
+}

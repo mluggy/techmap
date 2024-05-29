@@ -1,0 +1,23 @@
+{
+  "name": "Curve Tech",
+  "description": "A dynamic digital wallet consolidating multiple cards into a single debit card, offering up to 20% cashback from various brands and additional rewards on all purchases.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/curve_tech-logo.webp",
+  "websiteUrl": "https://www.curve.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "curve-tech-israel",
+  "finderId": "curve-tech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ולנברג ראול",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.1105162,
+      "lon": 34.8376966
+    }
+  ]
+}

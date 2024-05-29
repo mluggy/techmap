@@ -1,0 +1,23 @@
+{
+  "name": "Bioprotect",
+  "description": "Eco-friendly balloons designed for safer radiation treatments.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/bioprotect-logo.webp",
+  "websiteUrl": "https://globalbioprotect.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bioprotect",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "צור צור יגאל",
+      "houseNumber": 8,
+      "city": "צור יגאל",
+      "lat": 32.2149108,
+      "lon": 34.9891577
+    }
+  ]
+}

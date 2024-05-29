@@ -1,0 +1,23 @@
+{
+  "name": "Insfocus Systems",
+  "description": "This business intelligence suite provides insurance professionals with industry-specific insights, leveraging decades of expertise to deliver exceptional value.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/insfocus_systems-logo.webp",
+  "websiteUrl": "https://www.insfocus.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "insfocus",
+  "crunchbaseId": null,
+  "finderId": "insfocus",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יצחק רבין",
+      "houseNumber": 1,
+      "city": "פתח תקווה",
+      "lat": 32.0880684,
+      "lon": 34.8612538
+    }
+  ]
+}

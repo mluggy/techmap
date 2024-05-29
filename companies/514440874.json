@@ -1,0 +1,23 @@
+{
+  "name": "Fiverr International",
+  "description": "A platform that revolutionizes collaboration by linking businesses with freelancers across 500+ digital service categories.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/fiverr_international-logo.webp",
+  "websiteUrl": "https://www.fiverr.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fiverr",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קפלן",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.073213,
+      "lon": 34.783298
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pangea",
+  "description": "Offering archiving, publishing, and distribution of georeferenced earth system research data as part of the World Data System.",
+  "categoryId": 13,
+  "size": "m",
+  "logoFile": "logos/pangea-logo.webp",
+  "websiteUrl": "https://pangaea.de/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pangea",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משה בן נחמן",
+      "houseNumber": 14,
+      "city": "ראשון לציון",
+      "lat": 31.9473613,
+      "lon": 34.8136562
+    }
+  ]
+}

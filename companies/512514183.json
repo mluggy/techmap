@@ -1,0 +1,23 @@
+{
+  "name": "Lextran",
+  "description": "Lextran, the Transit Authority of Lexington, KY, received a federal grant to buy CNG buses, enhancing community mobility and air quality.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/lextran-logo.webp",
+  "websiteUrl": "https://lextran.com/",
+  "careersUrl": "https://lextran.com/work-with-us/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lextran",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גרניט",
+      "houseNumber": 6,
+      "city": "פתח תקווה",
+      "lat": 32.10059,
+      "lon": 34.8652871
+    }
+  ]
+}

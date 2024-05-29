@@ -1,0 +1,23 @@
+{
+  "name": "Clearskin",
+  "description": "Specializes in advanced skincare solutions for aging, acne, scarring, and various skin concerns including pigmentation and redness.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/clearskin-logo.webp",
+  "websiteUrl": "https://clearskincare.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "clearskin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חן",
+      "houseNumber": 28,
+      "city": "כרמיאל",
+      "lat": 32.9230425,
+      "lon": 35.2945167
+    }
+  ]
+}

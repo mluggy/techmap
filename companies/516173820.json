@@ -1,0 +1,23 @@
+{
+  "name": "Juno AI",
+  "description": "An AI platform providing teams with real-time, actionable insights by engaging directly with individuals to understand their thoughts, feelings, and experiences.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/juno_ai-logo.webp",
+  "websiteUrl": "https://heyjuno.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "juno-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מונטיפיורי",
+      "houseNumber": 39,
+      "city": "תל אביב - יפו",
+      "lat": 32.065888,
+      "lon": 34.773888
+    }
+  ]
+}

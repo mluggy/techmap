@@ -1,0 +1,23 @@
+{
+  "name": "Uni Scope Optical Systems",
+  "description": "Based in Israel, this company offers services and can be contacted via phone, fax, or email.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/uni_scope_optical_systems-logo.webp",
+  "websiteUrl": "https://www.uni-scope.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "uni-scope-optical-systems",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שחם",
+      "houseNumber": 11,
+      "city": "כרמיאל",
+      "lat": 32.9204118,
+      "lon": 35.3353601
+    }
+  ]
+}

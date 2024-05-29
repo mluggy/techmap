@@ -1,0 +1,23 @@
+{
+  "name": "Springloc",
+  "description": "Customized System for Breast-Saving Surgery.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/springloc-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "springloc",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משעול היערה",
+      "houseNumber": 14,
+      "city": "ירושלים",
+      "lat": 31.8066941,
+      "lon": 35.1986539
+    }
+  ]
+}

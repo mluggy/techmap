@@ -1,0 +1,23 @@
+{
+  "name": "Ags Rotem",
+  "description": "Providing a comprehensive online hub for accessing top-tier geriatrics publications, resources, and tools.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/ags_rotem-logo.webp",
+  "websiteUrl": "https://www.americangeriatrics.org/",
+  "careersUrl": "https://www.agscompany.com/pages/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ags",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

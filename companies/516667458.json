@@ -1,0 +1,23 @@
+{
+  "name": "Psybits",
+  "description": "PsyBit's Jobbit platform enables job seekers to understand a company's culture, values, and strategy before applying, making the process both unique and straightforward.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/psybits-logo.webp",
+  "websiteUrl": "https://psybit.si/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "psybits",
+  "crunchbaseId": null,
+  "finderId": "psybits-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחוזה",
+      "houseNumber": 11,
+      "city": "פרדס חנה-כרכור",
+      "lat": 32.4722457,
+      "lon": 34.9929782
+    }
+  ]
+}

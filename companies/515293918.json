@@ -1,0 +1,23 @@
+{
+  "name": "Talamoos",
+  "description": "An AI-driven platform providing real-time machine learning solutions for personalization, recommendation, and discovery features.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/talamoos-logo.webp",
+  "websiteUrl": "https://www.talamoos.com/",
+  "careersUrl": "https://www.talamoos.com/about-jobs.html",
+  "isHiring": true,
+  "linkedinId": "talamoos",
+  "crunchbaseId": null,
+  "finderId": "talamoos",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שנקר אריה",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1604703,
+      "lon": 34.809883
+    }
+  ]
+}

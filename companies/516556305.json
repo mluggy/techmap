@@ -1,0 +1,23 @@
+{
+  "name": "Predimed",
+  "description": "An intelligent system that assists clinicians in making medical decisions through artificial intelligence.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/predimed-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "predimed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 28,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

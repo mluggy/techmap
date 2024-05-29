@@ -1,0 +1,23 @@
+{
+  "name": "Labsuit Project",
+  "description": "An online platform designed to streamline inventory management and order tracking for life science research laboratories.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/labsuit_project-logo.webp",
+  "websiteUrl": "https://www.labsuit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "labsuit",
+  "crunchbaseId": null,
+  "finderId": "labsuit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נורדאו",
+      "houseNumber": 14,
+      "city": "עפולה",
+      "lat": 32.6063122,
+      "lon": 35.2826601
+    }
+  ]
+}

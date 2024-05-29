@@ -1,0 +1,23 @@
+{
+  "name": "Invendiv Israel",
+  "description": "Founded in Israel in 2018, this company specializes in vending technology, retail systems, and software solutions.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/invendiv_israel-logo.webp",
+  "websiteUrl": "https://invendiv.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "invendiv",
+  "crunchbaseId": "invendiv",
+  "finderId": "invendiv",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתיב הזית",
+      "houseNumber": 65,
+      "city": "ינוב",
+      "lat": 32.30241467382655,
+      "lon": 34.949955655573504
+    }
+  ]
+}

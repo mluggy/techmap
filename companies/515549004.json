@@ -1,0 +1,23 @@
+{
+  "name": "Immpact Bio",
+  "description": "The company pioneers advanced CAR T platforms to combat antigen escape, navigate immunosuppressive tumor environments, and potentially cure autoimmune diseases.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/immpact_bio-logo.webp",
+  "websiteUrl": "https://immpact-bio.com/",
+  "careersUrl": "https://immpact-bio.com/careers/",
+  "isHiring": true,
+  "linkedinId": "immpact-bio",
+  "crunchbaseId": null,
+  "finderId": "immpact-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברגמן",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.9113645,
+      "lon": 34.8090693
+    }
+  ]
+}

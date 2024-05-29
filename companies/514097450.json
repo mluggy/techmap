@@ -1,0 +1,23 @@
+{
+  "name": "Tonara",
+  "description": "Advancing music education globally through a comprehensive digital platform that connects and supports students and teachers.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/tonara-logo.webp",
+  "websiteUrl": "https://www.tonara.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tonara",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 99,
+      "city": "תל אביב - יפו",
+      "lat": 32.069629,
+      "lon": 34.784178
+    }
+  ]
+}

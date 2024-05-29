@@ -1,0 +1,23 @@
+{
+  "name": "Take A Shuttle",
+  "description": "A service that enables restaurants to donate their excess food to benefit the community.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/take_a_shuttle-logo.webp",
+  "websiteUrl": "https://www.supershuttle.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "take",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משעול הדרור",
+      "houseNumber": 48,
+      "city": "מנחמיה",
+      "lat": 32.6603359,
+      "lon": 35.555224
+    }
+  ]
+}

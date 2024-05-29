@@ -1,0 +1,23 @@
+{
+  "name": "Ever After Foods",
+  "description": "Lab-Grown Meat.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/ever_after_foods-logo.webp",
+  "websiteUrl": "https://everafterfoods.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "ever-after-foods",
+  "crunchbaseId": "ever-after-foods",
+  "finderId": "ever-after-foods",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פארק מת\"ם",
+      "houseNumber": 5,
+      "city": "חיפה",
+      "lat": 32.78806038995184,
+      "lon": 34.95953636879005
+    }
+  ]
+}

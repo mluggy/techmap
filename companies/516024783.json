@@ -1,0 +1,23 @@
+{
+  "name": "Bzigo",
+  "description": "An innovative device that detects and alerts you to mosquitoes in your home for easy elimination, ensuring a mosquito-free environment.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/bzigo-logo.webp",
+  "websiteUrl": "https://www.bzigo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bzigo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יעב\"ץ",
+      "houseNumber": 33,
+      "city": "תל אביב - יפו",
+      "lat": 32.0684176,
+      "lon": 34.8366328
+    }
+  ]
+}

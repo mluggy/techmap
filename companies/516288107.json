@@ -1,0 +1,23 @@
+{
+  "name": "Microsoft 4772 Israel",
+  "description": "Discover a range of tech solutions from innovative devices to cloud services for both personal and professional use.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/microsoft_4772_israel-logo.webp",
+  "websiteUrl": "https://www.microsoft.com/",
+  "careersUrl": "https://careers.microsoft.com/",
+  "isHiring": true,
+  "linkedinId": "microsoft",
+  "crunchbaseId": null,
+  "finderId": "microsoft",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלן טיורינג",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1567264,
+      "lon": 34.80533117029748
+    }
+  ]
+}

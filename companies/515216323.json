@@ -1,0 +1,23 @@
+{
+  "name": "Splacer",
+  "description": "Offer and manage unique, affordable event spaces using comprehensive tools for organization, lead management, and earnings tracking.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/splacer-logo.webp",
+  "websiteUrl": "https://www.splacer.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "splacer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות ח\"ן",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.074142,
+      "lon": 34.780124
+    }
+  ]
+}

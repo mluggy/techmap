@@ -1,0 +1,23 @@
+{
+  "name": "Cintec Medical",
+  "description": "This company designs and produces advanced mammography and biopsy systems focusing on early breast cancer detection, driven by innovation, quality, and customer-centric service.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cintec_medical-logo.webp",
+  "websiteUrl": "https://www.cintec-med.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cintec-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 8,
+      "city": "טירת כרמל",
+      "lat": 32.7678289,
+      "lon": 34.9669597
+    }
+  ]
+}

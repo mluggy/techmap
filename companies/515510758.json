@@ -1,0 +1,23 @@
+{
+  "name": "Nyx Technologies",
+  "description": "Advanced technologies to improve sleep and reduce stress.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/nyx_technologies-logo.webp",
+  "websiteUrl": "https://www.nyx-tech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "nyx-tech",
+  "crunchbaseId": "nyx-technologies",
+  "finderId": "nyx-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שער פלמר",
+      "houseNumber": 2,
+      "city": "חיפה",
+      "lat": 32.8201571,
+      "lon": 35.0000081
+    }
+  ]
+}

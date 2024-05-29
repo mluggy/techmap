@@ -1,0 +1,23 @@
+{
+  "name": "Safe School Analytics",
+  "description": "Offering safety and compliance training solutions for schools and districts, utilized by thousands to enhance administrative management.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/safe_school_analytics-logo.webp",
+  "websiteUrl": "https://www.safeschools.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "safe-school",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בורוכוב",
+      "houseNumber": 54,
+      "city": "גבעתיים",
+      "lat": 32.078909,
+      "lon": 34.809898
+    }
+  ]
+}

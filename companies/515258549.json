@@ -1,0 +1,23 @@
+{
+  "name": "Eva Board",
+  "description": "Offering a cutting-edge, user-friendly in-flight entertainment system with an extensive selection of audio and video content.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/eva_board-logo.webp",
+  "websiteUrl": "https://www.evaair.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eva",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לונץ",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.069842,
+      "lon": 34.780331
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Actifile",
+  "description": "An AI-driven data security platform that identifies sensitive files, quantifies risks, and autonomously encrypts data to proactively combat external and internal threats.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/actifile-logo.webp",
+  "websiteUrl": "https://actifile.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "actifile",
+  "crunchbaseId": null,
+  "finderId": "actifile",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 9,
+      "city": "הרצליה",
+      "lat": 32.1598405,
+      "lon": 34.8083843
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Apowiser",
+  "description": "A digital platform providing guidance on over-the-counter medications.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/apowiser-logo.webp",
+  "websiteUrl": "https://www.apowiser.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "apowiser",
+  "crunchbaseId": "apowiser",
+  "finderId": "apowiser",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברוש",
+      "houseNumber": 17,
+      "city": "נווה ירק",
+      "lat": 32.1357438,
+      "lon": 34.9247887
+    }
+  ]
+}

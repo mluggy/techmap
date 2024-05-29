@@ -1,0 +1,23 @@
+{
+  "name": "Israel Shipyards",
+  "description": "A leading Eastern Mediterranean shipbuilding facility for over 60 years, specializing in high-quality naval, commercial marine, and land-based industrial structures.",
+  "categoryId": 3,
+  "size": "m",
+  "logoFile": "logos/israel_shipyards-logo.webp",
+  "websiteUrl": "https://www.israel-shipyards.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "israel-shipyards",
+  "crunchbaseId": null,
+  "finderId": "israel-shipyards",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יוליוס סימון",
+      "houseNumber": 53,
+      "city": "חיפה",
+      "lat": 32.8183522,
+      "lon": 35.051309
+    }
+  ]
+}

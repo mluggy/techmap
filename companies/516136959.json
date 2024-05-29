@@ -1,0 +1,23 @@
+{
+  "name": "Treeverse Labs",
+  "description": "A solution for efficiently testing and validating software changes on large-scale data lakes before deployment.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/treeverse_labs-logo.webp",
+  "websiteUrl": "https://lakefs.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "treeverse",
+  "finderId": "treeverse-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פראנקל",
+      "houseNumber": 12,
+      "city": "תל אביב - יפו",
+      "lat": 32.111643,
+      "lon": 34.798821
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Applicat Technologies",
+  "description": "Simplify your college application process and explore over 1,000 institutions.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/applicat_technologies-logo.webp",
+  "websiteUrl": "https://www.commonapp.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "applicat",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 31,
+      "city": "תל אביב - יפו",
+      "lat": 32.110287,
+      "lon": 34.841116
+    }
+  ]
+}

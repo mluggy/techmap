@@ -1,0 +1,23 @@
+{
+  "name": "Ola Kali",
+  "description": "Offering affordable and convenient nearby cab bookings for optimal taxi services.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/ola_kali-logo.webp",
+  "websiteUrl": "https://www.olacabs.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ola",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון התבור",
+      "houseNumber": 11,
+      "city": "קיסריה",
+      "lat": 32.4763255,
+      "lon": 34.947278
+    }
+  ]
+}

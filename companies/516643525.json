@@ -1,0 +1,23 @@
+{
+  "name": "Ledge Tech",
+  "description": "Platform for managing payments without coding.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/ledge_tech-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ledge-tech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' שאול המלך",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.0753114,
+      "lon": 34.7838583
+    }
+  ]
+}

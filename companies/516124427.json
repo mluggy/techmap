@@ -1,0 +1,23 @@
+{
+  "name": "Highrad",
+  "description": "Advancing oncology by enhancing disease progression understanding through comprehensive, multi-organ analysis for better treatment outcomes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/highrad-logo.webp",
+  "websiteUrl": "https://www.high-rad.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "highrad-ltd",
+  "crunchbaseId": null,
+  "finderId": "highrad",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

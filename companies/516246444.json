@@ -1,0 +1,23 @@
+{
+  "name": "Viritis",
+  "description": "Microscopic bio-robots designed to combat harmful viruses.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/viritis-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "viritis",
+  "crunchbaseId": null,
+  "finderId": "viritis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העוגב",
+      "houseNumber": 49,
+      "city": "פתח תקווה",
+      "lat": 32.0781408,
+      "lon": 34.9083978
+    }
+  ]
+}

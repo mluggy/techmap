@@ -1,0 +1,23 @@
+{
+  "name": "Aqualink",
+  "description": "Instant hot water device providing filtered, magnesium-enriched water without installation, offering energy and cost savings.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/aqualink-logo.webp",
+  "websiteUrl": "https://aqualink.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aqualink-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוצקין",
+      "houseNumber": 17,
+      "city": "טירת כרמל",
+      "lat": 32.768787,
+      "lon": 34.9737793
+    }
+  ]
+}

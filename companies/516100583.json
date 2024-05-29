@@ -1,0 +1,23 @@
+{
+  "name": "Agent Factory",
+  "description": "Comprehensive Automated Solution for Warehousing and Logistics.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/agent_factory-logo.webp",
+  "websiteUrl": "https://www.agentfactory.net/",
+  "careersUrl": "https://www.factory.ai/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "agent-factory",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החיטה",
+      "houseNumber": 39,
+      "city": "צרופה",
+      "lat": 32.653673743542214,
+      "lon": 34.95251056208456
+    }
+  ]
+}

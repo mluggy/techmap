@@ -1,0 +1,23 @@
+{
+  "name": "Hagor Shops",
+  "description": "Providing precision-engineered tactical, security, and protection solutions with relentless innovation and a commitment to perfection.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/hagor_shops-logo.webp",
+  "websiteUrl": "https://hagor.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hagor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חיבת ציון",
+      "houseNumber": 32,
+      "city": "רמת גן",
+      "lat": 32.07911001428572,
+      "lon": 34.8236088
+    }
+  ]
+}

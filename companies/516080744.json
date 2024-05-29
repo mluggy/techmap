@@ -1,0 +1,23 @@
+{
+  "name": "Sendi Io",
+  "description": "Innovative software and app for delivery management with nationwide couriers, used by major brands like McDonald's and Papa John's.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/sendi_io-logo.webp",
+  "websiteUrl": "https://www.sendi.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sendi-io",
+  "crunchbaseId": null,
+  "finderId": "sendi-io",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מעלה השחר",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.0758586,
+      "lon": 34.8189823
+    }
+  ]
+}

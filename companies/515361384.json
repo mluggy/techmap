@@ -1,0 +1,23 @@
+{
+  "name": "Accelario Software",
+  "description": "A self-service platform streamlining complex DevOps test data management by automating key processes.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/accelario_software-logo.webp",
+  "websiteUrl": "https://accelario.com/",
+  "careersUrl": "https://accelario.com/careers/",
+  "isHiring": true,
+  "linkedinId": "accelario",
+  "crunchbaseId": "accelario",
+  "finderId": "accelario",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד נים",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.949713600000003,
+      "lon": 34.80328505744155
+    }
+  ]
+}

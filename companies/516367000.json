@@ -1,0 +1,23 @@
+{
+  "name": "Retrieval Alliance",
+  "description": "A tech company providing comprehensive search capabilities across various types of information with advanced features for precise results.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/retrieval_alliance-logo.webp",
+  "websiteUrl": "https://www.google.co.uk/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "retrieval-alliance",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המייסדים",
+      "houseNumber": 26,
+      "city": "שדה יעקב",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

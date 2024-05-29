@@ -1,0 +1,23 @@
+{
+  "name": "Dagshub",
+  "description": "A platform for managing and collaborating on data versions.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/dagshub-logo.webp",
+  "websiteUrl": "https://dagshub.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "dagshub",
+  "crunchbaseId": "dagshub",
+  "finderId": "dagshub",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שץ גגה גרשון",
+      "houseNumber": 41,
+      "city": "תל אביב - יפו",
+      "lat": 32.068791,
+      "lon": 34.791638
+    }
+  ]
+}

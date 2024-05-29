@@ -1,0 +1,23 @@
+{
+  "name": "Target Board",
+  "description": "An effortless, AI-powered analytics solution that automates ETL processes, data warehousing, reporting, and KPI generation, revealing hidden business insights.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/target_board-logo.webp",
+  "websiteUrl": "https://www.targetboard.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "targetboard",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהודה הלוי",
+      "houseNumber": 19,
+      "city": "ראשון לציון",
+      "lat": 31.9667411,
+      "lon": 34.8064682
+    }
+  ]
+}

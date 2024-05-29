@@ -1,0 +1,23 @@
+{
+  "name": "Bio Tip",
+  "description": "Offering real-time, accurate monitoring of food freshness independent of expiration dates, suitable for scalable application across various products and formats.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/bio_tip-logo.webp",
+  "websiteUrl": "https://biotip.co.il/",
+  "careersUrl": "https://biotip.co.il/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "do-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חממה טכנולוגית סאוטאפ",
+      "houseNumber": null,
+      "city": "מ.א. שער הנגב",
+      "lat": 31.513912506165372,
+      "lon": 34.59481463151246
+    }
+  ]
+}

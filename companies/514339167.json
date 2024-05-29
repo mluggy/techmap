@@ -1,0 +1,23 @@
+{
+  "name": "Beck Medical",
+  "description": "A technology for managing weight that is administered through the nose.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/beck_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "beck-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארזים גבעת עדה",
+      "houseNumber": 34,
+      "city": "גבעת עדה",
+      "lat": 32.52242617492569,
+      "lon": 34.99404113367883
+    }
+  ]
+}

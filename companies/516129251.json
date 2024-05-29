@@ -1,0 +1,23 @@
+{
+  "name": "Origametria Math",
+  "description": "A web-based service that utilizes the art of folding paper to educate users about geometric concepts.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/origametria_math-logo.webp",
+  "websiteUrl": "https://origametria.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "origametria-math-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד ירושלים",
+      "houseNumber": 12,
+      "city": "רמת גן",
+      "lat": 32.0746224,
+      "lon": 34.8196904
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "White Cyber Knight",
+  "description": "A leading search engine that provides comprehensive access to global information, including webpages, images, and videos, with tailored search features.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/white_cyber_knight-logo.webp",
+  "websiteUrl": "https://www.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "white-cyber-knight",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שניאור זלמן",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.0767805,
+      "lon": 34.82055587638732
+    }
+  ]
+}

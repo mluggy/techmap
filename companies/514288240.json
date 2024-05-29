@@ -1,0 +1,23 @@
+{
+  "name": "Speakingpal",
+  "description": "An online platform that restricts immediate access to detailed descriptions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/speakingpal-logo.webp",
+  "websiteUrl": "https://www.speakingpal.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "speakingpal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 19,
+      "city": "תל אביב - יפו",
+      "lat": 32.108224,
+      "lon": 34.838086
+    }
+  ]
+}

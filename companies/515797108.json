@@ -1,0 +1,23 @@
+{
+  "name": "Deltika",
+  "description": "Temporary Renting for Profit.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/deltika-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "deltika-ltd",
+  "crunchbaseId": "deltika",
+  "finderId": "deltika",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שפיה",
+      "houseNumber": 1,
+      "city": "אשדוד",
+      "lat": 31.7950536,
+      "lon": 34.6445409
+    }
+  ]
+}

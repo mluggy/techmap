@@ -1,0 +1,23 @@
+{
+  "name": "Fugu Japan",
+  "description": "Offering a diverse range of beautifully designed note cards for any occasion.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/fugu_japan-logo.webp",
+  "websiteUrl": "https://www.fugufugupress.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fugu",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עצמון",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.065339,
+      "lon": 34.767599
+    }
+  ]
+}

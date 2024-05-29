@@ -1,0 +1,23 @@
+{
+  "name": "Gable R D",
+  "description": "Provide remote workers with flexible access to premium coworking spaces, meeting rooms, and private offices globally, with a pay-as-you-go model.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/gable_r_d-logo.webp",
+  "websiteUrl": "https://www.gable.to/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gable",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יערי מאיר",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.099396,
+      "lon": 34.784823
+    }
+  ]
+}

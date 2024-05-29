@@ -1,0 +1,23 @@
+{
+  "name": "Digma Medical",
+  "description": "A healthcare company focused on innovative solutions for managing Type 2 Diabetes through advanced medical technology.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/digma_medical-logo.webp",
+  "websiteUrl": "https://www.digmamedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "digma-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הערבה",
+      "houseNumber": 1,
+      "city": "גבעת שמואל",
+      "lat": 32.0836051,
+      "lon": 34.8551272
+    }
+  ]
+}

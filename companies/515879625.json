@@ -1,0 +1,23 @@
+{
+  "name": "Ettorney Technologies",
+  "description": "מציעה שירותים משפטיים אונליין באמצעות רשת של עורכי דין מובילים בישראל.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/ettorney_technologies-logo.webp",
+  "websiteUrl": "https://www.ettorney.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "ettorney",
+  "crunchbaseId": "ettorney",
+  "finderId": "ettorney",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 34,
+      "city": "תל אביב - יפו",
+      "lat": 32.11006275,
+      "lon": 34.84225851145355
+    }
+  ]
+}

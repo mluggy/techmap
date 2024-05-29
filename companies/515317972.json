@@ -1,0 +1,23 @@
+{
+  "name": "Aqua Security Software",
+  "description": "Leading the way in cloud native security, this company reduces risk and supports business growth with its advanced platform.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/aqua_security_software-logo.webp",
+  "websiteUrl": "https://www.aquasec.com/",
+  "careersUrl": "https://www.aquasec.com/about-us/careers/",
+  "isHiring": true,
+  "linkedinId": "aquasecteam",
+  "crunchbaseId": "aquasecurity",
+  "finderId": "aqua-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

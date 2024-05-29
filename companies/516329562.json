@@ -1,0 +1,23 @@
+{
+  "name": "Laser Team Medical",
+  "description": "Healthcare Laser Equipment.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/laser_team_medical-logo.webp",
+  "websiteUrl": "https://lasertm.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "laser-team-medical-ltd",
+  "crunchbaseId": "laserteam",
+  "finderId": "laser-team-medical-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברנע",
+      "houseNumber": 4,
+      "city": "קצרין",
+      "lat": 32.9920262,
+      "lon": 35.6877004
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Alfa Rhythm",
+  "description": "A device using electrical and biometric technology to treat depression, anxiety, and sleep issues.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/alfa_rhythm-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "alfa-rhythm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חרושת",
+      "houseNumber": 74,
+      "city": "קריית ביאליק",
+      "lat": 32.80798736240189,
+      "lon": 35.05387493321824
+    }
+  ]
+}

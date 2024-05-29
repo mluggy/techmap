@@ -1,0 +1,23 @@
+{
+  "name": "Real Capital",
+  "description": "A leading luxury resale platform for buying and selling designer bags, jewelry, and clothing.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/real_capital-logo.webp",
+  "websiteUrl": "https://www.therealreal.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "real",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק אלחנן",
+      "houseNumber": 16,
+      "city": "רמת השרון",
+      "lat": 32.149392,
+      "lon": 34.8309757
+    }
+  ]
+}

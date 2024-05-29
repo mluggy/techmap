@@ -1,0 +1,23 @@
+{
+  "name": "Briefcam",
+  "description": "This technology leverages advanced multi-camera systems to swiftly and accurately identify people and vehicles of interest through facial recognition and appearance analysis.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/briefcam_ltd-logo.webp",
+  "websiteUrl": "https://www.briefcam.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "briefcam",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המעיין",
+      "houseNumber": 44,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9173085,
+      "lon": 34.9656521
+    }
+  ]
+}

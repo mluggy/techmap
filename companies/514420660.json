@@ -1,0 +1,23 @@
+{
+  "name": "Tipa Corp",
+  "description": "Innovative packaging solutions that protect food and extend shelf life as effectively as conventional plastics.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/tipa_corp-logo.webp",
+  "websiteUrl": "https://tipa-corp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tipa",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 6,
+      "city": "הוד השרון",
+      "lat": 32.13264635,
+      "lon": 34.89857182559817
+    }
+  ]
+}

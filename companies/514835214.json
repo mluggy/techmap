@@ -1,0 +1,23 @@
+{
+  "name": "Newpace",
+  "description": "This innovative firm offers both wearable and implantable defibrillation solutions for short-term and long-term prevention of sudden cardiac arrest.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/newpace-logo.webp",
+  "websiteUrl": "https://www.newpacemedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "newpace",
+  "crunchbaseId": null,
+  "finderId": "newpace",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גרניט",
+      "houseNumber": 13,
+      "city": "קיסריה",
+      "lat": 32.4897493,
+      "lon": 34.9507759
+    }
+  ]
+}

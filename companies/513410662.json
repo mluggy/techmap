@@ -1,0 +1,23 @@
+{
+  "name": "Myheritage",
+  "description": "Unlock and preserve your unique family history through DNA testing and extensive genealogical research.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/myheritage-logo.webp",
+  "websiteUrl": "https://www.myheritage.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "myheritage",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 3,
+      "city": "אור יהודה",
+      "lat": 32.0219471,
+      "lon": 34.8582471
+    }
+  ]
+}

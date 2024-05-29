@@ -1,0 +1,23 @@
+{
+  "name": "Peerspot",
+  "description": "Connecting buyers and vendors, this platform facilitates product advice, feedback sharing, and authentic customer reviews to enhance purchasing decisions.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/peerspot-logo.webp",
+  "websiteUrl": "https://www.peerspot.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "it-central-station",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות דם המכבים",
+      "houseNumber": 32,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.908826,
+      "lon": 35.0135269
+    }
+  ]
+}

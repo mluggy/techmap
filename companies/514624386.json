@@ -1,0 +1,23 @@
+{
+  "name": "Palo Alto Networks Israel",
+  "description": "Provider of comprehensive cybersecurity solutions emphasizing Zero Trust, securing networks, cloud operations, hybrid workforces, and leveraging threat intelligence and expert consulting.",
+  "categoryId": 7,
+  "size": "xl",
+  "logoFile": "logos/palo_alto_networks_israel-logo.webp",
+  "websiteUrl": "https://www.paloaltonetworks.com/",
+  "careersUrl": "https://jobs.paloaltonetworks.com/en/",
+  "isHiring": true,
+  "linkedinId": "palo-alto-networks",
+  "crunchbaseId": "palo-alto-networks",
+  "finderId": "palo-alto-networks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.068346,
+      "lon": 34.793507
+    }
+  ]
+}

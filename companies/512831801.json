@@ -1,0 +1,23 @@
+{
+  "name": "Steadicopter",
+  "description": "Specializing in advanced RUAVs, this company offers comprehensive vertical take-off and landing solutions for defense, homeland security, and civilian applications.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/steadicopter-logo.webp",
+  "websiteUrl": "https://www.steadicopter.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "steadicopter",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התקשורת",
+      "houseNumber": 6,
+      "city": "מגדל העמק",
+      "lat": 32.688657,
+      "lon": 35.2479729
+    }
+  ]
+}

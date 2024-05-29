@@ -1,0 +1,23 @@
+{
+  "name": "Daisy Investments",
+  "description": "The leading manufacturer specializing in BB guns and youth rifles for young shooting enthusiasts.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/daisy_investments-logo.webp",
+  "websiteUrl": "https://www.daisy.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "daisy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "וינהויז זאב",
+      "houseNumber": 3,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0294773,
+      "lon": 34.8885912
+    }
+  ]
+}

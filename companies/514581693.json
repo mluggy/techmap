@@ -1,0 +1,23 @@
+{
+  "name": "Solarwat",
+  "description": "A privately owned Israeli solar technology company offering patented, next-generation solar systems with significantly higher energy yields.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/solarwat-logo.webp",
+  "websiteUrl": "https://www.solarwat.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "solarwat-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפלמ\"ח",
+      "houseNumber": 100,
+      "city": "אבן יהודה",
+      "lat": 32.2579121,
+      "lon": 34.8890969
+    }
+  ]
+}

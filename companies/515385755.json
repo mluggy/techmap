@@ -1,0 +1,23 @@
+{
+  "name": "Getpackage",
+  "description": "Instant Delivery Solution.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/getpackage-logo.webp",
+  "websiteUrl": "https://getpackage.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "getpackage",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכשרת הישוב",
+      "houseNumber": 23,
+      "city": "ראשון לציון",
+      "lat": 31.9923878,
+      "lon": 34.7617696
+    }
+  ]
+}

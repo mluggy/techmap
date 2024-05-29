@@ -1,0 +1,23 @@
+{
+  "name": "Reddress",
+  "description": "Premier online women's clothing store since 2005, offering a curated selection of classic, timeless apparel to elevate your style.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/reddress-logo.webp",
+  "websiteUrl": "https://www.reddress.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "reddress",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שקדים",
+      "houseNumber": 11,
+      "city": "פרדס חנה-כרכור",
+      "lat": 32.4785533,
+      "lon": 34.9734467
+    }
+  ]
+}

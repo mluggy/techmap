@@ -1,0 +1,23 @@
+{
+  "name": "Laminar Israel",
+  "description": "A medical device company focused on removing the left atrial appendage in non-valvular atrial fibrillation patients.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/laminar_israel-logo.webp",
+  "websiteUrl": "https://laminarlaa.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "laminar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.06518925,
+      "lon": 34.78521533912037
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Biop Medical",
+  "description": "Timely and Precise Cervical Cancer Diagnosis.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/biop_medical-logo.webp",
+  "websiteUrl": "https://bio-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "biop-medical-ltd.",
+  "crunchbaseId": null,
+  "finderId": "biop-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אהליאב",
+      "houseNumber": 10,
+      "city": "רמת גן",
+      "lat": 32.08769233337585,
+      "lon": 34.8022060856916
+    }
+  ]
+}

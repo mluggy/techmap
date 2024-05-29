@@ -1,0 +1,23 @@
+{
+  "name": "Evolita",
+  "description": "Providing global business insights and data-driven answers through natural language queries.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/evolita-logo.webp",
+  "websiteUrl": "http://evolita.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "evolita",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 15,
+      "city": "קיסריה",
+      "lat": 32.4870865,
+      "lon": 34.9479977
+    }
+  ]
+}

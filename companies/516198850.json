@@ -1,0 +1,23 @@
+{
+  "name": "Daily Dev",
+  "description": "A platform where developers connect to learn, collaborate, and stay updated on industry trends.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/daily_dev-logo.webp",
+  "websiteUrl": "https://daily.dev/",
+  "careersUrl": "https://daily.dev/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "daily-dev",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך התקווה",
+      "houseNumber": 9,
+      "city": "גני תקווה",
+      "lat": 32.0669598,
+      "lon": 34.8715965
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Vcm Software",
+  "description": "Solutions designed for venture capital companies.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/vcm_software-logo.webp",
+  "websiteUrl": "https://www.vcmsoftware.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vcm-software",
+  "crunchbaseId": null,
+  "finderId": "vcm-software",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כורש",
+      "houseNumber": 14,
+      "city": "אפרת",
+      "lat": 31.66634916635455,
+      "lon": 35.157394537237266
+    }
+  ]
+}

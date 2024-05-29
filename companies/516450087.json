@@ -1,0 +1,23 @@
+{
+  "name": "Testify",
+  "description": "A tool for automating declarative testing in Salesforce, designed for both quality assurance and unit testing.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/testify-logo.webp",
+  "websiteUrl": "https://testify.themarshallproject.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "testify",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהלום",
+      "houseNumber": 4,
+      "city": "באר יעקב",
+      "lat": 31.9362223,
+      "lon": 34.8261487
+    }
+  ]
+}

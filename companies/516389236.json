@@ -1,0 +1,23 @@
+{
+  "name": "Argarium",
+  "description": "A premier VR/AR studio revolutionizing the gaming industry with engaging, player-focused experiences for all audiences.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/argarium-logo.webp",
+  "websiteUrl": "https://www.argarium.com/",
+  "careersUrl": "https://www.argarium.com/jobs",
+  "isHiring": true,
+  "linkedinId": "argarium",
+  "crunchbaseId": null,
+  "finderId": "argarium",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בורג יוסף",
+      "houseNumber": 94,
+      "city": "באר שבע",
+      "lat": 31.2333634,
+      "lon": 34.7695075
+    }
+  ]
+}

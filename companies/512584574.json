@@ -1,0 +1,23 @@
+{
+  "name": "Pro Track",
+  "description": "Specializing in live video anchoring, geo-referencing, and AI-aided analytics, we revolutionize how you perceive the world.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/pro_track-logo.webp",
+  "websiteUrl": "https://www.protrack.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "protrack",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כנפי נשרים",
+      "houseNumber": 68,
+      "city": "ירושלים",
+      "lat": 31.78761,
+      "lon": 35.18095954927904
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wisepal",
+  "description": "Our service provides effortless and trustworthy monthly bill comparisons to maximize your savings.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/wisepal-logo.webp",
+  "websiteUrl": "https://www.wisepal.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wisepal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' רוקח",
+      "houseNumber": 101,
+      "city": "תל אביב - יפו",
+      "lat": 32.1053566,
+      "lon": 34.811018495092924
+    }
+  ]
+}

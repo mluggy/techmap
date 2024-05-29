@@ -1,0 +1,23 @@
+{
+  "name": "Resmetrix Medical",
+  "description": "A groundbreaking wearable device that monitors and alerts users and medical teams to changes in respiratory metrics, aiding in early detection of breathing issues in both healthy individuals and patients with conditions like CHF, COPD, and Asthma.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/resmetrix_medical-logo.webp",
+  "websiteUrl": "http://www.resmetrix-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "resmetrix-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתיב האור",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.78785285,
+      "lon": 34.96565267465318
+    }
+  ]
+}

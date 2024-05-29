@@ -1,0 +1,23 @@
+{
+  "name": "Rollinom",
+  "description": "רולינום היא חברת סטארט-אפ ישראלית המפשטת את תהליך העיצוב והופכת תוכניות דו-ממדיות להדמיות תלת-ממדיות לכל משתמש.",
+  "categoryId": 4,
+  "size": "s",
+  "logoFile": "logos/rollinom-logo.webp",
+  "websiteUrl": "https://www.rollinom.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rollinom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שביט",
+      "houseNumber": 8,
+      "city": "נס ציונה",
+      "lat": 31.9196212,
+      "lon": 34.793118
+    }
+  ]
+}

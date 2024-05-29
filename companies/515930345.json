@@ -1,0 +1,23 @@
+{
+  "name": "Food To You",
+  "description": "Crafting fresh, nutritious, and locally-sourced meals, our dedicated team redefines children's dining with uncompromising quality.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/food_to_you-logo.webp",
+  "websiteUrl": "https://www.food2youinc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "foodtoyou",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שילה",
+      "houseNumber": 54,
+      "city": "ירושלים",
+      "lat": 31.781983,
+      "lon": 35.2116351
+    }
+  ]
+}

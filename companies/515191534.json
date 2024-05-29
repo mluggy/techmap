@@ -1,0 +1,23 @@
+{
+  "name": "Bam Medical",
+  "description": "An innovative tool designed to strengthen the tongue through structured, repetitive lifting exercises.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/bam_medical-logo.webp",
+  "websiteUrl": "https://liper-device.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "liper",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מלצ'ט",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.068928,
+      "lon": 34.775714
+    }
+  ]
+}

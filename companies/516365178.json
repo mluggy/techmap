@@ -1,0 +1,23 @@
+{
+  "name": "Codespread",
+  "description": "Create your own website for free using ntt's intuitive site-building platform.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/codespread-logo.webp",
+  "websiteUrl": "https://codespread.ntt.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "codespread",
+  "crunchbaseId": null,
+  "finderId": "codespread",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משה שמיר",
+      "houseNumber": 3,
+      "city": "פתח תקווה",
+      "lat": 32.0986104,
+      "lon": 34.8739279
+    }
+  ]
+}

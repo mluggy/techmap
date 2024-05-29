@@ -1,0 +1,23 @@
+{
+  "name": "Medintec",
+  "description": "Provides technical consulting, training, and support services in industrial and legal metrology, and maintenance management for both industrial and healthcare sectors.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medintec-logo.webp",
+  "websiteUrl": "https://medinntec.com.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medintec",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אפעל",
+      "houseNumber": 3,
+      "city": "פתח תקווה",
+      "lat": 32.09327955,
+      "lon": 34.84894383304102
+    }
+  ]
+}

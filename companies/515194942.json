@@ -1,0 +1,23 @@
+{
+  "name": "Covercy",
+  "description": "Integrating banking with investment management, this innovative platform streamlines real estate syndication through automated processes, an intuitive investor portal, and interest-generating capital funds.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/covercy-logo.webp",
+  "websiteUrl": "https://www.covercy.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "covercy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

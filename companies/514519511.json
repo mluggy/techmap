@@ -1,0 +1,23 @@
+{
+  "name": "Gege It",
+  "description": "Offering robust password management for iSeries and Active Directory with features like user control, quick resets, and secure 128-bit encrypted web access.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/gege_it-logo.webp",
+  "websiteUrl": "https://www.gegeit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gegeit-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדולב",
+      "houseNumber": 7,
+      "city": "תל מונד",
+      "lat": 32.2492999,
+      "lon": 34.9126902
+    }
+  ]
+}

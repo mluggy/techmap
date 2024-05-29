@@ -1,0 +1,23 @@
+{
+  "name": "Mind Impact",
+  "description": "A platform designed to help businesses manage employee well-being.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/mind_impact-logo.webp",
+  "websiteUrl": "https://mindimpactconsulting.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mind1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 5,
+      "city": "רעננה",
+      "lat": 32.1985331,
+      "lon": 34.8842596
+    }
+  ]
+}

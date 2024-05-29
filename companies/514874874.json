@@ -1,0 +1,23 @@
+{
+  "name": "Fundbox",
+  "description": "Offering flexible payment solutions and premium benefits for timely business expense management.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/fundbox-logo.webp",
+  "websiteUrl": "https://fundbox.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fundbox",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהודה הלוי",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.061625,
+      "lon": 34.772982
+    }
+  ]
+}

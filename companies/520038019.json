@@ -1,0 +1,23 @@
+{
+  "name": "Qlik Analytics Isr",
+  "description": "An educational platform offering self-paced courses on topics from visualizations to installation.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/qlik_analytics_isr-logo.webp",
+  "websiteUrl": "https://learning.qlik.com/",
+  "careersUrl": "https://www.qlik.com/us/company/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "qlik",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1666204,
+      "lon": 34.9281644
+    }
+  ]
+}

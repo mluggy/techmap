@@ -1,0 +1,23 @@
+{
+  "name": "Novos Gg",
+  "description": "Offering a scientifically backed solution to combat aging, this company blends rigorous research into a patent-pending formula.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/novos_gg-logo.webp",
+  "websiteUrl": "https://novoslabs.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "novos",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוידלסון",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.161140634959864,
+      "lon": 34.84316158866636
+    }
+  ]
+}

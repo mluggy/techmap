@@ -1,0 +1,23 @@
+{
+  "name": "Bridgify Travel",
+  "description": "A customizable tech solution enabling travel retailers to offer travelers personalized itineraries.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/bridgify_travel-logo.webp",
+  "websiteUrl": "https://www.bridgify.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bridgify",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.06378,
+      "lon": 34.769659
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mappo Tourism",
+  "description": "An advanced platform that provides contextual cultural insights by analyzing your surroundings in real-time.",
+  "categoryId": 4,
+  "size": "s",
+  "logoFile": "logos/mappo_tourism-logo.webp",
+  "websiteUrl": "https://www.mappo.world/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "books-on-map",
+  "xId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": 1,
+      "city": "אבנת",
+      "lat": 32.9280587,
+      "lon": 35.272169
+    }
+  ]
+}

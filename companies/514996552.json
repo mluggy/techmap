@@ -1,0 +1,23 @@
+{
+  "name": "Angie Technologies",
+  "description": "A celebrated travel and lifestyle blog by world traveler Angie Orth, also featuring her work as an author, podcaster, and TV host.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/angie_technologies-logo.webp",
+  "websiteUrl": "https://angieaway.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "angie-travel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בראלי",
+      "houseNumber": 14,
+      "city": "תל אביב - יפו",
+      "lat": 32.1038007,
+      "lon": 34.7913886
+    }
+  ]
+}

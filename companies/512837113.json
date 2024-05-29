@@ -1,0 +1,23 @@
+{
+  "name": "Edusoft",
+  "description": "A global leader in tech-driven English language learning and assessment solutions.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/edusoft_ltd-logo.webp",
+  "websiteUrl": "https://edusoftlearning.com/",
+  "careersUrl": "https://edusoftlearning.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "edusoft",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 13,
+      "city": "ראש העין",
+      "lat": 32.108278,
+      "lon": 34.9652441
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Valiber",
+  "description": "Founded in 2013, this company created a patented system for numerically communicating personal taste preferences using the Val Scale.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/valiber-logo.webp",
+  "websiteUrl": "https://www.valiber.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "valiber",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חצב",
+      "houseNumber": 30,
+      "city": "קריית שמונה",
+      "lat": 33.2115548,
+      "lon": 35.5787624
+    }
+  ]
+}

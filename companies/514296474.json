@@ -1,0 +1,23 @@
+{
+  "name": "Scouting 4 U",
+  "description": "A platform enhancing basketball player scouting and recruitment through advanced analytics and data-driven insights.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/scouting_4_u-logo.webp",
+  "websiteUrl": "https://www.scouting4u.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "scouting4u",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוריה",
+      "houseNumber": 37,
+      "city": "חיפה",
+      "lat": 32.7984429,
+      "lon": 34.984797176475794
+    }
+  ]
+}

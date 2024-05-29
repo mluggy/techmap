@@ -1,0 +1,23 @@
+{
+  "name": "Paypal Israel",
+  "description": "A swift and secure online payment solution for sending, receiving, and processing transactions.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/paypal_israel-logo.webp",
+  "websiteUrl": "https://www.paypal.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "paypal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 98,
+      "city": "תל אביב - יפו",
+      "lat": 32.0700073,
+      "lon": 34.794193699999994
+    }
+  ]
+}

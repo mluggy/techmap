@@ -1,0 +1,23 @@
+{
+  "name": "Riuto",
+  "description": "Intelligent Robotic Pool Safety Guard.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/riuto-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "riuto",
+  "finderId": "riuto",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דיזנגוף",
+      "houseNumber": 275,
+      "city": "תל אביב - יפו",
+      "lat": 32.095372,
+      "lon": 34.776101
+    }
+  ]
+}

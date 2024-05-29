@@ -1,0 +1,23 @@
+{
+  "name": "Consent Md",
+  "description": "Platform for Detailed Medical Procedure Information and Patient Consent.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/consent_md-logo.webp",
+  "websiteUrl": "https://mdconsents.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "consent-md",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחימאיר אבא",
+      "houseNumber": 20,
+      "city": "פתח תקווה",
+      "lat": 32.0721032,
+      "lon": 34.8813584
+    }
+  ]
+}

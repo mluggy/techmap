@@ -1,0 +1,23 @@
+{
+  "name": "Hiveware",
+  "description": "This innovative platform enhances human collaboration and security through distributed apps utilizing Zero Trust and asymmetric cryptography principles.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/hiveware-logo.webp",
+  "websiteUrl": "https://www.hiveware.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "hiveware-5543",
+  "finderId": "hiveware",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "איסרליש",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.071385,
+      "lon": 34.79089
+    }
+  ]
+}

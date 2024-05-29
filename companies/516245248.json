@@ -1,0 +1,23 @@
+{
+  "name": "Piggy",
+  "description": "Mobile App for Content Creation and Social Sharing.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/piggy-logo.webp",
+  "websiteUrl": "https://kwakwa.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "piggydotto",
+  "crunchbaseId": "piggydotto",
+  "finderId": "piggy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלוף מגן קלמן",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.0714513,
+      "lon": 34.7871809
+    }
+  ]
+}

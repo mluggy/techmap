@@ -1,0 +1,23 @@
+{
+  "name": "Blue Cape",
+  "description": "A data-driven platform focused on infectious respiratory diseases.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/blue_cape-logo.webp",
+  "websiteUrl": "https://bluecapesecurity.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "blue-cape",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הצליל",
+      "houseNumber": 22,
+      "city": "רעננה",
+      "lat": 32.1827315,
+      "lon": 34.8588155
+    }
+  ]
+}

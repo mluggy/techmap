@@ -1,0 +1,23 @@
+{
+  "name": "Inerticx M D T",
+  "description": "A company operating in secret.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/inerticx_m_d_t-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "inerticx",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חנה רובינא",
+      "houseNumber": 7,
+      "city": "הרצליה",
+      "lat": 32.1667931,
+      "lon": 34.829324086011596
+    }
+  ]
+}

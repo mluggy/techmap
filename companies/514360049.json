@@ -1,0 +1,23 @@
+{
+  "name": "Visa Facilities Center",
+  "description": "A global leader in digital payments technology that empowers people, enterprises, and economies to prosper.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/visa_facilities_center-logo.webp",
+  "websiteUrl": "https://usa.visa.com/",
+  "careersUrl": "https://corporate.visa.com/en/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "visa",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

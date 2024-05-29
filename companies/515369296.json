@@ -1,0 +1,23 @@
+{
+  "name": "Razor Labs",
+  "description": "Artificial Intelligence Solutions for Manufacturing Industries.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/razor_labs-logo.webp",
+  "websiteUrl": "https://www.razor-labs.com/",
+  "careersUrl": "https://www.razor-labs.com/careers/",
+  "isHiring": true,
+  "linkedinId": "razor-technologies-inc",
+  "crunchbaseId": null,
+  "finderId": "razor-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 150,
+      "city": "תל אביב - יפו",
+      "lat": 32.0605137,
+      "lon": 34.7759853
+    }
+  ]
+}

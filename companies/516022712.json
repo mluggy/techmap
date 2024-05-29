@@ -1,0 +1,23 @@
+{
+  "name": "Nasus Pharma",
+  "description": "A pharmaceutical company revealed promising clinical results for an intranasal epinephrine spray published in a prominent medical journal and presented at a major conference.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/nasus_pharma-logo.webp",
+  "websiteUrl": "https://www.nasuspharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "nasus-pharma",
+  "crunchbaseId": null,
+  "finderId": "nasus-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 29,
+      "city": "תל אביב - יפו",
+      "lat": 32.0626915,
+      "lon": 34.7796374
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fitto",
+  "description": "Offering a convenient and luxurious vanilla-flavored whey protein kit with a shaker and capsules, designed for easy preparation with milk or substitutes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/fitto-logo.webp",
+  "websiteUrl": "https://www.fitto.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fitto-world",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מזא\"ה",
+      "houseNumber": 67,
+      "city": "תל אביב - יפו",
+      "lat": 32.065214,
+      "lon": 34.780785
+    }
+  ]
+}

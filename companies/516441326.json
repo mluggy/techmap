@@ -1,0 +1,23 @@
+{
+  "name": "Cat AI",
+  "description": "We meticulously design dream vacations with a vast array of personalized options, from exotic destinations and paradise beaches to bustling cities and thrilling safaris.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/cat_ai-logo.webp",
+  "websiteUrl": "https://www.catai.es/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "catai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שנקר אריה",
+      "houseNumber": 4,
+      "city": "הרצליה",
+      "lat": 32.1605452,
+      "lon": 34.8093221
+    }
+  ]
+}

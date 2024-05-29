@@ -1,0 +1,23 @@
+{
+  "name": "Anyroutes",
+  "description": "A software service that facilitates teamwork in managing deliveries.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/anyroutes-logo.webp",
+  "websiteUrl": "https://www.anyroute.cloud/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "anyroutes",
+  "crunchbaseId": null,
+  "finderId": "anyroutes",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אסף",
+      "houseNumber": 20,
+      "city": "רמת גן",
+      "lat": 32.089304049999996,
+      "lon": 34.80792195196072
+    }
+  ]
+}

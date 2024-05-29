@@ -1,0 +1,23 @@
+{
+  "name": "Verified Planet",
+  "description": "Safeguarding Laboratory Specimens.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/verified_planet-logo.webp",
+  "websiteUrl": "https://planetverify.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "verified-planet-ltd",
+  "crunchbaseId": "verified-planet",
+  "finderId": "verified-planet",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתיב האור",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.78785285,
+      "lon": 34.96565267465318
+    }
+  ]
+}

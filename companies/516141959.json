@@ -1,0 +1,23 @@
+{
+  "name": "Renbizz Tech",
+  "description": "Facilitate seamless rental services to boost revenue, attract new clients, and elevate brand loyalty.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/renbizz_tech-logo.webp",
+  "websiteUrl": "https://www.renbizz.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "renbizz",
+  "crunchbaseId": "renbizz",
+  "finderId": "renbizz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרויאנוב",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.077144,
+      "lon": 34.770985
+    }
+  ]
+}

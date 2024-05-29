@@ -1,0 +1,23 @@
+{
+  "name": "Sol Del Medical",
+  "description": "Leading healthcare provider for the El Paso, TX area, delivering emergency care, full service hospitals, and over 200 medical specialists.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sol_del_medical-logo.webp",
+  "websiteUrl": "https://laspalmasdelsolhealthcare.com/",
+  "careersUrl": "https://careers.hcahealthcare.com/pages/del-sol-medical-center",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sol-del-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 10,
+      "city": "כפר סבא",
+      "lat": 32.1789899,
+      "lon": 34.9284423
+    }
+  ]
+}

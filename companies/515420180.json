@@ -1,0 +1,23 @@
+{
+  "name": "Gasngo R D",
+  "description": "Offering cutting-edge, real-time fleet management technology and services.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/gasngo_r_d-logo.webp",
+  "websiteUrl": "https://gasngo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gasngo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסיבים",
+      "houseNumber": 30,
+      "city": "פתח תקווה",
+      "lat": 32.0916612,
+      "lon": 34.8571892
+    }
+  ]
+}

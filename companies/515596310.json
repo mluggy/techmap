@@ -1,0 +1,23 @@
+{
+  "name": "Exoprother Medical",
+  "description": "Offering a nanoparticle-based cancer therapy that targets the p53 tumor suppression mechanism mutated in over 60% of cancers.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/exoprother_medical-logo.webp",
+  "websiteUrl": "https://www.exoprother.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "exoprother-medical",
+  "crunchbaseId": null,
+  "finderId": "exoprother-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרופא",
+      "houseNumber": 27,
+      "city": "חיפה",
+      "lat": 32.7851231,
+      "lon": 34.9809681
+    }
+  ]
+}

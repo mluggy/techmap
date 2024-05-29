@@ -1,0 +1,23 @@
+{
+  "name": "Strix Drones",
+  "description": "A technology firm pioneering drone delivery and docking solutions for commercial and defense industries, with operations in Israel and the U.S.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/strix_drones-logo.webp",
+  "websiteUrl": "https://www.strixdrones.com/",
+  "careersUrl": "https://www.strixdrones.com/careers-in-strix-drones",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "strix-drone",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרימון",
+      "houseNumber": 130,
+      "city": "נווה ירק",
+      "lat": 32.1340833,
+      "lon": 34.9238792
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Belong Financial Markets",
+  "description": "This app allows you to handle rental management, request professional services, and communicate with support, all in one place.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/belong_financial_markets-logo.webp",
+  "websiteUrl": "https://belonghome.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "belong",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מונטיפיורי",
+      "houseNumber": 48,
+      "city": "תל אביב - יפו",
+      "lat": 32.065774,
+      "lon": 34.774733
+    }
+  ]
+}

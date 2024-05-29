@@ -1,0 +1,23 @@
+{
+  "name": "Kashklik",
+  "description": "A platform for managing and executing marketing campaigns with social media influencers.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/kashklik-logo.webp",
+  "websiteUrl": "https://www.kashklik.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "kashklik",
+  "crunchbaseId": null,
+  "finderId": "kashklik",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חבצלת",
+      "houseNumber": 13,
+      "city": "קריית ים",
+      "lat": 32.8425015,
+      "lon": 35.0763337
+    }
+  ]
+}

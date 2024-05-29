@@ -1,0 +1,23 @@
+{
+  "name": "Sundo Agriculture Social Network",
+  "description": "A platform for volunteering in agriculture.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sundo_agriculture_social_network-logo.webp",
+  "websiteUrl": "https://en.sundoapp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "sundo-agriculture-social-network",
+  "finderId": "sundo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השומר",
+      "houseNumber": 1,
+      "city": "לביא",
+      "lat": 32.06868379100518,
+      "lon": 34.76927519115343
+    }
+  ]
+}

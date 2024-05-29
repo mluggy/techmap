@@ -1,0 +1,23 @@
+{
+  "name": "Finq Digital",
+  "description": "An intelligent investment platform utilizing big data and AI to provide modern, intermediary-free financial solutions for all.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/finq_digital-logo.webp",
+  "websiteUrl": "https://finqai.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "finq",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מונטיפיורי",
+      "houseNumber": 42,
+      "city": "תל אביב - יפו",
+      "lat": 32.06565,
+      "lon": 34.774042
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Castory",
+  "description": "A seamless platform using wearable cameras to document and map construction progress, preventing costly errors.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/castory-logo.webp",
+  "websiteUrl": "https://castory-ai.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "castory",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ולנברג ראול",
+      "houseNumber": 24,
+      "city": "תל אביב - יפו",
+      "lat": 32.111205,
+      "lon": 34.8388694
+    }
+  ]
+}

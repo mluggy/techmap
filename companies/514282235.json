@@ -1,0 +1,23 @@
+{
+  "name": "Zoominfo Israel",
+  "description": "A versatile operating system enabling revenue teams to achieve business growth through intelligence and prospecting.",
+  "categoryId": 1,
+  "size": "xl",
+  "logoFile": "logos/zoominfo_israel-logo.webp",
+  "websiteUrl": "https://www.zoominfo.com/",
+  "careersUrl": "https://www.zoominfo.com/careers",
+  "isHiring": true,
+  "linkedinId": "zoominfo",
+  "crunchbaseId": null,
+  "finderId": "zoominfo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השיזף",
+      "houseNumber": 4,
+      "city": "רעננה",
+      "lat": 32.1919424,
+      "lon": 34.8855377
+    }
+  ]
+}

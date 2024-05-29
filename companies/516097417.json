@@ -1,0 +1,23 @@
+{
+  "name": "Elixie",
+  "description": "A dynamic, functional language optimized for creating scalable, low-latency, and fault-tolerant applications across various domains.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/elixie-logo.webp",
+  "websiteUrl": "https://elixir-lang.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "elixie-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חפץ ישה",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.115644,
+      "lon": 34.786687
+    }
+  ]
+}

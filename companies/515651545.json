@@ -1,0 +1,23 @@
+{
+  "name": "Make My Day",
+  "description": "Providing special tire benefits and delightful experiences that enhance your day.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/make_my_day-logo.webp",
+  "websiteUrl": "https://makemyday.michelin.gr/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "makemyday",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.113198,
+      "lon": 34.844295
+    }
+  ]
+}

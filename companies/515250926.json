@@ -1,0 +1,23 @@
+{
+  "name": "Hisky Scs",
+  "description": "Innovative technology enables efficient transfer of low data rates over GEO satellites in Ka/Ku bands for high-volume, remote data networks.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/hisky_scs-logo.webp",
+  "websiteUrl": "https://hiskysat.com/",
+  "careersUrl": "https://hiskysat.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hisky",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 24,
+      "city": "ראש העין",
+      "lat": 32.0970131,
+      "lon": 34.9105972
+    }
+  ]
+}

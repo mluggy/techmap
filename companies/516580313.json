@@ -1,0 +1,23 @@
+{
+  "name": "Eyecan Tech",
+  "description": "A smart headband that uses real-time image processing to alert swimmers of lane deviations and potential hazards for a safer, independent swim.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/eyecan_tech-logo.webp",
+  "websiteUrl": "https://www.eyecan.tech/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "eyecan-tech",
+  "crunchbaseId": null,
+  "finderId": "eyecan-tech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגולן",
+      "houseNumber": 57,
+      "city": "נירית",
+      "lat": 32.146642468857706,
+      "lon": 34.984546278428105
+    }
+  ]
+}

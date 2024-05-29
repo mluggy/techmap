@@ -1,0 +1,23 @@
+{
+  "name": "Yevul Info",
+  "description": "We provide AI-driven, real-time plant health monitoring and automated nutrient management through continuous RGB analysis and cloud connectivity.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/yevul_info-logo.webp",
+  "websiteUrl": "https://www.yevulinfo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "yevul-info",
+  "crunchbaseId": "yevul-info",
+  "finderId": "yevul-info",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברנע",
+      "houseNumber": 4,
+      "city": "קצרין",
+      "lat": 32.9920262,
+      "lon": 35.6877004
+    }
+  ]
+}

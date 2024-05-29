@@ -1,0 +1,23 @@
+{
+  "name": "Anima App",
+  "description": "Boost product teams' efficiency by streamlining design-to-development workflows and enhancing prototyping capabilities.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/anima_app-logo.webp",
+  "websiteUrl": "https://www.animaapp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "anima-app",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברלין אליהו",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.123928,
+      "lon": 34.7925715
+    }
+  ]
+}

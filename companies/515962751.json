@@ -1,0 +1,23 @@
+{
+  "name": "Merry Pop In",
+  "description": "Platform for Hosting Temporary Retail Spaces.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/merry_pop_in-logo.webp",
+  "websiteUrl": "https://merrypopin.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "merrypopin",
+  "crunchbaseId": "merry-pop-in-ltd",
+  "finderId": "merry-pop-in",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אשכול לוי",
+      "houseNumber": 22,
+      "city": "חדרה",
+      "lat": 32.4267126,
+      "lon": 34.916442
+    }
+  ]
+}

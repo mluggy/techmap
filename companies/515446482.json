@@ -1,0 +1,23 @@
+{
+  "name": "Globekeeper Tech",
+  "description": "Unified platform for operational teams to oversee, coordinate, and document all activities seamlessly.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/globekeeper_tech-logo.webp",
+  "websiteUrl": "https://www.globekeeper.com/",
+  "careersUrl": "https://www.globekeeper.com/career",
+  "isHiring": true,
+  "linkedinId": "globekeeper",
+  "crunchbaseId": "globekeeper",
+  "finderId": "globekeeper",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לבנון חיים",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.1203825,
+      "lon": 34.8021072
+    }
+  ]
+}

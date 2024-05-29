@@ -1,0 +1,23 @@
+{
+  "name": "Virimask",
+  "description": "Offers individually packaged protective masks and replacement filters with international shipping.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/virimask-logo.webp",
+  "websiteUrl": "https://www.virimask.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "virimask",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אתגר",
+      "houseNumber": 4,
+      "city": "טירת כרמל",
+      "lat": 32.7726661,
+      "lon": 34.9678575
+    }
+  ]
+}

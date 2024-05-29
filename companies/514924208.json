@@ -1,0 +1,23 @@
+{
+  "name": "Peak Medical",
+  "description": "Devices for managing airways and providing critical care.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/peak_medical-logo.webp",
+  "websiteUrl": "https://peakmedicalproducts.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "peak-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גיבורי ישראל",
+      "houseNumber": 10,
+      "city": "נתניה",
+      "lat": 32.277431119999996,
+      "lon": 34.85979694
+    }
+  ]
+}

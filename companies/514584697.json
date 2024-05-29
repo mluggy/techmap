@@ -1,0 +1,23 @@
+{
+  "name": "Syqe Medical",
+  "description": "A medical device offering precise, fast-acting cannabis dosages to alleviate chronic neuropathic pain with minimal psychoactive effects.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/syqe_medical-logo.webp",
+  "websiteUrl": "https://syqe.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "syqe-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התחיה",
+      "houseNumber": 14,
+      "city": "תל אביב - יפו",
+      "lat": 32.050123,
+      "lon": 34.762934
+    }
+  ]
+}

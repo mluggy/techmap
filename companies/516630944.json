@@ -1,0 +1,23 @@
+{
+  "name": "Mamay Technologies",
+  "description": "A universal digital system for describing flavors, scents, and textures.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/mamay_technologies-logo.webp",
+  "websiteUrl": "https://www.tastegage.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "mamay-technologies",
+  "crunchbaseId": "mamay-technologies",
+  "finderId": "mamay-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד תל חי",
+      "houseNumber": 98,
+      "city": "קריית שמונה",
+      "lat": 33.2081443,
+      "lon": 35.5695304
+    }
+  ]
+}

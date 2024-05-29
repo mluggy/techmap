@@ -1,0 +1,23 @@
+{
+  "name": "Refinitiv Israel",
+  "description": "Offering a comprehensive suite of financial tools for beginners and professionals alike.",
+  "categoryId": 10,
+  "size": "xl",
+  "logoFile": "logos/refinitiv_israel-logo.webp",
+  "websiteUrl": "https://eikon.refinitiv.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "refinitiv",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

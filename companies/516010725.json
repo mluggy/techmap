@@ -1,0 +1,23 @@
+{
+  "name": "Empress Medical",
+  "description": "This company specializes in a laparoscopic procedure to treat symptomatic uterine fibroids by inducing ischemia, aiming to transform fibroid care for women, particularly those from black and ethnic groups.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/empress_medical-logo.webp",
+  "websiteUrl": "https://empressmed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "empress-medical",
+  "crunchbaseId": null,
+  "finderId": "empress-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 21,
+      "city": "תל אביב - יפו",
+      "lat": 32.108647,
+      "lon": 34.838493
+    }
+  ]
+}

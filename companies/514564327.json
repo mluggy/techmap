@@ -1,0 +1,23 @@
+{
+  "name": "Redis",
+  "description": "Developers love Redis. Unlock the full potential of the Redis database with Redis Enterprise and start building blazing fast apps.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/redis-logo.webp",
+  "websiteUrl": "https://redis.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "redis-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Media Forest",
+  "description": "Specializing in signal processing and analytics, this company offers AI-powered ACR and ASR solutions through a cloud-based SaaS platform that monitors various media channels.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/media_forest-logo.webp",
+  "websiteUrl": "https://mediaforest-group.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "media-forest",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 25,
+      "city": "נתניה",
+      "lat": 32.2810117,
+      "lon": 34.8596147
+    }
+  ]
+}

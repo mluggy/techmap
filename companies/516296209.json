@@ -1,0 +1,23 @@
+{
+  "name": "Cyera",
+  "description": "A swift-deploying, cloud-native solution that leverages APIs to autonomously discover, classify, and secure sensitive data across all environments, freeing your team to focus on mitigating security and privacy risks.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/cyera-logo.webp",
+  "websiteUrl": "https://www.cyera.io/",
+  "careersUrl": "https://www.cyera.io/careers",
+  "isHiring": true,
+  "linkedinId": "cyera",
+  "crunchbaseId": null,
+  "finderId": "cyera",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 166,
+      "city": "תל אביב - יפו",
+      "lat": 32.091261,
+      "lon": 34.783164
+    }
+  ]
+}

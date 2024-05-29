@@ -1,0 +1,23 @@
+{
+  "name": "Optonol",
+  "description": "Small-scale surgical implants designed for glaucoma treatment.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/optonol-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "optonol",
+  "crunchbaseId": null,
+  "finderId": "optonol",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כנפי נשרים",
+      "houseNumber": 3,
+      "city": "ירושלים",
+      "lat": 31.787259,
+      "lon": 35.1899655
+    }
+  ]
+}

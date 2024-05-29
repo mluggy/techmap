@@ -1,0 +1,23 @@
+{
+  "name": "Joyvoo",
+  "description": "Dedicated to elevating player experiences with exceptional, personalized service and industry-leading technology.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/joyvoo-logo.webp",
+  "websiteUrl": "https://joyvoo.com/",
+  "careersUrl": "https://joyvoo.com/jobs/",
+  "isHiring": true,
+  "linkedinId": "joyvoo",
+  "crunchbaseId": null,
+  "finderId": "joyvoo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 18,
+      "city": "נתניה",
+      "lat": 32.27985305,
+      "lon": 34.858477541008384
+    }
+  ]
+}

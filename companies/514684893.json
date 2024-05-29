@@ -1,0 +1,23 @@
+{
+  "name": "Apple Israel",
+  "description": "A leading global company specializing in innovative technology products and retail services.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/apple_israel-logo.webp",
+  "websiteUrl": "https://www.apple.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "apple",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 12,
+      "city": "הרצליה",
+      "lat": 32.16552705,
+      "lon": 34.81043178834902
+    }
+  ]
+}

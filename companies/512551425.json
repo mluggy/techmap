@@ -1,0 +1,23 @@
+{
+  "name": "Aeronautics",
+  "description": "Autonomous Drone and Defense Technology Provider.",
+  "categoryId": 3,
+  "size": "l",
+  "logoFile": "logos/aeronautics-logo.webp",
+  "websiteUrl": "https://www.aiaa.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aeronautics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחל שניר",
+      "houseNumber": 10,
+      "city": "יבנה",
+      "lat": 31.8993354,
+      "lon": 34.7385308
+    }
+  ]
+}

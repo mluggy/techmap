@@ -1,0 +1,23 @@
+{
+  "name": "G V Cosmetics",
+  "description": "Providing research, development, and manufacturing of high-quality cosmetics to leading companies for over 20 years.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/g_v_cosmetics-logo.webp",
+  "websiteUrl": "https://www.gvcosmetics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "g-v-cosmetics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גליס",
+      "houseNumber": 34,
+      "city": "פתח תקווה",
+      "lat": 32.10634545,
+      "lon": 34.89119075
+    }
+  ]
+}

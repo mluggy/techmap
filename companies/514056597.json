@@ -1,0 +1,23 @@
+{
+  "name": "Painreform",
+  "description": "This pharmaceutical firm develops extended-release drug delivery systems for post-surgical pain relief to decrease the reliance on opiates.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/painreform-logo.webp",
+  "websiteUrl": "https://painreform.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "painreform",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 65,
+      "city": "תל אביב - יפו",
+      "lat": 32.065766,
+      "lon": 34.792307
+    }
+  ]
+}

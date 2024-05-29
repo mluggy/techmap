@@ -1,0 +1,23 @@
+{
+  "name": "Minimaxit",
+  "description": "Compact Portable Seat.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/minimaxit-logo.webp",
+  "websiteUrl": "https://www.minimaxstool.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "minimaxit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברלין אליהו",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.123928,
+      "lon": 34.7925715
+    }
+  ]
+}

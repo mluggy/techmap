@@ -1,0 +1,23 @@
+{
+  "name": "Eyedo Fielding Technologies",
+  "description": "Offers a 30-day return or exchange policy for eyewear to ensure customer satisfaction.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/eyedo_fielding_technologies-logo.webp",
+  "websiteUrl": "https://www.eyedoeyewear.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eyedo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נהר הירדן",
+      "houseNumber": 2,
+      "city": "לוד",
+      "lat": 32.0243218,
+      "lon": 34.8302716
+    }
+  ]
+}

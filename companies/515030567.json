@@ -1,0 +1,23 @@
+{
+  "name": "Smartlation",
+  "description": "Offering a 24/7 marketplace for professional, certified document translation by allowing users to upload files and select translators.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/smartlation-logo.webp",
+  "websiteUrl": "https://app.smartlation.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "smartlation",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתנזון",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.8173008,
+      "lon": 35.0005333
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Astrix Security",
+  "description": "A security platform specializing in API keys, OAuth apps, and service accounts, protecting businesses through continuous remediation of risky connections.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/astrix_security-logo.webp",
+  "websiteUrl": "https://astrix.security/",
+  "careersUrl": "https://astrix.security/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "astrix-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הזוהר",
+      "houseNumber": 43,
+      "city": "תל אביב - יפו",
+      "lat": 32.09643,
+      "lon": 34.79478
+    }
+  ]
+}

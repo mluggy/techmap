@@ -1,0 +1,23 @@
+{
+  "name": "Tingo Medical",
+  "description": "A device designed to continuously track blood sugar levels for individuals with diabetes.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/tingo_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "tingo-medical-ltd",
+  "crunchbaseId": null,
+  "finderId": "tingo-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד הרכס",
+      "houseNumber": 13,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9228472,
+      "lon": 34.9906948
+    }
+  ]
+}

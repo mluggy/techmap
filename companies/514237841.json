@@ -1,0 +1,23 @@
+{
+  "name": "Learningzone",
+  "description": "They offer identity verification services requiring users to log in for validation to facilitate local service access.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/learningzone-logo.webp",
+  "websiteUrl": "http://learningzone.dmu.ac.uk/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "learningzone",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ארלוזורוב",
+      "houseNumber": 12,
+      "city": "רעננה",
+      "lat": 32.177584,
+      "lon": 34.8783644
+    }
+  ]
+}

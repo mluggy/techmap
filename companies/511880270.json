@@ -1,0 +1,23 @@
+{
+  "name": "Artware",
+  "description": "A tech company creating advanced web UX tools with global deployment, serving diverse industries, and offering jBart, a visual tool for building web widgets.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/artware-logo.webp",
+  "websiteUrl": "https://www.artwaresoft.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "artware",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכלנית",
+      "houseNumber": 15,
+      "city": "כוכב יאיר",
+      "lat": 32.2251307,
+      "lon": 35.003459
+    }
+  ]
+}

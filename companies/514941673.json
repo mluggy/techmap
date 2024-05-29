@@ -1,0 +1,23 @@
+{
+  "name": "Qira Finance",
+  "description": "An all-in-one financial platform providing property management firms with rental payment technology, security deposit programs, and resident services.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/qira_finance-logo.webp",
+  "websiteUrl": "https://qira.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hellorented",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קלישר",
+      "houseNumber": 12,
+      "city": "רעננה",
+      "lat": 32.181678,
+      "lon": 34.8663302
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pagaya Investment Israel",
+  "description": "Experience advanced financial solutions through an AI-powered network that maximizes credit approvals while minimizing risk.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/pagaya_investment_israel-logo.webp",
+  "websiteUrl": "https://pagaya.com/",
+  "careersUrl": "https://pagaya.com/careers/",
+  "isHiring": true,
+  "linkedinId": "pagaya",
+  "crunchbaseId": null,
+  "finderId": "pagaya",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

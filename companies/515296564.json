@@ -1,0 +1,23 @@
+{
+  "name": "Omniloom",
+  "description": "A platform designed to enhance and forecast media performance.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/omniloom-logo.webp",
+  "websiteUrl": "https://www.omniloom.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "pixellito",
+  "finderId": "pixellito",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 38,
+      "city": "תל אביב - יפו",
+      "lat": 32.1103886,
+      "lon": 34.84245
+    }
+  ]
+}

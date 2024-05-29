@@ -1,0 +1,23 @@
+{
+  "name": "Spetrotec",
+  "description": "Specializing in advanced telematics, this company develops solutions for vehicle tracking, security, fleet management, and driver safety.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/spetrotec_ltd-logo.webp",
+  "websiteUrl": "https://www.spetrotec.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "spetrotec",
+  "crunchbaseId": null,
+  "finderId": "spetrotec",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מבוא קדם",
+      "houseNumber": 5,
+      "city": "הוד השרון",
+      "lat": 32.1557398,
+      "lon": 34.9200655
+    }
+  ]
+}

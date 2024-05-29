@@ -1,0 +1,23 @@
+{
+  "name": "Airgreen",
+  "description": "A patented air conditioning solution offering modular humidity control and energy savings for diverse applications including agriculture, pharma, schools, and more.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/airgreen-logo.webp",
+  "websiteUrl": "https://airgreeninc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "airgreen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אד\"ם הכהן",
+      "houseNumber": 15,
+      "city": "חיפה",
+      "lat": 32.779762500000004,
+      "lon": 35.016707648469136
+    }
+  ]
+}

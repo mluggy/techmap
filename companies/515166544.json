@@ -1,0 +1,23 @@
+{
+  "name": "Payment Financial Technologies",
+  "description": "Enables businesses to receive full payments instantly, ensuring positive cash flow and eliminating credit risks.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/payment_financial_technologies-logo.webp",
+  "websiteUrl": "https://payment-pay.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "payment-pay",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסדנאות",
+      "houseNumber": 4,
+      "city": "הרצליה",
+      "lat": 32.1621621,
+      "lon": 34.8067893
+    }
+  ]
+}

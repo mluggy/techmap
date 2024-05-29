@@ -1,0 +1,23 @@
+{
+  "name": "Ecycli",
+  "description": "For those seeking healthier alternatives, this company offers xylitol, a low-calorie sweetener that mimics sugar's taste without spiking blood sugar levels.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ecycli-logo.webp",
+  "websiteUrl": "https://www.ecycle.com.br/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ecycli",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השיח",
+      "houseNumber": 9,
+      "city": "אבן יהודה",
+      "lat": 32.2683982,
+      "lon": 34.8846034
+    }
+  ]
+}

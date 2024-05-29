@@ -1,0 +1,23 @@
+{
+  "name": "San 26 Raynes Petah Tikva",
+  "description": "The official website provides real-time flight tracking, arrival and departure schedules, and the latest news updates for travelers.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/san_26_raynes_petah_tikva-logo.webp",
+  "websiteUrl": "https://www.san.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "san",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מפי",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.2746979,
+      "lon": 34.8602605
+    }
+  ]
+}

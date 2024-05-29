@@ -1,0 +1,23 @@
+{
+  "name": "Amazon",
+  "description": "Experience unparalleled shopping and entertainment with low prices, free shipping, and a vast selection of products and Prime benefits.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/amazon-logo.webp",
+  "websiteUrl": "https://www.amazon.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "amazon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ריב\"ל",
+      "houseNumber": 18,
+      "city": "תל אביב - יפו",
+      "lat": 32.062477,
+      "lon": 34.782957
+    }
+  ]
+}

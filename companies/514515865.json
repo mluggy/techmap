@@ -1,0 +1,23 @@
+{
+  "name": "Simplex Consulting",
+  "description": "Providing integrated fraud prevention and payment processing solutions, this service ensures fast and secure transactions.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/simplex_consulting-logo.webp",
+  "websiteUrl": "https://www.simplex.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "simplex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "באדר יוחנן",
+      "houseNumber": 4,
+      "city": "רמת גן",
+      "lat": 32.0728439,
+      "lon": 34.8318052
+    }
+  ]
+}

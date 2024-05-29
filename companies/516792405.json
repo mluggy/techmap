@@ -1,0 +1,23 @@
+{
+  "name": "As You Stay Israel",
+  "description": "Offering flexible hotel check-in and check-out times for two travelers, ensuring ultimate convenience.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/as_you_stay_israel-logo.webp",
+  "websiteUrl": "https://asyoustay.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "as-you-stay",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שמגר",
+      "houseNumber": 8,
+      "city": "רמת השרון",
+      "lat": 32.140497100000005,
+      "lon": 34.84350175
+    }
+  ]
+}

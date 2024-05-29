@@ -1,0 +1,23 @@
+{
+  "name": "Xenemetrix",
+  "description": "This company develops cutting-edge XRF technologies for non-destructive elemental analysis with highly sensitive detection capabilities.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/xenemetrix-logo.webp",
+  "websiteUrl": "https://xenemetrix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "xenemetrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התקשורת",
+      "houseNumber": 6,
+      "city": "מגדל העמק",
+      "lat": 32.688657,
+      "lon": 35.2479729
+    }
+  ]
+}

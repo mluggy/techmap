@@ -1,0 +1,23 @@
+{
+  "name": "Armenta",
+  "description": "Redefining everyday luxury with handcrafted, eco-friendly fashion that drives positive change.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/armenta-logo.webp",
+  "websiteUrl": "https://www.armentacollection.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "armenta",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפנינה",
+      "houseNumber": 8,
+      "city": "רעננה",
+      "lat": 32.1754469,
+      "lon": 34.8898748
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "3 Nt Medical",
+  "description": "A medical device company expanding its product availability in collaboration with physicians and offering updates through a contact form.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/3_nt_medical-logo.webp",
+  "websiteUrl": "https://3ntmedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "3ntmedical",
+  "crunchbaseId": null,
+  "finderId": "3nt-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 22,
+      "city": "ראש העין",
+      "lat": 32.108278,
+      "lon": 34.9652441
+    }
+  ]
+}

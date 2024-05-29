@@ -1,0 +1,23 @@
+{
+  "name": "Flanimus",
+  "description": "A breath test designed to diagnose COVID-19.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/flanimus-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "flanimus",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אייזנברג",
+      "houseNumber": 3,
+      "city": "רחובות",
+      "lat": 31.9008779,
+      "lon": 34.8100994
+    }
+  ]
+}

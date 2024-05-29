@@ -1,0 +1,23 @@
+{
+  "name": "Remedor Biomed",
+  "description": "Drugs Designed for Treating Wounds.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/remedor_biomed-logo.webp",
+  "websiteUrl": "https://www.remedor.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "remedor-biomed-ltd",
+  "crunchbaseId": null,
+  "finderId": "remedor-biomed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העבודה",
+      "houseNumber": 12,
+      "city": "נוף הגליל",
+      "lat": 32.7139711,
+      "lon": 35.3368381
+    }
+  ]
+}

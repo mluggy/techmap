@@ -1,0 +1,23 @@
+{
+  "name": "Axilion",
+  "description": "Leveraging AI, Axilion provides real-time traffic insights and optimized plans to tackle urban mobility challenges and improve city life.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/axilion-logo.webp",
+  "websiteUrl": "https://axilion.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "axilion-ltd",
+  "crunchbaseId": null,
+  "finderId": "axilion",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סחרוב אנדרה",
+      "houseNumber": 9,
+      "city": "חיפה",
+      "lat": 32.7897925,
+      "lon": 34.9593655
+    }
+  ]
+}

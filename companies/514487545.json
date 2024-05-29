@@ -1,0 +1,23 @@
+{
+  "name": "T Rex",
+  "description": "We provide cutting-edge software solutions and comprehensive data management services for asset-backed financing.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/t_rex-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "t-rex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 33,
+      "city": "תל אביב - יפו",
+      "lat": 32.07527,
+      "lon": 34.781445
+    }
+  ]
+}

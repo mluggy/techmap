@@ -1,0 +1,23 @@
+{
+  "name": "Neuromagen Pharma",
+  "description": "A Ben-Gurion University accelerator company advancing ALS treatment and promoting awareness through research and sponsorships.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/neuromagen_pharma-logo.webp",
+  "websiteUrl": "https://www.neuromagen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "neuromagen-pharma",
+  "crunchbaseId": null,
+  "finderId": "neuromagen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האנרגיה",
+      "houseNumber": 77,
+      "city": "באר שבע",
+      "lat": 31.263266,
+      "lon": 34.8105466
+    }
+  ]
+}

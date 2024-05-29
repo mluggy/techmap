@@ -1,0 +1,23 @@
+{
+  "name": "Anymaint",
+  "description": "Provides a streamlined platform for real-time issue management and intelligent decision-making across various maintenance types.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/anymaint-logo.webp",
+  "websiteUrl": "https://anymaint.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "anymaint",
+  "crunchbaseId": null,
+  "finderId": "AnyMaint",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.109727,
+      "lon": 34.838141
+    }
+  ]
+}

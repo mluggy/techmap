@@ -1,0 +1,23 @@
+{
+  "name": "J Vocals",
+  "description": "A platform connecting Jewish voice talents with users, founded in 2019 out of a love for cantorial music.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/j_vocals-logo.webp",
+  "websiteUrl": "https://www.jvocals.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jvocals",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לוי משה",
+      "houseNumber": 11,
+      "city": "ראשון לציון",
+      "lat": 31.9888736,
+      "lon": 34.7738644
+    }
+  ]
+}

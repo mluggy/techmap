@@ -1,0 +1,23 @@
+{
+  "name": "Claimzai",
+  "description": "Utilizing a proprietary AI algorithm, this company automates the collection and processing of traffic accident, bodily injury, and financial compensation data from publicly available court rulings, decisions, and settlements in tort claims.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/claimzai-logo.webp",
+  "websiteUrl": "https://www.claimzai.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "claimzai",
+  "crunchbaseId": "claimz-ai",
+  "finderId": "claimzai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כצנלסון",
+      "houseNumber": 104,
+      "city": "גבעתיים",
+      "lat": 32.0763905,
+      "lon": 34.8133357
+    }
+  ]
+}

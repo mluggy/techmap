@@ -1,0 +1,23 @@
+{
+  "name": "Lavie Bio",
+  "description": "Integrating over 5 petabytes of microbiome and environmental data, this company leverages advanced modeling to discover, optimize, and develop innovative products.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/lavie_bio-logo.webp",
+  "websiteUrl": "https://lavie-bio.com/",
+  "careersUrl": "https://lavie-bio.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lavie-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פינשטיין",
+      "houseNumber": 13,
+      "city": "רחובות",
+      "lat": 31.8999536,
+      "lon": 34.79146377703995
+    }
+  ]
+}

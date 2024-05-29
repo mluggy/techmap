@@ -1,0 +1,23 @@
+{
+  "name": "Fre Skincare",
+  "description": "Offering science-backed, antioxidant-rich suncare products designed to protect, treat, and enhance skin health.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/fre_skincare-logo.webp",
+  "websiteUrl": "https://www.freskincare.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fre-skincare",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ולנברג ראול",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.107465,
+      "lon": 34.827939
+    }
+  ]
+}

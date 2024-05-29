@@ -1,0 +1,23 @@
+{
+  "name": "Event Place",
+  "description": "This premier Manila venue elevates any occasion with versatile event spaces for 30 to 250 guests.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/event_place-logo.webp",
+  "websiteUrl": "https://www.55eventsplace.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eventplace",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לוין גוטל",
+      "houseNumber": 16,
+      "city": "חיפה",
+      "lat": 32.784739,
+      "lon": 35.0048583
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Biomarkerz",
+  "description": "A digital service designed to enhance experiences in mental health care.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/biomarkerz-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "biomarkerz",
+  "finderId": "biomarkerz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלי כהן",
+      "houseNumber": 11,
+      "city": "תל אביב - יפו",
+      "lat": 32.121775,
+      "lon": 34.793306
+    }
+  ]
+}

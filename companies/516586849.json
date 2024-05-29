@@ -1,0 +1,23 @@
+{
+  "name": "Cypator Technologies",
+  "description": "A platform providing liquidity solutions as a service.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/cypator_technologies-logo.webp",
+  "websiteUrl": "https://cypator.com/",
+  "careersUrl": "https://www.ycombinator.com/companies/cypher/jobs",
+  "isHiring": true,
+  "linkedinId": "cypator",
+  "crunchbaseId": null,
+  "finderId": "cypator-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שער הים",
+      "houseNumber": 23,
+      "city": "הרצליה",
+      "lat": 32.1877382,
+      "lon": 34.8136406
+    }
+  ]
+}

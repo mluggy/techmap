@@ -1,0 +1,23 @@
+{
+  "name": "Inango",
+  "description": "A free online platform for managing rental properties efficiently.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/inango-logo.webp",
+  "websiteUrl": "https://innago.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "inango",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברקוביץ",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.078703,
+      "lon": 34.7870616
+    }
+  ]
+}

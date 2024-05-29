@@ -1,0 +1,23 @@
+{
+  "name": "Reinvent Pharma",
+  "description": "A patient-focused company advancing innovative anti-cancer treatments by combining existing FDA-approved drugs to enhance clinical outcomes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/reinvent_pharma-logo.webp",
+  "websiteUrl": "https://www.reinvent-pharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "reinvent-pharma",
+  "crunchbaseId": null,
+  "finderId": "reinvent-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המזמרה",
+      "houseNumber": 9,
+      "city": "נס ציונה",
+      "lat": 31.921201,
+      "lon": 34.7943342
+    }
+  ]
+}

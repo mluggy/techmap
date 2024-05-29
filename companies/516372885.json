@@ -1,0 +1,23 @@
+{
+  "name": "Bizi Finance",
+  "description": "A consolidated PBIS platform for schools that also educates students on financial literacy.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/bizi_finance-logo.webp",
+  "websiteUrl": "https://www.bizimotivates.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bizi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

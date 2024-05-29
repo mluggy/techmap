@@ -1,0 +1,23 @@
+{
+  "name": "Kolorpen",
+  "description": "A revolutionary needle-free device leveraging piezoelectric energy to deliver precise, rapid injections for applications ranging from cosmetic treatments to vaccinations.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/kolorpen-logo.webp",
+  "websiteUrl": "https://kolorpen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kolorpen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק נבון",
+      "houseNumber": 3,
+      "city": "עפולה",
+      "lat": 32.61335821451393,
+      "lon": 35.30064293164333
+    }
+  ]
+}

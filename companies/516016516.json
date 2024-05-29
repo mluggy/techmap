@@ -1,0 +1,23 @@
+{
+  "name": "Wild Biotech",
+  "description": "Platform for Discovering and Developing Drugs from Microbial Sources.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/wild_biotech-logo.webp",
+  "websiteUrl": "https://wildbio.tech/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wild-biotech",
+  "crunchbaseId": "wild-biotech-ltd",
+  "finderId": "wild-biotech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ב\"ק ישראל",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.068744,
+      "lon": 34.788052
+    }
+  ]
+}

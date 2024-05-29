@@ -1,0 +1,23 @@
+{
+  "name": "Respidx",
+  "description": "On-Site Pneumonia Detection.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/respidx-logo.webp",
+  "websiteUrl": "https://respidx.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "respidx",
+  "finderId": "respidx",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבנאים",
+      "houseNumber": 4,
+      "city": "אשדוד",
+      "lat": 31.8163658,
+      "lon": 34.6572715
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Elefend",
+  "description": "Safeguarding Against Consumer Fraud and Identity Theft.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/elefend-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "elefend",
+  "finderId": "elefend-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 23,
+      "city": "בני ברק",
+      "lat": 32.0940715,
+      "lon": 34.823239
+    }
+  ]
+}

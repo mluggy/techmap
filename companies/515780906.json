@@ -1,0 +1,23 @@
+{
+  "name": "Geocloud",
+  "description": "An online platform for storing, converting, visualizing, and sharing GIS data in various formats and coordinate systems.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/geocloud-logo.webp",
+  "websiteUrl": "https://mygeodata.cloud/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "geocloud",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רעות",
+      "houseNumber": 7,
+      "city": "הוד השרון",
+      "lat": 32.1592344,
+      "lon": 34.8999979
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Rightbound",
+  "description": "A leading outbound prospecting tool that provides accurate contact information and discovers new accounts tailored to your criteria.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/rightbound-logo.webp",
+  "websiteUrl": "https://rightbound.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "rightbound",
+  "crunchbaseId": null,
+  "finderId": "rightbound",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אשכול לוי",
+      "houseNumber": 18,
+      "city": "תל אביב - יפו",
+      "lat": 32.102284,
+      "lon": 34.789573
+    }
+  ]
+}

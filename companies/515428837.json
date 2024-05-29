@@ -1,0 +1,23 @@
+{
+  "name": "Mypart",
+  "description": "An online platform specializing in buying and selling auto parts.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/mypart-logo.webp",
+  "websiteUrl": "https://www.myparts.ge/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mypart",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "איסרליש",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.071544,
+      "lon": 34.790344
+    }
+  ]
+}

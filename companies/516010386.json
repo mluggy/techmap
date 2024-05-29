@@ -1,0 +1,23 @@
+{
+  "name": "Airwayz Drones",
+  "description": "Enhancing real-time airspace management, this company provides intelligent software for efficient drone operations.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/airwayz_drones-logo.webp",
+  "websiteUrl": "https://airwayz.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "airwayz-drones",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.1096964,
+      "lon": 34.8381999
+    }
+  ]
+}

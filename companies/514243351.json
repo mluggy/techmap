@@ -1,0 +1,23 @@
+{
+  "name": "Novomic",
+  "description": "Lice Removal Services.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/novomic-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "novomic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 23,
+      "city": "ראש העין",
+      "lat": 32.10759415,
+      "lon": 34.97134494812779
+    }
+  ]
+}

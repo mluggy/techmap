@@ -1,0 +1,23 @@
+{
+  "name": "Novamed",
+  "description": "Providing cost-effective, high-quality maintenance and repair solutions for your equipment.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/novamed_ltd-logo.webp",
+  "websiteUrl": "https://www.novamedcorp.com/",
+  "careersUrl": "http://www.novamed-usa.com/career_home.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "novamed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרטום",
+      "houseNumber": 19,
+      "city": "ירושלים",
+      "lat": 31.8041398,
+      "lon": 35.2105915
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bluebricks",
+  "description": "A company dedicated to fostering clear and effective communication through speech and drama classes since 2006.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/bluebricks-logo.webp",
+  "websiteUrl": "https://www.blubricks.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bluebricks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המחלבה",
+      "houseNumber": 1,
+      "city": "כפר ורבורג",
+      "lat": 31.7154537,
+      "lon": 34.7252639
+    }
+  ]
+}

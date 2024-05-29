@@ -1,0 +1,23 @@
+{
+  "name": "Hunters",
+  "description": "Their platform empowers security teams to mitigate risk, reduce complexity, and cut costs beyond traditional SIEM solutions.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/hunters_ltd-logo.webp",
+  "websiteUrl": "https://www.hunters.security/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hunters",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היובלים",
+      "houseNumber": 3,
+      "city": "הוד השרון",
+      "lat": 32.13357225,
+      "lon": 34.903327191157686
+    }
+  ]
+}

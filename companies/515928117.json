@@ -1,0 +1,23 @@
+{
+  "name": "Propel Hr",
+  "description": "Provides essential nutrients like Vitamin C and Zinc to bolster immune health.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/propel_hr-logo.webp",
+  "websiteUrl": "https://www.propelwater.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "propel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רגבים",
+      "houseNumber": 3,
+      "city": "רמת השרון",
+      "lat": 32.1496042,
+      "lon": 34.839727
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Firedome",
+  "description": "Offering a software-based NDR, Firedome Curve™ boosts security ROI by leveraging network traffic insights and deep packet inspection, eliminating the need for hardware.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/firedome-logo.webp",
+  "websiteUrl": "https://firedome.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "firedome",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריק איינשטיין",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1630763,
+      "lon": 34.8150141
+    }
+  ]
+}

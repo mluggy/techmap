@@ -1,0 +1,23 @@
+{
+  "name": "Scubax",
+  "description": "Scuba.com, your ultimate destination for top-quality scuba gear and snorkeling gear. Explore our extensive collection of essential equipment, ...",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/scubax-logo.webp",
+  "websiteUrl": "https://www.scuba.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "scubax",
+  "crunchbaseId": null,
+  "finderId": "scubax",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קדש",
+      "houseNumber": 26,
+      "city": "באר שבע",
+      "lat": 31.2674526,
+      "lon": 34.7971363
+    }
+  ]
+}

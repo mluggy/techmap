@@ -1,0 +1,23 @@
+{
+  "name": "Tanku",
+  "description": "AI Solutions Utilizing Computer Vision for the Outdoor Retail Industry.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/tanku-logo.webp",
+  "websiteUrl": "https://www.tanku.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tanku",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית לחם",
+      "houseNumber": 97,
+      "city": "חיפה",
+      "lat": 32.8175519,
+      "lon": 34.975139
+    }
+  ]
+}

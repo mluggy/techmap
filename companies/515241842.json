@@ -1,0 +1,23 @@
+{
+  "name": "Ever Co",
+  "description": "Commerce Solutions Available When You Need Them.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/ever_co-logo.webp",
+  "websiteUrl": "https://www.theeverco.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ever-co",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העצמאות",
+      "houseNumber": 38,
+      "city": "אשדוד",
+      "lat": 31.7898874,
+      "lon": 34.645077
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Eyecuracy",
+  "description": "A leading hybrid healthcare platform utilizing advanced AI and user-friendly devices for diagnosing, monitoring, and treating neurological and ophthalmological disorders.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/eyecuracy-logo.webp",
+  "websiteUrl": "https://eyecuracy.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eyecuracy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן יוסף שלמה",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.123813,
+      "lon": 34.798076
+    }
+  ]
+}

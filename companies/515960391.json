@@ -1,0 +1,23 @@
+{
+  "name": "Future Ecommerce",
+  "description": "A comprehensive solution for online business operations.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/future_ecommerce-logo.webp",
+  "websiteUrl": "https://www.futurecommerce.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "future-ecommerce-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סיתוונית",
+      "houseNumber": 30,
+      "city": "בית שמש",
+      "lat": 31.7361216,
+      "lon": 34.9833601
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Briya",
+  "description": "Making healthcare data accessible and easily shareable to drive health innovation.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/briya_labs-logo.webp",
+  "websiteUrl": "https://briya.com/",
+  "careersUrl": "https://www.linkedin.com/company/briyahealth/jobs/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bria-interoperability",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שאול המלך",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.0777064,
+      "lon": 34.78983779282785
+    }
+  ]
+}

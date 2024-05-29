@@ -1,0 +1,23 @@
+{
+  "name": "Oddetect",
+  "description": "Software that analyzes video footage for surveillance purposes.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/oddetect-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "oddetect",
+  "crunchbaseId": "oddetect",
+  "finderId": "oddetect",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרופ רקח",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.7679937,
+      "lon": 35.1973517
+    }
+  ]
+}

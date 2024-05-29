@@ -1,0 +1,23 @@
+{
+  "name": "Timestamp",
+  "description": "Epoch time is the count of seconds elapsed since January 1, 1970 (midnight UTC/GMT), excluding leap seconds.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/timestamp-logo.webp",
+  "websiteUrl": "https://www.epochconverter.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "timestamp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שנת היובל",
+      "houseNumber": 112,
+      "city": "הוד השרון",
+      "lat": 32.1563285,
+      "lon": 34.9182793
+    }
+  ]
+}

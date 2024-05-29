@@ -1,0 +1,23 @@
+{
+  "name": "My Branda",
+  "description": "Leverage AI-driven creative solutions to craft a powerful brand image and online presence tailored to your personality, industry, and goals.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/my_branda-logo.webp",
+  "websiteUrl": "https://www.mybranda.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mybranda",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משאבים",
+      "houseNumber": 38,
+      "city": "הוד השרון",
+      "lat": 32.1595182,
+      "lon": 34.89029454929721
+    }
+  ]
+}

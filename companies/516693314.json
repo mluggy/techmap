@@ -1,0 +1,23 @@
+{
+  "name": "Dio Tree",
+  "description": "A free service that instantly translates text and web pages between English and over 100 languages.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/dio_tree-logo.webp",
+  "websiteUrl": "https://translate.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dio-tree",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

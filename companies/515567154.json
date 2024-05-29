@@ -1,0 +1,23 @@
+{
+  "name": "Edgy Bees",
+  "description": "Seamlessly integrating into existing workflows, our software enhances decision-making and automates change detection through precise imagery and location data alignment.",
+  "categoryId": 4,
+  "size": "s",
+  "logoFile": "logos/edgy_bees-logo.webp",
+  "websiteUrl": "https://edgybees.com/",
+  "careersUrl": "https://edgybees.com/company/careers/",
+  "isHiring": true,
+  "linkedinId": "edgybees-ltd",
+  "crunchbaseId": null,
+  "finderId": "edgybees",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מדינת היהודים",
+      "houseNumber": 85,
+      "city": "הרצליה",
+      "lat": 32.1666999,
+      "lon": 34.8099066
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bomvento",
+  "description": "A solution that reduces greenhouse gases using wind power.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/bomvento-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bom-vento",
+  "crunchbaseId": null,
+  "finderId": "bomvento",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פלי\"ם",
+      "houseNumber": 2,
+      "city": "חיפה",
+      "lat": 32.8167554,
+      "lon": 35.0000812
+    }
+  ]
+}

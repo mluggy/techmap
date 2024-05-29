@@ -1,0 +1,23 @@
+{
+  "name": "Carbyne",
+  "description": "Providing cloud-native, future-proof solutions for public safety, incident management, and transportation sectors.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/carbyne-logo.webp",
+  "websiteUrl": "https://carbyne.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "reporty",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

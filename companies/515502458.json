@@ -1,0 +1,23 @@
+{
+  "name": "Boon Today",
+  "description": "Certified in 2016, this innovative label uses Boon.Today's technology to support social causes by donating 1% of the media budget.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/boon_today-logo.webp",
+  "websiteUrl": "https://www.boon.today/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "boon-today",
+  "finderId": "watch-and-give",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בן גוריון",
+      "houseNumber": 97,
+      "city": "בת ים",
+      "lat": 32.0238745,
+      "lon": 34.7402247
+    }
+  ]
+}

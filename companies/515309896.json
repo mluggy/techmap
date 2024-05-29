@@ -1,0 +1,23 @@
+{
+  "name": "Loglig",
+  "description": "Enhancing the participation experience for sports federations through an integrated management and social app.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/loglig-logo.webp",
+  "websiteUrl": "https://loglig.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "loglig",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצהר",
+      "houseNumber": 2,
+      "city": "קורנית",
+      "lat": 32.8410245,
+      "lon": 35.252748
+    }
+  ]
+}

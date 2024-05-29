@@ -1,0 +1,23 @@
+{
+  "name": "Liveu",
+  "description": "Pioneering 5G field production, they provide robust, reliable live broadcasting solutions over cellular and IP networks.",
+  "categoryId": 18,
+  "size": "l",
+  "logoFile": "logos/liveu-logo.webp",
+  "websiteUrl": "https://www.liveu.tv/",
+  "careersUrl": "https://www.liveu.tv/company/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "liveu",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגביש",
+      "houseNumber": 5,
+      "city": "כפר סבא",
+      "lat": 32.176795,
+      "lon": 34.9299507
+    }
+  ]
+}

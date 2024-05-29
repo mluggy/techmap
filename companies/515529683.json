@@ -1,0 +1,23 @@
+{
+  "name": "Juno Journey",
+  "description": "A platform leveraging automation to streamline the entire learning and development process.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/juno_journey-logo.webp",
+  "websiteUrl": "https://junojourney.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "juno-journey",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנורת המאור",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.074448,
+      "lon": 34.796408
+    }
+  ]
+}

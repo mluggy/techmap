@@ -1,0 +1,23 @@
+{
+  "name": "Cnoga Medical",
+  "description": "A pioneer in digital healthcare, developing cutting-edge noninvasive devices and comprehensive virtual care services for remote patient monitoring.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/cnoga_medical-logo.webp",
+  "websiteUrl": "https://www.cnogacare.co/",
+  "careersUrl": "https://www.cnogacare.co/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cnoga-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תרשיש",
+      "houseNumber": 5,
+      "city": "קיסריה",
+      "lat": 32.4879599,
+      "lon": 34.9040366
+    }
+  ]
+}

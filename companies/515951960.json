@@ -1,0 +1,23 @@
+{
+  "name": "Madskil Gaming",
+  "description": "A real-time interactive game designed for live streaming platforms.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/madskil_gaming-logo.webp",
+  "websiteUrl": "https://xoilium.com/",
+  "careersUrl": "https://jobs.dou.ua/companies/madskil-gaming-ltd/",
+  "isHiring": true,
+  "linkedinId": "madskil",
+  "crunchbaseId": "madskil-gaming",
+  "finderId": "madskil",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גורדון י ל",
+      "houseNumber": 71,
+      "city": "תל אביב - יפו",
+      "lat": 32.081161,
+      "lon": 34.77803
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Veinway",
+  "description": "A pioneering device enabling physicians to swiftly, safely, and reliably navigate challenging venous occlusions in under thirty minutes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/veinway-logo.webp",
+  "websiteUrl": "https://veinway.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "veinway",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0215775,
+      "lon": 34.854526
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Nutrilees",
+  "description": "Edible Goods Made from Industrial Wine By-products.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/nutrilees-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "nutrilees",
+  "crunchbaseId": "nutrilees",
+  "finderId": "nutrilees",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חרצית",
+      "houseNumber": 7,
+      "city": "קריית שמונה",
+      "lat": 33.2175536,
+      "lon": 35.5790537
+    }
+  ]
+}

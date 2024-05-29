@@ -1,0 +1,23 @@
+{
+  "name": "Comunix",
+  "description": "A social gaming enterprise innovating human connection through interactive games and integrated communication features like group video chat.",
+  "categoryId": 11,
+  "size": "m",
+  "logoFile": "logos/comunix-logo.webp",
+  "websiteUrl": "https://www.getcomunix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "comunix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.063834,
+      "lon": 34.780027
+    }
+  ]
+}

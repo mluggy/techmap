@@ -1,0 +1,23 @@
+{
+  "name": "Remondo",
+  "description": "Stay updated with regular emails on topics, deals, products, and notifications about videos and results after registration.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/remondo-logo.webp",
+  "websiteUrl": "https://www.rimondo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "remondo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "צור",
+      "houseNumber": 8,
+      "city": "צור יגאל",
+      "lat": 32.2187395,
+      "lon": 34.9835317
+    }
+  ]
+}

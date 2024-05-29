@@ -1,0 +1,23 @@
+{
+  "name": "Munch",
+  "description": "Egy platform, amelyen vendéglátóhelyek és boltok kedvezményesen értékesítik a megmaradt, jó minőségű ételeket a pazarlás csökkentése érdekében.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/munch-logo.webp",
+  "websiteUrl": "https://munch.hu/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "munch",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משמר הירדן",
+      "houseNumber": 10,
+      "city": "גבעתיים",
+      "lat": 32.06198154,
+      "lon": 34.81299012
+    }
+  ]
+}

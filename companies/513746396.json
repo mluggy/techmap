@@ -1,0 +1,23 @@
+{
+  "name": "Seeking Alpha",
+  "description": "Join the world's largest investing community for market news, analysis, and portfolio tools.",
+  "categoryId": 8,
+  "size": "l",
+  "logoFile": "logos/seeking_alpha-logo.webp",
+  "websiteUrl": "https://seekingalpha.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "seeking-alpha",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנשיאים",
+      "houseNumber": 47,
+      "city": "רעננה",
+      "lat": 32.191199999999995,
+      "lon": 34.86324606500342
+    }
+  ]
+}

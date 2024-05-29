@@ -1,0 +1,23 @@
+{
+  "name": "Ebay Israel Holding",
+  "description": "A leading global marketplace for diverse products with top brands, competitive prices, and free shipping on numerous items.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/ebay_israel_holding-logo.webp",
+  "websiteUrl": "https://www.ebay.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ebay",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגביש",
+      "houseNumber": 10,
+      "city": "נתניה",
+      "lat": 32.2902566,
+      "lon": 34.863091527006965
+    }
+  ]
+}

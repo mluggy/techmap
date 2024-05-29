@@ -1,0 +1,23 @@
+{
+  "name": "Remitrix",
+  "description": "A visual dashboard providing efficient, accurate ALM reports and solvency calculations at the click of a button, replacing complex spreadsheets.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/remitrix-logo.webp",
+  "websiteUrl": "https://remitrix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "remitrix",
+  "crunchbaseId": null,
+  "finderId": "remitrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 8,
+      "city": "רמת גן",
+      "lat": 32.08419825,
+      "lon": 34.800707700000004
+    }
+  ]
+}

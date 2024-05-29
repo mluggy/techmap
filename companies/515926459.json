@@ -1,0 +1,23 @@
+{
+  "name": "Tulou Community",
+  "description": "We offer residents immediate access to everyday necessities and convenient items, from household basics to tech and transportation.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/tulou_community-logo.webp",
+  "websiteUrl": "https://www.tulu.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tulou",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סהרון",
+      "houseNumber": 12,
+      "city": "תל אביב - יפו",
+      "lat": 32.034539,
+      "lon": 34.750491
+    }
+  ]
+}

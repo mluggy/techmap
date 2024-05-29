@@ -1,0 +1,23 @@
+{
+  "name": "Babytech",
+  "description": "A leading provider of high-quality baby products, committed to innovation and advanced solutions for mothers' needs.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/babytech-logo.webp",
+  "websiteUrl": "https://babytech.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "babytech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סולם יעקב",
+      "houseNumber": 2,
+      "city": "ירושלים",
+      "lat": 31.816554,
+      "lon": 35.1999371
+    }
+  ]
+}

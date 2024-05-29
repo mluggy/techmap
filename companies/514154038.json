@@ -1,0 +1,23 @@
+{
+  "name": "Hervana",
+  "description": "A non-hormonal contraceptive solution for women that also provides protection against sexually transmitted infections.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/hervana-logo.webp",
+  "websiteUrl": "https://www.hervana-bio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "hervana-ltd.",
+  "crunchbaseId": null,
+  "finderId": "hervana",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נפתלי",
+      "houseNumber": 9,
+      "city": "ירושלים",
+      "lat": 31.759848,
+      "lon": 35.2177754
+    }
+  ]
+}

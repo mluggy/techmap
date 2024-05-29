@@ -1,0 +1,23 @@
+{
+  "name": "Hopon Mobility",
+  "description": "A revolutionary mobile solution offering comprehensive visitor management and ticketing with unparalleled real-time visibility and control.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/hopon_mobility-logo.webp",
+  "websiteUrl": "https://hopon.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hopon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היצירה",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.0848946,
+      "lon": 34.8028513
+    }
+  ]
+}

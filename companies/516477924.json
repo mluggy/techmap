@@ -1,0 +1,23 @@
+{
+  "name": "Beweld Medical",
+  "description": "Streamlining the production of medical implants through automation.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/beweld_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "beweldmedical",
+  "crunchbaseId": null,
+  "finderId": "beweld-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0215775,
+      "lon": 34.854526
+    }
+  ]
+}

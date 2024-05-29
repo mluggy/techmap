@@ -1,0 +1,23 @@
+{
+  "name": "Ofil",
+  "description": "Specializing in non-destructive testing, this company offers cameras that detect early electrical faults for preventive maintenance in high and medium voltage infrastructure.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/ofil-logo.webp",
+  "websiteUrl": "https://ofilsystems.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ofil",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אינשטיין",
+      "houseNumber": 16,
+      "city": "נס ציונה",
+      "lat": 31.9155629,
+      "lon": 34.8062323
+    }
+  ]
+}

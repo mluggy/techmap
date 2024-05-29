@@ -1,0 +1,23 @@
+{
+  "name": "Aqua Solutions",
+  "description": "Providing eco-friendly, high-quality laundry solutions that enhance wastewater and environmental protection.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/aqua_solutions-logo.webp",
+  "websiteUrl": "http://aquasolutions.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aqua-solutions",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התרופה",
+      "houseNumber": 6,
+      "city": "נתניה",
+      "lat": 32.2830455,
+      "lon": 34.8612558
+    }
+  ]
+}

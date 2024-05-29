@@ -1,0 +1,23 @@
+{
+  "name": "ASTERRA",
+  "description": "Actionable AI-driven insights from beneath the surface of the Earth.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/asterra-logo.webp",
+  "websiteUrl": "https://asterra.io/",
+  "careersUrl": "https://asterra.io/about/careers/",
+  "isHiring": true,
+  "linkedinId": "asterra-tech",
+  "crunchbaseId": null,
+  "finderId": "asterra",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1620348,
+      "lon": 34.9337429
+    }
+  ]
+}

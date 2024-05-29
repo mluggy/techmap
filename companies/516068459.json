@@ -1,0 +1,23 @@
+{
+  "name": "Pil Marketplace",
+  "description": "An online platform for regulatory research and training.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pil_marketplace-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "pil-marketplace-ltd",
+  "finderId": "pil-marketplace",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך אילות",
+      "houseNumber": 9,
+      "city": "גני תקווה",
+      "lat": 32.063823,
+      "lon": 34.8698464
+    }
+  ]
+}

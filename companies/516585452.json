@@ -1,0 +1,23 @@
+{
+  "name": "Cryptohub",
+  "description": "Stay up-to-date with real-time crypto prices, interactive charts, and market trends.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/cryptohub-logo.webp",
+  "websiteUrl": "https://crypthub.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cryptohub",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הירקון",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.068102,
+      "lon": 34.76418
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mypips",
+  "description": "Access our booking system here.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/mypips-logo.webp",
+  "websiteUrl": "https://mypips.app/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mypips",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפלך",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.050538,
+      "lon": 34.766862
+    }
+  ]
+}

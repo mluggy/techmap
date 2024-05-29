@@ -1,0 +1,23 @@
+{
+  "name": "Algoretail",
+  "description": "Automate order creation, manage inventory and merchandise tasks from any device in real-time, optimizing based on sales data and delivery patterns.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/algoretail-logo.webp",
+  "websiteUrl": "https://www.algoretail.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "algoretail",
+  "crunchbaseId": "algoretail",
+  "finderId": "algoretail",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חבקוק הנביא",
+      "houseNumber": 51,
+      "city": "בית שמש",
+      "lat": 31.707165,
+      "lon": 34.9839852
+    }
+  ]
+}

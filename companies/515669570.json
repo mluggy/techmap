@@ -1,0 +1,23 @@
+{
+  "name": "We Go Vision",
+  "description": "A free service instantly translating words, phrases, and web pages from English to over 100 languages.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/we_go_vision-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "we-go-vision-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מולדת",
+      "houseNumber": 4,
+      "city": "הוד השרון",
+      "lat": 32.1575187,
+      "lon": 34.9015488
+    }
+  ]
+}

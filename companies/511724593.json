@@ -1,0 +1,23 @@
+{
+  "name": "Qualcomm Israel",
+  "description": "Empowering global connectivity through advanced mobile technology innovations.",
+  "categoryId": 18,
+  "size": "l",
+  "logoFile": "logos/qualcomm_israel_ltd-logo.webp",
+  "websiteUrl": "https://www.qualcomm.com/",
+  "careersUrl": "https://www.qualcomm.com/company/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "qualcomm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חת נחום",
+      "houseNumber": 1,
+      "city": "טירת כרמל",
+      "lat": 32.7845356,
+      "lon": 34.9577195
+    }
+  ]
+}

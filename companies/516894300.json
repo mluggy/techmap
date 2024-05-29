@@ -1,0 +1,23 @@
+{
+  "name": "Claroai",
+  "description": "An AI voice filter that corrects mispronunciations in real-time during online meetings while maintaining vocal identity.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/claroai-logo.webp",
+  "websiteUrl": "https://www.claroai.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "claroai",
+  "crunchbaseId": "claro-ai",
+  "finderId": "claroai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 44,
+      "city": "הוד השרון",
+      "lat": 32.1438019,
+      "lon": 34.8937536
+    }
+  ]
+}

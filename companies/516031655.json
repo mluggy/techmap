@@ -1,0 +1,23 @@
+{
+  "name": "Linkthat",
+  "description": "A web-based advanced communication platform offering user-friendly interface for seamless organizational management and real-time oversight.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/linkthat-logo.webp",
+  "websiteUrl": "https://www.link.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "link",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סער",
+      "houseNumber": 13,
+      "city": "כפר ורדים",
+      "lat": 32.9959047,
+      "lon": 35.2597296
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Insuranks",
+  "description": "They provide independent insurance comparison and educational content, supported by advertiser partnerships.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/insuranks-logo.webp",
+  "websiteUrl": "https://www.insuranks.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "insuranks",
+  "finderId": "insuranks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהודה הלוי",
+      "houseNumber": 19,
+      "city": "רחובות",
+      "lat": 31.8857453,
+      "lon": 34.812791
+    }
+  ]
+}

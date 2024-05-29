@@ -1,0 +1,23 @@
+{
+  "name": "Agroscout",
+  "description": "Offering advanced crop monitoring solutions, this service enhances supply management, contract retention, and service quality.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/agroscout-logo.webp",
+  "websiteUrl": "https://agro-scout.com/",
+  "careersUrl": "https://agro-scout.com/careers/",
+  "isHiring": true,
+  "linkedinId": "agroscout-ltd",
+  "crunchbaseId": null,
+  "finderId": "agroscout",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "",
+      "houseNumber": null,
+      "city": "יראון",
+      "lat": 32.9916263,
+      "lon": 35.6847003
+    }
+  ]
+}

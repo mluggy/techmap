@@ -1,0 +1,23 @@
+{
+  "name": "Appcharge",
+  "description": "A streamlined 3-click checkout process supporting over 100 currencies and adapting to local preferences for secure global transactions.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/appcharge-logo.webp",
+  "websiteUrl": "https://appcharge.com/",
+  "careersUrl": "https://appcharge.com/jobs/game-designer/",
+  "isHiring": true,
+  "linkedinId": "appcharge",
+  "crunchbaseId": null,
+  "finderId": "appcharge",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.06488,
+      "lon": 34.774494
+    }
+  ]
+}

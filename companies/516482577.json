@@ -1,0 +1,23 @@
+{
+  "name": "Neomare",
+  "description": "A groundbreaking Israeli innovation provides a discreet, fashionable personal flotation device that activates to rescue individuals from drowning.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/neomare-logo.webp",
+  "websiteUrl": "https://neo-mare.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "neomare",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השדות",
+      "houseNumber": 18,
+      "city": "כפר הס",
+      "lat": 32.2426334,
+      "lon": 34.9296224
+    }
+  ]
+}

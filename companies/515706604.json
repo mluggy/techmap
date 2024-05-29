@@ -1,0 +1,23 @@
+{
+  "name": "CIMS Tech",
+  "description": "Microelectronics inspection.",
+  "categoryId": 15,
+  "size": "l",
+  "logoFile": "logos/cims_software_systems_ltd-logo.webp",
+  "websiteUrl": "https://www.floridacims.org/",
+  "careersUrl": "https://www.cims.com/careers-2209/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cims",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המרכבה",
+      "houseNumber": 1,
+      "city": "ציפורית",
+      "lat": 32.7645396,
+      "lon": 35.3154519
+    }
+  ]
+}

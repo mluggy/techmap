@@ -1,0 +1,23 @@
+{
+  "name": "Panoply",
+  "description": "Cloud-based service for financial data storage and management.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/panoply-logo.webp",
+  "websiteUrl": "https://panoply.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "color",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 146,
+      "city": "תל אביב - יפו",
+      "lat": 32.0778351,
+      "lon": 34.794439538025976
+    }
+  ]
+}

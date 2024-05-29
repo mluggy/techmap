@@ -1,0 +1,23 @@
+{
+  "name": "Onmap",
+  "description": "A cutting-edge real estate platform designed for renters, landlords, sellers, and buyers, offering thousands of updated property listings.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/onmap-logo.webp",
+  "websiteUrl": "https://www.onmap.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "onmap",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פיק\"א",
+      "houseNumber": 13,
+      "city": "ראשון לציון",
+      "lat": 31.9730344,
+      "lon": 34.8099297
+    }
+  ]
+}

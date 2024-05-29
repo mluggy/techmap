@@ -1,0 +1,23 @@
+{
+  "name": "Naveh Pharma 1996",
+  "description": "They specialize in creating and supplying medical and health products.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/naveh_pharma_1996-logo.webp",
+  "websiteUrl": "https://www.navehpharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "naveh-pharma-ltd-",
+  "crunchbaseId": null,
+  "finderId": "naveh-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 11,
+      "city": "נתניה",
+      "lat": 32.2794157,
+      "lon": 34.86421640322024
+    }
+  ]
+}

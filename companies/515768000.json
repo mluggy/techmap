@@ -1,0 +1,23 @@
+{
+  "name": "Workiz Development",
+  "description": "Providing a comprehensive platform for streamlined job management and team scheduling in field service operations.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/workiz_development-logo.webp",
+  "websiteUrl": "https://www.workiz.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "workiz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.070693,
+      "lon": 34.785176
+    }
+  ]
+}

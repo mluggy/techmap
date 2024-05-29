@@ -1,0 +1,23 @@
+{
+  "name": "Carmel Diagnostics",
+  "description": "This company offers the first benchtop system for non-invasive embryo testing that significantly improves IVF outcomes by up to 20%.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/carmel_diagnostics-logo.webp",
+  "websiteUrl": "https://www.carmel-diagnostics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "carmel-diagnostics1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברלב חיים",
+      "houseNumber": 9,
+      "city": "קריית טבעון",
+      "lat": 32.70546966590824,
+      "lon": 35.115651903504116
+    }
+  ]
+}

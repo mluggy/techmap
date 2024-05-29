@@ -1,0 +1,23 @@
+{
+  "name": "Point Of View Software",
+  "description": "Analytics and Insights Software.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/point_of_view_software-logo.webp",
+  "websiteUrl": "https://www.viewpoint.com/",
+  "careersUrl": "https://www.viewpoint.com/company/careers",
+  "isHiring": true,
+  "linkedinId": "point-of-view-software",
+  "crunchbaseId": null,
+  "finderId": "point-of-view-software",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 32,
+      "city": "הרצליה",
+      "lat": 32.1621433,
+      "lon": 34.8094255
+    }
+  ]
+}

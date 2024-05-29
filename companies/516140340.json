@@ -1,0 +1,23 @@
+{
+  "name": "Cortisense",
+  "description": "A lifestyle device that analyzes small saliva samples for cortisol levels, offering detailed insights and visualizations through an easy-to-use app to track and monitor stress patterns throughout the day.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cortisense-logo.webp",
+  "websiteUrl": "https://www.corti-sense.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cortisense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון",
+      "houseNumber": 15,
+      "city": "רעננה",
+      "lat": 32.1723529,
+      "lon": 34.8682781
+    }
+  ]
+}

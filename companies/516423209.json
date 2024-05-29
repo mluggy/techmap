@@ -1,0 +1,23 @@
+{
+  "name": "Mistrix",
+  "description": "A generative AI-driven B2B platform revolutionizing the color cosmetics shopping experience by customizing makeup styles from reference looks to selfies.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/mistrix-logo.webp",
+  "websiteUrl": "https://www.mistrix.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "mistrix",
+  "crunchbaseId": null,
+  "finderId": "mistrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זכרון יעקב",
+      "houseNumber": 19,
+      "city": "פתח תקווה",
+      "lat": 32.104396,
+      "lon": 34.873691121127635
+    }
+  ]
+}

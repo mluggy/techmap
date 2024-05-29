@@ -1,0 +1,23 @@
+{
+  "name": "Wetrip",
+  "description": "Discover and customize your ideal winter ski holiday with endless options and convenience.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/wetrip-logo.webp",
+  "websiteUrl": "https://www.weski.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "weski",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.1598236,
+      "lon": 34.8080456
+    }
+  ]
+}

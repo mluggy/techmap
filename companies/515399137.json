@@ -1,0 +1,23 @@
+{
+  "name": "Sense Education Israel",
+  "description": "Providing personalized feedback, guidance, and support to help learners understand subjects and improve their grades.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/sense_education_israel-logo.webp",
+  "websiteUrl": "https://www.sense.education/",
+  "careersUrl": "https://www.sense.education/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sense-education",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 37,
+      "city": "תל אביב - יפו",
+      "lat": 32.065894,
+      "lon": 34.782836578499996
+    }
+  ]
+}

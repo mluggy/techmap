@@ -1,0 +1,23 @@
+{
+  "name": "Oriient New Media",
+  "description": "Oriient provides precise indoor location services using Earth's magnetic field and advanced deep learning techniques.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/oriient_new_media-logo.webp",
+  "websiteUrl": "https://www.oriient.me/",
+  "careersUrl": "https://www.oriient.me/careers-at-oriient/",
+  "isHiring": true,
+  "linkedinId": "oriient",
+  "crunchbaseId": "oriient",
+  "finderId": "oriient",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זליבנסקי",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.123651,
+      "lon": 34.826146
+    }
+  ]
+}

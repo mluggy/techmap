@@ -1,0 +1,23 @@
+{
+  "name": "Questar Investments",
+  "description": "Their platform leverages AI and deep learning to help OEMs and fleet owners minimize warranty, recall, and downtime expenses.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/questar_investments-logo.webp",
+  "websiteUrl": "https://questarauto.com/",
+  "careersUrl": "https://www.questarai.com/company/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "traffilog",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קלישר",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.065789,
+      "lon": 34.768838
+    }
+  ]
+}

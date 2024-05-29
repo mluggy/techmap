@@ -1,0 +1,23 @@
+{
+  "name": "Code Ocean Israel",
+  "description": "Creating Software Solutions.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/code_ocean_israel-logo.webp",
+  "websiteUrl": "https://codeocean.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "code-ocean",
+  "crunchbaseId": "code-ocean",
+  "finderId": "code-ocean",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

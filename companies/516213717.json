@@ -1,0 +1,23 @@
+{
+  "name": "Quonder",
+  "description": "Leveraging expertise in three synergistic fields, a seasoned team, and successful pilots, Quonder has introduced its initial commercial offerings.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/quonder-logo.webp",
+  "websiteUrl": "https://quonder.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "quonder",
+  "crunchbaseId": null,
+  "finderId": "quonder",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 23,
+      "city": "בני ברק",
+      "lat": 32.0940715,
+      "lon": 34.823239
+    }
+  ]
+}

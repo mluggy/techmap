@@ -1,0 +1,23 @@
+{
+  "name": "Kissterra Capital",
+  "description": "Leveraging data, this company offers a comprehensive marketing and distribution solution tailored specifically for insurers.",
+  "categoryId": 2,
+  "size": "m",
+  "logoFile": "logos/kissterra_capital-logo.webp",
+  "websiteUrl": "https://kissterra.com/",
+  "careersUrl": "https://kissterra.com/careers",
+  "isHiring": true,
+  "linkedinId": "kissterra",
+  "crunchbaseId": null,
+  "finderId": "kissterra",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.107085,
+      "lon": 34.836911
+    }
+  ]
+}

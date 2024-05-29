@@ -1,0 +1,23 @@
+{
+  "name": "Ecotech Recycling",
+  "description": "This Israel-based tech firm innovatively transforms rubber into valuable materials to address environmental and economic challenges.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/ecotech_recycling-logo.webp",
+  "websiteUrl": "https://ecotrc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ecotech-recycling",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בורנשטיין",
+      "houseNumber": 11,
+      "city": "עכו",
+      "lat": 32.903502087889024,
+      "lon": 35.08680100433073
+    }
+  ]
+}

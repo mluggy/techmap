@@ -1,0 +1,23 @@
+{
+  "name": "Kanabo Agritec",
+  "description": "An Israeli-based firm pioneering vaporization technology with a new R&D lab and a partnership with Jupiter Research.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/kanabo_agritec-logo.webp",
+  "websiteUrl": "https://www.kanabogroup.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kanabo-research",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מלכי יהודה",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.1699447,
+      "lon": 34.84216590048941
+    }
+  ]
+}

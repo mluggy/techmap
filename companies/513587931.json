@@ -1,0 +1,23 @@
+{
+  "name": "Sisense",
+  "description": "A platform that integrates artificial intelligence to enhance data analytics.",
+  "categoryId": 1,
+  "size": "l",
+  "logoFile": "logos/sisense-logo.webp",
+  "websiteUrl": "https://sisense.dev/",
+  "careersUrl": "https://www.sisense.com/careers/",
+  "isHiring": true,
+  "linkedinId": "sisense",
+  "crunchbaseId": null,
+  "finderId": "sisense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08254365,
+      "lon": 34.801384906098356
+    }
+  ]
+}

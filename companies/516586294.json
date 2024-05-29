@@ -1,0 +1,23 @@
+{
+  "name": "Quantum Art",
+  "description": "Check out Quantum-Art's art on DeviantArt. Browse the user profile and get inspired.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/quantum_art-logo.webp",
+  "websiteUrl": "https://quantum-art.deviantart.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "quantum-art-tech",
+  "crunchbaseId": null,
+  "finderId": "quantum-art-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אינשטיין",
+      "houseNumber": 22,
+      "city": "נס ציונה",
+      "lat": 31.9147813,
+      "lon": 34.8067343
+    }
+  ]
+}

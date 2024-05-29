@@ -1,0 +1,23 @@
+{
+  "name": "Citizen Impact",
+  "description": "A platform leveraging artificial intelligence to provide social support services.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/citizen_impact-logo.webp",
+  "websiteUrl": "https://citizenimpactusa.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "citizen-impact",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עץ השדה",
+      "houseNumber": 3,
+      "city": "חגלה",
+      "lat": 32.3873507,
+      "lon": 34.9229448
+    }
+  ]
+}

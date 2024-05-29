@@ -1,0 +1,23 @@
+{
+  "name": "Chatway",
+  "description": "This plugin significantly boosts customer engagement and conversions by replacing WhatsApp links with a more effective live chat solution.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/chatway-logo.webp",
+  "websiteUrl": "https://chatway.app/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "chatway",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 65,
+      "city": "תל אביב - יפו",
+      "lat": 32.0681574,
+      "lon": 34.7859788
+    }
+  ]
+}

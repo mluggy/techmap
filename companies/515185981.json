@@ -1,0 +1,23 @@
+{
+  "name": "Cloudonix",
+  "description": "Seamlessly integrate voice applications with over 200 SaaS platforms for an efficient and automated developer experience.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/cloudonix-logo.webp",
+  "websiteUrl": "https://www.cloudonix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cloudonix-io",
+  "crunchbaseId": null,
+  "finderId": "cloudonix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "טופז",
+      "houseNumber": 25,
+      "city": "כפר יונה",
+      "lat": 32.3093468,
+      "lon": 34.9402034
+    }
+  ]
+}

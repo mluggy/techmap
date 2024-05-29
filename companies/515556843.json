@@ -1,0 +1,23 @@
+{
+  "name": "Dermadetect",
+  "description": "Provides 24/7 asynchronous access to physicians, eliminating the need for real-time interaction.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/dermadetect-logo.webp",
+  "websiteUrl": "https://dermadetect.com/",
+  "careersUrl": "https://www.dermadetect.com/jobs.aspx",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dermadetect",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אופנהיימר",
+      "houseNumber": 4,
+      "city": "רחובות",
+      "lat": 31.9104321,
+      "lon": 34.8058374
+    }
+  ]
+}

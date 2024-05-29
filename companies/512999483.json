@@ -1,0 +1,23 @@
+{
+  "name": "Medic Nrg",
+  "description": "Founded by dentists and an industrial designer, this company excels in creating advanced dental technologies through a team of top Endo specialists and engineers in various fields.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medic_nrg-logo.webp",
+  "websiteUrl": "http://medicnrg.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medicnrg",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העמל",
+      "houseNumber": 2,
+      "city": "עפולה",
+      "lat": 32.6347679,
+      "lon": 35.3368155
+    }
+  ]
+}

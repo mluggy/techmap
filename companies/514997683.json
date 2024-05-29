@@ -1,0 +1,23 @@
+{
+  "name": "Outgage",
+  "description": "Overseeing and executing direct mail marketing strategies.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/outgage-logo.webp",
+  "websiteUrl": "https://www.outgage.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "outgage",
+  "crunchbaseId": "outgage-inc",
+  "finderId": "take-make",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

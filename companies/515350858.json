@@ -1,0 +1,23 @@
+{
+  "name": "Smartbull",
+  "description": "Provides tech solutions for analyzing institutional investor holdings, IPO assessments, index change predictions, and IPO management.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/smartbull-logo.webp",
+  "websiteUrl": "https://www.smartbull.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "smartbull",
+  "crunchbaseId": null,
+  "finderId": "smartbull",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אשכול לוי",
+      "houseNumber": 63,
+      "city": "תל אביב - יפו",
+      "lat": 32.115616,
+      "lon": 34.789598
+    }
+  ]
+}

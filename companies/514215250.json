@@ -1,0 +1,23 @@
+{
+  "name": "Biogencell",
+  "description": "A treatment system using stem cells to combat degenerative illnesses.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/biogencell-logo.webp",
+  "websiteUrl": "https://www.biogencelltrial.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "biogencell-ltd",
+  "crunchbaseId": null,
+  "finderId": "biogencell",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דברי חיים",
+      "houseNumber": 16,
+      "city": "נתניה",
+      "lat": 32.3475009,
+      "lon": 34.8574417
+    }
+  ]
+}

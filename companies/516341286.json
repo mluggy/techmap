@@ -1,0 +1,23 @@
+{
+  "name": "Deboost",
+  "description": "Deboost is a platform designed to enhance employee motivation and engagement.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/deboost-logo.webp",
+  "websiteUrl": "https://www.boost.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "deboost",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קבוץ גלויות",
+      "houseNumber": 75,
+      "city": "הרצליה",
+      "lat": 32.1691856,
+      "lon": 34.8580241
+    }
+  ]
+}

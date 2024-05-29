@@ -1,0 +1,23 @@
+{
+  "name": "One Zero Digital Bank",
+  "description": "מציעה בנקאות פרטית עם ליווי אישי וניהול כספים במחיר חודשי קבוע של 49 שקלים במקום עמלות רבות.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/one_zero_digital_bank-logo.webp",
+  "websiteUrl": "https://www.onezerobank.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "one-zero-digital-bank",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית עובד",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.064485,
+      "lon": 34.786883
+    }
+  ]
+}

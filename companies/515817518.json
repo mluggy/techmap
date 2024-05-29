@@ -1,0 +1,23 @@
+{
+  "name": "Phasor",
+  "description": "Enhancing the reliability of the electrical grid by providing protection for power supplies.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/phasor-logo.webp",
+  "websiteUrl": "https://www.phasormarine.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "phasor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנשר",
+      "houseNumber": 29,
+      "city": "רעננה",
+      "lat": 32.1904513,
+      "lon": 34.8523723
+    }
+  ]
+}

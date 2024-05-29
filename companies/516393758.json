@@ -1,0 +1,23 @@
+{
+  "name": "Solo Project",
+  "description": "A community-driven finance platform enabling members to borrow, lend, and manage finances independently and fee-free.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/solo_project-logo.webp",
+  "websiteUrl": "https://solofunds.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "2gether-music",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שינקין",
+      "houseNumber": 23,
+      "city": "גבעתיים",
+      "lat": 32.074827814894704,
+      "lon": 34.81148396123929
+    }
+  ]
+}

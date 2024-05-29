@@ -1,0 +1,23 @@
+{
+  "name": "Vica Playroom",
+  "description": "Southern California's leading business advocacy group focused on economic advancement.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/vica_playroom-logo.webp",
+  "websiteUrl": "https://www.vica.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vica",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שניר",
+      "houseNumber": 37,
+      "city": "נחלים",
+      "lat": 32.0555586,
+      "lon": 34.9143949
+    }
+  ]
+}

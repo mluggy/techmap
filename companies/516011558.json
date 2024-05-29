@@ -1,0 +1,23 @@
+{
+  "name": "Staga",
+  "description": "Offering customizable transportation and mobility solutions including scheduling, reservations, and bike-sharing.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/staga-logo.webp",
+  "websiteUrl": "https://www.stga.fr/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "staga",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 19,
+      "city": "תל אביב - יפו",
+      "lat": 32.064005,
+      "lon": 34.771695
+    }
+  ]
+}

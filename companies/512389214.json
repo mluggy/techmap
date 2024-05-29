@@ -1,0 +1,23 @@
+{
+  "name": "Orsense",
+  "description": "Based in Tel Aviv-Yafo, this company is reachable through various contact methods including phone, fax, and email for inquiries and information.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/orsense-logo.webp",
+  "websiteUrl": "https://orsense.com/",
+  "careersUrl": "https://orsense.com/careers/",
+  "isHiring": true,
+  "linkedinId": "orsense",
+  "crunchbaseId": null,
+  "finderId": "orsense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.10981,
+      "lon": 34.838876
+    }
+  ]
+}

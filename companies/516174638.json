@@ -1,0 +1,23 @@
+{
+  "name": "Boards.com",
+  "description": "Centralize and organize all customer-facing resources including sales and marketing content, product catalogs, FAQs, and support materials.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/boards_com-logo.webp",
+  "websiteUrl": "https://www.boards.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bliss-ventures",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סביון",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.119632,
+      "lon": 34.834658
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wecheck",
+  "description": "WeCheck guarantees rental income protection regardless of payment methods and handles all necessary procedures to ensure landlords receive their due payments without hassle.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/wecheck-logo.webp",
+  "websiteUrl": "https://www.wecheck.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wecheck",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקישון",
+      "houseNumber": 8,
+      "city": "בני ברק",
+      "lat": 32.09847095,
+      "lon": 34.83075064291436
+    }
+  ]
+}

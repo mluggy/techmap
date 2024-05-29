@@ -1,0 +1,23 @@
+{
+  "name": "Folloze Il",
+  "description": "This company enhances the B2B buying experience by delivering personalized content recommendations powered by OpenAI.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/folloze_il-logo.webp",
+  "websiteUrl": "https://www.folloze.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "folloze",
+  "crunchbaseId": "folloze",
+  "finderId": "folloze",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 116,
+      "city": "תל אביב - יפו",
+      "lat": 32.0608197,
+      "lon": 34.7771205
+    }
+  ]
+}

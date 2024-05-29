@@ -1,0 +1,23 @@
+{
+  "name": "Plya Me",
+  "description": "DJ Workflow Management Tool.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/plya_me-logo.webp",
+  "websiteUrl": "https://playplay.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "plya",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך חיים",
+      "houseNumber": 14,
+      "city": "באר יעקב",
+      "lat": 31.9358719,
+      "lon": 34.8320609
+    }
+  ]
+}

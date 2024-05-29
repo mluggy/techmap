@@ -1,0 +1,23 @@
+{
+  "name": "Equashield Medical",
+  "description": "Providing comprehensive CSTDs and automation solutions to safeguard healthcare workers during pharmacy compounding.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/equashield_medical-logo.webp",
+  "websiteUrl": "https://www.equashield.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "equashield",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קטלב",
+      "houseNumber": 1,
+      "city": "מגדל תפן",
+      "lat": 32.976683859411956,
+      "lon": 35.27801436184936
+    }
+  ]
+}

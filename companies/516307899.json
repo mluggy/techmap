@@ -1,0 +1,23 @@
+{
+  "name": "Xoltar",
+  "description": "An AI platform offering personalized, nurse-like interactions to help patients adopt and maintain healthy habits for managing their medical conditions.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/xoltar-logo.webp",
+  "websiteUrl": "https://xoltar.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "xoltar",
+  "crunchbaseId": null,
+  "finderId": "xoltar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קובנר אבא",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.101528,
+      "lon": 34.783442
+    }
+  ]
+}

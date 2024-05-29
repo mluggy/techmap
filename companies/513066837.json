@@ -1,0 +1,23 @@
+{
+  "name": "Cemax Software",
+  "description": "A premium platform enhancing customer engagement with advanced technology for elevated interactions.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/cemax_software-logo.webp",
+  "websiteUrl": "https://cemax.ai/",
+  "careersUrl": "https://www.cemex.com/en/careers",
+  "isHiring": true,
+  "linkedinId": "cemaxai",
+  "crunchbaseId": "cemax-software",
+  "finderId": "cemax",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "צ'רצ'יל",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.3433843,
+      "lon": 34.8628637
+    }
+  ]
+}

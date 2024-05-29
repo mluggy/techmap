@@ -1,0 +1,23 @@
+{
+  "name": "Agil Jewellery",
+  "description": "A Boston-based no-code agency excels in creating AI-driven web apps with OpenAI, Vertex AI, and Bubble.io for enhanced speed and agility.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/agil_jewellery_ltd-logo.webp",
+  "websiteUrl": "https://www.agilfx.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "agil",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלנבי",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.066102,
+      "lon": 34.771614
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Capitan",
+  "description": "Business Management Software.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/capitan-logo.webp",
+  "websiteUrl": "https://www.villageofcapitan.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "capit-n",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ההגנה",
+      "houseNumber": 19,
+      "city": "קריית ביאליק",
+      "lat": 32.8144949,
+      "lon": 35.0780422
+    }
+  ]
+}

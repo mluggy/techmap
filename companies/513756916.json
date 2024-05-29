@@ -1,0 +1,23 @@
+{
+  "name": "Biopetroclean",
+  "description": "BioPetroClean offers efficient wastewater treatment solutions with significantly reduced sludge levels.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/biopetroclean-logo.webp",
+  "websiteUrl": "https://www.biopetroclean.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "BioPetroClean",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גבעת התחמושת",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.073674,
+      "lon": 34.791807
+    }
+  ]
+}

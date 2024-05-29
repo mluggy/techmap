@@ -1,0 +1,23 @@
+{
+  "name": "Pipl Search",
+  "description": "Providing top-notch identity information to organizations to ensure reliability and trustworthiness.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/pipl_search-logo.webp",
+  "websiteUrl": "https://pipl.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pipl",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברט אהרון",
+      "houseNumber": 18,
+      "city": "פתח תקווה",
+      "lat": 32.101395,
+      "lon": 34.8613485
+    }
+  ]
+}

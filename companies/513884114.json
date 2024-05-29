@@ -1,0 +1,23 @@
+{
+  "name": "Bara Herbs",
+  "description": "A leading herbal medicine company founded in 1997 by expert Sharon Kotzer after extensive studies in England.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/bara_herbs-logo.webp",
+  "websiteUrl": "https://bara.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bara-herbs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העתיד",
+      "houseNumber": 1,
+      "city": "יקנעם עילית",
+      "lat": 32.6556801,
+      "lon": 35.0962126
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ubs Technology Israel",
+  "description": "A worldwide financial services provider operating in over 50 countries.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/ubs_technology_israel-logo.webp",
+  "websiteUrl": "https://www.ubs.com/",
+  "careersUrl": "https://www.ubs.com/global/en/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ubs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החושלים",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.15946205,
+      "lon": 34.80604434428052
+    }
+  ]
+}

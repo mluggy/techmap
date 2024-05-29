@@ -1,0 +1,23 @@
+{
+  "name": "Hi Bob",
+  "description": "A comprehensive, user-friendly platform that enhances HR management and overall employee engagement by making tasks as intuitive as social networking.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/hi_bob-logo.webp",
+  "websiteUrl": "https://www.hibob.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hibob",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן אביגדור",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.06682,
+      "lon": 34.790849
+    }
+  ]
+}

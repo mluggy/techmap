@@ -1,0 +1,23 @@
+{
+  "name": "Fermentek",
+  "description": "A global leader in creating biochemicals to advance scientific research.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/fermentek_ltd-logo.webp",
+  "websiteUrl": "https://www.fermentek.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "fermentek-biotechnology",
+  "crunchbaseId": null,
+  "finderId": "fermentek",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יציב",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.8541834,
+      "lon": 35.2150073
+    }
+  ]
+}

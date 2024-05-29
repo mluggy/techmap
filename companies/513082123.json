@@ -1,0 +1,23 @@
+{
+  "name": "Earnix",
+  "description": "Providing global attendees with impactful insights and valuable sessions from insurance leaders.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/earnix-logo.webp",
+  "websiteUrl": "https://earnix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "earnix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08254365,
+      "lon": 34.801384906098356
+    }
+  ]
+}

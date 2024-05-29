@@ -1,0 +1,23 @@
+{
+  "name": "Hypermode",
+  "description": "Weekly new items with same-day shipping for orders placed by 4 PM (Mon-Sat) and a shipping fee of €3.95.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/hypermode-logo.webp",
+  "websiteUrl": "https://hypemode.nl/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hypermode",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המשביר",
+      "houseNumber": 7,
+      "city": "חולון",
+      "lat": 32.0147299,
+      "lon": 34.8017626
+    }
+  ]
+}

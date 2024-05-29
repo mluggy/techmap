@@ -1,0 +1,23 @@
+{
+  "name": "Slauth Io",
+  "description": "This IAM Policy Copilot automates secure policy generation for new micro-services based on their activity, offering rapid, PR-based implementation and Terraform support.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/slauth_io-logo.webp",
+  "websiteUrl": "https://www.slauth.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "slauth-io",
+  "finderId": "slauth-io",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ארלוזורוב",
+      "houseNumber": 53,
+      "city": "תל אביב - יפו",
+      "lat": 32.086149,
+      "lon": 34.778728
+    }
+  ]
+}

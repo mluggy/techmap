@@ -1,0 +1,23 @@
+{
+  "name": "Bareket Astro",
+  "description": "Leading stargazing experiences and online astronomical education featuring live broadcasts and a comprehensive Astro-Net portal.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/bareket_astro-logo.webp",
+  "websiteUrl": "https://www.bareket-astro.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bareket-astro-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד הרכס",
+      "houseNumber": 13,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9228472,
+      "lon": 34.9906948
+    }
+  ]
+}

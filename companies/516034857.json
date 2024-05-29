@@ -1,0 +1,37 @@
+{
+  "name": "SPEEDATA",
+  "description": "A groundbreaking processing unit designed to dramatically enhance the efficiency and cost-effectiveness of database analytics in data centers.",
+  "categoryId": 16,
+  "size": "m",
+  "logoFile": "logos/speedata-logo.webp",
+  "websiteUrl": "https://www.speedata.io/",
+  "careersUrl": "https://www.speedata.io/careers-23",
+  "isHiring": true,
+  "linkedinId": "speedataio",
+  "crunchbaseId": null,
+  "finderId": "speedata",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סחרוב אנדרה",
+      "houseNumber": 9,
+      "city": "חיפה",
+      "lat": 32.7897925,
+      "lon": 34.9593655
+    },
+    {
+      "street": "גיבורי ישראל",
+      "houseNumber": 10,
+      "city": "נתניה",
+      "lat": 32.277431119999996,
+      "lon": 34.85979694
+    },
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 156,
+      "city": "תל אביב - יפו",
+      "lat": 32.0797181,
+      "lon": 34.7957816
+    }
+  ]
+}

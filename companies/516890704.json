@@ -1,0 +1,23 @@
+{
+  "name": "40 Kft",
+  "description": "A startup operating in stealth mode.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/40_kft-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "40kft",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מיכל",
+      "houseNumber": 3,
+      "city": "כפר סבא",
+      "lat": 32.1879136,
+      "lon": 34.9351155
+    }
+  ]
+}

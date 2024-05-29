@@ -1,0 +1,23 @@
+{
+  "name": "Verifone Israel",
+  "description": "Contact sales for access to developer resources and APIs.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/verifone_israel-logo.webp",
+  "websiteUrl": "https://verifone.cloud/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "verifone",
+  "crunchbaseId": null,
+  "finderId": "verifone",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 11,
+      "city": "ראש העין",
+      "lat": 32.0970131,
+      "lon": 34.9105972
+    }
+  ]
+}

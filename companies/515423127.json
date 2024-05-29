@@ -1,0 +1,23 @@
+{
+  "name": "Plasmatica",
+  "description": "Revolutionary technology ensuring surgeons have continuous, clear, fog-free visibility throughout procedures.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/plasmatica-logo.webp",
+  "websiteUrl": "https://plasmatica.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "plasmatica",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התעשיה",
+      "houseNumber": 27,
+      "city": "רעננה",
+      "lat": 32.19584895,
+      "lon": 34.8762753496333
+    }
+  ]
+}

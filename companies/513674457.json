@@ -1,0 +1,23 @@
+{
+  "name": "Singular",
+  "description": "An authorized financial services provider specializing in shares and bonds.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/singular-logo.webp",
+  "websiteUrl": "https://www.singularfs.co.za/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "singular",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קרן היסוד",
+      "houseNumber": 36,
+      "city": "ירושלים",
+      "lat": 31.7717814,
+      "lon": 35.2222777
+    }
+  ]
+}

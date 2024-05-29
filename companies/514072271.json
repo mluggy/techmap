@@ -1,0 +1,23 @@
+{
+  "name": "Finetech Pharmaceutical",
+  "description": "Creating essential compounds for medications.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/finetech_pharmaceutical-logo.webp",
+  "websiteUrl": "https://www.finetechlab.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "finetech-pharmaceutical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נרקיסים",
+      "houseNumber": 33,
+      "city": "נשר",
+      "lat": 32.766551014392235,
+      "lon": 35.05522125887567
+    }
+  ]
+}

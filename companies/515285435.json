@@ -1,0 +1,23 @@
+{
+  "name": "Perception Point",
+  "description": "An AI-driven threat prevention platform with round-the-clock incident response services utilizing LLMs, image recognition, and anti-evasion technology to safeguard organizations.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/perception_point-logo.webp",
+  "websiteUrl": "https://perception-point.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "perception-point",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.0654291,
+      "lon": 34.7766695
+    }
+  ]
+}

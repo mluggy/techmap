@@ -1,0 +1,23 @@
+{
+  "name": "Nutrits",
+  "description": "Specializing in nanotechnology, this company leverages the unique properties of sub-100 nm nanobubbles to enhance water characteristics and performance.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/nutrits-logo.webp",
+  "websiteUrl": "https://www.nanobb.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nutrits",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסדנאות",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1618526,
+      "lon": 34.80709739822251
+    }
+  ]
+}

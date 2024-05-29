@@ -1,0 +1,23 @@
+{
+  "name": "Invent Aircare",
+  "description": "Introducing a groundbreaking toilet that automatically eliminates odors and bacteria, ensuring a pleasant and hygienic bathroom experience without the need for fans or air fresheners.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/invent_aircare-logo.webp",
+  "websiteUrl": "https://www.invent.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "invent-aircare-ltd",
+  "crunchbaseId": "invent-aircare",
+  "finderId": "invent-aircare",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרור",
+      "houseNumber": 24,
+      "city": "גדרה",
+      "lat": 31.8063682,
+      "lon": 34.7732241
+    }
+  ]
+}

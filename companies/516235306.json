@@ -1,0 +1,23 @@
+{
+  "name": "Connected Papers",
+  "description": "Gain a visual understanding of an academic field by entering a paper to generate and explore graphs of related research.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/connected_papers-logo.webp",
+  "websiteUrl": "https://www.connectedpapers.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "connected-papers",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המעיין",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.0710464375,
+      "lon": 34.809077175
+    }
+  ]
+}

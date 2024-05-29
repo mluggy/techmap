@@ -1,0 +1,23 @@
+{
+  "name": "Driveu Tech",
+  "description": "Providing dependable, low-latency connectivity for seamless teleoperation of robot and autonomous vehicle fleets.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/driveu_tech-logo.webp",
+  "websiteUrl": "https://driveu.auto/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "driveu",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 2,
+      "city": "רעננה",
+      "lat": 32.1994931,
+      "lon": 34.8840703
+    }
+  ]
+}

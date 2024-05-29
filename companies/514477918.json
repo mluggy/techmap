@@ -1,0 +1,23 @@
+{
+  "name": "Gtech It",
+  "description": "Pioneering advanced solutions for intricate national security issues.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/gtech_it-logo.webp",
+  "websiteUrl": "https://coreone.com/",
+  "careersUrl": "https://coreone.com/careers/current-openings/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gtech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ריב\"ל",
+      "houseNumber": 18,
+      "city": "תל אביב - יפו",
+      "lat": 32.062477,
+      "lon": 34.782957
+    }
+  ]
+}

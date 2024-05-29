@@ -1,0 +1,23 @@
+{
+  "name": "Menow",
+  "description": "A pioneering firm utilizing cutting-edge AI technology to revolutionize the intersection of science and marketing in the cosmetics industry.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/menow-logo.webp",
+  "websiteUrl": "https://www.menow.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "menow-skin",
+  "crunchbaseId": null,
+  "finderId": "menow",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 117,
+      "city": "תל אביב - יפו",
+      "lat": 32.087303,
+      "lon": 34.787942
+    }
+  ]
+}

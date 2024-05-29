@@ -1,0 +1,23 @@
+{
+  "name": "Mycelium",
+  "description": "The leading center in Israel for mycology professionals and enthusiasts, offering unique mushroom cultures, home cultivation kits, equipment, and practical growing information.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/mycelium-logo.webp",
+  "websiteUrl": "https://www.mycelium.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mycelium",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שבט מנשה",
+      "houseNumber": 36,
+      "city": "הרצליה",
+      "lat": 32.1755153,
+      "lon": 34.8090082
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sweet Inn",
+  "description": "Stay in stylish, well-equipped vacation apartments across 28 European cities, with premium amenities and 24/7 local support.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/sweet_inn-logo.webp",
+  "websiteUrl": "https://www.sweetinn.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sweet-inn",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קרן היסוד",
+      "houseNumber": 9,
+      "city": "ירושלים",
+      "lat": 31.7745745,
+      "lon": 35.2185477
+    }
+  ]
+}

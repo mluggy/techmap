@@ -1,0 +1,23 @@
+{
+  "name": "Headlights",
+  "description": "Undisclosed Startup.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/headlights-logo.webp",
+  "websiteUrl": "https://www.headlightsdepot.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "headlights",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גרונר דב",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.124375,
+      "lon": 34.806752
+    }
+  ]
+}

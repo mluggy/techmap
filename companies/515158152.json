@@ -1,0 +1,23 @@
+{
+  "name": "Acid Technologies",
+  "description": "This company provides continuous dark web monitoring and cyber intelligence to protect organizations from cyber attacks.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/acid_technologies-logo.webp",
+  "websiteUrl": "https://www.acid-tech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "acid-technologies",
+  "crunchbaseId": null,
+  "finderId": "acid-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לסקוב חיים",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.1746968,
+      "lon": 34.8419719
+    }
+  ]
+}

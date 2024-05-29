@@ -1,0 +1,23 @@
+{
+  "name": "Micro Point Pro",
+  "description": "Providing guided rock climbing adventures across various premier locations in Alabama and Alaska.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/micro_point_pro-logo.webp",
+  "websiteUrl": "https://mountainproject.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "micro-point-pro",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התנופה",
+      "houseNumber": 5,
+      "city": "יקנעם עילית",
+      "lat": 32.6672039,
+      "lon": 35.1083867
+    }
+  ]
+}

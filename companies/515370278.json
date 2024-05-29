@@ -1,0 +1,23 @@
+{
+  "name": "Naval Dome",
+  "description": "Cybersecurity Services for Maritime Industry.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/naval_dome-logo.webp",
+  "websiteUrl": "https://navaldome.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "naval-dome",
+  "crunchbaseId": "naval-dome",
+  "finderId": "naval-dome",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 15,
+      "city": "רעננה",
+      "lat": 32.19630935,
+      "lon": 34.88423473965118
+    }
+  ]
+}

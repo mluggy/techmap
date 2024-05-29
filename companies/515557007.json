@@ -1,0 +1,23 @@
+{
+  "name": "Mata And Ilan",
+  "description": "A platform for managing customer accounts and purchasing tickets and passes online through a self-service portal.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/mata_and_ilan-logo.webp",
+  "websiteUrl": "https://www.matatransit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mata",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגדוד העברי",
+      "houseNumber": 5,
+      "city": "אשדוד",
+      "lat": 31.7919633,
+      "lon": 34.6394279
+    }
+  ]
+}

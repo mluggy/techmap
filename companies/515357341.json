@@ -1,0 +1,23 @@
+{
+  "name": "Unispectral",
+  "description": "An Israeli company founded in 2016, it offers advanced spectral imaging solutions using MEMS tunable filters to enhance compact cameras.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/unispectral-logo.webp",
+  "websiteUrl": "https://unispectral.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "unispectral",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין מנחם",
+      "houseNumber": 12,
+      "city": "רמת גן",
+      "lat": 32.0852442,
+      "lon": 34.8003868
+    }
+  ]
+}

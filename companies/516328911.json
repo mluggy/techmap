@@ -1,0 +1,23 @@
+{
+  "name": "Oxeye Security",
+  "description": "Provides a unified, prioritized risk assessment of critical applications through runtime analysis aligned with business priorities.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/oxeye_security-logo.webp",
+  "websiteUrl": "https://www.oxeye.io/",
+  "careersUrl": "https://www.oxeye.io/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "oxeye",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 150,
+      "city": "תל אביב - יפו",
+      "lat": 32.0605137,
+      "lon": 34.7759853
+    }
+  ]
+}

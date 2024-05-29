@@ -1,0 +1,23 @@
+{
+  "name": "Deskfirst",
+  "description": "Provides an intuitive web-desktop environment for effortless cloud-based data collaboration.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/deskfirst-logo.webp",
+  "websiteUrl": "https://www.deskfirst.com/",
+  "careersUrl": "https://www.deskfirst.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "deskfirst",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ישראל טל",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.064379,
+      "lon": 34.782815
+    }
+  ]
+}

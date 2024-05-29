@@ -1,0 +1,23 @@
+{
+  "name": "Naki Plus",
+  "description": "Offering on-the-go powerbank rentals across 2000+ European venues, Naki keeps you charged and connected.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/naki_plus-logo.webp",
+  "websiteUrl": "https://naki.app/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "naki",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפרחים",
+      "houseNumber": 15,
+      "city": "רשפון",
+      "lat": 32.1939803,
+      "lon": 34.8205209
+    }
+  ]
+}

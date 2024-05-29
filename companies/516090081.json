@@ -1,0 +1,23 @@
+{
+  "name": "Pinecone Systems",
+  "description": "Provide fast and efficient vector search for various applications, utilizing a serverless infrastructure.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/pinecone_systems-logo.webp",
+  "websiteUrl": "https://www.pinecone.io/",
+  "careersUrl": "https://www.pinecone.io/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pinecone1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מיכה",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.093061,
+      "lon": 34.775551
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fastbreak Medical",
+  "description": "Patch for Identifying Strokes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/fastbreak_medical-logo.webp",
+  "websiteUrl": "https://fastbreakmedical.godaddysites.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fastbreak-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפרדסים",
+      "houseNumber": 4,
+      "city": "נס ציונה",
+      "lat": 31.9137791,
+      "lon": 34.7886826
+    }
+  ]
+}

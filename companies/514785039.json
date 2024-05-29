@@ -1,0 +1,23 @@
+{
+  "name": "Tipranks",
+  "description": "A platform for evaluating the reliability and performance of stock market analysts and bloggers.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/tipranks_ltd-logo.webp",
+  "websiteUrl": "https://www.tipranks.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tipranks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ויצמן",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.0776132,
+      "lon": 34.7891243
+    }
+  ]
+}

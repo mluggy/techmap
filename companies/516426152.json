@@ -1,0 +1,23 @@
+{
+  "name": "Aka Foods",
+  "description": "Utilizes deep learning to craft plant-based foods that mimic the authentic taste and texture of animal products.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/aka_foods-logo.webp",
+  "websiteUrl": "https://www.aka-food.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "aka-foods",
+  "crunchbaseId": "aka-foods",
+  "finderId": "aka-foods",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יפו",
+      "houseNumber": 145,
+      "city": "חיפה",
+      "lat": 32.8276768,
+      "lon": 34.9851308
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Jul Beach",
+  "description": "Avo is a Nashville eatery offering high-quality vegan dishes made from locally-sourced ingredients.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/jul_beach-logo.webp",
+  "websiteUrl": "https://www.eatavo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jul",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכובשים",
+      "houseNumber": 60,
+      "city": "תל אביב - יפו",
+      "lat": 32.068024,
+      "lon": 34.764891
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Shutterfly Israel",
+  "description": "Design personalized photo products, gifts, and stationery for memorable moments.",
+  "categoryId": 9,
+  "size": "xl",
+  "logoFile": "logos/shutterfly_israel-logo.webp",
+  "websiteUrl": "https://www.shutterfly.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "shutterfly",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פלי\"ם",
+      "houseNumber": 7,
+      "city": "חיפה",
+      "lat": 32.8100731,
+      "lon": 35.0051941
+    }
+  ]
+}

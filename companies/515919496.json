@@ -1,0 +1,23 @@
+{
+  "name": "Exero Medical",
+  "description": "A medtech innovator supported by major healthcare and investment organizations.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/exero_medical-logo.webp",
+  "websiteUrl": "https://exeromedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "exero-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0215775,
+      "lon": 34.854526
+    }
+  ]
+}

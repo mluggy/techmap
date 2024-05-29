@@ -1,0 +1,23 @@
+{
+  "name": "B 24 Chat",
+  "description": "A chat application requiring JavaScript for functionality.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/b_24_chat-logo.webp",
+  "websiteUrl": "https://www.b24chat.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "b24chat",
+  "crunchbaseId": null,
+  "finderId": "b24chat",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרופ' שיבא",
+      "houseNumber": 43,
+      "city": "באר שבע",
+      "lat": 31.259864174791822,
+      "lon": 34.75746256063407
+    }
+  ]
+}

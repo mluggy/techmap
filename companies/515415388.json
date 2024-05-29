@@ -1,0 +1,23 @@
+{
+  "name": "Infuse Location",
+  "description": "Innovative software harnessing smartphone sensors for precise indoor location tracking with easy setup, high accuracy, and minimal battery usage.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/infuse_location-logo.webp",
+  "websiteUrl": "https://infuse-location.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "infuse",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מקלף מרדכי רא\"ל",
+      "houseNumber": 9,
+      "city": "חיפה",
+      "lat": 32.788139376410065,
+      "lon": 35.03098646675612
+    }
+  ]
+}

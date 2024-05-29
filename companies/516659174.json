@@ -1,0 +1,23 @@
+{
+  "name": "Emazelabs",
+  "description": "A software service designed for cognitive therapy sessions that can be conducted from home.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/emazelabs-logo.webp",
+  "websiteUrl": "http://emazelabs.com.s3-website-us-east-1.amazonaws.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "emazebrain",
+  "crunchbaseId": null,
+  "finderId": "emazelabs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחל קנה",
+      "houseNumber": 10,
+      "city": "צור יצחק",
+      "lat": 32.2412074,
+      "lon": 34.9975717
+    }
+  ]
+}

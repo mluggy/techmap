@@ -1,0 +1,23 @@
+{
+  "name": "Yow Hr",
+  "description": "Specializing in high-quality surfskates, this company offers a range of models catering to various preferences and styles.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/yow_hr-logo.webp",
+  "websiteUrl": "https://yowsurf.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "yow",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ארלוזורוב",
+      "houseNumber": 68,
+      "city": "תל אביב - יפו",
+      "lat": 32.08599,
+      "lon": 34.778159
+    }
+  ]
+}

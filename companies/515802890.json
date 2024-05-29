@@ -1,0 +1,23 @@
+{
+  "name": "Okibo",
+  "description": "Innovative robots autonomously tackle hazardous and labor-intensive construction tasks safely.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/okibo-logo.webp",
+  "websiteUrl": "https://okibo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "okibo-ltd",
+  "crunchbaseId": null,
+  "finderId": "okibo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גרניט",
+      "houseNumber": 9,
+      "city": "פתח תקווה",
+      "lat": 32.10059,
+      "lon": 34.8652871
+    }
+  ]
+}

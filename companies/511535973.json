@@ -1,0 +1,23 @@
+{
+  "name": "Morel Il",
+  "description": "The Great Morel offers comprehensive morel mushroom resources, including information, recipes, and a sightings map.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/morel_il_ltd-logo.webp",
+  "websiteUrl": "https://www.thegreatmorel.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "morel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המזמרה",
+      "houseNumber": 17,
+      "city": "נס ציונה",
+      "lat": 31.9219246,
+      "lon": 34.7941427
+    }
+  ]
+}

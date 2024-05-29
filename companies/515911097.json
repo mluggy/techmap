@@ -1,0 +1,23 @@
+{
+  "name": "Bio Leaf",
+  "description": "Solutions for preserving fruits and vegetables after harvest.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/bio_leaf-logo.webp",
+  "websiteUrl": "https://www.bioleaf.co.nz/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bio-leaf",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המשביר",
+      "houseNumber": 12,
+      "city": "חולון",
+      "lat": 32.0147299,
+      "lon": 34.8017626
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Biomica",
+  "description": "A clinical-stage biopharmaceutical firm pioneering microbiome-based treatments for immune-related and infectious diseases.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/biomica_ltd-logo.webp",
+  "websiteUrl": "https://www.biomicamed.com/",
+  "careersUrl": "https://www.biomicamed.com/careers/",
+  "isHiring": true,
+  "linkedinId": "biomica-ltd",
+  "crunchbaseId": null,
+  "finderId": "biomica",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פינשטיין",
+      "houseNumber": 13,
+      "city": "רחובות",
+      "lat": 31.8999536,
+      "lon": 34.79146377703995
+    }
+  ]
+}

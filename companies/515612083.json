@@ -1,0 +1,23 @@
+{
+  "name": "Zohar Clean Tech",
+  "description": "A compact, on-site waste disposal solution that converts residential waste into energy while minimizing landfill use and reducing greenhouse gas emissions.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/zohar_clean_tech-logo.webp",
+  "websiteUrl": "https://www.zohartech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "zohar-cleantech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החילזון",
+      "houseNumber": 6,
+      "city": "רמת גן",
+      "lat": 32.0861321,
+      "lon": 34.8040698
+    }
+  ]
+}

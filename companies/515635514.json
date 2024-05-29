@@ -1,0 +1,23 @@
+{
+  "name": "Agrematch",
+  "description": "Specializing in the agricultural industry, we leverage big-data science and multidisciplinary expertise to discover, develop, and market innovative crop protection products.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/agrematch-logo.webp",
+  "websiteUrl": "https://www.agrematch.com/",
+  "careersUrl": "https://www.agrematch.com/careers",
+  "isHiring": true,
+  "linkedinId": "agrematch",
+  "crunchbaseId": "agrematch",
+  "finderId": "agrematch",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פלאוט מנחם",
+      "houseNumber": 10,
+      "city": "רחובות",
+      "lat": 31.9121989,
+      "lon": 34.8069706
+    }
+  ]
+}

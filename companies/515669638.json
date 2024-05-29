@@ -1,0 +1,23 @@
+{
+  "name": "Dow Material Sciences",
+  "description": "Provides the world's most reliable business news and financial information across multiple media platforms.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/dow_material_sciences-logo.webp",
+  "websiteUrl": "https://www.dowjones.com/",
+  "careersUrl": "https://corporate.dow.com/en-us/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dow",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08254365,
+      "lon": 34.801384906098356
+    }
+  ]
+}

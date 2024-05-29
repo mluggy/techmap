@@ -1,0 +1,23 @@
+{
+  "name": "Upstream Security",
+  "description": "A security platform hosted in the cloud designed specifically for connected and self-driving vehicle fleets.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/upstream_security-logo.webp",
+  "websiteUrl": "https://upstream.auto/",
+  "careersUrl": "https://upstream.auto/careers/",
+  "isHiring": true,
+  "linkedinId": "upstream-security",
+  "crunchbaseId": "upstream-security",
+  "finderId": "upstream-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ספיר",
+      "houseNumber": 7,
+      "city": "הרצליה",
+      "lat": 32.1635565,
+      "lon": 34.811999
+    }
+  ]
+}

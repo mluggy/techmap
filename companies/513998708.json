@@ -1,0 +1,23 @@
+{
+  "name": "Fenavic",
+  "description": "The 2022 trade fair featured nearly 1,900 Spanish wineries and cooperatives from across the country, showcasing diverse wine origins.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/fenavic-logo.webp",
+  "websiteUrl": "https://www.fenavin.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fenavic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 16,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0267353,
+      "lon": 34.8933861
+    }
+  ]
+}

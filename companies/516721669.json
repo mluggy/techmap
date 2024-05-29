@@ -1,0 +1,23 @@
+{
+  "name": "Vivac Pharma",
+  "description": "Handcrafted in Dixon, NM, this winery is renowned as the highest-rated red wine producer in New Mexico's history.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vivac_pharma-logo.webp",
+  "websiteUrl": "https://vivacwinery.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vivac",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד נים",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.949713600000003,
+      "lon": 34.80328505744155
+    }
+  ]
+}

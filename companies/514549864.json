@@ -1,0 +1,23 @@
+{
+  "name": "Fireberry",
+  "description": "A premier CRM solution for managing clients, leads, and tasks, providing real-time comprehensive insights into company performance.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/fireberry-logo.webp",
+  "websiteUrl": "https://www.powerlink.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "powerlink-software",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.070693,
+      "lon": 34.785176
+    }
+  ]
+}

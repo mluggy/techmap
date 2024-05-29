@@ -1,0 +1,23 @@
+{
+  "name": "Viator Engineering",
+  "description": "A vertical take-off and landing drone powered by a hybrid-electric system.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/viator_engineering-logo.webp",
+  "websiteUrl": "https://viator-engineering.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "viator-engineering",
+  "finderId": "viator-engineering",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מזיא אהרן",
+      "houseNumber": 3,
+      "city": "ירושלים",
+      "lat": 31.782129800240423,
+      "lon": 35.215013386833576
+    }
+  ]
+}

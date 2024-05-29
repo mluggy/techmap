@@ -1,0 +1,23 @@
+{
+  "name": "Go Out",
+  "description": "Harnessing the power of AI to enhance live events.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/go_out-logo.webp",
+  "websiteUrl": "https://www.go-out.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "go-out",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגלעד",
+      "houseNumber": 1,
+      "city": "נתניה",
+      "lat": 32.3101061,
+      "lon": 34.8724037
+    }
+  ]
+}

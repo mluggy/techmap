@@ -1,0 +1,23 @@
+{
+  "name": "Virtuoptica",
+  "description": "Innovating the intersection of optics and cognitive technology.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/virtuoptica-logo.webp",
+  "websiteUrl": "https://virtuoptica.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "virtuoptica",
+  "crunchbaseId": null,
+  "finderId": "virtuoptica",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רמים",
+      "houseNumber": 20,
+      "city": "כרמיאל",
+      "lat": 32.9208202,
+      "lon": 35.2947686
+    }
+  ]
+}

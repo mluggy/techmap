@@ -1,0 +1,23 @@
+{
+  "name": "Seedwiz",
+  "description": "A platform utilizing geographic information systems (GIS) and artificial intelligence (AI) for optimizing seed selection and facilitating trading.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/seedwiz-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "seedwizcom",
+  "crunchbaseId": null,
+  "finderId": "seedwiz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סוקולוב",
+      "houseNumber": 61,
+      "city": "רמת השרון",
+      "lat": 32.14480425,
+      "lon": 34.83777925661643
+    }
+  ]
+}

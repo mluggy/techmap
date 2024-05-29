@@ -1,0 +1,23 @@
+{
+  "name": "Cibeez Israel",
+  "description": "A cutting-edge delivery network platform linking retailers with multiple carriers to streamline last-mile logistics.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/cibeez_israel-logo.webp",
+  "websiteUrl": "https://cibeez.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cibeez",
+  "crunchbaseId": "cibeez",
+  "finderId": "cibeez",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ויזל",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.083562,
+      "lon": 34.777457
+    }
+  ]
+}

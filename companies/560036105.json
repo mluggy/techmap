@@ -1,0 +1,23 @@
+{
+  "name": "Better Impression",
+  "description": "Smart Online Marketing Solutions.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/better_impression-logo.webp",
+  "websiteUrl": "https://www.bimpression.com/",
+  "careersUrl": "https://www.bimpression.com/careers-comeet/",
+  "isHiring": true,
+  "linkedinId": "betterimpression",
+  "crunchbaseId": "better-impression-limited",
+  "finderId": "better-impression",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנשה",
+      "houseNumber": 1,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.884044,
+      "lon": 35.0073638
+    }
+  ]
+}

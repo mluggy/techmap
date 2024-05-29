@@ -1,0 +1,23 @@
+{
+  "name": "Equal Access",
+  "description": "A trusted calorie-free sweetener that enhances your favorite drinks.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/equal_access-logo.webp",
+  "websiteUrl": "https://equal.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "equal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קפלן",
+      "houseNumber": 34,
+      "city": "קריית אונו",
+      "lat": 32.0629397,
+      "lon": 34.848554
+    }
+  ]
+}

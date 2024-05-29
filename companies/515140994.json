@@ -1,0 +1,23 @@
+{
+  "name": "Novartis Israel",
+  "description": "An innovative company dedicated to reimagining medicine to improve and extend lives.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/novartis_israel-logo.webp",
+  "websiteUrl": "https://www.novartis.com/",
+  "careersUrl": "https://www.novartis.com/careers",
+  "isHiring": true,
+  "linkedinId": "novartis",
+  "crunchbaseId": null,
+  "finderId": "novartis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תוצרת הארץ",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.073249,
+      "lon": 34.796032
+    }
+  ]
+}

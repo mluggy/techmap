@@ -1,0 +1,23 @@
+{
+  "name": "Elinkair",
+  "description": "Technology for electric vehicles that uses telescopic current collectors.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/elinkair-logo.webp",
+  "websiteUrl": "https://www.elinkair.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "elinkair",
+  "crunchbaseId": null,
+  "finderId": "elinkair",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גבעת דאונס",
+      "houseNumber": 39,
+      "city": "חיפה",
+      "lat": 32.7800945,
+      "lon": 34.9920222
+    }
+  ]
+}

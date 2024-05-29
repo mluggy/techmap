@@ -1,0 +1,23 @@
+{
+  "name": "Profility Israel",
+  "description": "Their technology facilitates personalized care planning by optimizing healthcare decisions and transitions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/profility_israel-logo.webp",
+  "websiteUrl": "https://profility.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "profility-care-planning",
+  "crunchbaseId": "profility",
+  "finderId": "profility",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קשטן מיכאל",
+      "houseNumber": 3,
+      "city": "חיפה",
+      "lat": 32.7677861,
+      "lon": 35.0146577
+    }
+  ]
+}

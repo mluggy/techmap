@@ -1,0 +1,23 @@
+{
+  "name": "Spero Biopharma",
+  "description": "Pioneering biopharmaceutical company specializing in neuro-protective treatments for cognitive impairment and NASH, backed by extensive clinical research.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/spero_biopharma-logo.webp",
+  "websiteUrl": "https://www.sperobio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "spero-biopharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך חברון",
+      "houseNumber": 101,
+      "city": "ירושלים",
+      "lat": 31.754855,
+      "lon": 35.2216657
+    }
+  ]
+}

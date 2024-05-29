@@ -1,0 +1,23 @@
+{
+  "name": "Valence Security",
+  "description": "They offer comprehensive SaaS security risk management with automated remediation and workflow integration for enhanced protection.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/valence_security-logo.webp",
+  "websiteUrl": "https://www.valencesecurity.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "valence-security",
+  "crunchbaseId": null,
+  "finderId": "valence-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 150,
+      "city": "תל אביב - יפו",
+      "lat": 32.0605137,
+      "lon": 34.7759853
+    }
+  ]
+}

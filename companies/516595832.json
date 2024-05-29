@@ -1,0 +1,23 @@
+{
+  "name": "Ironblocks",
+  "description": "Combining custom threat detection with automated circuit breakers, this company offers real-time protection without disrupting legitimate users.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/ironblocks-logo.webp",
+  "websiteUrl": "https://www.ironblocks.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "ironblocks",
+  "crunchbaseId": null,
+  "finderId": "ironblocks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 37,
+      "city": "תל אביב - יפו",
+      "lat": 32.065894,
+      "lon": 34.782836578499996
+    }
+  ]
+}

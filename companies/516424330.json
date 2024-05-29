@@ -1,0 +1,23 @@
+{
+  "name": "Pulsar Medtech",
+  "description": "This innovative startup, founded in 2021, leverages advanced science and technology to revolutionize orthopedic treatments and enhance patient care.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pulsar_medtech-logo.webp",
+  "websiteUrl": "https://pulsarmt.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "pulsar-medtech",
+  "finderId": "pulsar-medtech-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מצדה",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.0914266,
+      "lon": 34.8251051
+    }
+  ]
+}

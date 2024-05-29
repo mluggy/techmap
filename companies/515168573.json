@@ -1,0 +1,23 @@
+{
+  "name": "Protekt Therapeutics",
+  "description": "Based in Israel, this company specializes in developing oral inhibitors targeting the kinase PKR to treat neurodegenerative and neuroinflammatory diseases.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/protekt_therapeutics-logo.webp",
+  "websiteUrl": "https://www.protektx.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "protekt-therapeutics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 16,
+      "city": "בני ברק",
+      "lat": 32.0941294,
+      "lon": 34.8235176
+    }
+  ]
+}

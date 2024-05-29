@@ -1,0 +1,23 @@
+{
+  "name": "Jifiti Israel",
+  "description": "A company dedicated to excellence, creativity, flexibility, and punctuality in meeting business needs.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/jifiti_israel-logo.webp",
+  "websiteUrl": "https://www.jifiti.com/",
+  "careersUrl": "https://www.jifiti.com/jobs/",
+  "isHiring": true,
+  "linkedinId": "jifiti",
+  "crunchbaseId": "jifiti-com",
+  "finderId": "jifiti",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות דם המכבים",
+      "houseNumber": 28,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.905411899999997,
+      "lon": 35.005662165798086
+    }
+  ]
+}

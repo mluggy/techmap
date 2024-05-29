@@ -1,0 +1,23 @@
+{
+  "name": "Trailze",
+  "description": "Micromobility Navigation Software Development Kit.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/trailze-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "trailze",
+  "crunchbaseId": "trailze-2",
+  "finderId": "trailze",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בנימין",
+      "houseNumber": 33,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.8873138,
+      "lon": 35.0052455
+    }
+  ]
+}

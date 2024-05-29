@@ -1,0 +1,23 @@
+{
+  "name": "Kimba AI",
+  "description": "The company uses real-time biometric analysis to personalize scent therapy for better sleep and health, offering unique morning sleep data insights.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/kimba_ai-logo.webp",
+  "websiteUrl": "https://www.kimba.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kimba-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אני מאמין",
+      "houseNumber": 11,
+      "city": "רמת השרון",
+      "lat": 32.1520351,
+      "lon": 34.8360422
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Hudson Rock",
+  "description": "Specializing in cybersecurity, they provide advanced threat detection solutions powered by unique data directly sourced from cybercriminals.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/hudson_rock-logo.webp",
+  "websiteUrl": "https://www.hudsonrock.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "hudson-rock",
+  "crunchbaseId": null,
+  "finderId": "hudson-rock",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "וולמן יהודה",
+      "houseNumber": 11,
+      "city": "תל אביב - יפו",
+      "lat": 32.114971365699695,
+      "lon": 34.82694960526185
+    }
+  ]
+}

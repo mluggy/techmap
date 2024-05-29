@@ -1,0 +1,23 @@
+{
+  "name": "Aura Smart Air",
+  "description": "System for Managing Indoor Air Quality.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/aura_smart_air-logo.webp",
+  "websiteUrl": "https://auraair.ie/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "auraair",
+  "crunchbaseId": null,
+  "finderId": "aura-smart-air",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העליה השניה",
+      "houseNumber": 43,
+      "city": "אזור",
+      "lat": 32.024607,
+      "lon": 34.8029264
+    }
+  ]
+}

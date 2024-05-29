@@ -1,0 +1,23 @@
+{
+  "name": "Synchrony Medical",
+  "description": "Developing a brain-computer interface to enable thought-controlled digital communication for medical patients.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/synchrony_medical-logo.webp",
+  "websiteUrl": "https://synchron.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "synchrony-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0215775,
+      "lon": 34.854526
+    }
+  ]
+}

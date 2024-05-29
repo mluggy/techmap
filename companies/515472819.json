@@ -1,0 +1,23 @@
+{
+  "name": "Air Doctor",
+  "description": "A global network simplifying access to reliable local medical care for travelers.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/air_doctor-logo.webp",
+  "websiteUrl": "https://www.air-dr.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "air-doctor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השקד",
+      "houseNumber": 1,
+      "city": "בית נקופה",
+      "lat": 31.8027506,
+      "lon": 35.1238636
+    }
+  ]
+}

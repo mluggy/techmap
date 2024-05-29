@@ -1,0 +1,23 @@
+{
+  "name": "Green 2 Pass",
+  "description": "Instant Safety Assistance for Drivers Overtaking Other Vehicles.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/green_2_pass-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "green2pass",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "צה\"ל",
+      "houseNumber": 99,
+      "city": "אשקלון",
+      "lat": 31.665319,
+      "lon": 34.5875574
+    }
+  ]
+}

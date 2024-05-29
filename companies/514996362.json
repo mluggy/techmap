@@ -1,0 +1,23 @@
+{
+  "name": "Resonai",
+  "description": "A web-based platform for remote building management that offers 3D visualization, access management, real-time data analytics, and mobile application deployment to enhance operational efficiency and user engagement.",
+  "categoryId": 4,
+  "size": "s",
+  "logoFile": "logos/resonai-logo.webp",
+  "websiteUrl": "https://www.resonai.com/",
+  "careersUrl": "https://www.resonai.com/jobs",
+  "isHiring": true,
+  "linkedinId": "resonai",
+  "crunchbaseId": null,
+  "finderId": "Resonai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התעשיה",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.067271,
+      "lon": 34.78668
+    }
+  ]
+}

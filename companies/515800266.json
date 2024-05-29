@@ -1,0 +1,23 @@
+{
+  "name": "Wine Water",
+  "description": "A water beverage flavored with grapes.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/wine_water-logo.webp",
+  "websiteUrl": "https://sipwinewater.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wine-water",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך היין",
+      "houseNumber": 4,
+      "city": "קצרין",
+      "lat": 32.98804283374131,
+      "lon": 35.708942890472336
+    }
+  ]
+}

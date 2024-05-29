@@ -1,0 +1,23 @@
+{
+  "name": "Vimeo Israel",
+  "description": "Effortlessly create, edit, and share high-quality video content on any budget, and host for large audiences.",
+  "categoryId": 8,
+  "size": "xl",
+  "logoFile": "logos/vimeo_israel-logo.webp",
+  "websiteUrl": "https://vimeo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vimeo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המזמרה",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.9224616,
+      "lon": 34.7946749
+    }
+  ]
+}

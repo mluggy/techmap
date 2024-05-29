@@ -1,0 +1,23 @@
+{
+  "name": "Neox",
+  "description": "A comprehensive range of skincare products catering to all ages, skin types, and conditions, ensuring significant and real results.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/neox-logo.webp",
+  "websiteUrl": "https://neox-dermacare.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "neox",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עדעד",
+      "houseNumber": 36,
+      "city": "אבן יהודה",
+      "lat": 32.62484,
+      "lon": 35.3306464
+    }
+  ]
+}

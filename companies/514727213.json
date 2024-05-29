@@ -1,0 +1,23 @@
+{
+  "name": "3 Dsellers",
+  "description": "Boost eBay sales efficiency with cutting-edge listing software for easy, bulk inventory management.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/3_dsellers-logo.webp",
+  "websiteUrl": "https://www.3dsellers.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "3dsellers",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגבור האלמוני",
+      "houseNumber": 38,
+      "city": "תל אביב - יפו",
+      "lat": 32.05841892522462,
+      "lon": 34.79960233285159
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Geely Habanim Eilat",
+  "description": "A prominent Hangzhou-based car maker established in 1997 under Zhejiang Geely Holding Group.",
+  "categoryId": 5,
+  "size": "l",
+  "logoFile": "logos/geely_habanim_eilat-logo.webp",
+  "websiteUrl": "https://global.geely.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "geely",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדייג",
+      "houseNumber": 24,
+      "city": "אילת",
+      "lat": 29.5697199,
+      "lon": 34.9590641
+    }
+  ]
+}

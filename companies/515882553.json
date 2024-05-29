@@ -1,0 +1,23 @@
+{
+  "name": "Facio",
+  "description": "Advance a portion of your salary instantly to cover unexpected expenses and repay it on payday, with fees starting at R$ 9.90 per transaction.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/facio-logo.webp",
+  "websiteUrl": "https://facio.com.br/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "facio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היובלים",
+      "houseNumber": 52,
+      "city": "בארותיים",
+      "lat": 32.3204902,
+      "lon": 34.989925
+    }
+  ]
+}

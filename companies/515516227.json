@@ -1,0 +1,23 @@
+{
+  "name": "Dormotech Medical",
+  "description": "A pioneering FDA-approved device offers a full testing cycle with intuitive reporting and exceeds CMS standards through advanced machine-assisted scoring.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/dormotech_medical-logo.webp",
+  "websiteUrl": "https://www.dormotech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dormotech-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד רבין יצחק",
+      "houseNumber": 21,
+      "city": "עפולה",
+      "lat": 32.6236389,
+      "lon": 35.3176342
+    }
+  ]
+}

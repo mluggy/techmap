@@ -1,0 +1,23 @@
+{
+  "name": "Silmet",
+  "description": "This company specializes in producing niobium and tantalum, with ambitions to be the top pure niobium metal producer globally.",
+  "categoryId": 16,
+  "size": "xs",
+  "logoFile": "logos/silmet-logo.webp",
+  "websiteUrl": "http://www.silmet.ee/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "silmet",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסדנא",
+      "houseNumber": 12,
+      "city": "אור יהודה",
+      "lat": 32.0335253,
+      "lon": 34.8503725
+    }
+  ]
+}

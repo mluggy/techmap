@@ -1,0 +1,23 @@
+{
+  "name": "Ole Marketplace",
+  "description": "A top-ranked young Argentine athlete who moved to Spain shared insights on sports growth and her patriotism.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/ole_marketplace-logo.webp",
+  "websiteUrl": "https://www.ole.com.ar/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ole",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבין יצחק",
+      "houseNumber": 27,
+      "city": "קריית אונו",
+      "lat": 32.0647098,
+      "lon": 34.8649952
+    }
+  ]
+}

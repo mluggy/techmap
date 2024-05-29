@@ -1,0 +1,23 @@
+{
+  "name": "Data Valley",
+  "description": "A premier provider of data engineering courses and career opportunities fostering a vibrant learning community.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/data_valley-logo.webp",
+  "websiteUrl": "https://datavalley.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "datavalleyltd",
+  "crunchbaseId": null,
+  "finderId": "datavalley",
+  "xId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "עמק המעיינות",
+      "lat": 32.5350964,
+      "lon": 35.51829767774473
+    }
+  ]
+}

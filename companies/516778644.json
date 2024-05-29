@@ -1,0 +1,23 @@
+{
+  "name": "Nominal",
+  "description": "A collaboration offering elegantly designed jewelry pieces featuring necklaces and hoop earrings with a distinctive crescent motif.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/nominal-logo.webp",
+  "websiteUrl": "https://nominalx.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nominal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרב שלינקה יצחק",
+      "houseNumber": 6,
+      "city": "ראשון לציון",
+      "lat": 31.98279945,
+      "lon": 34.80378075
+    }
+  ]
+}

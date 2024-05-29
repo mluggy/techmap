@@ -1,0 +1,23 @@
+{
+  "name": "Eatsane",
+  "description": "Eatsane creates delicious, low-carb foods without artificial sweeteners, developed by a team of chefs, doctors, dietitians, and food technologists.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/eatsane-logo.webp",
+  "websiteUrl": "https://eatsane.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eatsane",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 43,
+      "city": "רמת גן",
+      "lat": 32.0693338,
+      "lon": 34.8501728
+    }
+  ]
+}

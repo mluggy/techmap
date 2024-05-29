@@ -1,0 +1,23 @@
+{
+  "name": "Drupe Mobile",
+  "description": "An all-in-one contact management app that allows you to effortlessly connect, dial, record calls, and view caller IDs with a single swipe.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/drupe_mobile-logo.webp",
+  "websiteUrl": "https://www.getdrupe.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "drupe-mobile",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לוונברג",
+      "houseNumber": 6,
+      "city": "כפר סבא",
+      "lat": 32.19645825,
+      "lon": 34.89471465
+    }
+  ]
+}

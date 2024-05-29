@@ -1,0 +1,23 @@
+{
+  "name": "Nation E",
+  "description": "Security Solutions for Essential Infrastructure.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/nation_e-logo.webp",
+  "websiteUrl": "https://epaper.nation.africa/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "nation-e-ag",
+  "crunchbaseId": "nation-e",
+  "finderId": "nation-e",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מדינת היהודים",
+      "houseNumber": 89,
+      "city": "הרצליה",
+      "lat": 32.1664377,
+      "lon": 34.8105544
+    }
+  ]
+}

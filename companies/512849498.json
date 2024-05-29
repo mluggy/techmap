@@ -1,0 +1,23 @@
+{
+  "name": "Perion Network",
+  "description": "Advertising Technology Services for Both Brands and Publishers.",
+  "categoryId": 2,
+  "size": "l",
+  "logoFile": "logos/perion_network-logo.webp",
+  "websiteUrl": "http://perion.com/",
+  "careersUrl": "https://perion.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "perion-network",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרוקמים",
+      "houseNumber": 26,
+      "city": "חולון",
+      "lat": 32.0077054,
+      "lon": 34.80060304320986
+    }
+  ]
+}

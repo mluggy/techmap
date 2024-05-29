@@ -1,0 +1,23 @@
+{
+  "name": "Perimom",
+  "description": "Offering a self-use perineal massage tool for expectant mothers, this company enables easy and independent preparation for childbirth.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/perimom-logo.webp",
+  "websiteUrl": "https://www.perimom.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "perimom-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 67,
+      "city": "תל אביב - יפו",
+      "lat": 32.0661455,
+      "lon": 34.7923103
+    }
+  ]
+}

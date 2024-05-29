@@ -1,0 +1,23 @@
+{
+  "name": "Plas Free",
+  "description": "A private medical device company specializing in an innovative device that enhances human plasma for better treatment of severe bleeding.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/plas_free-logo.webp",
+  "websiteUrl": "https://www.plas-free.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "plas-free-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sowillo Energy",
+  "description": "A system designed to recover and reuse waste heat in facilities.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/sowillo_energy-logo.webp",
+  "websiteUrl": "https://www.sowillo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sowillo",
+  "crunchbaseId": "sowillo-energy",
+  "finderId": "sowillo-energy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זמר עברי",
+      "houseNumber": 10,
+      "city": "מכמנים",
+      "lat": 32.9069348,
+      "lon": 35.3297633
+    }
+  ]
+}

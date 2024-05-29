@@ -1,0 +1,23 @@
+{
+  "name": "Elmedical",
+  "description": "Their innovative technology offers a painless and efficient catheter insertion experience, allowing patients to remain productive during the procedure.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/elmedical-logo.webp",
+  "websiteUrl": "https://www.elmedical-group.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "elmedical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 29,
+      "city": "הוד השרון",
+      "lat": 32.1312727,
+      "lon": 34.896831
+    }
+  ]
+}

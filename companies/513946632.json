@@ -1,0 +1,23 @@
+{
+  "name": "Medi Tate",
+  "description": "Providing care for urethral and prostate conditions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medi_tate-logo.webp",
+  "websiteUrl": "https://www.itind.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medi-tate",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האומן",
+      "houseNumber": 17,
+      "city": "חדרה",
+      "lat": 32.4472988,
+      "lon": 34.9102145
+    }
+  ]
+}

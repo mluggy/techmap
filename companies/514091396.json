@@ -1,0 +1,23 @@
+{
+  "name": "Ivri Goren Management Services",
+  "description": "Founded in 1889, this leading research institution is dedicated to advancing livestock research and development in the region.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ivri_goren_management_services-logo.webp",
+  "websiteUrl": "https://www.ivri.nic.in/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ivri",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפיקוס",
+      "houseNumber": 1,
+      "city": "חירות",
+      "lat": 32.24090884346509,
+      "lon": 34.91365154491249
+    }
+  ]
+}

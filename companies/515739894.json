@@ -1,0 +1,23 @@
+{
+  "name": "Datagen Technologies",
+  "description": "Providing customizable synthetic image datasets with fully annotated, realistic human scenes for diverse environments.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/datagen_technologies-logo.webp",
+  "websiteUrl": "https://datagen.tech/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "datagen-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.066645,
+      "lon": 34.78582
+    }
+  ]
+}

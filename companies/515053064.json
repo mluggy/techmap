@@ -1,0 +1,23 @@
+{
+  "name": "Yofix Probiotics",
+  "description": "Offering clean-label, dairy and soy-free probiotic yogurt from Israel.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/yofix_probiotics-logo.webp",
+  "websiteUrl": "https://www.yofix.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "yofix-probiotics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העמל",
+      "houseNumber": 21,
+      "city": "אשקלון",
+      "lat": 31.6372609,
+      "lon": 34.5515891
+    }
+  ]
+}

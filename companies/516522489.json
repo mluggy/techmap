@@ -1,0 +1,23 @@
+{
+  "name": "Medflow Labs",
+  "description": "A device for measuring urine flow directly in the toilet, integrated with telehealth capabilities.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medflow_labs-logo.webp",
+  "websiteUrl": "https://www.medflowlabs.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "medflowsoftware",
+  "crunchbaseId": null,
+  "finderId": "medflow-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קורא הדורות",
+      "houseNumber": 50,
+      "city": "ירושלים",
+      "lat": 31.7470321,
+      "lon": 35.2212567
+    }
+  ]
+}

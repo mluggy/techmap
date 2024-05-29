@@ -1,0 +1,23 @@
+{
+  "name": "Easy Line",
+  "description": "Focused on unique food items and health supplements.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/easy_line-logo.webp",
+  "websiteUrl": "https://www.easylineapp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "easy-line",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטוחן",
+      "houseNumber": 2,
+      "city": "קיסריה",
+      "lat": 32.4857297,
+      "lon": 34.9462968
+    }
+  ]
+}

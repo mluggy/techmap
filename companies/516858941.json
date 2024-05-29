@@ -1,0 +1,23 @@
+{
+  "name": "Sima Analytics",
+  "description": "Monitoring of Container Terminals and Logistics Operations.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/sima_analytics-logo.webp",
+  "websiteUrl": "https://www.simaanalytics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sima-analytics-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 45,
+      "city": "חיפה",
+      "lat": 32.819776250000004,
+      "lon": 34.9988252
+    }
+  ]
+}

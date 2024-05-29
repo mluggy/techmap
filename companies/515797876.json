@@ -1,0 +1,23 @@
+{
+  "name": "Vulcan Cyber",
+  "description": "This company provides comprehensive vulnerability assessment and risk mitigation guidance to help organizations prioritize and manage cybersecurity threats in real-time.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/vulcan_cyber-logo.webp",
+  "websiteUrl": "https://vulcan.io/",
+  "careersUrl": "https://vulcan.io/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vulcan-cyber",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 116,
+      "city": "תל אביב - יפו",
+      "lat": 32.0605137,
+      "lon": 34.7759853
+    }
+  ]
+}

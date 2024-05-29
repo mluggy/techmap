@@ -1,0 +1,23 @@
+{
+  "name": "Speakizi",
+  "description": "Business Social Gatherings.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/speakizi-logo.webp",
+  "websiteUrl": "http://www.speakizi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "speakizi",
+  "crunchbaseId": "speakizi",
+  "finderId": "speakizi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 118,
+      "city": "תל אביב - יפו",
+      "lat": 32.069284,
+      "lon": 34.778734
+    }
+  ]
+}

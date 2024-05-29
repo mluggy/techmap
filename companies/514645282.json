@@ -1,0 +1,23 @@
+{
+  "name": "Intellicon",
+  "description": "Developing a smart system that enhances urban traffic management by utilizing vehicle and passenger signals to optimize traffic flow.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/intellicon-logo.webp",
+  "websiteUrl": "https://www.intellicon.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "intellicon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנדיב",
+      "houseNumber": 35,
+      "city": "זכרון יעקב",
+      "lat": 32.574404099999995,
+      "lon": 34.95606372504971
+    }
+  ]
+}

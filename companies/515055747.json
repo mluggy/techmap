@@ -1,0 +1,23 @@
+{
+  "name": "Safebreach",
+  "description": "A platform that continuously tests and validates your security by simulating real cyber-attacks to identify vulnerabilities and prioritize fixes.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/safebreach-logo.webp",
+  "websiteUrl": "https://www.safebreach.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "safebreach",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.064654,
+      "lon": 34.785584
+    }
+  ]
+}

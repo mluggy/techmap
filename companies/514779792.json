@@ -1,0 +1,23 @@
+{
+  "name": "Javelin Medical",
+  "description": "Innovating stroke prevention for atrial fibrillation patients through advanced medical solutions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/javelin_medical-logo.webp",
+  "websiteUrl": "https://www.javelinmed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "javelin-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקידמה",
+      "houseNumber": 27,
+      "city": "יקנעם עילית",
+      "lat": 32.6646924,
+      "lon": 35.1060551
+    }
+  ]
+}

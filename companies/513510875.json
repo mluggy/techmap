@@ -1,0 +1,23 @@
+{
+  "name": "Commtact",
+  "description": "Provider of specialized wireless communication solutions tailored for defense and first responder applications, with expertise in aerial, ground, and naval platforms.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/commtact-logo.webp",
+  "websiteUrl": "https://commtact-systems.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "commtact",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחל שניר",
+      "houseNumber": 10,
+      "city": "יבנה",
+      "lat": 31.8993354,
+      "lon": 34.7385308
+    }
+  ]
+}

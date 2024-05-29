@@ -1,0 +1,23 @@
+{
+  "name": "Axon Pulse",
+  "description": "Leveraging deep learning, this company enhances radar perception by extracting hidden features from radar signals, surpassing traditional algorithms.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/axon_pulse-logo.webp",
+  "websiteUrl": "https://www.axon-pulse.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "axon-pulse",
+  "crunchbaseId": null,
+  "finderId": "axonpulse",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 150,
+      "city": "תל אביב - יפו",
+      "lat": 32.0605137,
+      "lon": 34.7759853
+    }
+  ]
+}

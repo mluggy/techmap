@@ -1,0 +1,23 @@
+{
+  "name": "Animoove",
+  "description": "Revolutionizing human communication, this platform lets users express emotions and scenarios through 4-second animated clips with customizable sound and text.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/animoove-logo.webp",
+  "websiteUrl": "https://animoove.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "animoove",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 23,
+      "city": "הרצליה",
+      "lat": 32.1658392,
+      "lon": 34.8116146
+    }
+  ]
+}

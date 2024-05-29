@@ -1,0 +1,23 @@
+{
+  "name": "Ossio",
+  "description": "This company offers groundbreaking bone implants that integrate and become part of the natural bone, leaving no residue.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/ossio-logo.webp",
+  "websiteUrl": "https://ossio.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "ossio-ltd.",
+  "crunchbaseId": null,
+  "finderId": "ossio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטוחן",
+      "houseNumber": 8,
+      "city": "קיסריה",
+      "lat": 32.4863102,
+      "lon": 34.9521262
+    }
+  ]
+}

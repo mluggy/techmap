@@ -1,0 +1,23 @@
+{
+  "name": "Spring Vision",
+  "description": "VisionSpring provides affordable eyeglasses, vision screening and training for non-profits, social entrepreneurs, govt. agencies and corporates clients.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/spring_vision-logo.webp",
+  "websiteUrl": "https://visionspring.org/",
+  "careersUrl": "https://visionspring.org/about-us/careers",
+  "isHiring": true,
+  "linkedinId": "spring-vision-ltd",
+  "crunchbaseId": "spring-vision",
+  "finderId": "spring-biomed-vision",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנביאים",
+      "houseNumber": 8,
+      "city": "חיפה",
+      "lat": 32.8145807,
+      "lon": 34.9971366
+    }
+  ]
+}

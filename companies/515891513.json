@@ -1,0 +1,23 @@
+{
+  "name": "Jovianx",
+  "description": "Transforms software into fully managed cloud services and SaaS applications with multi-tenancy, subscription management, and Kubernetes integration.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/jovianx-logo.webp",
+  "websiteUrl": "https://jovianx.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jovianx",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יורדי ים",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1602558,
+      "lon": 34.7956503
+    }
+  ]
+}

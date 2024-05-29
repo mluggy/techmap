@@ -1,0 +1,23 @@
+{
+  "name": "Rewire",
+  "description": "Effortlessly open a free account, verify your identity, and securely transfer money abroad in just a few steps.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/rewire-logo.webp",
+  "websiteUrl": "https://www.rewire.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rewire",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תכלת",
+      "houseNumber": 81,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9003851,
+      "lon": 34.9982397
+    }
+  ]
+}

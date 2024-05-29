@@ -1,0 +1,23 @@
+{
+  "name": "Otailo Returns",
+  "description": "Empowering physical stores to efficiently verify, process, and resell returned items locally.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/otailo_returns-logo.webp",
+  "websiteUrl": "https://otailo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "otailo",
+  "crunchbaseId": "otailo-returns",
+  "finderId": "otailo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המחתרת",
+      "houseNumber": 11,
+      "city": "רמת השרון",
+      "lat": 32.1467459,
+      "lon": 34.842099
+    }
+  ]
+}

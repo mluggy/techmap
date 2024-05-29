@@ -1,0 +1,23 @@
+{
+  "name": "Cardiovia",
+  "description": "A tool designed for less invasive heart procedures.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cardiovia-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cardiovia",
+  "crunchbaseId": "cardiovia",
+  "finderId": "CardioVia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

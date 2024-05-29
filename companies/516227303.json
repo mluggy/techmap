@@ -1,0 +1,23 @@
+{
+  "name": "Hyfeed",
+  "description": "We specialize in premium, GM-free equine feeds crafted from the finest local ingredients using extrusion and cold pressing techniques.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/hyfeed-logo.webp",
+  "websiteUrl": "https://www.hyfeed.com.au/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hyfeed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברקאי",
+      "houseNumber": 15,
+      "city": "רמת גן",
+      "lat": 32.0769963,
+      "lon": 34.8251882
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Skyline AI",
+  "description": "Partnering with investors, this firm leverages AI to innovate commercial real estate investment strategies.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/skyline_ai-logo.webp",
+  "websiteUrl": "https://www.skyline.ai/",
+  "careersUrl": "https://www.skyline.ai/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "skyline-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מיקוניס שמואל",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.060069,
+      "lon": 34.785451
+    }
+  ]
+}

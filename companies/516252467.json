@@ -1,0 +1,23 @@
+{
+  "name": "Dazz Cloud",
+  "description": "They enhance developer workflows by mapping code-to-cloud pipelines, minimizing security alerts, and addressing core issues.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/dazz_cloud-logo.webp",
+  "websiteUrl": "https://www.dazz.io/",
+  "careersUrl": "https://www.dazz.io/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dazz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.075175,
+      "lon": 34.78205
+    }
+  ]
+}

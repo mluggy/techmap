@@ -1,0 +1,23 @@
+{
+  "name": "Mirror Biologics",
+  "description": "This innovative biopharmaceutical company is at the forefront of creating advanced immunotherapy treatments and vaccines using naturally occurring, non-genetically-modified immune cells.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/mirror_biologics-logo.webp",
+  "websiteUrl": "https://www.mirrorbio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "mirror-biologics-inc",
+  "crunchbaseId": null,
+  "finderId": "mirror-biologics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אגודת ספורט",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.7508206,
+      "lon": 35.1865055
+    }
+  ]
+}

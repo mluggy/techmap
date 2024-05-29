@@ -1,0 +1,23 @@
+{
+  "name": "Onepep",
+  "description": "A cloud-based platform enabling employees to collaborate, share knowledge, and manage professional communities effectively.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/onepep-logo.webp",
+  "websiteUrl": "https://www.onepep.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "onepep",
+  "crunchbaseId": null,
+  "finderId": "onepep-together",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העוגן",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.1604516,
+      "lon": 34.7929633
+    }
+  ]
+}

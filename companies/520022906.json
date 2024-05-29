@@ -1,0 +1,23 @@
+{
+  "name": "Taro Pharmaceutical Industries",
+  "description": "They create premium original and generic medicines for global markets including the US, Canada, and Israel.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/taro_pharmaceutical_industries_ltd-logo.webp",
+  "websiteUrl": "https://www.taro.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "taro-pharmaceutical-industries",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקיטור",
+      "houseNumber": 14,
+      "city": "חיפה",
+      "lat": 32.8125365,
+      "lon": 35.0588861
+    }
+  ]
+}

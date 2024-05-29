@@ -1,0 +1,23 @@
+{
+  "name": "Cybord",
+  "description": "Automated visual inspection technology for analyzing and tracking electronic components.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/cybord-logo.webp",
+  "websiteUrl": "https://cybord.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cybord",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 126,
+      "city": "תל אביב - יפו",
+      "lat": 32.074473,
+      "lon": 34.795669
+    }
+  ]
+}

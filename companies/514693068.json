@@ -1,0 +1,23 @@
+{
+  "name": "Datumate",
+  "description": "This AI-powered, cloud-native SaaS platform transforms drone and laser scanning data into precise 3D models and maps for construction data analytics and management.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/datumate-logo.webp",
+  "websiteUrl": "https://www.datumate.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "datumate",
+  "crunchbaseId": null,
+  "finderId": "datumate",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 3,
+      "city": "יקנעם עילית",
+      "lat": 32.6578027,
+      "lon": 35.1002987
+    }
+  ]
+}

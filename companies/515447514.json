@@ -1,0 +1,23 @@
+{
+  "name": "Agree Online Dispute Resolution",
+  "description": "A platform streamlining online contract creation and payment processing for small businesses.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/agree_online_dispute_resolution-logo.webp",
+  "websiteUrl": "https://www.agree.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "agree-online",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גורדון",
+      "houseNumber": 25,
+      "city": "גבעתיים",
+      "lat": 32.0770431,
+      "lon": 34.810005
+    }
+  ]
+}

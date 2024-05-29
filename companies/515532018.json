@@ -1,0 +1,23 @@
+{
+  "name": "Chat Leap",
+  "description": "A leading platform for creating and analyzing chat experiences with robust analytics and scalable solutions.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/chat_leap-logo.webp",
+  "websiteUrl": "https://chatleap.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "chat-leap",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הזית",
+      "houseNumber": 20,
+      "city": "באר יעקב",
+      "lat": 31.9437059,
+      "lon": 34.8470531
+    }
+  ]
+}

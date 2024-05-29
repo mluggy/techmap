@@ -1,0 +1,23 @@
+{
+  "name": "Co Exist",
+  "description": "Instant Livestock Tracking and Feeding Management System.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/co_exist-logo.webp",
+  "websiteUrl": "https://www.getcoexist.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "co-exist",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אהוד",
+      "houseNumber": 80,
+      "city": "כפר האורנים",
+      "lat": 31.9203478,
+      "lon": 35.0364309
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Osti Systems",
+  "description": "A primary search engine for Department of Energy science and technology information.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/osti_systems-logo.webp",
+  "websiteUrl": "https://www.osti.gov/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "osti",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 34,
+      "city": "תל אביב - יפו",
+      "lat": 32.11006275,
+      "lon": 34.84225851145355
+    }
+  ]
+}

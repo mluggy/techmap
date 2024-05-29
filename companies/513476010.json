@@ -1,0 +1,23 @@
+{
+  "name": "Cipia Vision",
+  "description": "Pioneering in-cabin sensing, this company leverages AI and computer vision for advanced driver and occupancy monitoring solutions globally.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/cipia_vision-logo.webp",
+  "websiteUrl": "https://cipia.com/",
+  "careersUrl": "https://cipia.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eyesight",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ספיר",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1646025,
+      "lon": 34.8122231
+    }
+  ]
+}

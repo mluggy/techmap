@@ -1,0 +1,23 @@
+{
+  "name": "Stampli",
+  "description": "Offering efficient payment management, integrated employee expense solutions, and streamlined vendor onboarding, this company enhances overall financial operations.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/stampli-logo.webp",
+  "websiteUrl": "https://www.stampli.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "stampli",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

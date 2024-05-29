@@ -1,0 +1,23 @@
+{
+  "name": "Tag A Time",
+  "description": "A user-friendly, cloud-based platform facilitating comprehensive calendar and appointment management for service providers, accessible on any device.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/tag_a_time-logo.webp",
+  "websiteUrl": "http://tagatime.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tagatime",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מבוא הגפן",
+      "houseNumber": 228,
+      "city": "ינוב",
+      "lat": 32.3052829,
+      "lon": 34.9506137
+    }
+  ]
+}

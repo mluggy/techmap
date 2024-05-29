@@ -1,0 +1,23 @@
+{
+  "name": "Identiq Protocol",
+  "description": "Our innovative protocol technology generates a trust score within a private network, ensuring data remains confidential during validation.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/identiq_protocol-logo.webp",
+  "websiteUrl": "https://www.identiq.com/",
+  "careersUrl": "https://www.identiq.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "identiq-protocol",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

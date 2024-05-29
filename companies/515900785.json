@@ -1,0 +1,23 @@
+{
+  "name": "Theator Il",
+  "description": "Empowering future artists and theater enthusiasts through comprehensive and inclusive education programs.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/theator_il-logo.webp",
+  "websiteUrl": "https://sabroadwaytheatre.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "theator",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.066331,
+      "lon": 34.786433
+    }
+  ]
+}

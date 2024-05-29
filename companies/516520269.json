@@ -1,0 +1,23 @@
+{
+  "name": "Wide View Data",
+  "description": "They provide software enabling users to build flight simulation cockpits with panoramic views across multiple networked monitors, offering limitless PC connections and customizable view angles.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/wide_view_data-logo.webp",
+  "websiteUrl": "https://www.wideview.it/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wideview",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 50,
+      "city": "תל אביב - יפו",
+      "lat": 32.063072,
+      "lon": 34.780219
+    }
+  ]
+}

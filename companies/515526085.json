@@ -1,0 +1,23 @@
+{
+  "name": "Amenity Analytics Il",
+  "description": "Providing NLP text analytics and sentiment analysis solutions tailored for the finance sector spanning various sizes and industries.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/amenity_analytics_il-logo.webp",
+  "websiteUrl": "https://www.amenityanalytics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "amenity-analytics",
+  "crunchbaseId": null,
+  "finderId": "amenity-analytics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

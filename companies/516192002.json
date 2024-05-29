@@ -1,0 +1,23 @@
+{
+  "name": "Vee Technologies Based A I",
+  "description": "A beloved local eatery offering fresh, seasonal dishes with unique wines and regional specialties since 2008.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/vee_technologies_based_a_i-logo.webp",
+  "websiteUrl": "https://www.veeveejp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vee",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 146,
+      "city": "תל אביב - יפו",
+      "lat": 32.0778351,
+      "lon": 34.794439538025976
+    }
+  ]
+}

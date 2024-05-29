@@ -1,0 +1,23 @@
+{
+  "name": "Fairmatic Services Israel",
+  "description": "Leveraging data and AI, this company offers an innovative insurance solution that incentivizes fleet safety and enhances control.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/fairmatic_services_israel-logo.webp",
+  "websiteUrl": "https://www.fairmatic.com/",
+  "careersUrl": "https://www.fairmatic.com/careers",
+  "isHiring": true,
+  "linkedinId": "fairmatic",
+  "crunchbaseId": "fairmatic",
+  "finderId": "fairmatic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 16,
+      "city": "רמת גן",
+      "lat": 32.0861273,
+      "lon": 34.8054589
+    }
+  ]
+}

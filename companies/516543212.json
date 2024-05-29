@@ -1,0 +1,23 @@
+{
+  "name": "Open Finance",
+  "description": "Provides a secure, all-in-one open banking solution for seamless financial management through advanced API and SDK integration.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/open_finance-logo.webp",
+  "websiteUrl": "https://www.open-finance.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "open-finance",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גלילי ישראל",
+      "houseNumber": 21,
+      "city": "ראשון לציון",
+      "lat": 31.9698255,
+      "lon": 34.7816945
+    }
+  ]
+}

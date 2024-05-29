@@ -1,0 +1,23 @@
+{
+  "name": "Compugen",
+  "description": "A biotech firm advancing drug discovery and development through its innovative predictive computational technology.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/compugen_ltd-logo.webp",
+  "websiteUrl": "https://cgen.com/",
+  "careersUrl": "https://www3.compugen.com/en-ca/careers",
+  "isHiring": true,
+  "linkedinId": "compugen-ltd",
+  "crunchbaseId": null,
+  "finderId": "compugen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרוקמים",
+      "houseNumber": 26,
+      "city": "חולון",
+      "lat": 32.0077054,
+      "lon": 34.80060304320986
+    }
+  ]
+}

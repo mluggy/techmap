@@ -1,0 +1,23 @@
+{
+  "name": "Watairgy",
+  "description": "Harvesting energy through water absorption from the air.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/watairgy-logo.webp",
+  "websiteUrl": "https://www.watairgy.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "watair-uk",
+  "crunchbaseId": null,
+  "finderId": "watairgy-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משה בן נחמן",
+      "houseNumber": 23,
+      "city": "ראשון לציון",
+      "lat": 31.9474314,
+      "lon": 34.812364
+    }
+  ]
+}

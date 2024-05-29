@@ -1,0 +1,23 @@
+{
+  "name": "Canditech",
+  "description": "The company provides a bias-free candidate assessment platform that focuses solely on merit-based hiring.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/canditech-logo.webp",
+  "websiteUrl": "https://www.canditech.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "canditech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שלום עליכם",
+      "houseNumber": 47,
+      "city": "תל אביב - יפו",
+      "lat": 32.07835,
+      "lon": 34.770432
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Screenz Live",
+  "description": "Digital Video Streaming Service.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/screenz_live-logo.webp",
+  "websiteUrl": "https://www.screenz.live/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "screenz-live",
+  "crunchbaseId": "screenz-live",
+  "finderId": "screenz-live",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תבואות הארץ",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.111398,
+      "lon": 34.82675
+    }
+  ]
+}

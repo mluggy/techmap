@@ -1,0 +1,23 @@
+{
+  "name": "Webiks Y O",
+  "description": "Creating smart applications for innovative customers.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/webiks_y_o-logo.webp",
+  "websiteUrl": "https://webiks.com/",
+  "careersUrl": "https://webiks.com/careers",
+  "isHiring": true,
+  "linkedinId": "webiks",
+  "crunchbaseId": "webiks",
+  "finderId": "webiks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוזס יהודה ונח",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.075798,
+      "lon": 34.794728
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ramino Bio",
+  "description": "A medication taken by mouth for treating heart-related and metabolic diseases, as well as the rare condition known as MSUD (Maple Syrup Urine Disease).",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ramino_bio-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "ramino-bio",
+  "crunchbaseId": "ramino-bio",
+  "finderId": "ramino-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רמון אילן",
+      "houseNumber": 2,
+      "city": "נס ציונה",
+      "lat": 31.9177299,
+      "lon": 34.80439671200948
+    }
+  ]
+}

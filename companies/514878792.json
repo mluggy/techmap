@@ -1,0 +1,23 @@
+{
+  "name": "Grid 4 C",
+  "description": "Leveraging AI, this company provides predictive analytics from individual meters to clusters, enhancing energy efficiency and management.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/grid_4_c-logo.webp",
+  "websiteUrl": "https://www.grid4c.com/",
+  "careersUrl": "https://www.grid4c.com/careers",
+  "isHiring": true,
+  "linkedinId": "grid4c",
+  "crunchbaseId": null,
+  "finderId": "grid4c",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שפירא משה",
+      "houseNumber": 19,
+      "city": "רעננה",
+      "lat": 32.1932185,
+      "lon": 34.8506881
+    }
+  ]
+}

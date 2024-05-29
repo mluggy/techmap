@@ -1,0 +1,23 @@
+{
+  "name": "Formatk Systems",
+  "description": "An Israeli-based company dedicated to providing affordable, cutting-edge technology solutions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/formatk_systems-logo.webp",
+  "websiteUrl": "https://forma-tk.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "forma-tk",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יוזמה",
+      "houseNumber": 3,
+      "city": "טירת כרמל",
+      "lat": 32.7721677,
+      "lon": 34.9656441
+    }
+  ]
+}

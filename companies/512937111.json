@@ -1,0 +1,23 @@
+{
+  "name": "Omnisys",
+  "description": "A premier provider of medical billing and patient engagement software, empowering pharmacies to enhance patient health, accessibility, and business growth.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/omnisys-logo.webp",
+  "websiteUrl": "https://www.omnisys.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "omnisys",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 13,
+      "city": "ראש העין",
+      "lat": 32.09668,
+      "lon": 34.9066455
+    }
+  ]
+}

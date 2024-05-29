@@ -1,0 +1,23 @@
+{
+  "name": "Vhive Tech",
+  "description": "Their software uniquely enables the deployment of autonomous drone hives for creating digital twins of enterprise assets.",
+  "categoryId": 15,
+  "size": "m",
+  "logoFile": "logos/vhive_tech-logo.webp",
+  "websiteUrl": "https://www.vhive.ai/",
+  "careersUrl": "https://www.vhive.ai/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": "vhive",
+  "finderId": "vhive",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 11,
+      "city": "הרצליה",
+      "lat": 32.1605327,
+      "lon": 34.8079868
+    }
+  ]
+}

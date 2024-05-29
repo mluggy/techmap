@@ -1,0 +1,23 @@
+{
+  "name": "Quana Ways",
+  "description": "A platform providing guidance for medical cannabis decisions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/quana_ways-logo.webp",
+  "websiteUrl": "https://simplyquana.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "quana",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העוגן",
+      "houseNumber": 7,
+      "city": "חיפה",
+      "lat": 32.8290463,
+      "lon": 34.9636582
+    }
+  ]
+}

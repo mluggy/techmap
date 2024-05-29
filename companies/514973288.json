@@ -1,0 +1,23 @@
+{
+  "name": "Linkcaring",
+  "description": "האתר מספק להורים כלים דיגיטליים למעקב אחר התפתחות הילד וקישור לרופא בעת הצורך.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/linkcaring-logo.webp",
+  "websiteUrl": "https://www.heb.linkcaring.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "linkcaring",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עגור",
+      "houseNumber": 18,
+      "city": "להבים",
+      "lat": 31.3673748,
+      "lon": 34.8205578
+    }
+  ]
+}

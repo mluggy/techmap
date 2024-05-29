@@ -1,0 +1,23 @@
+{
+  "name": "Astera Labs Israel",
+  "description": "Revolutionizing data center connectivity to accommodate the surge in training model sizes for Generative AI.",
+  "categoryId": 16,
+  "size": "xs",
+  "logoFile": "logos/astera_labs_israel-logo.webp",
+  "websiteUrl": "https://www.asteralabs.com/",
+  "careersUrl": "https://www.asteralabs.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "astera-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חת נחום",
+      "houseNumber": 5,
+      "city": "טירת כרמל",
+      "lat": 32.783678,
+      "lon": 34.960601
+    }
+  ]
+}

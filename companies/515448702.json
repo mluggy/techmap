@@ -1,0 +1,23 @@
+{
+  "name": "Sanolla",
+  "description": "Revolutionizing early cardiopulmonary assessment and management with innovative AI-driven diagnostic solutions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/sanolla-logo.webp",
+  "websiteUrl": "https://sanolla.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sanolla",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסילה",
+      "houseNumber": 19,
+      "city": "נשר",
+      "lat": 32.78185045,
+      "lon": 35.03705655
+    }
+  ]
+}

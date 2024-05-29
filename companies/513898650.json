@@ -1,0 +1,23 @@
+{
+  "name": "Site 123",
+  "description": "Offering a free subdomain and affordable custom domain plans, this website builder emphasizes cost-effective web development solutions.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/site_123-logo.webp",
+  "websiteUrl": "https://www.site123.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "site123",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלקיקי האור",
+      "houseNumber": 16,
+      "city": "באר שבע",
+      "lat": 31.2638117,
+      "lon": 34.8121724
+    }
+  ]
+}

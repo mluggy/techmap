@@ -1,0 +1,23 @@
+{
+  "name": "Heartbeat Technologies",
+  "description": "A mobile app designed to track cardiovascular health metrics.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/heartbeat_technologies-logo.webp",
+  "websiteUrl": "https://www.heartbeattechsc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "heartbeat-technologies-146b",
+  "finderId": "heartbeat-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגורן",
+      "houseNumber": 16,
+      "city": "עתלית",
+      "lat": 32.6957365,
+      "lon": 34.945175
+    }
+  ]
+}

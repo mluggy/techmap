@@ -1,0 +1,23 @@
+{
+  "name": "Gotit Cellular Application",
+  "description": "A platform for sharing possessions and discovering new items to purchase.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/gotit_cellular_application-logo.webp",
+  "websiteUrl": "https://gotitstores.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gotit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנוריות",
+      "houseNumber": 39,
+      "city": "כפר שמריהו",
+      "lat": 32.18629162965165,
+      "lon": 34.81711018815159
+    }
+  ]
+}

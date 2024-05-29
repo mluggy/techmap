@@ -1,0 +1,23 @@
+{
+  "name": "Pontic Health",
+  "description": "A networking site dedicated to dental industry experts.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pontic_health-logo.webp",
+  "websiteUrl": "https://www.healthypontiac.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "pontic-health",
+  "finderId": "pontic-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ג'ו עמר",
+      "houseNumber": 7,
+      "city": "כפר סבא",
+      "lat": 32.1873418,
+      "lon": 34.8933454
+    }
+  ]
+}

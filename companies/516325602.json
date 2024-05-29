@@ -1,0 +1,23 @@
+{
+  "name": "Lin Health",
+  "description": "A life-changing treatment provider that successfully alleviates chronic migraines and POTS symptoms.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/lin_health-logo.webp",
+  "websiteUrl": "https://www.lin.health/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "lin-health",
+  "crunchbaseId": null,
+  "finderId": "lin-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 146,
+      "city": "תל אביב - יפו",
+      "lat": 32.0778351,
+      "lon": 34.794439538025976
+    }
+  ]
+}

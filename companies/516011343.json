@@ -1,0 +1,23 @@
+{
+  "name": "Devek Integrations",
+  "description": "A leading Mexican firm specializing in adhesive tapes.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/devek_integrations-logo.webp",
+  "websiteUrl": "http://www.devek.mx/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "devek",
+  "crunchbaseId": null,
+  "finderId": "devek",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.063669,
+      "lon": 34.771299
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Project Map",
+  "description": "A cutting-edge, cloud-based platform providing real-time insights and comprehensive visibility to enhance management decision-making processes.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/project_map-logo.webp",
+  "websiteUrl": "https://www.proggio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "project-map",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 23,
+      "city": "כפר סבא",
+      "lat": 32.1731606,
+      "lon": 34.9256256
+    }
+  ]
+}

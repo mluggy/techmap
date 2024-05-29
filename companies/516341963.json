@@ -1,0 +1,23 @@
+{
+  "name": "My Pwr",
+  "description": "A holistic, evidence-based app offering trauma-informed self-defense and violence prevention education for all.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/my_pwr-logo.webp",
+  "websiteUrl": "https://mypwr.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mypwr",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנה",
+      "houseNumber": 3,
+      "city": "ירושלים",
+      "lat": 31.7693863,
+      "lon": 35.2193408
+    }
+  ]
+}

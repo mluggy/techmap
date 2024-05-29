@@ -1,0 +1,23 @@
+{
+  "name": "Intellisen",
+  "description": "Identifying Water Pollution and Hazardous Substances.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/intellisen-logo.webp",
+  "websiteUrl": "https://www.intellisenseinc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "intellisen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון",
+      "houseNumber": 17,
+      "city": "גבעת שמואל",
+      "lat": 32.0758527,
+      "lon": 34.84585
+    }
+  ]
+}

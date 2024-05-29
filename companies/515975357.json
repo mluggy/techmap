@@ -1,0 +1,23 @@
+{
+  "name": "Musician Pro",
+  "description": "A leading platform that enables fast assignment creation, independent feedback provision, and automated progress reviews for music education.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/musician_pro-logo.webp",
+  "websiteUrl": "https://www.musician-pro.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "musician-pro",
+  "crunchbaseId": null,
+  "finderId": "musician-pro",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בורוכוב",
+      "houseNumber": 36,
+      "city": "גבעתיים",
+      "lat": 32.07814535,
+      "lon": 34.8040678433258
+    }
+  ]
+}

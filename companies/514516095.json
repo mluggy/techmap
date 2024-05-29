@@ -1,0 +1,23 @@
+{
+  "name": "Any Do",
+  "description": "A versatile project management and task tracking tool known for its user-friendly design and functionality, ideal for both professional and personal use.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/any_do-logo.webp",
+  "websiteUrl": "https://www.any.do/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "any-do",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 156,
+      "city": "תל אביב - יפו",
+      "lat": 32.0797181,
+      "lon": 34.7957816
+    }
+  ]
+}

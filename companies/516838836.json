@@ -1,0 +1,23 @@
+{
+  "name": "Noma Security",
+  "description": "A company operating in stealth mode.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/noma_security-logo.webp",
+  "websiteUrl": "https://nomasolutionsllc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "noma-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבשן",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.091123,
+      "lon": 34.781694
+    }
+  ]
+}

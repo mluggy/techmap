@@ -1,0 +1,23 @@
+{
+  "name": "Althea Medical",
+  "description": "A catheter solution that requires minimal invasion.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/althea_medical-logo.webp",
+  "websiteUrl": "https://www.altheamedicalgroup.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "althea-medical-ltd",
+  "crunchbaseId": "althea-medical",
+  "finderId": "althea-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתניהו יהונתן",
+      "houseNumber": 6,
+      "city": "אור יהודה",
+      "lat": 32.0219296,
+      "lon": 34.8566055
+    }
+  ]
+}

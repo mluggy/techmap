@@ -1,0 +1,23 @@
+{
+  "name": "Kazuar Advanced Technologies",
+  "description": "A subscription-based cybersecurity service offering comprehensive protection from server to endpoint.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/kazuar_advanced_technologies-logo.webp",
+  "websiteUrl": "https://www.kazuar-tech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kazuar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 126,
+      "city": "תל אביב - יפו",
+      "lat": 32.074473,
+      "lon": 34.795669
+    }
+  ]
+}

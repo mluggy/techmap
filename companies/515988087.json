@@ -1,0 +1,23 @@
+{
+  "name": "Voicencode",
+  "description": "Voice Recognition Software.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/voicencode-logo.webp",
+  "websiteUrl": "https://serenade.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "voicencode",
+  "crunchbaseId": "voicencode",
+  "finderId": "voicencode",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עפרוני",
+      "houseNumber": 8,
+      "city": "כפר סבא",
+      "lat": 32.1848844,
+      "lon": 34.928684
+    }
+  ]
+}

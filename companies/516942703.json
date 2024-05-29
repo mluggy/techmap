@@ -1,0 +1,23 @@
+{
+  "name": "Liberty Pixel",
+  "description": "An advanced AI language model by OpenAI that creates human-like text based on contextual understanding.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/liberty_pixel-logo.webp",
+  "websiteUrl": "https://chat.openai.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "liberty-pixel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 4,
+      "city": "בני ברק",
+      "lat": 32.0920416,
+      "lon": 34.8239345
+    }
+  ]
+}

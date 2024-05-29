@@ -1,0 +1,23 @@
+{
+  "name": "Moovit Pango Public Transport Payments",
+  "description": "Providing comprehensive public transit navigation with maps, schedules, and real-time arrivals.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/moovit_pango_public_transport_payments-logo.webp",
+  "websiteUrl": "https://m.moovitapp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "moovit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שחם",
+      "houseNumber": 3,
+      "city": "פתח תקווה",
+      "lat": 32.083855,
+      "lon": 34.8584889
+    }
+  ]
+}

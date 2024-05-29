@@ -1,0 +1,23 @@
+{
+  "name": "Nimbio",
+  "description": "The app features a history tab that tracks and displays detailed activity logs of shared keys for the past week, including access times, user identities, and specific access points.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/nimbio-logo.webp",
+  "websiteUrl": "https://nimbio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nimbio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הצבעוני",
+      "houseNumber": 1,
+      "city": "תל מונד",
+      "lat": 32.2497804,
+      "lon": 34.9105929
+    }
+  ]
+}

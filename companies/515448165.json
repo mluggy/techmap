@@ -1,0 +1,23 @@
+{
+  "name": "Virility Medical",
+  "description": "A pioneer in sexual health, this company offers an FDA-cleared wearable device that enhances sexual wellbeing through muscle stimulation.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/virility_medical-logo.webp",
+  "websiteUrl": "https://www.virilitymedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "virility-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנגר",
+      "houseNumber": 24,
+      "city": "הוד השרון",
+      "lat": 32.1302892,
+      "lon": 34.8947603
+    }
+  ]
+}

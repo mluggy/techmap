@@ -1,0 +1,23 @@
+{
+  "name": "Round Trip",
+  "description": "Streamline patient transportation with Roundtrip's digital solution connecting care coordinators to NEMT transportation providers nationwide.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/round_trip-logo.webp",
+  "websiteUrl": "https://roundtriphealth.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "round-trip",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ליסין",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.085383,
+      "lon": 34.791635
+    }
+  ]
+}

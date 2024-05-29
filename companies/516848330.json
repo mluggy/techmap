@@ -1,0 +1,23 @@
+{
+  "name": "Falkordb",
+  "description": "A database company enabling easy graph cloning to develop state machine frameworks in its latest software release.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/falkordb-logo.webp",
+  "websiteUrl": "https://www.falkordb.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "falkordb",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ראש פינה",
+      "houseNumber": 8,
+      "city": "פתח תקווה",
+      "lat": 32.10465,
+      "lon": 34.872969
+    }
+  ]
+}

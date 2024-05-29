@@ -1,0 +1,23 @@
+{
+  "name": "V Wave",
+  "description": "Tiny Device Designed to Alleviate Congestive Heart Failure.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/v_wave-logo.webp",
+  "websiteUrl": "https://vwavemedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "v-wave",
+  "crunchbaseId": null,
+  "finderId": "v-wave",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 15,
+      "city": "קיסריה",
+      "lat": 32.4870865,
+      "lon": 34.9479977
+    }
+  ]
+}

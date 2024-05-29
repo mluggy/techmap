@@ -1,0 +1,23 @@
+{
+  "name": "Anzu Virtual Reality",
+  "description": "A platform for integrating native, dynamic ads into video games and esports.",
+  "categoryId": 2,
+  "size": "m",
+  "logoFile": "logos/anzu_virtual_reality_ltd-logo.webp",
+  "websiteUrl": "https://www.anzu.io/",
+  "careersUrl": "https://www.anzu.io/careers",
+  "isHiring": true,
+  "linkedinId": "anzuio",
+  "crunchbaseId": "anzu-io",
+  "finderId": "anzu",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לינקולן",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.066035,
+      "lon": 34.782959
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Zbenko",
+  "description": "Empowering 10-16 year-olds with financial wisdom through an engaging, interactive video game that simulates real-life economic decisions.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/zbenko-logo.webp",
+  "websiteUrl": "https://zbenko.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "zbenko",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מייזל זלמן",
+      "houseNumber": 12,
+      "city": "תל אביב - יפו",
+      "lat": 32.030743,
+      "lon": 34.748379
+    }
+  ]
+}

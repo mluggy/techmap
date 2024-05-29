@@ -1,0 +1,23 @@
+{
+  "name": "Vitactive",
+  "description": "Offering high-potency, low-sugar supplement bundles with calcium chews and omega-3 gummies for enhanced health benefits.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vitactive-logo.webp",
+  "websiteUrl": "https://viactiv.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vitactive",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד בנימין",
+      "houseNumber": 65,
+      "city": "נתניה",
+      "lat": 32.3198939,
+      "lon": 34.855793
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Shoptimally",
+  "description": "Customizing Online Shopping Experiences.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/shoptimally-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "shoptimally",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רוממה",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.119322,
+      "lon": 34.82452
+    }
+  ]
+}

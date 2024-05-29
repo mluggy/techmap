@@ -1,0 +1,23 @@
+{
+  "name": "Spartonix",
+  "description": "Customer support available via contact form or hotline on weekdays from 9 AM to 5 PM.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/spartonix-logo.webp",
+  "websiteUrl": "https://www.smartonix.cz/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "spartonix",
+  "crunchbaseId": null,
+  "finderId": "spartonix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מבוא החורש",
+      "houseNumber": 23,
+      "city": "הר אדר",
+      "lat": 31.823973973997237,
+      "lon": 35.12574225247453
+    }
+  ]
+}

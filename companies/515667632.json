@@ -1,0 +1,23 @@
+{
+  "name": "Buywith",
+  "description": "eCommerce Social Media Solution.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/buywith-logo.webp",
+  "websiteUrl": "https://www.buywith.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "buywith",
+  "crunchbaseId": "fly-ai",
+  "finderId": "fly-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד הקונגרס",
+      "houseNumber": 10,
+      "city": "רמת גן",
+      "lat": 32.0625208,
+      "lon": 34.8245232
+    }
+  ]
+}

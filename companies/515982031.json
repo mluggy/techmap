@@ -1,0 +1,23 @@
+{
+  "name": "Tendomend",
+  "description": "A private Israeli startup founded in 2019, developing innovative medical devices through collaboration with top orthopedic surgeons.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/tendomend-logo.webp",
+  "websiteUrl": "https://www.tendomend.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tendomend",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

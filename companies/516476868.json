@@ -1,0 +1,23 @@
+{
+  "name": "Cyberbee",
+  "description": "Pioneering affordable AI vision technology for accurate indoor navigation in GPS-free environments.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/cyberbee-logo.webp",
+  "websiteUrl": "https://www.cyberbee.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cyberbee",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 23,
+      "city": "ראש העין",
+      "lat": 32.10759415,
+      "lon": 34.97134494812779
+    }
+  ]
+}

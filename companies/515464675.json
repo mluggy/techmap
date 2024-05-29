@@ -1,0 +1,23 @@
+{
+  "name": "Cardioset Medical",
+  "description": "Device for Monitoring Pulmonary Edema.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cardioset_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "cardioset-medical",
+  "finderId": "cardioset-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חבצלת",
+      "houseNumber": 26,
+      "city": "מתן",
+      "lat": 32.1618959,
+      "lon": 34.970451
+    }
+  ]
+}

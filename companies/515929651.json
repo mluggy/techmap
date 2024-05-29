@@ -1,0 +1,23 @@
+{
+  "name": "Crispify",
+  "description": "Autonomous real-time alert system for ridesharing and MaaS fleets, enhancing passenger safety and confidence by preventing smoking and improper behavior.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/crispify-logo.webp",
+  "websiteUrl": "https://www.crispify.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "crispifyio",
+  "crunchbaseId": null,
+  "finderId": "crispify",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוחט ישראל",
+      "houseNumber": 5,
+      "city": "הרצליה",
+      "lat": 32.1655485,
+      "lon": 34.858256
+    }
+  ]
+}

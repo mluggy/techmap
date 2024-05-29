@@ -1,0 +1,23 @@
+{
+  "name": "Timocco",
+  "description": "Offers engaging games that enhance motor and coordination skills without relying on auditory processing.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/timocco-logo.webp",
+  "websiteUrl": "https://www.timocco.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "timocco",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חומה ומגדל",
+      "houseNumber": 26,
+      "city": "תל אביב - יפו",
+      "lat": 32.063521,
+      "lon": 34.786788
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Blockstock",
+  "description": "This hybrid blockchain platform offers a gold-backed token available in both original and ERC20 variants.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/blockstock-logo.webp",
+  "websiteUrl": "https://www.blockben.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "blockstock",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רופין",
+      "houseNumber": 21,
+      "city": "תל אביב - יפו",
+      "lat": 32.082753,
+      "lon": 34.770486
+    }
+  ]
+}

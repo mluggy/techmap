@@ -1,0 +1,23 @@
+{
+  "name": "Altora",
+  "description": "Providing intuitive, cost-effective induction and contractor management with exceptional customer support and unlimited users at no extra cost.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/altora-logo.webp",
+  "websiteUrl": "https://www.altora.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "altora",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרצוג",
+      "houseNumber": 15,
+      "city": "תל אביב - יפו",
+      "lat": 32.095472,
+      "lon": 34.797994
+    }
+  ]
+}

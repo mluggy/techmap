@@ -1,0 +1,23 @@
+{
+  "name": "Triple Jump Israel",
+  "description": "A device that delivers insulin for individuals with diabetes.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/triple_jump_israel-logo.webp",
+  "websiteUrl": "https://triplejump.eu/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "triple-jump",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 5,
+      "city": "יקנעם עילית",
+      "lat": 32.65739155,
+      "lon": 35.09768735
+    }
+  ]
+}

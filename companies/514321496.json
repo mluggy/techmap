@@ -1,0 +1,23 @@
+{
+  "name": "Surgimate",
+  "description": "Efficiently streamline surgery bookings, optimize block time, and boost revenue with advanced surgical scheduling software.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/surgimate-logo.webp",
+  "websiteUrl": "https://www.surgimate.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "surgimate",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יפו",
+      "houseNumber": 224,
+      "city": "ירושלים",
+      "lat": 31.7892307,
+      "lon": 35.20322458164618
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Transigo",
+  "description": "Financial Services for International Trade.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/transigo-logo.webp",
+  "websiteUrl": "https://www.transigosolutions.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "transigo-io",
+  "crunchbaseId": "transigo",
+  "finderId": "transigo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מדינת היהודים",
+      "houseNumber": 85,
+      "city": "הרצליה",
+      "lat": 32.1666999,
+      "lon": 34.8099066
+    }
+  ]
+}

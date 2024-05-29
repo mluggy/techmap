@@ -1,0 +1,23 @@
+{
+  "name": "Zerobillbank",
+  "description": "This company develops and offers an advanced data management platform utilizing cloud, IoT, and blockchain technologies to enhance privacy governance and address data management challenges in collaborative environments.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/zerobillbank-logo.webp",
+  "websiteUrl": "https://zerobillbank.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "zerobillbank",
+  "finderId": "zerobillbank",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

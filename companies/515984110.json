@@ -1,0 +1,23 @@
+{
+  "name": "Hortica",
+  "description": "Specializing in horticultural insurance, we ensure comprehensive coverage and reliable support for your business needs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/hortica-logo.webp",
+  "websiteUrl": "https://www.hortica.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "hortica-insurance",
+  "crunchbaseId": null,
+  "finderId": "hortica",
+  "xId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": 8,
+      "city": "טירת יהודה",
+      "lat": 32.0140654,
+      "lon": 34.9333804
+    }
+  ]
+}

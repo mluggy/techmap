@@ -1,0 +1,23 @@
+{
+  "name": "Fintica AI",
+  "description": "An Israeli fintech revolutionizing capital markets with autonomous AI solutions across diverse financial sectors.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/fintica_ai-logo.webp",
+  "websiteUrl": "https://www.fintica-ai.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "fintica",
+  "crunchbaseId": null,
+  "finderId": "fintica-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

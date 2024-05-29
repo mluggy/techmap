@@ -1,0 +1,23 @@
+{
+  "name": "Biovac",
+  "description": "A pioneering Israeli firm since 1989, specializing in the R&D, manufacturing, and distribution of veterinary vaccines, preparations, supplements, and disinfectants.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/biovac-logo.webp",
+  "websiteUrl": "https://biovac.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "biovac",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האילן",
+      "houseNumber": 30,
+      "city": "אור עקיבא",
+      "lat": 32.5166913,
+      "lon": 34.9222881
+    }
+  ]
+}

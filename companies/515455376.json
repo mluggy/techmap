@@ -1,0 +1,23 @@
+{
+  "name": "Currenge Israel",
+  "description": "A service offering highly competitive rates for online currency transfers and conversions.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/currenge_israel-logo.webp",
+  "websiteUrl": "https://currenge.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "currenge",
+  "finderId": "currenge",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עובדיה",
+      "houseNumber": 23,
+      "city": "חיפה",
+      "lat": 32.8135652,
+      "lon": 34.9749413
+    }
+  ]
+}

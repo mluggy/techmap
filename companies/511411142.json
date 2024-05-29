@@ -1,0 +1,23 @@
+{
+  "name": "Novo Nordisk",
+  "description": "Founded in 1923 and based in Denmark, this global healthcare leader focuses on driving change to combat diabetes.",
+  "categoryId": 12,
+  "size": "xl",
+  "logoFile": "logos/novo_nordisk_ltd-logo.webp",
+  "websiteUrl": "https://www.novonordisk.com/",
+  "careersUrl": "https://www.novonordisk.com/careers.html",
+  "isHiring": true,
+  "linkedinId": "novo-nordisk",
+  "crunchbaseId": null,
+  "finderId": "novo-nordisk",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1666204,
+      "lon": 34.9281644
+    }
+  ]
+}

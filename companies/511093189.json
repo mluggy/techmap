@@ -1,0 +1,23 @@
+{
+  "name": "Meditrac",
+  "description": "Devices for non-surgical, on-the-go treatment of spinal issues.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/meditrac-logo.webp",
+  "websiteUrl": "https://meditrac.us/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "meditrac-ltd",
+  "crunchbaseId": null,
+  "finderId": "meditrac-medical-equipment",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פנקס",
+      "houseNumber": 53,
+      "city": "תל אביב - יפו",
+      "lat": 32.091201,
+      "lon": 34.790131
+    }
+  ]
+}

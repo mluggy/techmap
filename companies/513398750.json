@@ -1,0 +1,23 @@
+{
+  "name": "Bioline Rx",
+  "description": "A company dedicated to advancing innovative therapeutics from concept through to market, addressing genuine patient needs.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/bioline_rx-logo.webp",
+  "websiteUrl": "https://biolinerx.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "biolinerx",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המעיין",
+      "houseNumber": 2,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.922288,
+      "lon": 34.9688892
+    }
+  ]
+}

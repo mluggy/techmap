@@ -1,0 +1,23 @@
+{
+  "name": "H 2 Pro",
+  "description": "Specializing in high-pressure hydrogen production, this company uses a membrane-free process to generate H₂ and O₂ separately, with pilot systems operating at 45 bar.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/h_2_pro-logo.webp",
+  "websiteUrl": "https://www.h2pro.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "h2pro",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטוחן",
+      "houseNumber": 2,
+      "city": "קיסריה",
+      "lat": 32.4863102,
+      "lon": 34.9521262
+    }
+  ]
+}

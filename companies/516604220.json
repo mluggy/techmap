@@ -1,0 +1,23 @@
+{
+  "name": "Stay In Tel Aviv",
+  "description": "Innovative, science-based canine nutrition crafted by expert chefs to adapt to dogs' evolving needs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/stay_in_tel_aviv-logo.webp",
+  "websiteUrl": "https://www.staylabs.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "stay-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.0654291,
+      "lon": 34.7766695
+    }
+  ]
+}

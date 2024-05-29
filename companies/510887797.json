@@ -1,0 +1,23 @@
+{
+  "name": "Bruker Technologies",
+  "description": "Bruker is a global leader in scientific instruments and high-performance analytical solutions for molecular research and industrial analysis.",
+  "categoryId": 12,
+  "size": "xl",
+  "logoFile": "logos/bruker_technologies-logo.webp",
+  "websiteUrl": "https://www.bruker.com/",
+  "careersUrl": "https://www.bruker.com/en/careers.html",
+  "isHiring": true,
+  "linkedinId": "bruker-corporation",
+  "crunchbaseId": null,
+  "finderId": "bruker",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המחקר",
+      "houseNumber": 6,
+      "city": "מגדל העמק",
+      "lat": 32.68555395,
+      "lon": 35.2435595
+    }
+  ]
+}

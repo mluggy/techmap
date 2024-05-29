@@ -1,0 +1,23 @@
+{
+  "name": "Feel Elements",
+  "description": "Online Shopping Assistance by Personal Shoppers.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/feel_elements-logo.webp",
+  "websiteUrl": "https://thisisfeel.com/",
+  "careersUrl": "https://www.feeltherapeutics.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "feel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקדמה",
+      "houseNumber": 3,
+      "city": "אשדוד",
+      "lat": 31.8350608,
+      "lon": 34.6879819
+    }
+  ]
+}

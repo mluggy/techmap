@@ -1,0 +1,23 @@
+{
+  "name": "Fabumin",
+  "description": "Eco-friendly and efficient egg alternative reducing environmental impact.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/fabumin-logo.webp",
+  "websiteUrl": "https://www.fabumin.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "fabumin",
+  "crunchbaseId": null,
+  "finderId": "fabumin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

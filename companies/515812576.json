@@ -1,0 +1,23 @@
+{
+  "name": "Follicle Pharma",
+  "description": "Leveraging a unique partnership with Mii Fund and Labs, this biotech company has exceptional access to resources and expertise at the Mii Labs R&D center near the Weizmann Institute of Science.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/follicle_pharma-logo.webp",
+  "websiteUrl": "https://folliclepharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "follicle-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האלון",
+      "houseNumber": 33,
+      "city": "כרמי יוסף",
+      "lat": 31.8415432,
+      "lon": 34.9203677
+    }
+  ]
+}

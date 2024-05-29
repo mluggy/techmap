@@ -1,0 +1,23 @@
+{
+  "name": "Honeybook",
+  "description": "Manage clients, projects, and payments seamlessly with this all-in-one platform for independent businesses.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/honeybook-logo.webp",
+  "websiteUrl": "https://www.honeybook.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "honeybook",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.075175,
+      "lon": 34.78205
+    }
+  ]
+}

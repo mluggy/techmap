@@ -1,0 +1,23 @@
+{
+  "name": "Icapital Tech",
+  "description": "Provides qualified investors with curated private equity strategies throughout the investment lifecycle.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/icapital_tech-logo.webp",
+  "websiteUrl": "https://icapital.com/",
+  "careersUrl": "https://icapital.com/careers/",
+  "isHiring": true,
+  "linkedinId": "icapital-network-inc",
+  "crunchbaseId": null,
+  "finderId": "icapital-financial-solutions",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רוטשילד",
+      "houseNumber": 18,
+      "city": "פתח תקווה",
+      "lat": 32.0817371,
+      "lon": 34.8835306
+    }
+  ]
+}

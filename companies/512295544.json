@@ -1,0 +1,23 @@
+{
+  "name": "Mobit Telecom",
+  "description": "Manufacturer of satellite-based personal locator beacons for search and rescue operations utilizing the Cospas-Sarsat system.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/mobit_telecom_ltd-logo.webp",
+  "websiteUrl": "https://www.sat406.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "mobit-telecom",
+  "finderId": "mobit-telecom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "צה\"ל",
+      "houseNumber": 87,
+      "city": "קריית אונו",
+      "lat": 32.0528949,
+      "lon": 34.8585821
+    }
+  ]
+}

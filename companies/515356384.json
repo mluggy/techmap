@@ -1,0 +1,23 @@
+{
+  "name": "Plantext",
+  "description": "An online tool that swiftly creates UML diagrams and images from text using the PlantUML language.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/plantext-logo.webp",
+  "websiteUrl": "https://www.planttext.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "plantext",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' אלי לנדאו",
+      "houseNumber": 50,
+      "city": "הרצליה",
+      "lat": 32.1789536,
+      "lon": 34.8034806
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Base",
+  "description": "A leading academic search engine encompassing over 340 million scientific documents from more than 11,000 content providers.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/base-logo.webp",
+  "websiteUrl": "https://www.base-search.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "crowdvocate",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטחנה",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1727607,
+      "lon": 34.8930781
+    }
+  ]
+}

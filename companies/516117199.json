@@ -1,0 +1,23 @@
+{
+  "name": "Spicerr",
+  "description": "This innovative device effortlessly elevates culinary creations by smartly dispensing spices, herbs, and flavorings at the touch of a button.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/spicerr-logo.webp",
+  "websiteUrl": "https://spicerr.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "spicerr",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברקוביץ",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.078703,
+      "lon": 34.7870616
+    }
+  ]
+}

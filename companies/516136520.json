@@ -1,0 +1,23 @@
+{
+  "name": "Shanenli",
+  "description": "מציעה מעקב אישי אחר ציונים ומאפשרת שינון טקסטים באמצעות האזנה ולמידה עם זיהוי דיבור וחזרה.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/shanenli-logo.webp",
+  "websiteUrl": "https://shanen.li/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "shanenli",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הצבי",
+      "houseNumber": 15,
+      "city": "ירושלים",
+      "lat": 31.789555,
+      "lon": 35.2032004
+    }
+  ]
+}

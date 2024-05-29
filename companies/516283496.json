@@ -1,0 +1,23 @@
+{
+  "name": "Qwak AI",
+  "description": "A scalable AI platform used by top teams worldwide to streamline integrations.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/qwak_ai-logo.webp",
+  "websiteUrl": "https://www.qwak.com/",
+  "careersUrl": "https://www.qwak.com/careers",
+  "isHiring": true,
+  "linkedinId": "qwakai",
+  "crunchbaseId": null,
+  "finderId": "qwak",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 154,
+      "city": "תל אביב - יפו",
+      "lat": 32.0796864,
+      "lon": 34.7955201
+    }
+  ]
+}

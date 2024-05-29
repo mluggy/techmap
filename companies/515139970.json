@@ -1,0 +1,23 @@
+{
+  "name": "Better Together",
+  "description": "A Texas-based religious non-profit church corporation with 501(C)(3) status, focused on broadcasting.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/better_together-logo.webp",
+  "websiteUrl": "https://www.bettertogether.tv/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bettertogether",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חורשת האורנים",
+      "houseNumber": 3,
+      "city": "בני ציון",
+      "lat": 32.2201149,
+      "lon": 34.8724492
+    }
+  ]
+}

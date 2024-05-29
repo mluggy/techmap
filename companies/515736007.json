@@ -1,0 +1,23 @@
+{
+  "name": "Dokka A I",
+  "description": "Automating accounts payable and financial close processes, this service eliminates manual tasks, centralizes data, and ensures audit readiness.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/dokka_a_i-logo.webp",
+  "websiteUrl": "https://dokka.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dokka",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האנפה",
+      "houseNumber": 78,
+      "city": "תל מונד",
+      "lat": 32.2490558,
+      "lon": 34.9216615
+    }
+  ]
+}

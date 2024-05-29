@@ -1,0 +1,23 @@
+{
+  "name": "Datadudes",
+  "description": "Boosting manufacturers' efficiency and product quality with predictive AI-driven insights and recommendations.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/datadudes-logo.webp",
+  "websiteUrl": "https://datadudes.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "datadudes-ai",
+  "crunchbaseId": null,
+  "finderId": "datadudes",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אורן",
+      "houseNumber": 179,
+      "city": "שדי חמד",
+      "lat": 32.1614089,
+      "lon": 34.942102
+    }
+  ]
+}

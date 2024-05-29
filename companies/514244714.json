@@ -1,0 +1,23 @@
+{
+  "name": "Similarweb",
+  "description": "The Similarweb TrafficMeter™ browser extension provides seamless access to objective web traffic data and insights, supported by over a decade of investment in their industry-leading DigitalRank™, trusted by major tech leaders.",
+  "categoryId": 2,
+  "size": "l",
+  "logoFile": "logos/similarweb-logo.webp",
+  "websiteUrl": "https://www.similarweb.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "similarweb",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יצחק רבין",
+      "houseNumber": 33,
+      "city": "גבעתיים",
+      "lat": 32.0661187,
+      "lon": 34.8047208
+    }
+  ]
+}

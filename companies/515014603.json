@@ -1,0 +1,23 @@
+{
+  "name": "Codemonkey Studios",
+  "description": "An award-winning online platform teaching kids coding languages through engaging, game-like environments.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/codemonkey_studios-logo.webp",
+  "websiteUrl": "https://www.codemonkey.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "codemonkey-studios",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

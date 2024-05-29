@@ -1,0 +1,23 @@
+{
+  "name": "Meni Med",
+  "description": "A prescription-based advanced insulin management system for type 1 diabetes patients aged 7 and older, offering automated bolus assistance through its SmartGuard™ feature.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/meni_med-logo.webp",
+  "websiteUrl": "https://www.medtronicdiabetes.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "meni-med",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דן",
+      "houseNumber": 63,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.8893007,
+      "lon": 35.0030754
+    }
+  ]
+}

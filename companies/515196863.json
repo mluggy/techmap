@@ -1,0 +1,23 @@
+{
+  "name": "Cymbio",
+  "description": "Brand to Retail connectivity.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/cymbio_digital-logo.webp",
+  "websiteUrl": "https://www.cym.bio/",
+  "careersUrl": "https://www.cym.bio/careers/",
+  "isHiring": true,
+  "linkedinId": "cymbio",
+  "crunchbaseId": "cymbio",
+  "finderId": "cymbio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האחים מסלוויטה",
+      "houseNumber": 12,
+      "city": "תל אביב - יפו",
+      "lat": 32.06773100750828,
+      "lon": 34.790868513431676
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "My Polymers",
+  "description": "Materials with a low refractive index including coatings, adhesives, and polymers.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/my_polymers-logo.webp",
+  "websiteUrl": "https://www.mypolymers.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "my-polymers",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולדה מאיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.9160002,
+      "lon": 34.8020721
+    }
+  ]
+}

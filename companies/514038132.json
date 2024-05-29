@@ -1,0 +1,23 @@
+{
+  "name": "Cryptocodex",
+  "description": "A trusted platform since 2013, offering real-time cryptocurrency prices, market cap data, and easy trading options via mobile app and card payments.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/cryptocodex-logo.webp",
+  "websiteUrl": "https://coincodex.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cryptocodex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בורלא יהודה",
+      "houseNumber": 27,
+      "city": "ירושלים",
+      "lat": 31.7691584,
+      "lon": 35.2007843
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Doocit Personal Care",
+  "description": "A cutting-edge solution revolutionizing personalized remote patient care and connectivity.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/doocit_personal_care-logo.webp",
+  "websiteUrl": "https://www.doocit.info/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "doocit",
+  "crunchbaseId": null,
+  "finderId": "doocit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דוש קריאל גרדוש",
+      "houseNumber": 4,
+      "city": "ראש העין",
+      "lat": 32.0864706,
+      "lon": 34.9739278
+    }
+  ]
+}

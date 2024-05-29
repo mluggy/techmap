@@ -1,0 +1,23 @@
+{
+  "name": "I Derm Pharma",
+  "description": "The company specializes in creating innovative, steroid-free topical treatments for autoimmune skin conditions like Psoriasis.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/i_derm_pharma-logo.webp",
+  "websiteUrl": "https://www.idermpharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "i-derm-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

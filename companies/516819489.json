@@ -1,0 +1,23 @@
+{
+  "name": "Igam",
+  "description": "A user-friendly online tool for downloading Instagram content, including videos, photos, Reels, and IGTV, for offline viewing.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/igam-logo.webp",
+  "websiteUrl": "https://igram.world/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "igam",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שערי תשובה",
+      "houseNumber": 3,
+      "city": "מודיעין עילית",
+      "lat": 31.927408640921872,
+      "lon": 35.03830997480509
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Do 4 Brain",
+  "description": "Mind exercises designed for older adults.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/do_4_brain-logo.webp",
+  "websiteUrl": "https://www.forbrain.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "do4brain",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבשור",
+      "houseNumber": 10,
+      "city": "ראש העין",
+      "lat": 32.0958117,
+      "lon": 34.9666344
+    }
+  ]
+}

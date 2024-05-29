@@ -1,0 +1,23 @@
+{
+  "name": "Lendbuzz",
+  "description": "A highly recommended car loan service offering swift approvals and favorable terms for international students in the USA.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/lendbuzz-logo.webp",
+  "websiteUrl": "https://www.lendbuzz.com/",
+  "careersUrl": "https://www.lendbuzz.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lendbuzz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "April Flowers",
+  "description": "A creative platform showcasing diverse artists, exhibitions, and poems.",
+  "categoryId": 8,
+  "size": "m",
+  "logoFile": "logos/april_flowers-logo.webp",
+  "websiteUrl": "https://aprilapril.gallery/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "april",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השדות",
+      "houseNumber": 82,
+      "city": "ניצני עוז",
+      "lat": 32.30800423390511,
+      "lon": 34.99836493262186
+    }
+  ]
+}

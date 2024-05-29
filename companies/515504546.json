@@ -1,0 +1,23 @@
+{
+  "name": "Swathly",
+  "description": "Boosting business growth and buyer engagement through quality data and effective strategies.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/swathly_ltd-logo.webp",
+  "websiteUrl": "https://www.swathly.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "swathly",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רום יעל",
+      "houseNumber": 9,
+      "city": "פתח תקווה",
+      "lat": 32.1001812,
+      "lon": 34.881173655832924
+    }
+  ]
+}

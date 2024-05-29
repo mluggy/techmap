@@ -1,0 +1,23 @@
+{
+  "name": "Proxymity Tlv",
+  "description": "Providing real-time connections for issuers, intermediaries, and investors with unmatched transparency, efficiency, and accuracy.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/proxymity_tlv-logo.webp",
+  "websiteUrl": "https://www.proxymity.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "proxymity",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תע\"ש",
+      "houseNumber": 8,
+      "city": "רמת גן",
+      "lat": 32.0889179,
+      "lon": 34.8015247
+    }
+  ]
+}

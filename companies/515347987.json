@@ -1,0 +1,23 @@
+{
+  "name": "Brain 1",
+  "description": "A gadget that syncs your brainwaves.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/brain_1-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "brain1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סמטת נחל",
+      "houseNumber": 5,
+      "city": "גבעתיים",
+      "lat": 32.078902347695156,
+      "lon": 34.80448446317157
+    }
+  ]
+}

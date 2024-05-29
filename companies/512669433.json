@@ -1,0 +1,23 @@
+{
+  "name": "Filt Air",
+  "description": "They offer tailored air filtration solutions using diverse materials suitable for various environments and airflow conditions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/filt_air-logo.webp",
+  "websiteUrl": "https://www.filt-air.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "filt-air",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך אבשלום",
+      "houseNumber": 1,
+      "city": "זכרון יעקב",
+      "lat": 32.5743764,
+      "lon": 34.9640984
+    }
+  ]
+}

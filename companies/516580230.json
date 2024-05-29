@@ -1,0 +1,23 @@
+{
+  "name": "Flexor Technologies",
+  "description": "Utilizes large language models to convert plain text into practical insights.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/flexor_technologies-logo.webp",
+  "websiteUrl": "https://flexor.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "flexorai",
+  "crunchbaseId": null,
+  "finderId": "flexor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קארו יוסף",
+      "houseNumber": 19,
+      "city": "תל אביב - יפו",
+      "lat": 32.070765,
+      "lon": 34.791259
+    }
+  ]
+}

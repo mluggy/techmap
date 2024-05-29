@@ -1,0 +1,23 @@
+{
+  "name": "Rep AI",
+  "description": "Leveraging AI to seamlessly integrate and enhance your existing support tools, Rep resolves 99% of customer queries with minimal changes to your workflow.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/rep_ai-logo.webp",
+  "websiteUrl": "https://www.hellorep.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rep-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Gyntools",
+  "description": "An AI-powered diagnostic tool focused on women's health.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/gyntools-logo.webp",
+  "websiteUrl": "https://www.gyntools.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "gyntools",
+  "crunchbaseId": "gyntools",
+  "finderId": "gyntools",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרטום",
+      "houseNumber": 19,
+      "city": "ירושלים",
+      "lat": 31.8041398,
+      "lon": 35.2105915
+    }
+  ]
+}

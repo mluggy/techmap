@@ -1,0 +1,23 @@
+{
+  "name": "Unilever Israel Home And Personal Care",
+  "description": "Providing essential products for nutrition, hygiene, and personal care to enhance daily living.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/unilever_israel_home_and_personal_care-logo.webp",
+  "websiteUrl": "https://www.unilever.com/",
+  "careersUrl": "https://www.unilever.com/careers/",
+  "isHiring": true,
+  "linkedinId": "unilever",
+  "crunchbaseId": null,
+  "finderId": "unilever",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יוליוס סימון",
+      "houseNumber": 52,
+      "city": "חיפה",
+      "lat": 32.8183522,
+      "lon": 35.051309
+    }
+  ]
+}

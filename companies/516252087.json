@@ -1,0 +1,23 @@
+{
+  "name": "Doxer Medical Technologies",
+  "description": "An easy-to-access online dashboard for managing clinical information, patient reminders, alerts, and daily agendas.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/doxer_medical_technologies-logo.webp",
+  "websiteUrl": "https://www.doxer.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "doxer-medical-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית הלל",
+      "houseNumber": 24,
+      "city": "תל אביב - יפו",
+      "lat": 32.069207,
+      "lon": 34.79132
+    }
+  ]
+}

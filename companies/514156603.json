@@ -1,0 +1,23 @@
+{
+  "name": "Cyrus Capital",
+  "description": "Cyrus provides comprehensive credit monitoring, instant transaction alerts, and swift ID theft support.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/cyrus_capital-logo.webp",
+  "websiteUrl": "https://cyrus.app/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cyrus-security",
+  "crunchbaseId": null,
+  "finderId": "cyrus-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הילדסהיימר",
+      "houseNumber": 18,
+      "city": "תל אביב - יפו",
+      "lat": 32.093499,
+      "lon": 34.791937
+    }
+  ]
+}

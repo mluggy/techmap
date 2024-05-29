@@ -1,0 +1,23 @@
+{
+  "name": "Sintec Media",
+  "description": "Management software tailored for media companies.",
+  "categoryId": 8,
+  "size": "l",
+  "logoFile": "logos/sintec_media-logo.webp",
+  "websiteUrl": "https://www.operative.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sintecmedia",
+  "crunchbaseId": "sintecmedia",
+  "finderId": "sintec-media",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חפצדי נחום",
+      "houseNumber": 21,
+      "city": "ירושלים",
+      "lat": 31.7877584,
+      "lon": 35.18023
+    }
+  ]
+}

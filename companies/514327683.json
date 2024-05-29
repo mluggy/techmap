@@ -1,0 +1,23 @@
+{
+  "name": "Salesforce Com Israel",
+  "description": "Leading in AI CRM, the company empowers businesses to engage with clients through an integrated platform of CRM, AI, data, and trust.",
+  "categoryId": 1,
+  "size": "l",
+  "logoFile": "logos/salesforce_com_israel-logo.webp",
+  "websiteUrl": "https://www.salesforce.com/",
+  "careersUrl": "https://careers.salesforce.com/en/",
+  "isHiring": true,
+  "linkedinId": "salesforce",
+  "crunchbaseId": null,
+  "finderId": "salesforce-com",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

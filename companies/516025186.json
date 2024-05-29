@@ -1,0 +1,23 @@
+{
+  "name": "Acumen Labs",
+  "description": "Accumen's Lab consulting and Clinical transformation help Health Systems respond to complex challenges & thrive in today's environment.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/acumen_labs-logo.webp",
+  "websiteUrl": "https://accumen.com/",
+  "careersUrl": "https://accumen.com/careers/",
+  "isHiring": true,
+  "linkedinId": "acumen-labs",
+  "crunchbaseId": "acumen-labs",
+  "finderId": "acumen-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תושיה",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.066664,
+      "lon": 34.788182
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Hairstetics",
+  "description": "Offering cutting-edge hair implants inspired by natural hair anatomy to restore your desired appearance and lifestyle.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/hairstetics-logo.webp",
+  "websiteUrl": "https://hairstetics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hairstetics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתניהו יהונתן",
+      "houseNumber": 6,
+      "city": "אור יהודה",
+      "lat": 32.0219296,
+      "lon": 34.8566055
+    }
+  ]
+}

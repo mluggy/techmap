@@ -1,0 +1,23 @@
+{
+  "name": "Organizeat",
+  "description": "A user-friendly recipe manager app that lets you save and organize recipes by snapping photos or importing them from the web.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/organizeat-logo.webp",
+  "websiteUrl": "https://home.organizeat.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "organizeat",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חרצית",
+      "houseNumber": 8,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.908381,
+      "lon": 35.010737
+    }
+  ]
+}

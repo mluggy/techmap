@@ -1,0 +1,23 @@
+{
+  "name": "Cure Diva",
+  "description": "A supportive platform dedicated to helping breast cancer patients and survivors maintain their self-esteem and femininity through tailored resources.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cure_diva-logo.webp",
+  "websiteUrl": "https://curediva.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "curediva",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסדנאות",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1618526,
+      "lon": 34.80709739822251
+    }
+  ]
+}

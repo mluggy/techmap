@@ -1,0 +1,23 @@
+{
+  "name": "Cross River Technologies",
+  "description": "A leading financial services provider that combines traditional banking expertise with innovative products.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/cross_river_technologies-logo.webp",
+  "websiteUrl": "https://www.crossriver.com/",
+  "careersUrl": "https://www.crossriver.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cross-river",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 146,
+      "city": "תל אביב - יפו",
+      "lat": 32.0778351,
+      "lon": 34.794439538025976
+    }
+  ]
+}

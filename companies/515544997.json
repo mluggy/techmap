@@ -1,0 +1,23 @@
+{
+  "name": "Gavra Games",
+  "description": "A company specializing in creating games that run on multiple platforms.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/gavra_games-logo.webp",
+  "websiteUrl": "https://gavra-games.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "gavra-games",
+  "crunchbaseId": "gavra-games",
+  "finderId": "gavra-games",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסיבים",
+      "houseNumber": 30,
+      "city": "פתח תקווה",
+      "lat": 32.0916612,
+      "lon": 34.8571892
+    }
+  ]
+}

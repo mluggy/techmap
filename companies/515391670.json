@@ -1,0 +1,23 @@
+{
+  "name": "Cancurx",
+  "description": "Solutions for Pancreatic Cancer Care.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cancurx-logo.webp",
+  "websiteUrl": "https://gco.iarc.fr/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cancurx",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד אבא חושי",
+      "houseNumber": null,
+      "city": "חיפה",
+      "lat": 32.7659659,
+      "lon": 35.012341
+    }
+  ]
+}

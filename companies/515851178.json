@@ -1,0 +1,23 @@
+{
+  "name": "Skelable",
+  "description": "We provide innovative mobility solutions to improve the lives of individuals with conditions such as CVA, SCI, and ALS.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/skelable-logo.webp",
+  "websiteUrl": "https://www.skelable.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "skelable",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 22,
+      "city": "ראש העין",
+      "lat": 32.1088976,
+      "lon": 34.9653972
+    }
+  ]
+}

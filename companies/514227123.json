@@ -1,0 +1,23 @@
+{
+  "name": "Takadu",
+  "description": "This service provides 24/7 network data analysis and automatic detection of events, enabling efficient resolution management to reduce water loss and improve system performance.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/takadu-logo.webp",
+  "websiteUrl": "https://www.takadu.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "takadu",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 40,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0267353,
+      "lon": 34.8933861
+    }
+  ]
+}

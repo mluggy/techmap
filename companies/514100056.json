@@ -1,0 +1,23 @@
+{
+  "name": "Waze Mobile",
+  "description": "Receive the most efficient route to your destination with real-time guidance from live traffic updates shared by other drivers.",
+  "categoryId": 5,
+  "size": "l",
+  "logoFile": "logos/waze_mobile-logo.webp",
+  "websiteUrl": "https://www.waze.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "waze",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 98,
+      "city": "תל אביב - יפו",
+      "lat": 32.0700073,
+      "lon": 34.794193699999994
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Shipbook",
+  "description": "A comprehensive log management tool for efficient debugging across diverse mobile and web development environments.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/shipbook-logo.webp",
+  "websiteUrl": "https://www.shipbook.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "shipbook",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בית לחם",
+      "houseNumber": 71,
+      "city": "ירושלים",
+      "lat": 31.7505713,
+      "lon": 35.2178446
+    }
+  ]
+}

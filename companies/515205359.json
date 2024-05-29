@@ -1,0 +1,23 @@
+{
+  "name": "Onsoft Financial Solutions",
+  "description": "A local spot for savoring wood-fired pizza, mini burgers, chef-driven dishes, craft beer, and cocktails.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/onsoft_financial_solutions-logo.webp",
+  "websiteUrl": "https://www.matchboxrestaurants.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "matchbox",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בובר מרטין",
+      "houseNumber": 29,
+      "city": "ראשון לציון",
+      "lat": 31.9809285,
+      "lon": 34.771985
+    }
+  ]
+}

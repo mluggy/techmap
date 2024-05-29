@@ -1,0 +1,23 @@
+{
+  "name": "Sightec Israel",
+  "description": "Develops cutting-edge machine-vision and AI software that analyzes visual data from drones.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/sightec_israel-logo.webp",
+  "websiteUrl": "https://www.sightec.com/",
+  "careersUrl": "https://www.sightec.com/careers/",
+  "isHiring": true,
+  "linkedinId": "sightec",
+  "crunchbaseId": "sightec",
+  "finderId": "sightec",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.05865,
+      "lon": 34.784414
+    }
+  ]
+}

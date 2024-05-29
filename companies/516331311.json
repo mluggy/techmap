@@ -1,0 +1,23 @@
+{
+  "name": "Locudrive",
+  "description": "A company currently operating in stealth mode.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/locudrive-logo.webp",
+  "websiteUrl": "https://locudrive.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "locudrive-ltd",
+  "crunchbaseId": null,
+  "finderId": "locudrive",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אנקור",
+      "houseNumber": 19,
+      "city": "רמת השרון",
+      "lat": 32.140841,
+      "lon": 34.8257862
+    }
+  ]
+}

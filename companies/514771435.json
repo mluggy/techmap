@@ -1,0 +1,23 @@
+{
+  "name": "Alphamet",
+  "description": "A medical device company specializing in FDA-cleared, innovative orthopedic implants and instruments for minimally invasive Hallux Valgus correction surgeries.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/alphamet-logo.webp",
+  "websiteUrl": "https://alphametone.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cycla-orthopedics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המייסדים",
+      "houseNumber": 14,
+      "city": "בת שלמה",
+      "lat": 32.5957797,
+      "lon": 35.0042944
+    }
+  ]
+}

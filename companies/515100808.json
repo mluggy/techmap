@@ -1,0 +1,23 @@
+{
+  "name": "Familybiz",
+  "description": "ניהול פיננסים פשוט שמספק מידע בזמן אמת על חשבונות בנק, כרטיסי אשראי, הכנסות, הוצאות, ביטוחים, פנסיות ונתוני משכנתא במקום אחד.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/familybiz-logo.webp",
+  "websiteUrl": "https://www.familybiz.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "familybiz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדוגית",
+      "houseNumber": 20,
+      "city": "יבנה",
+      "lat": 31.8674963,
+      "lon": 34.736029
+    }
+  ]
+}

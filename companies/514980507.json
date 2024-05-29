@@ -1,0 +1,23 @@
+{
+  "name": "Bio Yome",
+  "description": "Specializing in eco-friendly crop protection, our company offers innovative solutions to safeguard crops and boost yields worldwide.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/bio_yome-logo.webp",
+  "websiteUrl": "https://www.bioyome.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bioyome",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בזלת צור יגאל",
+      "houseNumber": 2,
+      "city": "צור יגאל",
+      "lat": 32.2179505,
+      "lon": 34.9827171
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Certomo",
+  "description": "Constantly ensures secure oversight of your financial transactions, protecting your business.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/certomo-logo.webp",
+  "websiteUrl": "https://www.certomo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "certomo",
+  "crunchbaseId": "certomo",
+  "finderId": "certomo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארגמן",
+      "houseNumber": 51,
+      "city": "תל מונד",
+      "lat": 32.2501326,
+      "lon": 34.9086756
+    }
+  ]
+}

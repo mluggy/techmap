@@ -1,0 +1,23 @@
+{
+  "name": "Pepperi",
+  "description": "A field sales app that enhances rep efficiency, customer connection, and sales management through real-time data and performance insights.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/pepperi-logo.webp",
+  "websiteUrl": "https://www.pepperi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pepperi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרושת",
+      "houseNumber": 14,
+      "city": "רעננה",
+      "lat": 32.1962399,
+      "lon": 34.88108037383692
+    }
+  ]
+}

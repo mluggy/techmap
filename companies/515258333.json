@@ -1,0 +1,23 @@
+{
+  "name": "Datarails",
+  "description": "Providing financial professionals with a streamlined tool for FP&A, budgeting, and forecasting.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/datarails_ltd-logo.webp",
+  "websiteUrl": "https://www.datarails.com/",
+  "careersUrl": "https://www.datarails.com/careers/",
+  "isHiring": true,
+  "linkedinId": "datarails",
+  "crunchbaseId": null,
+  "finderId": "datarails",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 152,
+      "city": "תל אביב - יפו",
+      "lat": 32.079241,
+      "lon": 34.795072
+    }
+  ]
+}

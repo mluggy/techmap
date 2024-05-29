@@ -1,0 +1,23 @@
+{
+  "name": "Porsche Digital Israel",
+  "description": "Renowned for its milestone victories and celebrated sports car models, this company crafts high-performance mid-engine and rear-engine vehicles designed for driving enthusiasts.",
+  "categoryId": 5,
+  "size": "l",
+  "logoFile": "logos/porsche_digital_israel-logo.webp",
+  "websiteUrl": "https://www.porsche.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "porsche",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלוף מגן קלמן",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.07110345,
+      "lon": 34.78706174292169
+    }
+  ]
+}

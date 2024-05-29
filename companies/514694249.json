@@ -1,0 +1,23 @@
+{
+  "name": "Improdia",
+  "description": "A tech-focused platform that earns affiliate commissions through Amazon-linked product recommendations.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/improdia-logo.webp",
+  "websiteUrl": "https://www.improdia.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "improdia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד אבא אבן",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1613414,
+      "lon": 34.8105823
+    }
+  ]
+}

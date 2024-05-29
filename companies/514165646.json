@@ -1,0 +1,23 @@
+{
+  "name": "Ino Vision",
+  "description": "This company offers an innovative product that combines a bike seat with a folding lock, available in two models and various colors.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/ino_vision-logo.webp",
+  "websiteUrl": "https://seatylock.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "seatylock",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זכריה",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.09511,
+      "lon": 34.777448
+    }
+  ]
+}

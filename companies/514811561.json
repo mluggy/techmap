@@ -1,0 +1,23 @@
+{
+  "name": "Coverr Platform",
+  "description": "Access unique, royalty-free stock videos for any project with no attribution needed.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/coverr_platform-logo.webp",
+  "websiteUrl": "https://coverr.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "coverr",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' בן ציון",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.072423,
+      "lon": 34.777883
+    }
+  ]
+}

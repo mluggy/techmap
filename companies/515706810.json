@@ -1,0 +1,23 @@
+{
+  "name": "Hallura",
+  "description": "Cosmetic treatments using hyaluronic acid-based dermal fillers.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/hallura-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "hallura",
+  "crunchbaseId": "hallura",
+  "finderId": "hallura",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 67,
+      "city": "יקנעם עילית",
+      "lat": 32.6578027,
+      "lon": 35.1002987
+    }
+  ]
+}

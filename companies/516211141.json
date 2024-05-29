@@ -1,0 +1,23 @@
+{
+  "name": "Revium Recovery",
+  "description": "Our company specializes in providing healthcare solutions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/revium_recovery-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "revium-recovery",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטחנה",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1732974,
+      "lon": 34.8910865
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Respiration Scan",
+  "description": "A cutting-edge medical diagnostics firm specializing in innovative technology for detecting pneumonia and ventilator-associated pneumonia in ICU patients.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/respiration_scan-logo.webp",
+  "websiteUrl": "https://www.respirationscan.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "respiration-scan",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רמון אילן",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.9181793,
+      "lon": 34.8060447
+    }
+  ]
+}

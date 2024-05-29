@@ -1,0 +1,23 @@
+{
+  "name": "Animo",
+  "description": "Offering discounted oats, wheat, and barley flakes for horses, goats, and rabbits, along with a new seed mix and frozen fish, including herring, sprats, and mackerel.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/animo-logo.webp",
+  "websiteUrl": "http://www.centrumkrmiv.cz/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "animo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דיסנצ'יק אריה",
+      "houseNumber": 16,
+      "city": "תל אביב - יפו",
+      "lat": 32.117752,
+      "lon": 34.827185
+    }
+  ]
+}

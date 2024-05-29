@@ -1,0 +1,23 @@
+{
+  "name": "Semperis",
+  "description": "Specializing in safeguarding databases and domain services, the company holistically addresses identity-based attacks with robust technology and an expert incident response team.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/semperis-logo.webp",
+  "websiteUrl": "https://www.semperis.com/",
+  "careersUrl": "https://www.semperis.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "semperis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08452905,
+      "lon": 34.80020929592628
+    }
+  ]
+}

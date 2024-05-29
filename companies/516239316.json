@@ -1,0 +1,23 @@
+{
+  "name": "Uchannel Ventures",
+  "description": "Platform for sharing content.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/uchannel_ventures-logo.webp",
+  "websiteUrl": "https://www.uchanneltv.us/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "uchannel",
+  "finderId": "uchannel-ventures",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שטרן יאיר",
+      "houseNumber": 98,
+      "city": "קריית אונו",
+      "lat": 32.0501293,
+      "lon": 34.8669386
+    }
+  ]
+}

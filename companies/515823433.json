@@ -1,0 +1,23 @@
+{
+  "name": "Snapland",
+  "description": "פלטפורמה לאיסוף נתונים נדל\"ניים במקום אחד לצורך קבלת החלטות מהירה ויעילה.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/snapland-logo.webp",
+  "websiteUrl": "https://snap.land/",
+  "careersUrl": "https://snap.land/careers.html",
+  "isHiring": true,
+  "linkedinId": "snapland",
+  "crunchbaseId": "snapland",
+  "finderId": "snapland",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מזור",
+      "houseNumber": 6,
+      "city": "ירושלים",
+      "lat": 31.786083,
+      "lon": 35.209279
+    }
+  ]
+}

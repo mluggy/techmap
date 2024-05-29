@@ -1,0 +1,23 @@
+{
+  "name": "Wandering",
+  "description": "Geography-Centered Educational Tool.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/wandering-logo.webp",
+  "websiteUrl": "https://wonderingandwondering.wordpress.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wandering",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 46,
+      "city": "תל אביב - יפו",
+      "lat": 32.0661104,
+      "lon": 34.7838559
+    }
+  ]
+}

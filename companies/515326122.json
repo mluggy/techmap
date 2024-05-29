@@ -1,0 +1,23 @@
+{
+  "name": "Snyk Israel",
+  "description": "A developer security platform that integrates seamlessly into development tools and workflows to identify and fix vulnerabilities.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/snyk_israel-logo.webp",
+  "websiteUrl": "https://snyk.io/",
+  "careersUrl": "https://snyk.io/careers/",
+  "isHiring": true,
+  "linkedinId": "snyk",
+  "crunchbaseId": null,
+  "finderId": "snyk",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 156,
+      "city": "תל אביב - יפו",
+      "lat": 32.0797181,
+      "lon": 34.7957816
+    }
+  ]
+}

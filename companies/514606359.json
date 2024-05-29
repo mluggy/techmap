@@ -1,0 +1,23 @@
+{
+  "name": "NoviSign Digital Signage",
+  "description": "Cloud digital signage software.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/novisign-logo.webp",
+  "websiteUrl": "https://www.novisign.com/",
+  "careersUrl": "https://www.novisign.com/about/careers/",
+  "isHiring": true,
+  "linkedinId": "novisign-digital-signage",
+  "crunchbaseId": null,
+  "finderId": "novisign",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך הים",
+      "houseNumber": 3,
+      "city": "כפר סבא",
+      "lat": 32.1856145,
+      "lon": 34.951263
+    }
+  ]
+}

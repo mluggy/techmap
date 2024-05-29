@@ -1,0 +1,23 @@
+{
+  "name": "Xtras Staffing Solutions",
+  "description": "Leading manufacturer of lightweight, high-performance diver propulsion vehicles.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/xtras_staffing_solutions-logo.webp",
+  "websiteUrl": "https://dive-xtras.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "xtras",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפלך",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.050538,
+      "lon": 34.766862
+    }
+  ]
+}

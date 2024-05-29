@@ -1,0 +1,23 @@
+{
+  "name": "Vicarius",
+  "description": "Specializing in preemptive cybersecurity, this company offers in-memory protection to safeguard vulnerable, unpatched applications from potential threats.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/vicarius-logo.webp",
+  "websiteUrl": "https://www.vicarius.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vicarius",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 156,
+      "city": "תל אביב - יפו",
+      "lat": 32.0797181,
+      "lon": 34.7957816
+    }
+  ]
+}

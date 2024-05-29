@@ -1,0 +1,23 @@
+{
+  "name": "Heroki",
+  "description": "A fully-managed platform enabling developers and businesses to efficiently deploy, manage, and scale apps from prototypes to critical products.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/heroki-logo.webp",
+  "websiteUrl": "https://www.heroku.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "heroki",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מרכלת",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.0593936230639,
+      "lon": 34.76847180383663
+    }
+  ]
+}

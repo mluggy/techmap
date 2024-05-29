@@ -1,0 +1,23 @@
+{
+  "name": "Breezometer",
+  "description": "BreezoMeter's APIs provide access to location-based air-quality, pollen, fires, & weather data, allowing you to integrate them into your apps, services & ...",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/breezometer-logo.webp",
+  "websiteUrl": "https://docs.breezometer.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "breezometer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 24,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

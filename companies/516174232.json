@@ -1,0 +1,23 @@
+{
+  "name": "Sign Now",
+  "description": "Provides a unified login experience for users of signNow, airSlate, and pdfFiller platforms.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/sign_now-logo.webp",
+  "websiteUrl": "https://app.signnow.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sign-now",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האודם",
+      "houseNumber": 68,
+      "city": "שוהם",
+      "lat": 31.9986306,
+      "lon": 34.9461689
+    }
+  ]
+}

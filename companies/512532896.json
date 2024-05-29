@@ -1,0 +1,23 @@
+{
+  "name": "Afron Machinery",
+  "description": "Specializing in agricultural equipment for tree pruning and fruit picking since 1967.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/afron_machinery-logo.webp",
+  "websiteUrl": "https://www.afron.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "afron",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך פיק\"א",
+      "houseNumber": 200,
+      "city": "פרדס חנה-כרכור",
+      "lat": 32.471635,
+      "lon": 34.9769922
+    }
+  ]
+}

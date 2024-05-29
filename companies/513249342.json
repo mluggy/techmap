@@ -1,0 +1,23 @@
+{
+  "name": "Gem Art",
+  "description": "Providing exceptionally engineered electric vehicles for individuals, cities, campuses, and communities to redefine their driving experience.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/gem_art-logo.webp",
+  "websiteUrl": "https://www.gemcar.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gem-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 23,
+      "city": "רמת גן",
+      "lat": 32.084057200000004,
+      "lon": 34.801283912351195
+    }
+  ]
+}

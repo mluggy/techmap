@@ -1,0 +1,23 @@
+{
+  "name": "Payme",
+  "description": "Providing instant, no-cost payroll advance services to improve employee retention and recruitment with comprehensive support.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/payme-logo.webp",
+  "websiteUrl": "https://payme.tokyo/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "payme",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תוצרת הארץ",
+      "houseNumber": 18,
+      "city": "תל אביב - יפו",
+      "lat": 32.0723,
+      "lon": 34.797175
+    }
+  ]
+}

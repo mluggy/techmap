@@ -1,0 +1,23 @@
+{
+  "name": "Pyxis Diagnostics",
+  "description": "A pioneering computational biology platform forecasts patient responses to Immuno-Oncology treatments and discovers new drug combinations to overcome resistance.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/pyxis_diagnostics-logo.webp",
+  "websiteUrl": "https://www.pyxisdiagnostics.com/",
+  "careersUrl": "https://www.pyxisdiagnostics.com/careers",
+  "isHiring": true,
+  "linkedinId": "pyxis-dx",
+  "crunchbaseId": "pyxis-diagnostics",
+  "finderId": "pyxis-diagnostics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רוקח שמעון",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.7900201,
+      "lon": 35.2241751
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ni Na Labs",
+  "description": "Smart Drink Dispensing Device.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/ni_na_labs-logo.webp",
+  "websiteUrl": "https://www.drinknina.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "nina-iot",
+  "crunchbaseId": "nina",
+  "finderId": "ni-na-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העבודה",
+      "houseNumber": 8,
+      "city": "בנימינה",
+      "lat": 32.5206592,
+      "lon": 34.9560446
+    }
+  ]
+}

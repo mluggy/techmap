@@ -1,0 +1,23 @@
+{
+  "name": "Lensy Medical",
+  "description": "Contact Lenses Manufactured using 3D Printing Technology.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/lensy_medical-logo.webp",
+  "websiteUrl": "https://www.lindseymedicalsupply.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "lensy-medical",
+  "crunchbaseId": "lensy-medical",
+  "finderId": "lensy-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסדנא",
+      "houseNumber": 7,
+      "city": "ירושלים",
+      "lat": 31.7499823,
+      "lon": 35.2143376
+    }
+  ]
+}

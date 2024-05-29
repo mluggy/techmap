@@ -1,0 +1,23 @@
+{
+  "name": "Multeez",
+  "description": "A service enabling the shared ownership of digital assets via API integration.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/multeez-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "multeez",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבא הלל סילבר",
+      "houseNumber": 16,
+      "city": "רמת גן",
+      "lat": 32.0861273,
+      "lon": 34.8054589
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Melio",
+  "description": "Offering tailor-made payment solutions for small businesses, this company integrates embedded accounts payable and receivable technology to enhance financial control and cash flow for partners' customers.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/melio-logo.webp",
+  "websiteUrl": "https://meliopayments.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "melio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.070693,
+      "lon": 34.785176
+    }
+  ]
+}

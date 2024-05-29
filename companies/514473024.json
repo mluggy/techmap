@@ -1,0 +1,23 @@
+{
+  "name": "Pixtier Maps",
+  "description": "Generate real-time, globally accessible 3D asset maps for comprehensive visualization needs.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/pixtier_maps-logo.webp",
+  "websiteUrl": "https://www.pixtier.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pixtier",
+  "crunchbaseId": "pixtier",
+  "finderId": "pixtier",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלתר אליעזר",
+      "houseNumber": 26,
+      "city": "חיפה",
+      "lat": 32.7747959,
+      "lon": 35.0132201
+    }
+  ]
+}

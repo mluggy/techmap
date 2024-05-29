@@ -1,0 +1,23 @@
+{
+  "name": "Entoprotech",
+  "description": "Providing eco-friendly, insect-based waste management and recycling solutions.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/entoprotech-logo.webp",
+  "websiteUrl": "https://entoprotech.com/",
+  "careersUrl": "https://entoprotech.com/careers/",
+  "isHiring": true,
+  "linkedinId": "entoprotech",
+  "crunchbaseId": null,
+  "finderId": "entoprotech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

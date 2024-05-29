@@ -1,0 +1,23 @@
+{
+  "name": "The Digital Pets",
+  "description": "A digital companion that mimics a real-life dog, allowing interactions through voice commands in private settings while collecting user data.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/the_digital_pets_company-logo.webp",
+  "websiteUrl": "https://laika.thedigitaldogs.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "the-digital-pets-company",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מרים החשמונאית",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.091788,
+      "lon": 34.783626
+    }
+  ]
+}

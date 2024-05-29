@@ -1,0 +1,23 @@
+{
+  "name": "Jobit",
+  "description": "Using AI to facilitate direct communication and quick matching between job seekers and employers.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/jobit-logo.webp",
+  "websiteUrl": "https://jobit.world/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jobit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מצדה",
+      "houseNumber": 17,
+      "city": "בני ברק",
+      "lat": 32.0915323,
+      "lon": 34.8250073
+    }
+  ]
+}

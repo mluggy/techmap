@@ -1,0 +1,23 @@
+{
+  "name": "Sternum",
+  "description": "Platform for Monitoring and Securing IoT Devices.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/sternum-logo.webp",
+  "websiteUrl": "https://sternumiot.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sternum",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

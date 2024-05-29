@@ -1,0 +1,23 @@
+{
+  "name": "Fuse Autotech",
+  "description": "They offer an integrated platform simplifying car transactions and financing both online and at dealerships.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/fuse_autotech-logo.webp",
+  "websiteUrl": "https://fuseautotech.com/",
+  "careersUrl": "https://fuseautotech.com/careers",
+  "isHiring": true,
+  "linkedinId": "fuse-autotech",
+  "crunchbaseId": "fuse-autotech",
+  "finderId": "fuse-autotech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 6,
+      "city": "ירושלים",
+      "lat": 31.7544321,
+      "lon": 35.2168529
+    }
+  ]
+}

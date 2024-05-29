@@ -1,0 +1,23 @@
+{
+  "name": "Localbird",
+  "description": "Connect with trusted local vendors to book a variety of unique experiences and services, enhanced by 24/7 personalized concierge support.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/localbird-logo.webp",
+  "websiteUrl": "https://localbird.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "yourlocalbird",
+  "crunchbaseId": null,
+  "finderId": "localbird",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 113,
+      "city": "הרצליה",
+      "lat": 32.1590621,
+      "lon": 34.8358921
+    }
+  ]
+}

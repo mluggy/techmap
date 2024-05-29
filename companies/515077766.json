@@ -1,0 +1,23 @@
+{
+  "name": "Oversee Travel",
+  "description": "A travel company providing overseas adventures with a focus on enhancing customer experiences through website analytics.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/oversee_travel-logo.webp",
+  "websiteUrl": "https://www.oattravel.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "oversee-travel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

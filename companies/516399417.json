@@ -1,0 +1,23 @@
+{
+  "name": "C Crop",
+  "description": "A stylish online store offering fashionable women's and men's clothing at the best prices across various European countries.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/c_crop-logo.webp",
+  "websiteUrl": "https://www.cropp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "c-crop",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סולד הנרייטה",
+      "houseNumber": 18,
+      "city": "מזכרת בתיה",
+      "lat": 31.843583232301675,
+      "lon": 34.84510464473381
+    }
+  ]
+}

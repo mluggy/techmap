@@ -1,0 +1,23 @@
+{
+  "name": "Libra Insurance",
+  "description": "The nation's largest independent insurance marketing organization, with a network of 95 partner firms.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/libra_insurance_company-logo.webp",
+  "websiteUrl": "https://www.libraip.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "libra-ip",
+  "crunchbaseId": null,
+  "finderId": "libra1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרוקמים",
+      "houseNumber": 26,
+      "city": "חולון",
+      "lat": 32.0077054,
+      "lon": 34.80060304320986
+    }
+  ]
+}

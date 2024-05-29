@@ -1,0 +1,23 @@
+{
+  "name": "Etribez Labs",
+  "description": "They offer solutions for audience interaction, production management, and online voting tailored to broadcast and TV production companies.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/etribez_labs-logo.webp",
+  "websiteUrl": "https://www.etribez.com/",
+  "careersUrl": "https://www.etribez.com/careers/",
+  "isHiring": true,
+  "linkedinId": "etribez",
+  "crunchbaseId": "etribez",
+  "finderId": "etribez",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין מנחם",
+      "houseNumber": 11,
+      "city": "רמת גן",
+      "lat": 32.0862661,
+      "lon": 34.800174909775976
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "St Microelectronics",
+  "description": "A thriving online community offering solutions, discussions, and courses to enhance your design skills.",
+  "categoryId": 16,
+  "size": "s",
+  "logoFile": "logos/st_microelectronics-logo.webp",
+  "websiteUrl": "https://community.st.com/",
+  "careersUrl": "https://www.st.com/content/st_com/en/about/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "st-microelectronics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גיבורי ישראל",
+      "houseNumber": 7,
+      "city": "נתניה",
+      "lat": 32.2787263,
+      "lon": 34.8610014
+    }
+  ]
+}

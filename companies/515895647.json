@@ -1,0 +1,23 @@
+{
+  "name": "Dynamo Tech",
+  "description": "A two-time MLS champion team featuring a reserve squad, youth academy, and playing at Shell Energy Stadium.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/dynamo_tech-logo.webp",
+  "websiteUrl": "https://www.houstondynamofc.com/",
+  "careersUrl": "https://www.dynamosoftware.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dynamo-2",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משושים",
+      "houseNumber": 13,
+      "city": "הוד השרון",
+      "lat": 32.1408666,
+      "lon": 34.8860005
+    }
+  ]
+}

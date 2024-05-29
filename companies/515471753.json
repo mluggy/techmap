@@ -1,0 +1,23 @@
+{
+  "name": "Koglo",
+  "description": "A home gadget designed for administering fluid therapy to cats and dogs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/koglo-logo.webp",
+  "websiteUrl": "https://www.kogloltd.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "koglo-ltd",
+  "crunchbaseId": "koglo",
+  "finderId": "koglo-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 40,
+      "city": "תל אביב - יפו",
+      "lat": 32.088905,
+      "lon": 34.77712
+    }
+  ]
+}

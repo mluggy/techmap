@@ -1,0 +1,23 @@
+{
+  "name": "Go Global Travel",
+  "description": "An innovative B2B provider offering extensive hotel and technology solutions with global multilingual support for client partners.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/go_global_travel-logo.webp",
+  "websiteUrl": "https://accounts.goglobal.travel/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "go-global-travel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מצדה",
+      "houseNumber": 6,
+      "city": "בני ברק",
+      "lat": 32.0946875,
+      "lon": 34.8248874
+    }
+  ]
+}

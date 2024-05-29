@@ -1,0 +1,23 @@
+{
+  "name": "Tripi Tour Systems",
+  "description": "Experience Chef Anthony Zappola’s culinary creations at a new Cleveland restaurant offering online ordering and operating Monday through Saturday.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/tripi_tour_systems-logo.webp",
+  "websiteUrl": "https://www.tripicleveland.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tripi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לבון פנחס",
+      "houseNumber": 2,
+      "city": "כפר סבא",
+      "lat": 32.1799188,
+      "lon": 34.9083746
+    }
+  ]
+}

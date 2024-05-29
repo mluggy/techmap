@@ -1,0 +1,23 @@
+{
+  "name": "Fuse Labs",
+  "description": "An EVM-compatible blockchain offering scalable, speedy, and cost-effective infrastructure for Web3 applications with high transaction volumes, security, and decentralization.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/fuse_labs-logo.webp",
+  "websiteUrl": "https://docs.fuse.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fuse-network",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התעשיה",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.0670683,
+      "lon": 34.7856051
+    }
+  ]
+}

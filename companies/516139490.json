@@ -1,0 +1,23 @@
+{
+  "name": "Baibys Fertility",
+  "description": "Facing a global fertility crisis driven by environmental and societal factors, where rising male infertility may necessitate assisted reproduction for most couples by 2045.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/baibys_fertility-logo.webp",
+  "websiteUrl": "https://www.baibys.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "baibys-fertility",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הצלע",
+      "houseNumber": 5,
+      "city": "רמת גן",
+      "lat": 32.0950213,
+      "lon": 34.8201833
+    }
+  ]
+}

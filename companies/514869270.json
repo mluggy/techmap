@@ -1,0 +1,23 @@
+{
+  "name": "Feelter Sales Tools",
+  "description": "An innovative embeddable search engine that swiftly curates social content for your website.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/feelter_sales_tools-logo.webp",
+  "websiteUrl": "https://www.feelter.com/",
+  "careersUrl": "https://www.feelter.com/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "feelter",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוקן",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.053118,
+      "lon": 34.772401
+    }
+  ]
+}

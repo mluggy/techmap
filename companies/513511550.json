@@ -1,0 +1,23 @@
+{
+  "name": "Slice Pizza Ramat Hasharon",
+  "description": "A platform that seamlessly connects pizza enthusiasts with local pizzerias nationwide.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/slice_pizza_ramat_hasharon-logo.webp",
+  "websiteUrl": "https://slicelife.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "slice",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הורדים גני יהודה",
+      "houseNumber": 27,
+      "city": "סביון",
+      "lat": 32.04031487465118,
+      "lon": 34.87898721982376
+    }
+  ]
+}

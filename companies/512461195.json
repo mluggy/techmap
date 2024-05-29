@@ -1,0 +1,23 @@
+{
+  "name": "Expander",
+  "description": "An eCommerce platform powered by data insights.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/expander-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "expander",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבא הלל",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0843582,
+      "lon": 34.8032287
+    }
+  ]
+}

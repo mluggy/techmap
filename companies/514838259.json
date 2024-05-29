@@ -1,0 +1,23 @@
+{
+  "name": "Marketman",
+  "description": "Providing seamless procurement and supply management for foodservice operators and their suppliers, this software supports various foodservice establishments.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/marketman-logo.webp",
+  "websiteUrl": "https://marketman.co.il/",
+  "careersUrl": "https://marketman.co.il/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "marketman",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרושת",
+      "houseNumber": 25,
+      "city": "רעננה",
+      "lat": 32.1960435,
+      "lon": 34.88007192775598
+    }
+  ]
+}

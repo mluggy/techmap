@@ -1,0 +1,23 @@
+{
+  "name": "Edocate",
+  "description": "An award-winning platform offering advanced educational technologies to help you achieve your goals.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/edocate-logo.webp",
+  "websiteUrl": "https://www.edocate.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "edocate-ltd",
+  "crunchbaseId": null,
+  "finderId": "edocate1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קורולנקו",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.0842367,
+      "lon": 34.7729104
+    }
+  ]
+}

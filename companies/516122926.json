@@ -1,0 +1,23 @@
+{
+  "name": "Everafter AI",
+  "description": "An AI-powered app offering seamless integration with Google and Microsoft for user authentication.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/everafter_ai-logo.webp",
+  "websiteUrl": "https://app.everafter.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "everafter-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהודה הלוי",
+      "houseNumber": 6,
+      "city": "קריית אונו",
+      "lat": 32.0619496,
+      "lon": 34.8647779
+    }
+  ]
+}

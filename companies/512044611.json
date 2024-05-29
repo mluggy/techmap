@@ -1,0 +1,23 @@
+{
+  "name": "Identa",
+  "description": "A cutting-edge handheld device for rapid, accurate detection of various explosives and hazardous materials.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/identa-logo.webp",
+  "websiteUrl": "https://www.identa-corp.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "identa",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בית לחם",
+      "houseNumber": 120,
+      "city": "ירושלים",
+      "lat": 31.7533288,
+      "lon": 35.2187937
+    }
+  ]
+}

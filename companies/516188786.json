@@ -1,0 +1,23 @@
+{
+  "name": "Rootie Robot",
+  "description": "We provide autonomous robotic solutions for inspections, data collection, and maintenance, enhancing operational efficiency for facility managers and businesses.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/rootie_robot-logo.webp",
+  "websiteUrl": "https://rootiebot.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rootie",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמרי",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.1145886,
+      "lon": 34.8153179
+    }
+  ]
+}

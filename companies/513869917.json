@@ -1,0 +1,23 @@
+{
+  "name": "Sense Bisum",
+  "description": "Empowering homeowners to optimize energy consumption, save on bills, and minimize environmental impact by managing usage.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/sense_bisum-logo.webp",
+  "websiteUrl": "https://sense.com/",
+  "careersUrl": "https://sense.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "53n53-sense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הערבה",
+      "houseNumber": 1,
+      "city": "גבעת שמואל",
+      "lat": 32.0836051,
+      "lon": 34.8551272
+    }
+  ]
+}

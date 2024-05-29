@@ -1,0 +1,23 @@
+{
+  "name": "Pic Your Life",
+  "description": "הסוכנות לעסקים קטנים ובינוניים מקדמת יזמות טכנולוגית באזורים מועדפים באמצעות תוכנית MaofTech הכוללת מעל 20 אקסלרטורים ברחבי הארץ.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/pic_your_life-logo.webp",
+  "websiteUrl": "https://maoftech.org.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "picyourlife",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלעזר דוד",
+      "houseNumber": 4,
+      "city": "גבעת שמואל",
+      "lat": 32.0797878,
+      "lon": 34.8468249
+    }
+  ]
+}

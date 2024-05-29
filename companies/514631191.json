@@ -1,0 +1,23 @@
+{
+  "name": "Mylefly",
+  "description": "Provides a top-rated, fast, and reliable service for converting airline and hotel points into cash.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/mylefly-logo.webp",
+  "websiteUrl": "https://www.mylefly.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mylefly",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פורצי הדרך",
+      "houseNumber": 24,
+      "city": "הרצליה",
+      "lat": 32.1626088,
+      "lon": 34.8632079
+    }
+  ]
+}

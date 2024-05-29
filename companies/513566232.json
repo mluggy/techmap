@@ -1,0 +1,23 @@
+{
+  "name": "Pocared Diagnostics",
+  "description": "This website offers information that is currently inaccessible.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pocared_diagnostics-logo.webp",
+  "websiteUrl": "https://www.pocared.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pocared-diagnostics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פקריס",
+      "houseNumber": 3,
+      "city": "רחובות",
+      "lat": 31.9119094,
+      "lon": 34.804801
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Vital Technologies",
+  "description": "Wellness Products with Microencapsulation Technology.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vital_technologies-logo.webp",
+  "websiteUrl": "https://www.vitaltech.bio/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vital-technologies-ltd",
+  "crunchbaseId": null,
+  "finderId": "vital-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתיר ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1620348,
+      "lon": 34.9337429
+    }
+  ]
+}

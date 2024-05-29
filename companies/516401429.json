@@ -1,0 +1,23 @@
+{
+  "name": "Exodigo",
+  "description": "Offering advanced non-intrusive underground mapping through multi-sensor fusion, 3D imaging, and AI for precise and reliable infrastructure insights.",
+  "categoryId": 15,
+  "size": "m",
+  "logoFile": "logos/exodigo-logo.webp",
+  "websiteUrl": "https://www.exodigo.com/",
+  "careersUrl": "https://www.exodigo.com/careers",
+  "isHiring": true,
+  "linkedinId": "exodigo",
+  "crunchbaseId": null,
+  "finderId": "exodigo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 39,
+      "city": "תל אביב - יפו",
+      "lat": 32.0658477,
+      "lon": 34.7859941
+    }
+  ]
+}

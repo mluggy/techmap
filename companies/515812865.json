@@ -1,0 +1,23 @@
+{
+  "name": "Aivia",
+  "description": "Offering AI-powered image processing and analysis, this company enhances visualization and data extraction for microscopists and researchers.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/aivia-logo.webp",
+  "websiteUrl": "https://www.aivia-software.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "trais",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.070501,
+      "lon": 34.785145
+    }
+  ]
+}

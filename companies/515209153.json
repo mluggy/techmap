@@ -1,0 +1,23 @@
+{
+  "name": "Pickapp Farming",
+  "description": "This tool streamlines farm production, measuring yield and quality to enhance efficiency and maximize fruit value.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pickapp_farming-logo.webp",
+  "websiteUrl": "https://www.pickapp.farm/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pickapp-farming",
+  "crunchbaseId": null,
+  "finderId": "pickapp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברק",
+      "houseNumber": 91,
+      "city": "פארן",
+      "lat": 30.36109364164795,
+      "lon": 35.15546440424852
+    }
+  ]
+}

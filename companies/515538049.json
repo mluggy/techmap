@@ -1,0 +1,23 @@
+{
+  "name": "Viz Ai Israel",
+  "description": "We provide an AI-driven care coordination platform using FDA-approved algorithms to analyze medical imaging data.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/viz_ai_israel-logo.webp",
+  "websiteUrl": "https://www.viz.ai/",
+  "careersUrl": "https://www.viz.ai/careers",
+  "isHiring": true,
+  "linkedinId": "viz-ai",
+  "crunchbaseId": null,
+  "finderId": "viz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 150,
+      "city": "תל אביב - יפו",
+      "lat": 32.0608197,
+      "lon": 34.7771205
+    }
+  ]
+}

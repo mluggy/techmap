@@ -1,0 +1,23 @@
+{
+  "name": "Katif Tech",
+  "description": "Dedicated to informing visitors about their mission and activities, this organization welcomes you to explore their online presence.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/katif_tech-logo.webp",
+  "websiteUrl": "https://www.elkatif.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "katif",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית אשל",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.7640993,
+      "lon": 35.2105929
+    }
+  ]
+}

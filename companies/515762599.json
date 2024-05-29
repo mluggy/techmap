@@ -1,0 +1,23 @@
+{
+  "name": "Data Harbor",
+  "description": "Leveraging expertise from over 700 projects, this company specializes in machine learning and predictive big data technologies.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/data_harbor-logo.webp",
+  "websiteUrl": "https://www.dataharbor.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "data-harbor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תוצרת הארץ",
+      "houseNumber": 3,
+      "city": "פתח תקווה",
+      "lat": 32.0900013,
+      "lon": 34.8601803
+    }
+  ]
+}

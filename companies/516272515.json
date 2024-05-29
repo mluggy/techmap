@@ -1,0 +1,23 @@
+{
+  "name": "Via Diamonds",
+  "description": "Offering an all-in-one solution for keyboard configuration, testing, and design.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/via_diamonds-logo.webp",
+  "websiteUrl": "https://caniusevia.com/",
+  "careersUrl": "https://ridewithvia.com/careers/jobs",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "via",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יעקב רוזן",
+      "houseNumber": 4,
+      "city": "רמת גן",
+      "lat": 32.05713037084251,
+      "lon": 34.81505358926541
+    }
+  ]
+}

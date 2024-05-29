@@ -1,0 +1,23 @@
+{
+  "name": "Darrow AI",
+  "description": "Linking you to high-impact cases efficiently, saving time and letting you focus on your legal expertise.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/darrow_ai-logo.webp",
+  "websiteUrl": "https://www.darrow.ai/",
+  "careersUrl": "https://www.darrow.ai/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "darrow",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.065253,
+      "lon": 34.785664
+    }
+  ]
+}

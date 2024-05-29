@@ -1,0 +1,23 @@
+{
+  "name": "Housetable",
+  "description": "A tech firm offering lending software to independent lenders through a hosted application process without directly making credit decisions.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/housetable-logo.webp",
+  "websiteUrl": "https://www.housetable.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "housetable",
+  "crunchbaseId": null,
+  "finderId": "housetable",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 39,
+      "city": "תל אביב - יפו",
+      "lat": 32.0658477,
+      "lon": 34.7859941
+    }
+  ]
+}

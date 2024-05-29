@@ -1,0 +1,23 @@
+{
+  "name": "Blix",
+  "description": "A free, ad-free, HD streaming platform offering the latest movies and TV shows without requiring registration.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/blix-logo.webp",
+  "websiteUrl": "https://w1.nites.is/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "blix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גלוסקין",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.086556,
+      "lon": 34.793352
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sunshine Robotics",
+  "description": "This free service instantly translates words, phrases, and web pages from Japanese to over 100 other languages.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/sunshine_robotics-logo.webp",
+  "websiteUrl": "https://translate.google.co.jp/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sunshine-robotics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין מנחם",
+      "houseNumber": 56,
+      "city": "פתח תקווה",
+      "lat": 32.0766126,
+      "lon": 34.9050459
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Paragate Medical",
+  "description": "A minimally invasive, implantable device that continuously removes excess fluid from the body, functioning as a mechanical kidney bypass.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/paragate_medical-logo.webp",
+  "websiteUrl": "https://paragate-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "paragate-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 57,
+      "city": "חיפה",
+      "lat": 32.823617,
+      "lon": 34.9928356
+    }
+  ]
+}

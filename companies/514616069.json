@@ -1,0 +1,23 @@
+{
+  "name": "Rodradar",
+  "description": "A patented ground-penetrating radar platform offering real-time, automatic underground utility detection to ensure safe and reliable excavations.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/rodradar-logo.webp",
+  "websiteUrl": "https://rodradar.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rod-radar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרימון",
+      "houseNumber": 59,
+      "city": "רינתיה",
+      "lat": 32.044338932493076,
+      "lon": 34.93225791803845
+    }
+  ]
+}

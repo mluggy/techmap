@@ -1,0 +1,23 @@
+{
+  "name": "Chegg M E",
+  "description": "Offering AI-driven learning tools backed by human expertise to answer numerous questions efficiently.",
+  "categoryId": 1,
+  "size": "xl",
+  "logoFile": "logos/chegg_m_e-logo.webp",
+  "websiteUrl": "https://www.chegg.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "chegg",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אופנהיימר",
+      "houseNumber": 4,
+      "city": "רחובות",
+      "lat": 31.9104321,
+      "lon": 34.8058374
+    }
+  ]
+}

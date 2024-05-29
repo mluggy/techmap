@@ -1,0 +1,23 @@
+{
+  "name": "Wellbe Digital",
+  "description": "Providing comprehensive risk management services to address critical employee illnesses, traffic incidents, and natural disasters through emergency response and preventive measures.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/wellbe_digital-logo.webp",
+  "websiteUrl": "https://wellbemedic.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wellbe",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "איכסאל",
+      "houseNumber": 4060,
+      "city": "נצרת",
+      "lat": 32.697093,
+      "lon": 35.3028905
+    }
+  ]
+}

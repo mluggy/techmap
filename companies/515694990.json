@@ -1,0 +1,23 @@
+{
+  "name": "Nexite",
+  "description": "Revolutionizing retail, our technology enables automated item verification, re-arming alarms, and streamlined shipping from the nearest store for faster deliveries.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/nexite-logo.webp",
+  "websiteUrl": "https://nexite.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nexite",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 126,
+      "city": "תל אביב - יפו",
+      "lat": 32.074473,
+      "lon": 34.795669
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "12 Trix",
+  "description": "אפליקציה שמחזירה תלמידים מתקשים במסלול המתמטיקה לתהליך למידה עם הבנה והצלחה.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/12_trix-logo.webp",
+  "websiteUrl": "https://12trix.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "12trix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השרביט",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.041808,
+      "lon": 34.777102
+    }
+  ]
+}

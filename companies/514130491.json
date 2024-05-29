@@ -1,0 +1,23 @@
+{
+  "name": "Jfrog",
+  "description": "They provide an end-to-end solution for automatically delivering secure software updates from build to production across all devices.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/jfrog-logo.webp",
+  "websiteUrl": "https://jfrog.com/",
+  "careersUrl": "https://join.jfrog.com/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jfrog",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המחשב",
+      "houseNumber": 3,
+      "city": "נתניה",
+      "lat": 32.288215199999996,
+      "lon": 34.86509507625543
+    }
+  ]
+}

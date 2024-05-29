@@ -1,0 +1,23 @@
+{
+  "name": "Gong Io",
+  "description": "With offices in both Atlanta and Chicago, this company operates from 756 West Peachtree Street and 167 North Green Street, respectively.",
+  "categoryId": 1,
+  "size": "l",
+  "logoFile": "logos/gong_io-logo.webp",
+  "websiteUrl": "https://www.gong.io/",
+  "careersUrl": "https://www.gong.io/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gong-io",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

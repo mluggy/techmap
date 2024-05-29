@@ -1,0 +1,23 @@
+{
+  "name": "Radcom",
+  "description": "A company demonstrating substantial growth and providing insights into leveraging Generative AI for telecom operators.",
+  "categoryId": 18,
+  "size": "l",
+  "logoFile": "logos/radcom-logo.webp",
+  "websiteUrl": "https://radcom.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "radcom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ולנברג ראול",
+      "houseNumber": 24,
+      "city": "תל אביב - יפו",
+      "lat": 32.111205,
+      "lon": 34.8388694
+    }
+  ]
+}

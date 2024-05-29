@@ -1,0 +1,23 @@
+{
+  "name": "High Sec Labs",
+  "description": "Isolation of Networks and Peripherals.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/high_sec_labs-logo.webp",
+  "websiteUrl": "https://highseclabs.com/",
+  "careersUrl": "https://highseclabs.com/jobs/",
+  "isHiring": true,
+  "linkedinId": "high-sec-labs-ltd.",
+  "crunchbaseId": "high-sec-labs",
+  "finderId": "high-sec-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון התבור",
+      "houseNumber": 20,
+      "city": "קיסריה",
+      "lat": 32.4751687,
+      "lon": 34.9492533
+    }
+  ]
+}

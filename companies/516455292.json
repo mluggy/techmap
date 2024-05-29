@@ -1,0 +1,23 @@
+{
+  "name": "Coho AI",
+  "description": "Providing dynamic, evolving personalizations using real-time insights to keep strategies relevant and impactful.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/coho_ai-logo.webp",
+  "websiteUrl": "https://www.coho.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "coho-ai",
+  "crunchbaseId": null,
+  "finderId": "coho-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.065253,
+      "lon": 34.785664
+    }
+  ]
+}

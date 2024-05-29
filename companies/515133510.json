@@ -1,0 +1,23 @@
+{
+  "name": "Source Defense",
+  "description": "This company combines advanced machine learning with expert oversight to ensure seamless, stress-free security.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/source_defense-logo.webp",
+  "websiteUrl": "https://sourcedefense.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "source-defense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 12,
+      "city": "ראש העין",
+      "lat": 32.09668,
+      "lon": 34.9066455
+    }
+  ]
+}

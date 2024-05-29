@@ -1,0 +1,23 @@
+{
+  "name": "Jastok",
+  "description": "Mobile Calls with Video.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/jastok-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "jastok",
+  "finderId": "jastok",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אסירי ציון",
+      "houseNumber": 17,
+      "city": "פתח תקווה",
+      "lat": 32.0946695,
+      "lon": 34.8735904
+    }
+  ]
+}

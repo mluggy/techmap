@@ -1,0 +1,23 @@
+{
+  "name": "Replantin",
+  "description": "An ag-food tech company offering data-driven, fully automated vending machines for year-round fresh produce inside retailers and restaurants.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/replantin-logo.webp",
+  "websiteUrl": "https://replantin.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "replantin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהודה הלוי",
+      "houseNumber": 61,
+      "city": "רעננה",
+      "lat": 32.178445,
+      "lon": 34.8653352
+    }
+  ]
+}

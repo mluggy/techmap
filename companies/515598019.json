@@ -1,0 +1,23 @@
+{
+  "name": "Selfit Medical",
+  "description": "Intelligent online therapy solution designed for older adults.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/selfit_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "selfit-medical",
+  "crunchbaseId": "selfit-medical",
+  "finderId": "selfit-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סוקולוב",
+      "houseNumber": 64,
+      "city": "רמת השרון",
+      "lat": 32.144916,
+      "lon": 34.83844968838688
+    }
+  ]
+}

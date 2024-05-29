@@ -1,0 +1,23 @@
+{
+  "name": "Sizer Technologies",
+  "description": "This company provides precise body measurement analysis to offer highly accurate sizing recommendations for customers.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sizer_technologies-logo.webp",
+  "websiteUrl": "https://sizer.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sizer-body-pass",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 27,
+      "city": "הרצליה",
+      "lat": 32.1631522,
+      "lon": 34.81108964172513
+    }
+  ]
+}

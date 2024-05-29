@@ -1,0 +1,23 @@
+{
+  "name": "Together Pharma",
+  "description": "Medical Marijuana.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/together_pharma-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "together-pharma",
+  "crunchbaseId": null,
+  "finderId": "together-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חיים בר לב",
+      "houseNumber": 1,
+      "city": "מבקיעים",
+      "lat": 31.620708096789013,
+      "lon": 34.57644275117527
+    }
+  ]
+}

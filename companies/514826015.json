@@ -1,0 +1,23 @@
+{
+  "name": "Core Scientific Creations",
+  "description": "A free service that rapidly translates text and web pages between English and more than 100 languages.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/core_scientific_creations-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/?hl=en&tab=wT",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "core-scientific-creations",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחשון",
+      "houseNumber": 29,
+      "city": "פתח תקווה",
+      "lat": 32.1089082,
+      "lon": 34.8929843
+    }
+  ]
+}

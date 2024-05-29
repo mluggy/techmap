@@ -1,0 +1,23 @@
+{
+  "name": "Pink Park",
+  "description": "Transforming parking with a smart app for reserving, navigating, and paying for eco-friendly urban spots.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/pink_park-logo.webp",
+  "websiteUrl": "https://pinkpark.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pinkpark",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המפלסים",
+      "houseNumber": 17,
+      "city": "פתח תקווה",
+      "lat": 32.1015806,
+      "lon": 34.8635276
+    }
+  ]
+}

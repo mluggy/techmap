@@ -1,0 +1,23 @@
+{
+  "name": "Viably Capital",
+  "description": "Streamline business finances with an all-in-one platform offering banking, insights, and management tools.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/viably_capital-logo.webp",
+  "websiteUrl": "https://www.runviably.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "viably",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 16,
+      "city": "רמת גן",
+      "lat": 32.0861273,
+      "lon": 34.8054589
+    }
+  ]
+}

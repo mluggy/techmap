@@ -1,0 +1,23 @@
+{
+  "name": "Elevation Education",
+  "description": "Experience inspiring sermons online, connect with a community, and engage through local involvement and groups.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/elevation_education-logo.webp",
+  "websiteUrl": "https://elevationchurch.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "elevation",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.06641,
+      "lon": 34.785829
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Parknav",
+  "description": "Leveraging advanced AI and patented data science, this company delivers the most accurate and innovative parking availability and restriction information.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/parknav-logo.webp",
+  "websiteUrl": "https://parknav.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "parknav",
+  "crunchbaseId": null,
+  "finderId": "parknav",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלוף מגן קלמן",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.07110345,
+      "lon": 34.78706174292169
+    }
+  ]
+}

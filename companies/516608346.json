@@ -1,0 +1,23 @@
+{
+  "name": "Inertial Fusion",
+  "description": "Energy from Fusion.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/inertial_fusion-logo.webp",
+  "websiteUrl": "https://firstlightfusion.com/",
+  "careersUrl": "https://firstlightfusion.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "inertial-fusion",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אהרונוביץ",
+      "houseNumber": 1,
+      "city": "חולון",
+      "lat": 32.0116735,
+      "lon": 34.7696013
+    }
+  ]
+}

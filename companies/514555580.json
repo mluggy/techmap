@@ -1,0 +1,23 @@
+{
+  "name": "Gelt Simple",
+  "description": "Offering tech-driven, expert CPA-backed premium tax solutions.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/gelt_simple-logo.webp",
+  "websiteUrl": "https://www.joingelt.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gelt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחלת יצחק",
+      "houseNumber": 32,
+      "city": "תל אביב - יפו",
+      "lat": 32.073975,
+      "lon": 34.79994
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Seetrue Screening",
+  "description": "They offer AI-driven threat detection solutions for security screening by integrating with existing X-ray and CT systems.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/seetrue_screening-logo.webp",
+  "websiteUrl": "https://seetrue.ai/",
+  "careersUrl": "https://seetrue.ai/careers/",
+  "isHiring": true,
+  "linkedinId": "seetrue-ai",
+  "crunchbaseId": null,
+  "finderId": "seetrue",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

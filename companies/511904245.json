@@ -1,0 +1,23 @@
+{
+  "name": "Alpha Omega Engineering",
+  "description": "Promoting excellence in medical education to enhance patient care for everyone.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/alpha_omega_engineering-logo.webp",
+  "websiteUrl": "https://www.alphaomegaalpha.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "alpha-omega",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המרכבה",
+      "houseNumber": 6,
+      "city": "נוף הגליל",
+      "lat": 32.763062,
+      "lon": 35.319556
+    }
+  ]
+}

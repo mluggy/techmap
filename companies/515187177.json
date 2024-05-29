@@ -1,0 +1,23 @@
+{
+  "name": "Legalup",
+  "description": "Revolutionizing legal document creation with automated smart wizards tailored to your firm's expertise.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/legalup-logo.webp",
+  "websiteUrl": "https://legalup.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "legalup-automation",
+  "crunchbaseId": null,
+  "finderId": "legalup",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בארי",
+      "houseNumber": 26,
+      "city": "תל אביב - יפו",
+      "lat": 32.082946,
+      "lon": 34.788002
+    }
+  ]
+}

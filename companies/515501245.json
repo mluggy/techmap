@@ -1,0 +1,23 @@
+{
+  "name": "Barclays Dead Sea",
+  "description": "A leading British financial institution offering consumer, corporate, and investment banking services globally.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/barclays_dead_sea-logo.webp",
+  "websiteUrl": "https://home.barclays/",
+  "careersUrl": "https://home.barclays/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "barclays",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כנפי נשרים",
+      "houseNumber": 24,
+      "city": "ירושלים",
+      "lat": 31.787849,
+      "lon": 35.1866516
+    }
+  ]
+}

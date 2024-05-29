@@ -1,0 +1,23 @@
+{
+  "name": "Pointme",
+  "description": "A real-time search engine that discovers hidden award flights, compares options, and tracks reward balances for over 100 airlines.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/pointme-logo.webp",
+  "websiteUrl": "https://www.point.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pointme",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האנרגיה",
+      "houseNumber": 77,
+      "city": "באר שבע",
+      "lat": 31.263266,
+      "lon": 34.8105466
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "All My Faves",
+  "description": "Tool for Searching the Web Using Visuals.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/all_my_faves-logo.webp",
+  "websiteUrl": "https://allmyfaves.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "all-my-faves",
+  "crunchbaseId": null,
+  "finderId": "all-my-faves",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מבצע דקל",
+      "houseNumber": 6,
+      "city": "פתח תקווה",
+      "lat": 32.0944503,
+      "lon": 34.8699935
+    }
+  ]
+}

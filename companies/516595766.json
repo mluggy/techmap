@@ -1,0 +1,23 @@
+{
+  "name": "Fritz Logistics And Forwarding",
+  "description": "A top-rated Galena restaurant offering exceptional cuisine in a charming French bistro setting with outstanding ambiance and delightful service.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/fritz_logistics_and_forwarding-logo.webp",
+  "websiteUrl": "https://fritzandfrites.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fritz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרושת",
+      "houseNumber": 32,
+      "city": "אור יהודה",
+      "lat": 32.0216292,
+      "lon": 34.8648319
+    }
+  ]
+}

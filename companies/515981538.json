@@ -1,0 +1,23 @@
+{
+  "name": "Liposphere",
+  "description": "A biomedical start-up specializing in pioneering biolubricants using decades-long research from the Weizmann Institute of Science.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/liposphere-logo.webp",
+  "websiteUrl": "https://www.lipo-sphere.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "liposphere",
+  "crunchbaseId": null,
+  "finderId": "liposphere",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הערבה",
+      "houseNumber": 1,
+      "city": "גבעת שמואל",
+      "lat": 32.0836051,
+      "lon": 34.8551272
+    }
+  ]
+}

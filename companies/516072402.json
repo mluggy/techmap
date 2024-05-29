@@ -1,0 +1,23 @@
+{
+  "name": "Mtl 3 D",
+  "description": "Platform for 3D printing enthusiasts to access free models and informative articles.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/mtl_3_d-logo.webp",
+  "websiteUrl": "https://www.printables.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mtl-3d",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דבורה",
+      "houseNumber": 13,
+      "city": "קריית מוצקין",
+      "lat": 32.825888,
+      "lon": 35.0783758
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Safemode Mobility",
+  "description": "A rewards system designed specifically for the transportation sector.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/safemode_mobility-logo.webp",
+  "websiteUrl": "https://www.safemode.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "safemodemobility",
+  "crunchbaseId": "safemode",
+  "finderId": "safemode-mobility",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך קרית עמל",
+      "houseNumber": 22,
+      "city": "קריית טבעון",
+      "lat": 32.713332808649874,
+      "lon": 35.10385814624113
+    }
+  ]
+}

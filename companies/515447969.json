@@ -1,0 +1,23 @@
+{
+  "name": "Geshem Tov",
+  "description": "A platform for managing farm operations.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/geshem_tov-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "geshem",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שבטי ישראל",
+      "houseNumber": 42,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.8823599,
+      "lon": 34.9978258
+    }
+  ]
+}

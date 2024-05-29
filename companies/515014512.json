@@ -1,0 +1,23 @@
+{
+  "name": "Assembrix",
+  "description": "They provide secure, remote-controlled manufacturing with real-time updates and blockchain-based IP protection.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/assembrix-logo.webp",
+  "websiteUrl": "https://assembrix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "assembrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דגל ראובן",
+      "houseNumber": 26,
+      "city": "פתח תקווה",
+      "lat": 32.0820487,
+      "lon": 34.875189742619355
+    }
+  ]
+}

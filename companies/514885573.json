@@ -1,0 +1,23 @@
+{
+  "name": "Tellavista",
+  "description": "Platform for Reserving Vacation Apartments Online.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/tellavista-logo.webp",
+  "websiteUrl": "https://www.tellavista.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "tellavista",
+  "crunchbaseId": "tellavista",
+  "finderId": "tellavista",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רענן",
+      "houseNumber": 22,
+      "city": "תל אביב - יפו",
+      "lat": 32.059056,
+      "lon": 34.7689
+    }
+  ]
+}

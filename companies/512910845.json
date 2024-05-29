@@ -1,0 +1,23 @@
+{
+  "name": "Celebros",
+  "description": "Providing Ecommerce Search Solutions.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/celebros-logo.webp",
+  "websiteUrl": "https://www.celebros.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "celebros",
+  "crunchbaseId": "celebros",
+  "finderId": "celebros-conversion-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התשבי",
+      "houseNumber": 86,
+      "city": "חיפה",
+      "lat": 32.8163005,
+      "lon": 34.9784694
+    }
+  ]
+}

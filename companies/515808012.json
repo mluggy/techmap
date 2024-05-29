@@ -1,0 +1,23 @@
+{
+  "name": "Indoor Robotics",
+  "description": "A completely automated fleet of drones designed for indoor use.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/indoor_robotics-logo.webp",
+  "websiteUrl": "https://www.indoor-robotics.com/",
+  "careersUrl": "https://www.indoor-robotics.com/careers/",
+  "isHiring": true,
+  "linkedinId": "indoorrobotics",
+  "crunchbaseId": "indoor-robotics",
+  "finderId": "indoor-robotics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08254365,
+      "lon": 34.801384906098356
+    }
+  ]
+}

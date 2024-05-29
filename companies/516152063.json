@@ -1,0 +1,23 @@
+{
+  "name": "Medime",
+  "description": "An innovative insurtech platform revolutionizing the analysis and comparison of health insurance policies for Israeli agencies.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/medime-logo.webp",
+  "websiteUrl": "https://themedime.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medime",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנחם",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.0876155,
+      "lon": 34.8248832
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Robotai",
+  "description": "Specializing in 3D pose estimation using calibrated RGB images, this software offers reliable single-model object analysis.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/robotai-logo.webp",
+  "websiteUrl": "https://www.robotai.info/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "robotai",
+  "crunchbaseId": null,
+  "finderId": "robotai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כורי",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.8164663,
+      "lon": 34.9960434
+    }
+  ]
+}

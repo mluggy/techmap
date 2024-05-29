@@ -1,0 +1,23 @@
+{
+  "name": "Trendemon",
+  "description": "This company deciphers and tracks long-term website visitor journeys to optimize persona and company-level targeting.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/trendemon-logo.webp",
+  "websiteUrl": "https://trendemon.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "trendemon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריק לביא",
+      "houseNumber": 1,
+      "city": "נתניה",
+      "lat": 32.28012507877716,
+      "lon": 34.84391910372631
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Collega",
+  "description": "A creative hub in Copenhagen dedicated to the arts.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/collega_ltd-logo.webp",
+  "websiteUrl": "https://collega.dk/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "collega",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אדם",
+      "houseNumber": 41,
+      "city": "ירושלים",
+      "lat": 31.7490202,
+      "lon": 35.2292361
+    }
+  ]
+}

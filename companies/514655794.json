@@ -1,0 +1,23 @@
+{
+  "name": "Vortex Energy",
+  "description": "A pioneering external energy supplier specializing in smart energy management and energy efficiency projects.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/vortex_energy-logo.webp",
+  "websiteUrl": "https://vor.co.il/?lang=en",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vortex-energy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התאנים",
+      "houseNumber": 16,
+      "city": "חדרה",
+      "lat": 32.4165353,
+      "lon": 34.9518441
+    }
+  ]
+}

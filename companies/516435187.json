@@ -1,0 +1,23 @@
+{
+  "name": "Sharksense",
+  "description": "Specializing in early drone detection, this company offers a compact, affordable, and patented technology that operates passively and is resilient to jamming and adverse weather conditions.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/sharksense-logo.webp",
+  "websiteUrl": "https://www.sharksense.tech/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sharksensedigital",
+  "crunchbaseId": null,
+  "finderId": "sharksense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבוצקי",
+      "houseNumber": 8,
+      "city": "רעננה",
+      "lat": 32.1861232,
+      "lon": 34.8866394
+    }
+  ]
+}

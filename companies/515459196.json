@@ -1,0 +1,23 @@
+{
+  "name": "Pure Blue Fish",
+  "description": "A free service that provides instant translation for text and web pages across more than 100 languages.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/pure_blue_fish-logo.webp",
+  "websiteUrl": "https://translate.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pure-blue-fish",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מעגל הרימון",
+      "houseNumber": 101,
+      "city": "ירוחם",
+      "lat": 30.99004650178298,
+      "lon": 34.9207838195407
+    }
+  ]
+}

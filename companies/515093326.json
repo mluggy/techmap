@@ -1,0 +1,23 @@
+{
+  "name": "Tailor Brands",
+  "description": "Our innovative platform offers essential tools and personalized guidance to help establish and grow your business.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/tailor_brands-logo.webp",
+  "websiteUrl": "https://www.tailorbrands.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tailor-brands",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלנבי",
+      "houseNumber": 113,
+      "city": "תל אביב - יפו",
+      "lat": 32.062766,
+      "lon": 34.773452
+    }
+  ]
+}

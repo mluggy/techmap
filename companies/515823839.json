@@ -1,0 +1,23 @@
+{
+  "name": "Pangea Biomed",
+  "description": "The platform reveals tumor vulnerabilities by integrating functional genetic interactions with diverse biological data, constructing comprehensive gene networks for clinical insights.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/pangea_biomed-logo.webp",
+  "websiteUrl": "https://pangeabiomed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pangea-biomed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.106408,
+      "lon": 34.833651
+    }
+  ]
+}

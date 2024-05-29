@@ -1,0 +1,23 @@
+{
+  "name": "Claydo Lab",
+  "description": "A platform for showcasing and distributing digital artwork.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/claydo_lab-logo.webp",
+  "websiteUrl": "https://claydo.app/",
+  "careersUrl": "https://www.niio.com/site/jobs/",
+  "isHiring": true,
+  "linkedinId": "claydo-lab",
+  "crunchbaseId": "claydo-lab-niio",
+  "finderId": "claydo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התעשיה",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.067271,
+      "lon": 34.78668
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Neolithics",
+  "description": "Fresh Produce Quality Assurance Services.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/neolithics-logo.webp",
+  "websiteUrl": "https://www.neolithics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "neolithics-ai",
+  "crunchbaseId": "neolithics",
+  "finderId": "neolithics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "0",
+      "houseNumber": null,
+      "city": "כפר סירקין",
+      "lat": 32.0777377,
+      "lon": 34.9235073
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mobb Dev",
+  "description": "Leveraging AI, their technology streamlines vulnerability fixes to minimize security delays, allowing developers more time for innovation.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/mobb_dev-logo.webp",
+  "websiteUrl": "https://mobb.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mobb",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מדינת היהודים",
+      "houseNumber": 89,
+      "city": "הרצליה",
+      "lat": 32.1664377,
+      "lon": 34.8105544
+    }
+  ]
+}

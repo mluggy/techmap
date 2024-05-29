@@ -1,0 +1,23 @@
+{
+  "name": "Mastercard Israel Subsidiary",
+  "description": "Provides Mastercard cardholders with unique experiences and valuable deals in various cities.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/mastercard_israel_subsidiary-logo.webp",
+  "websiteUrl": "https://www.priceless.com/",
+  "careersUrl": "https://careers.mastercard.com/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mastercard",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 21,
+      "city": "רמת גן",
+      "lat": 32.0884232,
+      "lon": 34.8074677
+    }
+  ]
+}

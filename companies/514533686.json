@@ -1,0 +1,23 @@
+{
+  "name": "Ionir Systems",
+  "description": "Accelerate enterprise data management with a Kubernetes-optimized data services platform.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/ionir_systems-logo.webp",
+  "websiteUrl": "https://ionir.com/",
+  "careersUrl": "https://ionir.com/careers/",
+  "isHiring": true,
+  "linkedinId": "ionir",
+  "crunchbaseId": "reduxio",
+  "finderId": "reduxio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנורת המאור",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.074448,
+      "lon": 34.796408
+    }
+  ]
+}

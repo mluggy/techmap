@@ -1,0 +1,23 @@
+{
+  "name": "Quttera",
+  "description": "Provides free online tools for malware detection, threat monitoring, and security analysis of websites and domains.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/quttera-logo.webp",
+  "websiteUrl": "https://quttera.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "quttera",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שבט שמעון",
+      "houseNumber": 15,
+      "city": "אשדוד",
+      "lat": 31.779193654952387,
+      "lon": 34.63515557453088
+    }
+  ]
+}

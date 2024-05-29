@@ -1,0 +1,23 @@
+{
+  "name": "Verix",
+  "description": "The platform equips businesses with market insights and timely messaging tools for effective decision-making and operational focus.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/verix-logo.webp",
+  "websiteUrl": "https://verix.com/",
+  "careersUrl": "https://verix.com/careers/",
+  "isHiring": true,
+  "linkedinId": "verix",
+  "crunchbaseId": "verix",
+  "finderId": "verix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריק איינשטיין",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1630763,
+      "lon": 34.8150141
+    }
+  ]
+}

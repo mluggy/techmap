@@ -1,0 +1,23 @@
+{
+  "name": "Enigmai",
+  "description": "Employee Management Tools.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/enigmai-logo.webp",
+  "websiteUrl": "http://www.enigmaicavaliers.co.uk/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "enigmai",
+  "crunchbaseId": "enigmai",
+  "finderId": "enigmai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אהוד מנור",
+      "houseNumber": 4,
+      "city": "כפר יונה",
+      "lat": 32.3224107,
+      "lon": 34.9378512
+    }
+  ]
+}

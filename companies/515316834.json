@@ -1,0 +1,23 @@
+{
+  "name": "V Check",
+  "description": "A digital platform streamlining transactions for businesses and individuals by replacing paper checks with convenient, minimal-effort electronic solutions.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/v_check-logo.webp",
+  "websiteUrl": "https://v-check.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "v-check",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פקיעין",
+      "houseNumber": 6,
+      "city": "רחובות",
+      "lat": 31.8927607,
+      "lon": 34.7733717
+    }
+  ]
+}

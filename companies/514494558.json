@@ -1,0 +1,23 @@
+{
+  "name": "Vcita Systems",
+  "description": "An intuitive app for comprehensive business management that enhances client experience, ensures timely payments, and saves time.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/vcita_systems-logo.webp",
+  "websiteUrl": "https://www.vcita.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vcita",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 32,
+      "city": "תל אביב - יפו",
+      "lat": 32.1103013,
+      "lon": 34.8420657
+    }
+  ]
+}

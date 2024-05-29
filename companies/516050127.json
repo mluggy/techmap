@@ -1,0 +1,23 @@
+{
+  "name": "Pocoz Israel",
+  "description": "Offering vinyl and CD reissues, they're bringing classic music back to life.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/pocoz_israel-logo.webp",
+  "websiteUrl": "https://pocoband.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pocoz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בני בנימין",
+      "houseNumber": 23,
+      "city": "אבן יהודה",
+      "lat": 32.2677732,
+      "lon": 34.8861844
+    }
+  ]
+}

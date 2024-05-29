@@ -1,0 +1,23 @@
+{
+  "name": "Gingerbit",
+  "description": "Comprehensive insurance and management solutions for both business and personal travel.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/gingerbit-logo.webp",
+  "websiteUrl": "https://www.gingerbit.co.il/?lang=en",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gingerbit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.081313,
+      "lon": 34.781527
+    }
+  ]
+}

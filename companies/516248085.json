@@ -1,0 +1,23 @@
+{
+  "name": "Yeap",
+  "description": "Proteins derived from yeast for use in plant-based meat alternatives.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/yeap-logo.webp",
+  "websiteUrl": "https://yeap-proteins.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "yeap",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבושם",
+      "houseNumber": 3,
+      "city": "אשדוד",
+      "lat": 31.81932655,
+      "lon": 34.666914500510586
+    }
+  ]
+}

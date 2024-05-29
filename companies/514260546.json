@@ -1,0 +1,23 @@
+{
+  "name": "Fooducate",
+  "description": "A comprehensive health and diet app for better eating, weight loss, and overall wellness, accessible on multiple platforms.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/fooducate-logo.webp",
+  "websiteUrl": "https://www.fooducate.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fooducate",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ביאליק",
+      "houseNumber": 28,
+      "city": "הוד השרון",
+      "lat": 32.1611065,
+      "lon": 34.887705
+    }
+  ]
+}

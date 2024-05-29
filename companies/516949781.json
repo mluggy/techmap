@@ -1,0 +1,23 @@
+{
+  "name": "Converge Bio",
+  "description": "This service is an essential productivity tool that combines a world clock, time zone converter, and online meeting scheduler for frequent travelers and remote communication needs.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/converge_bio-logo.webp",
+  "websiteUrl": "https://www.worldtimebuddy.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "converge-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 192,
+      "city": "תל אביב - יפו",
+      "lat": 32.0953522,
+      "lon": 34.7838791
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Eyejets",
+  "description": "Innovative eyewear seamlessly integrates digital displays and real-world views through cutting-edge retinal technology and eye-tracking.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/eyejets-logo.webp",
+  "websiteUrl": "https://eyejets.net/",
+  "careersUrl": "https://eyejets.net/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eyejets",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכלנית",
+      "houseNumber": 510,
+      "city": "קדרון",
+      "lat": 31.81160747266229,
+      "lon": 34.797861745138356
+    }
+  ]
+}

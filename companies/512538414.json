@@ -1,0 +1,23 @@
+{
+  "name": "Finn Partners Israel",
+  "description": "A leading global marketing agency providing comprehensive integrated services to diverse industries.",
+  "categoryId": 2,
+  "size": "l",
+  "logoFile": "logos/finn_partners_israel-logo.webp",
+  "websiteUrl": "https://www.finnpartners.com/",
+  "careersUrl": "https://www.finnpartners.com/careers/",
+  "isHiring": true,
+  "linkedinId": "finn-partners",
+  "crunchbaseId": null,
+  "finderId": "finn-partners",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרטום",
+      "houseNumber": 8,
+      "city": "ירושלים",
+      "lat": 31.80289,
+      "lon": 35.2133925
+    }
+  ]
+}

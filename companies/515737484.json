@@ -1,0 +1,23 @@
+{
+  "name": "Treat It",
+  "description": "A mobile app offering convenient, professional phone-based psychological counseling.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/treat_it-logo.webp",
+  "websiteUrl": "https://www.treatit.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "treat-it",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדה יצחק",
+      "houseNumber": 11,
+      "city": "פתח תקווה",
+      "lat": 32.0888605,
+      "lon": 34.8776693
+    }
+  ]
+}

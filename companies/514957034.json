@@ -1,0 +1,23 @@
+{
+  "name": "Corsens Medical",
+  "description": "A company developed a non-invasive monitor to detect myocardial vibrations and cardiac contractility through advanced sensors.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/corsens_medical-logo.webp",
+  "websiteUrl": "https://corsensmed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "corsens-medical",
+  "crunchbaseId": null,
+  "finderId": "corsens-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דן",
+      "houseNumber": 63,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.8893007,
+      "lon": 35.0030754
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Supertenant",
+  "description": "Automatically collects and analyzes per-tenant utilization and performance data to instantly detect degradations and optimize capacity.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/supertenant-logo.webp",
+  "websiteUrl": "https://www.supertenant.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "supertenant",
+  "crunchbaseId": "supertenant",
+  "finderId": "supertenant",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

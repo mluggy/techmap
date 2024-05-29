@@ -1,0 +1,23 @@
+{
+  "name": "Lg Galil",
+  "description": "A global leader in HVAC, providing top-tier heating and cooling solutions for both commercial and residential needs.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/lg_galil-logo.webp",
+  "websiteUrl": "https://lghvac.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lg",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגדנ\"ע",
+      "houseNumber": 8,
+      "city": "רעננה",
+      "lat": 32.1860961,
+      "lon": 34.8808317
+    }
+  ]
+}

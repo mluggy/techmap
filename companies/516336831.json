@@ -1,0 +1,23 @@
+{
+  "name": "Ludeo",
+  "description": "Connecting gamers through interactive game discovery, revolutionizing passive gaming content by blending play and highlights.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/ludeo-logo.webp",
+  "websiteUrl": "https://www.ludeo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "edge-academy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

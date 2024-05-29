@@ -1,0 +1,23 @@
+{
+  "name": "Informed Decisions",
+  "description": "Smart Interview Analytics Platform.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/informed_decisions-logo.webp",
+  "websiteUrl": "https://informedecisions.io/",
+  "careersUrl": "https://www.indeed.com/career-advice/career-development/informed-decision",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "informed-decisions",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולדברג לאה",
+      "houseNumber": 8,
+      "city": "באר יעקב",
+      "lat": 31.9420643,
+      "lon": 34.8468592
+    }
+  ]
+}

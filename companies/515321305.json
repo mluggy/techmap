@@ -1,0 +1,23 @@
+{
+  "name": "Homeconnex",
+  "description": "מציעה פתרון מקוון חדשני לבחירת פריטים, מעקב תשלומים ובנייה עבור רוכשי דירות.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/homeconnex-logo.webp",
+  "websiteUrl": "https://www.home-connex.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "home-connex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יפו",
+      "houseNumber": 216,
+      "city": "ירושלים",
+      "lat": 31.7890021,
+      "lon": 35.2053137
+    }
+  ]
+}

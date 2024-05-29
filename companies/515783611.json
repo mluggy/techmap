@@ -1,0 +1,23 @@
+{
+  "name": "Cympire",
+  "description": "Provide interactive, competitive cybersecurity training through simulated real-world attack scenarios.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/cympire-logo.webp",
+  "websiteUrl": "https://cympire.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cympire",
+  "crunchbaseId": null,
+  "finderId": "cybersage",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנופר",
+      "houseNumber": 2,
+      "city": "רעננה",
+      "lat": 32.1942969,
+      "lon": 34.8850285
+    }
+  ]
+}

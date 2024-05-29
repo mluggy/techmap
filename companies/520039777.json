@@ -1,0 +1,23 @@
+{
+  "name": "Bonus Biogroup",
+  "description": "A biotechnology company that developed MesenCure, a treatment aiding recovery from severe respiratory distress and COVID-19.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/bonus_biogroup-logo.webp",
+  "websiteUrl": "https://bonus-bio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bonus-biogroup",
+  "crunchbaseId": null,
+  "finderId": "bonus-biogroup",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פארק מתם",
+      "houseNumber": 20,
+      "city": "חיפה",
+      "lat": 32.78602084920325,
+      "lon": 34.959947224405724
+    }
+  ]
+}

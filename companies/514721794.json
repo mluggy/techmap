@@ -1,0 +1,23 @@
+{
+  "name": "Captain Up",
+  "description": "Utilizing big data and trigger-based marketing, this platform optimizes user engagement by delivering personalized, secure experiences.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/captain_up-logo.webp",
+  "websiteUrl": "https://captainup.com/?ref=toole.io",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "captain-up",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברנדיס",
+      "houseNumber": 33,
+      "city": "תל אביב - יפו",
+      "lat": 32.094281,
+      "lon": 34.787039
+    }
+  ]
+}

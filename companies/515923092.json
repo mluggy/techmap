@@ -1,0 +1,23 @@
+{
+  "name": "Lingopie",
+  "description": "Learn languages by watching TV shows and movies.",
+  "categoryId": 8,
+  "size": "m",
+  "logoFile": "logos/lingopie-logo.webp",
+  "websiteUrl": "https://lingopie.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lingopie",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרישמן",
+      "houseNumber": 75,
+      "city": "תל אביב - יפו",
+      "lat": 32.079681,
+      "lon": 34.779376
+    }
+  ]
+}

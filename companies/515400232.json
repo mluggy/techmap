@@ -1,0 +1,23 @@
+{
+  "name": "Loox Online",
+  "description": "A social proof marketing platform enabling over 100,000 Shopify merchants to grow their brands by leveraging real customer experiences.",
+  "categoryId": 2,
+  "size": "m",
+  "logoFile": "logos/loox_online-logo.webp",
+  "websiteUrl": "https://loox.app/",
+  "careersUrl": "https://loox.app/careers",
+  "isHiring": true,
+  "linkedinId": "loox",
+  "crunchbaseId": null,
+  "finderId": "loox",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0835579,
+      "lon": 34.8040988
+    }
+  ]
+}

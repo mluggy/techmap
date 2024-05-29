@@ -1,0 +1,23 @@
+{
+  "name": "Maygia",
+  "description": "Our innovative solution simultaneously generates electricity and treats water using air and hydrogen, resulting in net savings and reduced emissions.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/maygia-logo.webp",
+  "websiteUrl": "https://www.maygia.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "paragonh2",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קדושי בגדד",
+      "houseNumber": 39,
+      "city": "חיפה",
+      "lat": 32.8208931,
+      "lon": 34.9992356
+    }
+  ]
+}

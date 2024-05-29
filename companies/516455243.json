@@ -1,0 +1,23 @@
+{
+  "name": "Show Advertising",
+  "description": "Discover your favorite shoe and accessory brands with the convenience of free ground shipping on qualifying orders both in-store and online.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/show_advertising-logo.webp",
+  "websiteUrl": "https://www.shoeshowmega.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "show",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האלון",
+      "houseNumber": 35,
+      "city": "עץ אפרים",
+      "lat": 32.12064101949958,
+      "lon": 35.04364849063848
+    }
+  ]
+}

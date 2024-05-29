@@ -1,0 +1,23 @@
+{
+  "name": "Wobi Insurance Agency",
+  "description": "A premier global hub for business content, providing top executives with innovative management insights to drive exceptional organizational performance.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/wobi_insurance_agency-logo.webp",
+  "websiteUrl": "https://www.wobi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wobi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.0919976,
+      "lon": 34.8257445
+    }
+  ]
+}

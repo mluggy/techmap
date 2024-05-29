@@ -1,0 +1,23 @@
+{
+  "name": "Oberon Sciences Ilan",
+  "description": "A pioneering company started by visionary individuals focused on science-driven effectiveness.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/oberon_sciences_ilan-logo.webp",
+  "websiteUrl": "https://www.oberonsci.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "oberon-sciences",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון",
+      "houseNumber": 11,
+      "city": "כפר תבור",
+      "lat": 32.6924404,
+      "lon": 35.4148031
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sodyo",
+  "description": "A powerful tool for targeted content delivery based on customizable parameters like demographics and location.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/sodyo-logo.webp",
+  "websiteUrl": "https://www.sodyo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sodyo",
+  "crunchbaseId": null,
+  "finderId": "sodyo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

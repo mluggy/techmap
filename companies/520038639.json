@@ -1,0 +1,23 @@
+{
+  "name": "Thirdeye Systems",
+  "description": "Specializing in advanced object classification and recognition, this company leverages data science and electro-optical engineering to enhance third-party EO/IR systems with real-time analytics for Command and Control.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/thirdeye_systems-logo.webp",
+  "websiteUrl": "https://thirdeye-systems.com/",
+  "careersUrl": "https://thirdeye-systems.com/careers/",
+  "isHiring": true,
+  "linkedinId": "third-eye-systems-ltd-",
+  "crunchbaseId": null,
+  "finderId": "thirdeye-systems",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גאון בני",
+      "houseNumber": 12,
+      "city": "נתניה",
+      "lat": 32.274725,
+      "lon": 34.8619298
+    }
+  ]
+}

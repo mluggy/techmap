@@ -1,0 +1,23 @@
+{
+  "name": "Toonimo",
+  "description": "A company enhancing user interaction with Knowledge Bases through detailed reporting and an inclusive accessibility widget for optimal user experiences.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/toonimo-logo.webp",
+  "websiteUrl": "https://www.toonimo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "toonimo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השלום",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.072245,
+      "lon": 34.796049
+    }
+  ]
+}

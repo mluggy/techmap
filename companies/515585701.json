@@ -1,0 +1,23 @@
+{
+  "name": "Intsite",
+  "description": "Automating heavy machinery using AI technology.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/intsite-logo.webp",
+  "websiteUrl": "https://intsite-ai.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "intsite",
+  "crunchbaseId": "intsite",
+  "finderId": "intsite",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 10,
+      "city": "חיפה",
+      "lat": 32.773480649999996,
+      "lon": 35.00862094232633
+    }
+  ]
+}

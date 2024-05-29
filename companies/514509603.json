@@ -1,0 +1,23 @@
+{
+  "name": "Eyeyon Medical",
+  "description": "Innovative medical company revolutionizing eye care with drug-depot contact lenses and a breakthrough solution for corneal edema.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/eyeyon_medical-logo.webp",
+  "websiteUrl": "https://eye-yon.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eyeyon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולדה מאיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.9137859,
+      "lon": 34.8024773
+    }
+  ]
+}

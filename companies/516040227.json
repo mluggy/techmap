@@ -1,0 +1,23 @@
+{
+  "name": "Robodeck",
+  "description": "Innovatively merging robotics with decking expertise, this company creates affordable robots to simplify outdoor maintenance for enhanced enjoyment.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/robodeck-logo.webp",
+  "websiteUrl": "https://www.robo-deck.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "robodeck",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגפנים",
+      "houseNumber": 23,
+      "city": "כפר סירקין",
+      "lat": 32.0776534,
+      "lon": 34.9255176
+    }
+  ]
+}

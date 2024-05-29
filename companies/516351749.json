@@ -1,0 +1,23 @@
+{
+  "name": "Deliverider",
+  "description": "Logistics Services for the Intermediate Delivery Stage in E-commerce.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/deliverider-logo.webp",
+  "websiteUrl": "https://www.deliverider.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "deliverider",
+  "crunchbaseId": "deliverider",
+  "finderId": "deliverider",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד המעפילים",
+      "houseNumber": 10,
+      "city": "נס ציונה",
+      "lat": 31.9295603,
+      "lon": 34.7886688
+    }
+  ]
+}

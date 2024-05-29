@@ -1,0 +1,23 @@
+{
+  "name": "Bsp Medical",
+  "description": "A pioneering biomedical technology firm, revolutionizing non-invasive cardiac diagnostics with FDA cleared, CE marked HyperQ technology and innovative wearable devices.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/bsp_medical-logo.webp",
+  "websiteUrl": "https://www.bspmedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bsp-medical",
+  "crunchbaseId": "bsp-medical",
+  "finderId": "bsp-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0835543,
+      "lon": 34.8042074
+    }
+  ]
+}

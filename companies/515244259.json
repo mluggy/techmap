@@ -1,0 +1,23 @@
+{
+  "name": "Ipulse Medical",
+  "description": "A drug-free, clinically proven device providing instant relief from menstrual cramps by stimulating nerves to block pain.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ipulse_medical-logo.webp",
+  "websiteUrl": "https://mylivia.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ipulse-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רחל",
+      "houseNumber": 9,
+      "city": "טבריה",
+      "lat": 32.7952739,
+      "lon": 35.5303941
+    }
+  ]
+}

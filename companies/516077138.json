@@ -1,0 +1,23 @@
+{
+  "name": "Memotree",
+  "description": "Storing data within plants and seeds.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/memotree-logo.webp",
+  "websiteUrl": "https://www.memotree.info/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "memotree",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תרשיש",
+      "houseNumber": 2,
+      "city": "קריית שמונה",
+      "lat": 33.1957972,
+      "lon": 35.5757431
+    }
+  ]
+}

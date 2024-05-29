@@ -1,0 +1,23 @@
+{
+  "name": "Red C Biotech",
+  "description": "A pioneering biotech firm developing scalable, patented technology to produce universal red blood cells from stem cells, addressing global blood supply needs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/red_c_biotech-logo.webp",
+  "websiteUrl": "https://www.redcbiotech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "red-c-biotech-ltd.",
+  "crunchbaseId": null,
+  "finderId": "red-c-biotech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חרמש",
+      "houseNumber": 8,
+      "city": "בני ציון",
+      "lat": 32.2150194,
+      "lon": 34.8620964
+    }
+  ]
+}

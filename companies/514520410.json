@@ -1,0 +1,23 @@
+{
+  "name": "Bizzabo",
+  "description": "Providing event managers with a comprehensive, customizable platform to streamline planning and monitor outcomes effortlessly.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/bizzabo-logo.webp",
+  "websiteUrl": "https://www.bizzabo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bizzabo",
+  "crunchbaseId": null,
+  "finderId": "bizzabo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האומנים",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.071148,
+      "lon": 34.79519
+    }
+  ]
+}

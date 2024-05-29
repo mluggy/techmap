@@ -1,0 +1,23 @@
+{
+  "name": "Aerospike",
+  "description": "A real-time data platform providing high-performance, scalable, and reliable NoSQL database solutions for mission-critical applications.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/aerospike-logo.webp",
+  "websiteUrl": "https://aerospike.com/",
+  "careersUrl": "https://aerospike.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aerospike",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השלושה",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.0617382,
+      "lon": 34.7882304
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Insurmedix Israel",
+  "description": "An innovative digital insurance platform leveraging cutting-edge AI, machine learning, and advanced algorithms for seamless user experiences.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/insurmedix_israel-logo.webp",
+  "websiteUrl": "https://www.insurmedix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "insurmedix-inc",
+  "crunchbaseId": "insurmedix",
+  "finderId": "insurmedix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 11,
+      "city": "תל אביב - יפו",
+      "lat": 32.1075,
+      "lon": 34.836679
+    }
+  ]
+}

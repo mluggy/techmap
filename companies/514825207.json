@@ -1,0 +1,23 @@
+{
+  "name": "Magenta Medical",
+  "description": "We provide a minimally invasive, high-flow arterial pump designed for temporary cardiac support during high-risk coronary procedures and cardiogenic shock treatment.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/magenta_medical-logo.webp",
+  "websiteUrl": "https://magentamed.com/",
+  "careersUrl": "https://magentamed.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "magenta-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האופה",
+      "houseNumber": 1,
+      "city": "קדימה",
+      "lat": 32.2760519,
+      "lon": 34.9177744
+    }
+  ]
+}

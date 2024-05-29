@@ -1,0 +1,23 @@
+{
+  "name": "Comtainer",
+  "description": "This tech firm revolutionizes global consolidation with a real-time, online platform, replacing outdated manual processes and Excel, to manage the entire shipment cycle.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/comtainer-logo.webp",
+  "websiteUrl": "https://www.comtainer.tech/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "comtainer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המר זבולון",
+      "houseNumber": 20,
+      "city": "גדרה",
+      "lat": 31.8093624,
+      "lon": 34.789452
+    }
+  ]
+}

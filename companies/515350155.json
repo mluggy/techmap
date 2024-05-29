@@ -1,0 +1,23 @@
+{
+  "name": "Vast Data",
+  "description": "Partnering with VAST Data, we offer a cutting-edge, secure environment for high-speed and cost-effective compute tasks like machine learning and rendering.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/vast_data-logo.webp",
+  "websiteUrl": "https://www.vastdata.com/",
+  "careersUrl": "https://vastdata.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vast-data",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' רוקח",
+      "houseNumber": 97,
+      "city": "תל אביב - יפו",
+      "lat": 32.1043282,
+      "lon": 34.8088651
+    }
+  ]
+}

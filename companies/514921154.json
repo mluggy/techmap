@@ -1,0 +1,23 @@
+{
+  "name": "Medial Earlysign",
+  "description": "This company leverages advanced machine learning to convert real-world data into actionable, person-specific clinical insights.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/medial_earlysign-logo.webp",
+  "websiteUrl": "https://earlysign.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medial-earlysign",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנגר",
+      "houseNumber": 6,
+      "city": "הוד השרון",
+      "lat": 32.12984109999999,
+      "lon": 34.89354939995229
+    }
+  ]
+}

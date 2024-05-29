@@ -1,0 +1,23 @@
+{
+  "name": "Parkam Israel",
+  "description": "This company enhances existing CCTV systems to accurately monitor and manage parking spaces.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/parkam_israel-logo.webp",
+  "websiteUrl": "https://parkam.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "parkam",
+  "crunchbaseId": "parkam",
+  "finderId": "parkam",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנופר",
+      "houseNumber": 2,
+      "city": "רעננה",
+      "lat": 32.1942969,
+      "lon": 34.8850285
+    }
+  ]
+}

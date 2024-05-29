@@ -1,0 +1,23 @@
+{
+  "name": "Greeneum Net Israel",
+  "description": "A decentralized platform and marketplace enabling renewable energy management and fostering energy independence.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/greeneum_net_israel-logo.webp",
+  "websiteUrl": "https://www.greeneum.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "greeneum-network",
+  "finderId": "greeneum",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 55,
+      "city": "תל אביב - יפו",
+      "lat": 32.07777,
+      "lon": 34.781103
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Netafim",
+  "description": "Irrigation Solutions for Agriculture.",
+  "categoryId": 17,
+  "size": "l",
+  "logoFile": "logos/netafim-logo.webp",
+  "websiteUrl": "https://www.netafimusa.com/",
+  "careersUrl": "https://www.netafim.com/en/career/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "netafim",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השלום",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.071826,
+      "lon": 34.7958885
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Get In",
+  "description": "Bridging the gap between individuals and clubs.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/get_in-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "get-in",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 29,
+      "city": "תל אביב - יפו",
+      "lat": 32.0631483,
+      "lon": 34.7793569
+    }
+  ]
+}

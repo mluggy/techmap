@@ -1,0 +1,23 @@
+{
+  "name": "Gomake",
+  "description": "פלטפורמת רשת לקישור בין שותפים עסקיים תוך מתן כלים ותשתיות, ללא אחריות על ניהול הזמנות ואיכות עבודה.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/gomake-logo.webp",
+  "websiteUrl": "https://gomake.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gomake",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 45,
+      "city": "חיפה",
+      "lat": 32.819776250000004,
+      "lon": 34.9988252
+    }
+  ]
+}

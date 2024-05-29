@@ -1,0 +1,23 @@
+{
+  "name": "Fischer Pharmaceuticals",
+  "description": "Leading Israel's skincare and eye treatment market, this multinational group excels in advanced pharmaceutical and medical technologies.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/fischer_pharmaceuticals-logo.webp",
+  "websiteUrl": "https://dr-fischer.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dr-fischer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר יוחאי",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.07779465,
+      "lon": 34.8412762989794
+    }
+  ]
+}

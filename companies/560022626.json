@@ -1,0 +1,23 @@
+{
+  "name": "Tata Consultancy Services",
+  "description": "Tata Consultancy Services is a global leader in IT services, consulting, and business solutions, delivering transformational technology and digital strategies to clients across diverse industries.",
+  "categoryId": 1,
+  "size": "l",
+  "logoFile": "logos/tata_consultancy_services-logo.webp",
+  "websiteUrl": "https://www.tcs.com/",
+  "careersUrl": "https://www.tcs.com/careers/united-states",
+  "isHiring": true,
+  "linkedinId": "tata-consultancy-services",
+  "crunchbaseId": null,
+  "finderId": "tata-consultancy-services",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יצחק רבין",
+      "houseNumber": 1,
+      "city": "פתח תקווה",
+      "lat": 32.2101852,
+      "lon": 34.9650933
+    }
+  ]
+}

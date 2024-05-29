@@ -1,0 +1,23 @@
+{
+  "name": "Aidymo Cv",
+  "description": "The website restricts access to its description.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/aidymo_cv-logo.webp",
+  "websiteUrl": "https://aidymo-cv.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aidymo-cv",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שהם",
+      "houseNumber": null,
+      "city": "אשדוד",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

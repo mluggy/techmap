@@ -1,0 +1,23 @@
+{
+  "name": "Satixfy Communications",
+  "description": "Providing seamless connectivity for passengers anywhere, whether in-flight or at sea, using an advanced hybrid multi-beam, multi-constellation system.",
+  "categoryId": 3,
+  "size": "m",
+  "logoFile": "logos/satixfy_communications-logo.webp",
+  "websiteUrl": "https://www.satixfy.com/",
+  "careersUrl": "https://www.satixfy.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "satixfy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המדע",
+      "houseNumber": 12,
+      "city": "רחובות",
+      "lat": 31.9132762,
+      "lon": 34.8075468
+    }
+  ]
+}

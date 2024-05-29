@@ -1,0 +1,23 @@
+{
+  "name": "Littleone Care",
+  "description": "A top-rated 2023 baby monitor using AI to deliver 24/7 real-time alerts and parenting tips for your child's safety and happiness.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/littleone_care-logo.webp",
+  "websiteUrl": "https://www.littleone.care/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "littleone-care",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' בן ציון",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.073701,
+      "lon": 34.776519
+    }
+  ]
+}

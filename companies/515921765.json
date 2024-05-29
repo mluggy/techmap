@@ -1,0 +1,23 @@
+{
+  "name": "Guardio",
+  "description": "A lightweight browser extension that ensures fast, secure, and malware-free browsing while protecting your private information.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/guardio-logo.webp",
+  "websiteUrl": "https://guard.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "guardio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

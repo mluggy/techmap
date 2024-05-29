@@ -1,0 +1,23 @@
+{
+  "name": "Sweet Balance",
+  "description": "We specialize in creating custom sweetening solutions for food and beverage applications using our proprietary formula developed through extensive R&D.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sweet_balance-logo.webp",
+  "websiteUrl": "https://www.sweet-balance.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sweet-balance",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חצב",
+      "houseNumber": 30,
+      "city": "קריית שמונה",
+      "lat": 33.2115548,
+      "lon": 35.5787624
+    }
+  ]
+}

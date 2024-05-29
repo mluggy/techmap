@@ -1,0 +1,23 @@
+{
+  "name": "Biotax Labs",
+  "description": "A multidisciplinary expert with a background in software architecture, biology, and computer science, holding prestigious academic qualifications and accolades.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/biotax_labs-logo.webp",
+  "websiteUrl": "https://www.biotax.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "biotax",
+  "crunchbaseId": null,
+  "finderId": "biotax",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

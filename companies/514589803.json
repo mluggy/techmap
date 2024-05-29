@@ -1,0 +1,23 @@
+{
+  "name": "Mirobot",
+  "description": "Automates the entire milking process using advanced robotics, image processing, and dairy science for gentle yet robust milking.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/mirobot-logo.webp",
+  "websiteUrl": "https://www.mirobot.co.il/",
+  "careersUrl": "https://www.mirobot.co.il/jobs",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mirobot",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תמר",
+      "houseNumber": 27,
+      "city": "קריית טבעון",
+      "lat": 32.7343847,
+      "lon": 35.1470459
+    }
+  ]
+}

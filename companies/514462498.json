@@ -1,0 +1,23 @@
+{
+  "name": "Euclid System Engineering",
+  "description": "Participate in a community event featuring music, activities, local vendors, and food, all while supporting businesses on 200th and 185th Streets.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/euclid_system_engineering-logo.webp",
+  "websiteUrl": "https://www.cityofeuclid.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "euclid",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלה",
+      "houseNumber": 6,
+      "city": "בת חפר",
+      "lat": 32.3400708,
+      "lon": 35.0108993
+    }
+  ]
+}

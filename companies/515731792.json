@@ -1,0 +1,23 @@
+{
+  "name": "Epm Group Israel",
+  "description": "Empowering brokers with diverse mortgage options to better serve their clients.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/epm_group_israel-logo.webp",
+  "websiteUrl": "https://www.epmwholesale.com/",
+  "careersUrl": "https://www.epm-inc.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "epm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

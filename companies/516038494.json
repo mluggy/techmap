@@ -1,0 +1,23 @@
+{
+  "name": "Datarobot Israel",
+  "description": "A versatile platform that unifies generative and predictive AI workflows to meet diverse team needs.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/datarobot_israel-logo.webp",
+  "websiteUrl": "https://www.datarobot.com/",
+  "careersUrl": "https://www.datarobot.com/careers/",
+  "isHiring": true,
+  "linkedinId": "datarobot",
+  "crunchbaseId": "datarobot",
+  "finderId": "datarobot",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שברץ",
+      "houseNumber": 1,
+      "city": "רעננה",
+      "lat": 32.1790986,
+      "lon": 34.8813546
+    }
+  ]
+}

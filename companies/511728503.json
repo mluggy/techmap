@@ -1,0 +1,23 @@
+{
+  "name": "Radix Technologies",
+  "description": "Innovative tech company with a global presence and headquarters in Israel, specializing in advanced research and development.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/radix_technologies-logo.webp",
+  "websiteUrl": "https://www.radix-int.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "radix-technologies-ltd.",
+  "crunchbaseId": null,
+  "finderId": "radix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 1,
+      "city": "אור יהודה",
+      "lat": 32.0219471,
+      "lon": 34.8582471
+    }
+  ]
+}

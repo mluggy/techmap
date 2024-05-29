@@ -1,0 +1,23 @@
+{
+  "name": "Melingo",
+  "description": "Dynamic text analyzer that seamlessly extracts key information from free text.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/melingo_ltd-logo.webp",
+  "websiteUrl": "https://melingo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "melingo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תוצרת הארץ",
+      "houseNumber": 16,
+      "city": "תל אביב - יפו",
+      "lat": 32.072488,
+      "lon": 34.797205
+    }
+  ]
+}

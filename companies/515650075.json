@@ -1,0 +1,23 @@
+{
+  "name": "Sensepass",
+  "description": "Centralizing digital payments into one platform, our solution provides comprehensive activity views through various customer-facing tools and a unified dashboard.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/sensepass-logo.webp",
+  "websiteUrl": "https://sensepass.com/",
+  "careersUrl": "https://sensepass.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sensepass",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בני בנימין",
+      "houseNumber": 33,
+      "city": "נס ציונה",
+      "lat": 31.9128286,
+      "lon": 34.7940787
+    }
+  ]
+}

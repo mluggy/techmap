@@ -1,0 +1,23 @@
+{
+  "name": "Vyzer Financial Services",
+  "description": "Comprehensive platform offering investment tracking, financial planning, data insights, and document analysis for diverse portfolios.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/vyzer_financial_services-logo.webp",
+  "websiteUrl": "https://vyzer.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vyzerfinance",
+  "crunchbaseId": null,
+  "finderId": "vyzer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברמן בני",
+      "houseNumber": 2,
+      "city": "נתניה",
+      "lat": 32.2785135,
+      "lon": 34.8474165
+    }
+  ]
+}

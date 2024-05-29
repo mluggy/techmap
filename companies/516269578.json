@@ -1,0 +1,23 @@
+{
+  "name": "Femiguard",
+  "description": "This tool offers discreet, real-time location tracking to ensure the safety of your loved ones.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/femiguard-logo.webp",
+  "websiteUrl": "https://www.famiguard.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "femiguard-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זרחין אלכסנדר",
+      "houseNumber": 13,
+      "city": "רעננה",
+      "lat": 32.1976788,
+      "lon": 34.8811941
+    }
+  ]
+}

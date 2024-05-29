@@ -1,0 +1,23 @@
+{
+  "name": "Greenq",
+  "description": "This platform's recommendations engine enhances logistics with data-driven route optimization and provides user-friendly, comprehensive analytics accessible on any device.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/greenq-logo.webp",
+  "websiteUrl": "https://greenq.gq/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "greenq1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרופ רקח",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.7679937,
+      "lon": 35.1973517
+    }
+  ]
+}

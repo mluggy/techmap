@@ -1,0 +1,23 @@
+{
+  "name": "Beewizer",
+  "description": "An AI-powered app assists businesses in promptly collecting unpaid invoices through automated, humanoid avatars, seamlessly integrating with Zoho Books.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/beewizer-logo.webp",
+  "websiteUrl": "https://www.beewizer.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medwizer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בורוכוב",
+      "houseNumber": 9,
+      "city": "גבעתיים",
+      "lat": 32.07814535,
+      "lon": 34.8040678433258
+    }
+  ]
+}

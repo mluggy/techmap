@@ -1,0 +1,23 @@
+{
+  "name": "Phytech",
+  "description": "Optimize tree health and irrigation efficiency with stress maps, plant status updates, and precise irrigation recommendations from sensor data.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/phytech-logo.webp",
+  "websiteUrl": "https://www.phytech.com/",
+  "careersUrl": "https://www.phytech.com/careers",
+  "isHiring": true,
+  "linkedinId": "phytech-ltd",
+  "crunchbaseId": null,
+  "finderId": "phytech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1666204,
+      "lon": 34.9281644
+    }
+  ]
+}

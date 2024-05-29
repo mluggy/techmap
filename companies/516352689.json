@@ -1,0 +1,23 @@
+{
+  "name": "Dtect Vision",
+  "description": "Based in Tel Aviv, this company leverages advanced recognition technology to deliver innovative solutions for projects of any scale.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/dtect_vision-logo.webp",
+  "websiteUrl": "https://www.dtectvision.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dtect-vision",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מרדכי (מוטה) גור",
+      "houseNumber": 54,
+      "city": "תל אביב - יפו",
+      "lat": 32.1189588822299,
+      "lon": 34.8090116660691
+    }
+  ]
+}

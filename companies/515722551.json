@@ -1,0 +1,23 @@
+{
+  "name": "Gerdcare Medical",
+  "description": "Offering a groundbreaking, wearable, drug-free solution for GERD treatment, this company provides a safe and effective self-use medical device.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/gerdcare_medical-logo.webp",
+  "websiteUrl": "https://www.gerd-care.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "gerdcaremedical",
+  "crunchbaseId": null,
+  "finderId": "gerdcare-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית תבור",
+      "houseNumber": 2,
+      "city": "יקנעם עילית",
+      "lat": 32.6459074,
+      "lon": 35.0969814
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wipro Givon",
+  "description": "Offering cutting-edge technology and IT consulting, this company crafts innovative solutions to tackle complex digital transformations for enterprises.",
+  "categoryId": 6,
+  "size": "m",
+  "logoFile": "logos/wipro_givon_limited-logo.webp",
+  "websiteUrl": "https://www.wipro.com/",
+  "careersUrl": "https://careers.wipro.com/",
+  "isHiring": true,
+  "linkedinId": "wipro",
+  "crunchbaseId": null,
+  "finderId": "wipro",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לוי יוסף",
+      "houseNumber": 29,
+      "city": "קריית ביאליק",
+      "lat": 32.869168085710946,
+      "lon": 35.09688663916281
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Nostack",
+  "description": "Effortlessly develop full-stack React applications without server management through our intuitive virtual stack platform.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/nostack-logo.webp",
+  "websiteUrl": "https://www.nostack.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nostack",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חיי יצחק",
+      "houseNumber": 7,
+      "city": "ביתר עילית",
+      "lat": 31.701467113224947,
+      "lon": 35.121344631793086
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fast Laser Group",
+  "description": "An ISO 9001:2015 certified company specializing in advanced fiber optic and laser equipment, including new recoaters, cleavers, and strippers.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/fast_laser_group-logo.webp",
+  "websiteUrl": "https://www.fastlaser.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fast-laser-group",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משאבים",
+      "houseNumber": 20,
+      "city": "הוד השרון",
+      "lat": 32.1565166,
+      "lon": 34.8902101
+    }
+  ]
+}

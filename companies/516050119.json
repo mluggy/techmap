@@ -1,0 +1,23 @@
+{
+  "name": "Zscaler Israel",
+  "description": "Leading provider of cybersecurity and zero trust solutions for IT and digital transformation.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/zscaler_israel-logo.webp",
+  "websiteUrl": "https://www.zscaler.com/",
+  "careersUrl": "https://www.zscaler.com/careers",
+  "isHiring": true,
+  "linkedinId": "zscaler",
+  "crunchbaseId": null,
+  "finderId": "zscaler-2",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 19,
+      "city": "רמת גן",
+      "lat": 32.0856419,
+      "lon": 34.8044253
+    }
+  ]
+}

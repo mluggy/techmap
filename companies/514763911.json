@@ -1,0 +1,23 @@
+{
+  "name": "Exai Web Solutions",
+  "description": "This company offers an advanced RNA-based platform for early and precise cancer detection, providing actionable biological insights.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/exai_web_solutions-logo.webp",
+  "websiteUrl": "https://www.exai.bio/",
+  "careersUrl": "https://www.exai.bio/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "exai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דיסנצ'יק אריה",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.117143,
+      "lon": 34.826886
+    }
+  ]
+}

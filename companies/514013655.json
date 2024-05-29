@@ -1,0 +1,23 @@
+{
+  "name": "Perflex",
+  "description": "A cutting-edge platform for knowledge discovery that leverages advanced AI, image uploads, and enhanced search features for avid information seekers.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/perflex-logo.webp",
+  "websiteUrl": "https://www.perplexity.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "perflex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גיבורי ישראל",
+      "houseNumber": 7,
+      "city": "נתניה",
+      "lat": 32.2787263,
+      "lon": 34.8610014
+    }
+  ]
+}

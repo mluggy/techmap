@@ -1,0 +1,23 @@
+{
+  "name": "Rt Lta Systems",
+  "description": "This 24/7 English-language news channel offers a Russian perspective on worldwide events.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/rt_lta_systems-logo.webp",
+  "websiteUrl": "https://www.rt.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חידקל",
+      "houseNumber": 18,
+      "city": "יבנה",
+      "lat": 31.8898874,
+      "lon": 34.7381896
+    }
+  ]
+}

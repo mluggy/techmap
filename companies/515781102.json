@@ -1,0 +1,23 @@
+{
+  "name": "Aptucure Bio",
+  "description": "Customized Medical Treatments.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/aptucure_bio-logo.webp",
+  "websiteUrl": "https://bio-therapeutic.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aptucure-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרופ' קציר אפרים",
+      "houseNumber": 6,
+      "city": "רחובות",
+      "lat": 31.8995241,
+      "lon": 34.8235201
+    }
+  ]
+}

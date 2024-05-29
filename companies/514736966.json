@@ -1,0 +1,23 @@
+{
+  "name": "Vidit",
+  "description": "Completely automated video editor powered by artificial intelligence.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/vidit-logo.webp",
+  "websiteUrl": "https://www.vidit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vidit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חד-נס",
+      "houseNumber": 11,
+      "city": "ראשון לציון",
+      "lat": 31.9827532,
+      "lon": 34.7584502
+    }
+  ]
+}

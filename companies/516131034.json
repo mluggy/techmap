@@ -1,0 +1,23 @@
+{
+  "name": "Amygdala",
+  "description": "Technology for Predicting Failures in the Railway Sector.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/amygdala-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "amygdala",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אשכול לוי",
+      "houseNumber": 63,
+      "city": "תל אביב - יפו",
+      "lat": 32.115616,
+      "lon": 34.789598
+    }
+  ]
+}

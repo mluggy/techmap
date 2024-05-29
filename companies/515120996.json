@@ -1,0 +1,23 @@
+{
+  "name": "Coders Clan",
+  "description": "Collaborative Software Development Services.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/coders_clan-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "codersclan",
+  "crunchbaseId": "codersclan",
+  "finderId": "codersclan",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתיר ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1620348,
+      "lon": 34.9337429
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Snappers Tv",
+  "description": "Offering delicious seafood dishes with a special lemon pepper seasoning, including their signature whole-fried snapper.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/snappers_tv-logo.webp",
+  "websiteUrl": "https://snappersmiami.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "snappers",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0215775,
+      "lon": 34.854526
+    }
+  ]
+}

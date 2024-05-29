@@ -1,0 +1,23 @@
+{
+  "name": "Biosy Int",
+  "description": "A medical hardware and software company offering treatment solutions derived from ancient Chinese Medicine, combined with modern Control Theory.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/biosy_int-logo.webp",
+  "websiteUrl": "https://biosy-int.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "biosy-int-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר לב חיים",
+      "houseNumber": 21,
+      "city": "הוד השרון",
+      "lat": 32.1586824,
+      "lon": 34.9126167
+    }
+  ]
+}

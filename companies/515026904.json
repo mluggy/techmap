@@ -1,0 +1,23 @@
+{
+  "name": "Display Io",
+  "description": "A platform for running advertising campaigns.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/display_io-logo.webp",
+  "websiteUrl": "https://www.display.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "display-io",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.06378,
+      "lon": 34.769659
+    }
+  ]
+}

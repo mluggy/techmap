@@ -1,0 +1,23 @@
+{
+  "name": "Sorlis",
+  "description": "We specialize in innovative solutions and are open to collaboration and investment opportunities.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/sorlis-logo.webp",
+  "websiteUrl": "https://www.sorlis.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sorlis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גלעד",
+      "houseNumber": 1,
+      "city": "נוף הגליל",
+      "lat": 32.7042633,
+      "lon": 35.3272944
+    }
+  ]
+}

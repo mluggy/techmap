@@ -1,0 +1,23 @@
+{
+  "name": "Replace System",
+  "description": "Using data analysis to choose optimal locations for solar and wind energy installations.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/replace_system-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "replace",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבשמים",
+      "houseNumber": 10,
+      "city": "חדרה",
+      "lat": 32.4306486,
+      "lon": 34.9525821
+    }
+  ]
+}

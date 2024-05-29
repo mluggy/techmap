@@ -1,0 +1,23 @@
+{
+  "name": "Oncohost",
+  "description": "Leveraging advanced bioinformatics and proteomic technologies, this company predicts patient responses to cancer therapies and provides evidence-based treatment recommendations.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/oncohost-logo.webp",
+  "websiteUrl": "https://www.oncohost.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "oncohost",
+  "crunchbaseId": null,
+  "finderId": "oncohost",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 17,
+      "city": "בנימינה",
+      "lat": 32.5128454,
+      "lon": 34.9484798
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Velox",
+  "description": "Customer support service renowned for answering 95% of calls before they reach voicemail, ensuring prompt assistance.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/velox-logo.webp",
+  "websiteUrl": "https://login.veloximaging.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "velox",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגולן",
+      "houseNumber": 6,
+      "city": "אבן יהודה",
+      "lat": 32.2675706,
+      "lon": 34.8890845
+    }
+  ]
+}

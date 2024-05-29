@@ -1,0 +1,23 @@
+{
+  "name": "Radd Stories",
+  "description": "A non-profit organization funded by music fans dedicated to eradicating drunk driving crashes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/radd_stories-logo.webp",
+  "websiteUrl": "https://www.radd.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "radd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 28,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

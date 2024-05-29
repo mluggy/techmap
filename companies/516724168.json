@@ -1,0 +1,23 @@
+{
+  "name": "Bold Holdings",
+  "description": "Quickly apply for exclusive scholarships and grants tailored to students.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/bold_holdings-logo.webp",
+  "websiteUrl": "https://bold.org/",
+  "careersUrl": "https://www.bold.com/bold-jobs/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bold",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רוקח",
+      "houseNumber": 100,
+      "city": "רמת גן",
+      "lat": 32.0951632,
+      "lon": 34.812633
+    }
+  ]
+}

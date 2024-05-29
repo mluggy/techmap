@@ -1,0 +1,23 @@
+{
+  "name": "Go Heja",
+  "description": "A free app streamlining team communication and management for sports teams, connecting coaches, managers, parents, and players.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/go_heja-logo.webp",
+  "websiteUrl": "https://heja.io/",
+  "careersUrl": "https://jobs.heja.io/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "go-heja",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לוין שלום",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.12611,
+      "lon": 34.828828
+    }
+  ]
+}

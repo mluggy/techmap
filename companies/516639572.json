@@ -1,0 +1,23 @@
+{
+  "name": "Codium",
+  "description": "This innovative platform provides free, high-speed AI-driven code completion, search, and chat for over 70 programming languages, seamlessly integrating with popular IDEs.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/codium-logo.webp",
+  "websiteUrl": "https://codeium.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "codium",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.070693,
+      "lon": 34.785176
+    }
+  ]
+}

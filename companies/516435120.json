@@ -1,0 +1,23 @@
+{
+  "name": "Groundcover",
+  "description": "A cloud-native app monitoring tool utilizing eBPF to offer instant, granular, and scalable insights for modern production environments without extra cost.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/groundcover-logo.webp",
+  "websiteUrl": "https://www.groundcover.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "prodstack",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קרליבך",
+      "houseNumber": 29,
+      "city": "תל אביב - יפו",
+      "lat": 32.06894,
+      "lon": 34.782739
+    }
+  ]
+}

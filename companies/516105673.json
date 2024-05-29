@@ -1,0 +1,23 @@
+{
+  "name": "Twingate Israel",
+  "description": "Twingate enables secure, high-speed access to protected resources via direct peer-to-peer connections with real-time verification for each request.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/twingate_israel-logo.webp",
+  "websiteUrl": "https://www.twingate.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "twingate",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 146,
+      "city": "תל אביב - יפו",
+      "lat": 32.0778351,
+      "lon": 34.794439538025976
+    }
+  ]
+}

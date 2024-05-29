@@ -1,0 +1,23 @@
+{
+  "name": "Callapp Software",
+  "description": "This mobile app offers free caller identification, call blocking, and call recording by leveraging an extensive phone number database.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/callapp_software-logo.webp",
+  "websiteUrl": "https://callapp.com/",
+  "careersUrl": "https://callapp.com/jobs",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "callapp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08254365,
+      "lon": 34.801384906098356
+    }
+  ]
+}

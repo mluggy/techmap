@@ -1,0 +1,23 @@
+{
+  "name": "Breedx",
+  "description": "An innovative company that cultivates and markets premium specialty vegetable varieties to enhance consumer and supply chain experiences.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/breedx-logo.webp",
+  "websiteUrl": "https://www.breedx.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "breedxltd",
+  "crunchbaseId": "breedx",
+  "finderId": "breedx",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אדום",
+      "houseNumber": 34,
+      "city": "כנות",
+      "lat": 31.8004597,
+      "lon": 34.7603473
+    }
+  ]
+}

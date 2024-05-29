@@ -1,0 +1,23 @@
+{
+  "name": "Qspark",
+  "description": "This company offers cutting-edge trading platforms that empower high-frequency traders to maximize the effectiveness of their algorithms.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/qspark-logo.webp",
+  "websiteUrl": "https://qspark.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "qspark",
+  "crunchbaseId": "qspark-fbad",
+  "finderId": "qspark",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לינקולן",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.066035,
+      "lon": 34.782959
+    }
+  ]
+}

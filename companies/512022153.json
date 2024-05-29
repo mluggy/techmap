@@ -1,0 +1,23 @@
+{
+  "name": "Can Fite Biopharma",
+  "description": "An Israeli biopharmaceutical company advancing proprietary drug candidates through Phase II and III clinical trials for oncology, inflammatory, and metabolic diseases.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/can_fite_biopharma-logo.webp",
+  "websiteUrl": "https://www.canfite.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "can-fite-biopharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברקת",
+      "houseNumber": 10,
+      "city": "פתח תקווה",
+      "lat": 32.0903924,
+      "lon": 34.8587071
+    }
+  ]
+}

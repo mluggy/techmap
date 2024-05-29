@@ -1,0 +1,23 @@
+{
+  "name": "Pikoya",
+  "description": "A gateway to millions of gamers through a vast network of niche websites offering games, reviews, blogs, and authentic content.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/pikoya-logo.webp",
+  "websiteUrl": "https://pikoya.com/",
+  "careersUrl": "https://pikoya.com/careers/",
+  "isHiring": true,
+  "linkedinId": "pikoya",
+  "crunchbaseId": null,
+  "finderId": "pikoya",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יפו",
+      "houseNumber": 30,
+      "city": "חיפה",
+      "lat": 32.8276768,
+      "lon": 34.9851308
+    }
+  ]
+}

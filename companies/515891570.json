@@ -1,0 +1,23 @@
+{
+  "name": "Firebolt Analytics",
+  "description": "A reimagined cloud data warehouse offering unparalleled speed and scalability for modern data storage and management.",
+  "categoryId": 6,
+  "size": "m",
+  "logoFile": "logos/firebolt_analytics-logo.webp",
+  "websiteUrl": "https://www.firebolt.io/",
+  "careersUrl": "https://www.firebolt.io/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "firebolt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.064654,
+      "lon": 34.785584
+    }
+  ]
+}

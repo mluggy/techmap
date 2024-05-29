@@ -1,0 +1,23 @@
+{
+  "name": "Aiola",
+  "description": "Using patented technology, an AI platform captures industry-specific jargon and critical information in over 100 languages and various accents.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/aiola-logo.webp",
+  "websiteUrl": "https://aiola.com/",
+  "careersUrl": "https://aiola.com/careers/",
+  "isHiring": true,
+  "linkedinId": "aiola",
+  "crunchbaseId": null,
+  "finderId": "aiola",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד אבא אבן",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.161430249999995,
+      "lon": 34.808588229913795
+    }
+  ]
+}

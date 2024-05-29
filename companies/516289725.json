@@ -1,0 +1,23 @@
+{
+  "name": "Immue Cyber Technologies",
+  "description": "A solution for managing and preventing bot activity.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/immue_cyber_technologies-logo.webp",
+  "websiteUrl": "https://immue.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cyber-immune-inc",
+  "crunchbaseId": null,
+  "finderId": "immue",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0835579,
+      "lon": 34.8040988
+    }
+  ]
+}

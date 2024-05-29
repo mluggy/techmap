@@ -1,0 +1,23 @@
+{
+  "name": "Cando Drones",
+  "description": "Aviation company specializing in autonomous drone systems for security solutions, documentation, mapping, and monitoring services.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/cando_drones-logo.webp",
+  "websiteUrl": "https://cando.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cando-drones",
+  "crunchbaseId": null,
+  "finderId": "cando-drones",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנרקיסים",
+      "houseNumber": 11,
+      "city": "גנות הדר",
+      "lat": 32.3203915,
+      "lon": 34.9015462
+    }
+  ]
+}

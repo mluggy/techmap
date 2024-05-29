@@ -1,0 +1,23 @@
+{
+  "name": "We Agri",
+  "description": "Earn carbon credits through sustainable farming practices.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/we_agri-logo.webp",
+  "websiteUrl": "https://portal.weagri.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "we-agri-ltd",
+  "crunchbaseId": null,
+  "finderId": "we-agri",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטחנה",
+      "houseNumber": 64,
+      "city": "בנימינה",
+      "lat": 32.5115576,
+      "lon": 34.949588
+    }
+  ]
+}

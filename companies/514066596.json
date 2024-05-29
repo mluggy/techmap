@@ -1,0 +1,23 @@
+{
+  "name": "Autoagronom Israel",
+  "description": "A system designed to monitor and manage irrigation and fertilization.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/autoagronom_israel-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "autoagronom",
+  "crunchbaseId": "autoagronom",
+  "finderId": "autoagronom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החצבני",
+      "houseNumber": 23,
+      "city": "יקנעם עילית",
+      "lat": 32.6406157,
+      "lon": 35.0851611
+    }
+  ]
+}

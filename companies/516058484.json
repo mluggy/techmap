@@ -1,0 +1,23 @@
+{
+  "name": "Sandra Exclusive",
+  "description": "Prolific artist creating contemporary hymns available on major streaming platforms.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/sandra_exclusive-logo.webp",
+  "websiteUrl": "https://www.sandramccracken.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sandra",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 22,
+      "city": "רמת גן",
+      "lat": 32.083993,
+      "lon": 34.8007991
+    }
+  ]
+}

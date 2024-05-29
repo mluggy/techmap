@@ -1,0 +1,23 @@
+{
+  "name": "Saliwell",
+  "description": "This company specializes in teledentistry services with a presence in the USA and Israel.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/saliwell-logo.webp",
+  "websiteUrl": "https://saliwell.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "saliwell",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התמר",
+      "houseNumber": 2,
+      "city": "חרוצים",
+      "lat": 32.228116,
+      "lon": 34.8652255
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Croptimal",
+  "description": "A laboratory that conducts tests directly on-site.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/croptimal-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "croptimal-ltd",
+  "crunchbaseId": "croptimal",
+  "finderId": "croptimal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התקשורת",
+      "houseNumber": 6,
+      "city": "מגדל העמק",
+      "lat": 32.688657,
+      "lon": 35.2479729
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cathalert",
+  "description": "Instant notifications during catheter navigation.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cathalert-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cathalert",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זרחין אלכסנדר",
+      "houseNumber": 13,
+      "city": "רעננה",
+      "lat": 32.1976788,
+      "lon": 34.8811941
+    }
+  ]
+}

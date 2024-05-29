@@ -1,0 +1,23 @@
+{
+  "name": "Kaspersky Lab Israel",
+  "description": "A global leader in innovative cybersecurity solutions, providing premium protection against diverse cyber threats.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/kaspersky_lab_israel-logo.webp",
+  "websiteUrl": "https://usa.kaspersky.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kaspersky-lab",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אגודת ספורט הפועל",
+      "houseNumber": 2,
+      "city": "ירושלים",
+      "lat": 31.7507751,
+      "lon": 35.1850697
+    }
+  ]
+}

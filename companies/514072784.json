@@ -1,0 +1,23 @@
+{
+  "name": "Easy Education",
+  "description": "Offering syllabus-tailored video tutorials, we facilitate self-paced STEM learning with detailed breakdowns and ample practice to ensure thorough comprehension.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/easy_education-logo.webp",
+  "websiteUrl": "https://www.proprep.com/",
+  "careersUrl": "https://www.proprep.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "easy-education",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית הכרם",
+      "houseNumber": 10,
+      "city": "קדימה",
+      "lat": 32.27789832497225,
+      "lon": 34.91107792201786
+    }
+  ]
+}

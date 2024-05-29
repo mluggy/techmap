@@ -1,0 +1,23 @@
+{
+  "name": "Chromepay",
+  "description": "Offers a transaction-linked digital ID service that ensures user verification and enhances transparency between institutions and customers.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/chromepay-logo.webp",
+  "websiteUrl": "https://chromepay.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "chromepay",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריאל",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.1669835,
+      "lon": 34.83716241130068
+    }
+  ]
+}

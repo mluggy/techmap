@@ -1,0 +1,23 @@
+{
+  "name": "Nordson Medical Israel",
+  "description": "A global leader in crafting advanced medical devices and component technologies.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/nordson_medical_israel-logo.webp",
+  "websiteUrl": "https://www.nordsonmedical.com/",
+  "careersUrl": "https://www.nordson.com/en/about-us/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nordson",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 22,
+      "city": "ראש העין",
+      "lat": 32.1088976,
+      "lon": 34.9653972
+    }
+  ]
+}

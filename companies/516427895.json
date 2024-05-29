@@ -1,0 +1,23 @@
+{
+  "name": "Protai Bio",
+  "description": "They revolutionize drug discovery by intricately mapping disease progression at the protein level to reveal cellular functions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/protai_bio-logo.webp",
+  "websiteUrl": "https://www.protai.bio/",
+  "careersUrl": "https://www.protai.bio/careers",
+  "isHiring": true,
+  "linkedinId": "protai-bio",
+  "crunchbaseId": "protai",
+  "finderId": "protai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 5,
+      "city": "רמת גן",
+      "lat": 32.0845733,
+      "lon": 34.8009733
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "City Transformer",
+  "description": "An electric mobility start-up's innovative two-seater, the CT-1, wins the 2023 Gold German Design Award.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/city_transformer-logo.webp",
+  "websiteUrl": "https://citytransformer.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "city-transformer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.113198,
+      "lon": 34.844295
+    }
+  ]
+}

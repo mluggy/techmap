@@ -1,0 +1,23 @@
+{
+  "name": "Nine Plus Life",
+  "description": "A digital platform linking expectant mothers with professional doulas.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/nine_plus_life-logo.webp",
+  "websiteUrl": "https://nineplus.life/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "nine-plus-life",
+  "finderId": "nine-plus-life",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התור",
+      "houseNumber": 3,
+      "city": "נתניה",
+      "lat": 32.3042805,
+      "lon": 34.883819
+    }
+  ]
+}

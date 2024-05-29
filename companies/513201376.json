@@ -1,0 +1,23 @@
+{
+  "name": "Imperva",
+  "description": "Offering comprehensive cyber security solutions to protect critical data and applications across any environment.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/imperva-logo.webp",
+  "websiteUrl": "https://www.imperva.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "imperva",
+  "crunchbaseId": null,
+  "finderId": "imperva",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 125,
+      "city": "תל אביב - יפו",
+      "lat": 32.0730925,
+      "lon": 34.7893649
+    }
+  ]
+}

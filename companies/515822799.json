@@ -1,0 +1,23 @@
+{
+  "name": "Bidgemmer",
+  "description": "An AI-powered software solution streamlining auctions, inventory management, and ERP for the diamond and colored gemstone industry.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/bidgemmer-logo.webp",
+  "websiteUrl": "https://bidgemmer.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bidgemmer",
+  "crunchbaseId": null,
+  "finderId": "bidgemmer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האגדה",
+      "houseNumber": 5,
+      "city": "רמת גן",
+      "lat": 32.0750484,
+      "lon": 34.8264844
+    }
+  ]
+}

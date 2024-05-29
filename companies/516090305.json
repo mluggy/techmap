@@ -1,0 +1,23 @@
+{
+  "name": "Siemens",
+  "description": "A leading technology enterprise specializing in industry, infrastructure, transport, and healthcare solutions.",
+  "categoryId": 15,
+  "size": "xl",
+  "logoFile": "logos/siemens-logo.webp",
+  "websiteUrl": "https://www.siemens.com/",
+  "careersUrl": "https://www.siemens.com/global/en/company/jobs.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "siemens",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריאב אורי",
+      "houseNumber": 3,
+      "city": "ראש העין",
+      "lat": 32.1127938,
+      "lon": 34.9418895
+    }
+  ]
+}

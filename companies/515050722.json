@@ -1,0 +1,23 @@
+{
+  "name": "Intellithings",
+  "description": "Provides real-time, accurate employee time tracking with automated API integration for seamless payroll processing.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/intellithings-logo.webp",
+  "websiteUrl": "https://www.intellithings.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "intellithings",
+  "crunchbaseId": null,
+  "finderId": "intellithings",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לח\"י",
+      "houseNumber": 39,
+      "city": "רמת השרון",
+      "lat": 32.1452204,
+      "lon": 34.8273468
+    }
+  ]
+}

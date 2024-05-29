@@ -1,0 +1,23 @@
+{
+  "name": "Iphysicist",
+  "description": "A premier design house and technology provider specializing in computer vision applications and automotive safety enhancements.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/iphysicist-logo.webp",
+  "websiteUrl": "https://www.iphysicist.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "iphysicist",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנלה גד",
+      "houseNumber": 2,
+      "city": "נתניה",
+      "lat": 32.2852108,
+      "lon": 34.8616512
+    }
+  ]
+}

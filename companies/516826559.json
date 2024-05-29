@@ -1,0 +1,23 @@
+{
+  "name": "Wisery Labs",
+  "description": "Insights and Analytics Solution.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/wisery_labs-logo.webp",
+  "websiteUrl": "https://www.wiserylabs.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wiserylabs-ai",
+  "crunchbaseId": "wisery-labs",
+  "finderId": "wisery-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השחר",
+      "houseNumber": 34,
+      "city": "רעננה",
+      "lat": 32.1844482,
+      "lon": 34.8576012
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Redhill Biopharma",
+  "description": "Exclusive Medications for Digestive and Infectious Conditions.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/redhill_biopharma-logo.webp",
+  "websiteUrl": "https://www.redhillbio.com/",
+  "careersUrl": "https://www.redhillbio.com/careers/overview/default.aspx",
+  "isHiring": true,
+  "linkedinId": "redhill-biopharma",
+  "crunchbaseId": null,
+  "finderId": "redhill-biopharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 21,
+      "city": "תל אביב - יפו",
+      "lat": 32.0705297,
+      "lon": 34.7872761
+    }
+  ]
+}

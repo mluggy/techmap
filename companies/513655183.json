@@ -1,0 +1,23 @@
+{
+  "name": "Softwear Suit",
+  "description": "Providing premium report and analysis application development, this company ensures top-tier software quality.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/softwear_suit-logo.webp",
+  "websiteUrl": "http://softwear.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "softwear",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 20,
+      "city": "כפר סבא",
+      "lat": 32.1789899,
+      "lon": 34.9284423
+    }
+  ]
+}

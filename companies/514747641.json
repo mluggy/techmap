@@ -1,0 +1,23 @@
+{
+  "name": "Sensifree",
+  "description": "A service providing site descriptions inaccessible for viewing.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sensifree-logo.webp",
+  "websiteUrl": "https://sensifree.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sensifree",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חגי",
+      "houseNumber": 20,
+      "city": "כפר סבא",
+      "lat": 32.1868826,
+      "lon": 34.9354126
+    }
+  ]
+}

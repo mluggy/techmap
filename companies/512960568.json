@@ -1,0 +1,23 @@
+{
+  "name": "Infoneto",
+  "description": "Streamlining recruitment with fast candidate sourcing and data-driven insights.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/infoneto-logo.webp",
+  "websiteUrl": "http://infoneto.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "infoneto-ltd-",
+  "crunchbaseId": null,
+  "finderId": "infoneto",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דפנה",
+      "houseNumber": 16,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9062169,
+      "lon": 35.0089493
+    }
+  ]
+}

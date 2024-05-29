@@ -1,0 +1,23 @@
+{
+  "name": "Plexivo",
+  "description": "Our services improve website performance by analyzing and utilizing aggregated user data.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/plexivo-logo.webp",
+  "websiteUrl": "https://plexivo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "plexivo",
+  "finderId": "plexivo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מיטב",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.065561,
+      "lon": 34.795362
+    }
+  ]
+}

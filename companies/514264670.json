@@ -1,0 +1,23 @@
+{
+  "name": "Voxia",
+  "description": "Providing customized smart communication services for businesses, including phone systems, call centers, and network equipment.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/voxia-logo.webp",
+  "websiteUrl": "https://www.voxia.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "voxia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חן",
+      "houseNumber": 13,
+      "city": "אבן יהודה",
+      "lat": 32.277905,
+      "lon": 34.8912417
+    }
+  ]
+}

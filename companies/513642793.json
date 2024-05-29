@@ -1,0 +1,23 @@
+{
+  "name": "Eyeclick",
+  "description": "Engage in thrilling, interactive projector games featuring action-packed adventures where players defend scientists from alien invasions.",
+  "categoryId": 11,
+  "size": "m",
+  "logoFile": "logos/eyeclick-logo.webp",
+  "websiteUrl": "https://www.eyeclick.com/",
+  "careersUrl": "https://www.eyeclick.com/about-us/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eyeclick",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האחים בז'רנו",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0876478,
+      "lon": 34.8045658
+    }
+  ]
+}

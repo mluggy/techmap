@@ -1,0 +1,23 @@
+{
+  "name": "Append Medical",
+  "description": "A device designed for closing the left atrial appendage via a trans-septal approach.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/append_medical-logo.webp",
+  "websiteUrl": "https://appendmedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "append-medical",
+  "finderId": "append-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבי ואביב",
+      "houseNumber": 3,
+      "city": "אור יהודה",
+      "lat": 32.0224046,
+      "lon": 34.8581547
+    }
+  ]
+}

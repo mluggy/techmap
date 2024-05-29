@@ -1,0 +1,23 @@
+{
+  "name": "101 Therapeutics",
+  "description": "Creating treatments for a variety of infectious illnesses.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/101_therapeutics-logo.webp",
+  "websiteUrl": "https://www.101therapeutics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "101therapeutics",
+  "crunchbaseId": "101-therapeutics",
+  "finderId": "101-therapeutics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

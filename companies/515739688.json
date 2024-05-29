@@ -1,0 +1,23 @@
+{
+  "name": "Vootto Air Purifier",
+  "description": "Air Purification Solutions for Indoor Spaces and Vehicles.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vootto_air_purifier-logo.webp",
+  "websiteUrl": "https://www.vootto.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "wise-smoker",
+  "finderId": "wise-smoker",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "איסרליש",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.071544,
+      "lon": 34.790344
+    }
+  ]
+}

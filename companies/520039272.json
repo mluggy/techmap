@@ -1,0 +1,23 @@
+{
+  "name": "Tadbik",
+  "description": "A global leader in manufacturing with a 30+ year legacy, renowned for innovation and top-notch customer service.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/tadbik-logo.webp",
+  "websiteUrl": "https://www.tadbik.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tadbik",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בלטימור",
+      "houseNumber": 4,
+      "city": "פתח תקווה",
+      "lat": 32.0963685,
+      "lon": 34.8659345
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Innodata Israel",
+  "description": "They tackle complex data engineering problems with a blend of AI and human expertise, offering comprehensive solutions.",
+  "categoryId": 1,
+  "size": "xl",
+  "logoFile": "logos/innodata_israel-logo.webp",
+  "websiteUrl": "https://innodata.com/",
+  "careersUrl": "https://innodata.com/career/",
+  "isHiring": true,
+  "linkedinId": "innodata-inc-",
+  "crunchbaseId": null,
+  "finderId": "innodata",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קרית מדע",
+      "houseNumber": 3,
+      "city": "ירושלים",
+      "lat": 31.8008466,
+      "lon": 35.2107974
+    }
+  ]
+}

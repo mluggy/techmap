@@ -1,0 +1,23 @@
+{
+  "name": "Delawvery",
+  "description": "שירות דיגיטלי מתקדמים לניהול מסירות והגשות משפטיות החוסך זמן ומגדיל רווחים לצוותים משפטיים.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/delawvery-logo.webp",
+  "websiteUrl": "https://delawvery.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "delawvery",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העמית יצחק",
+      "houseNumber": 5,
+      "city": "ראשון לציון",
+      "lat": 31.9899844,
+      "lon": 34.7517177
+    }
+  ]
+}

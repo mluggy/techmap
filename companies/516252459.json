@@ -1,0 +1,23 @@
+{
+  "name": "Flowsec",
+  "description": "Providing affordable, enterprise-grade cybersecurity for SMBs, FlowSec specializes in single IP protection solutions.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/flowsec-logo.webp",
+  "websiteUrl": "https://flow-sec.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "flow-sec",
+  "crunchbaseId": null,
+  "finderId": "flowsec-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסיבים",
+      "houseNumber": 1,
+      "city": "פתח תקווה",
+      "lat": 32.0911207,
+      "lon": 34.8569466
+    }
+  ]
+}

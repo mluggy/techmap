@@ -1,0 +1,23 @@
+{
+  "name": "Beyond Virtual",
+  "description": "Providing the latest CDC updates and information on COVID-19.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/beyond_virtual-logo.webp",
+  "websiteUrl": "https://beyond-en.sheba.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "beyond-virtual",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד אבא אבן",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.161430249999995,
+      "lon": 34.808588229913795
+    }
+  ]
+}

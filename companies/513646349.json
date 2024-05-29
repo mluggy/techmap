@@ -1,0 +1,23 @@
+{
+  "name": "Velocity",
+  "description": "Offering complimentary membership, this frequent flyer program lets members earn and redeem points and status credits through an extensive network of partners and Virgin Australia flights.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/velocity-logo.webp",
+  "websiteUrl": "https://www.velocityfrequentflyer.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "velocity",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דוד אלעזר",
+      "houseNumber": 1,
+      "city": "רעננה",
+      "lat": 32.1836157,
+      "lon": 34.8870355
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sokowell",
+  "description": "We offer flavorful food supplements that blend vitamins, active ingredients, and cacao to optimize health and wellness.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sokowell-logo.webp",
+  "websiteUrl": "https://www.sokowell.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sokowell",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עין דור",
+      "houseNumber": 3,
+      "city": "הוד השרון",
+      "lat": 32.146877579416675,
+      "lon": 34.88151314539529
+    }
+  ]
+}

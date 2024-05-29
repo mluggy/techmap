@@ -1,0 +1,23 @@
+{
+  "name": "Mybiotics Pharma",
+  "description": "A pharmaceutical company entering a research and development partnership while securing substantial European Union funding.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/mybiotics_pharma-logo.webp",
+  "websiteUrl": "https://mybiotics-pharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mybiotics-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מודעי יצחק",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.8997233,
+      "lon": 34.7876913
+    }
+  ]
+}

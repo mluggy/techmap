@@ -1,0 +1,23 @@
+{
+  "name": "Nucleix",
+  "description": "Specializing in advanced liquid biopsy assays, this company offers the EPICHECK platform for accurate, sensitive, and seamless cancer detection.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/nucleix-logo.webp",
+  "websiteUrl": "https://nucleix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nucleix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פקריס",
+      "houseNumber": 3,
+      "city": "רחובות",
+      "lat": 31.9119094,
+      "lon": 34.804801
+    }
+  ]
+}

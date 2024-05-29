@@ -1,0 +1,23 @@
+{
+  "name": "Ezshift",
+  "description": "A software solution for managing shift workers and scheduling, incorporating organizational rules and limitations.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/ezshift-logo.webp",
+  "websiteUrl": "https://www.ezshift.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ezshift",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חרושת",
+      "houseNumber": 18,
+      "city": "רמת השרון",
+      "lat": 32.128416099999995,
+      "lon": 34.858940825585236
+    }
+  ]
+}

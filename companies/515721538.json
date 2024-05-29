@@ -1,0 +1,23 @@
+{
+  "name": "Cyber Armor",
+  "description": "We take care of cyber security through innovative technologies to protect you from zero-day in IT and OT domain · Advanced threat response · Security Management.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/cyber_armor-logo.webp",
+  "websiteUrl": "https://cyberarmor.ch/",
+  "careersUrl": "https://cyberarmor.ch/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": "cyber-armor",
+  "finderId": "cyber-armor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מיטב",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.065561,
+      "lon": 34.795362
+    }
+  ]
+}

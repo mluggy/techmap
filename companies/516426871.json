@@ -1,0 +1,23 @@
+{
+  "name": "Sunday Security",
+  "description": "A platform for individual digital security.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/sunday_security-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sunday-security-ltd",
+  "crunchbaseId": "sunday-security",
+  "finderId": "pandora-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זבולון",
+      "houseNumber": 40,
+      "city": "גדרה",
+      "lat": 31.8160402,
+      "lon": 34.7835872
+    }
+  ]
+}

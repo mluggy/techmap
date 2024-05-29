@@ -1,0 +1,23 @@
+{
+  "name": "Fluid Medical",
+  "description": "Technology that uses algorithms to diagnose pancreatic cysts.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/fluid_medical-logo.webp",
+  "websiteUrl": "https://fluidmedical.ca/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fluid-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ויצמן",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.0776132,
+      "lon": 34.7891243
+    }
+  ]
+}

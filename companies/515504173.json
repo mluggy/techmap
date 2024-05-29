@@ -1,0 +1,23 @@
+{
+  "name": "Apa Wellness",
+  "description": "Providing health support and recommendations through consultations and referrals to various healthcare professionals.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/apa_wellness-logo.webp",
+  "websiteUrl": "https://www.apwellness.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ap-wellness",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגרניט",
+      "houseNumber": 3,
+      "city": "זכרון יעקב",
+      "lat": 32.567085659665665,
+      "lon": 34.94348867514253
+    }
+  ]
+}

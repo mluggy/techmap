@@ -1,0 +1,23 @@
+{
+  "name": "Cordio Medical",
+  "description": "They offer a non-invasive mobile device that monitors speech to detect fluid buildup in CHF patients, providing real-time alerts to healthcare professionals.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/cordio_medical-logo.webp",
+  "websiteUrl": "https://www.cordio-med.com/",
+  "careersUrl": "https://www.cordio-med.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cordio-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתניהו יהונתן",
+      "houseNumber": 6,
+      "city": "אור יהודה",
+      "lat": 32.0219296,
+      "lon": 34.8566055
+    }
+  ]
+}

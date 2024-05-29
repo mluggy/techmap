@@ -1,0 +1,23 @@
+{
+  "name": "Empirical Hire",
+  "description": "Our company merges culinary and scientific breakthroughs to revolutionize flavors in spirits and more, rooted in the Empirical method of experiential knowledge.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/empirical_hire-logo.webp",
+  "websiteUrl": "https://empirical.co/",
+  "careersUrl": "https://empiricalfoods.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "empirical-hire1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Memo App",
+  "description": "MemoApp provides a personalized 32” information and reminders screen for seniors with memory issues and dementia, easily installed at home.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/memo_app-logo.webp",
+  "websiteUrl": "https://www.memoapp.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "memoapp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד יוספטל גיורא",
+      "houseNumber": 103,
+      "city": "בת ים",
+      "lat": 32.0151318,
+      "lon": 34.7528142
+    }
+  ]
+}

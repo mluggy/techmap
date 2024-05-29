@@ -1,0 +1,23 @@
+{
+  "name": "Advanscreen",
+  "description": "ADVANSCREEN offers an easy, accessible scanning service for both casual users and corporate compliance officers.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/advanscreen-logo.webp",
+  "websiteUrl": "https://advanscreen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "advanscreen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יפה נוף",
+      "houseNumber": 3,
+      "city": "גבעתיים",
+      "lat": 32.078651699999995,
+      "lon": 34.81130466803333
+    }
+  ]
+}

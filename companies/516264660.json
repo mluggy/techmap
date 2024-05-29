@@ -1,0 +1,23 @@
+{
+  "name": "Herd Itt",
+  "description": "Optimizing cattle yield and reducing operational costs through comprehensive behavior monitoring and herd management.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/herd_itt-logo.webp",
+  "websiteUrl": "https://www.herd-itt.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cattlewatch",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סמילנסקי",
+      "houseNumber": 15,
+      "city": "רחובות",
+      "lat": 31.8962509,
+      "lon": 34.8077433
+    }
+  ]
+}

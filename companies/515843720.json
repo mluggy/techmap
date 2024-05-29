@@ -1,0 +1,23 @@
+{
+  "name": "Elgan Pharma",
+  "description": "A late-stage biotech firm focused on safe, non-invasive therapies for unmet medical needs in preterm infants.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/elgan_pharma-logo.webp",
+  "websiteUrl": "https://elganpharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "elgan-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

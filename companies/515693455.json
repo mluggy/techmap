@@ -1,0 +1,23 @@
+{
+  "name": "Delivrd",
+  "description": "We offer brands bespoke, high-quality last-mile delivery solutions, ensuring timely, professional services through advanced driver-partner matching technology.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/delivrd-logo.webp",
+  "websiteUrl": "https://www.dlivrd.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "delivrd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העליה",
+      "houseNumber": 45,
+      "city": "נהרייה",
+      "lat": 33.0116608,
+      "lon": 35.0908568
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sighteer",
+  "description": "Elevating brand content through advanced generative AI that leverages deep learning for unique and impactful outputs.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/sighteer-logo.webp",
+  "websiteUrl": "https://www.sighteer.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sighteer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זמיר",
+      "houseNumber": 4,
+      "city": "קיסריה",
+      "lat": 32.5285154,
+      "lon": 34.9094882
+    }
+  ]
+}

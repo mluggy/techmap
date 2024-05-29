@@ -1,0 +1,23 @@
+{
+  "name": "Rimi Management And Investment",
+  "description": "They offer comprehensive radiology services including CT scans, MRIs, mammography, ultrasound, and X-rays across Rhode Island.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/rimi_management_and_investment-logo.webp",
+  "websiteUrl": "https://rimirad.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rimi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גורדון",
+      "houseNumber": 27,
+      "city": "רעננה",
+      "lat": 32.1798659,
+      "lon": 34.864688
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wear 2 B",
+  "description": "Monitoring blood glucose levels without any invasive procedures.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/wear_2_b-logo.webp",
+  "websiteUrl": "http://wear-2b.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wear-2b",
+  "crunchbaseId": "wear2b",
+  "finderId": "wear2b",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אזור תעשייה",
+      "houseNumber": 101,
+      "city": "ראש פינה",
+      "lat": 32.99327038704103,
+      "lon": 35.56754735712749
+    }
+  ]
+}

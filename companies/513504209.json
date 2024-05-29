@@ -1,0 +1,23 @@
+{
+  "name": "Fluentech",
+  "description": "A company offering a scalable, customizable distribution engine with advanced risk management and behavioral prevention controls for all markets.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/fluentech-logo.webp",
+  "websiteUrl": "https://fluenttech.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "fluentech",
+  "finderId": "fluentech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מעלה זיתים",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.77226743885515,
+      "lon": 35.24111740727622
+    }
+  ]
+}

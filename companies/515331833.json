@@ -1,0 +1,23 @@
+{
+  "name": "My Tower",
+  "description": "Provides technical support services for a mobile application.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/my_tower-logo.webp",
+  "websiteUrl": "https://panel.my-tower.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "my-tower",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 100,
+      "city": "תל אביב - יפו",
+      "lat": 32.069111,
+      "lon": 34.786789
+    }
+  ]
+}

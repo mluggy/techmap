@@ -1,0 +1,23 @@
+{
+  "name": "Resq Medical",
+  "description": "This innovative app automatically tracks and documents work hours on mobile devices, ensuring privacy and compliance with ACGME requirements.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/resq_medical-logo.webp",
+  "websiteUrl": "https://resqmedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "resq-medical-ltd",
+  "crunchbaseId": null,
+  "finderId": "resq-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הצמיחה",
+      "houseNumber": 1,
+      "city": "יקנעם עילית",
+      "lat": 32.668888,
+      "lon": 35.107009
+    }
+  ]
+}

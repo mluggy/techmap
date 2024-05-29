@@ -1,0 +1,23 @@
+{
+  "name": "Meta Bim",
+  "description": "Enhancing facility safety through a comprehensive, proactive data hub that provides detailed insights into equipment and processes.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/meta_bim-logo.webp",
+  "websiteUrl": "https://www.meta-bim.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "metabim",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פולד ברכה",
+      "houseNumber": 13,
+      "city": "חיפה",
+      "lat": 32.8200942,
+      "lon": 35.0745216
+    }
+  ]
+}

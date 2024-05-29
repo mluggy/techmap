@@ -1,0 +1,23 @@
+{
+  "name": "Stemrad",
+  "description": "Pioneering personal radiation shielding, this company enhances safety for critical professionals through innovation and scientific breakthroughs.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/stemrad-logo.webp",
+  "websiteUrl": "https://stemrad.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "stemrad",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ולנברג ראול",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.107465,
+      "lon": 34.827939
+    }
+  ]
+}

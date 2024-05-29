@@ -1,0 +1,23 @@
+{
+  "name": "Starkware Industries",
+  "description": "A blockchain technology that ensures data security through zero-knowledge proof.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/starkware_industries-logo.webp",
+  "websiteUrl": "https://starkware.co/",
+  "careersUrl": "https://starkware.co/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "starkware-industries",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 32,
+      "city": "נתניה",
+      "lat": 32.2846342,
+      "lon": 34.8605173
+    }
+  ]
+}

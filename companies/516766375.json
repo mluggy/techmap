@@ -1,0 +1,23 @@
+{
+  "name": "Pelles AI",
+  "description": "An AI-driven solution for accurately transforming, annotating, and completing construction drawings while automating takeoff and estimation.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/pelles_ai-logo.webp",
+  "websiteUrl": "https://www.pelles.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "pelles-ai",
+  "finderId": "pelles-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יזרעאל",
+      "houseNumber": 91,
+      "city": "קריית טבעון",
+      "lat": 32.7103615,
+      "lon": 35.1294598
+    }
+  ]
+}

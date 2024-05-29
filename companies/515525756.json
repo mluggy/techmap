@@ -1,0 +1,23 @@
+{
+  "name": "Cognitive Id",
+  "description": "Persistent User Verification.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/cognitive_id-logo.webp",
+  "websiteUrl": "https://www.cognitive-id.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cognitiveid",
+  "crunchbaseId": null,
+  "finderId": "cognitive-id",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רוטשילד",
+      "houseNumber": 15,
+      "city": "ראשון לציון",
+      "lat": 31.9640927,
+      "lon": 34.8051757
+    }
+  ]
+}

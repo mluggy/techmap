@@ -1,0 +1,23 @@
+{
+  "name": "Tikal Networks",
+  "description": "Solutions for Internet-based phone systems and customer support centers.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/tikal_networks-logo.webp",
+  "websiteUrl": "https://www.tikalcenter.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "tikal-center",
+  "crunchbaseId": "tikal-networks",
+  "finderId": "tikal-networks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אודם",
+      "houseNumber": 3,
+      "city": "פתח תקווה",
+      "lat": 32.0896507,
+      "lon": 34.8577193
+    }
+  ]
+}

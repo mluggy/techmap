@@ -1,0 +1,23 @@
+{
+  "name": "Asterix Foods",
+  "description": "Creating sustainable and eco-friendly food alternatives without compromising taste.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/asterix_foods-logo.webp",
+  "websiteUrl": "https://www.asterixfoods.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "asterix-foods-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יערי מאיר",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.099325,
+      "lon": 34.784373
+    }
+  ]
+}

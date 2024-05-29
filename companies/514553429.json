@@ -1,0 +1,23 @@
+{
+  "name": "Myway Ev",
+  "description": "Providing tire maintenance guidelines, this company emphasizes regular air pressure checks and timely tire replacement to avoid punctures.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/myway_ev-logo.webp",
+  "websiteUrl": "https://il.inokim.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "myway-ev",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן צבי",
+      "houseNumber": 1,
+      "city": "אביחיל",
+      "lat": 32.3529503,
+      "lon": 34.8722076
+    }
+  ]
+}

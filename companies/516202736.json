@@ -1,0 +1,23 @@
+{
+  "name": "Propdo",
+  "description": "פלטפורמה יחידה במינה בישראל לשיווק וקניית נדל\"ן בשיתוף לשכת המתווכים הארצית.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/propdo-logo.webp",
+  "websiteUrl": "https://propdo.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "propdo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החילזון",
+      "houseNumber": 6,
+      "city": "רמת גן",
+      "lat": 32.0861321,
+      "lon": 34.8040698
+    }
+  ]
+}

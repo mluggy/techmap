@@ -1,0 +1,23 @@
+{
+  "name": "Infinidome",
+  "description": "Specializing in resilient navigation solutions, their GPSdome serves as a critical defense against GPS disruptions.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/infinidome-logo.webp",
+  "websiteUrl": "https://infinidome.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gps-dome",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האשל",
+      "houseNumber": 7,
+      "city": "קיסריה",
+      "lat": 32.4774943,
+      "lon": 34.9447996
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Vaica Medical",
+  "description": "A digital platform designed to assist with patient monitoring and ensuring they follow their medication schedules.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vaica_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vaica",
+  "crunchbaseId": "vaica",
+  "finderId": "vaica-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית הלל",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.069608,
+      "lon": 34.789739
+    }
+  ]
+}

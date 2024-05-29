@@ -1,0 +1,23 @@
+{
+  "name": "Koala Ops",
+  "description": "Streamline building and deploying Kubernetes services with user-friendly management, extensive power, and built-in best practices for a production-ready environment.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/koala_ops-logo.webp",
+  "websiteUrl": "https://www.koalaops.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "koala-ops",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבנים",
+      "houseNumber": 41,
+      "city": "הרצליה",
+      "lat": 32.1626358,
+      "lon": 34.8448684
+    }
+  ]
+}

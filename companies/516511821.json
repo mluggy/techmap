@@ -1,0 +1,23 @@
+{
+  "name": "Protica Bio",
+  "description": "A pioneering start-up leveraging advanced proteomics and machine learning to enhance immunotherapy decisions and drug discovery.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/protica_bio-logo.webp",
+  "websiteUrl": "https://www.protica.bio/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "protica-biosciences",
+  "crunchbaseId": null,
+  "finderId": "protica-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרופ רקח",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.7679937,
+      "lon": 35.1973517
+    }
+  ]
+}

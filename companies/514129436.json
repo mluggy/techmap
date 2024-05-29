@@ -1,0 +1,23 @@
+{
+  "name": "Lognet Billing",
+  "description": "Founded in 2001, this inventive software provider delivers solutions across various sectors like travel, utilities, and telecommunications.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/lognet_billing-logo.webp",
+  "websiteUrl": "https://www.lognet-systems.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "lognet",
+  "finderId": "lognet",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חורש האלונים",
+      "houseNumber": 18,
+      "city": "רמת ישי",
+      "lat": 32.7084754,
+      "lon": 35.1744377
+    }
+  ]
+}

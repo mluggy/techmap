@@ -1,0 +1,23 @@
+{
+  "name": "Autobrains Technologies",
+  "description": "Leveraging human-like driving intelligence to enhance road safety.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/autobrains_technologies-logo.webp",
+  "websiteUrl": "https://autobrains.ai/",
+  "careersUrl": "https://autobrain.com/careers",
+  "isHiring": true,
+  "linkedinId": "autobrains-technologies",
+  "crunchbaseId": "cartica-ai",
+  "finderId": "autobrains",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 52,
+      "city": "תל אביב - יפו",
+      "lat": 32.0634798,
+      "lon": 34.7802841
+    }
+  ]
+}

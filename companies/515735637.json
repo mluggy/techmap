@@ -1,0 +1,23 @@
+{
+  "name": "Resident Home",
+  "description": "They provide a range of bedding products designed for optimal comfort and a great sleeping experience.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/resident_home-logo.webp",
+  "websiteUrl": "https://www.residenthome.com/",
+  "careersUrl": "https://www.residenthome.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "resident",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דה וינצ'י לאונרדו",
+      "houseNumber": 12,
+      "city": "תל אביב - יפו",
+      "lat": 32.0761833,
+      "lon": 34.7843512
+    }
+  ]
+}

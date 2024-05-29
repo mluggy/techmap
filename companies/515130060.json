@@ -1,0 +1,23 @@
+{
+  "name": "White Swell Medical",
+  "description": "A multinational company with offices in Ireland, Israel, and the USA, providing innovative solutions and services.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/white_swell_medical-logo.webp",
+  "websiteUrl": "https://whiteswell.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "whiteswell",
+  "crunchbaseId": null,
+  "finderId": "whiteswell-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מרכז מסחרי-חוצות שפיים",
+      "houseNumber": null,
+      "city": "שפיים",
+      "lat": 32.22031707252465,
+      "lon": 34.82751392944944
+    }
+  ]
+}

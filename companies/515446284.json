@@ -1,0 +1,23 @@
+{
+  "name": "Valfix Medical",
+  "description": "A medical device startup focused on innovative heart healing solutions, advancing from proof of concept to clinical trials.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/valfix_medical-logo.webp",
+  "websiteUrl": "https://www.valfixmed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "valfix-medical",
+  "crunchbaseId": null,
+  "finderId": "valfix-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 126,
+      "city": "תל אביב - יפו",
+      "lat": 32.074473,
+      "lon": 34.795669
+    }
+  ]
+}

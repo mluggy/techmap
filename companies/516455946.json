@@ -1,0 +1,23 @@
+{
+  "name": "Trackimed",
+  "description": "Platform for AI-assisted Operating Room Management.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/trackimed-logo.webp",
+  "websiteUrl": "https://www.trackmedium.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "trackimed",
+  "crunchbaseId": null,
+  "finderId": "trackimed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברקת",
+      "houseNumber": 8,
+      "city": "תל מונד",
+      "lat": 32.2499457,
+      "lon": 34.9087449
+    }
+  ]
+}

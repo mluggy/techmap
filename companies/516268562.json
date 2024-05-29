@@ -1,0 +1,23 @@
+{
+  "name": "Perun Cloud",
+  "description": "A platform that automatically and effortlessly provides scalable environments as a service.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/perun_cloud-logo.webp",
+  "websiteUrl": "https://www.perun.cloud/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "perun-cloud",
+  "crunchbaseId": "perun-cloud",
+  "finderId": "perun",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בני אפרים",
+      "houseNumber": 280,
+      "city": "תל אביב - יפו",
+      "lat": 32.122857,
+      "lon": 34.823922
+    }
+  ]
+}

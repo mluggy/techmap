@@ -1,0 +1,23 @@
+{
+  "name": "Angel Sense",
+  "description": "Enhancing safety, independence, and well-being with a comprehensive GPS device featuring real-time monitoring, assistive communication, and proactive alerts.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/angel_sense-logo.webp",
+  "websiteUrl": "https://www.angelsense.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "angelsense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מבוא אתרוג",
+      "houseNumber": 1,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0354335,
+      "lon": 34.8821282
+    }
+  ]
+}

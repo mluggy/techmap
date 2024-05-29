@@ -1,0 +1,23 @@
+{
+  "name": "Contilt",
+  "description": "Automating multilingual content creation and research for high-quality, human-like writing.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/contilt-logo.webp",
+  "websiteUrl": "https://contilt.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "contilt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 28,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

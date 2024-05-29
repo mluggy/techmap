@@ -1,0 +1,23 @@
+{
+  "name": "Opcar Ev",
+  "description": "Management of Electric Vehicle Charging Services.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/opcar_ev-logo.webp",
+  "websiteUrl": "https://opcar-ev.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "opcar-ev",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהדות קנדה",
+      "houseNumber": 3,
+      "city": "אור יהודה",
+      "lat": 32.02127515,
+      "lon": 34.85995271599141
+    }
+  ]
+}

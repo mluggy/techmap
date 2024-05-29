@@ -1,0 +1,23 @@
+{
+  "name": "Trucknet Enterprise",
+  "description": "A digital platform utilizing AI, BI, and MI to help logistics and transportation companies optimize and manage shipments cost-effectively.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/trucknet_enterprise-logo.webp",
+  "websiteUrl": "https://www.trucknet.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "busnet-&-trucknet",
+  "crunchbaseId": null,
+  "finderId": "trucknet-enterprise",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השרטט",
+      "houseNumber": 1,
+      "city": "אילת",
+      "lat": 29.5984857,
+      "lon": 34.9742148
+    }
+  ]
+}

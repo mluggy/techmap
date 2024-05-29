@@ -1,0 +1,23 @@
+{
+  "name": "Skillinn Technologies",
+  "description": "A platform for showcasing skills, finding needed talents, and connecting with potential employers on YouTube.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/skillinn_technologies-logo.webp",
+  "websiteUrl": "https://skillinn.com/",
+  "careersUrl": "https://skillinn.com/jobseeker/search",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": "skillinn-technologies",
+  "finderId": "skillinn",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון",
+      "houseNumber": 22,
+      "city": "הרצליה",
+      "lat": 32.1624473,
+      "lon": 34.842019629406224
+    }
+  ]
+}

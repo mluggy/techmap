@@ -1,0 +1,23 @@
+{
+  "name": "Psyga Bio",
+  "description": "A pioneering drug discovery firm harnessing natural compounds for revolutionary therapeutics, spearheaded by renowned researcher Prof. Dedi Meiri from the Technion.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/psyga_bio-logo.webp",
+  "websiteUrl": "http://www.psygabio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "psygabio",
+  "crunchbaseId": null,
+  "finderId": "psygabio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תרשיש-פארק התעשייה",
+      "houseNumber": 9,
+      "city": "קיסריה",
+      "lat": 32.4879599,
+      "lon": 34.9040366
+    }
+  ]
+}

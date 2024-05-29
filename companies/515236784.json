@@ -1,0 +1,23 @@
+{
+  "name": "Omnix Medical",
+  "description": "A biopharmaceutical firm founded in 2015, developing innovative antibiotics to combat drug-resistant bacterial infections globally.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/omnix_medical-logo.webp",
+  "websiteUrl": "https://omnixmedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "omnix-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרופ רקח",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.7679937,
+      "lon": 35.1973517
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Alike",
+  "description": "Automated patient self-monitoring system powered by AI technology.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/alike-logo.webp",
+  "websiteUrl": "https://www.alike.health/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "alike-health",
+  "crunchbaseId": null,
+  "finderId": "alike-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בלוך דוד",
+      "houseNumber": 33,
+      "city": "תל אביב - יפו",
+      "lat": 32.083343,
+      "lon": 34.78447
+    }
+  ]
+}

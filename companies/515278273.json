@@ -1,0 +1,23 @@
+{
+  "name": "Daytwo",
+  "description": "They provide personalized nutrition recommendations based on gut microbiome analysis to manage type 2 diabetes and optimize health.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/daytwo-logo.webp",
+  "websiteUrl": "https://www.daytwo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "daytwo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

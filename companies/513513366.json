@@ -1,0 +1,23 @@
+{
+  "name": "Cellopark Technologies",
+  "description": "A mobile app offering convenient parking solutions with additional services such as alerts, roadside assistance, car washes, and public transit information.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/cellopark_technologies-logo.webp",
+  "websiteUrl": "https://www.cello-app.com/",
+  "careersUrl": "https://cello-app.com/jobs/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cellopark",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרוקמים",
+      "houseNumber": 26,
+      "city": "חולון",
+      "lat": 32.0077054,
+      "lon": 34.80060304320986
+    }
+  ]
+}

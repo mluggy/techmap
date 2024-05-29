@@ -1,0 +1,23 @@
+{
+  "name": "Hys Energy",
+  "description": "An Israeli Cleantech startup innovating in the waste-to-energy field by developing advanced electrochemical processes for the eco-friendly treatment of sulfur-containing gases.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/hys_energy-logo.webp",
+  "websiteUrl": "https://hys-energy.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hys-energy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד יוספטל גיורא",
+      "houseNumber": 102,
+      "city": "בת ים",
+      "lat": 32.0151318,
+      "lon": 34.7528142
+    }
+  ]
+}

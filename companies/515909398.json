@@ -1,0 +1,23 @@
+{
+  "name": "Newt Personalized Nutrition",
+  "description": "Online Dietary Assistance Service.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/newt_personalized_nutrition-logo.webp",
+  "websiteUrl": "https://www.newtfit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "newtfit",
+  "crunchbaseId": "newt-personalized-nutrition",
+  "finderId": "newt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הוד",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.78544755,
+      "lon": 34.969002826824436
+    }
+  ]
+}

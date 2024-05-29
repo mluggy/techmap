@@ -1,0 +1,23 @@
+{
+  "name": "Embryonics",
+  "description": "The company specializes in AI-driven IVF software solutions to enhance reproductive health.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/embryonics-logo.webp",
+  "websiteUrl": "https://www.embryonics.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "embryonics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סירקין",
+      "houseNumber": 21,
+      "city": "חיפה",
+      "lat": 32.809763,
+      "lon": 35.0003229
+    }
+  ]
+}

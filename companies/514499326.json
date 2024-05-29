@@ -1,0 +1,23 @@
+{
+  "name": "Tectonic Engineering And Development",
+  "description": "Offering curated, high-quality essentials for daily use, including wallets and travel accessories.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/tectonic_engineering_and_development-logo.webp",
+  "websiteUrl": "https://ridge.com/",
+  "careersUrl": "https://tectonicengineering.com/home/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tectonic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוצקין",
+      "houseNumber": 17,
+      "city": "טירת כרמל",
+      "lat": 32.768787,
+      "lon": 34.9737793
+    }
+  ]
+}

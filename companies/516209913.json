@@ -1,0 +1,23 @@
+{
+  "name": "Co Moving Carpool",
+  "description": "A real-time management platform optimizing organizational travel by increasing shared rides, saving resources, and reducing air pollution.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/co_moving_carpool-logo.webp",
+  "websiteUrl": "https://www.co-moving.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "co-moving-carpool",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "טביוב",
+      "houseNumber": 14,
+      "city": "תל אביב - יפו",
+      "lat": 32.06525,
+      "lon": 34.797774
+    }
+  ]
+}

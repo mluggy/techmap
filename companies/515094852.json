@@ -1,0 +1,23 @@
+{
+  "name": "Reshetcall",
+  "description": "Call Centers Hosted on the Cloud.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/reshetcall-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "reshetcall-sip",
+  "crunchbaseId": "reshetcall",
+  "finderId": "reshetcall",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 32,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

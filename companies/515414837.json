@@ -1,0 +1,23 @@
+{
+  "name": "Poultrix",
+  "description": "This innovative farm management solution enables real-time monitoring and decision-making from any location.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/poultrix-logo.webp",
+  "websiteUrl": "https://poultrix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "poultrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.109818,
+      "lon": 34.841254
+    }
+  ]
+}

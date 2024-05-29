@@ -1,0 +1,23 @@
+{
+  "name": "Yehonatan Medical",
+  "description": "Healthcare Solutions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/yehonatan_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "yehonatan-medical",
+  "crunchbaseId": null,
+  "finderId": "yehonatan-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ישיבת כפר עציון",
+      "houseNumber": 1,
+      "city": "כפר עציון",
+      "lat": 31.65152204314153,
+      "lon": 35.114346306996445
+    }
+  ]
+}

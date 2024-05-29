@@ -1,0 +1,30 @@
+{
+  "name": "Neureality",
+  "description": "Deploy and Scale Inference Workflows with the Leader in Purpose-Built Solutions for AI.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/neureality-logo.webp",
+  "websiteUrl": "https://www.neureality.ai/",
+  "careersUrl": "https://www.neureality.ai/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "neureality",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תרשיש",
+      "houseNumber": 14,
+      "city": "קיסריה",
+      "lat": 32.4879599,
+      "lon": 34.9040366
+    },
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.069018,
+      "lon": 34.7941094
+    }
+  ]
+}

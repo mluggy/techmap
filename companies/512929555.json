@@ -1,0 +1,23 @@
+{
+  "name": "Deep Optics",
+  "description": "This company offers lightweight, natural-looking adaptive sunglasses featuring innovative patented technology.",
+  "categoryId": 4,
+  "size": "s",
+  "logoFile": "logos/deep_optics-logo.webp",
+  "websiteUrl": "https://www.deepoptics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "deep-optics",
+  "crunchbaseId": null,
+  "finderId": "deepoptics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אזור התעשיה",
+      "houseNumber": null,
+      "city": "עכו",
+      "lat": 32.979171,
+      "lon": 35.271973
+    }
+  ]
+}

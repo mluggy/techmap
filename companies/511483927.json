@@ -1,0 +1,23 @@
+{
+  "name": "Medoc",
+  "description": "A pioneering company in quantitative sensory testing for three decades, offering FDA-approved and CE-certified devices.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/medoc_ltd-logo.webp",
+  "websiteUrl": "https://www.medoc-web.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medoc",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדקל",
+      "houseNumber": 1,
+      "city": "רמת ישי",
+      "lat": 32.7061453,
+      "lon": 35.1728937
+    }
+  ]
+}

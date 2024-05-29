@@ -1,0 +1,23 @@
+{
+  "name": "Asmedic",
+  "description": "Founded in 2005, this company specializes in pioneering respiratory delivery and diagnostic systems, funded by its founders, a pharmaceutical partnership, and the Israel Innovative Authority.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/asmedic-logo.webp",
+  "websiteUrl": "https://asmedic.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "asmedic",
+  "finderId": "asmedic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התיכון",
+      "houseNumber": 14,
+      "city": "חיפה",
+      "lat": 32.7902481,
+      "lon": 35.0160846
+    }
+  ]
+}

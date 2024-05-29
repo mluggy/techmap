@@ -1,0 +1,23 @@
+{
+  "name": "Twilight Cyber",
+  "description": "A free service providing instant translation for texts and web pages in over 100 languages.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/twilight_cyber-logo.webp",
+  "websiteUrl": "https://translate.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "twilight-cyber",
+  "crunchbaseId": null,
+  "finderId": "twilight-cyber",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "טיילת גמלא",
+      "houseNumber": 17,
+      "city": "קצרין",
+      "lat": 32.9911704,
+      "lon": 35.6872193
+    }
+  ]
+}

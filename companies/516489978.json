@@ -1,0 +1,23 @@
+{
+  "name": "Pixend",
+  "description": "A versatile platform offering both app and web portal options to simplify photo distribution for large events.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/pixend-logo.webp",
+  "websiteUrl": "https://pixend.app/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pixend",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מאפו",
+      "houseNumber": 15,
+      "city": "רעננה",
+      "lat": 32.1872264,
+      "lon": 34.8836102
+    }
+  ]
+}

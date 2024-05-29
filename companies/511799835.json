@@ -1,0 +1,23 @@
+{
+  "name": "Univo Pharmaceuticals",
+  "description": "Offering an extensive catalog of over 600,000 chemical products, BLDpharm continually updates its selection with 1,000 new additions each month.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/univo_pharmaceuticals-logo.webp",
+  "websiteUrl": "https://www.bldpharm.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "d-pharm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 20,
+      "city": "אשקלון",
+      "lat": 31.6364197,
+      "lon": 34.5497579
+    }
+  ]
+}

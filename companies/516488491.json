@@ -1,0 +1,23 @@
+{
+  "name": "Ecoprice",
+  "description": "An AI-driven solution offering eCommerce stores personalized, real-time pricing strategies to boost profitability and competitive advantage.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/ecoprice-logo.webp",
+  "websiteUrl": "https://www.intelis.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ecoprice",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרת משה",
+      "houseNumber": 6,
+      "city": "ראשון לציון",
+      "lat": 31.9932733,
+      "lon": 34.755049
+    }
+  ]
+}

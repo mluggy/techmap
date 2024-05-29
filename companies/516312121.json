@@ -1,0 +1,23 @@
+{
+  "name": "Keepy AI",
+  "description": "The company offers a unique platform that integrates people analytics with performance metrics to optimize software engineering team productivity.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/keepy_ai-logo.webp",
+  "websiteUrl": "https://www.keepy.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "keepy-ai",
+  "finderId": "keepy-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

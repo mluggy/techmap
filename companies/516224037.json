@@ -1,0 +1,23 @@
+{
+  "name": "Vidiplus",
+  "description": "Offering over 300 online courses, VISIPLUS Digital Learning specializes in distance education across various fields such as marketing, communication, digital, web development, real estate, human resources, management, commercial development, and customer relations.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/vidiplus-logo.webp",
+  "websiteUrl": "https://www.visiplus-digital-learning.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vidiplus",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הצמיחה",
+      "houseNumber": 1,
+      "city": "יקנעם עילית",
+      "lat": 32.668888,
+      "lon": 35.107009
+    }
+  ]
+}

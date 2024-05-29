@@ -1,0 +1,23 @@
+{
+  "name": "Vanti Analytics",
+  "description": "A platform that enhances manufacturing processes using artificial intelligence.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/vanti_analytics-logo.webp",
+  "websiteUrl": "https://www.vanti.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vanti-ai",
+  "crunchbaseId": "vanti-analytics",
+  "finderId": "vanti-analytics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.065253,
+      "lon": 34.785664
+    }
+  ]
+}

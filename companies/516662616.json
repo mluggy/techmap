@@ -1,0 +1,23 @@
+{
+  "name": "Upwind Security",
+  "description": "Redefining cloud security with real-time risk identification, immediate threat response, and enhanced team productivity.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/upwind_security-logo.webp",
+  "websiteUrl": "https://www.upwind.io/",
+  "careersUrl": "https://www.upwind.io/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "upwind-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 152,
+      "city": "תל אביב - יפו",
+      "lat": 32.079241,
+      "lon": 34.795072
+    }
+  ]
+}

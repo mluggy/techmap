@@ -1,0 +1,23 @@
+{
+  "name": "Rapidocad",
+  "description": "Leveraging AI and Big Data, this company streamlines the building permit process for architects, enhancing efficiency and reducing bureaucracy.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/rapidocad-logo.webp",
+  "websiteUrl": "https://rapidocad.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "rapidocad",
+  "crunchbaseId": null,
+  "finderId": "rapidocad",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משאת משה",
+      "houseNumber": 3,
+      "city": "ירושלים",
+      "lat": 31.7638783,
+      "lon": 35.197052
+    }
+  ]
+}

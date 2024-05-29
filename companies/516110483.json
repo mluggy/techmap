@@ -1,0 +1,23 @@
+{
+  "name": "Eyeviation",
+  "description": "An AI-driven platform offering adaptive, real-time personalized training for unparalleled skill development.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/eyeviation-logo.webp",
+  "websiteUrl": "https://www.eyeviation.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eyeviation",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אל המעיין",
+      "houseNumber": 1,
+      "city": "עין עירון",
+      "lat": 32.4825507,
+      "lon": 35.0094761
+    }
+  ]
+}

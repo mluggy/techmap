@@ -1,0 +1,23 @@
+{
+  "name": "Rainguard AI",
+  "description": "We are building the compute platform that will power the future of AI infrastructure and redefine the cost of compute.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/rainguard_ai-logo.webp",
+  "websiteUrl": "https://rain.ai/",
+  "careersUrl": "https://il.linkedin.com/jobs/view/artificial-intelligence-engineer-at-rainguard-3925218508",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rainguard-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המעגל",
+      "houseNumber": 13,
+      "city": "רמת גן",
+      "lat": 32.08309810376164,
+      "lon": 34.81294065390987
+    }
+  ]
+}

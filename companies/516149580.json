@@ -1,0 +1,23 @@
+{
+  "name": "Beefree Agro",
+  "description": "A tech firm leveraging AI and drone technology to enhance livestock management through comprehensive operational insights.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/beefree_agro-logo.webp",
+  "websiteUrl": "https://www.beefreeagro.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "beefree-agro",
+  "crunchbaseId": null,
+  "finderId": "beefree-agro",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 3,
+      "city": "יקנעם עילית",
+      "lat": 32.6578027,
+      "lon": 35.1002987
+    }
+  ]
+}

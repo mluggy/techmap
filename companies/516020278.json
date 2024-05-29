@@ -1,0 +1,23 @@
+{
+  "name": "Sosivio",
+  "description": "An impermanent daemon in an adjacent container gathers data and provides insights to keep systems running smoothly without disrupting artifacts and containers.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/sosivio-logo.webp",
+  "websiteUrl": "https://sosiv.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sosivio",
+  "crunchbaseId": "sosivio",
+  "finderId": "sosivio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חפץ ישה",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.116191,
+      "lon": 34.787494
+    }
+  ]
+}

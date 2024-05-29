@@ -1,0 +1,23 @@
+{
+  "name": "Noviopus",
+  "description": "Facilitating seamless connections between employment professionals and aspirants.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/noviopus-logo.webp",
+  "websiteUrl": "https://noviopus.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "noviopus1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שיאון",
+      "houseNumber": 6,
+      "city": "ראשון לציון",
+      "lat": 31.9812579,
+      "lon": 34.7580667
+    }
+  ]
+}

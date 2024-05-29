@@ -1,0 +1,23 @@
+{
+  "name": "Diversion Israel",
+  "description": "Solution for managing code effectively.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/diversion_israel-logo.webp",
+  "websiteUrl": "https://www.diversion.dev/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "diversion-company-inc",
+  "crunchbaseId": null,
+  "finderId": "diversion",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מגידו",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.080542,
+      "lon": 34.778275
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Xyte Technologies",
+  "description": "Effortlessly deploy a fully branded, multi-tenant cloud platform without coding.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/xyte_technologies-logo.webp",
+  "websiteUrl": "https://www.xyte.io/",
+  "careersUrl": "https://www.xyte.io/careers",
+  "isHiring": true,
+  "linkedinId": "xyte",
+  "crunchbaseId": "xyte",
+  "finderId": "xyte",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08452905,
+      "lon": 34.80020929592628
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wing Security",
+  "description": "The company offers an SSPM solution to securely manage and monitor all SaaS applications, minimizing risks and identifying the first 100 apps for free.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/wing_security-logo.webp",
+  "websiteUrl": "https://wing.security/",
+  "careersUrl": "https://wing.security/careers/",
+  "isHiring": true,
+  "linkedinId": "wing-security",
+  "crunchbaseId": "wing-security",
+  "finderId": "wing-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

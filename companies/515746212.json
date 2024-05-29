@@ -1,0 +1,23 @@
+{
+  "name": "Cynerio Israel",
+  "description": "Dedicated to healthcare, this company secures medical devices, halts cyber attacks, and safeguards patient information.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/cynerio_israel-logo.webp",
+  "websiteUrl": "https://www.cynerio.com/",
+  "careersUrl": "https://www.cynerio.com/careers",
+  "isHiring": true,
+  "linkedinId": "cynerio",
+  "crunchbaseId": "cynerio",
+  "finderId": "cynerio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 5,
+      "city": "רמת גן",
+      "lat": 32.0845555,
+      "lon": 34.80095822826725
+    }
+  ]
+}

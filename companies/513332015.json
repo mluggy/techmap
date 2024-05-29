@@ -1,0 +1,23 @@
+{
+  "name": "Spetz Tech",
+  "description": "An innovative app that swiftly links users to highly-rated local service professionals.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/spetz_tech-logo.webp",
+  "websiteUrl": "https://www.spetz.app/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "spetz-ltd",
+  "crunchbaseId": null,
+  "finderId": "spetz1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפלך",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.050538,
+      "lon": 34.766862
+    }
+  ]
+}

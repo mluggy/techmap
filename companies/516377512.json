@@ -1,0 +1,23 @@
+{
+  "name": "Flare Studios",
+  "description": "An EVM-based blockchain providing developers with secure, decentralized access to high-integrity data across various chains.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/flare_studios-logo.webp",
+  "websiteUrl": "https://flare.network/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "flare-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 39,
+      "city": "חיפה",
+      "lat": 32.8228261,
+      "lon": 34.9943882
+    }
+  ]
+}

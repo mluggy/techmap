@@ -1,0 +1,23 @@
+{
+  "name": "Notal Vision",
+  "description": "We provide eye care solutions utilizing advanced diagnostic data and analysis to support personalized and timely treatment decisions.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/notal_vision_ltd-logo.webp",
+  "websiteUrl": "https://notalvision.com/",
+  "careersUrl": "https://notalvision.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "notal-vision",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרויאנוב",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.076978,
+      "lon": 34.771767
+    }
+  ]
+}

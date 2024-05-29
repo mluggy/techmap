@@ -1,0 +1,23 @@
+{
+  "name": "Balcar Report",
+  "description": "Virtual Inspection Service for Used Cars Before Purchase.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/balcar_report-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "balcar-report",
+  "finderId": "balcar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' רוקח",
+      "houseNumber": 101,
+      "city": "תל אביב - יפו",
+      "lat": 32.1053566,
+      "lon": 34.811018495092924
+    }
+  ]
+}

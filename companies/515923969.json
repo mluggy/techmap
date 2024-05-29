@@ -1,0 +1,23 @@
+{
+  "name": "Embie Clinic",
+  "description": "Empowering clinics and patients with enhanced collaboration, transparency, and satisfaction through advanced data analytics, visualization tools, and streamlined digital workflows.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/embie_clinic-logo.webp",
+  "websiteUrl": "https://embieclinic.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "embie-clinic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "טרומפלדור",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.075347,
+      "lon": 34.766947
+    }
+  ]
+}

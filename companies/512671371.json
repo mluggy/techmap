@@ -1,0 +1,23 @@
+{
+  "name": "Bio View",
+  "description": "We provide automated platforms that streamline imaging, analysis, and reporting for cytogenetic, oncology, and pathology labs, accommodating various sample volumes and automation needs.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/bio_view-logo.webp",
+  "websiteUrl": "https://bioview.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bioview",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פקריס",
+      "houseNumber": 3,
+      "city": "רחובות",
+      "lat": 31.9119094,
+      "lon": 34.804801
+    }
+  ]
+}

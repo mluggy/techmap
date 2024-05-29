@@ -1,0 +1,23 @@
+{
+  "name": "Cargozone",
+  "description": "A leading freight logistics company based in Carson, CA specializing in efficient transportation solutions.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/cargozone-logo.webp",
+  "websiteUrl": "http://cfs.cargozoneinc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cargozone",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 4,
+      "city": "ברקן",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

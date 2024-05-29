@@ -1,0 +1,23 @@
+{
+  "name": "Attengo",
+  "description": "Training attention and concentration skills through unique computer exercises that address background distractions with immediate performance feedback.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/attengo-logo.webp",
+  "websiteUrl": "https://attengo.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "attengo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כבוש העבודה",
+      "houseNumber": 17,
+      "city": "הרצליה",
+      "lat": 32.17238910283201,
+      "lon": 34.84362104456016
+    }
+  ]
+}

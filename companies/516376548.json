@@ -1,0 +1,23 @@
+{
+  "name": "Rider 21",
+  "description": "Global Reservation Management Platform.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/rider_21-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rider1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אפעל",
+      "houseNumber": 25,
+      "city": "פתח תקווה",
+      "lat": 32.09584395,
+      "lon": 34.846930395423286
+    }
+  ]
+}

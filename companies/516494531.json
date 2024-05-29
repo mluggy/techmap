@@ -1,0 +1,23 @@
+{
+  "name": "Glow Application",
+  "description": "A programming language tailored for safely and user-friendly creating decentralized applications.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/glow_application-logo.webp",
+  "websiteUrl": "https://glow-lang.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "glow-application",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נעמי שמר",
+      "houseNumber": 11,
+      "city": "רעננה",
+      "lat": 32.19467255,
+      "lon": 34.86333624485158
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Adicet Bio Israel",
+  "description": "A biotechnology firm innovating off-the-shelf allogeneic gamma delta T cell therapies to treat cancer.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/adicet_bio_israel-logo.webp",
+  "websiteUrl": "https://www.adicetbio.com/",
+  "careersUrl": "https://www.adicetbio.com/careers/overview/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "adicet-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ווטסון ליונל",
+      "houseNumber": 16,
+      "city": "חיפה",
+      "lat": 32.7770652,
+      "lon": 34.9936935
+    }
+  ]
+}

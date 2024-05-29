@@ -1,0 +1,23 @@
+{
+  "name": "Vision Bi",
+  "description": "Specializing in data engineering and software development, this company transforms organizational data into actionable insights through BI projects, analytics, cloud migration, and data science expertise.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/vision_bi-logo.webp",
+  "websiteUrl": "https://www.vision.bi/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vision-bi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.10981,
+      "lon": 34.838876
+    }
+  ]
+}

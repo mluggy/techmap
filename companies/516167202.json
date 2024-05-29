@@ -1,0 +1,23 @@
+{
+  "name": "Ironcomm",
+  "description": "We offer advanced software to streamline incident management and reduce unplanned downtime in production and operations.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/ironcomm-logo.webp",
+  "websiteUrl": "https://www.ironcommunication.com/",
+  "careersUrl": "https://www.ironcommunication.com/jobs",
+  "isHiring": true,
+  "linkedinId": "ironcomm",
+  "crunchbaseId": null,
+  "finderId": "ironcomm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרב משורר ישעיהו",
+      "houseNumber": 6,
+      "city": "פתח תקווה",
+      "lat": 32.0684004,
+      "lon": 34.9085639
+    }
+  ]
+}

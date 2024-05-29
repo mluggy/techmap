@@ -1,0 +1,23 @@
+{
+  "name": "Fruitspec",
+  "description": "Estimating Fruit Production.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/fruitspec-logo.webp",
+  "websiteUrl": "https://www.fruitspec.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "fruitspec",
+  "crunchbaseId": "fruitspec",
+  "finderId": "fruitspec",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 150,
+      "city": "תל אביב - יפו",
+      "lat": 32.0605137,
+      "lon": 34.7759853
+    }
+  ]
+}

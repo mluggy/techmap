@@ -1,0 +1,23 @@
+{
+  "name": "Samsung Electronics",
+  "description": "A company specializing in advanced semiconductors and electronics, using cookies to gather data for enhancing website performance.",
+  "categoryId": 16,
+  "size": "l",
+  "logoFile": "logos/samsung_electronics-logo.webp",
+  "websiteUrl": "https://semiconductor.samsung.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "samsung",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המשכית",
+      "houseNumber": 22,
+      "city": "הרצליה",
+      "lat": 32.16403862294503,
+      "lon": 34.810517776892965
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Wix.com",
+  "description": "Build and enhance your online presence effortlessly with a comprehensive suite of design, business, and SEO tools.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/wix_what-logo.webp",
+  "websiteUrl": "https://www.wix.com/",
+  "careersUrl": "https://careers.wix.com/positions",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "מתחם גלילות",
+      "lat": 32.1423659597045,
+      "lon": 34.80002922966353
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "באר שבע",
+      "lat": 31.264237724223623,
+      "lon": 34.813968375225606
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "חיפה",
+      "lat": 32.82351781914197,
+      "lon": 34.99234542325772
+    }
+  ]
+}

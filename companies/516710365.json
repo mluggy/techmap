@@ -1,0 +1,23 @@
+{
+  "name": "Peersmd",
+  "description": "Combining medical expertise with technological innovation to enhance patient care and support healthcare providers in rural areas.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/peersmd-logo.webp",
+  "websiteUrl": "https://www.peers.md/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "peers-md",
+  "crunchbaseId": null,
+  "finderId": "peersmd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבנר",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.12466,
+      "lon": 34.832539
+    }
+  ]
+}

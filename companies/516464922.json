@@ -1,0 +1,23 @@
+{
+  "name": "Datadog Israel",
+  "description": "We provide a cloud-based monitoring and security platform for developers, IT operations teams, and business users.",
+  "categoryId": 6,
+  "size": "xl",
+  "logoFile": "logos/datadog_israel-logo.webp",
+  "websiteUrl": "https://www.datadoghq.com/",
+  "careersUrl": "https://careers.datadoghq.com/",
+  "isHiring": true,
+  "linkedinId": "datadog",
+  "crunchbaseId": null,
+  "finderId": "datadog",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ריב\"ל",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.062831,
+      "lon": 34.782228
+    }
+  ]
+}

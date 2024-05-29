@@ -1,0 +1,23 @@
+{
+  "name": "Polywizz",
+  "description": "A system designed for insurance professionals in Israel, offering one-click aggregation, analysis, and optimization recommendations for customer insurance portfolios.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/polywizz-logo.webp",
+  "websiteUrl": "https://www.polywizz.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "polywizz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מצדה",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.0914266,
+      "lon": 34.8251051
+    }
+  ]
+}

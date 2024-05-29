@@ -1,0 +1,23 @@
+{
+  "name": "Arrakis Bio",
+  "description": "A Tel Aviv-based biotechnology company dedicated to producing true collagen to create a more humane world.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/arrakis_bio-logo.webp",
+  "websiteUrl": "https://arrakis.bio/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "arrakis-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמק איילון",
+      "houseNumber": 32,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9029763,
+      "lon": 35.0134878
+    }
+  ]
+}

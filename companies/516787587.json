@@ -1,0 +1,23 @@
+{
+  "name": "Recallcue",
+  "description": "This service transforms tablets into user-friendly day clocks and offers a mobile app to enhance the life of loved ones remotely.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/recallcue-logo.webp",
+  "websiteUrl": "https://www.recallcue.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "recallcue",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היסמין",
+      "houseNumber": 24,
+      "city": "בית שמש",
+      "lat": 31.7389162,
+      "lon": 34.9747545
+    }
+  ]
+}

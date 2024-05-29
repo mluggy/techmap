@@ -1,0 +1,23 @@
+{
+  "name": "Dym Sense",
+  "description": "A sensor that measures a driver's blood alcohol levels without any invasive procedures.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/dym_sense-logo.webp",
+  "websiteUrl": "https://www.dymsense.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "dymsense",
+  "crunchbaseId": "dym-sense",
+  "finderId": "dym-sense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "איתן",
+      "houseNumber": 1,
+      "city": "ראשון לציון",
+      "lat": 31.99353945,
+      "lon": 34.76535052179885
+    }
+  ]
+}

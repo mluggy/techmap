@@ -1,0 +1,23 @@
+{
+  "name": "Unicorns Exchange",
+  "description": "A leading marketplace facilitating the trade of private, venture-backed tech companies' shares using innovative proprietary technology for scaled efficiency.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/unicorns_exchange-logo.webp",
+  "websiteUrl": "https://unicorns.exchange/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "unicorns-exchange",
+  "crunchbaseId": null,
+  "finderId": "unicorns-exchange",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולי קניה",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.107872,
+      "lon": 34.832918
+    }
+  ]
+}

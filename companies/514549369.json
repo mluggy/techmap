@@ -1,0 +1,23 @@
+{
+  "name": "Genefron",
+  "description": "Custom Diagnostic Kits Based on Genetic Information.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/genefron-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "genefron",
+  "crunchbaseId": null,
+  "finderId": "genefron",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מבוא החרוב",
+      "houseNumber": 120,
+      "city": "הר אדר",
+      "lat": 31.82424821662498,
+      "lon": 35.12932665366495
+    }
+  ]
+}

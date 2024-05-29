@@ -1,0 +1,23 @@
+{
+  "name": "Icaros Geosystems",
+  "description": "עולם וירטואלי לשיפור הכושר הגופני באמצעות פעילות אינטראקטיבית.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/icaros_geosystems-logo.webp",
+  "websiteUrl": "https://www.icaros.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "icaros",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המדע",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.1663299,
+      "lon": 34.8124346
+    }
+  ]
+}

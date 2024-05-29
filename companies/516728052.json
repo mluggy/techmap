@@ -1,0 +1,23 @@
+{
+  "name": "Cell Lipo",
+  "description": "Customized Cellular Treatment.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cell_lipo-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cell-lipo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרם",
+      "houseNumber": 48,
+      "city": "כפר מרדכי",
+      "lat": 31.82826,
+      "lon": 34.7518174
+    }
+  ]
+}

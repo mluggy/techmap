@@ -1,0 +1,23 @@
+{
+  "name": "Lingacom",
+  "description": "Providing security solutions for container and vehicle inspection, as well as non-destructive underground imaging using cosmic ray muon technology.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/lingacom-logo.webp",
+  "websiteUrl": "https://lingacom.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "lingacom-ltd",
+  "crunchbaseId": null,
+  "finderId": "lingacom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.110182,
+      "lon": 34.838445
+    }
+  ]
+}

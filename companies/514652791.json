@@ -1,0 +1,23 @@
+{
+  "name": "Pulseem",
+  "description": "Providing 15 years of expert digital marketing services for businesses of all sizes.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/pulseem-logo.webp",
+  "websiteUrl": "https://site.pulseem.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pulseem",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' מסריק",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.0789864,
+      "lon": 34.7789275
+    }
+  ]
+}

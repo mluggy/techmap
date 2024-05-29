@@ -1,0 +1,23 @@
+{
+  "name": "Utila",
+  "description": "A trustworthy comprehensive resource for travel, lodging, activities, and events in Utila, Bay Islands, Honduras.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/utila-logo.webp",
+  "websiteUrl": "https://www.utilaguide.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "utila",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.064654,
+      "lon": 34.785584
+    }
+  ]
+}

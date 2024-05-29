@@ -1,0 +1,23 @@
+{
+  "name": "Quickcast",
+  "description": "Enabling seamless web video streaming on various popular devices, including Chromecast, AirPlay, DLNA, and Amazon Fire TV.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/quickcast-logo.webp",
+  "websiteUrl": "https://www.quickcast.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "quickcast",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התאנה",
+      "houseNumber": 2,
+      "city": "קיסריה",
+      "lat": 32.5055382,
+      "lon": 34.9080167
+    }
+  ]
+}

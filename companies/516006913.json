@@ -1,0 +1,23 @@
+{
+  "name": "Substrata",
+  "description": "A platform designed to decode social cues and navigate complex interactions for sales professionals and dealmakers.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/substrata-logo.webp",
+  "websiteUrl": "https://www.substrata.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "substrata",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ביל\"ו",
+      "houseNumber": 53,
+      "city": "תל אביב - יפו",
+      "lat": 32.072757,
+      "lon": 34.781009
+    }
+  ]
+}

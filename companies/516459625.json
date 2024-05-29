@@ -1,0 +1,23 @@
+{
+  "name": "Longevity AI",
+  "description": "A software platform that uses artificial intelligence to monitor and improve health.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/longevity_ai-logo.webp",
+  "websiteUrl": "https://www.longevity-ai.com/",
+  "careersUrl": "https://www.longevity-ai.com/Company/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "longevity-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גלבוע אמיר",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.116824,
+      "lon": 34.78768
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Medivizor",
+  "description": "A service providing patients with comprehensive, contextualized medical information to better understand and manage serious or chronic diseases.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medivizor-logo.webp",
+  "websiteUrl": "https://medivizor.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medivizor",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אהליאב",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.08769233337585,
+      "lon": 34.8022060856916
+    }
+  ]
+}

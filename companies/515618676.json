@@ -1,0 +1,23 @@
+{
+  "name": "Gskure",
+  "description": "Specializing in innovative drug design for clinical applications, this company leverages pioneering research on GSK-3 inhibitors to develop therapeutic treatments for human diseases.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/gskure-logo.webp",
+  "websiteUrl": "http://gskure.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cerebramed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד עמק איילון",
+      "houseNumber": 61,
+      "city": "שוהם",
+      "lat": 31.9921586,
+      "lon": 34.946045
+    }
+  ]
+}

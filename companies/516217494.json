@@ -1,0 +1,23 @@
+{
+  "name": "Sense Environment",
+  "description": "Handling and processing of hazardous waste materials.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/sense_environment-logo.webp",
+  "websiteUrl": "https://www.s-env.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sense-environment",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העצמאות",
+      "houseNumber": 95,
+      "city": "פתח תקווה",
+      "lat": 32.0742051,
+      "lon": 34.867243
+    }
+  ]
+}

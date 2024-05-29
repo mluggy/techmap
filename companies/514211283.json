@@ -1,0 +1,23 @@
+{
+  "name": "Attenti Electronic Monitoring Group",
+  "description": "A software suite that analyzes monitoring data to identify behavioral trends.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/attenti_electronic_monitoring_group-logo.webp",
+  "websiteUrl": "https://www.attentigroup.com/",
+  "careersUrl": "https://www.attentigroup.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "attenti",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.106471,
+      "lon": 34.835657
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Aid Genomics",
+  "description": "An international medical tech group excels in cancer and infectious disease diagnostics and therapies through advanced testing platforms.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/aid_genomics-logo.webp",
+  "websiteUrl": "https://www.aidgenomics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aid-genomics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אימבר",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.0990908,
+      "lon": 34.8640032
+    }
+  ]
+}

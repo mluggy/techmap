@@ -1,0 +1,23 @@
+{
+  "name": "Two To Biotech",
+  "description": "A privately held biotech company focused on developing new biological molecules, including a human peptide hormone involved in the immune response.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/two_to_biotech-logo.webp",
+  "websiteUrl": "https://www.twotobiotech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "twotobiotech",
+  "crunchbaseId": null,
+  "finderId": "twotobiotech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד נוה יעקב",
+      "houseNumber": 508,
+      "city": "ירושלים",
+      "lat": 31.838088837778145,
+      "lon": 35.23681366068502
+    }
+  ]
+}

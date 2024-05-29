@@ -1,0 +1,23 @@
+{
+  "name": "Communi",
+  "description": "A platform fostering a community in the workplace powered by AI.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/communi-logo.webp",
+  "websiteUrl": "https://www.communi.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "communi-ltd",
+  "crunchbaseId": "communi",
+  "finderId": "communi-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קלעי",
+      "houseNumber": 8,
+      "city": "גבעתיים",
+      "lat": 32.07788385,
+      "lon": 34.80849731722448
+    }
+  ]
+}

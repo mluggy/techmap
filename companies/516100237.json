@@ -1,0 +1,23 @@
+{
+  "name": "Power Iq",
+  "description": "Appliances that are smartly integrated with the power grid.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/power_iq-logo.webp",
+  "websiteUrl": "https://poweriq.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "poweriq",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן יהודה",
+      "houseNumber": 32,
+      "city": "תל אביב - יפו",
+      "lat": 32.0764083,
+      "lon": 34.7682924
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Real Forest",
+  "description": "Digital Marketplace for Property Transactions.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/real_forest-logo.webp",
+  "websiteUrl": "https://www.realforest.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "real-forest",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד נשיאי ישראל",
+      "houseNumber": 11,
+      "city": "כרמיאל",
+      "lat": 32.9115397,
+      "lon": 35.2781367
+    }
+  ]
+}

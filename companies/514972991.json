@@ -1,0 +1,23 @@
+{
+  "name": "Tami Flour",
+  "description": "מותג חדשני המתמחה בערבובי קמחים איכותיים ללא גלוטן, תוך מתן דגש על בריאות וצרכי הלקוחות.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/tami_flour-logo.webp",
+  "websiteUrl": "https://tamiflour.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tami-flour",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית אל",
+      "houseNumber": 113,
+      "city": "כוכב יאיר",
+      "lat": 32.2255454,
+      "lon": 34.9952069
+    }
+  ]
+}

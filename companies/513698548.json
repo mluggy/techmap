@@ -1,0 +1,23 @@
+{
+  "name": "Cast Tv",
+  "description": "Services for streaming via OTT and IPTV platforms.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/cast_tv-logo.webp",
+  "websiteUrl": "https://video-tv-cast.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cast-tv",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רחבת הבנים",
+      "houseNumber": 2,
+      "city": "בית יצחק-שער חפר",
+      "lat": 32.327877970641346,
+      "lon": 34.89053797433484
+    }
+  ]
+}

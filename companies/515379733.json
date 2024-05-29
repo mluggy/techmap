@@ -1,0 +1,23 @@
+{
+  "name": "Bigvu",
+  "description": "An innovative app revolutionizing video production and storytelling with user-friendly features like a teleprompter for seamless script reading and eye contact.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/bigvu-logo.webp",
+  "websiteUrl": "https://bigvu.tv/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bigvu",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך אליהו נאוי",
+      "houseNumber": 24,
+      "city": "באר שבע",
+      "lat": 31.2445535,
+      "lon": 34.8053096
+    }
+  ]
+}

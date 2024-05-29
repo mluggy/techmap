@@ -1,0 +1,23 @@
+{
+  "name": "Book Like A Boss",
+  "description": "Online tool designed for small and medium-sized business management.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/book_like_a_boss-logo.webp",
+  "websiteUrl": "https://www.blab.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "booklikeaboss",
+  "crunchbaseId": null,
+  "finderId": "book-like-a-boss",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחל סורק",
+      "houseNumber": 32,
+      "city": "בית שמש",
+      "lat": 31.7160404,
+      "lon": 34.9931482
+    }
+  ]
+}

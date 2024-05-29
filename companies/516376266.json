@@ -1,0 +1,23 @@
+{
+  "name": "Grivo",
+  "description": "Platform for Home Charging Solutions.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/grivo-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "grivo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גינוסר",
+      "houseNumber": 8,
+      "city": "גבעת אלה",
+      "lat": 32.7214759,
+      "lon": 35.2464756
+    }
+  ]
+}

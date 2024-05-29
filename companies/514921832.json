@@ -1,0 +1,23 @@
+{
+  "name": "We Can",
+  "description": "Cups that stir your drinks.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/we_can-logo.webp",
+  "websiteUrl": "https://wecan.waspa.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "we-can",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פיקוס",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.034991,
+      "lon": 34.751156
+    }
+  ]
+}

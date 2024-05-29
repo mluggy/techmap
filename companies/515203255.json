@@ -1,0 +1,23 @@
+{
+  "name": "Intraposition",
+  "description": "Specializing in cost-effective, precise indoor positioning solutions for complex spaces like supermarkets, warehouses, and hospitals.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/intraposition-logo.webp",
+  "websiteUrl": "https://www.intraposition.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "intraposition",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטחנה",
+      "houseNumber": 40,
+      "city": "בנימינה",
+      "lat": 32.5115576,
+      "lon": 34.949588
+    }
+  ]
+}

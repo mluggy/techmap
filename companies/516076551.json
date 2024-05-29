@@ -1,0 +1,23 @@
+{
+  "name": "Justt Fintech",
+  "description": "Passionate about eggs, we craft plant-based alternatives that are delicious.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/justt_fintech-logo.webp",
+  "websiteUrl": "https://www.ju.st/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "justt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.072306,
+      "lon": 34.782064
+    }
+  ]
+}

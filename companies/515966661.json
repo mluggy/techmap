@@ -1,0 +1,23 @@
+{
+  "name": "Obli Guarantees",
+  "description": "An online solution replacing traditional security deposits.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/obli_guarantees-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "obliguarantees",
+  "crunchbaseId": null,
+  "finderId": "obli",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 12,
+      "city": "תל אביב - יפו",
+      "lat": 32.0617366,
+      "lon": 34.7828197
+    }
+  ]
+}

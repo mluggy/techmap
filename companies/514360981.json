@@ -1,0 +1,23 @@
+{
+  "name": "Sheltagen Medical",
+  "description": "An Israel-based healthcare company specializing in medical solutions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sheltagen_medical-logo.webp",
+  "websiteUrl": "https://www.sheltagen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sheltagen-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יפה נוף",
+      "houseNumber": 22,
+      "city": "עתלית",
+      "lat": 32.696193,
+      "lon": 34.9437519
+    }
+  ]
+}

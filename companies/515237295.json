@@ -1,0 +1,23 @@
+{
+  "name": "Safe Zone",
+  "description": "After a ceasefire with Armenia, Azerbaijan reopened its airspace, yet most airlines opt for safer routes through Georgian airspace.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/safe_zone-logo.webp",
+  "websiteUrl": "https://safeairspace.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "safe-zone",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מאיר גולדה",
+      "houseNumber": 17,
+      "city": "חיפה",
+      "lat": 32.7704664,
+      "lon": 35.0061008
+    }
+  ]
+}

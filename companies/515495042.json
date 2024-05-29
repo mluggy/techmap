@@ -1,0 +1,23 @@
+{
+  "name": "Pickspace",
+  "description": "Streamlining all property management processes to save time, money, and resources with automated solutions.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/pickspace-logo.webp",
+  "websiteUrl": "https://pickspace.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pickspace",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הירשנברג",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.082916,
+      "lon": 34.774566
+    }
+  ]
+}

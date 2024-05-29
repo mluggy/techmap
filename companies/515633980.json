@@ -1,0 +1,23 @@
+{
+  "name": "Esquare I O T",
+  "description": "Transforming education with pioneering programs and cutting-edge teaching methods.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/esquare_i_o_t-logo.webp",
+  "websiteUrl": "https://e-square.fr/",
+  "careersUrl": "https://www.estpl.in/career",
+  "isHiring": true,
+  "linkedinId": "esquareiot",
+  "crunchbaseId": "esquare-iot",
+  "finderId": "esquare-iot",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפרחים",
+      "houseNumber": 3,
+      "city": "רמת השרון",
+      "lat": 32.123764,
+      "lon": 34.821737
+    }
+  ]
+}

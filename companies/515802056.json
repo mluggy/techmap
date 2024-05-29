@@ -1,0 +1,23 @@
+{
+  "name": "4Cast",
+  "description": "Decision Intelligence Powered by AI .",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/4_cast-logo.webp",
+  "websiteUrl": "https://4cast-ai.com",
+  "careersUrl": "https://4cast-ai.com/job-openings/",
+  "isHiring": true,
+  "linkedinId": "4cast-ai",
+  "crunchbaseId": "4cast-systems",
+  "finderId": "4cast",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גיסין אבשלום",
+      "houseNumber": 53,
+      "city": "פתח תקווה",
+      "lat": 32.098081,
+      "lon": 34.8836515
+    }
+  ]
+}

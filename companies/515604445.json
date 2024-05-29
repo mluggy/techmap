@@ -1,0 +1,23 @@
+{
+  "name": "Hailo Technologies",
+  "description": "They design top-tier AI accelerator chips for edge devices, enhancing smart city and home technologies along with machine learning applications.",
+  "categoryId": 16,
+  "size": "l",
+  "logoFile": "logos/hailo_technologies-logo.webp",
+  "websiteUrl": "https://hailo.ai/",
+  "careersUrl": "https://hailo.ai/company-overview/careers/",
+  "isHiring": true,
+  "linkedinId": "hailo-ai",
+  "crunchbaseId": null,
+  "finderId": "hailo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 82,
+      "city": "תל אביב - יפו",
+      "lat": 32.066186,
+      "lon": 34.792954
+    }
+  ]
+}

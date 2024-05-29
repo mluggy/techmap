@@ -1,0 +1,23 @@
+{
+  "name": "Entitymed",
+  "description": "A digital aesthetics firm offering AI-driven software that accurately predicts and visualizes post-treatment facial procedure outcomes.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/entitymed-logo.webp",
+  "websiteUrl": "https://entitymed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "entitymed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בוסל",
+      "houseNumber": 11,
+      "city": "כפר סבא",
+      "lat": 32.17798455,
+      "lon": 34.90221135
+    }
+  ]
+}

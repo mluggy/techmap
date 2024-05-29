@@ -1,0 +1,23 @@
+{
+  "name": "Varolio",
+  "description": "An AI-powered inbox that streamlines workflow and offers a customizable writing assistant for professional teams.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/varolio-logo.webp",
+  "websiteUrl": "https://varolio.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "varolio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נרקיס",
+      "houseNumber": 3,
+      "city": "עומר",
+      "lat": 31.2662039,
+      "lon": 34.8536084
+    }
+  ]
+}

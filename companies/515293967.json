@@ -1,0 +1,23 @@
+{
+  "name": "Superfy Technologies",
+  "description": "A social chat platform leveraging advanced AI to pair users with the ideal person for answers, advice, and recommendations.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/superfy_technologies-logo.webp",
+  "websiteUrl": "https://asksuperfy.com/",
+  "careersUrl": "https://www.superfy.com/careers/",
+  "isHiring": true,
+  "linkedinId": "superfy",
+  "crunchbaseId": null,
+  "finderId": "chatyo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלוני ניסים",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.08956,
+      "lon": 34.79661
+    }
+  ]
+}

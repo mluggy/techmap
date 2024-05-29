@@ -1,0 +1,23 @@
+{
+  "name": "Bio Shade",
+  "description": "Eco-friendly Solutions for Intelligent Urban Areas.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/bio_shade-logo.webp",
+  "websiteUrl": "https://bioshades.bio/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bioshade",
+  "crunchbaseId": null,
+  "finderId": "bioshade",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 9,
+      "city": "עפולה",
+      "lat": 32.6270669,
+      "lon": 35.327524
+    }
+  ]
+}

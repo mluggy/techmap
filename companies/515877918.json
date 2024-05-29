@@ -1,0 +1,23 @@
+{
+  "name": "Ception Technologies",
+  "description": "Offering advanced localization and mapping through cutting-edge computer vision and deep learning technologies.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/ception_technologies-logo.webp",
+  "websiteUrl": "https://www.ception.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ception",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרטום",
+      "houseNumber": 16,
+      "city": "ירושלים",
+      "lat": 31.8043239,
+      "lon": 35.2109994
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Yes Chef",
+  "description": "Offering a step-by-step guide to crafting delicious baked meat and fried cheese empanadas.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/yes_chef-logo.webp",
+  "websiteUrl": "https://yeschef.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "yeschef",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלוני ניסים",
+      "houseNumber": 17,
+      "city": "תל אביב - יפו",
+      "lat": 32.089891,
+      "lon": 34.79648
+    }
+  ]
+}

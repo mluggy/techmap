@@ -1,0 +1,23 @@
+{
+  "name": "Sharegain Israel",
+  "description": "Streamlining front and back-office functions into a holistic, automated solution for seamless operations.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/sharegain_israel-logo.webp",
+  "websiteUrl": "https://sharegain.com/",
+  "careersUrl": "https://sharegain.com/careers/",
+  "isHiring": true,
+  "linkedinId": "sharegain",
+  "crunchbaseId": "sharegain",
+  "finderId": "sharegain",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לסקוב חיים",
+      "houseNumber": 24,
+      "city": "נתניה",
+      "lat": 32.2723399,
+      "lon": 34.8445525
+    }
+  ]
+}

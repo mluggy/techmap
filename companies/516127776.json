@@ -1,0 +1,23 @@
+{
+  "name": "Quick Mobile",
+  "description": "An exterior express wash service offering unlimited memberships and free vacuums in several U.S. states.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/quick_mobile-logo.webp",
+  "websiteUrl": "https://www.dontdrivedirty.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "quick",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שבזי",
+      "houseNumber": 173,
+      "city": "ראש העין",
+      "lat": 32.0852923,
+      "lon": 34.962579282768985
+    }
+  ]
+}

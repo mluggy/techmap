@@ -1,0 +1,23 @@
+{
+  "name": "Focal Medical Technology",
+  "description": "A system for precisely targeting and treating prostate cancer using minimally invasive techniques.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/focal_medical_technology-logo.webp",
+  "websiteUrl": "https://focalhealthcare.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "focal-medical",
+  "crunchbaseId": null,
+  "finderId": "focal-medical-technology",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתניהו יהונתן",
+      "houseNumber": 6,
+      "city": "אור יהודה",
+      "lat": 32.0219296,
+      "lon": 34.8566055
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Seperia",
+  "description": "Driven by a passion for optimization and continuous improvement, this partner stands as a market leader.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/seperia-logo.webp",
+  "websiteUrl": "https://seperia.com/",
+  "careersUrl": "https://seperia.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "seperia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גלגל הפלדה",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.1630041,
+      "lon": 34.808744
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lets Bench",
+  "description": "Specialized Bench Manufacturing.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/lets_bench-logo.webp",
+  "websiteUrl": "https://letsbench.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "let-s-bench",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך חברון",
+      "houseNumber": 155,
+      "city": "ירושלים",
+      "lat": 31.7316844,
+      "lon": 35.20565
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Keep Kontakt",
+  "description": "A platform offering private sign-in through Guest mode, allowing personal and professional account creation.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/keep_kontakt_ltd-logo.webp",
+  "websiteUrl": "https://keep.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "keep",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גלילי ישראל",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.10096,
+      "lon": 34.784826
+    }
+  ]
+}

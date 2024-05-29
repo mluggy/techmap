@@ -1,0 +1,23 @@
+{
+  "name": "Lili 5",
+  "description": "Facilitates faster financial transactions through ACH, wire transfers, and expedited check deposits to streamline business operations.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/lili_5-logo.webp",
+  "websiteUrl": "https://lili.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lili",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בשארי סעדיה ויוסף",
+      "houseNumber": 11,
+      "city": "ראשון לציון",
+      "lat": 31.9814353,
+      "lon": 34.8032618
+    }
+  ]
+}

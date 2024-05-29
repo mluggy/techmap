@@ -1,0 +1,23 @@
+{
+  "name": "Novotalk",
+  "description": "A social network fostering connection and emotional support for individuals with shared conditions through dedicated tools and compassionate facilitation.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/novotalk-logo.webp",
+  "websiteUrl": "https://www.novotalk.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "novotalk",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבי עקיבא",
+      "houseNumber": 86,
+      "city": "בני ברק",
+      "lat": 32.0860716,
+      "lon": 34.8308631
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pharmocann",
+  "description": "מציעים טיפולים מותאמים אישית באמצעות קנאביס רפואי, שמגוון ההשפעות של זניו מסייעים לקבל את המענה המתאים ביותר לצרכים רפואיים.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/pharmocann-logo.webp",
+  "websiteUrl": "https://pharmocann.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pharmocan",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חורש האלונים",
+      "houseNumber": 1,
+      "city": "רמת ישי",
+      "lat": 32.7084175,
+      "lon": 35.1744669
+    }
+  ]
+}

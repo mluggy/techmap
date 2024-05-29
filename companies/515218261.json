@@ -1,0 +1,23 @@
+{
+  "name": "Bo Bo",
+  "description": "חברה המספקת מוצר כושר טכנולוגי מתקדם המשנה את פני האימונים והשיקום, בשימוש פיזיותרפיות, מכוני כושר ובתי חולים.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/bo_bo-logo.webp",
+  "websiteUrl": "https://www.bobo-balance.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bobo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "העבודה",
+      "houseNumber": 11,
+      "city": "ראש העין",
+      "lat": 32.105494,
+      "lon": 34.9420815
+    }
+  ]
+}

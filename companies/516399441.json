@@ -1,0 +1,23 @@
+{
+  "name": "Panax",
+  "description": "Streamlined Financial Management.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/panax-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "panax",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "איסרליש",
+      "houseNumber": 14,
+      "city": "תל אביב - יפו",
+      "lat": 32.071361,
+      "lon": 34.791194
+    }
+  ]
+}

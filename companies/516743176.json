@@ -1,0 +1,23 @@
+{
+  "name": "Emris Pharma",
+  "description": "A pioneering pharmaceutical company focused on preventing and treating skin toxicities from targeted cancer therapies with innovative topical drugs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/emris_pharma-logo.webp",
+  "websiteUrl": "https://www.emris-pharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "emris-pharma",
+  "crunchbaseId": null,
+  "finderId": "emris-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

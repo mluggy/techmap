@@ -1,0 +1,23 @@
+{
+  "name": "Talkon",
+  "description": "אפליקציה מקצועית לניהול טיפול יעיל עבור קלינאי תקשורת, כולל תרגול בבית.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/talkon-logo.webp",
+  "websiteUrl": "https://talkon.health/?noredirect=true",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "talkon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ד.נ גליל עליון 2",
+      "houseNumber": 1,
+      "city": "גדות",
+      "lat": 32.4236614,
+      "lon": 34.9522512
+    }
+  ]
+}

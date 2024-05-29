@@ -1,0 +1,23 @@
+{
+  "name": "Neurohelp",
+  "description": "A pioneering firm focused on combating epilepsy through innovative treatments and predictive technologies for seizure management.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/neurohelp-logo.webp",
+  "websiteUrl": "https://www.neuro-help.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "neurohelp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרב שאולי",
+      "houseNumber": 5,
+      "city": "רחובות",
+      "lat": 31.8815259,
+      "lon": 34.8159263
+    }
+  ]
+}

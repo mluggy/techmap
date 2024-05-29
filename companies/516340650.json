@@ -1,0 +1,23 @@
+{
+  "name": "3 Chron",
+  "description": "Online Meeting Platform.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/3_chron-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "3chron",
+  "finderId": "3chron",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סגל שמוליק",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.123584,
+      "lon": 34.826374
+    }
+  ]
+}

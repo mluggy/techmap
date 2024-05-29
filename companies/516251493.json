@@ -1,0 +1,23 @@
+{
+  "name": "Playstream",
+  "description": "An A.I. platform offering automated challenge tracking and completion for popular games like Warzone, Fortnite, Apex, and Fall Guys.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/playstream-logo.webp",
+  "websiteUrl": "https://www.playstream.gg/",
+  "careersUrl": "https://www.playstream.gg/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "playstream",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחל נטפים",
+      "houseNumber": 20,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.8955158,
+      "lon": 35.0241228
+    }
+  ]
+}

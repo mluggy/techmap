@@ -1,0 +1,23 @@
+{
+  "name": "Robotpicks",
+  "description": "A platform offering expert robotics product reviews and buying guides to help consumers make informed decisions.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/robotpicks-logo.webp",
+  "websiteUrl": "https://www.robotpicks.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "robotpicks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השומרים",
+      "houseNumber": 38,
+      "city": "רחובות",
+      "lat": 31.896653,
+      "lon": 34.8226323
+    }
+  ]
+}

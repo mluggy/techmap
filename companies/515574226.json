@@ -1,0 +1,23 @@
+{
+  "name": "Opa Consulting Investment",
+  "description": "A cozy Greek mini-chain offering a lively atmosphere with traditional dishes like gyros, souvlaki, and moussaka.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/opa_consulting_investment-logo.webp",
+  "websiteUrl": "http://www.opaauthenticgreek.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "opa",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטייסים",
+      "houseNumber": 14,
+      "city": "ירושלים",
+      "lat": 31.7676494,
+      "lon": 35.2070188
+    }
+  ]
+}

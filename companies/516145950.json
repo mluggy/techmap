@@ -1,0 +1,23 @@
+{
+  "name": "Skill Real",
+  "description": "This company offers advanced Digital Twin technologies to enhance productivity, quality, and production speed for global manufacturers across various industries.",
+  "categoryId": 4,
+  "size": "s",
+  "logoFile": "logos/skill_real-logo.webp",
+  "websiteUrl": "https://www.skillreal.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "skillreal",
+  "crunchbaseId": null,
+  "finderId": "skillreal",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בן גוריון דוד",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.0952767,
+      "lon": 34.8214828
+    }
+  ]
+}

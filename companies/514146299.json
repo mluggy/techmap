@@ -1,0 +1,23 @@
+{
+  "name": "Istra Research",
+  "description": "A company specializing in computerized trading systems.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/istra_research-logo.webp",
+  "websiteUrl": "https://www.istrallc.com/",
+  "careersUrl": "https://www.istrallc.com/careers",
+  "isHiring": true,
+  "linkedinId": "istraresearch",
+  "crunchbaseId": "istra-research-ef6d",
+  "finderId": "istra-research",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבעל שם טוב",
+      "houseNumber": 6,
+      "city": "לוד",
+      "lat": 31.9922131,
+      "lon": 34.8491332
+    }
+  ]
+}

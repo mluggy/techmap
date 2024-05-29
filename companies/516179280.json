@@ -1,0 +1,23 @@
+{
+  "name": "Pointar",
+  "description": "Solutions for Remote Support.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/pointar-logo.webp",
+  "websiteUrl": "https://pointerpointer.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pointar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המעיין",
+      "houseNumber": 2,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.922288,
+      "lon": 34.9688892
+    }
+  ]
+}

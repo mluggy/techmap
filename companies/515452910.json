@@ -1,0 +1,23 @@
+{
+  "name": "Toky Toy",
+  "description": "An award-winning St. Louis creative studio specializing in brand strategy, digital solutions, and identity design.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/toky_toy-logo.webp",
+  "websiteUrl": "https://toky.com/",
+  "careersUrl": "https://toky.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "toky",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרצל",
+      "houseNumber": 59,
+      "city": "טירת כרמל",
+      "lat": 32.7694663,
+      "lon": 34.9662432
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cybring Labs",
+  "description": "Provides realistic cybersecurity training with diverse attack scenarios and labs, accessible on-premises or in the cloud for individual or team skill enhancement.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/cybring_labs-logo.webp",
+  "websiteUrl": "https://cybringlabs.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cybring",
+  "crunchbaseId": null,
+  "finderId": "cybring-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.08005635,
+      "lon": 34.799938614641945
+    }
+  ]
+}

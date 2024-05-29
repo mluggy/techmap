@@ -1,0 +1,23 @@
+{
+  "name": "Cyolo Security",
+  "description": "Specializing in secure remote access, the company facilitates safe connections for operating critical infrastructure by employees, contractors, and OEMs.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/cyolo_security-logo.webp",
+  "websiteUrl": "https://cyolo.io/",
+  "careersUrl": "https://cyolo.io/careers",
+  "isHiring": true,
+  "linkedinId": "cyolo",
+  "crunchbaseId": null,
+  "finderId": "cyolo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן יהודה",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.081912,
+      "lon": 34.77113
+    }
+  ]
+}

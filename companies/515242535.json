@@ -1,0 +1,23 @@
+{
+  "name": "Surgical Theater International",
+  "description": "Leveraging XR technology, we enhance surgical precision by identifying potential anatomical risks.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/surgical_theater_international-logo.webp",
+  "websiteUrl": "https://surgicaltheater.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "surgical-theater",
+  "crunchbaseId": null,
+  "finderId": "surgical-theater",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מפי",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.2746979,
+      "lon": 34.8602605
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Incyber",
+  "description": "A premier event for European CISOs and the hacking community focused on enhancing digital resilience through networking and information exchange.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/incyber-logo.webp",
+  "websiteUrl": "https://europe.forum-incyber.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "incyber",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוטה גור",
+      "houseNumber": 4,
+      "city": "פתח תקווה",
+      "lat": 32.0920729,
+      "lon": 34.8646062
+    }
+  ]
+}

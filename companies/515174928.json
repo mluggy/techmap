@@ -1,0 +1,23 @@
+{
+  "name": "Stands",
+  "description": "A company offering unique apparel and accessories featuring beloved actors, with part of the proceeds supporting important causes.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/stands-logo.webp",
+  "websiteUrl": "https://shopstands.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "stands",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 103,
+      "city": "תל אביב - יפו",
+      "lat": 32.0696175,
+      "lon": 34.7842349
+    }
+  ]
+}

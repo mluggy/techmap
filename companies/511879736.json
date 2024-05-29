@@ -1,0 +1,23 @@
+{
+  "name": "Betaland Software Engineering",
+  "description": "An online platform providing professional educational services.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/betaland_software_engineering_ltd-logo.webp",
+  "websiteUrl": "https://nobel.live/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "betaland-software-engineering",
+  "finderId": "betaland",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרטום",
+      "houseNumber": 9,
+      "city": "ירושלים",
+      "lat": 31.8023945,
+      "lon": 35.2132096
+    }
+  ]
+}

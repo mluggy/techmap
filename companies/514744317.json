@@ -1,0 +1,23 @@
+{
+  "name": "Inno Bev",
+  "description": "InnoBev offers a patented natural formula that enhances daily focus and concentration by syncing with your biological clock.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/inno_bev-logo.webp",
+  "websiteUrl": "https://www.drinkwakeup.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "inno-bev-wakeup",
+  "finderId": "wakeup",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הירקון",
+      "houseNumber": 167,
+      "city": "תל אביב - יפו",
+      "lat": 32.0858591,
+      "lon": 34.7701454
+    }
+  ]
+}

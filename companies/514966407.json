@@ -1,0 +1,23 @@
+{
+  "name": "Simple As Me",
+  "description": "A Platform for Sharing Life Stories.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/simple_as_me-logo.webp",
+  "websiteUrl": "https://shopsimplyme.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "simple-as-me",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סוקולוב",
+      "houseNumber": 68,
+      "city": "תל אביב - יפו",
+      "lat": 32.09291,
+      "lon": 34.778523
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Data Pond",
+  "description": "Real-time detection of water contamination through AI technology.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/data_pond-logo.webp",
+  "websiteUrl": "https://www.data-pond.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "datapond",
+  "crunchbaseId": null,
+  "finderId": "datapond",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפסגה",
+      "houseNumber": 4,
+      "city": "כפר האורנים",
+      "lat": 31.921653863219678,
+      "lon": 35.03461641751989
+    }
+  ]
+}

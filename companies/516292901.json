@@ -1,0 +1,23 @@
+{
+  "name": "Global Optic Hub",
+  "description": "A platform dedicated to the eyewear and optical sector.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/global_optic_hub-logo.webp",
+  "websiteUrl": "https://www.goptichub.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "global-optic-hub",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אודם",
+      "houseNumber": 14,
+      "city": "פתח תקווה",
+      "lat": 32.0896507,
+      "lon": 34.8577193
+    }
+  ]
+}

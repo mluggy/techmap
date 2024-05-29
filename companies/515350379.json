@@ -1,0 +1,23 @@
+{
+  "name": "Zeev Implants",
+  "description": "Specializing in modular dental implants, this company innovates implant management by reducing complications, chair-time, costs, and the need for total extraction.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/zeev_implants-logo.webp",
+  "websiteUrl": "https://www.zeevimplants.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "zeev-implants",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לוחמי הגיטו",
+      "houseNumber": 40,
+      "city": "פתח תקווה",
+      "lat": 32.32198820199814,
+      "lon": 34.85939961582546
+    }
+  ]
+}

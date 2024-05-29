@@ -1,0 +1,23 @@
+{
+  "name": "Vong Medical",
+  "description": "A start-up innovating advanced transcatheter heart valves to enhance survival rates for both high and low-risk patients.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vong_medical-logo.webp",
+  "websiteUrl": "https://vong-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vong-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השקד",
+      "houseNumber": 95,
+      "city": "עדי",
+      "lat": 32.7817687,
+      "lon": 35.1706374
+    }
+  ]
+}

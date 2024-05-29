@@ -1,0 +1,23 @@
+{
+  "name": "I Fact",
+  "description": "Cet organisme harmonise compétences et savoirs en formation, recherche et soins à travers huit départements spécialisés.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/i_fact-logo.webp",
+  "websiteUrl": "https://www.ifatc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ifact",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

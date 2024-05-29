@@ -1,0 +1,23 @@
+{
+  "name": "Telefire",
+  "description": "Fire Safety, Building Administration, and Security Services.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/telefire-logo.webp",
+  "websiteUrl": "https://telefire.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "telefire-fire-&-gas-detectors",
+  "crunchbaseId": "telefire-fire",
+  "finderId": "telefire-fire-gas-detectors",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסיבים",
+      "houseNumber": 43,
+      "city": "פתח תקווה",
+      "lat": 32.0916612,
+      "lon": 34.8571892
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Guestim",
+  "description": "A cutting-edge app streamlining hotel guest access to room service, spa services, and other hotel offerings.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/guestim-logo.webp",
+  "websiteUrl": "https://www.guestim.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "guestim",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ההגנה",
+      "houseNumber": 8,
+      "city": "גבעתיים",
+      "lat": 32.067984089999996,
+      "lon": 34.80326367999999
+    }
+  ]
+}

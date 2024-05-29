@@ -1,0 +1,23 @@
+{
+  "name": "Troya Tech Defense",
+  "description": "We provide night vision and thermal imaging technologies.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/troya_tech_defense-logo.webp",
+  "websiteUrl": "https://www.troya-tech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "troya",
+  "crunchbaseId": "troya-tech-defense-ltd",
+  "finderId": "troya",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היצירה",
+      "houseNumber": 10,
+      "city": "רעננה",
+      "lat": 32.1950061,
+      "lon": 34.8768325
+    }
+  ]
+}

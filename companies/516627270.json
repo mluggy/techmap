@@ -1,0 +1,23 @@
+{
+  "name": "Junimo",
+  "description": "Currently operating in confidentiality mode.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/junimo-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "junimo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 35,
+      "city": "רמת גן",
+      "lat": 32.0839585,
+      "lon": 34.8064497
+    }
+  ]
+}

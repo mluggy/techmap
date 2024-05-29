@@ -1,0 +1,23 @@
+{
+  "name": "Aeye Health",
+  "description": "Artificial Intelligence for Analyzing Retinal Images.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/aeye_health-logo.webp",
+  "websiteUrl": "https://www.aeyehealth.com/",
+  "careersUrl": "https://www.aeyehealth.com/our-careers",
+  "isHiring": true,
+  "linkedinId": "aeyehealth",
+  "crunchbaseId": null,
+  "finderId": "aeye-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 115,
+      "city": "תל אביב - יפו",
+      "lat": 32.069533,
+      "lon": 34.785594
+    }
+  ]
+}

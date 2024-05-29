@@ -1,0 +1,23 @@
+{
+  "name": "Compete Hr",
+  "description": "A digital media partner that helps campaigns, causes, and consultants effectively reach and influence their target audience.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/compete_hr-logo.webp",
+  "websiteUrl": "https://competeeverywhere.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "Compete",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יסמין",
+      "houseNumber": 216,
+      "city": "שילת",
+      "lat": 31.9176726,
+      "lon": 35.0175172
+    }
+  ]
+}

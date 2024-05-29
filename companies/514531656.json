@@ -1,0 +1,23 @@
+{
+  "name": "Galileo Wheel",
+  "description": "Specializing in advanced tire technology, this company offers innovative solutions for tractors, irrigation systems, and construction machinery.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/galileo_wheel-logo.webp",
+  "websiteUrl": "https://www.galileowheel.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "galileo-wheel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטוחן",
+      "houseNumber": 2,
+      "city": "קיסריה",
+      "lat": 32.4863102,
+      "lon": 34.9521262
+    }
+  ]
+}

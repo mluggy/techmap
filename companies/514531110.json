@@ -1,0 +1,23 @@
+{
+  "name": "Crazy Labs",
+  "description": "A company that creates and distributes mobile games.",
+  "categoryId": 11,
+  "size": "l",
+  "logoFile": "logos/crazy_labs-logo.webp",
+  "websiteUrl": "https://www.crazylabs.com/",
+  "careersUrl": "https://www.crazylabs.com/careers/",
+  "isHiring": true,
+  "linkedinId": "crazylabs",
+  "crunchbaseId": null,
+  "finderId": "tabtale",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

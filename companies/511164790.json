@@ -1,0 +1,23 @@
+{
+  "name": "Medic Shoes",
+  "description": "A free service provides instant translation of words, phrases, and web pages from English to over 100 languages.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medic_shoes-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medic-shoes",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גורדון י ל",
+      "houseNumber": 41,
+      "city": "תל אביב - יפו",
+      "lat": 32.081873,
+      "lon": 34.774011
+    }
+  ]
+}

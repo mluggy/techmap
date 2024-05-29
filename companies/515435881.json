@@ -1,0 +1,23 @@
+{
+  "name": "Medint Medical Intelligence",
+  "description": "A company providing advanced medical intelligence solutions through AI technology.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/medint_medical_intelligence-logo.webp",
+  "websiteUrl": "https://heb.medint.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medint-medical-intelligence",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07734524999999,
+      "lon": 34.79332549438699
+    }
+  ]
+}

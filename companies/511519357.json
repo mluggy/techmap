@@ -1,0 +1,23 @@
+{
+  "name": "Exsys",
+  "description": "They specialize in top-tier CNC tool holders, quick change adapters, and precision repair services.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/exsys_ltd-logo.webp",
+  "websiteUrl": "https://www.exsysautomation.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "exsysautomation",
+  "crunchbaseId": null,
+  "finderId": "exsys",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנגר",
+      "houseNumber": 8,
+      "city": "כפר סבא",
+      "lat": 32.1770544,
+      "lon": 34.9284708
+    }
+  ]
+}

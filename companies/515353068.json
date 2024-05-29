@@ -1,0 +1,23 @@
+{
+  "name": "Green C Tech",
+  "description": "A platform that uses artificial intelligence for vision screening.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/green_c_tech-logo.webp",
+  "websiteUrl": "https://ctechmanufacturing.com/",
+  "careersUrl": "https://ctechprograms.com/career-highways/green-technology/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "green-ctech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברקוביץ",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.078703,
+      "lon": 34.7870616
+    }
+  ]
+}

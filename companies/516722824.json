@@ -1,0 +1,23 @@
+{
+  "name": "Yubru",
+  "description": "Provides tools for students to search and access their class schedules using course codes.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/yubru-logo.webp",
+  "websiteUrl": "http://reg.ubru.ac.th/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "yubru",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גלילי ישראל",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.100132,
+      "lon": 34.785434
+    }
+  ]
+}

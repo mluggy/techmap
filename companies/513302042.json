@@ -1,0 +1,23 @@
+{
+  "name": "Efficient Finance",
+  "description": "Financial Support Services for Small and Medium Enterprises.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/efficient_finance-logo.webp",
+  "websiteUrl": "https://efficient.finance/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "efficient-finance",
+  "crunchbaseId": "efficient-finance-israel",
+  "finderId": "efficient-finance",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

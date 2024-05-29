@@ -1,0 +1,23 @@
+{
+  "name": "Radiaction",
+  "description": "Delivering instant scatter radiation protection by integrating a dynamic shielding barrier directly into the C-arm imaging system.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/radiaction-logo.webp",
+  "websiteUrl": "https://radiactionmedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "radiaction",
+  "crunchbaseId": null,
+  "finderId": "radiaction",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.110182,
+      "lon": 34.838445
+    }
+  ]
+}

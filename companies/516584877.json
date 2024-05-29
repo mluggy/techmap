@@ -1,0 +1,23 @@
+{
+  "name": "Joyn Power",
+  "description": "Stream your favorite series, movies, sports, and live TV anytime, anywhere with free signup.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/joyn_power-logo.webp",
+  "websiteUrl": "https://www.joyn.de/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "joyn",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שלם",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.0522939,
+      "lon": 34.8141034
+    }
+  ]
+}

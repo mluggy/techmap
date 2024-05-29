@@ -1,0 +1,23 @@
+{
+  "name": "Orca AI",
+  "description": "Innovative computer vision technology enhancing situational awareness and transforming marine navigation.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/orca_ai-logo.webp",
+  "websiteUrl": "https://www.orca-ai.io/",
+  "careersUrl": "https://www.orca-ai.io/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "orca-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 68,
+      "city": "תל אביב - יפו",
+      "lat": 32.059688,
+      "lon": 34.782812
+    }
+  ]
+}

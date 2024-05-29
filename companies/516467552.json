@@ -1,0 +1,23 @@
+{
+  "name": "Terrra",
+  "description": "Offering 20GB of storage and numerous other benefits, this leading email service provides ample space and convenience.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/terrra-logo.webp",
+  "websiteUrl": "https://mail.terra.com.br/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "terrra",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סלסלה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.045777,
+      "lon": 34.7516901
+    }
+  ]
+}

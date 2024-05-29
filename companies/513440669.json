@@ -1,0 +1,23 @@
+{
+  "name": "Undoit Medical",
+  "description": "Device for Erasing Tattoos.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/undoit_medical-logo.webp",
+  "websiteUrl": "https://www.ornish.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "undoit-medical",
+  "finderId": "undoit-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המדע",
+      "houseNumber": 2,
+      "city": "יקנעם עילית",
+      "lat": 32.6582887,
+      "lon": 35.09782995411932
+    }
+  ]
+}

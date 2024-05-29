@@ -1,0 +1,23 @@
+{
+  "name": "Vidisco",
+  "description": "Providing portable x-ray systems, they support global EOD training and operations across the US Navy and Air Force.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/vidisco-logo.webp",
+  "websiteUrl": "https://vidisco.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vidisco",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרושת",
+      "houseNumber": 32,
+      "city": "אור יהודה",
+      "lat": 32.0209079,
+      "lon": 34.8606578
+    }
+  ]
+}

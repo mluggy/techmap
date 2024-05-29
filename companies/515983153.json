@@ -1,0 +1,23 @@
+{
+  "name": "Chocomake",
+  "description": "Custom Chocolate Creation Service.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/chocomake-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "chocomake",
+  "crunchbaseId": null,
+  "finderId": "chocomake",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בזק צור יגאל",
+      "houseNumber": 17,
+      "city": "צור יגאל",
+      "lat": 32.208729071227296,
+      "lon": 34.98572494620048
+    }
+  ]
+}

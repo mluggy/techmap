@@ -1,0 +1,23 @@
+{
+  "name": "Alumentry",
+  "description": "Equipment for Manufacturing Aluminum Components.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/alumentry-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "alumentry",
+  "crunchbaseId": "alumentry",
+  "finderId": "alumentry",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולומב",
+      "houseNumber": 18,
+      "city": "כפר סבא",
+      "lat": 32.1787123,
+      "lon": 34.9016029
+    }
+  ]
+}

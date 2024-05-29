@@ -1,0 +1,23 @@
+{
+  "name": "Varcode",
+  "description": "A cost-effective, reliable temperature monitoring solution with scannable tags providing accurate, customizable data.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/varcode-logo.webp",
+  "websiteUrl": "https://www.varcode.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "varcode",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זרחין אלכסנדר",
+      "houseNumber": 26,
+      "city": "רעננה",
+      "lat": 32.1932202,
+      "lon": 34.8827706
+    }
+  ]
+}

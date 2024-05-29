@@ -1,0 +1,23 @@
+{
+  "name": "Novvo Central",
+  "description": "An online banking service tailored for small businesses offers fee-free checking accounts.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/novvo_central-logo.webp",
+  "websiteUrl": "https://www.novo.co/",
+  "careersUrl": "https://www.novonordisk.com/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "novvo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קדם",
+      "houseNumber": 20,
+      "city": "שוהם",
+      "lat": 31.9961823,
+      "lon": 34.950333
+    }
+  ]
+}

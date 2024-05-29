@@ -1,0 +1,23 @@
+{
+  "name": "Edge Social",
+  "description": "A free service that instantly translates words, phrases, and web pages from English to over 100 languages.",
+  "categoryId": 8,
+  "size": "m",
+  "logoFile": "logos/edge_social-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dau-up-excitead",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולדה מאיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.9160002,
+      "lon": 34.8020721
+    }
+  ]
+}

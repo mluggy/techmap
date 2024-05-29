@@ -1,0 +1,23 @@
+{
+  "name": "Louie 7 AI",
+  "description": "An open-source alternative offering local inferencing for LLMs, image, and audio generation with consumer hardware, compatible with OpenAI's API.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/louie_7_ai-logo.webp",
+  "websiteUrl": "https://localai.io/?ref=hackernoon.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "louie7-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 105,
+      "city": "תל אביב - יפו",
+      "lat": 32.087732,
+      "lon": 34.785396
+    }
+  ]
+}

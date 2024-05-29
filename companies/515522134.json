@@ -1,0 +1,23 @@
+{
+  "name": "Cytoreason",
+  "description": "This company specializes in licensing AI-driven disease models and extending drug development collaborations with major pharmaceutical firms.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/cytoreason-logo.webp",
+  "websiteUrl": "https://www.cytoreason.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cytoreason",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

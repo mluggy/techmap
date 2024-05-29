@@ -1,0 +1,23 @@
+{
+  "name": "Senswim",
+  "description": "Offering real-time video-based analysis for swimmers, delivering live feedback to athletes, coaches, and parents.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/senswim-logo.webp",
+  "websiteUrl": "https://www.senswim.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "senswim",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ויניק",
+      "houseNumber": 34,
+      "city": "ראשון לציון",
+      "lat": 31.957570150000002,
+      "lon": 34.79596433129902
+    }
+  ]
+}

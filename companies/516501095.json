@@ -1,0 +1,23 @@
+{
+  "name": "P N Y Delivered",
+  "description": "Specialized Electric Scooter for Transporting Cargo.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/p_n_y_delivered-logo.webp",
+  "websiteUrl": "https://www.ridepny.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "p-n-y-delivered",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסביון",
+      "houseNumber": 1,
+      "city": "קדימה",
+      "lat": 32.275537257484245,
+      "lon": 34.917199875090624
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Scoompa",
+  "description": "Create captivating slideshows using a mobile photography app with comprehensive features and expert tips.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/scoompa-logo.webp",
+  "websiteUrl": "https://www.scoompa.com/",
+  "careersUrl": "https://scoompa.com/jobs",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "scoompa",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אביצור שמואל",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.051249,
+      "lon": 34.755022
+    }
+  ]
+}

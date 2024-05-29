@@ -1,0 +1,23 @@
+{
+  "name": "Zesty Tech",
+  "description": "Their platform optimizes cloud infrastructure, cutting costs and minimizing manual work while ensuring optimal performance.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/zesty_tech-logo.webp",
+  "websiteUrl": "https://zesty.co/",
+  "careersUrl": "https://zesty.co/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cloudvisor-io",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לינקולן",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.066035,
+      "lon": 34.782959
+    }
+  ]
+}

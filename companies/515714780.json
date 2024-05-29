@@ -1,0 +1,23 @@
+{
+  "name": "Aleph Bot",
+  "description": "Revolutionizing healthcare with real-time data and automated procedure documentation for improved medical team efficiency.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/aleph_bot-logo.webp",
+  "websiteUrl": "https://www.alephbot.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "alephbot",
+  "crunchbaseId": "alephbot",
+  "finderId": "alephbot",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משעול הגפנים",
+      "houseNumber": 14,
+      "city": "עתלית",
+      "lat": 32.69318047406131,
+      "lon": 34.9474915336941
+    }
+  ]
+}

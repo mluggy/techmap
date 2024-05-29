@@ -1,0 +1,23 @@
+{
+  "name": "Wenrix",
+  "description": "Using AI to predict airfares, our service ensures travelers always get the best prices by analyzing billions of daily price fluctuations.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/wenrix-logo.webp",
+  "websiteUrl": "https://www.wenrix.com/",
+  "careersUrl": "https://www.wenrix.com/home/careers",
+  "isHiring": true,
+  "linkedinId": "wenrix",
+  "crunchbaseId": null,
+  "finderId": "wenrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אירוסים מכבים רעות",
+      "houseNumber": 60,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.88391946963555,
+      "lon": 35.018714091903185
+    }
+  ]
+}

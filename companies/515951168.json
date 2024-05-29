@@ -1,0 +1,23 @@
+{
+  "name": "Comonetize",
+  "description": "A recruitment platform driven by community collaboration.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/comonetize-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "comonetize",
+  "crunchbaseId": "comonetize",
+  "finderId": "comonetize",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רזיאל",
+      "houseNumber": 42,
+      "city": "רמת גן",
+      "lat": 32.0542502,
+      "lon": 34.8229817
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bio Cloud",
+  "description": "Natural Solutions for Repelling Insects from Crops.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/bio_cloud-logo.webp",
+  "websiteUrl": "https://biocloud3d.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "biocloud",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דישון",
+      "houseNumber": 32,
+      "city": "כפר ורדים",
+      "lat": 32.9947955,
+      "lon": 35.25513
+    }
+  ]
+}

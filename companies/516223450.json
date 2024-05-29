@@ -1,0 +1,23 @@
+{
+  "name": "Envario",
+  "description": "A web app for planning, executing, and monitoring environmental projects.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/envario-logo.webp",
+  "websiteUrl": "http://app.envar.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "envario",
+  "finderId": "envario",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חוחית",
+      "houseNumber": 1,
+      "city": "ראש העין",
+      "lat": 32.1037427,
+      "lon": 34.9629175
+    }
+  ]
+}

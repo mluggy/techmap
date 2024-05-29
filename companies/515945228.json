@@ -1,0 +1,23 @@
+{
+  "name": "Agro Culture",
+  "description": "Innovative Technique for Cultivating Avocados.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/agro_culture-logo.webp",
+  "websiteUrl": "https://www.agrocultureusa.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "agro-culture",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תרשיש",
+      "houseNumber": null,
+      "city": "קריית שמונה",
+      "lat": 33.19594505073987,
+      "lon": 35.57570001769672
+    }
+  ]
+}

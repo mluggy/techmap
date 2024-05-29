@@ -1,0 +1,23 @@
+{
+  "name": "Chiefy Technologies",
+  "description": "A cloud-based platform facilitating seamless collaboration among surgical teams and healthcare professionals.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/chiefy_technologies-logo.webp",
+  "websiteUrl": "https://www.chiefyteam.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "chiefyteam",
+  "crunchbaseId": null,
+  "finderId": "chiefy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמיר",
+      "houseNumber": 24,
+      "city": "הרצליה",
+      "lat": 32.1561973,
+      "lon": 34.8510007
+    }
+  ]
+}

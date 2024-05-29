@@ -1,0 +1,23 @@
+{
+  "name": "Go 4 A",
+  "description": "A company currently operating in stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/go_4_a-logo.webp",
+  "websiteUrl": "https://www.go4schools.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "go4a",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברקת",
+      "houseNumber": 261,
+      "city": "גזית",
+      "lat": 32.63791066861783,
+      "lon": 35.445143074609945
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Bia Med",
+  "description": "A free service that provides instant translation of text and web pages between English and over 100 languages.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/bia_med-logo.webp",
+  "websiteUrl": "https://translate.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bia-med-ltd",
+  "crunchbaseId": null,
+  "finderId": "bia-med",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התאנה",
+      "houseNumber": null,
+      "city": "בן שמן (מושב)",
+      "lat": 31.954658470687253,
+      "lon": 34.92873532088367
+    }
+  ]
+}

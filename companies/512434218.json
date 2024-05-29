@@ -1,0 +1,23 @@
+{
+  "name": "Itamar Medical",
+  "description": "At-home sleep tests and evaluations of endothelial health.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/itamar_medical-logo.webp",
+  "websiteUrl": "https://www.itamar-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "itamar-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 9,
+      "city": "קיסריה",
+      "lat": 32.4811959,
+      "lon": 34.9481254
+    }
+  ]
+}

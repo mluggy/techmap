@@ -1,0 +1,23 @@
+{
+  "name": "Swift Duct",
+  "description": "A company specializing in navigation technology that uses fluid conductivity differences and integrated sensors to provide real-time anatomical tracking within ducts.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/swift_duct-logo.webp",
+  "websiteUrl": "https://swiftduct.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "swiftduct",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0215775,
+      "lon": 34.854526
+    }
+  ]
+}

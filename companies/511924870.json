@@ -1,0 +1,23 @@
+{
+  "name": "Texas Instruments Israel",
+  "description": "A leading global semiconductor firm specializing in the design, manufacturing, testing, and sales of analog components.",
+  "categoryId": 16,
+  "size": "l",
+  "logoFile": "logos/texas_instruments_israel_ltd-logo.webp",
+  "websiteUrl": "https://www.ti.com/",
+  "careersUrl": "https://careers.ti.com/",
+  "isHiring": true,
+  "linkedinId": "texas-instruments",
+  "crunchbaseId": null,
+  "finderId": "texas-instruments",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זרחין אלכסנדר",
+      "houseNumber": 26,
+      "city": "רעננה",
+      "lat": 32.1932304,
+      "lon": 34.8826915
+    }
+  ]
+}

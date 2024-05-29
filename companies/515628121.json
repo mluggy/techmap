@@ -1,0 +1,23 @@
+{
+  "name": "Nanna Apps",
+  "description": "Stay updated on future event announcements and notifications in your area.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/nanna_apps-logo.webp",
+  "websiteUrl": "https://www.nannanannananna.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nanna",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רייק חביבה",
+      "houseNumber": 12,
+      "city": "רעננה",
+      "lat": 32.1891431,
+      "lon": 34.8699429
+    }
+  ]
+}

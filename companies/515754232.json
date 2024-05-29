@@ -1,0 +1,23 @@
+{
+  "name": "Trigo Vision",
+  "description": "A system that automates retail operations.",
+  "categoryId": 15,
+  "size": "l",
+  "logoFile": "logos/trigo_vision-logo.webp",
+  "websiteUrl": "https://www.trigoretail.com/",
+  "careersUrl": "https://www.trigoretail.com/careers/",
+  "isHiring": true,
+  "linkedinId": "trigoretail",
+  "crunchbaseId": null,
+  "finderId": "trigo-vision",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זיסמן שלום",
+      "houseNumber": 14,
+      "city": "רמת גן",
+      "lat": 32.084329,
+      "lon": 34.7996389
+    }
+  ]
+}

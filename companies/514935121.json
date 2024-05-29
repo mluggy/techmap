@@ -1,0 +1,23 @@
+{
+  "name": "Webcand",
+  "description": "Streamline your hiring process by scheduling, conducting, and sharing automated video interviews accessible anytime on any device.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/webcand-logo.webp",
+  "websiteUrl": "https://webcand.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "webcand",
+  "crunchbaseId": null,
+  "finderId": "webcand",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן ציון ישראלי",
+      "houseNumber": 17,
+      "city": "גבעתיים",
+      "lat": 32.07812355,
+      "lon": 34.812152889798085
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Docomotion",
+  "description": "An advanced app simplifies document creation on Salesforce for businesses handling high volumes of paperwork.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/docomotion-logo.webp",
+  "websiteUrl": "https://www.docomotion.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "docomotion",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 31,
+      "city": "נתניה",
+      "lat": 32.2797087,
+      "lon": 34.8638687
+    }
+  ]
+}

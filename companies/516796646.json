@@ -1,0 +1,23 @@
+{
+  "name": "Calodar",
+  "description": "With 60 years of specialized experience, this company excels in distributing sanitary products and possesses unmatched expertise in product application and market knowledge.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/calodar-logo.webp",
+  "websiteUrl": "https://www.calodar.be/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "calodar-ai",
+  "crunchbaseId": null,
+  "finderId": "calodar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 28,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

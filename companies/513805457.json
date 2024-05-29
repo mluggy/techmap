@@ -1,0 +1,23 @@
+{
+  "name": "Greenoy",
+  "description": "Provides innovative solutions for the preservation, disease control, and transportation of cut flowers and fruit.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/greenoy-logo.webp",
+  "websiteUrl": "https://www.greenoy.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "greenoy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגפן",
+      "houseNumber": 5,
+      "city": "כרמי יוסף",
+      "lat": 31.86256358007546,
+      "lon": 34.94754640445053
+    }
+  ]
+}

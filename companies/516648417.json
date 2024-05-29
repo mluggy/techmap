@@ -1,0 +1,23 @@
+{
+  "name": "Vetric Technology",
+  "description": "System for Gathering Data.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/vetric_technology-logo.webp",
+  "websiteUrl": "https://www.vectric.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vectric-ltd",
+  "crunchbaseId": null,
+  "finderId": "vetric-technology",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמישב",
+      "houseNumber": 26,
+      "city": "תל אביב - יפו",
+      "lat": 32.062837,
+      "lon": 34.804812
+    }
+  ]
+}

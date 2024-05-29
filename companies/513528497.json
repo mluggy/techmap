@@ -1,0 +1,23 @@
+{
+  "name": "Tonoguard",
+  "description": "Devices for Self-Measurement of Intraocular Parameters.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/tonoguard-logo.webp",
+  "websiteUrl": "https://tonoguard.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "tonoguard",
+  "finderId": "tonoguard",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בארי",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.083489,
+      "lon": 34.785679
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Buzzer",
+  "description": "חדשנות בשירותי משלוחים פרטיים עם חלונות תיאום קצרים בשעות הערב ושליטה מלאה לחוויית משתמש יוצאת דופן.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/buzzer-logo.webp",
+  "websiteUrl": "https://buzzr.biz/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "buzzer",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברנר",
+      "houseNumber": 38,
+      "city": "הרצליה",
+      "lat": 32.157463,
+      "lon": 34.8463645
+    }
+  ]
+}

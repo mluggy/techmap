@@ -1,0 +1,23 @@
+{
+  "name": "Ramon Space",
+  "description": "We engineer state-of-the-art space resilient computing systems that are the core of new space satellites and space missions.",
+  "categoryId": 3,
+  "size": "m",
+  "logoFile": "logos/ramon_space-logo.webp",
+  "websiteUrl": "https://ramon.space/",
+  "careersUrl": "https://ramon.space/careers/",
+  "isHiring": true,
+  "linkedinId": "ramonspace",
+  "crunchbaseId": null,
+  "finderId": "ramon-chips",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 2,
+      "city": "יקנעם עילית",
+      "lat": 32.6613363,
+      "lon": 35.1045936
+    }
+  ]
+}

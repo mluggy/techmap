@@ -1,0 +1,23 @@
+{
+  "name": "Tapingo",
+  "description": "Instant Mobile Shopping Solution.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/tapingo-logo.webp",
+  "websiteUrl": "https://www.tapingo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "tapingo",
+  "crunchbaseId": "tapingo",
+  "finderId": "tapingo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Culture Trip Israel",
+  "description": "A curated travel service offering hand-picked accommodations and activities worldwide with a price-match guarantee.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/culture_trip_israel-logo.webp",
+  "websiteUrl": "https://theculturetrip.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "culture-trip",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלנבי",
+      "houseNumber": 113,
+      "city": "תל אביב - יפו",
+      "lat": 32.062766,
+      "lon": 34.773452
+    }
+  ]
+}

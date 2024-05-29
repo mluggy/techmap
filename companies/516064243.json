@@ -1,0 +1,23 @@
+{
+  "name": "Exceed Talent Capital",
+  "description": "A free service that provides instant translation of words, phrases, and web pages from English to over 100 languages.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/exceed_talent_capital-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "exceedtc",
+  "crunchbaseId": "exceed-talent-capital",
+  "finderId": "exceed-talent-capital",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

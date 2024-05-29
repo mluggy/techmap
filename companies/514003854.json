@@ -1,0 +1,23 @@
+{
+  "name": "My Single Point",
+  "description": "Software for Implementing Strategies.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/my_single_point-logo.webp",
+  "websiteUrl": "https://www.mysp.com/",
+  "careersUrl": "https://thesinglepoint.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "my-single-point-msp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמיחי יהודה",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.109696,
+      "lon": 34.787393
+    }
+  ]
+}

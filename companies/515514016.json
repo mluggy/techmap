@@ -1,0 +1,23 @@
+{
+  "name": "Lenovo Global Technology",
+  "description": "Provides comprehensive support services for PCs, including troubleshooting, warranty checks, service requests, repair status tracking, and software updates.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/lenovo_global_technology-logo.webp",
+  "websiteUrl": "https://pcsupport.lenovo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lenovo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפסגות",
+      "houseNumber": 9,
+      "city": "פתח תקווה",
+      "lat": 32.097899,
+      "lon": 34.8550868
+    }
+  ]
+}

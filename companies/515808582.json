@@ -1,0 +1,23 @@
+{
+  "name": "Jobbix",
+  "description": "Effortlessly find your next job by signing up and creating customized search queries, or explore investment opportunities with us.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/jobbix-logo.webp",
+  "websiteUrl": "https://jobbix.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jobbix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקמה גבעת עדה",
+      "houseNumber": 15,
+      "city": "גבעת עדה",
+      "lat": 32.52077423700732,
+      "lon": 35.014120835163666
+    }
+  ]
+}

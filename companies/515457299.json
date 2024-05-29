@@ -1,0 +1,23 @@
+{
+  "name": "Panorays",
+  "description": "A platform for automating the management of third-party security.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/panorays-logo.webp",
+  "websiteUrl": "https://panorays.com/",
+  "careersUrl": "https://panorays.com/careers/",
+  "isHiring": true,
+  "linkedinId": "panorays",
+  "crunchbaseId": null,
+  "finderId": "panorays",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית עובד",
+      "houseNumber": 15,
+      "city": "תל אביב - יפו",
+      "lat": 32.0641973,
+      "lon": 34.7881157
+    }
+  ]
+}

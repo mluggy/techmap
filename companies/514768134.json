@@ -1,0 +1,23 @@
+{
+  "name": "Orchid Green",
+  "description": "Beauty products designed to combat aging and provide antioxidant benefits.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/orchid_green-logo.webp",
+  "websiteUrl": "http://www.orchidgreens.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "orchid-green",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 27,
+      "city": "נתניה",
+      "lat": 32.3223163,
+      "lon": 34.8490207
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Guardz Cyber",
+  "description": "Guardz offers a comprehensive cybersecurity solution that integrates email, browsing, perimeter security, and awareness training to combat the majority of cyber attacks originating from phishing.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/guardz_cyber-logo.webp",
+  "websiteUrl": "https://guardz.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "guardz",
+  "crunchbaseId": null,
+  "finderId": "guardz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גנסין",
+      "houseNumber": 9,
+      "city": "גבעתיים",
+      "lat": 32.07101720526315,
+      "lon": 34.805179542105265
+    }
+  ]
+}

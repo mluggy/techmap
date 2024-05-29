@@ -1,0 +1,23 @@
+{
+  "name": "Super Spectra",
+  "description": "A device for Alzheimer's disease imaging that doesn't require invasive procedures.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/super_spectra-logo.webp",
+  "websiteUrl": "https://www.spectrasuperalloys.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "superspectra",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתניהו יהונתן",
+      "houseNumber": 6,
+      "city": "אור יהודה",
+      "lat": 32.0219296,
+      "lon": 34.8566055
+    }
+  ]
+}

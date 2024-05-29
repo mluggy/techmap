@@ -1,0 +1,23 @@
+{
+  "name": "Yalmo",
+  "description": "Experience top-quality films with premium, luxury, and junior theaters while checking schedules and offers.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/yalmo-logo.webp",
+  "websiteUrl": "https://yelmocines.es/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "yalmo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האיילון",
+      "houseNumber": 15,
+      "city": "לוד",
+      "lat": 31.944182249999997,
+      "lon": 34.90013093937024
+    }
+  ]
+}

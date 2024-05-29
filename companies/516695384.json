@@ -1,0 +1,23 @@
+{
+  "name": "Minerva Xr",
+  "description": "A research center focused on bridging the gap between traditional laboratory studies of human intelligence and its real-world applications.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/minerva_xr-logo.webp",
+  "websiteUrl": "https://www.minervaxr.sites.tau.ac.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "minerva-xr",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מקלב אורי",
+      "houseNumber": 8,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0326523,
+      "lon": 34.8872082
+    }
+  ]
+}

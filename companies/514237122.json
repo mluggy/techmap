@@ -1,0 +1,23 @@
+{
+  "name": "Eitan Medical",
+  "description": "We innovate drug delivery and infusion technologies to enhance care for patients and support healthcare professionals worldwide.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/eitan_medical-logo.webp",
+  "websiteUrl": "https://eitanmedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eitan-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 29,
+      "city": "נתניה",
+      "lat": 32.2834756,
+      "lon": 34.8651339
+    }
+  ]
+}

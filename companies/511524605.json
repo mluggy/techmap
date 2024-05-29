@@ -1,0 +1,23 @@
+{
+  "name": "Kamada",
+  "description": "Therapeutics Made from Blood Plasma Proteins.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/kamada-logo.webp",
+  "websiteUrl": "https://www.kamada.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kamada",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הולצמן חיים",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.915662249999997,
+      "lon": 34.807746809143225
+    }
+  ]
+}

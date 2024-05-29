@@ -1,0 +1,23 @@
+{
+  "name": "Novapulse",
+  "description": "Providing free virtual fitness and wellness classes to promote health for everyone.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/novapulse-logo.webp",
+  "websiteUrl": "https://www.novapulse.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "novapulse",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שרון אריאל",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0215775,
+      "lon": 34.854526
+    }
+  ]
+}

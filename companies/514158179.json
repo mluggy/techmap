@@ -1,0 +1,23 @@
+{
+  "name": "Step Hear",
+  "description": "STEP-HEAR Guide. The STEP-HEAR Guide provides users the best way to the venue and ensures they are fully oriented upon arrival.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/step_hear-logo.webp",
+  "websiteUrl": "https://www.step-hear.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "step-hear",
+  "crunchbaseId": null,
+  "finderId": "step-hear",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 153,
+      "city": "תל אביב - יפו",
+      "lat": 32.078057,
+      "lon": 34.796818
+    }
+  ]
+}

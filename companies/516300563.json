@@ -1,0 +1,23 @@
+{
+  "name": "Firefly",
+  "description": "Manage your cloud with Infrastructure-as-Code. Save time, pay less, and prevent errors.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/firefly-logo.webp",
+  "websiteUrl": "https://www.firefly.ai/",
+  "careersUrl": "https://www.comeet.com/jobs/firefly/39.000",
+  "isHiring": true,
+  "linkedinId": "fireflyai",
+  "crunchbaseId": null,
+  "finderId": "firefly",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שאול המלך",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.0753114,
+      "lon": 34.7838583
+    }
+  ]
+}

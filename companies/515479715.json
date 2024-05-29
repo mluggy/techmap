@@ -1,0 +1,23 @@
+{
+  "name": "Alta Innovation",
+  "description": "A free service that provides real-time translation for text and web content across more than 100 languages.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/alta_innovation-logo.webp",
+  "websiteUrl": "https://translate.google.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "alta-innovation1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מרים החשמונאית",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.091106,
+      "lon": 34.78353
+    }
+  ]
+}

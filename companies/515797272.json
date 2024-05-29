@@ -1,0 +1,23 @@
+{
+  "name": "Stads Technologies",
+  "description": "STADS provides comprehensive control over your advertising campaigns with data-driven insights and location-targeted broadcasts through a unified platform.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/stads_technologies-logo.webp",
+  "websiteUrl": "https://stads.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "stadstechnologies",
+  "crunchbaseId": null,
+  "finderId": "stads-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון דוד",
+      "houseNumber": 1,
+      "city": "בני ברק",
+      "lat": 32.0955779,
+      "lon": 34.8219534
+    }
+  ]
+}

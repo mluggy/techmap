@@ -1,0 +1,23 @@
+{
+  "name": "Redefine Meat",
+  "description": "Offering a plant-based meat alternative, this company delivers an extraordinary culinary experience with exceptional taste, texture, and aroma, benefiting both the environment and animal welfare.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/redefine_meat-logo.webp",
+  "websiteUrl": "https://www.redefinemeat.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jet-eat",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אופנהיימר",
+      "houseNumber": 10,
+      "city": "רחובות",
+      "lat": 31.9102907,
+      "lon": 34.8074977
+    }
+  ]
+}

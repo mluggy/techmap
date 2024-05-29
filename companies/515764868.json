@@ -1,0 +1,23 @@
+{
+  "name": "Wesure Insurance",
+  "description": "Offering reliable insurance coverage tailored for small businesses to protect their assets and operations.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/wesure_insurance_company-logo.webp",
+  "websiteUrl": "https://wesuregroup.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wesure%E5%BE%AE%E4%BF%9D",
+  "crunchbaseId": null,
+  "finderId": "wesure",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 12,
+      "city": "רמת גן",
+      "lat": 32.08472355,
+      "lon": 34.80419494318181
+    }
+  ]
+}

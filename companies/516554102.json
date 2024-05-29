@@ -1,0 +1,23 @@
+{
+  "name": "Mindli",
+  "description": "A personal copilot for structured thinking and turning ideas into actions, capturing insights from various sources and organizing them seamlessly.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/mindli-logo.webp",
+  "websiteUrl": "https://mindli.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mindli",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סמ היסמין",
+      "houseNumber": 10,
+      "city": "רמת השרון",
+      "lat": 32.1352506347412,
+      "lon": 34.840908249358336
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Rapid Medical",
+  "description": "This company focuses on creating innovative neurovascular devices that ensure patient safety and fulfill physicians' requirements.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/rapid_medical-logo.webp",
+  "websiteUrl": "https://www.rapid-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rapid-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": null,
+      "city": "יקנעם עילית",
+      "lat": 32.6578027,
+      "lon": 35.1002987
+    }
+  ]
+}

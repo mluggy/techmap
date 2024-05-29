@@ -1,0 +1,23 @@
+{
+  "name": "Bny Mellon Tel Aviv",
+  "description": "This company provides undisclosed services or products, encouraging visitors to learn more.",
+  "categoryId": 10,
+  "size": "xl",
+  "logoFile": "logos/bny_mellon_tel_aviv-logo.webp",
+  "websiteUrl": "https://www.bnymellon.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "bny-mellon",
+  "crunchbaseId": null,
+  "finderId": "bny-mellon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שץ גגה גרשון",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.069126,
+      "lon": 34.789123
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Obscure Games",
+  "description": "Creating Games for Mobile Devices.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/obscure_games-logo.webp",
+  "websiteUrl": "https://www.obscuregames.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "obscure-games",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.075175,
+      "lon": 34.78205
+    }
+  ]
+}

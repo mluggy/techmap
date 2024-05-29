@@ -1,0 +1,23 @@
+{
+  "name": "Verily Israel",
+  "description": "A precision health company accelerating the development of safe, effective treatments for pharma and consumer health sectors.",
+  "categoryId": 12,
+  "size": "xl",
+  "logoFile": "logos/verily_israel-logo.webp",
+  "websiteUrl": "https://verily.com/",
+  "careersUrl": "https://verily.com/about-us/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "verily",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

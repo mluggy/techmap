@@ -1,0 +1,23 @@
+{
+  "name": "Choco Insurance Agency 2021",
+  "description": "A global digital insurer offering 24/7 service, competitive pricing, and rapid claims handling to cover your valued assets.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/choco_insurance_agency_2021-logo.webp",
+  "websiteUrl": "https://www.chocoinsurance.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "chocoinsurance",
+  "crunchbaseId": null,
+  "finderId": "choco-insurance",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היובלים",
+      "houseNumber": 52,
+      "city": "בארותיים",
+      "lat": 32.3204902,
+      "lon": 34.989925
+    }
+  ]
+}

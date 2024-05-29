@@ -1,0 +1,23 @@
+{
+  "name": "Demandoo Insurance Agency",
+  "description": "Providing on-demand, stress-free insurance with best-in-class fractional coverage, enabling significant savings by paying only for what you need.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/demandoo_insurance_agency-logo.webp",
+  "websiteUrl": "https://demandoo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "demandoo-insurance",
+  "crunchbaseId": null,
+  "finderId": "demandoo-insurance",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השלושה",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.0617382,
+      "lon": 34.7882304
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Frenn Analytics",
+  "description": "Insights on Revenue to Enhance Sales Efficiency.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/frenn_analytics-logo.webp",
+  "websiteUrl": "https://www.frenn.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "frennio",
+  "crunchbaseId": "frenn",
+  "finderId": "frenn",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חרוב",
+      "houseNumber": 4,
+      "city": "יבנה",
+      "lat": 31.8822969,
+      "lon": 34.7384393
+    }
+  ]
+}

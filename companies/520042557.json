@@ -1,0 +1,23 @@
+{
+  "name": "Lumenis",
+  "description": "This company innovates and markets energy-based, minimally invasive solutions for the Aesthetic and Vision sectors.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/lumenis_ltd-logo.webp",
+  "websiteUrl": "https://lumenis.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "lumenis",
+  "crunchbaseId": null,
+  "finderId": "lumenis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקידמה",
+      "houseNumber": 6,
+      "city": "יקנעם עילית",
+      "lat": 32.66998785,
+      "lon": 35.1055212
+    }
+  ]
+}

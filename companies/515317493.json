@@ -1,0 +1,23 @@
+{
+  "name": "Orasis Pharmaceuticals",
+  "description": "A progressive condition typically affecting individuals over 40, causing blurred vision during close-up tasks by impairing the eye's ability to focus on near objects.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/orasis_pharmaceuticals-logo.webp",
+  "websiteUrl": "https://www.orasis-pharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "orasis-pharmaceuticals",
+  "finderId": "orasis-pharmaceuticals",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.1668445,
+      "lon": 34.8115866
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Justplay Lol",
+  "description": "We develop inclusive eSports games to foster fun and connection among players.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/justplay_lol-logo.webp",
+  "websiteUrl": "https://www.justplay.lol/",
+  "careersUrl": "https://www.justplay.lol/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "justplay-lol",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

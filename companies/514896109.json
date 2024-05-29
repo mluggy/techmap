@@ -1,0 +1,23 @@
+{
+  "name": "Appendad",
+  "description": "This company offers a straightforward solution that quickly enhances revenue by identifying and monetizing new opportunities.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/appendad-logo.webp",
+  "websiteUrl": "https://www.firstimpression.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "appendad",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלוף מגן קלמן",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.07110345,
+      "lon": 34.78706174292169
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Carbonade",
+  "description": "A one-step electro-chemical system for capturing and utilizing CO2.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/carbonade-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "carbonade",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השקמה",
+      "houseNumber": 15,
+      "city": "עשרת",
+      "lat": 32.9717221,
+      "lon": 35.1553291
+    }
+  ]
+}

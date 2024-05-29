@@ -1,0 +1,23 @@
+{
+  "name": "Virtual Extension",
+  "description": "Systems for managing lighting wirelessly.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/virtual_extension-logo.webp",
+  "websiteUrl": "https://virtual-extension.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "virtual-extension",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בגין מנחם",
+      "houseNumber": 5,
+      "city": "בית דגן",
+      "lat": 32.0032831,
+      "lon": 34.8267537
+    }
+  ]
+}

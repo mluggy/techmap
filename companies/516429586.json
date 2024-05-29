@@ -1,0 +1,23 @@
+{
+  "name": "Hedonia",
+  "description": "Easing the symptoms of anxiety and depression.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/hedonia-logo.webp",
+  "websiteUrl": "https://www.hedonia.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hedonia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המגשימים",
+      "houseNumber": 26,
+      "city": "פתח תקווה",
+      "lat": 32.0881419,
+      "lon": 34.8536011
+    }
+  ]
+}

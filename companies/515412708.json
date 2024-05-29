@@ -1,0 +1,23 @@
+{
+  "name": "Checkout App",
+  "description": "We offer AI agents that excel in analyzing sales data, managing inventory, and monitoring goal progress.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/checkout_app-logo.webp",
+  "websiteUrl": "https://storee.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "checkout",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן יהודה",
+      "houseNumber": 146,
+      "city": "תל אביב - יפו",
+      "lat": 32.085873649999996,
+      "lon": 34.7729755
+    }
+  ]
+}

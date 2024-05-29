@@ -1,0 +1,23 @@
+{
+  "name": "Precycle",
+  "description": "On-site plastic recycling powered by artificial intelligence.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/precycle-logo.webp",
+  "websiteUrl": "https://www.precyclenyc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "precycle",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 22,
+      "city": "הרצליה",
+      "lat": 32.1640505,
+      "lon": 34.8107428
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Deep Instinct",
+  "description": "Employing a unique deep learning cybersecurity framework, this company prioritizes malware prevention to thwart ransomware and other threats.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/deep_instinct-logo.webp",
+  "websiteUrl": "https://www.deepinstinct.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "deep-instinct",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.06530465,
+      "lon": 34.784687671749694
+    }
+  ]
+}

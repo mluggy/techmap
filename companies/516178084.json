@@ -1,0 +1,23 @@
+{
+  "name": "Migvax",
+  "description": "This innovative vaccine leverages a chimeric protein to activate mucosal, blood-based, and cell-mediated immunity, ensuring robust and comprehensive protection against infections.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/migvax-logo.webp",
+  "websiteUrl": "https://www.migvax.com/",
+  "careersUrl": "https://www.migvax.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "migvax",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התרשיש",
+      "houseNumber": 5,
+      "city": "קריית שמונה",
+      "lat": 33.19620439350544,
+      "lon": 35.57492703272195
+    }
+  ]
+}

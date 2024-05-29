@@ -1,0 +1,23 @@
+{
+  "name": "Weather It Is",
+  "description": "The Weather Channel and weather.com provide a national and local weather forecast for cities, as well as weather radar, report and hurricane coverage.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/weather_it_is-logo.webp",
+  "websiteUrl": "https://weather.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "weather-it-is",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן ציון",
+      "houseNumber": 28,
+      "city": "ירושלים",
+      "lat": 31.7898752,
+      "lon": 35.1929383
+    }
+  ]
+}

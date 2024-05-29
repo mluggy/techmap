@@ -1,0 +1,23 @@
+{
+  "name": "Rentlyz",
+  "description": "An innovative online marketplace simplifying and saving time and money on event equipment rentals from various businesses.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/rentlyz-logo.webp",
+  "websiteUrl": "https://www.rentlyz.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rentlyz",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.109818,
+      "lon": 34.841254
+    }
+  ]
+}

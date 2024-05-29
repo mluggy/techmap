@@ -1,0 +1,23 @@
+{
+  "name": "Overwolf",
+  "description": "A leading platform offering free, user-friendly apps for millions of PC gamers worldwide.",
+  "categoryId": 11,
+  "size": "m",
+  "logoFile": "logos/overwolf-logo.webp",
+  "websiteUrl": "https://go.overwolf.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "overwolf",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

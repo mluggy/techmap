@@ -1,0 +1,23 @@
+{
+  "name": "Imagine Machine Israel",
+  "description": "An interactive educational game that teaches children geometric concepts and shape classification through engaging, experiential learning.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/imagine_machine_israel-logo.webp",
+  "websiteUrl": "https://imaginemachine.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "imagine-machine",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אמזלג",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.060115,
+      "lon": 34.765568
+    }
+  ]
+}

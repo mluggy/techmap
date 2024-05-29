@@ -1,0 +1,23 @@
+{
+  "name": "Orpheus Medical",
+  "description": "A scalable enterprise solution enhancing electronic medical record interoperability and compliance with secure, auditable access to clinical media.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/orpheus_medical-logo.webp",
+  "websiteUrl": "https://orpheus-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "orpheus-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סחרוב אנדרה",
+      "houseNumber": 9,
+      "city": "חיפה",
+      "lat": 32.7897925,
+      "lon": 34.9593655
+    }
+  ]
+}

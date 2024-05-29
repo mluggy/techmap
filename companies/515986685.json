@@ -1,0 +1,23 @@
+{
+  "name": "Checkmate Trade",
+  "description": "Providing convenient online and in-store loan services with an easy application process.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/checkmate_trade-logo.webp",
+  "websiteUrl": "https://callcheckmate.com/",
+  "careersUrl": "https://joincheckmate.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "checkmate",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדגן",
+      "houseNumber": 8,
+      "city": "חיפה",
+      "lat": 32.8191085,
+      "lon": 35.0567701
+    }
+  ]
+}

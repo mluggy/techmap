@@ -1,0 +1,23 @@
+{
+  "name": "Imagindairy",
+  "description": "We use science to produce real dairy proteins without relying on cows, promoting animal welfare and environmental health.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/imagindairy-logo.webp",
+  "websiteUrl": "https://imagindairy.com/",
+  "careersUrl": "https://imagindairy.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "imagindairy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חת נחום",
+      "houseNumber": 7,
+      "city": "טירת כרמל",
+      "lat": 32.7845356,
+      "lon": 34.9577195
+    }
+  ]
+}

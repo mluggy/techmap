@@ -1,0 +1,23 @@
+{
+  "name": "Titan Eco Wall",
+  "description": "A free service offering instant translation of words, phrases, and web pages in over 100 languages.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/titan_eco_wall-logo.webp",
+  "websiteUrl": "https://translate.google.com/?hl=ru",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "titan-eco-dry-wall",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 76,
+      "city": "תל אביב - יפו",
+      "lat": 32.0811748,
+      "lon": 34.78157507398153
+    }
+  ]
+}

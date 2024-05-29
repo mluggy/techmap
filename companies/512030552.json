@@ -1,0 +1,23 @@
+{
+  "name": "Tri Logical Technologies",
+  "description": "A member of the Ziv-Av group, this company specializes in advanced technological solutions and support services.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/tri_logical_technologies-logo.webp",
+  "websiteUrl": "https://www.trilogical.com/",
+  "careersUrl": "https://www.trilogical.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tri-logical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "טוליפמן",
+      "houseNumber": 7,
+      "city": "ראשון לציון",
+      "lat": 31.9835487,
+      "lon": 34.8104946
+    }
+  ]
+}

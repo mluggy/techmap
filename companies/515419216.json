@@ -1,0 +1,23 @@
+{
+  "name": "Linkedin Israel",
+  "description": "A platform to manage professional identities, network, and access valuable insights and opportunities.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/linkedin_technology_israel-logo.webp",
+  "websiteUrl": "https://www.linkedin.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "linkedin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רוקח שמעון",
+      "houseNumber": 101,
+      "city": "תל אביב - יפו",
+      "lat": 32.060472,
+      "lon": 34.7657446
+    }
+  ]
+}

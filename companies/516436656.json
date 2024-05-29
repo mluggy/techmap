@@ -1,0 +1,23 @@
+{
+  "name": "Therapp",
+  "description": "Acknowledging security responsibilities, I commit to practicing good security measures when selecting and using my password.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/therapp-logo.webp",
+  "websiteUrl": "https://secure.therapconnect.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "therapp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדס",
+      "houseNumber": 38,
+      "city": "מתן",
+      "lat": 32.1603486,
+      "lon": 34.9733538
+    }
+  ]
+}

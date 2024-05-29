@@ -1,0 +1,23 @@
+{
+  "name": "Restore Medical",
+  "description": "A catheter-based device designed to treat congestive heart failure.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/restore_medical-logo.webp",
+  "websiteUrl": "https://restoremedical.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "restore-medical-ltd",
+  "crunchbaseId": null,
+  "finderId": "restore-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתניהו יהונתן",
+      "houseNumber": 6,
+      "city": "אור יהודה",
+      "lat": 32.0219296,
+      "lon": 34.8566055
+    }
+  ]
+}

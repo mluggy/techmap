@@ -1,0 +1,23 @@
+{
+  "name": "Lobix Me",
+  "description": "Creating innovative and user-friendly applications.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/lobix_me-logo.webp",
+  "websiteUrl": "https://lobix.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lobix-me",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ביאליק",
+      "houseNumber": 32,
+      "city": "הוד השרון",
+      "lat": 32.1611065,
+      "lon": 34.887705
+    }
+  ]
+}

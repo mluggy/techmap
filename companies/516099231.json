@@ -1,0 +1,23 @@
+{
+  "name": "Opticity",
+  "description": "The company provides advanced technological solutions to optimize transportation logistics for businesses.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/opticity-logo.webp",
+  "websiteUrl": "https://opticity.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "opticity-global",
+  "crunchbaseId": null,
+  "finderId": "opticity",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אימבר",
+      "houseNumber": 23,
+      "city": "פתח תקווה",
+      "lat": 32.0990407,
+      "lon": 34.8638604
+    }
+  ]
+}

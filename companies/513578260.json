@@ -1,0 +1,23 @@
+{
+  "name": "Collplant",
+  "description": "A pioneering company in regenerative medicine, advancing tissue regeneration and organ manufacturing with innovative collagen technology.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/collplant-logo.webp",
+  "websiteUrl": "https://collplant.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "collplant",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אופנהיימר",
+      "houseNumber": 4,
+      "city": "רחובות",
+      "lat": 31.9104321,
+      "lon": 34.8058374
+    }
+  ]
+}

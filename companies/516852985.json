@@ -1,0 +1,23 @@
+{
+  "name": "Beteende",
+  "description": "Managing member experiences for health plans using artificial intelligence.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/beteende-logo.webp",
+  "websiteUrl": "https://www.beteende.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "beteende",
+  "crunchbaseId": null,
+  "finderId": "beteende-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השעורה",
+      "houseNumber": 1,
+      "city": "עין איילה",
+      "lat": 32.6290498,
+      "lon": 34.9439322
+    }
+  ]
+}

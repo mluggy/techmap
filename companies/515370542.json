@@ -1,0 +1,23 @@
+{
+  "name": "Infime Underwear",
+  "description": "An e-commerce brand that helps customers find the right fit and appearance for underwear and bras, addressing key challenges in online lingerie sales.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/infime_underwear-logo.webp",
+  "websiteUrl": "https://api.infime.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "infime",
+  "finderId": "infime-underwear",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כרמל",
+      "houseNumber": 27,
+      "city": "מבשרת ציון",
+      "lat": 31.80665765,
+      "lon": 35.1505955
+    }
+  ]
+}

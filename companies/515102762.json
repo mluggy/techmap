@@ -1,0 +1,23 @@
+{
+  "name": "Compit Real Estate",
+  "description": "An event hosted in Drübeck, Germany, focusing on professional development and networking opportunities.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/compit_real_estate-logo.webp",
+  "websiteUrl": "http://compit.info/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "compit-inc-",
+  "crunchbaseId": null,
+  "finderId": "compit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסדנא",
+      "houseNumber": 7,
+      "city": "רעננה",
+      "lat": 32.1951246,
+      "lon": 34.8787131
+    }
+  ]
+}

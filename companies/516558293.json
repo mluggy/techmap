@@ -1,0 +1,23 @@
+{
+  "name": "Tarya Credit",
+  "description": "Providing comprehensive financial solutions, including loans, risk management, and earned wage access, all in one place.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/tarya_credit-logo.webp",
+  "websiteUrl": "https://www.taryafintech.com/",
+  "careersUrl": "https://www.taryafintech.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": "tarya",
+  "finderId": "tarya",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 15,
+      "city": "ראש העין",
+      "lat": 32.108278,
+      "lon": 34.9652441
+    }
+  ]
+}

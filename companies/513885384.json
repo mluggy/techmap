@@ -1,0 +1,23 @@
+{
+  "name": "P Square Medical",
+  "description": "A startup developing innovative, portable, non-invasive devices for diagnosing and monitoring male urinary disorders.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/p_square_medical-logo.webp",
+  "websiteUrl": "https://www.psquare-ltd.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "p-square-medical-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרם",
+      "houseNumber": 1,
+      "city": "רמות השבים",
+      "lat": 32.1645847,
+      "lon": 34.8847733
+    }
+  ]
+}

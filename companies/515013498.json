@@ -1,0 +1,23 @@
+{
+  "name": "Bepro Travel",
+  "description": "Specializing in web-based booking engines, we lead Israel's travel technology sector with tailored B2B solutions for tour operators and travel agencies.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/bepro_travel-logo.webp",
+  "websiteUrl": "https://www.beprotravel.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bepro-travel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המרד",
+      "houseNumber": 29,
+      "city": "תל אביב - יפו",
+      "lat": 32.063593,
+      "lon": 34.763472
+    }
+  ]
+}

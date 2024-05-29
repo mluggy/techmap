@@ -1,0 +1,23 @@
+{
+  "name": "Green Eggs",
+  "description": "Egg Alternative Made from Plants.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/green_eggs-logo.webp",
+  "websiteUrl": "https://www.greeneggscafe.com/",
+  "careersUrl": "https://www.greeneggscafe.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "greeneggs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נמירובר",
+      "houseNumber": 19,
+      "city": "תל אביב - יפו",
+      "lat": 32.111853,
+      "lon": 34.833577
+    }
+  ]
+}

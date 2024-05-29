@@ -1,0 +1,23 @@
+{
+  "name": "Ddance",
+  "description": "An internet art project by fuzzyw offering an optimal experience on desktop, mobile, and VR platforms.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/ddance-logo.webp",
+  "websiteUrl": "https://dddance.party/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ddance",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרת האגמים",
+      "houseNumber": 11,
+      "city": "נתניה",
+      "lat": 32.28964636374139,
+      "lon": 34.84996037484107
+    }
+  ]
+}

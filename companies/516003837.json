@@ -1,0 +1,23 @@
+{
+  "name": "Rapyd Hzdl",
+  "description": "A globally operating FinTech company providing financial services through regulated regional and local entities.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/rapyd_hzdl-logo.webp",
+  "websiteUrl": "https://www.rapyd.net/",
+  "careersUrl": "https://www.rapyd.net/company/careers/",
+  "isHiring": true,
+  "linkedinId": "rapydpayments",
+  "crunchbaseId": "rapyd",
+  "finderId": "rapyd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

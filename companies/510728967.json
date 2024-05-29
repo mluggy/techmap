@@ -1,0 +1,23 @@
+{
+  "name": "MSD",
+  "description": "Healthcare company offering prescription medicines, vaccines, biologic therapies and animal health products.",
+  "categoryId": 12,
+  "size": "xl",
+  "logoFile": "logos/msd-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "msd-global",
+  "crunchbaseId": null,
+  "finderId": "msd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 18,
+      "city": "נתניה",
+      "lat": 32.27985305,
+      "lon": 34.858477541008384
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tailormed Medical",
+  "description": "A comprehensive technology suite enabling financial assistance for prescriptions, interfacing seamlessly with any EMR, pharmacy, or practice management system.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/tailormed_medical-logo.webp",
+  "websiteUrl": "https://tailormed.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tailormed-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוזס יהודה ונח",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.075798,
+      "lon": 34.794728
+    }
+  ]
+}

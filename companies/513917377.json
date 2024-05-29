@@ -1,0 +1,23 @@
+{
+  "name": "Kaltura",
+  "description": "A leading platform for webinars and events, driving high audience engagement and generating top-tier first-party data for enhanced insights and sales pipelines.",
+  "categoryId": 8,
+  "size": "l",
+  "logoFile": "logos/kaltura-logo.webp",
+  "websiteUrl": "https://corp.kaltura.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kaltura",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הירקון",
+      "houseNumber": 2,
+      "city": "בני ברק",
+      "lat": 32.0955017,
+      "lon": 34.8234431
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Diagyn",
+  "description": "A diagnostic institute offering specialized health testing and consultation services in Klagenfurt am Wörthersee.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/diagyn-logo.webp",
+  "websiteUrl": "https://diagyn.at/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "diagyn",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד אבא אבן",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1613414,
+      "lon": 34.8105823
+    }
+  ]
+}

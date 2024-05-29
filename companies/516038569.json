@@ -1,0 +1,23 @@
+{
+  "name": "Trustpeers",
+  "description": null,
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/trustpeers-logo.webp",
+  "websiteUrl": "https://trustpeers.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "trustpeers",
+  "finderId": "trustpeers1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך הבשמים",
+      "houseNumber": 7,
+      "city": "גני תקווה",
+      "lat": 32.0645776,
+      "lon": 34.8793323
+    }
+  ]
+}

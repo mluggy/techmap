@@ -1,0 +1,23 @@
+{
+  "name": "Nagish Li",
+  "description": "This app provides fast, private, and free real-time captioning for phone calls, enabling communication via text or voice.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/nagish_li-logo.webp",
+  "websiteUrl": "https://nagish.com/",
+  "careersUrl": "https://nagish.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nagish",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גדעון האוזנר",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.16133265,
+      "lon": 34.82768565
+    }
+  ]
+}

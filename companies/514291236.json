@@ -1,0 +1,23 @@
+{
+  "name": "Bright Led",
+  "description": "All-in-one solution for intelligent urban services.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/bright_led-logo.webp",
+  "websiteUrl": "https://www.superbrightleds.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bright-led",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 45,
+      "city": "חיפה",
+      "lat": 32.819776250000004,
+      "lon": 34.9988252
+    }
+  ]
+}

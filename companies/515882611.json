@@ -1,0 +1,23 @@
+{
+  "name": "Wedge O K",
+  "description": "A neighborhood brewery in Asheville's River Arts District since 2008, offering good beer and good times in two welcoming locations.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/wedge_o_k-logo.webp",
+  "websiteUrl": "https://wedgebrewing.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wedge",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מיטב",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.065332,
+      "lon": 34.794807
+    }
+  ]
+}

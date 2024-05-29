@@ -1,0 +1,23 @@
+{
+  "name": "Inspir Labs",
+  "description": "Develops technology to minimize aerosol contamination and ensure safe usage of non-invasive ventilation.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/inspir_labs-logo.webp",
+  "websiteUrl": "https://www.inspirlabs.com/",
+  "careersUrl": "https://www.inspirlabs.com/careers",
+  "isHiring": true,
+  "linkedinId": "inspir-labs-ltd",
+  "crunchbaseId": "inspir-labs",
+  "finderId": "inspir-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטחנה",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1727607,
+      "lon": 34.8930781
+    }
+  ]
+}

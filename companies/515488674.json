@@ -1,0 +1,23 @@
+{
+  "name": "Better Care",
+  "description": "שיפרנו את איכות הטיפול באמצעות פתרון המתגבר על מחסומי שפה וניירת, ומעניק למטפלים תחושת שייכות וגישה מלאה למידע ודיווחים.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/better_care-logo.webp",
+  "websiteUrl": "https://bettercare.info/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bettercare",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עצמון",
+      "houseNumber": 25,
+      "city": "רמת השרון",
+      "lat": 32.1454915,
+      "lon": 34.8350289
+    }
+  ]
+}

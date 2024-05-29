@@ -1,0 +1,44 @@
+{
+  "name": "Nvidia Israel",
+  "description": "A leading technology company specializing in graphics processing units (GPUs) and artificial intelligence (AI) solutions for gaming, professional visualization, data centers, and automotive markets.",
+  "categoryId": 1,
+  "size": "l",
+  "logoFile": "logos/nvidia_israel_technologies-logo.webp",
+  "websiteUrl": "https://www.nvidia.com",
+  "careersUrl": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+  "isHiring": true,
+  "linkedinId": "nvidia",
+  "crunchbaseId": "nvidia",
+  "finderId": "nvidia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקידמה",
+      "houseNumber": 26,
+      "city": "יקנעם עילית",
+      "lat": 32.6651531,
+      "lon": 35.10516992921238
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "באר שבע",
+      "lat": 31.265048873723476,
+      "lon": 34.81413616868034
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב - יפו",
+      "lat": 32.066906958709886,
+      "lon": 34.785027374406376
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "רעננה",
+      "lat": 32.20082447805484,
+      "lon": 34.881332428114874
+    }
+  ]
+}

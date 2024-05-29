@@ -1,0 +1,23 @@
+{
+  "name": "Veego Software",
+  "description": "A comprehensive shipping solution providing the lowest rates and cashback, along with advanced inventory and warehouse management tools.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/veego_software-logo.webp",
+  "websiteUrl": "https://www.veeqo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "veego",
+  "finderId": "veego-software",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היצירה",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.0848749,
+      "lon": 34.8030899
+    }
+  ]
+}

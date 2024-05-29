@@ -1,0 +1,23 @@
+{
+  "name": "Iron Drone",
+  "description": "Solution for Intercepting Drones.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/iron_drone-logo.webp",
+  "websiteUrl": "https://www.airoboticsdrones.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "iron-drone",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן אביגדור",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.067242,
+      "lon": 34.788291
+    }
+  ]
+}

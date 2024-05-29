@@ -1,0 +1,23 @@
+{
+  "name": "En Gibton",
+  "description": "A company specializing in advanced water purification materials using proprietary micelle-clay complex technology, approved by the Israeli Ministry of Health.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/en_gibton-logo.webp",
+  "websiteUrl": "https://www.engibton.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "en-gibton",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' דוד המלך",
+      "houseNumber": 53,
+      "city": "תל אביב - יפו",
+      "lat": 32.080181,
+      "lon": 34.787616
+    }
+  ]
+}

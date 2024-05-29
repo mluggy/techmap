@@ -1,0 +1,23 @@
+{
+  "name": "Incredo",
+  "description": "Producer of healthful, delicious cookies that are high in protein, low in sugar, and free from red stickers for salt, fat, and sugar content.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/incredo-logo.webp",
+  "websiteUrl": "https://www.incredosugar.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "incredo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שמשון",
+      "houseNumber": 9,
+      "city": "פתח תקווה",
+      "lat": 32.0953047,
+      "lon": 34.8622572
+    }
+  ]
+}

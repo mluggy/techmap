@@ -1,0 +1,23 @@
+{
+  "name": "Blink And Co",
+  "description": "Our advanced security cameras offer HD video, two-way audio, and motion detection, all accessible via a single app.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/blink_and_co-logo.webp",
+  "websiteUrl": "https://blinkforhome.com/",
+  "careersUrl": "https://blinkux.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "elastic-media",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הזית",
+      "houseNumber": 2,
+      "city": "כפר שמריהו",
+      "lat": 32.1868121,
+      "lon": 34.8162901
+    }
+  ]
+}

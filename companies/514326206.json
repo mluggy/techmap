@@ -1,0 +1,23 @@
+{
+  "name": "Panaxia",
+  "description": "Specializing in cannabis-based medicine, they offer consistent, high-quality products like tablets and suppositories to meet chronic patients' needs.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/panaxia-logo.webp",
+  "websiteUrl": "https://panaxia.co.il/",
+  "careersUrl": "https://panaxia.co.il/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "panaxia",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בת שבע",
+      "houseNumber": 1,
+      "city": "לוד",
+      "lat": 31.9530326,
+      "lon": 34.88971251534439
+    }
+  ]
+}

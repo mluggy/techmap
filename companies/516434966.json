@@ -1,0 +1,23 @@
+{
+  "name": "Robusta Dev",
+  "description": "An open-source, self-hosted automation engine with a comprehensive observability platform, available as SaaS or self-hosted.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/robusta_dev-logo.webp",
+  "websiteUrl": "https://home.robusta.dev/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "robusta-dev",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לינקולן",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.066035,
+      "lon": 34.782959
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Nicogen",
+  "description": "The device efficiently aerosolizes nicotine solutions for optimal systemic delivery with a fine particle fraction exceeding 80% and a MMAD around 2.5 microns.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/nicogen-logo.webp",
+  "websiteUrl": "https://nicogen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "nicogen",
+  "finderId": "nicogen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המדע",
+      "houseNumber": 5,
+      "city": "מגדל העמק",
+      "lat": 32.687457885554196,
+      "lon": 35.250266613854976
+    }
+  ]
+}

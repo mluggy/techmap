@@ -1,0 +1,23 @@
+{
+  "name": "Oko Finance",
+  "description": "A culinary experience blending Japanese traditions with local farm and water-sourced ingredients, crafted by Chef Lewis.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/oko_finance-logo.webp",
+  "websiteUrl": "https://okokitchen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "oko",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 4,
+      "city": "בני ברק",
+      "lat": 32.0920416,
+      "lon": 34.8239345
+    }
+  ]
+}

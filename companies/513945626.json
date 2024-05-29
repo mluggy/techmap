@@ -1,0 +1,23 @@
+{
+  "name": "Curapipe System",
+  "description": "A company specializing in pipeline maintenance using self-detecting technology to repair leaks and cracks efficiently.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/curapipe_system-logo.webp",
+  "websiteUrl": "https://www.curapipe.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "curapipe",
+  "finderId": "curapipe",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד התעשיה",
+      "houseNumber": null,
+      "city": "אשקלון",
+      "lat": 31.6673606,
+      "lon": 34.598164
+    }
+  ]
+}

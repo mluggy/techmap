@@ -1,0 +1,23 @@
+{
+  "name": "Tactical Robotics",
+  "description": "A free service that instantly translates words, phrases, and web pages from English to over 100 languages.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/tactical_robotics-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "tactical-robotics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחל שניר",
+      "houseNumber": 10,
+      "city": "יבנה",
+      "lat": 31.8993354,
+      "lon": 34.7385308
+    }
+  ]
+}

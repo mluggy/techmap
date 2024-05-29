@@ -1,0 +1,23 @@
+{
+  "name": "Insightec",
+  "description": "They provide a relatively safe focused ultrasound procedure, urging patients to consult physicians about all available treatments and associated risks.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/insightec-logo.webp",
+  "websiteUrl": "https://insightec.com/",
+  "careersUrl": "https://insightec.com/careers/",
+  "isHiring": true,
+  "linkedinId": "insightec",
+  "crunchbaseId": null,
+  "finderId": "insightec",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חת נחום",
+      "houseNumber": 5,
+      "city": "טירת כרמל",
+      "lat": 32.783678,
+      "lon": 34.960601
+    }
+  ]
+}

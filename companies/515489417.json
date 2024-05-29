@@ -1,0 +1,23 @@
+{
+  "name": "First Airborne",
+  "description": "A system utilizing drones to oversee and assess the performance of wind farms.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/first_airborne-logo.webp",
+  "websiteUrl": "https://firstairborne.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "first-airborne",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנוער",
+      "houseNumber": 5,
+      "city": "עין ורד",
+      "lat": 32.2671509,
+      "lon": 34.9325818
+    }
+  ]
+}

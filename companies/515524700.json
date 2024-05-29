@@ -1,0 +1,23 @@
+{
+  "name": "Syncleo",
+  "description": "Offering a small business phone system with virtual receptionist and integrated voice response, providing free toll-free numbers for seamless local and international calls.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/syncleo-logo.webp",
+  "websiteUrl": "https://www.syncleo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "syncleo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגר\"א",
+      "houseNumber": 6,
+      "city": "נתניה",
+      "lat": 32.3105987,
+      "lon": 34.8568923
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sensibo",
+  "description": "Revolutionizing climate control, this service allows remote temperature management and scheduling through a smartphone using infrared technology and WiFi.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/sensibo-logo.webp",
+  "websiteUrl": "https://sensibo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sensibo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 38,
+      "city": "רמת גן",
+      "lat": 32.085753749999995,
+      "lon": 34.80240578198058
+    }
+  ]
+}

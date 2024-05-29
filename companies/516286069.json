@@ -1,0 +1,23 @@
+{
+  "name": "Marvin Technology Ventures",
+  "description": "Specializing in windows and doors, this company offers products designed to enhance new construction, remodeling, or replacement projects.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/marvin_technology_ventures-logo.webp",
+  "websiteUrl": "https://www.marvin.com/",
+  "careersUrl": "https://www.marvin.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "marvin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": 28,
+      "city": "דור",
+      "lat": 32.6075668,
+      "lon": 34.9230461
+    }
+  ]
+}

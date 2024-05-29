@@ -1,0 +1,23 @@
+{
+  "name": "Datafy",
+  "description": "Platform for Managing Cloud Storage.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/datafy-logo.webp",
+  "websiteUrl": "https://www.datafyhq.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "datafy-hq",
+  "crunchbaseId": null,
+  "finderId": "datafy-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קרויס",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.110343,
+      "lon": 34.799703
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Officely AI",
+  "description": "They develop AI-driven agents for various functions, with flexible deployment options and seamless API integration for organizations.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/officely_ai-logo.webp",
+  "websiteUrl": "https://www.officely.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "officely-il",
+  "crunchbaseId": null,
+  "finderId": "officely-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרג",
+      "houseNumber": 19,
+      "city": "נס ציונה",
+      "lat": 31.9172125,
+      "lon": 34.7935455
+    }
+  ]
+}

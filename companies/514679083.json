@@ -1,0 +1,23 @@
+{
+  "name": "Radlogics",
+  "description": "Utilizing AI-powered solutions, this company supports overburdened health systems globally by processing and analyzing COVID-19 cases.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/radlogics-logo.webp",
+  "websiteUrl": "https://www.radlogics.com/",
+  "careersUrl": "https://www.radlogics.com/careers/",
+  "isHiring": true,
+  "linkedinId": "radlogics",
+  "crunchbaseId": null,
+  "finderId": "radlogics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' רוקח",
+      "houseNumber": 101,
+      "city": "תל אביב - יפו",
+      "lat": 32.1053566,
+      "lon": 34.811018495092924
+    }
+  ]
+}

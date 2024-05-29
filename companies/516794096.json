@@ -1,0 +1,23 @@
+{
+  "name": "Zip Bio",
+  "description": "A versatile QR code generator offering customizable designs, extensive template options, and detailed analytics.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/zip_bio-logo.webp",
+  "websiteUrl": "https://zipbio.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "zip-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אליעזר הגדול",
+      "houseNumber": 8,
+      "city": "ירושלים",
+      "lat": 31.7535271,
+      "lon": 35.2052544
+    }
+  ]
+}

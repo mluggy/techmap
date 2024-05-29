@@ -1,0 +1,23 @@
+{
+  "name": "Cashcow",
+  "description": "פלטפורמה ליצירת אתרים במהירות ובקלות ללא צורך בידע טכני עם מגוון תבניות מרהיבות ועורך מתקדם.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/cashcow-logo.webp",
+  "websiteUrl": "https://www.cashcow.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cashcow",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "טביב",
+      "houseNumber": 13,
+      "city": "ראשון לציון",
+      "lat": 31.959144,
+      "lon": 34.8128715
+    }
+  ]
+}

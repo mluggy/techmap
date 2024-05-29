@@ -1,0 +1,23 @@
+{
+  "name": "Insightcat",
+  "description": "Join the monitoring revolution with zero-configuration visualization, real-time insights, and smart alerts by simply adding a line to your Telegraf configuration.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/insightcat-logo.webp",
+  "websiteUrl": "https://insightcat.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "insightcat",
+  "crunchbaseId": "insightcat",
+  "finderId": "insightcat",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוטה גור",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.0920729,
+      "lon": 34.8646062
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Catch D I",
+  "description": "Indulge in premium steak, seafood, and sushi across four prime U.S. locations.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/catch_d_i-logo.webp",
+  "websiteUrl": "https://www.catchrestaurants.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "catch",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בן צבי",
+      "houseNumber": 84,
+      "city": "תל אביב - יפו",
+      "lat": 32.041932,
+      "lon": 34.771818
+    }
+  ]
+}

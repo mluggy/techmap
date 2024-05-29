@@ -1,0 +1,23 @@
+{
+  "name": "Deeyook Location Technologies",
+  "description": "Providing real-time, precise location tracking for assets both indoors and outdoors using advanced, low-power technology.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/deeyook_location_technologies-logo.webp",
+  "websiteUrl": "https://www.deeyook.com/",
+  "careersUrl": "https://www.deeyook.com/careers",
+  "isHiring": true,
+  "linkedinId": "deeyook",
+  "crunchbaseId": null,
+  "finderId": "deeyook",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוזס יהודה ונח",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.075798,
+      "lon": 34.794728
+    }
+  ]
+}

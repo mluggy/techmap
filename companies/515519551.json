@@ -1,0 +1,23 @@
+{
+  "name": "Omnistream",
+  "description": "A SaaS provider offering segregated accounts for both enterprises and their individual agents.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/omnistream-logo.webp",
+  "websiteUrl": "https://www.omnistre.am/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "omnistream",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סוקולוב",
+      "houseNumber": 64,
+      "city": "רמת השרון",
+      "lat": 32.144916,
+      "lon": 34.83844968838688
+    }
+  ]
+}

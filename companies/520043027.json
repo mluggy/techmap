@@ -1,0 +1,23 @@
+{
+  "name": "Elbit Systems",
+  "description": "A defense technology company secures major contracts for military upgrades and air defense while postponing a shareholder meeting.",
+  "categoryId": 3,
+  "size": "l",
+  "logoFile": "logos/elbit_systems-logo.webp",
+  "websiteUrl": "https://elbitsystems.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "elbit-systems",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מרכז תעשיות מדע",
+      "houseNumber": null,
+      "city": "חיפה",
+      "lat": 32.6936318,
+      "lon": 35.0472693
+    }
+  ]
+}

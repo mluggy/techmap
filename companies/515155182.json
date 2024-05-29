@@ -1,0 +1,23 @@
+{
+  "name": "Neos Tech",
+  "description": "Online Workspace Designed for Legal Professionals.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/neos_tech-logo.webp",
+  "websiteUrl": "https://www.neostech.si/",
+  "careersUrl": "https://www.neotech.com/about-neo-tech/careers/",
+  "isHiring": true,
+  "linkedinId": "neos-technologies-inc",
+  "crunchbaseId": null,
+  "finderId": "neos-tech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכנסת הגדולה",
+      "houseNumber": 12,
+      "city": "תל אביב - יפו",
+      "lat": 32.097776,
+      "lon": 34.799429
+    }
+  ]
+}

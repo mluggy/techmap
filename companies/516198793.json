@@ -1,0 +1,23 @@
+{
+  "name": "Komodor Automation",
+  "description": "A troubleshooting platform designed natively for Kubernetes environments.",
+  "categoryId": 15,
+  "size": "m",
+  "logoFile": "logos/komodor_automation-logo.webp",
+  "websiteUrl": "https://komodor.com/",
+  "careersUrl": "https://komodor.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "komodor-automation",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 82,
+      "city": "תל אביב - יפו",
+      "lat": 32.066186,
+      "lon": 34.792954
+    }
+  ]
+}

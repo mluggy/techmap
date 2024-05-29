@@ -1,0 +1,23 @@
+{
+  "name": "Gaviti Akyl",
+  "description": "An automated platform that enhances cash flow and reduces Days Sales Outstanding by around 30%.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/gaviti_akyl-logo.webp",
+  "websiteUrl": "https://gaviti.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "gaviti",
+  "crunchbaseId": "gaviti",
+  "finderId": "gaviti",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוזס יהודה ונח",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.075798,
+      "lon": 34.794728
+    }
+  ]
+}

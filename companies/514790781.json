@@ -1,0 +1,23 @@
+{
+  "name": "Sailpoint Technologies Israel",
+  "description": "Our AI-powered SaaS platform streamlines and secures identity management for modern enterprises.",
+  "categoryId": 7,
+  "size": "xl",
+  "logoFile": "logos/sailpoint_technologies_israel-logo.webp",
+  "websiteUrl": "https://www.sailpoint.com/",
+  "careersUrl": "https://www.sailpoint.com/company/careers/",
+  "isHiring": true,
+  "linkedinId": "sailpoint-technologies",
+  "crunchbaseId": null,
+  "finderId": "sailpoint",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נירים",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.062277,
+      "lon": 34.79049
+    }
+  ]
+}

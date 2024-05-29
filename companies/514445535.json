@@ -1,0 +1,23 @@
+{
+  "name": "Feedbox",
+  "description": "A SaaS platform enabling businesses to conduct NPS customer satisfaction surveys both in-store and remotely.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/feedbox-logo.webp",
+  "websiteUrl": "https://feedboxcem.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "feedbox",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כנרת",
+      "houseNumber": 5,
+      "city": "בני ברק",
+      "lat": 32.094811034642056,
+      "lon": 34.824258901531636
+    }
+  ]
+}

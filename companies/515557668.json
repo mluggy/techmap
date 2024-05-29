@@ -1,0 +1,23 @@
+{
+  "name": "Medflyt Technology",
+  "description": "Access and manage nursing visits seamlessly through a user-friendly remote app.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/medflyt_technology-logo.webp",
+  "websiteUrl": "https://app.medflyt.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medflyt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 146,
+      "city": "תל אביב - יפו",
+      "lat": 32.0778351,
+      "lon": 34.794439538025976
+    }
+  ]
+}

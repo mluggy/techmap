@@ -1,0 +1,23 @@
+{
+  "name": "Metabomed",
+  "description": "Cancer treatments that block specific targets.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/metabomed-logo.webp",
+  "websiteUrl": "https://www.meta-biomed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "metabomed-ltd-",
+  "crunchbaseId": null,
+  "finderId": "metabomed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקישון",
+      "houseNumber": 18,
+      "city": "יבנה",
+      "lat": 31.8863191,
+      "lon": 34.73453
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Sion Land Survying",
+  "description": "Effortlessly track and manage travel commissions with a platform that simplifies splits and provides real-time booking data.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/sion_land_survying-logo.webp",
+  "websiteUrl": "https://www.sioncentral.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sion",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד בן גוריון",
+      "houseNumber": 14,
+      "city": "אשקלון",
+      "lat": 31.7311356,
+      "lon": 34.737589
+    }
+  ]
+}

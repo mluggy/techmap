@@ -1,0 +1,23 @@
+{
+  "name": "Talntq",
+  "description": "A psychological platform leveraging AI for managing talent.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/talntq-logo.webp",
+  "websiteUrl": "https://www.atlantaga.gov/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "talntq",
+  "crunchbaseId": null,
+  "finderId": "talntq",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 53,
+      "city": "תל אביב - יפו",
+      "lat": 32.06769,
+      "lon": 34.786874
+    }
+  ]
+}

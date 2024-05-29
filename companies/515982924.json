@@ -1,0 +1,23 @@
+{
+  "name": "Sency Interactive",
+  "description": "An AI-driven motion-tracking system that captures human movements and delivers real-time, actionable insights for various applications.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/sency_interactive-logo.webp",
+  "websiteUrl": "https://www.sency.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sencyai",
+  "crunchbaseId": "fitv-ai",
+  "finderId": "fitv",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בצלאל",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.086609249999995,
+      "lon": 34.80170756975005
+    }
+  ]
+}

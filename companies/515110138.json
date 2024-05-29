@@ -1,0 +1,23 @@
+{
+  "name": "Wisdo",
+  "description": "A platform dedicated to community wellness.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/wisdo-logo.webp",
+  "websiteUrl": "https://www.wisdo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wisdo",
+  "crunchbaseId": null,
+  "finderId": "wisdo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אהליאב",
+      "houseNumber": 10,
+      "city": "רמת גן",
+      "lat": 32.08769233337585,
+      "lon": 34.8022060856916
+    }
+  ]
+}

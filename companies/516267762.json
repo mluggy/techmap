@@ -1,0 +1,23 @@
+{
+  "name": "Tenable Israel",
+  "description": "Provides real-time, continuous assessment and risk-based insights into your attack surface.",
+  "categoryId": 7,
+  "size": "xl",
+  "logoFile": "logos/tenable_israel-logo.webp",
+  "websiteUrl": "https://www.tenable.com/",
+  "careersUrl": "https://www.tenable.com/careers",
+  "isHiring": true,
+  "linkedinId": "tenableinc",
+  "crunchbaseId": null,
+  "finderId": "tenable",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

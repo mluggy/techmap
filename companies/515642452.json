@@ -1,0 +1,23 @@
+{
+  "name": "Dot Play",
+  "description": "Offering high-performance media playback with minimal resource usage and extensive support for 3D viewing and various output formats.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/dot_play-logo.webp",
+  "websiteUrl": "http://potplayer.tv/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "play",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

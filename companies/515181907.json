@@ -1,0 +1,23 @@
+{
+  "name": "Nexar",
+  "description": "A pioneering app that streams and securely backs up dash cam recordings to your phone, utilizing up to half of your device's memory.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/nexar-logo.webp",
+  "websiteUrl": "https://www.getnexar.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nexar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב - יפו",
+      "lat": 32.060334,
+      "lon": 34.782124
+    }
+  ]
+}

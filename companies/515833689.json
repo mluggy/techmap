@@ -1,0 +1,23 @@
+{
+  "name": "Spondoolies",
+  "description": "Equipment for Mining Cryptocurrencies.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/spondoolies-logo.webp",
+  "websiteUrl": "http://www.spondoolies-tech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "spondoolies",
+  "crunchbaseId": null,
+  "finderId": "spondoolies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "כרמל",
+      "houseNumber": 10,
+      "city": "רחובות",
+      "lat": 31.9346652,
+      "lon": 34.8085197
+    }
+  ]
+}

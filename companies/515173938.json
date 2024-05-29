@@ -1,0 +1,23 @@
+{
+  "name": "Imagry Israel",
+  "description": "Self-Driving Technology Without the Need for Maps.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/imagry_israel-logo.webp",
+  "websiteUrl": "https://www.imagerywinery.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "imagry",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 53,
+      "city": "חיפה",
+      "lat": 32.8228261,
+      "lon": 34.9943882
+    }
+  ]
+}

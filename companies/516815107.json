@@ -1,0 +1,23 @@
+{
+  "name": "Nolos",
+  "description": "Located in the historic Maytag Co. building, this Minneapolis eatery offers locally sourced modern American comfort food with a straightforward menu.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/nolos-logo.webp",
+  "websiteUrl": "https://www.noloskitchen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nolos",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יד לגולה",
+      "houseNumber": 10,
+      "city": "חולון",
+      "lat": 32.0180964,
+      "lon": 34.782033
+    }
+  ]
+}

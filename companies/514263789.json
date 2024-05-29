@@ -1,0 +1,23 @@
+{
+  "name": "Mitrassist Medical",
+  "description": "The company provides a minimally invasive mitral valve implant that functions alongside the natural valve for MR treatment.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/mitrassist_medical-logo.webp",
+  "websiteUrl": "https://mitrassist.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "mitrassist",
+  "crunchbaseId": "mitrassist",
+  "finderId": "mitrassist",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון התבור",
+      "houseNumber": 20,
+      "city": "קיסריה",
+      "lat": 32.4763255,
+      "lon": 34.947278
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Emporus Technologies",
+  "description": "Elite data scientists, top-tier software engineers, and former operators collaborate across Tel Aviv and New York City.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/emporus_technologies-logo.webp",
+  "websiteUrl": "https://www.emporus.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "emporus-technologies",
+  "crunchbaseId": "emporus-technologies",
+  "finderId": "emporus-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

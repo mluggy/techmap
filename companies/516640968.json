@@ -1,0 +1,23 @@
+{
+  "name": "Pando Cyber Security",
+  "description": "Currently operating in stealth mode.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/pando_cyber_security-logo.webp",
+  "websiteUrl": "https://network.hellopando.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pando-cyber-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן אליעזר אריה",
+      "houseNumber": 47,
+      "city": "רמת גן",
+      "lat": 32.0642785,
+      "lon": 34.8330244
+    }
+  ]
+}

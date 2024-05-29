@@ -1,0 +1,23 @@
+{
+  "name": "Docktech",
+  "description": "They deliver digital infrastructure to enhance maritime navigation and supply chain efficiency for ports and rivers.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/docktech-logo.webp",
+  "websiteUrl": "https://www.docktech.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "docktech",
+  "crunchbaseId": null,
+  "finderId": "docktech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השלום",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.072245,
+      "lon": 34.796049
+    }
+  ]
+}

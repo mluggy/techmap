@@ -1,0 +1,23 @@
+{
+  "name": "Flowmo App",
+  "description": "Offers a step-by-step program to enhance posture, perfect for unwinding after a sedentary workday.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/flowmo_app-logo.webp",
+  "websiteUrl": "https://flowmostudio.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "flowmo-app",
+  "crunchbaseId": null,
+  "finderId": "flowmo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרב עוזיאל",
+      "houseNumber": 30,
+      "city": "הרצליה",
+      "lat": 32.1554572,
+      "lon": 34.8374141
+    }
+  ]
+}

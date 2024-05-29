@@ -1,0 +1,23 @@
+{
+  "name": "Twik Technologies",
+  "description": "Customizable Solution Platform.",
+  "categoryId": 2,
+  "size": "s",
+  "logoFile": "logos/twik_technologies-logo.webp",
+  "websiteUrl": "https://www.twik.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "twik",
+  "crunchbaseId": null,
+  "finderId": "twik-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוקן",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.053118,
+      "lon": 34.772401
+    }
+  ]
+}

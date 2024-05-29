@@ -1,0 +1,23 @@
+{
+  "name": "Marine Edge",
+  "description": "A seasoned Navy veteran and accomplished software expert with over 20 years of experience in energy management, business, and technology leadership.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/marine_edge-logo.webp",
+  "websiteUrl": "https://www.marine-edge.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "marine-edge",
+  "finderId": "marine-edge",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 28,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

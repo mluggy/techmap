@@ -1,0 +1,23 @@
+{
+  "name": "Ourcart",
+  "description": "We empower consumer brands to understand and engage shoppers using patented technology and market insights.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/ourcart-logo.webp",
+  "websiteUrl": "https://www.ourcart.com/",
+  "careersUrl": "https://www.ourcart.com/careers",
+  "isHiring": true,
+  "linkedinId": "ourcart",
+  "crunchbaseId": "ourcart",
+  "finderId": "ourcart",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריק איינשטיין",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1640314,
+      "lon": 34.8154209
+    }
+  ]
+}

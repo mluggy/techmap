@@ -1,0 +1,23 @@
+{
+  "name": "Zecops Israel",
+  "description": "They provide advanced mobile threat detection and forensics solutions utilized by top-tier organizations and individuals globally.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/zecops_israel-logo.webp",
+  "websiteUrl": "https://www.zecops.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "zecops",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 42,
+      "city": "תל אביב - יפו",
+      "lat": 32.0650402,
+      "lon": 34.7863315801129
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fincom",
+  "description": "Providing innovative AML compliance and sanctions screening solutions for all banking sectors.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/fincom-logo.webp",
+  "websiteUrl": "https://fincom.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fincom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ששת הימים",
+      "houseNumber": 30,
+      "city": "בני ברק",
+      "lat": 32.0984539,
+      "lon": 34.8282998
+    }
+  ]
+}

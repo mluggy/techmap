@@ -1,0 +1,23 @@
+{
+  "name": "Upright Technologies",
+  "description": "Offering a device with movement sensors, advanced feedback, and daily training to improve posture, starting at $79.95.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/upright_technologies-logo.webp",
+  "websiteUrl": "https://www.uprightpose.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "upright-pose",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 56,
+      "city": "יהוד-מונוסון",
+      "lat": 32.02777945,
+      "lon": 34.89120456423841
+    }
+  ]
+}

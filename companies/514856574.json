@@ -1,0 +1,23 @@
+{
+  "name": "Gigantic",
+  "description": "Games for mobile devices with an arcade style.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/gigantic-logo.webp",
+  "websiteUrl": "https://www.gogigantic.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gigantic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסיבים",
+      "houseNumber": 18,
+      "city": "פתח תקווה",
+      "lat": 32.0916612,
+      "lon": 34.8571892
+    }
+  ]
+}

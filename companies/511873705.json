@@ -1,0 +1,23 @@
+{
+  "name": "Xerox Israel",
+  "description": "Explore a wide range of Xerox printing products and accessories online with free shipping on supplies.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/xerox_israel_ltd-logo.webp",
+  "websiteUrl": "https://www.shop.xerox.com/",
+  "careersUrl": "https://www.xerox.com/en-us/jobs",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "xerox",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המגשימים",
+      "houseNumber": 20,
+      "city": "פתח תקווה",
+      "lat": 32.0881419,
+      "lon": 34.8536011
+    }
+  ]
+}

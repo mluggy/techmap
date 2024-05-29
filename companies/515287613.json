@@ -1,0 +1,23 @@
+{
+  "name": "Trekace Technologies",
+  "description": "Pioneering in navigation and communication technologies, this company excels in providing advanced situational awareness and command solutions.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/trekace_technologies-logo.webp",
+  "websiteUrl": "https://www.trekace.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "trekace",
+  "crunchbaseId": null,
+  "finderId": "trekace-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמק עירון",
+      "houseNumber": 12,
+      "city": "כפר סבא",
+      "lat": 32.1779503,
+      "lon": 34.9352401
+    }
+  ]
+}

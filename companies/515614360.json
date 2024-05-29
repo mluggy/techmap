@@ -1,0 +1,23 @@
+{
+  "name": "Vitalerter",
+  "description": "This company offers a hassle-free, wireless monitoring solution that seamlessly installs under beds or chairs and integrates with existing network systems.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/vitalerter-logo.webp",
+  "websiteUrl": "https://www.vitalerter.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vitalerter",
+  "crunchbaseId": null,
+  "finderId": "vitalerter",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הירדן",
+      "houseNumber": 2,
+      "city": "קריית שדה התעופה",
+      "lat": 31.989112399372786,
+      "lon": 34.91042120489533
+    }
+  ]
+}

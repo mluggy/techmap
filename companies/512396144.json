@@ -1,0 +1,23 @@
+{
+  "name": "Cisco Systems Israel",
+  "description": "A global leader in technology driving an inclusive future through advanced software, networking, and security solutions.",
+  "categoryId": 18,
+  "size": "l",
+  "logoFile": "logos/cisco_systems_israel-logo.webp",
+  "websiteUrl": "https://www.cisco.com/",
+  "careersUrl": "https://www.cisco.com/c/en/us/about/careers.html",
+  "isHiring": true,
+  "linkedinId": "cisco",
+  "crunchbaseId": null,
+  "finderId": "cisco-systems",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 32,
+      "city": "נתניה",
+      "lat": 32.2846342,
+      "lon": 34.8605173
+    }
+  ]
+}

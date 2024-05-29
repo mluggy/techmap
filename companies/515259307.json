@@ -1,0 +1,23 @@
+{
+  "name": "Flying Spark",
+  "description": "Protein sourced from fruit fly larvae.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/flying_spark-logo.webp",
+  "websiteUrl": "https://www.flyingspark.com/",
+  "careersUrl": "https://www.flyingspark.com/careers",
+  "isHiring": true,
+  "linkedinId": "flyingsparkltd",
+  "crunchbaseId": null,
+  "finderId": "flying-spark",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלוף דוד",
+      "houseNumber": 75,
+      "city": "רמת גן",
+      "lat": 32.05909535,
+      "lon": 34.8209004
+    }
+  ]
+}

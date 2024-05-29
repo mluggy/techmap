@@ -1,0 +1,23 @@
+{
+  "name": "Phonetica",
+  "description": "An online tool that converts English text into IPA phonetic transcription for precise pronunciation.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/phonetica-logo.webp",
+  "websiteUrl": "https://tophonetics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "phonetica",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אשכול לוי",
+      "houseNumber": 98,
+      "city": "תל אביב - יפו",
+      "lat": 32.0993918,
+      "lon": 34.7905652
+    }
+  ]
+}

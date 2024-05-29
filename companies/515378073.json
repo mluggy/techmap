@@ -1,0 +1,23 @@
+{
+  "name": "Atidot Software",
+  "description": "They offer cloud-based AI and machine learning solutions tailored for life insurance companies.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/atidot_software-logo.webp",
+  "websiteUrl": "https://www.atidot.com/",
+  "careersUrl": "https://www.atidot.com/career/",
+  "isHiring": true,
+  "linkedinId": "atidot",
+  "crunchbaseId": "atidot",
+  "finderId": "atidot",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 152,
+      "city": "תל אביב - יפו",
+      "lat": 32.079241,
+      "lon": 34.795072
+    }
+  ]
+}

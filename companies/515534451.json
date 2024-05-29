@@ -1,0 +1,23 @@
+{
+  "name": "Serendi Systems",
+  "description": "We enhance your talent acquisition strategy by providing superior recruitment services and high-quality talent.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/serendi_systems-logo.webp",
+  "websiteUrl": "https://www.serendi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "serendi-sa",
+  "crunchbaseId": "serendi-systems",
+  "finderId": "serendi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הציפורנים",
+      "houseNumber": 21,
+      "city": "קריית טבעון",
+      "lat": 32.7227866,
+      "lon": 35.1354626
+    }
+  ]
+}

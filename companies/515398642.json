@@ -1,0 +1,23 @@
+{
+  "name": "Tarsier Pharma",
+  "description": "An EU Horizon 2020-funded company focused on innovative research and services, while managing website user data responsibly.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/tarsier_pharma-logo.webp",
+  "websiteUrl": "https://tarsierpharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "tarsier-pharma",
+  "crunchbaseId": null,
+  "finderId": "tarsius-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהלום",
+      "houseNumber": 19,
+      "city": "זכרון יעקב",
+      "lat": 32.56339875,
+      "lon": 34.94342355628042
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Solarwinds Itsm Israel",
+  "description": "Empowering teams to efficiently manage increasing ticket volumes with advanced tools.",
+  "categoryId": 14,
+  "size": "xl",
+  "logoFile": "logos/solarwinds_itsm_israel-logo.webp",
+  "websiteUrl": "https://www.solarwinds.com/",
+  "careersUrl": "https://jobs.solarwinds.com/",
+  "isHiring": true,
+  "linkedinId": "solarwinds",
+  "crunchbaseId": null,
+  "finderId": "solarwinds1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.2773544,
+      "lon": 34.8584354
+    }
+  ]
+}

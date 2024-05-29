@@ -1,0 +1,23 @@
+{
+  "name": "Simple Implants",
+  "description": "Providing simplified, personalized digital dentistry solutions for over 25 years.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/simple_implants-logo.webp",
+  "websiteUrl": "https://www.mis-implants.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "simple-implants",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קהילת אודסה",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.108147,
+      "lon": 34.826052
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Phinergy",
+  "description": "A trailblazer in metal-air technology, this company transforms abundant metals into high-density, clean energy for versatile, efficient use.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/phinergy-logo.webp",
+  "websiteUrl": "https://phinergy.com/",
+  "careersUrl": "https://phinergy.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "phinergy",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יודפת",
+      "houseNumber": 2,
+      "city": "לוד",
+      "lat": 31.9614502,
+      "lon": 34.8993993
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Eureka World",
+  "description": "A cutting-edge educational platform fostering innovative and collaborative learning through 3D virtual worlds and advanced technological interfaces.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/eureka_world-logo.webp",
+  "websiteUrl": "https://www.eurekaworld.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eureka-world",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השקד",
+      "houseNumber": 98,
+      "city": "כפר חנניה",
+      "lat": 32.9184113,
+      "lon": 35.4234276
+    }
+  ]
+}

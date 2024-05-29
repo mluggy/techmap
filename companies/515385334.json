@@ -1,0 +1,23 @@
+{
+  "name": "Bionaut Labs",
+  "description": "A cutting-edge biotech firm specializing in minimally invasive, magnetically propelled micro-robots for precise medical procedures.",
+  "categoryId": 15,
+  "size": "m",
+  "logoFile": "logos/bionaut_labs-logo.webp",
+  "websiteUrl": "https://bionautlabs.com/",
+  "careersUrl": "https://bionautlabs.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bionaut-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השיזף",
+      "houseNumber": 4,
+      "city": "רעננה",
+      "lat": 32.1919424,
+      "lon": 34.8855377
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Savoreat",
+  "description": "This company offers innovative plant-based meat alternatives, utilizing advanced 3D printing and robotic technology to replicate the taste and texture of real meat.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/savoreat-logo.webp",
+  "websiteUrl": "https://savoreat.com/",
+  "careersUrl": "https://savoreat.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "savoreat",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אופנהיימר",
+      "houseNumber": 4,
+      "city": "רחובות",
+      "lat": 31.9104321,
+      "lon": 34.8058374
+    }
+  ]
+}

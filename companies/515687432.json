@@ -1,0 +1,23 @@
+{
+  "name": "Aviv Scientific",
+  "description": "This service provides instant translation of words, phrases, and web pages from English to over 100 languages at no cost.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/aviv_scientific-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aviv-scientific",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ניל\"י",
+      "houseNumber": 2,
+      "city": "בני ברק",
+      "lat": 32.0937946,
+      "lon": 34.8240463
+    }
+  ]
+}

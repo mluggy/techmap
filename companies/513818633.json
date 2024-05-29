@@ -1,0 +1,23 @@
+{
+  "name": "Powercom",
+  "description": "Providing advanced water utility management through real-time monitoring, remote readings, and instant issue alerts to optimize resource use and efficiency.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/powercom-logo.webp",
+  "websiteUrl": "https://powercom.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "powercom",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גיסין אבשלום",
+      "houseNumber": 88,
+      "city": "פתח תקווה",
+      "lat": 32.0995601,
+      "lon": 34.8698973
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Facense",
+  "description": "Intelligent Eyewear for Medical Professionals.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/facense-logo.webp",
+  "websiteUrl": "https://www.facense.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "facense",
+  "crunchbaseId": "facense",
+  "finderId": "facense",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רות",
+      "houseNumber": 43,
+      "city": "חיפה",
+      "lat": 32.795366099999995,
+      "lon": 34.97516594999999
+    }
+  ]
+}

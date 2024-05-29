@@ -1,0 +1,23 @@
+{
+  "name": "Salt Of The Earth",
+  "description": "Items Made from Sea Salt.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/salt_of_the_earth-logo.webp",
+  "websiteUrl": "https://www.saltoftheearthltd.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "salt-of-the-earth",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מלח הארץ",
+      "houseNumber": 1,
+      "city": "עתלית",
+      "lat": 32.69130460010505,
+      "lon": 34.93720225526068
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Vocai",
+  "description": "Provides free AI-powered separation of vocals and instrumentals for karaoke backing tracks and acapella extraction.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/vocai-logo.webp",
+  "websiteUrl": "https://vocalremover.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vocai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החומש",
+      "houseNumber": 6,
+      "city": "הוד השרון",
+      "lat": 32.1612746,
+      "lon": 34.9065958
+    }
+  ]
+}

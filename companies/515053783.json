@@ -1,0 +1,23 @@
+{
+  "name": "Check 123",
+  "description": "A platform offering comparison tools to save on insurance, loans, energy, internet, travel, flights, and more.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/check_123-logo.webp",
+  "websiteUrl": "https://www.check24.de/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "check123",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סמולנסקין",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.081563,
+      "lon": 34.771122
+    }
+  ]
+}

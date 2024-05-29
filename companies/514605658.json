@@ -1,0 +1,23 @@
+{
+  "name": "Medlife",
+  "description": "A leading supplier of medical devices and equipment, specializing in initial market introductions, guided by deep knowledge of Israel's healthcare market.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/medlife-logo.webp",
+  "websiteUrl": "https://www.medlife.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "medlife",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ההגנה",
+      "houseNumber": 17,
+      "city": "אור יהודה",
+      "lat": 32.031718,
+      "lon": 34.8532073
+    }
+  ]
+}

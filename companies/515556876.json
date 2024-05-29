@@ -1,0 +1,23 @@
+{
+  "name": "Jug Technologies",
+  "description": "An engaging storytelling toy that doesn't require a screen.",
+  "categoryId": 11,
+  "size": "xs",
+  "logoFile": "logos/jug_technologies-logo.webp",
+  "websiteUrl": "https://jugjugsportsbar.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "jug-technologies",
+  "crunchbaseId": null,
+  "finderId": "jug",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האגם",
+      "houseNumber": 26,
+      "city": "יסוד המעלה",
+      "lat": 33.06250469577834,
+      "lon": 35.611194633246775
+    }
+  ]
+}

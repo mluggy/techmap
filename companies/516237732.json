@@ -1,0 +1,23 @@
+{
+  "name": "Falkor Vision",
+  "description": "Platform for Investigations Powered by Data Analysis.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/falkor_vision-logo.webp",
+  "websiteUrl": "https://falkor.ai/",
+  "careersUrl": "https://falkor.ai/about-us/careers/",
+  "isHiring": true,
+  "linkedinId": "falkorai",
+  "crunchbaseId": "falkor-7c9e",
+  "finderId": "falkor-vision",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.08501775,
+      "lon": 34.80164595917552
+    }
+  ]
+}

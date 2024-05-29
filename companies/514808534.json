@@ -1,0 +1,23 @@
+{
+  "name": "Taliaz",
+  "description": "A company specializing in the development of genetics and digital tools to enhance antidepressant treatment, commercially available in the EU and Israel.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/taliaz-logo.webp",
+  "websiteUrl": "https://www.taliazhealth.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "taliaz-diagnostics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שחם",
+      "houseNumber": 3,
+      "city": "פתח תקווה",
+      "lat": 32.0839116,
+      "lon": 34.85842
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Pepticore",
+  "description": "Creating medications to combat bacterial and fungal infections.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pepticore-logo.webp",
+  "websiteUrl": "https://pepticom.com/",
+  "careersUrl": "https://peptilogics.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pepticore",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הלפיד",
+      "houseNumber": 12,
+      "city": "פתח תקווה",
+      "lat": 32.091814,
+      "lon": 34.8542367
+    }
+  ]
+}

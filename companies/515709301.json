@@ -1,0 +1,23 @@
+{
+  "name": "Cardiac Success",
+  "description": "A device designed to repair ventricles in individuals suffering from heart failure.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cardiac_success-logo.webp",
+  "websiteUrl": "https://cardiacsuccess.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "cardiac-success-ltd",
+  "crunchbaseId": null,
+  "finderId": "cardiac-success",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית תבור",
+      "houseNumber": 2,
+      "city": "יקנעם עילית",
+      "lat": 32.6459074,
+      "lon": 35.0969814
+    }
+  ]
+}

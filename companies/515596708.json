@@ -1,0 +1,23 @@
+{
+  "name": "Eplane",
+  "description": "An innovative online hub for aerospace parts and aviation repair services.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/eplane_ltd-logo.webp",
+  "websiteUrl": "https://www.eplane.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "eplaneai",
+  "crunchbaseId": "eplane",
+  "finderId": "eplane",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 21,
+      "city": "בני ברק",
+      "lat": 32.0935738,
+      "lon": 34.8231612
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Plethora Technologies",
+  "description": "A service designed to enhance computational thinking abilities.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/plethora_technologies-logo.webp",
+  "websiteUrl": "https://www.iamplethora.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "plethora-technology",
+  "finderId": "plethora",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תאנה",
+      "houseNumber": 280,
+      "city": "אורה",
+      "lat": 31.7597995,
+      "lon": 35.1564547
+    }
+  ]
+}

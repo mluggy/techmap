@@ -1,0 +1,23 @@
+{
+  "name": "Secureteam Software",
+  "description": "A UK-based cyber security firm specializing in web application and network penetration testing, information assurance, and handling cyber incidents.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/secureteam_software-logo.webp",
+  "websiteUrl": "https://secureteam.co.uk/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "secureteam",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנגב",
+      "houseNumber": 63,
+      "city": "יבנה",
+      "lat": 31.8752804,
+      "lon": 34.7246855
+    }
+  ]
+}

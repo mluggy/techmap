@@ -1,0 +1,23 @@
+{
+  "name": "Guesty Bookhost",
+  "description": "A leading provider of property management software, empowering hospitality providers to enhance guest experiences and ensure long-term success.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/guesty_bookhost-logo.webp",
+  "websiteUrl": "https://www.guesty.com/",
+  "careersUrl": "https://www.guesty.com/careers/",
+  "isHiring": true,
+  "linkedinId": "guesty",
+  "crunchbaseId": null,
+  "finderId": "guesty",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קפלן",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.0731921,
+      "lon": 34.7820874
+    }
+  ]
+}

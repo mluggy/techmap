@@ -1,0 +1,23 @@
+{
+  "name": "Followear",
+  "description": "A platform facilitating influencer marketing by connecting brands with social media influencers to enhance product visibility and sales.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/followear-logo.webp",
+  "websiteUrl": "https://followear.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "followear",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן יוסף שלמה",
+      "houseNumber": 11,
+      "city": "תל אביב - יפו",
+      "lat": 32.124632,
+      "lon": 34.79739
+    }
+  ]
+}

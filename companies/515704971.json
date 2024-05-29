@@ -1,0 +1,23 @@
+{
+  "name": "Snappy Gifts",
+  "description": "A leading company offering seamless, joy-spreading gift solutions worldwide, with shipping included and top brand selections.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/snappy_gifts-logo.webp",
+  "websiteUrl": "https://www.snappy.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "snappy-gifts",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נמל תל אביב",
+      "houseNumber": 40,
+      "city": "תל אביב - יפו",
+      "lat": 32.0969249,
+      "lon": 34.774118
+    }
+  ]
+}

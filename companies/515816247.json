@@ -1,0 +1,23 @@
+{
+  "name": "Innoging Medical",
+  "description": "Offering a cloud-based platform for realistic ultrasound image simulation, this solution enables medical professionals to enhance their skills without needing physical patients or costly equipment.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/innoging_medical-logo.webp",
+  "websiteUrl": "https://innoging.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "innoging",
+  "crunchbaseId": null,
+  "finderId": "innoging",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 13,
+      "city": "ראש העין",
+      "lat": 32.0970131,
+      "lon": 34.9105972
+    }
+  ]
+}

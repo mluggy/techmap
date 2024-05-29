@@ -1,0 +1,23 @@
+{
+  "name": "Holisto",
+  "description": "Specializing in securing unbeatable vacation deals through advanced technology honed over six years.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/holisto-logo.webp",
+  "websiteUrl": "https://www.holisto.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "splitty-travel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד נים",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.949713600000003,
+      "lon": 34.80328505744155
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Twofold",
+  "description": "Digital Assistant for Healthcare Providers.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/twofold-logo.webp",
+  "websiteUrl": "https://twofold.salty-salty-studios.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "twofold",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חפץ חיים",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.073678,
+      "lon": 34.798837
+    }
+  ]
+}

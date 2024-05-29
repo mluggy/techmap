@@ -1,0 +1,23 @@
+{
+  "name": "Magdent",
+  "description": "Leveraging PEMF technology, this company enhances bone growth and reduces harmful biofilm around dental implants to improve oral health and prevent complications.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/magdent-logo.webp",
+  "websiteUrl": "https://magdentmed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "magdent",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מצדה",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.0914266,
+      "lon": 34.8251051
+    }
+  ]
+}

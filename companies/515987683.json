@@ -1,0 +1,23 @@
+{
+  "name": "Admonis E Commerce",
+  "description": "An automated solution for online retail operations.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/admonis_e_commerce-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "admonis-e-commerce-ltd",
+  "crunchbaseId": null,
+  "finderId": "admonis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שחם",
+      "houseNumber": 30,
+      "city": "פתח תקווה",
+      "lat": 32.0839116,
+      "lon": 34.85842
+    }
+  ]
+}

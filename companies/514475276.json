@@ -1,0 +1,23 @@
+{
+  "name": "Sandboxmodel Sbm",
+  "description": "Offers a simulation platform to enhance decision-making and project outcomes.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/sandboxmodel_sbm-logo.webp",
+  "websiteUrl": "https://www.sandboxmodel.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sandbox-model",
+  "crunchbaseId": null,
+  "finderId": "sandboxmodel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסיגלית",
+      "houseNumber": 16,
+      "city": "חדרה",
+      "lat": 32.4337008,
+      "lon": 34.9147521
+    }
+  ]
+}

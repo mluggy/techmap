@@ -1,0 +1,23 @@
+{
+  "name": "Testuff",
+  "description": "A robust and detailed software testing tool designed for professional test management.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/testuff-logo.webp",
+  "websiteUrl": "https://testuff.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "testuff",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 4,
+      "city": "רמת גן",
+      "lat": 32.0843988,
+      "lon": 34.800395800000004
+    }
+  ]
+}

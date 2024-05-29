@@ -1,0 +1,23 @@
+{
+  "name": "Just Manage",
+  "description": "Providing effective management solutions for better organization and efficiency.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/just_manage-logo.webp",
+  "websiteUrl": "https://jm.justmanage.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "just-manage",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עין התכלת",
+      "houseNumber": 1,
+      "city": "חירות",
+      "lat": 32.24220105686256,
+      "lon": 34.90939442287974
+    }
+  ]
+}

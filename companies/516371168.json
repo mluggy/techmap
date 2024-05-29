@@ -1,0 +1,23 @@
+{
+  "name": "Staircase Technologies",
+  "description": "A company that analyzes various communication channels and product usage data to gain insights.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/staircase_technologies-logo.webp",
+  "websiteUrl": "https://staircase.ai/",
+  "careersUrl": "https://staircase.ai/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "staircase-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמוס עוז",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.158739600000004,
+      "lon": 34.81902085
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Petpace",
+  "description": "An advanced AI smart collar for continuous health and GPS monitoring, prioritizing your pet's well-being.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/petpace-logo.webp",
+  "websiteUrl": "https://petpace.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "petpace",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מרכז מסחרי חוצות שפיים",
+      "houseNumber": null,
+      "city": "שפיים",
+      "lat": 32.2207402,
+      "lon": 34.828342453262906
+    }
+  ]
+}

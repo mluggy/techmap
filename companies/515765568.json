@@ -1,0 +1,23 @@
+{
+  "name": "Kumba Application",
+  "description": "Specialized Software Solutions for Mobile Veterinary Professionals.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/kumba_application-logo.webp",
+  "websiteUrl": "https://kumba.pet/",
+  "careersUrl": "https://www.angloamericankumba.com/careers/job-opportunities",
+  "isHiring": true,
+  "linkedinId": "kumba",
+  "crunchbaseId": null,
+  "finderId": "kumba",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שנקר אריה",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1604703,
+      "lon": 34.809883
+    }
+  ]
+}

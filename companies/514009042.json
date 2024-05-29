@@ -1,0 +1,23 @@
+{
+  "name": "Advinion",
+  "description": "A top provider of industry-specific enterprise and IT software solutions, offering financial portals and market tools for both professionals and non-professionals.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/advinion-logo.webp",
+  "websiteUrl": "http://advinion.co.il/?lang=eng",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "advinion",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עין חי",
+      "houseNumber": 5,
+      "city": "הוד השרון",
+      "lat": 32.1565748,
+      "lon": 34.8929633
+    }
+  ]
+}

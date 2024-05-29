@@ -1,0 +1,23 @@
+{
+  "name": "Pontera",
+  "description": "Providing secure, compliant solutions for financial advisors and institutions worldwide.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/pontera-logo.webp",
+  "websiteUrl": "https://pontera.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "pontera",
+  "crunchbaseId": "pontera",
+  "finderId": "feex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שנקר",
+      "houseNumber": 11,
+      "city": "הרצליה",
+      "lat": 32.1585145,
+      "lon": 34.8085703
+    }
+  ]
+}

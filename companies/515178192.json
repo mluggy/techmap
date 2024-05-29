@@ -1,0 +1,23 @@
+{
+  "name": "Scenaric Online",
+  "description": "Experience ultra-luxury river and ocean cruising with enhanced safety and comfort.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/scenaric_online-logo.webp",
+  "websiteUrl": "https://www.scenicusa.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "scenaric",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רמון אילן",
+      "houseNumber": 2,
+      "city": "נס ציונה",
+      "lat": 31.9177299,
+      "lon": 34.80439671200948
+    }
+  ]
+}

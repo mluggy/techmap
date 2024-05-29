@@ -1,0 +1,23 @@
+{
+  "name": "Growin",
+  "description": "A leading Indian platform offering instant loans, commission-free equity trading, and seamless payments.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/growin-logo.webp",
+  "websiteUrl": "https://groww.in/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "growin",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עציון",
+      "houseNumber": 35,
+      "city": "רעננה",
+      "lat": 32.19003135,
+      "lon": 34.86041334473991
+    }
+  ]
+}

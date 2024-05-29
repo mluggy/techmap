@@ -1,0 +1,23 @@
+{
+  "name": "Beehero",
+  "description": "Delivering precision pollination services for various crops through expert beekeeping and advanced technology.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/beehero-logo.webp",
+  "websiteUrl": "https://www.beehero.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "beehero",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.062937,
+      "lon": 34.785459
+    }
+  ]
+}

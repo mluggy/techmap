@@ -1,0 +1,23 @@
+{
+  "name": "Fintastic",
+  "description": "A next-generation platform offering advanced collaboration and workflow tools for efficient financial planning and analysis in B2B SaaS environments.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/fintastic-logo.webp",
+  "websiteUrl": "https://www.fintastic.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fintastic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.065253,
+      "lon": 34.785664
+    }
+  ]
+}

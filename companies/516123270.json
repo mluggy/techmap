@@ -1,0 +1,23 @@
+{
+  "name": "Achieved Technologies",
+  "description": "A platform for managing real estate investments.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/achieved_technologies-logo.webp",
+  "websiteUrl": "https://achieved.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "achieve-technologies_2",
+  "crunchbaseId": null,
+  "finderId": "achieved-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמים",
+      "houseNumber": 2,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.908709424392455,
+      "lon": 35.017192847694055
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Roomerang",
+  "description": "Search by POI, Multi destination and date range, to find the best hotel deal in the area. See the difference. Get results with the largest differences from ...",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/roomerang-logo.webp",
+  "websiteUrl": "https://www.roomerang.travel/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "roomerang",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חיים הרצוג",
+      "houseNumber": 7,
+      "city": "ראש העין",
+      "lat": 32.08484915,
+      "lon": 34.975372208397815
+    }
+  ]
+}

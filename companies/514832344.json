@@ -1,0 +1,23 @@
+{
+  "name": "Manage Your Trip",
+  "description": "Offering an all-in-one cloud solution, this platform automates bookings, quotations, marketing, and feedback for tour operators and travel management companies.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/manage_your_trip-logo.webp",
+  "websiteUrl": "https://www.manageyourtrip.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "manage-your-trip",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שפיגלמן אברהם",
+      "houseNumber": 27,
+      "city": "נתניה",
+      "lat": 32.30793816587777,
+      "lon": 34.873227761243854
+    }
+  ]
+}

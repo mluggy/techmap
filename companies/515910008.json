@@ -1,0 +1,23 @@
+{
+  "name": "Wonder Robotics",
+  "description": "Specializing in advanced drone vision, this company combines short-range 3D depth perception with long-range 2D capture, inspired by human vision.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/wonder_robotics-logo.webp",
+  "websiteUrl": "https://www.wonderbotics.com/",
+  "careersUrl": "https://www.wonderbotics.com/jobs/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wonder-robotics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.2773544,
+      "lon": 34.8584354
+    }
+  ]
+}

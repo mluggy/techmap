@@ -1,0 +1,23 @@
+{
+  "name": "SKF AI",
+  "description": "SKF Group is a leading global provider of bearings, seals, lubrication systems, condition monitoring, and engineering services for a wide range of industries.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/skf_ai-logo.webp",
+  "websiteUrl": "https://www.skf.com/",
+  "careersUrl": "https://career.skf.com/",
+  "isHiring": true,
+  "linkedinId": "skf",
+  "crunchbaseId": null,
+  "finderId": "skf",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סחרוב אנדרה",
+      "houseNumber": 15,
+      "city": "חיפה",
+      "lat": 32.7941088,
+      "lon": 34.9579664
+    }
+  ]
+}

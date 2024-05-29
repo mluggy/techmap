@@ -1,0 +1,23 @@
+{
+  "name": "Bestbrain",
+  "description": "Using certified teachers and a distinct curriculum, their learning centers and online platforms help children aged 3-14 excel academically.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/bestbrain-logo.webp",
+  "websiteUrl": "https://bestbrains.com/",
+  "careersUrl": "https://bestbrains.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bestbrain",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עפרוני",
+      "houseNumber": 19,
+      "city": "כוכב יאיר",
+      "lat": 32.2178068,
+      "lon": 34.9951506
+    }
+  ]
+}

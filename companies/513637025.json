@@ -1,0 +1,23 @@
+{
+  "name": "Polyrizon",
+  "description": "A biotech firm specializing in the creation and marketing of advanced intranasal products using proprietary technology.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/polyrizon-logo.webp",
+  "websiteUrl": "https://polyrizon-biotech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "polyrizon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 5,
+      "city": "רעננה",
+      "lat": 32.1994931,
+      "lon": 34.8840703
+    }
+  ]
+}

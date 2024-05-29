@@ -1,0 +1,23 @@
+{
+  "name": "Cwt Digital",
+  "description": "They streamline corporate travel using advanced technology for optimized business travel programs and events.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/cwt_digital-logo.webp",
+  "websiteUrl": "https://www.mycwt.com/",
+  "careersUrl": "https://careers.mycwt.com/",
+  "isHiring": true,
+  "linkedinId": "mycwt",
+  "crunchbaseId": null,
+  "finderId": "cwt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

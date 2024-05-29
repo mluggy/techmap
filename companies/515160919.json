@@ -1,0 +1,23 @@
+{
+  "name": "Supersmart",
+  "description": "Established in 1992, this company offers over 400 premium dietary supplements focused on efficacy and safety for optimal health.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/supersmart-logo.webp",
+  "websiteUrl": "https://www.supersmart.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "supersmart",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.1599547,
+      "lon": 34.8071821
+    }
+  ]
+}

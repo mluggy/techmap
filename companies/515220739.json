@@ -1,0 +1,23 @@
+{
+  "name": "Beach Bum",
+  "description": "Developer of Engaging Video Games.",
+  "categoryId": 11,
+  "size": "l",
+  "logoFile": "logos/beach_bum-logo.webp",
+  "websiteUrl": "https://www.bbumgames.com/",
+  "careersUrl": "https://www.bbumgames.com/careers/",
+  "isHiring": true,
+  "linkedinId": "beach-bum-ltd",
+  "crunchbaseId": null,
+  "finderId": "beach-bum",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 15,
+      "city": "רעננה",
+      "lat": 32.19630935,
+      "lon": 34.88423473965118
+    }
+  ]
+}

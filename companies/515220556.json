@@ -1,0 +1,23 @@
+{
+  "name": "Biomx",
+  "description": "Developing tailored phage therapies to combat harmful bacteria in chronic diseases.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/biomx-logo.webp",
+  "websiteUrl": "https://www.biomx.com/",
+  "careersUrl": "https://www.biomx.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mbcure",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אינשטיין",
+      "houseNumber": 22,
+      "city": "נס ציונה",
+      "lat": 31.9147813,
+      "lon": 34.8067343
+    }
+  ]
+}

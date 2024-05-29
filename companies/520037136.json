@@ -1,0 +1,23 @@
+{
+  "name": "Wilk Technologies",
+  "description": "They provide all the essential nutrients and health benefits of traditional milk through innovative means.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/wilk_technologies-logo.webp",
+  "websiteUrl": "https://wilkismilk.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "biomilk",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אופנהיימר",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.9104321,
+      "lon": 34.8058374
+    }
+  ]
+}

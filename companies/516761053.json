@@ -1,0 +1,23 @@
+{
+  "name": "Finberry",
+  "description": "Retail business offering products to adults, with prices including VAT and subject to change.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/finberry-logo.webp",
+  "websiteUrl": "https://www.finberry.fi/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "finberry",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פריש דניאל",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.07463945,
+      "lon": 34.78327163578098
+    }
+  ]
+}

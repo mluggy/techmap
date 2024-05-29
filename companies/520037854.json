@@ -1,0 +1,23 @@
+{
+  "name": "Comtec",
+  "description": "A company providing essential automotive support products like dashcams, ozone servers, alcohol detectors, and fleet management systems.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/comtec-logo.webp",
+  "websiteUrl": "https://www.e-comtec.co.jp/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "comtec",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הסיבים",
+      "houseNumber": 18,
+      "city": "פתח תקווה",
+      "lat": 32.0916612,
+      "lon": 34.8571892
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Simply",
+  "description": "A premium, free digital card offering impressive cashback rewards.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/simply-logo.webp",
+  "websiteUrl": "https://www.simply.cards/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "joytunes",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "איסרליש",
+      "houseNumber": 22,
+      "city": "תל אביב - יפו",
+      "lat": 32.07103585,
+      "lon": 34.79219333800788
+    }
+  ]
+}

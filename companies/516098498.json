@@ -1,0 +1,23 @@
+{
+  "name": "Cts Cannabis",
+  "description": "This century-old Israeli firm excels in delivering top-tier pharmaceuticals and consumer healthcare solutions.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/cts_cannabis-logo.webp",
+  "websiteUrl": "https://ctspharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cts",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 4,
+      "city": "הוד השרון",
+      "lat": 32.1312727,
+      "lon": 34.896831
+    }
+  ]
+}

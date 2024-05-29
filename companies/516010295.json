@@ -1,0 +1,23 @@
+{
+  "name": "Totem Ahzakot",
+  "description": "Create and customize mobile-friendly membership forms for seamless new member registration.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/totem_ahzakot-logo.webp",
+  "websiteUrl": "https://jointotem.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "totem",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 43,
+      "city": "רמת גן",
+      "lat": 32.0693338,
+      "lon": 34.8501728
+    }
+  ]
+}

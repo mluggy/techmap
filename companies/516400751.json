@@ -1,0 +1,23 @@
+{
+  "name": "Mesh Security",
+  "description": "A solution for managing security by implementing a Zero Trust approach.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/mesh_security-logo.webp",
+  "websiteUrl": "https://mesh.security/",
+  "careersUrl": "https://www.meshsecurity.io/careers",
+  "isHiring": true,
+  "linkedinId": "mesh-cybersecurity",
+  "crunchbaseId": null,
+  "finderId": "cyence-networks",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

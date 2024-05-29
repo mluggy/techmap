@@ -1,0 +1,23 @@
+{
+  "name": "Vi Labs",
+  "description": "An AI SaaS platform enhances customer acquisition, engagement, and health outcomes with scalable, superior ROI.",
+  "categoryId": 1,
+  "size": "l",
+  "logoFile": "logos/vi_labs-logo.webp",
+  "websiteUrl": "https://vi.co/",
+  "careersUrl": "https://vi.co/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vi-labs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 16,
+      "city": "תל אביב - יפו",
+      "lat": 32.070295,
+      "lon": 34.784752
+    }
+  ]
+}

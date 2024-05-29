@@ -1,0 +1,23 @@
+{
+  "name": "Nest Health Tech",
+  "description": "Comprehensive family healthcare delivered at home and online, encompassing primary care, pediatrics, mental health, social resources, and education.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/nest_health_tech-logo.webp",
+  "websiteUrl": "https://www.nesthealth.com/",
+  "careersUrl": "https://www.nesthealth.com/careers",
+  "isHiring": true,
+  "linkedinId": "nestwholefamilyhealth",
+  "crunchbaseId": null,
+  "finderId": "nest-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הערבה",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.07003,
+      "lon": 34.786371
+    }
+  ]
+}

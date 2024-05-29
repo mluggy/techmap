@@ -1,0 +1,23 @@
+{
+  "name": "Combtas",
+  "description": "Provides secure password recovery services via email notifications.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/combtas-logo.webp",
+  "websiteUrl": "https://teoco.combtas.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "combtas",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחוה",
+      "houseNumber": 4,
+      "city": "הוד השרון",
+      "lat": 32.16167009758706,
+      "lon": 34.89955469143268
+    }
+  ]
+}

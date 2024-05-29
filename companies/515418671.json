@@ -1,0 +1,23 @@
+{
+  "name": "Eloops",
+  "description": "A robust platform enhancing employee engagement and uniting diverse workforces through values and culture.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/eloops-logo.webp",
+  "websiteUrl": "https://eloops.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eventloops",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 33,
+      "city": "תל אביב - יפו",
+      "lat": 32.110552,
+      "lon": 34.841516
+    }
+  ]
+}

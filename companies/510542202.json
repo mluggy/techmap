@@ -1,0 +1,23 @@
+{
+  "name": "Silbermann Technologies",
+  "description": "Specializes in producing equipment and systems essential for hospital medical gas infrastructure.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/silbermann_technologies_ltd-logo.webp",
+  "websiteUrl": "https://www.silbermnn.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "silbermann",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 5,
+      "city": "פתח תקווה",
+      "lat": 32.1117723,
+      "lon": 34.892606
+    }
+  ]
+}

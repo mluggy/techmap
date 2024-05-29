@@ -1,0 +1,23 @@
+{
+  "name": "Optimalq Technologies",
+  "description": "OptimalQ leverages historical and real-time data alongside its sensor network to predict the optimal times for customer engagement.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/optimalq_technologies-logo.webp",
+  "websiteUrl": "https://www.optimalq.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "optimalq-technologies",
+  "finderId": "optimalq",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.109582,
+      "lon": 34.839068
+    }
+  ]
+}

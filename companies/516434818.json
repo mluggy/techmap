@@ -1,0 +1,23 @@
+{
+  "name": "Crowded Technologies",
+  "description": "A fintech firm offering debit card services via Blue Ridge Bank N.A., leveraging Visa's network.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/crowded_technologies-logo.webp",
+  "websiteUrl": "https://bankingcrowded.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "crowded-b5d2",
+  "finderId": "crowded-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קורולנקו",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.0840121,
+      "lon": 34.7731939
+    }
+  ]
+}

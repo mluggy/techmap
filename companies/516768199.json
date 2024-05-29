@@ -1,0 +1,23 @@
+{
+  "name": "Imai",
+  "description": "Providing expert, comprehensive property services, from lettings and sales to mortgages and investments.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/imai-logo.webp",
+  "websiteUrl": "https://www.leaders.co.uk/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "imai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 38,
+      "city": "תל אביב - יפו",
+      "lat": 32.1103886,
+      "lon": 34.84245
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Edrei Bio Hydrogen",
+  "description": "Process for Producing Hydrogen Using Biochemical Methods.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/edrei_bio_hydrogen-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "edrei-bio-hydrogen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדס",
+      "houseNumber": 12,
+      "city": "טבריה",
+      "lat": 32.7777716,
+      "lon": 35.5214002
+    }
+  ]
+}

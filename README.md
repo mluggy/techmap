@@ -1,12 +1,12 @@
 # Israeli Tech Companies Map
 
-Welcome! This project aims to help Israelis find hi-tech jobs near their homes, minimizing commute and wasted time. The map is hosted at [https://maphub.net/mluggy/techmap](https://maphub.net/mluggy/techmap).
+Welcome! This project aims to help Israelis find hi-tech jobs near their homes, minimizing commute and wasted time. The map is hosted at <a href="https://maphub.net/mluggy/techmap" target="_blank">(https://maphub.net/mluggy/techmap).</a>
 
 ![Techmap](techmap.gif)
 
 ## Project Overview
 
-The main point-of-truth for this project is Rasham Havarot ([רשם החברות](https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8)). Please provide the current company number (ח.פ) whenever adding, updating or deleting your company. Note: only locally registered, non-violating companies are included in the final map.
+The main point-of-truth for this project is <a href="https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8" target="_blank">Rasham Havarot / רשם החברות.</a> Please provide the current company number (ח.פ) whenever adding, updating or deleting your company. Note: only locally registered, non-violating companies are included in the final map.
 
 ## Adding, Updating, or Deleting Your Company
 
@@ -37,6 +37,7 @@ To contribute to this project by adding, updating, or deleting your company info
      "linkedinId": "acme",
      "crunchbaseId": "acme",
      "finderId": "acme-ltd",
+     "xId": "acmetw",
      "addresses": [
        {
          "street": "דיזינגוף",
@@ -57,7 +58,7 @@ To contribute to this project by adding, updating, or deleting your company info
 - **websiteUrl:** The company's homepage address.
 - **careersUrl:** The company's careers/job page address.
 - **isHiring:** Should be true only if you're actively hiring.
-- **linkedinId, crunchbaseId, finderId:** The company IDs (not full URLs) from [LinkedIn,](https://www.linkedin.com/) [Crunchbase,](https://www.crunchbase.com/) and [Startup Finder.](https://finder.startupnationcentral.org/)
+- **linkedinId, crunchbaseId, finderId and xId:** The company IDs (not full URLs) from <a href="https://www.linkedin.com/" target="_blank">LinkedIn,</a> <a href="https://www.crunchbase.com/" target="_blank">Crunchbase,</a> <a href="https://finder.startupnationcentral.org/" target="_blank">Startup Finder</a> and <a href="https://x.com" target="_blank">X/Twitter.</a>
 - **addresses:** Aמ array specifying one or more physical locations. Each object should contain at least city and preferably street and houseNumber. Our system will do geo mapping, but you can specify your own lat and lon.
 
 5. **Commit your changes:**
@@ -85,7 +86,7 @@ As a last resort, you can send me an <a href="mailto:michael@lugassy.net?subject
 
 ## License
 
-This project is licensed under the [Open Database License (ODbL) v1.0.](https://opendatacommons.org/licenses/odbl/1-0/) You are free to:
+This project is licensed under the <a href="https://opendatacommons.org/licenses/odbl/1-0/" target="_blank">Open Database License (ODbL) v1.0.</a> You are free to:
 
 - **Share:** Copy and redistribute the material in any medium or format.
 - **Adapt:** Remix, transform, and build upon the material for any purpose, even commercially.
@@ -99,4 +100,5 @@ Thank you to everyone who updates the map and helps with this project. Special t
 Happy job hunting! ❤️
 
 Michael Lugassy
+
 Follow me on [LinkedIn](https://www.linkedin.com/in/mluggy/) & [Twitter/X](https://x.com/mluggy)

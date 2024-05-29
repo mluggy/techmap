@@ -1,0 +1,23 @@
+{
+  "name": "Moodify",
+  "description": "A service that leverages Spotify's API and AI to recommend mood-matching music based on various emotional and musical metrics.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/moodify-logo.webp",
+  "websiteUrl": "https://moodify.toasted.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "moodify",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 24,
+      "city": "כפר סבא",
+      "lat": 32.1789899,
+      "lon": 34.9284423
+    }
+  ]
+}

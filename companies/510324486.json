@@ -1,0 +1,23 @@
+{
+  "name": "Bitum Industries",
+  "description": "A market leader for over 70 years, this Israeli company specializes in producing top-tier sealing and insulation products.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/bitum_industries-logo.webp",
+  "websiteUrl": "https://www.bitum.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "bitum",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "היצירה",
+      "houseNumber": 4,
+      "city": "חיפה",
+      "lat": 32.8113165,
+      "lon": 35.0619858
+    }
+  ]
+}

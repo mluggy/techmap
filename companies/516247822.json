@@ -1,0 +1,23 @@
+{
+  "name": "Laguna Health",
+  "description": "Laguna uses conversational intelligence to optimize and personalize care management by identifying contextual barriers and medical red flags.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/laguna_health-logo.webp",
+  "websiteUrl": "https://lagunahealth.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "laguna-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Wizlan",
+  "description": "A premier provider of top-tier fiber-optic connectivity solutions tailored for diverse industrial, corporate, security, and networking needs.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/wizlan-logo.webp",
+  "websiteUrl": "http://www.wizlan.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "wizlan",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יוזמה",
+      "houseNumber": 8,
+      "city": "טירת כרמל",
+      "lat": 32.7721677,
+      "lon": 34.9656441
+    }
+  ]
+}

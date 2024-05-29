@@ -1,0 +1,23 @@
+{
+  "name": "Lightico",
+  "description": "Streamlining document exchanges through secure, text-based communication for faster, more convenient transactions.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/lightico-logo.webp",
+  "websiteUrl": "https://www.lightico.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lightico",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.069465,
+      "lon": 34.786318
+    }
+  ]
+}

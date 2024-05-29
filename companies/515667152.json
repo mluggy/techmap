@@ -1,0 +1,23 @@
+{
+  "name": "Aneuscreen",
+  "description": "Offering a revolutionary and cost-effective diagnostic exam, Aneuscreen accurately predicts future intracranial aneurysms using a patented algorithm for comprehensive angiography brain imaging analyses.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/aneuscreen-logo.webp",
+  "websiteUrl": "https://www.aneuscreen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "aneuscreen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שז\"ר זלמן",
+      "houseNumber": 7,
+      "city": "נתניה",
+      "lat": 32.2782623,
+      "lon": 34.849867
+    }
+  ]
+}

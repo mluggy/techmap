@@ -1,0 +1,23 @@
+{
+  "name": "Exaware Routing",
+  "description": "Offering cost-effective, flexible disaggregated IP/MPLS switch router solutions for scalable network expansion.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/exaware_routing-logo.webp",
+  "websiteUrl": "https://exaware.com/",
+  "careersUrl": "https://exaware.com/careers/",
+  "isHiring": true,
+  "linkedinId": "exaware",
+  "crunchbaseId": "exaware",
+  "finderId": "compass-eos",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.2773544,
+      "lon": 34.8584354
+    }
+  ]
+}

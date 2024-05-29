@@ -1,0 +1,23 @@
+{
+  "name": "Yummi Home Food",
+  "description": "Menus are subject to change due to national food supply chain issues and can be accessed online.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/yummi_home_food-logo.webp",
+  "websiteUrl": "https://wps.yumyummi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "yummi-home-food",
+  "finderId": "yummi-home-food",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השדות",
+      "houseNumber": 16,
+      "city": "עדנים",
+      "lat": 32.14262555155356,
+      "lon": 34.903569733379015
+    }
+  ]
+}

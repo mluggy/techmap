@@ -1,0 +1,23 @@
+{
+  "name": "Genie Pharm",
+  "description": "Providing advanced garage door openers and devices to enhance security and smart functionality.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/genie_pharm-logo.webp",
+  "websiteUrl": "https://www.geniecompany.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "genie1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "צאלון",
+      "houseNumber": 1,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.9082994,
+      "lon": 35.0138778
+    }
+  ]
+}

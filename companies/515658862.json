@@ -1,0 +1,23 @@
+{
+  "name": "Cheetah Technologies",
+  "description": "App for Restaurant Supplies.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/cheetah_technologies-logo.webp",
+  "websiteUrl": "https://gocheetah.com/",
+  "careersUrl": "https://gocheetah.com/careers/",
+  "isHiring": true,
+  "linkedinId": "gocheetah",
+  "crunchbaseId": null,
+  "finderId": "cheetah-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בגין מנחם",
+      "houseNumber": 13,
+      "city": "גבעת שמואל",
+      "lat": 32.0736702,
+      "lon": 34.8535056
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Quartix Finance",
+  "description": "Top provider of vehicle tracking solutions for commercial fleets, with over 600,000 units installed since 2001.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/quartix_finance-logo.webp",
+  "websiteUrl": "https://www.quartix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "quartix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרצל",
+      "houseNumber": 80,
+      "city": "רמת גן",
+      "lat": 32.0819653,
+      "lon": 34.8166806
+    }
+  ]
+}

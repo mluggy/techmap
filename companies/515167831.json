@@ -1,0 +1,23 @@
+{
+  "name": "Upsolver",
+  "description": "We offer scalable and efficient data replication and integration solutions across multiple databases, with seamless data lake management using an Apache Iceberg connector.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/upsolver-logo.webp",
+  "websiteUrl": "https://www.upsolver.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "upsolver",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

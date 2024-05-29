@@ -1,0 +1,23 @@
+{
+  "name": "Kirobo",
+  "description": "They simplify blockchain development by providing an intuitive SDK for efficient custom software creation, reducing launch time and effort.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/kirobo-logo.webp",
+  "websiteUrl": "https://www.kirobo.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kirobo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרב אפרים",
+      "houseNumber": 22,
+      "city": "רעננה",
+      "lat": 32.1796804,
+      "lon": 34.8865418
+    }
+  ]
+}

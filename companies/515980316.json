@@ -1,0 +1,23 @@
+{
+  "name": "Noogata Technologies",
+  "description": "This company provides AI-driven solutions that streamline competitive analysis and boost product portfolio performance.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/noogata_technologies-logo.webp",
+  "websiteUrl": "https://noogata.com/",
+  "careersUrl": "https://noogata.com/careers/",
+  "isHiring": true,
+  "linkedinId": "noogata",
+  "crunchbaseId": "noogata",
+  "finderId": "team86",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.0687595,
+      "lon": 34.7939327
+    }
+  ]
+}

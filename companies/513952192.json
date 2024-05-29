@@ -1,0 +1,23 @@
+{
+  "name": "Compost Or",
+  "description": "Facilities for Recycling Organic Waste.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/compost_or-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "compost-or",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנגר",
+      "houseNumber": 24,
+      "city": "הוד השרון",
+      "lat": 32.1302892,
+      "lon": 34.8947603
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Coti",
+  "description": "A next-generation fintech platform enabling decentralized payment solutions and digital currency transactions.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/coti-logo.webp",
+  "websiteUrl": "https://www.coti.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "coti",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הירקון",
+      "houseNumber": 5,
+      "city": "בני ברק",
+      "lat": 32.0955017,
+      "lon": 34.8234431
+    }
+  ]
+}

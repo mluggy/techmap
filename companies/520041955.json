@@ -1,0 +1,23 @@
+{
+  "name": "Steakholder Foods",
+  "description": "The company provides 3D printing solutions to plant-based food industries, enabling the creation of complex meat and seafood textures with advanced bio-printers and specialized inks.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/steakholder_foods-logo.webp",
+  "websiteUrl": "https://www.steakholderfoods.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "steakholder-foods",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פייקס דוד",
+      "houseNumber": 5,
+      "city": "רחובות",
+      "lat": 31.9159391,
+      "lon": 34.8103557
+    }
+  ]
+}

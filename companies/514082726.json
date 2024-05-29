@@ -1,0 +1,23 @@
+{
+  "name": "Nyxoah",
+  "description": "A medical technology firm specializing in innovative hypoglossal nerve stimulation solutions for treating Obstructive Sleep Apnea.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/nyxoah-logo.webp",
+  "websiteUrl": "https://www.nyxoah.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nyxoah",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 126,
+      "city": "תל אביב - יפו",
+      "lat": 32.074473,
+      "lon": 34.795669
+    }
+  ]
+}

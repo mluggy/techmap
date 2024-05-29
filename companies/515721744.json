@@ -1,0 +1,23 @@
+{
+  "name": "Trieye",
+  "description": "Innovative sports eyewear featuring a built-in rearview mirror for enhanced safety and convenience during activities like cycling and rowing.",
+  "categoryId": 5,
+  "size": "m",
+  "logoFile": "logos/trieye-logo.webp",
+  "websiteUrl": "https://trieye.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "trieye",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 82,
+      "city": "תל אביב - יפו",
+      "lat": 32.066186,
+      "lon": 34.792954
+    }
+  ]
+}

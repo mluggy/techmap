@@ -1,0 +1,23 @@
+{
+  "name": "Mana Bio",
+  "description": "Harnessing AI and nanotechnology, this startup innovates in gene therapy and vaccine delivery.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/mana_bio-logo.webp",
+  "websiteUrl": "https://www.mana.bio/",
+  "careersUrl": "https://www.mana.bio/jobs",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mana-bio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.066532,
+      "lon": 34.785078
+    }
+  ]
+}

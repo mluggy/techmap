@@ -1,0 +1,23 @@
+{
+  "name": "4 Girls",
+  "description": "An empowering social network for young women featuring blogs, forums, chats, and expert advice on topics from relationships to personal growth.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/4_girls-logo.webp",
+  "websiteUrl": "https://www.4girls.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "4girls",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סוקולוב",
+      "houseNumber": 34,
+      "city": "תל אביב - יפו",
+      "lat": 32.08933,
+      "lon": 34.777877
+    }
+  ]
+}

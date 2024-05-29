@@ -1,0 +1,23 @@
+{
+  "name": "Flanksource",
+  "description": "An open-source, Kubernetes-inspired developer portal enhancing productivity and operational resilience for teams at any level.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/flanksource-logo.webp",
+  "websiteUrl": "https://www.flanksource.com/",
+  "careersUrl": "https://www.flanksource.com/careers",
+  "isHiring": true,
+  "linkedinId": "flanksource",
+  "crunchbaseId": null,
+  "finderId": "flanksource",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבי ינאי",
+      "houseNumber": 9,
+      "city": "בית שמש",
+      "lat": 31.736292185971777,
+      "lon": 34.98628352813433
+    }
+  ]
+}

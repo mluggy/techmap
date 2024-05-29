@@ -1,0 +1,23 @@
+{
+  "name": "Watoobi",
+  "description": "We connect students and graduates to the job market through tech-enhanced mentoring programs.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/watoobi-logo.webp",
+  "websiteUrl": "https://www.watoobi.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "watoobi",
+  "crunchbaseId": null,
+  "finderId": "watoobi",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמק ברכה",
+      "houseNumber": 52,
+      "city": "תל אביב - יפו",
+      "lat": 32.075301,
+      "lon": 34.80117
+    }
+  ]
+}

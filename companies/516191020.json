@@ -1,0 +1,23 @@
+{
+  "name": "Hop A Tour",
+  "description": "Offering live virtual tours with world-class guides, visitors can register and submit requests for personalized, interactive experiences.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/hop_a_tour-logo.webp",
+  "websiteUrl": "https://hopatour.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hop-a-tour",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "איתמר",
+      "houseNumber": 8,
+      "city": "רמת גן",
+      "lat": 32.090371899999994,
+      "lon": 34.8066614901699
+    }
+  ]
+}

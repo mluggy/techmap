@@ -1,0 +1,23 @@
+{
+  "name": "J W G",
+  "description": "A global company providing gift registry search services in both Israel and the USA.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/j_w_g-logo.webp",
+  "websiteUrl": "https://www.judaicawebstore.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "jwg-ltd.",
+  "crunchbaseId": null,
+  "finderId": "jwg-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית הדפוס",
+      "houseNumber": 22,
+      "city": "ירושלים",
+      "lat": 31.7864039,
+      "lon": 35.185592
+    }
+  ]
+}

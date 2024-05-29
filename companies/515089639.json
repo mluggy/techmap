@@ -1,0 +1,23 @@
+{
+  "name": "Atomation Net",
+  "description": "Test your engineering prowess with over 50 engine-building scenarios tailored for diverse applications.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/atomation_net-logo.webp",
+  "websiteUrl": "https://www.automationgame.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "atomation",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.063834,
+      "lon": 34.780027
+    }
+  ]
+}

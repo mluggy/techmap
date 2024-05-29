@@ -1,0 +1,23 @@
+{
+  "name": "Metaform",
+  "description": "A research studio blending hardware, software, arts, and theory to create innovative solutions.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/metaform_ltd-logo.webp",
+  "websiteUrl": "https://metaform.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "metaform",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 11,
+      "city": "ראש העין",
+      "lat": 32.1011543,
+      "lon": 34.9196002
+    }
+  ]
+}

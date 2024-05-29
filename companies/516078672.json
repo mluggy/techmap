@@ -1,0 +1,23 @@
+{
+  "name": "Neural Guard",
+  "description": "A free service that instantly translates words, phrases, and websites from English to over 100 languages.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/neural_guard-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "neural-guard",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 30,
+      "city": "נתניה",
+      "lat": 32.283315349999995,
+      "lon": 34.8595275
+    }
+  ]
+}

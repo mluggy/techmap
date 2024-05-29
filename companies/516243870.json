@@ -1,0 +1,23 @@
+{
+  "name": "Innocap",
+  "description": "Solutions for Safe Drug Use.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/innocap-logo.webp",
+  "websiteUrl": "https://www.innocap.com/",
+  "careersUrl": "https://www.innocap.com/en/careers/",
+  "isHiring": true,
+  "linkedinId": "innocap-group",
+  "crunchbaseId": null,
+  "finderId": "innocap",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קריניצי",
+      "houseNumber": 85,
+      "city": "רמת גן",
+      "lat": 32.0800323,
+      "lon": 34.8172235
+    }
+  ]
+}

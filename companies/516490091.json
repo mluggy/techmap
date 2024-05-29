@@ -1,0 +1,23 @@
+{
+  "name": "Laya Global",
+  "description": "This Irish company operates as an agent for Elips Insurance Limited, offering various healthcare products.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/laya_global-logo.webp",
+  "websiteUrl": "https://www.layahealthcare.ie/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "laya",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 105,
+      "city": "תל אביב - יפו",
+      "lat": 32.0695962,
+      "lon": 34.7847721
+    }
+  ]
+}

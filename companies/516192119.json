@@ -1,0 +1,23 @@
+{
+  "name": "Radarv",
+  "description": "A cutting-edge airborne radar system automates detection and avoidance for drones, ensuring safe Beyond Visual Line of Sight operation by preventing collisions with manned aircraft.",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/radarv-logo.webp",
+  "websiteUrl": "https://www.radar-v.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "radarv",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 6,
+      "city": "גני תקווה",
+      "lat": 32.0592087,
+      "lon": 34.8819389
+    }
+  ]
+}

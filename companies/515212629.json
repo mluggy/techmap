@@ -1,0 +1,23 @@
+{
+  "name": "Shopic Technologies",
+  "description": "Checkout via Mobile Device.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/shopic_technologies-logo.webp",
+  "websiteUrl": "https://www.shopic.co/",
+  "careersUrl": "https://www.shopic.co/career/",
+  "isHiring": true,
+  "linkedinId": "shopic",
+  "crunchbaseId": null,
+  "finderId": "shopic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 156,
+      "city": "תל אביב - יפו",
+      "lat": 32.0797181,
+      "lon": 34.7957816
+    }
+  ]
+}

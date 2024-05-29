@@ -1,0 +1,23 @@
+{
+  "name": "Payem Card",
+  "description": "This platform streamlines worldwide finance and procurement by automating processes from initial request to final reconciliation.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/payem_card-logo.webp",
+  "websiteUrl": "https://www.payem.co/",
+  "careersUrl": "https://www.payem.co/careers",
+  "isHiring": true,
+  "linkedinId": "payemcard",
+  "crunchbaseId": "payem-card",
+  "finderId": "payem",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.063834,
+      "lon": 34.780027
+    }
+  ]
+}

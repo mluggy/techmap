@@ -1,0 +1,23 @@
+{
+  "name": "Driverly",
+  "description": "A flexible, subscription-based car insurance that offers price adjustments driven by your driving habits and market conditions, rewarding safe drivers.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/driverly-logo.webp",
+  "websiteUrl": "https://www.driverly.co.uk/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "driverly",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגבעה",
+      "houseNumber": 5,
+      "city": "סביון",
+      "lat": 32.0514533,
+      "lon": 34.8763666
+    }
+  ]
+}

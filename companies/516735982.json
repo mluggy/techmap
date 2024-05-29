@@ -1,0 +1,23 @@
+{
+  "name": "Motus Tech",
+  "description": "Software for simulating urban environments using agent-based modeling.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/motus_tech-logo.webp",
+  "websiteUrl": "https://www.motuscity.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "motus-tech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הר יעלה",
+      "houseNumber": 177,
+      "city": "מסילת ציון",
+      "lat": 31.8018407,
+      "lon": 35.0113343
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Commugen",
+  "description": "An automated visualization tool that provides instant, up-to-date snapshots of a bank's status, saving hours of manual data collection and validation.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/commugen-logo.webp",
+  "websiteUrl": "https://www.cyber.commugen.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "commugen",
+  "crunchbaseId": null,
+  "finderId": "commugen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נחלת בנימין",
+      "houseNumber": 47,
+      "city": "תל אביב - יפו",
+      "lat": 32.0649132,
+      "lon": 34.7711251
+    }
+  ]
+}

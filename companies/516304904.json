@@ -1,0 +1,23 @@
+{
+  "name": "Femme Medical",
+  "description": "Offering personalized coaching, medical support, and group classes to address health and fertility issues through certified professionals.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/femme_medical-logo.webp",
+  "websiteUrl": "https://femmhealth.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "femme-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ביאליק",
+      "houseNumber": 34,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0359907,
+      "lon": 34.8873747
+    }
+  ]
+}

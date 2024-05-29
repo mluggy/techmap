@@ -1,0 +1,23 @@
+{
+  "name": "Ziprecruiter Israel",
+  "description": "A personalized career advisor service that helps users find and apply to job openings in the US with ease.",
+  "categoryId": 14,
+  "size": "xl",
+  "logoFile": "logos/ziprecruiter_israel-logo.webp",
+  "websiteUrl": "https://www.ziprecruiter.com/",
+  "careersUrl": "https://www.ziprecruiter.com/post-a-job",
+  "isHiring": true,
+  "linkedinId": "ziprecruiter",
+  "crunchbaseId": null,
+  "finderId": "ziprecruiter",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

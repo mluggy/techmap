@@ -1,0 +1,23 @@
+{
+  "name": "Fairgen",
+  "description": "Leveraging generative AI, this company enables researchers to quickly gain insights from synthetic data, making niche market analysis statistically significant.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/fairgen-logo.webp",
+  "websiteUrl": "https://www.fairgen.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "fairgen",
+  "crunchbaseId": null,
+  "finderId": "fairgen",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.075175,
+      "lon": 34.78205
+    }
+  ]
+}

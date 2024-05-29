@@ -1,0 +1,23 @@
+{
+  "name": "Taltoola",
+  "description": "A tool designed for shaping nails.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/taltoola-logo.webp",
+  "websiteUrl": "https://taltoola.site123.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "taltoola",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ישראליס",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.0714199,
+      "lon": 34.7914241
+    }
+  ]
+}

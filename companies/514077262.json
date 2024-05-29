@@ -1,0 +1,23 @@
+{
+  "name": "Newsfusion",
+  "description": "Specialized news apps offering personalized feeds for various interests, from science to sports, with user-friendly interfaces.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/newsfusion-logo.webp",
+  "websiteUrl": "https://www.newsfusion.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "newsfusion",
+  "finderId": "newsfusion",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מגיני נגבה",
+      "houseNumber": 4,
+      "city": "הרצליה",
+      "lat": 32.1656632,
+      "lon": 34.8474559
+    }
+  ]
+}

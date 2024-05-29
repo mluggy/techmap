@@ -1,0 +1,23 @@
+{
+  "name": "Vinst",
+  "description": "Promoting Well-being by Encouraging Home-cooked Meals.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vinst-logo.webp",
+  "websiteUrl": "https://www.vinst.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vinst-me",
+  "crunchbaseId": null,
+  "finderId": "vinst",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבין יצחק",
+      "houseNumber": 10,
+      "city": "קריית אונו",
+      "lat": 32.0647098,
+      "lon": 34.8649952
+    }
+  ]
+}

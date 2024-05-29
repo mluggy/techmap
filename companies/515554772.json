@@ -1,0 +1,23 @@
+{
+  "name": "Wiliot",
+  "description": "They offer a platform that provides sensing services using IoT Pixels technology.",
+  "categoryId": 13,
+  "size": "l",
+  "logoFile": "logos/wiliot_ltd-logo.webp",
+  "websiteUrl": "https://www.wiliot.com/",
+  "careersUrl": "https://www.wiliot.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": "wiliot",
+  "finderId": "wiliot",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הטוחן",
+      "houseNumber": 8,
+      "city": "קיסריה",
+      "lat": 32.4863102,
+      "lon": 34.9521262
+    }
+  ]
+}

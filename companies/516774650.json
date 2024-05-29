@@ -1,0 +1,23 @@
+{
+  "name": "Regenesis",
+  "description": "This institution excels in delivering superior higher education focused on fostering global leaders equipped for successful management and leadership roles.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/regenesis-logo.webp",
+  "websiteUrl": "https://www.regenesys.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "regenesis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברנע",
+      "houseNumber": 4,
+      "city": "קצרין",
+      "lat": 32.9920262,
+      "lon": 35.6877004
+    }
+  ]
+}

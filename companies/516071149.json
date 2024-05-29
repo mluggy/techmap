@@ -1,0 +1,23 @@
+{
+  "name": "Nanoghost",
+  "description": "A pioneering biotech firm creating nanovesicle-based drug delivery systems derived from mesenchymal stem cells to target cancer and inflammation with high precision.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/nanoghost-logo.webp",
+  "websiteUrl": "https://www.nano-ghost.com/",
+  "careersUrl": "https://www.nano-ghost.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nanoghosts",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גאון בני",
+      "houseNumber": 12,
+      "city": "נתניה",
+      "lat": 32.2759247,
+      "lon": 34.8623182
+    }
+  ]
+}

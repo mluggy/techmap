@@ -1,0 +1,23 @@
+{
+  "name": "Intervyo R D",
+  "description": "Forecasting Job Candidates' Fit Using Analytical Tools.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/intervyo_r_d-logo.webp",
+  "websiteUrl": "https://interviewnow.io/",
+  "careersUrl": "https://jobs.publix.com/2022/01/17/5-interview-tips-to-help-you-stand-out/",
+  "isHiring": true,
+  "linkedinId": "intervyo",
+  "crunchbaseId": "intervyo",
+  "finderId": "Intervyo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברודצקי",
+      "houseNumber": 13,
+      "city": "תל אביב - יפו",
+      "lat": 32.106353,
+      "lon": 34.797195
+    }
+  ]
+}

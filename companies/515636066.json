@@ -1,0 +1,23 @@
+{
+  "name": "Lonza Israel",
+  "description": "Providing comprehensive manufacturing solutions for the healthcare, pharmaceutical, biotech, and nutrition industries.",
+  "categoryId": 12,
+  "size": "xl",
+  "logoFile": "logos/lonza_israel-logo.webp",
+  "websiteUrl": "https://www.lonza.com/",
+  "careersUrl": "https://www.lonza.com/careers",
+  "isHiring": true,
+  "linkedinId": "lonza",
+  "crunchbaseId": null,
+  "finderId": "lonza",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נתיב האור",
+      "houseNumber": 1,
+      "city": "חיפה",
+      "lat": 32.78785285,
+      "lon": 34.96565267465318
+    }
+  ]
+}

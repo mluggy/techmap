@@ -1,0 +1,23 @@
+{
+  "name": "Medisafe Project",
+  "description": "They offer digital solutions that simplify medication management and payment processes, ensuring streamlined enrollments and real-time shipment tracking.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/medisafe_project-logo.webp",
+  "websiteUrl": "https://www.medisafe.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "medisafe-project",
+  "crunchbaseId": null,
+  "finderId": "medisafe-project",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סחרוב אנדרה",
+      "houseNumber": 25,
+      "city": "חיפה",
+      "lat": 32.7941088,
+      "lon": 34.9579664
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Howazit",
+  "description": "Howazit offers a comprehensive solution for collecting and analyzing customer feedback to enhance satisfaction and improve business outcomes.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/howazit-logo.webp",
+  "websiteUrl": "https://www.howazit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "howazit",
+  "crunchbaseId": null,
+  "finderId": "howazit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן יהודה",
+      "houseNumber": 42,
+      "city": "הרצליה",
+      "lat": 32.8127003,
+      "lon": 34.9917537
+    }
+  ]
+}

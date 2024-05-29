@@ -1,0 +1,23 @@
+{
+  "name": "Namaya",
+  "description": "Providing a unique, closed-loop water solution for households, municipalities, and cities by integrating modern insights with traditional technologies.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/namaya-logo.webp",
+  "websiteUrl": "https://www.namaya.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "namaya",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית הלל",
+      "houseNumber": 37,
+      "city": "רמת השרון",
+      "lat": 32.134663052068305,
+      "lon": 34.85684140474273
+    }
+  ]
+}

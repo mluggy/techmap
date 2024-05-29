@@ -1,0 +1,23 @@
+{
+  "name": "Silantrix",
+  "description": "A leading technology firm specializing in innovative software solutions for various industries.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/silantrix-logo.webp",
+  "websiteUrl": "http://www.silantrix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "silantrix",
+  "finderId": "silantrix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הל\"ה",
+      "houseNumber": 19,
+      "city": "כפר סבא",
+      "lat": 32.1679203,
+      "lon": 34.9258365
+    }
+  ]
+}

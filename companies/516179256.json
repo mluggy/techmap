@@ -1,0 +1,23 @@
+{
+  "name": "Spring Games",
+  "description": "The world's largest softball event will return to normal in 2022! Click here to get tickets and information!.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/spring_games-logo.webp",
+  "websiteUrl": "https://www.thespringgames.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "spring-games",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלוני ניסים",
+      "houseNumber": 12,
+      "city": "תל אביב - יפו",
+      "lat": 32.0882376,
+      "lon": 34.7968864
+    }
+  ]
+}

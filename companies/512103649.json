@@ -1,0 +1,23 @@
+{
+  "name": "Neurogenic",
+  "description": "A company at the clinical stage, focusing on creating advanced immunoassays that enhance the diagnosis of mental health conditions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/neurogenic_ltd-logo.webp",
+  "websiteUrl": "https://www.neurogenic.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "neurogenic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.06378,
+      "lon": 34.769659
+    }
+  ]
+}

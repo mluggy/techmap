@@ -1,0 +1,23 @@
+{
+  "name": "24 Me",
+  "description": "This app enhances life quality globally by intuitively generating reminders, organizing schedules, and auto-completing tasks.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/24_me-logo.webp",
+  "websiteUrl": "https://www.twentyfour.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "24me",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 31,
+      "city": "גני תקווה",
+      "lat": 32.0592087,
+      "lon": 34.8819389
+    }
+  ]
+}

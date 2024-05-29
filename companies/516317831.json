@@ -1,0 +1,23 @@
+{
+  "name": "Alma Technologies",
+  "description": "Inertial Sensor-Based Localization Technology.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/alma_technologies-logo.webp",
+  "websiteUrl": "https://www.alma-technologies.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "alma-technologies",
+  "crunchbaseId": "alma-technologies-ltd",
+  "finderId": "alma-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שינדלר אוסקר",
+      "houseNumber": 3,
+      "city": "חיפה",
+      "lat": 32.7668032,
+      "lon": 35.0163919
+    }
+  ]
+}

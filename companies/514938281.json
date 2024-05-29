@@ -1,0 +1,23 @@
+{
+  "name": "Bringg Delivery Technologies",
+  "description": "A platform that streamlines and enhances last-mile delivery for efficient planning, optimization, and scaling.",
+  "categoryId": 9,
+  "size": "l",
+  "logoFile": "logos/bringg_delivery_technologies-logo.webp",
+  "websiteUrl": "https://www.bringg.com/",
+  "careersUrl": "https://www.bringg.com/careers/",
+  "isHiring": true,
+  "linkedinId": "bringg",
+  "crunchbaseId": "bringg",
+  "finderId": "bringg",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

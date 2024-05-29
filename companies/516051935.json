@@ -1,0 +1,23 @@
+{
+  "name": "Albe Information",
+  "description": "A leading global BMX shop run by riders that offers top brands and quality gear.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/albe_information-logo.webp",
+  "websiteUrl": "https://www.albes.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "albe",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קרן קימת לישראל",
+      "houseNumber": 29,
+      "city": "גבעתיים",
+      "lat": 32.0744107,
+      "lon": 34.806475
+    }
+  ]
+}

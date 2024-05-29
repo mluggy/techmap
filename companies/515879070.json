@@ -1,0 +1,23 @@
+{
+  "name": "Canny AI",
+  "description": "This company streamlines integration with existing tools to enhance customer service and project management, significantly reducing inbound support queries.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/canny_ai-logo.webp",
+  "websiteUrl": "https://canny.io/",
+  "careersUrl": "https://careers.canny.io/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "canny-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.113198,
+      "lon": 34.844295
+    }
+  ]
+}

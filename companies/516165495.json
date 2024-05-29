@@ -1,0 +1,23 @@
+{
+  "name": "Atmoscell",
+  "description": "Specializing in weather software, they leverage technology and IoT data to create tailored forecasting solutions.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/atmoscell-logo.webp",
+  "websiteUrl": "https://www.atmoscell.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "atmoscell-labs",
+  "crunchbaseId": null,
+  "finderId": "atmoscell",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אילנות",
+      "houseNumber": 56,
+      "city": "גת רימון",
+      "lat": 32.0684901,
+      "lon": 34.8807918
+    }
+  ]
+}

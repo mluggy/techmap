@@ -1,0 +1,23 @@
+{
+  "name": "Comsec",
+  "description": "A platform that replicates Distributed Denial of Service (DDoS) attacks for testing purposes.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/comsec-logo.webp",
+  "websiteUrl": "https://comsecglobal.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "comsecglobal",
+  "crunchbaseId": null,
+  "finderId": "comsec-consulting",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.062937,
+      "lon": 34.785459
+    }
+  ]
+}

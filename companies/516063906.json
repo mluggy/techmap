@@ -1,0 +1,23 @@
+{
+  "name": "Mitiga",
+  "description": "Specializing in cloud and SaaS threat detection, this company leverages global threat intelligence and extensive research to provide rapid forensic investigations.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/mitiga-logo.webp",
+  "websiteUrl": "https://www.mitiga.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mitiga",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.065253,
+      "lon": 34.785664
+    }
+  ]
+}

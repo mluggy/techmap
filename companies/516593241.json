@@ -1,0 +1,23 @@
+{
+  "name": "Saywhatt Online",
+  "description": "Artificial Intelligence-driven Sales Solution for Retail.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/saywhatt_online-logo.webp",
+  "websiteUrl": "https://saywhat.org.zw/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "saywhatt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שדרות ח\"ן",
+      "houseNumber": 40,
+      "city": "תל אביב - יפו",
+      "lat": 32.077998,
+      "lon": 34.780255
+    }
+  ]
+}

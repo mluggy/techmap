@@ -1,0 +1,58 @@
+{
+  "name": "Teva Pharmaceutical Industries",
+  "description": "A global pharmaceutical company specializing in generic and specialty medications to improve patient health and healthcare accessibility.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/teva_b_nadlan-logo.webp",
+  "websiteUrl": "https://www.tevapharm.com/",
+  "careersUrl": "https://www.tevapharm.com/your-career/",
+  "isHiring": true,
+  "linkedinId": "teva-pharmaceuticals",
+  "crunchbaseId": "teva-pharmaceutical-industries",
+  "finderId": "teva",
+  "xId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב - יפו",
+      "lat": 32.113580945212405,
+      "lon": 34.841679045938925
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "שוהם",
+      "lat": 32.010545411183784,
+      "lon": 34.96421900343435
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "כפר סבא",
+      "lat": 32.17966153160363,
+      "lon": 34.93879730696874
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "נתניה",
+      "lat": 32.28303638029853,
+      "lon": 34.863580136169645
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "באר שבע",
+      "lat": 31.222678457652027,
+      "lon": 34.809432249124775
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "נתניה",
+      "lat": 32.32242824475739,
+      "lon": 34.878403474593476
+    }
+  ]
+}

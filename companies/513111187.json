@@ -1,0 +1,23 @@
+{
+  "name": "Accenture",
+  "description": "Accenture is a global professional services company specializing in IT services and consulting, helping businesses drive innovation and efficiency.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/accenture-logo.webp",
+  "websiteUrl": "https://newsroom.accenture.com/",
+  "careersUrl": "https://www.accenture.com/us-en/careers",
+  "isHiring": true,
+  "linkedinId": "accenture",
+  "crunchbaseId": null,
+  "finderId": "accenture",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 2,
+      "city": "הרצליה",
+      "lat": 32.1598405,
+      "lon": 34.8083843
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Climatech Mea",
+  "description": "A company focused on promoting green hydrogen, renewable energy, and climate technology in the MENA region.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/climatech_mea-logo.webp",
+  "websiteUrl": "https://climatechmea.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "climatechmea",
+  "crunchbaseId": null,
+  "finderId": "climatech-mea",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הר נבו",
+      "houseNumber": 11,
+      "city": "רמת השרון",
+      "lat": 32.1427796,
+      "lon": 34.8352064
+    }
+  ]
+}

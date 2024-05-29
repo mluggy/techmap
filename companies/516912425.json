@@ -1,0 +1,23 @@
+{
+  "name": "Cortanix",
+  "description": "Company Currently Operating Confidentially.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/cortanix-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cortanix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד חן",
+      "houseNumber": 68,
+      "city": "רחובות",
+      "lat": 31.9017989,
+      "lon": 34.8079744
+    }
+  ]
+}

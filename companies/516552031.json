@@ -1,0 +1,23 @@
+{
+  "name": "Gankster",
+  "description": "The first integrated LFG tool for finding and assembling gaming parties seamlessly, scheduling scrims, and reviewing participants.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/gankster-logo.webp",
+  "websiteUrl": "https://gankster.gg/",
+  "careersUrl": "https://gankster.gg/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gankster",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרב קוק",
+      "houseNumber": 21,
+      "city": "תל אביב - יפו",
+      "lat": 32.0713201,
+      "lon": 34.7667174
+    }
+  ]
+}

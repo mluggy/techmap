@@ -1,0 +1,23 @@
+{
+  "name": "Homismart",
+  "description": "This company specializes in smart home and building management technology, partnering with Google and meeting high Israeli and European standards.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/homismart-logo.webp",
+  "websiteUrl": "https://www.homismart.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "homismart",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מוטה גור",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.0920729,
+      "lon": 34.8646062
+    }
+  ]
+}

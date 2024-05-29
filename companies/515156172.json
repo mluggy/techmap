@@ -1,0 +1,23 @@
+{
+  "name": "Personalics",
+  "description": "Leverage experimentation to automate personalized marketing, enhancing customer understanding and maximizing revenue through timely, targeted messaging at scale.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/personalics-logo.webp",
+  "websiteUrl": "https://personalics.com/",
+  "careersUrl": "https://personetics.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "personalics",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מזא\"ה",
+      "houseNumber": 53,
+      "city": "תל אביב - יפו",
+      "lat": 32.065683,
+      "lon": 34.779207
+    }
+  ]
+}

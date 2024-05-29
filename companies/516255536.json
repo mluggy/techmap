@@ -1,0 +1,23 @@
+{
+  "name": "Fitnuts Pro",
+  "description": "A digital platform for fitness and nutrition.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/fitnuts_pro-logo.webp",
+  "websiteUrl": "https://www.thefitdonut.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fitnuts",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב - יפו",
+      "lat": 32.060334,
+      "lon": 34.782124
+    }
+  ]
+}

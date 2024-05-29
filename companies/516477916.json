@@ -1,0 +1,23 @@
+{
+  "name": "Sea 2 Cell",
+  "description": "Pioneering cellular agriculture, they create sustainable fish meat in tanks to combat overfishing and meet high demand.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/sea_2_cell-logo.webp",
+  "websiteUrl": "https://sea2cell.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sea2cell",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חצב",
+      "houseNumber": 30,
+      "city": "קריית שמונה",
+      "lat": 33.2115548,
+      "lon": 35.5787624
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tenasors Medical",
+  "description": "A tool designed for obtaining tissue samples using endoscopic techniques.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/tenasors_medical-logo.webp",
+  "websiteUrl": "https://www.tenasors.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "tenasors-medical-ltd",
+  "crunchbaseId": "tenasors-medical-ltd",
+  "finderId": "tenasors-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלתרמן נתן",
+      "houseNumber": 19,
+      "city": "תל אביב - יפו",
+      "lat": 32.1745745,
+      "lon": 34.8385368
+    }
+  ]
+}

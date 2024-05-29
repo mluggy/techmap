@@ -1,0 +1,23 @@
+{
+  "name": "Hera Med",
+  "description": "An innovative company revolutionizing maternity care through a medically-validated remote monitoring platform for prenatal and postpartum experiences.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/hera_med-logo.webp",
+  "websiteUrl": "https://www.hera-med.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "heramed",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מאיר אריאל",
+      "houseNumber": 6,
+      "city": "נתניה",
+      "lat": 32.28496405944088,
+      "lon": 34.87209196015313
+    }
+  ]
+}

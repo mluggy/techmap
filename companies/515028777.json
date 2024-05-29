@@ -1,0 +1,23 @@
+{
+  "name": "Sinusafe Medical",
+  "description": "sinus lavage in the physician's office without surgical intervention. conducts clinical trials in Israel, at Hillel Yaffe medical center.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sinusafe_medical-logo.webp",
+  "websiteUrl": "https://www.sinusafe.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "sinusafe-medical",
+  "crunchbaseId": "sinusafe-medical",
+  "finderId": "sinusafe-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 6,
+      "city": "לוד",
+      "lat": 31.9702691,
+      "lon": 34.8981695
+    }
+  ]
+}

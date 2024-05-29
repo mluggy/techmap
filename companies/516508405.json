@@ -1,0 +1,23 @@
+{
+  "name": "Jigso",
+  "description": "A web-based platform that enhances employee experience through psychological safety, cohesion, and continuous performance management.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/jigso-logo.webp",
+  "websiteUrl": "https://jigso.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "jigsoio",
+  "crunchbaseId": null,
+  "finderId": "jigso",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "טאגור רבינדרנארט",
+      "houseNumber": 40,
+      "city": "תל אביב - יפו",
+      "lat": 32.117142587196504,
+      "lon": 34.79805377585838
+    }
+  ]
+}

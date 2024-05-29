@@ -1,0 +1,23 @@
+{
+  "name": "Unipharm",
+  "description": "חברה ישראלית חלוצה בתחום הגנריקה, מפתחת ומשווקת תרופות חדשניות למגוון מחלות מאז 1975.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/unipharm-logo.webp",
+  "websiteUrl": "https://www.unipharm.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "unipharm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שבט שמעון",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.10822152859435,
+      "lon": 34.80427346200784
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Clew Medical",
+  "description": "Using AI-driven, FDA-cleared predictive analytics to improve high-acuity care.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/clew_medical-logo.webp",
+  "websiteUrl": "https://clewmed.com/",
+  "careersUrl": "https://clewmed.com/careers/",
+  "isHiring": true,
+  "linkedinId": "clewmed",
+  "crunchbaseId": null,
+  "finderId": "clew",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.2773544,
+      "lon": 34.8584354
+    }
+  ]
+}

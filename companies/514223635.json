@@ -1,0 +1,23 @@
+{
+  "name": "Agrosoft",
+  "description": "They create and deploy specialized ERP software solutions for agricultural marketing.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/agrosoft-logo.webp",
+  "websiteUrl": "https://agrosoft.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "agrosoft",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדובדבן",
+      "houseNumber": 9,
+      "city": "קריית אונו",
+      "lat": 32.0674869,
+      "lon": 34.8663103
+    }
+  ]
+}

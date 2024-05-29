@@ -1,0 +1,23 @@
+{
+  "name": "Renewal Bio",
+  "description": "We specialize in pioneering research on embryonic development using synthetic models and stem cells.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/renewal_bio-logo.webp",
+  "websiteUrl": "https://www.renewal.bio/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "renewalbio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

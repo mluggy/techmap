@@ -1,0 +1,23 @@
+{
+  "name": "Myinterview",
+  "description": "A platform that streamlines application processes and enhances diversity by providing equitable and insightful candidate evaluations.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/myinterview-logo.webp",
+  "websiteUrl": "https://www.myinterview.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "myinterview",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 156,
+      "city": "תל אביב - יפו",
+      "lat": 32.0797181,
+      "lon": 34.7957816
+    }
+  ]
+}

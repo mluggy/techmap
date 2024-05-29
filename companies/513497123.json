@@ -1,0 +1,23 @@
+{
+  "name": "Save Foods",
+  "description": "A global collective of 750 entities dedicated to combating food waste and loss.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/save_foods-logo.webp",
+  "websiteUrl": "https://www.save-food.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "save-foods",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שטיבל",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.066336,
+      "lon": 34.788438
+    }
+  ]
+}

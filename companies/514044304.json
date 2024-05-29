@@ -1,0 +1,23 @@
+{
+  "name": "Trego",
+  "description": "Established in 2007, this Israeli firm specializes in high-end hardware design and software solutions, offering professional services and turnkey projects.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/trego-logo.webp",
+  "websiteUrl": "https://www.trego.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "trego",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבניצקי",
+      "houseNumber": 6,
+      "city": "פתח תקווה",
+      "lat": 32.103838550000006,
+      "lon": 34.89099230960969
+    }
+  ]
+}

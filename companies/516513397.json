@@ -1,0 +1,23 @@
+{
+  "name": "Ingonyama",
+  "description": "A cutting-edge semiconductor firm that specializes in accelerating Zero Knowledge Proof hardware to tackle computational bottlenecks.",
+  "categoryId": 16,
+  "size": "s",
+  "logoFile": "logos/ingonyama-logo.webp",
+  "websiteUrl": "https://www.ingonyama.com/",
+  "careersUrl": "https://www.ingonyama.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ingonyama",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך יצחק רבין",
+      "houseNumber": 1,
+      "city": "פתח תקווה",
+      "lat": 32.2101852,
+      "lon": 34.9650933
+    }
+  ]
+}

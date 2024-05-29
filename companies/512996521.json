@@ -1,0 +1,23 @@
+{
+  "name": "Mediseb",
+  "description": "A pioneering spin-off from SeBo Technologies, this company offers advanced software for customizing medical devices and developing electro-therapy and thermo-therapy treatments.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/mediseb-logo.webp",
+  "websiteUrl": "http://mediseb.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mediseb",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גלגלי הפלדה",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.1630041,
+      "lon": 34.808744
+    }
+  ]
+}

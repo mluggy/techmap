@@ -1,0 +1,23 @@
+{
+  "name": "Stops.com",
+  "description": "Explore, generate, and share location-centric content and products through search, maps, and augmented reality features.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/stops_com-logo.webp",
+  "websiteUrl": "https://stops.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "stops-com",
+  "finderId": "stops-com",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נוף הירדן",
+      "houseNumber": 20,
+      "city": "צפת",
+      "lat": 32.9477523,
+      "lon": 35.5287329
+    }
+  ]
+}

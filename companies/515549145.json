@@ -1,0 +1,23 @@
+{
+  "name": "Serenus AI",
+  "description": "Developing advanced Generative AI to optimize critical medical decisions, Serenus.AI enhances patient outcomes and resource efficiency.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/serenus_ai-logo.webp",
+  "websiteUrl": "https://serenusai.com/",
+  "careersUrl": "https://serenusai.com/careers",
+  "isHiring": true,
+  "linkedinId": "serenus-ai",
+  "crunchbaseId": null,
+  "finderId": "Serenus-AI",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רופא המחתרות",
+      "houseNumber": 32,
+      "city": "תל אביב - יפו",
+      "lat": 32.100789,
+      "lon": 34.784355
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Neoprol",
+  "description": "Administration and upkeep of anesthesia through intravenous methods.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/neoprol-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "neoprol",
+  "finderId": "neoprol",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרופ רקח",
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7679937,
+      "lon": 35.1973517
+    }
+  ]
+}

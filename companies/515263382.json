@@ -1,0 +1,23 @@
+{
+  "name": "Access For Life",
+  "description": "A below-the-skin implanted device designed for accessing blood vessels.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/access_for_life-logo.webp",
+  "websiteUrl": "https://access-life.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "access-for-life",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגר\"א",
+      "houseNumber": 11,
+      "city": "נתניה",
+      "lat": 32.3108114,
+      "lon": 34.8571073
+    }
+  ]
+}

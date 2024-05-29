@@ -1,0 +1,23 @@
+{
+  "name": "Ipipe",
+  "description": "System for Inspecting Water Pipelines.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/ipipe-logo.webp",
+  "websiteUrl": "https://www.ipmpipe.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ipipe",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נבון",
+      "houseNumber": 19,
+      "city": "ירושלים",
+      "lat": 31.7877386,
+      "lon": 35.211845
+    }
+  ]
+}

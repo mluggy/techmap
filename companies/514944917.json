@@ -1,0 +1,23 @@
+{
+  "name": "Coinbase Il Rd",
+  "description": "A secure online platform for cryptocurrency transactions and storage.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/coinbase_il_rd-logo.webp",
+  "websiteUrl": "https://www.coinbase.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "coinbase",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפסגות",
+      "houseNumber": 9,
+      "city": "פתח תקווה",
+      "lat": 32.097946,
+      "lon": 34.8551804
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Plannie",
+  "description": "Streamlining appointment scheduling to save clients significant time and effort.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/plannie-logo.webp",
+  "websiteUrl": "https://www.plannie.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "plannie",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עזר וייצמן",
+      "houseNumber": 2,
+      "city": "הוד השרון",
+      "lat": 32.1652468,
+      "lon": 34.9032801
+    }
+  ]
+}

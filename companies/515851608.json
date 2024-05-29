@@ -1,0 +1,23 @@
+{
+  "name": "Kaholo",
+  "description": "A visual automation platform that simplifies and accelerates DevOps processes through customization and integration.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/kaholo-logo.webp",
+  "websiteUrl": "https://kaholo.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kaholo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברמן בני",
+      "houseNumber": 2,
+      "city": "נתניה",
+      "lat": 32.2783096,
+      "lon": 34.8473934
+    }
+  ]
+}

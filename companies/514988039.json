@@ -1,0 +1,23 @@
+{
+  "name": "Flytrex Aviation",
+  "description": "Experience 5-minute drone deliveries from local restaurants and grocery stores directly to your backyard, contact-free and without tips.",
+  "categoryId": 3,
+  "size": "m",
+  "logoFile": "logos/flytrex_aviation-logo.webp",
+  "websiteUrl": "https://www.flytrex.com/",
+  "careersUrl": "https://www.flytrex.com/careers",
+  "isHiring": true,
+  "linkedinId": "flytrex",
+  "crunchbaseId": null,
+  "finderId": "flytrex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מונטיפיורי",
+      "houseNumber": 39,
+      "city": "תל אביב - יפו",
+      "lat": 32.065888,
+      "lon": 34.773888
+    }
+  ]
+}

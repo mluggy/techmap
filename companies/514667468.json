@@ -1,0 +1,23 @@
+{
+  "name": "Gbooking",
+  "description": "A 3-star airport hotel offering air-conditioned rooms with WiFi, a restaurant, a bar, a café, and parking from 59 EUR per night.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/gbooking-logo.webp",
+  "websiteUrl": "https://www.ebooking.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gbooking",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דובנוב",
+      "houseNumber": 30,
+      "city": "חיפה",
+      "lat": 32.7766692,
+      "lon": 35.0103338
+    }
+  ]
+}

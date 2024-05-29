@@ -1,0 +1,23 @@
+{
+  "name": "Itc Intelligent Traffic Control",
+  "description": "Innovating traffic management by predicting and alleviating congestion using advanced computer vision algorithms integrated with existing infrastructure.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/itc_intelligent_traffic_control-logo.webp",
+  "websiteUrl": "https://www.itc-israel.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "intelligent-traffic-control",
+  "finderId": "itc-intelligent-traffic-control",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יונתן רטוש",
+      "houseNumber": 3,
+      "city": "ראש העין",
+      "lat": 32.0822229,
+      "lon": 34.982694238211764
+    }
+  ]
+}

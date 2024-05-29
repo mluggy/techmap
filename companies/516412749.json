@@ -1,0 +1,23 @@
+{
+  "name": "Deafinitely Communication",
+  "description": "A nonprofit organization dedicated to supporting Deaf, hard-of-hearing, deaf-blind, deaf-disabled, and hearing youth from diverse linguistic backgrounds.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/deafinitely_communication-logo.webp",
+  "websiteUrl": "https://www.deafinitelyinc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "deafinitely",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עומרים",
+      "houseNumber": 15,
+      "city": "עומר",
+      "lat": 31.272729,
+      "lon": 34.8364357
+    }
+  ]
+}

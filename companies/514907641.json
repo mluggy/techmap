@@ -1,0 +1,23 @@
+{
+  "name": "Hulyo Tourism",
+  "description": "An app to book flights at the last minute.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/hulyo_tourism-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "hulyo-tourism",
+  "crunchbaseId": "hulyo-tourism",
+  "finderId": "hulyo-tourism",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדובדבן",
+      "houseNumber": 9,
+      "city": "קריית אונו",
+      "lat": 32.0674794,
+      "lon": 34.8637212
+    }
+  ]
+}

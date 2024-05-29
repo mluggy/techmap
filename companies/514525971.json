@@ -1,0 +1,23 @@
+{
+  "name": "Colospan",
+  "description": "Specializing in medical technology with offices in Israel and the U.S., this company focuses on innovative healthcare solutions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/colospan-logo.webp",
+  "websiteUrl": "https://colospan.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cologuard",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 21,
+      "city": "כפר סבא",
+      "lat": 32.1666204,
+      "lon": 34.9281644
+    }
+  ]
+}

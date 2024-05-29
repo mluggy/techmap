@@ -1,0 +1,23 @@
+{
+  "name": "Neuroderm",
+  "description": "An agile R&D firm innovating patient-focused drug-device solutions for central nervous system disorders.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/neuroderm-logo.webp",
+  "websiteUrl": "https://neuroderm.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "neuroderm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פקריס",
+      "houseNumber": 3,
+      "city": "רחובות",
+      "lat": 31.9106415,
+      "lon": 34.8055972
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Prudentix",
+  "description": "An up-and-coming R&D firm specializing in pioneering medical devices for dentistry, orthopedics, and dermatology.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/prudentix_ltd-logo.webp",
+  "websiteUrl": "http://www.prudentix.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "prudentix",
+  "crunchbaseId": "prudentix",
+  "finderId": "prudentix",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בת שבע",
+      "houseNumber": 1,
+      "city": "לוד",
+      "lat": 31.9530326,
+      "lon": 34.88971251534439
+    }
+  ]
+}

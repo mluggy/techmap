@@ -1,0 +1,23 @@
+{
+  "name": "Fertigo Medical",
+  "description": "Enhancing IVF Outcomes with Virtual Pathology Expertise.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/fertigo_medical-logo.webp",
+  "websiteUrl": "https://www.fertigo-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "fertigo-medical",
+  "crunchbaseId": "fertigo-medical",
+  "finderId": "fertigo-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המגינים",
+      "houseNumber": 9,
+      "city": "זכרון יעקב",
+      "lat": 32.5757811,
+      "lon": 34.9557045
+    }
+  ]
+}

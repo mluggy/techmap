@@ -1,0 +1,23 @@
+{
+  "name": "Adva Biotechnology",
+  "description": "A self-operating system for producing patient-specific cells.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/adva_biotechnology-logo.webp",
+  "websiteUrl": "https://www.advabio.com/",
+  "careersUrl": "https://www.advabio.com/Careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "adva-biotechnology",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הדולב",
+      "houseNumber": 3,
+      "city": "תעשיון בר לב",
+      "lat": 32.90400195317118,
+      "lon": 35.19410067196292
+    }
+  ]
+}

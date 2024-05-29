@@ -1,0 +1,23 @@
+{
+  "name": "Valid Network",
+  "description": "Platform for Blockchain Verification and Trust.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/valid_network-logo.webp",
+  "websiteUrl": "https://valid.network/",
+  "careersUrl": "https://valid.network/careers",
+  "isHiring": true,
+  "linkedinId": "valid-network",
+  "crunchbaseId": "valid-network",
+  "finderId": "valid-network",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרדוף",
+      "houseNumber": 9,
+      "city": "חיפה",
+      "lat": 32.8097915,
+      "lon": 34.972496
+    }
+  ]
+}

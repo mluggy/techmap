@@ -1,0 +1,23 @@
+{
+  "name": "Neuralight",
+  "description": "An AI-powered platform offers precise digital markers for early diagnosis and monitoring of neurological disorders like Alzheimer's, Parkinson's, ALS, and Multiple Sclerosis.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/neuralight-logo.webp",
+  "websiteUrl": "https://neuralight.ai/",
+  "careersUrl": "https://neuralight.ai/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "neuralight",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 65,
+      "city": "תל אביב - יפו",
+      "lat": 32.0681574,
+      "lon": 34.7859788
+    }
+  ]
+}

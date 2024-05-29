@@ -1,0 +1,23 @@
+{
+  "name": "Remilk",
+  "description": "We create animal-free dairy that's healthier, cleaner, and kinder to the planet and cows.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/remilk-logo.webp",
+  "websiteUrl": "https://www.remilk.com/",
+  "careersUrl": "https://www.remilk.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "remilk",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רמון אילן",
+      "houseNumber": 6,
+      "city": "נס ציונה",
+      "lat": 31.9174928,
+      "lon": 34.8063292
+    }
+  ]
+}

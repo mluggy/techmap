@@ -1,0 +1,23 @@
+{
+  "name": "New Phase",
+  "description": "Advanced Heat-Based Therapy Solutions.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/new_phase-logo.webp",
+  "websiteUrl": "https://www.newphaseinc.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "new-phase",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אודם",
+      "houseNumber": 5,
+      "city": "פתח תקווה",
+      "lat": 32.0896507,
+      "lon": 34.8577193
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Difftone.com",
+  "description": "A survey platform that uses machine learning to provide actionable insights for businesses.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/difftone_com-logo.webp",
+  "websiteUrl": "https://www.difftone.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "difftone",
+  "crunchbaseId": "difftone",
+  "finderId": "difftone-com",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גולני",
+      "houseNumber": 4,
+      "city": "כפר יונה",
+      "lat": 32.3180006,
+      "lon": 34.9226434
+    }
+  ]
+}

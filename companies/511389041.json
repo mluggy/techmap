@@ -1,0 +1,23 @@
+{
+  "name": "Dive In",
+  "description": "A pioneering manufacturer of practical, problem-solving scuba equipment designed for optimal diving experiences.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/dive_in-logo.webp",
+  "websiteUrl": "https://www.dive1scuba.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dive-1",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנשר",
+      "houseNumber": 16,
+      "city": "אילת",
+      "lat": 29.5518734,
+      "lon": 34.9436103
+    }
+  ]
+}

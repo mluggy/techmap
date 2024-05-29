@@ -1,0 +1,23 @@
+{
+  "name": "Sharkbiit",
+  "description": "A pioneering start-up integrating dental CT data with general healthcare to diagnose and treat various medical conditions early.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sharkbiit-logo.webp",
+  "websiteUrl": "https://sharkbiit.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "sharkbiit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרגות",
+      "houseNumber": 44,
+      "city": "כוכב יאיר",
+      "lat": 32.2298352,
+      "lon": 35.0066472
+    }
+  ]
+}

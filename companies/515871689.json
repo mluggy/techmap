@@ -1,0 +1,23 @@
+{
+  "name": "Banditos Studio",
+  "description": "A studio specializing in creating mobile games.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/banditos_studio-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "banditos-studio",
+  "crunchbaseId": null,
+  "finderId": "banditos-studio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרצל",
+      "houseNumber": 75,
+      "city": "רמת גן",
+      "lat": 32.0877052,
+      "lon": 34.8146919
+    }
+  ]
+}

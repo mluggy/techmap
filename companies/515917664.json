@@ -1,0 +1,23 @@
+{
+  "name": "Similari",
+  "description": "A comprehensive data platform providing actionable insights for innovation and R&D by connecting diverse technical and business information sources.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/similari-logo.webp",
+  "websiteUrl": "https://similari.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "similari",
+  "crunchbaseId": null,
+  "finderId": "similari",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אנגל",
+      "houseNumber": 45,
+      "city": "כפר סבא",
+      "lat": 32.1972972,
+      "lon": 34.89529847364706
+    }
+  ]
+}

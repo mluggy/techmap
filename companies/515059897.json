@@ -1,0 +1,23 @@
+{
+  "name": "Gloat",
+  "description": "A skills-based workforce platform empowering companies to adapt, enhance employee careers, and eliminate organizational barriers.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/gloat-logo.webp",
+  "websiteUrl": "https://gloat.com/",
+  "careersUrl": "https://gloat.com/careers/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "workey",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דה וינצ'י לאונרדו",
+      "houseNumber": 14,
+      "city": "תל אביב - יפו",
+      "lat": 32.07418525,
+      "lon": 34.78524499360144
+    }
+  ]
+}

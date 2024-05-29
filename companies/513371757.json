@@ -1,0 +1,23 @@
+{
+  "name": "Hish Yael",
+  "description": "Machines for processing, transporting, and storing food products.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/hish_yael-logo.webp",
+  "websiteUrl": "https://hushandhush.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hish",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אמירים",
+      "houseNumber": 14,
+      "city": "תל אביב - יפו",
+      "lat": 32.118182,
+      "lon": 34.833728
+    }
+  ]
+}

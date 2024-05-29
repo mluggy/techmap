@@ -1,0 +1,23 @@
+{
+  "name": "Xplace",
+  "description": "Providing transparent and fair rental agreements for accessible and well-equipped apartments across Prague and Central Bohemia.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/xplace-logo.webp",
+  "websiteUrl": "https://www.xplace.cz/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "xplace",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זויתן",
+      "houseNumber": 2,
+      "city": "אבן יהודה",
+      "lat": 32.2652185,
+      "lon": 34.8919397
+    }
+  ]
+}

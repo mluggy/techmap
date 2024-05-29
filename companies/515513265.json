@@ -1,0 +1,23 @@
+{
+  "name": "Wasteless",
+  "description": "Leveraging advanced AI, this company increases profits and reduces food waste by optimizing pricing strategies tailored to customer behavior.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/wasteless-logo.webp",
+  "websiteUrl": "https://www.wasteless.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wasteless-ltd",
+  "crunchbaseId": null,
+  "finderId": "wasteless",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אליפלט",
+      "houseNumber": 26,
+      "city": "תל אביב - יפו",
+      "lat": 32.057708,
+      "lon": 34.764336
+    }
+  ]
+}

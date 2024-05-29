@@ -1,0 +1,23 @@
+{
+  "name": "Playwork",
+  "description": "This innovative therapy ball integrates interactive games with rehabilitative exercises, enabling efficient activities while tracking performance and progress.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/playwork-logo.webp",
+  "websiteUrl": "https://www.playwork.me/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gemon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חפץ ישה",
+      "houseNumber": 11,
+      "city": "תל אביב - יפו",
+      "lat": 32.116716,
+      "lon": 34.788471
+    }
+  ]
+}

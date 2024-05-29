@@ -1,0 +1,23 @@
+{
+  "name": "Icobots",
+  "description": "חלוצה בשוק הישראלי, החברה מתמחה ביישום רובוטים שיתופיים במגוון תעשיות כגון רפואי, מזון, ומתכת.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/icobots-logo.webp",
+  "websiteUrl": "https://icobots.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "icobots",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הפלך",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.050538,
+      "lon": 34.766862
+    }
+  ]
+}

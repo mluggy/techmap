@@ -1,0 +1,23 @@
+{
+  "name": "Olivebar",
+  "description": "A premium provider of cold-pressed organic olive oil, aged balsamic vinegar, and gourmet products located in Downtown Campbell, CA.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/olivebar-logo.webp",
+  "websiteUrl": "https://theolivebar.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "olivebar",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האירוס",
+      "houseNumber": null,
+      "city": "נוקדים",
+      "lat": 31.64493566122743,
+      "lon": 35.243360600976324
+    }
+  ]
+}

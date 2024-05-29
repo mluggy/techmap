@@ -1,0 +1,23 @@
+{
+  "name": "Gap 600",
+  "description": "Offering rapid, near-instant payment and deposit processing to save valuable time for users.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/gap_600-logo.webp",
+  "websiteUrl": "https://www.gap600.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "gap600",
+  "crunchbaseId": null,
+  "finderId": "gap600",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכרכום",
+      "houseNumber": 20,
+      "city": "כוכב יאיר",
+      "lat": 32.2256791,
+      "lon": 35.0042018
+    }
+  ]
+}

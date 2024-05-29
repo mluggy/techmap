@@ -1,0 +1,23 @@
+{
+  "name": "Codename One",
+  "description": "Streamline app development, debugging, and testing within your IDE, and effortlessly generate app-store ready builds without managing native SDKs.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/codename_one-logo.webp",
+  "websiteUrl": "https://www.codenameone.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "codename-one",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יורם קניוק",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.068446,
+      "lon": 34.784136
+    }
+  ]
+}

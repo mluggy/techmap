@@ -1,0 +1,23 @@
+{
+  "name": "Igentify",
+  "description": "A digital platform enhances genomic workflows by facilitating secure access, interpretation, and application of genetic information for patients, laboratories, and providers.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/igentify-logo.webp",
+  "websiteUrl": "https://www.igentify.com/",
+  "careersUrl": "https://www.igentify.com/careers/",
+  "isHiring": true,
+  "linkedinId": "igentify",
+  "crunchbaseId": null,
+  "finderId": "igentify",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 14,
+      "city": "קיסריה",
+      "lat": 32.4852088,
+      "lon": 34.9486528645006
+    }
+  ]
+}

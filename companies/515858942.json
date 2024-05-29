@@ -1,0 +1,23 @@
+{
+  "name": "Aireye",
+  "description": "Our SaaS, zero-touch solution effortlessly extends network security into the digital airspace without the need for complex configurations or extra resources.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/aireye-logo.webp",
+  "websiteUrl": "https://aireye.tech/",
+  "careersUrl": "https://aireye.tech/about/careers/",
+  "isHiring": true,
+  "linkedinId": "aireye",
+  "crunchbaseId": null,
+  "finderId": "AirEye",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 114,
+      "city": "תל אביב - יפו",
+      "lat": 32.072746,
+      "lon": 34.794968
+    }
+  ]
+}

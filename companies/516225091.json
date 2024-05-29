@@ -1,0 +1,23 @@
+{
+  "name": "Full Dna",
+  "description": "We offer comprehensive genetic reports covering over 3,000 medical conditions to provide actionable insights for your physician.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/full_dna-logo.webp",
+  "websiteUrl": "https://www.fulldna.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "fulldna",
+  "crunchbaseId": "fulldna-ltd",
+  "finderId": "fulldna-ltd",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1666204,
+      "lon": 34.9281644
+    }
+  ]
+}

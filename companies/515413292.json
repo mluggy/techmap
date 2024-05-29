@@ -1,0 +1,23 @@
+{
+  "name": "Nonagon",
+  "description": "Digital Healthcare Service.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/nonagon-logo.webp",
+  "websiteUrl": "https://nonagon-care.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nonagon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האשל",
+      "houseNumber": 1,
+      "city": "קיסריה",
+      "lat": 32.4774943,
+      "lon": 34.9447996
+    }
+  ]
+}

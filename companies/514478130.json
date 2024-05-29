@@ -1,0 +1,23 @@
+{
+  "name": "Dentstorm",
+  "description": "A specialized professional store offering dental and dental technology products.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/dentstorm-logo.webp",
+  "websiteUrl": "https://dentstore.bg/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "dentstorm",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבינא",
+      "houseNumber": 17,
+      "city": "תל אביב - יפו",
+      "lat": 32.121458000000004,
+      "lon": 34.79956838004566
+    }
+  ]
+}

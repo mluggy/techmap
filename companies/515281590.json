@@ -1,0 +1,23 @@
+{
+  "name": "WeBus",
+  "description": "Taxi sharing app for connecting up to four passengers into shared taxi.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/tbus-logo.webp",
+  "websiteUrl": "https//webus.co.il",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "webus-gettheretogether",
+  "crunchbaseId": "tbus-webus",
+  "finderId": "tbus",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמר",
+      "houseNumber": 11,
+      "city": "ירושלים",
+      "lat": 31.7510528,
+      "lon": 35.1804059
+    }
+  ]
+}

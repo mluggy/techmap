@@ -1,0 +1,23 @@
+{
+  "name": "Othereality",
+  "description": "A social impact startup utilizes Virtual Reality in high-school classes to eliminate prejudice by allowing students to experience life from diverse perspectives.",
+  "categoryId": 4,
+  "size": "xs",
+  "logoFile": "logos/othereality-logo.webp",
+  "websiteUrl": "https://www.othereality.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "othereality",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רבי בנימין",
+      "houseNumber": 13,
+      "city": "ירושלים",
+      "lat": 31.7819119,
+      "lon": 35.1955598
+    }
+  ]
+}

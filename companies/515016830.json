@@ -1,0 +1,23 @@
+{
+  "name": "Moonshot Marketing",
+  "description": "Digital Advertising Service.",
+  "categoryId": 2,
+  "size": "m",
+  "logoFile": "logos/moonshot_marketing-logo.webp",
+  "websiteUrl": "https://www.moonshot-marketing.com/",
+  "careersUrl": "https://www.moonshot-marketing.com/careers",
+  "isHiring": true,
+  "linkedinId": "moonshot-marketing-ltd",
+  "crunchbaseId": null,
+  "finderId": "moonshot-marketing",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קויפמן יחזקאל",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.063117,
+      "lon": 34.762003
+    }
+  ]
+}

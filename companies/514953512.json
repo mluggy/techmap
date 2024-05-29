@@ -1,0 +1,23 @@
+{
+  "name": "Galmed Pharmaceuticals",
+  "description": "A biopharmaceutical firm focusing on innovative treatments for liver diseases has filed its annual report and received a new patent for a combination therapy targeting NASH and liver fibrosis.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/galmed_pharmaceuticals-logo.webp",
+  "websiteUrl": "https://galmedpharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "galmed-pharmaceuticals",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "טיומקין",
+      "houseNumber": 16,
+      "city": "תל אביב - יפו",
+      "lat": 32.063888,
+      "lon": 34.779221
+    }
+  ]
+}

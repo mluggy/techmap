@@ -1,0 +1,23 @@
+{
+  "name": "Callmarker Communications",
+  "description": "An AI-driven platform enhancing sales reps' efficiency by analyzing and prioritizing interactions to boost conversion rates.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/callmarker_communications-logo.webp",
+  "websiteUrl": "https://callmarker.com/",
+  "careersUrl": "https://callmarker.com/careers/",
+  "isHiring": true,
+  "linkedinId": "callmarker",
+  "crunchbaseId": "callmarker",
+  "finderId": "callmarker",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סילבר אבא הלל",
+      "houseNumber": 18,
+      "city": "חיפה",
+      "lat": 32.7892551,
+      "lon": 35.0144765
+    }
+  ]
+}

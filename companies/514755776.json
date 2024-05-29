@@ -1,0 +1,23 @@
+{
+  "name": "Cardiosert",
+  "description": "Cutting-edge instruments designed for interventional cardiologists conducting PCI procedures.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cardiosert-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "cardiosert",
+  "finderId": "cardiosert",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השושנים",
+      "houseNumber": 24,
+      "city": "נשר",
+      "lat": 32.7694573,
+      "lon": 35.0351795
+    }
+  ]
+}

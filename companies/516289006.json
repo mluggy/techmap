@@ -1,0 +1,23 @@
+{
+  "name": "Cannbis B G",
+  "description": "A wellness-focused dispensary enhancing daily life through medical and recreational cannabis.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cannbis_b_g-logo.webp",
+  "websiteUrl": "https://www.sunnyside.shop/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cannbis",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מכבי",
+      "houseNumber": 12,
+      "city": "רעננה",
+      "lat": 32.1827428,
+      "lon": 34.8796022
+    }
+  ]
+}

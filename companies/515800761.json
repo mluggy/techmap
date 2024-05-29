@@ -1,0 +1,23 @@
+{
+  "name": "Killer Whale",
+  "description": "Electronic device designed to disinfect toilets using antibacterial technology.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/killer_whale-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "killer-whale",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "תל אביב",
+      "houseNumber": 3,
+      "city": "חיפה",
+      "lat": 32.824524600000004,
+      "lon": 34.98954304787247
+    }
+  ]
+}

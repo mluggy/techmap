@@ -1,0 +1,23 @@
+{
+  "name": "Gentagel Lr",
+  "description": "A local injectable treatment that provides slow-release antibiotics for up to 60 days.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/gentagel_lr-logo.webp",
+  "websiteUrl": "https://gentagel-lr.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "gentagel",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הכלנית",
+      "houseNumber": 10,
+      "city": "ירושלים",
+      "lat": 31.7569837,
+      "lon": 35.1704217
+    }
+  ]
+}

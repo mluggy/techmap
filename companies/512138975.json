@@ -1,0 +1,23 @@
+{
+  "name": "Nicast",
+  "description": "A description for this company isn't accessible at the moment; discover more details by exploring further.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/nicast_ltd-logo.webp",
+  "websiteUrl": "http://nicast.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "nicast-ltd.",
+  "crunchbaseId": "nicast",
+  "finderId": "nicast",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יודפת",
+      "houseNumber": 2,
+      "city": "לוד",
+      "lat": 31.9614502,
+      "lon": 34.8993993
+    }
+  ]
+}

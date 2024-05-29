@@ -1,0 +1,23 @@
+{
+  "name": "Applicaster",
+  "description": "A cross-platform solution that simplifies media app development and management, offering full operational control, budget transparency, and resource efficiency.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/applicaster-logo.webp",
+  "websiteUrl": "https://www.applicaster.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "applicaster",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 124,
+      "city": "תל אביב - יפו",
+      "lat": 32.0869162,
+      "lon": 34.7822126
+    }
+  ]
+}

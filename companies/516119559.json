@@ -1,0 +1,23 @@
+{
+  "name": "Magnilearn",
+  "description": "An educational platform providing tailored, interactive lessons that adapt to individual student needs based on extensive learning data.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/magnilearn-logo.webp",
+  "websiteUrl": "https://www.magnilearn.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "magnilearn",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך חברון",
+      "houseNumber": 24,
+      "city": "ירושלים",
+      "lat": 31.7316961,
+      "lon": 35.2057465
+    }
+  ]
+}

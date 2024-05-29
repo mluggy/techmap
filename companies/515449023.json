@@ -1,0 +1,23 @@
+{
+  "name": "Artlist",
+  "description": "A comprehensive platform offering top-quality, royalty-free digital assets and editing tools for video creators.",
+  "categoryId": 8,
+  "size": "l",
+  "logoFile": "logos/artlist-logo.webp",
+  "websiteUrl": "https://artlist.io/",
+  "careersUrl": "https://www.artlistjobs.io/",
+  "isHiring": true,
+  "linkedinId": "art-list",
+  "crunchbaseId": null,
+  "finderId": "artlist",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 20,
+      "city": "תל אביב - יפו",
+      "lat": 32.063537,
+      "lon": 34.770085
+    }
+  ]
+}

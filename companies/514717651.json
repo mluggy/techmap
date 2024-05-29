@@ -1,0 +1,23 @@
+{
+  "name": "Vidac Pharma",
+  "description": "Treatment for Skin Cancer.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vidac_pharma-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vidac-pharma",
+  "crunchbaseId": null,
+  "finderId": "vidac-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגפן",
+      "houseNumber": 42,
+      "city": "סתריה",
+      "lat": 31.8943539,
+      "lon": 34.8453804
+    }
+  ]
+}

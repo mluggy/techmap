@@ -1,0 +1,23 @@
+{
+  "name": "Rhinocare",
+  "description": "We offer specialized healthcare solutions designed to meet the unique needs of medical professionals and their patients.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/rhinocare-logo.webp",
+  "websiteUrl": "https://rhinocare.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "rhinocare",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המרד",
+      "houseNumber": 8,
+      "city": "רעננה",
+      "lat": 32.1899886,
+      "lon": 34.8737873
+    }
+  ]
+}

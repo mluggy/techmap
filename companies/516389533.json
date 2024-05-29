@@ -1,0 +1,23 @@
+{
+  "name": "Egg N Up",
+  "description": "Alternatives to eggs made from plant ingredients.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/egg_n_up-logo.webp",
+  "websiteUrl": "https://www.eggnup.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "eggnup",
+  "crunchbaseId": "egg-n-up",
+  "finderId": "egg-n-up",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ויצמן",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.0776132,
+      "lon": 34.7891243
+    }
+  ]
+}

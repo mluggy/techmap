@@ -1,0 +1,23 @@
+{
+  "name": "Marpe Technologies",
+  "description": "A science-focused company creating advanced scanners for early skin cancer detection, currently in use at major Israeli hospitals.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/marpe_technologies-logo.webp",
+  "websiteUrl": "https://marpetech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "marpe-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלמיש",
+      "houseNumber": 13,
+      "city": "קיסריה",
+      "lat": 32.4870865,
+      "lon": 34.9479977
+    }
+  ]
+}

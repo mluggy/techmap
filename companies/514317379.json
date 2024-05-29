@@ -1,0 +1,23 @@
+{
+  "name": "Precognize",
+  "description": "We offer an automated predictive monitoring solution that combines expert knowledge with machine learning, implemented in just two weeks using existing sensors and data.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/precognize-logo.webp",
+  "websiteUrl": "https://precog.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "precog-innovations",
+  "crunchbaseId": null,
+  "finderId": "precognize",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חת נחום",
+      "houseNumber": 5,
+      "city": "טירת כרמל",
+      "lat": 32.783678,
+      "lon": 34.960601
+    }
+  ]
+}

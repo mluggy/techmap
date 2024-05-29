@@ -1,0 +1,23 @@
+{
+  "name": "Vivid",
+  "description": "A platform designed for experts in personal development within the creator economy.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/vivid-logo.webp",
+  "websiteUrl": "https://www.vividseats.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "vivid",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הא באייר",
+      "houseNumber": 39,
+      "city": "תל אביב - יפו",
+      "lat": 32.086834100000004,
+      "lon": 34.78983455852593
+    }
+  ]
+}

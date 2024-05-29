@@ -1,0 +1,23 @@
+{
+  "name": "Jones Entrepreneurship",
+  "description": "A uniquely-packaged, premium craft soda made with pure cane sugar.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/jones_entrepreneurship-logo.webp",
+  "websiteUrl": "https://www.jonessoda.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "jones",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מעלה השחרור",
+      "houseNumber": 5,
+      "city": "חיפה",
+      "lat": 32.8149496,
+      "lon": 35.0000688
+    }
+  ]
+}

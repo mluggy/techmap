@@ -1,0 +1,23 @@
+{
+  "name": "Wonder Veggies",
+  "description": "We're innovators merging fresh vegetables with probiotics to revolutionize digestive health and nutrition.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/wonder_veggies-logo.webp",
+  "websiteUrl": "https://wonderveggies.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "wonder-veggies-ltd",
+  "crunchbaseId": null,
+  "finderId": "wonder-veggies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגפן",
+      "houseNumber": 142,
+      "city": "רמת השרון",
+      "lat": 32.1296258,
+      "lon": 34.8459482
+    }
+  ]
+}

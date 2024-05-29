@@ -1,0 +1,23 @@
+{
+  "name": "Algahealth Ah",
+  "description": "An innovative Israeli biotech firm specializing in efficient, advanced microalgae applications for nutraceutical production.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/algahealth_ah-logo.webp",
+  "websiteUrl": "https://alga-health.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "algahealth",
+  "crunchbaseId": "algahealth",
+  "finderId": "algahealth",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ברקוביץ",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.078703,
+      "lon": 34.7870616
+    }
+  ]
+}

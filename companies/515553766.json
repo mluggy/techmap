@@ -1,0 +1,23 @@
+{
+  "name": "Arctop",
+  "description": "Founded by a neuroscientist and a software engineer, this California-based company focuses on advancing cognitive technologies.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/arctop_ltd-logo.webp",
+  "websiteUrl": "https://arctop.com/",
+  "careersUrl": "https://arctop.com/careers",
+  "isHiring": true,
+  "linkedinId": "arctop",
+  "crunchbaseId": "arctop",
+  "finderId": "arctop",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרופ' יחזקאל קויפמן",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.063745531440134,
+      "lon": 34.76236496123729
+    }
+  ]
+}

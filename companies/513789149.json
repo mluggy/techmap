@@ -1,0 +1,23 @@
+{
+  "name": "Hopa",
+  "description": "A company advancing hematology/oncology pharmacy to enhance cancer patient care through evidence-based practices.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/hopa-logo.webp",
+  "websiteUrl": "https://www.hoparx.org/",
+  "careersUrl": "https://careers.hoparx.org/",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hopa",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "החשמל",
+      "houseNumber": 18,
+      "city": "תל אביב - יפו",
+      "lat": 32.062878,
+      "lon": 34.777925
+    }
+  ]
+}

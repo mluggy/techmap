@@ -1,0 +1,23 @@
+{
+  "name": "Imedis AI",
+  "description": "Revolutionizing radiology with an AI-driven quality management system.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/imedis_ai-logo.webp",
+  "websiteUrl": "https://www.imedis.ai/",
+  "careersUrl": "https://www.imedis.ai/careers",
+  "isHiring": true,
+  "linkedinId": "imedis-medical",
+  "crunchbaseId": null,
+  "finderId": "imedis-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זרחין אלכסנדר",
+      "houseNumber": 13,
+      "city": "רעננה",
+      "lat": 32.1976788,
+      "lon": 34.8811941
+    }
+  ]
+}

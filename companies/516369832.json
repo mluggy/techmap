@@ -1,0 +1,23 @@
+{
+  "name": "Elvy AI",
+  "description": "Pioneers in Restful Innovation.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/elvy_ai-logo.webp",
+  "websiteUrl": "https://elvy.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "elvyai",
+  "crunchbaseId": null,
+  "finderId": "squte",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' יהודית",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.069976,
+      "lon": 34.792175
+    }
+  ]
+}

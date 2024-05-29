@@ -1,0 +1,23 @@
+{
+  "name": "Myform",
+  "description": "Provides secure login solutions integrating both username and password authentication.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/myform-logo.webp",
+  "websiteUrl": "https://myforms.dipostar.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "myform",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "לינקולן",
+      "houseNumber": 9,
+      "city": "תל אביב - יפו",
+      "lat": 32.067078,
+      "lon": 34.781747
+    }
+  ]
+}

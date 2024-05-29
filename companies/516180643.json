@@ -1,0 +1,23 @@
+{
+  "name": "Volumez Technologies",
+  "description": "Providing precise control of IO characteristics for cloud applications, this SaaS enables composable data infrastructure deployment.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/volumez_technologies-logo.webp",
+  "websiteUrl": "https://volumez.com/",
+  "careersUrl": "https://volumez.com/careers/",
+  "isHiring": true,
+  "linkedinId": "volumez",
+  "crunchbaseId": "volumez",
+  "finderId": "volumez",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

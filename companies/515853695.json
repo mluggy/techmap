@@ -1,0 +1,23 @@
+{
+  "name": "Walty Technologies",
+  "description": "A digital platform streamlining mortgage acquisition in Israel by comparing and negotiating offers from various banks to secure the best deal.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/walty_technologies-logo.webp",
+  "websiteUrl": "https://walty.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "walty",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רפאלי שרגא",
+      "houseNumber": 6,
+      "city": "פתח תקווה",
+      "lat": 32.1071388,
+      "lon": 34.8786915
+    }
+  ]
+}

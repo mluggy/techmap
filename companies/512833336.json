@@ -1,0 +1,23 @@
+{
+  "name": "Medtronic Trading",
+  "description": "Providing comprehensive resources and support for individuals and caregivers navigating the diabetes journey.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/medtronic_trading-logo.webp",
+  "websiteUrl": "https://www.medtronicdiabetes.com/",
+  "careersUrl": "https://www.medtronic.com/us-en/our-company/careers.html",
+  "isHiring": true,
+  "linkedinId": "medtronic",
+  "crunchbaseId": null,
+  "finderId": "medtronic",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המדע",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.1668491,
+      "lon": 34.81337011654139
+    }
+  ]
+}

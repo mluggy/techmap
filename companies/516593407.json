@@ -1,0 +1,23 @@
+{
+  "name": "Thermomind",
+  "description": "Dynamic Multimodal Imaging provides a quick, non-invasive, and comprehensive breast health screening, instantly identifying suspicious findings and calculating digital biomarkers.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/thermomind-logo.webp",
+  "websiteUrl": "https://www.thermomind.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "thermomind",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 33,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

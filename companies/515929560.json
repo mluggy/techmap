@@ -1,0 +1,23 @@
+{
+  "name": "Hila Pharma",
+  "description": "Specializing in advanced radiopharmaceuticals for diagnostic imaging and cancer treatment.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/hila_pharma-logo.webp",
+  "websiteUrl": "https://hilapharma.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hila-pharma",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הגפן",
+      "houseNumber": 26,
+      "city": "ניצן",
+      "lat": 31.7375315,
+      "lon": 34.6316593
+    }
+  ]
+}

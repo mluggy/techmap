@@ -1,0 +1,23 @@
+{
+  "name": "Ford Israel Innovation Center",
+  "description": "Discover innovative vehicles, including hybrids and electrics, from a company built for America.",
+  "categoryId": 5,
+  "size": "xl",
+  "logoFile": "logos/ford_israel_innovation_center-logo.webp",
+  "websiteUrl": "https://www.ford.com/",
+  "careersUrl": "https://corporate.ford.com/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ford",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "השלושה",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.0617382,
+      "lon": 34.7882304
+    }
+  ]
+}

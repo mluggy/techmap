@@ -1,0 +1,23 @@
+{
+  "name": "Westham Innovations",
+  "description": "A Dallas-based firm specializing in strategic business solutions.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/westham_innovations-logo.webp",
+  "websiteUrl": "https://www.westhamco.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "westham-innovations",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 90,
+      "city": "תל אביב - יפו",
+      "lat": 32.082699,
+      "lon": 34.7815
+    }
+  ]
+}

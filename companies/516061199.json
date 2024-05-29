@@ -1,0 +1,23 @@
+{
+  "name": "Getruck",
+  "description": "Providing comprehensive vehicle procurement services to businesses since 2008, specializing in trucks, delivery vehicles, and trailers.",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/getruck-logo.webp",
+  "websiteUrl": "https://www.getruck.eu/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "getruck",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עתירי ידע",
+      "houseNumber": 21,
+      "city": "כפר סבא",
+      "lat": 32.1666204,
+      "lon": 34.9281644
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Vuze Medical",
+  "description": "Offering software-only guidance for spine surgeries by overlaying surgical tools from intra-op X-rays onto pre-op CT views, without the need for cameras, markers, or tool add-ons.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vuze_medical-logo.webp",
+  "websiteUrl": "https://www.vuzemedical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "vuze-medical-ltd",
+  "crunchbaseId": null,
+  "finderId": "vuze-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רב אשי",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.121197,
+      "lon": 34.797118
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Senecio",
+  "description": "The company specializes in an innovative multi-platform solution combining deep learning for sex classification, robotics, and automation for sorting and packaging, along with controlled release, supported by various patents.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/senecio-logo.webp",
+  "websiteUrl": "https://www.senecio-robotics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "senecio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שער פלמר",
+      "houseNumber": 3,
+      "city": "חיפה",
+      "lat": 32.8192826,
+      "lon": 34.99932
+    }
+  ]
+}

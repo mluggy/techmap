@@ -1,0 +1,23 @@
+{
+  "name": "Myquest",
+  "description": "A secure, user-friendly tool for accessing test results, scheduling appointments, and tracking health history, available at numerous convenient locations.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/myquest-logo.webp",
+  "websiteUrl": "https://myquest.questdiagnostics.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "myquest",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האחים בן עזר",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.0874861,
+      "lon": 34.8694675
+    }
+  ]
+}

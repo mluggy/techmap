@@ -1,0 +1,23 @@
+{
+  "name": "Cloudally",
+  "description": "Provides cloud-based data protection and backup solutions for SaaS applications.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/cloudally-logo.webp",
+  "websiteUrl": "https://www.cloudally.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "cloudally",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אלטלף אברהם",
+      "houseNumber": 5,
+      "city": "יהוד-מונוסון",
+      "lat": 32.0291282,
+      "lon": 34.8991448
+    }
+  ]
+}

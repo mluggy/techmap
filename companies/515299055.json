@@ -1,0 +1,23 @@
+{
+  "name": "Fido Solutions Israel",
+  "description": "A coalition dedicated to creating open authentication standards to lessen global dependence on passwords.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/fido_solutions_israel-logo.webp",
+  "websiteUrl": "https://fidoalliance.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "fido",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.074132,
+      "lon": 34.782006
+    }
+  ]
+}

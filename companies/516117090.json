@@ -1,0 +1,23 @@
+{
+  "name": "Drizzlex",
+  "description": "An innovative solution that enables accurate tenant water usage billing even in buildings without traditional submetering capabilities.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/drizzlex-logo.webp",
+  "websiteUrl": "https://www.drizzlex.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "drizzlex",
+  "crunchbaseId": null,
+  "finderId": "drizzlex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "משעול היערה",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.8071015,
+      "lon": 35.1995556
+    }
+  ]
+}

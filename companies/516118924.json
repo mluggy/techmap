@@ -1,0 +1,23 @@
+{
+  "name": "Minded Medicine",
+  "description": "An interactive learning platform with social features.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/minded_medicine-logo.webp",
+  "websiteUrl": "https://mindmed.co/",
+  "careersUrl": "https://mindmed.co/careers/",
+  "isHiring": true,
+  "linkedinId": "tryminded",
+  "crunchbaseId": null,
+  "finderId": "minded",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רוזן פנחס",
+      "houseNumber": 32,
+      "city": "הרצליה",
+      "lat": 32.1643876,
+      "lon": 34.8155909
+    }
+  ]
+}

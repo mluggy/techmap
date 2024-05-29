@@ -1,0 +1,23 @@
+{
+  "name": "Talenttribe",
+  "description": "A platform offering job opportunities and insights into various companies for early-career professionals in Singapore.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/talenttribe-logo.webp",
+  "websiteUrl": "https://talenttribe.asia/?action=em-login",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "talenttribe",
+  "crunchbaseId": null,
+  "finderId": "talenttribe",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עקיבא",
+      "houseNumber": 52,
+      "city": "רעננה",
+      "lat": 32.1896629,
+      "lon": 34.8833948
+    }
+  ]
+}

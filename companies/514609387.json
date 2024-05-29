@@ -1,0 +1,23 @@
+{
+  "name": "Beyond Air",
+  "description": "Experience the world's first premium leisure airline with luxurious flights to the Maldives from Dubai and Zurich.",
+  "categoryId": 3,
+  "size": "m",
+  "logoFile": "logos/beyond_air-logo.webp",
+  "websiteUrl": "https://flybeond.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "beyond-air",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הורביץ אלי",
+      "houseNumber": 12,
+      "city": "רחובות",
+      "lat": 31.900952750000002,
+      "lon": 34.7886632
+    }
+  ]
+}

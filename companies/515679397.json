@@ -1,0 +1,23 @@
+{
+  "name": "Refundit",
+  "description": "Offering instant, free refunds to your debit card with a week to return items.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/refundit-logo.webp",
+  "websiteUrl": "https://www.refundid.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "refundit",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "גרונר דב",
+      "houseNumber": 30,
+      "city": "תל אביב - יפו",
+      "lat": 32.12661,
+      "lon": 34.807745
+    }
+  ]
+}

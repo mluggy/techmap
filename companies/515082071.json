@@ -1,0 +1,23 @@
+{
+  "name": "Tipigo Ventures",
+  "description": "A leading platform enabling investors to make well-informed, profitable decisions.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/tipigo_ventures-logo.webp",
+  "websiteUrl": "https://www.tipigo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "tipigo",
+  "finderId": "tipigo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "האמהות",
+      "houseNumber": 10,
+      "city": "נס ציונה",
+      "lat": 31.9215263,
+      "lon": 34.8119941
+    }
+  ]
+}

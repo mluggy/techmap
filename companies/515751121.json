@@ -1,0 +1,23 @@
+{
+  "name": "Farmsee",
+  "description": "Leveraging cutting-edge Computer Vision and AI, this company empowers pig producers with previously inaccessible insights for data-driven decision-making.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/farmsee-logo.webp",
+  "websiteUrl": "https://www.farmsee.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "farmsenseltd",
+  "crunchbaseId": null,
+  "finderId": "farmsee",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנגר",
+      "houseNumber": 24,
+      "city": "הוד השרון",
+      "lat": 32.1302892,
+      "lon": 34.8947603
+    }
+  ]
+}

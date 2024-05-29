@@ -1,0 +1,23 @@
+{
+  "name": "Recolabs",
+  "description": "An innovative R&D team crafting advanced data engineering solutions and sharing development insights through their blog.",
+  "categoryId": 1,
+  "size": "m",
+  "logoFile": "logos/recolabs-logo.webp",
+  "websiteUrl": "https://recolabs.dev/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "recolabs",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' בן ציון",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.0737468,
+      "lon": 34.7763271
+    }
+  ]
+}

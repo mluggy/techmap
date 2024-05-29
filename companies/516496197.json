@@ -1,0 +1,23 @@
+{
+  "name": "Glaive Games",
+  "description": "A music discovery platform connecting fans with artists and their latest content across social media and streaming services.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/glaive_games-logo.webp",
+  "websiteUrl": "https://www.glaivemusic.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "glaive",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב - יפו",
+      "lat": 32.065253,
+      "lon": 34.785664
+    }
+  ]
+}

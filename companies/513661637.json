@@ -1,0 +1,23 @@
+{
+  "name": "Galooli",
+  "description": "Provides multi-option, secure access solutions for user authentication.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/galooli-logo.webp",
+  "websiteUrl": "https://login.galooli.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "galooli",
+  "crunchbaseId": null,
+  "finderId": "galooli",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 52,
+      "city": "תל אביב - יפו",
+      "lat": 32.0634798,
+      "lon": 34.7802841
+    }
+  ]
+}

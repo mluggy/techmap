@@ -1,0 +1,23 @@
+{
+  "name": "Ironsource",
+  "description": "A leading creative management solution provider that enhances user acquisition and growth through data-driven insights and strategic partnership.",
+  "categoryId": 2,
+  "size": "l",
+  "logoFile": "logos/ironsource-logo.webp",
+  "websiteUrl": "https://www.is.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "ironsource",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 121,
+      "city": "תל אביב - יפו",
+      "lat": 32.072032,
+      "lon": 34.788987
+    }
+  ]
+}

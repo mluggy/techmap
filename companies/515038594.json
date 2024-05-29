@@ -1,0 +1,23 @@
+{
+  "name": "Nurami Medical",
+  "description": "A company attending multiple international events and participating in a growth stage program.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/nurami_medical-logo.webp",
+  "websiteUrl": "https://www.nurami-medical.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nurami-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 36,
+      "city": "חיפה",
+      "lat": 32.8191508,
+      "lon": 35.0004706
+    }
+  ]
+}

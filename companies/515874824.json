@@ -1,0 +1,23 @@
+{
+  "name": "Picky Story",
+  "description": "A comprehensive platform for enhancing ecommerce sales through upselling techniques.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/picky_story-logo.webp",
+  "websiteUrl": "https://pickystory.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pickystory",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "רימון",
+      "houseNumber": 36,
+      "city": "גאליה",
+      "lat": 31.8856256,
+      "lon": 34.7631772
+    }
+  ]
+}

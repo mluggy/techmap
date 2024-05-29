@@ -1,0 +1,23 @@
+{
+  "name": "Jabil Israel",
+  "description": "We transform complex concepts into tangible products with extensive market expertise and innovative design and manufacturing.",
+  "categoryId": 15,
+  "size": "xl",
+  "logoFile": "logos/jabil_israel-logo.webp",
+  "websiteUrl": "https://www.jabil.com/",
+  "careersUrl": "https://careers.jabil.com/en/",
+  "isHiring": true,
+  "linkedinId": "jabil",
+  "crunchbaseId": null,
+  "finderId": "jabil",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074196,
+      "lon": 34.7921772
+    }
+  ]
+}

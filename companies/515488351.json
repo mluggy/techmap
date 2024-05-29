@@ -1,0 +1,23 @@
+{
+  "name": "Brainvivo",
+  "description": "Pioneering the creation of algorithmic brain models, this company integrates MRI scans with real-world data to replicate individual sensory, emotional, and perceptual experiences.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/brainvivo-logo.webp",
+  "websiteUrl": "https://brainvivo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "brainvivo",
+  "crunchbaseId": null,
+  "finderId": "brainvivo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "סמולנסקין",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.081463,
+      "lon": 34.771845
+    }
+  ]
+}

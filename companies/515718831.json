@@ -1,0 +1,23 @@
+{
+  "name": "Design With Friends",
+  "description": "A free service offering instant translation of words, phrases, and web pages from English to over 100 languages.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/design_with_friends-logo.webp",
+  "websiteUrl": "https://translate.google.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "design-with-friends",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "שד' אלי לנדאו",
+      "houseNumber": 50,
+      "city": "הרצליה",
+      "lat": 32.1789536,
+      "lon": 34.8034806
+    }
+  ]
+}

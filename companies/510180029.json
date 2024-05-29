@@ -1,0 +1,23 @@
+{
+  "name": "Motorola Solutions Israel",
+  "description": "Motorola Solutions provides mission-critical communications and analytics solutions for public safety and enterprise security.",
+  "categoryId": 18,
+  "size": "xl",
+  "logoFile": "logos/motorola_solutions_israel-logo.webp",
+  "websiteUrl": "https://www.motorolasolutions.com/",
+  "careersUrl": "https://www.motorolasolutions.com/en_us/about/careers.html",
+  "isHiring": true,
+  "linkedinId": "motorolasolutions",
+  "crunchbaseId": null,
+  "finderId": "motorola-solutions",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך השלום",
+      "houseNumber": 5,
+      "city": "תל אביב - יפו",
+      "lat": 32.0716565,
+      "lon": 34.7974224
+    }
+  ]
+}

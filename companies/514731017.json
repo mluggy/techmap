@@ -1,0 +1,23 @@
+{
+  "name": "Project Ray",
+  "description": "Enhances scalability, reduces latency, and boosts cost-efficiency for large-scale workloads through advanced solutions.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/project_ray-logo.webp",
+  "websiteUrl": "https://www.ray.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "project-ray",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יהודה הנשיא",
+      "houseNumber": 53,
+      "city": "רמת השרון",
+      "lat": 32.1323863,
+      "lon": 34.854098
+    }
+  ]
+}

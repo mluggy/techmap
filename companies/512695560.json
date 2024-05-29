@@ -1,0 +1,30 @@
+{
+  "name": "Philips Medical Systems Technologies",
+  "description": "Enhancing lives through innovative solutions in healthcare, consumer lifestyle, and lighting.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/philips_medical_systems_technologies-logo.webp",
+  "websiteUrl": "https://www.usa.philips.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "philips-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בית פיליפס",
+      "houseNumber": 34,
+      "city": "חיפה",
+      "lat": 32.789804476457874,
+      "lon": 34.95886360405169
+    },
+    {
+      "street": "מת\"מ",
+      "houseNumber": 3100202,
+      "city": null,
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

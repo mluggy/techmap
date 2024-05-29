@@ -1,0 +1,23 @@
+{
+  "name": "Kubiya AI",
+  "description": "A company revolutionizing DevOps by streamlining complex processes through conversational AI.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/kubiya_ai-logo.webp",
+  "websiteUrl": "https://www.kubiya.ai/",
+  "careersUrl": "https://www.kubiya.ai/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "kubiya-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הקבוץ",
+      "houseNumber": 4,
+      "city": "רמת השרון",
+      "lat": 32.128594864391765,
+      "lon": 34.852115375857785
+    }
+  ]
+}

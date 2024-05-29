@@ -1,0 +1,23 @@
+{
+  "name": "Trip 360",
+  "description": "Platform for off-road vehicle rentals in Israel, offering ATVs, jeeps, rangers, RZRs, bikes, and tuk-tuks.",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/trip_360-logo.webp",
+  "websiteUrl": "https://www.trip360.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "trip360",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דנקנר מאיר",
+      "houseNumber": 1,
+      "city": "פתח תקווה",
+      "lat": 32.0914268,
+      "lon": 34.8713571
+    }
+  ]
+}

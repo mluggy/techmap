@@ -1,0 +1,23 @@
+{
+  "name": "Mapme",
+  "description": "Create interactive, customizable maps with multimedia content to suit your audience and goals.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/mapme-logo.webp",
+  "websiteUrl": "https://mapme.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mapme",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הנביאים",
+      "houseNumber": 31,
+      "city": "ירושלים",
+      "lat": 31.783554,
+      "lon": 35.2223102
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Lulav Space",
+  "description": "A robotics firm pioneering space technology with notable involvement in the Beresheet lunar missions and advanced vision-based landing sensors.",
+  "categoryId": 3,
+  "size": "s",
+  "logoFile": "logos/lulav_space-logo.webp",
+  "websiteUrl": "https://lulav.space/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "lulav-space",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך העצמאות",
+      "houseNumber": 43,
+      "city": "חיפה",
+      "lat": 32.823617,
+      "lon": 34.9928356
+    }
+  ]
+}

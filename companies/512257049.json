@@ -1,0 +1,23 @@
+{
+  "name": "Avaya Communication Israel",
+  "description": "A platform offering comprehensive training and certification programs for communication and collaboration technology skills.",
+  "categoryId": 18,
+  "size": "l",
+  "logoFile": "logos/avaya_communication_israel_ltd-logo.webp",
+  "websiteUrl": "https://www.avaya-learning.com/",
+  "careersUrl": "https://www.avaya.com/en/about-avaya/careers/welcome/",
+  "isHiring": true,
+  "linkedinId": "avaya",
+  "crunchbaseId": null,
+  "finderId": "avaya",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הרוקמים",
+      "houseNumber": 26,
+      "city": "חולון",
+      "lat": 32.0077054,
+      "lon": 34.80060304320986
+    }
+  ]
+}

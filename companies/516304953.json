@@ -1,0 +1,23 @@
+{
+  "name": "Flightree",
+  "description": "Encouraging reduced air travel to combat climate change by promoting pledges to fly less frequently.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/flightree-logo.webp",
+  "websiteUrl": "https://flightfree.org/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "flightree",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "עינים למשפט",
+      "houseNumber": 30,
+      "city": "ירושלים",
+      "lat": 31.782739755357245,
+      "lon": 35.21352675620242
+    }
+  ]
+}

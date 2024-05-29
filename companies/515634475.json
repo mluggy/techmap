@@ -1,0 +1,23 @@
+{
+  "name": "Cyberglobes",
+  "description": "A platform offering actionable insights on viral trends and geographic data to help investigators track and address emerging threats.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/cyberglobes-logo.webp",
+  "websiteUrl": "https://www.cyberglobes.com/",
+  "careersUrl": "https://www.cyberglobes.com/careers",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": "cyberglobes",
+  "finderId": "cyberglobes",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חלקיקי האור",
+      "houseNumber": 16,
+      "city": "באר שבע",
+      "lat": 31.2624768,
+      "lon": 34.8113674
+    }
+  ]
+}

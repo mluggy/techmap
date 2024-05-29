@@ -1,0 +1,23 @@
+{
+  "name": "Eaton Avraham Sons Diamonds",
+  "description": "Providing services across Central America and the Caribbean from Costa Rica.",
+  "categoryId": 9,
+  "size": "xl",
+  "logoFile": "logos/eaton_avraham_sons_diamonds-logo.webp",
+  "websiteUrl": "https://www.eaton.com/",
+  "careersUrl": "https://www.eaton.com/us/en-us/company/careers.html",
+  "isHiring": true,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eaton",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הלילך",
+      "houseNumber": 13,
+      "city": "נתניה",
+      "lat": 32.2728128,
+      "lon": 34.8415059
+    }
+  ]
+}

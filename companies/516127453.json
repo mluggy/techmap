@@ -1,0 +1,23 @@
+{
+  "name": "Build Security",
+  "description": "Platform for Managing Authorization Policies.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/build_security-logo.webp",
+  "websiteUrl": "https://www.buildsecurityin.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "build-security",
+  "crunchbaseId": "build-security",
+  "finderId": "build-security",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנטה",
+      "houseNumber": 1,
+      "city": "אבן יהודה",
+      "lat": 32.27249597361125,
+      "lon": 34.89061403224562
+    }
+  ]
+}

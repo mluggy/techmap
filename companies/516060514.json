@@ -1,0 +1,23 @@
+{
+  "name": "Imoovo Technologies",
+  "description": "A platform that uses artificial intelligence to maximize cargo space efficiency.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/imoovo_technologies-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "imoovo",
+  "crunchbaseId": "imoovo-technologies-ltd",
+  "finderId": "imoovo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הבנים",
+      "houseNumber": 2,
+      "city": "באר יעקב",
+      "lat": 31.9300404,
+      "lon": 34.8270624
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mad Brain Games",
+  "description": "A forthcoming video game studio dedicated to creating engaging and fun experiences for all ages.",
+  "categoryId": 11,
+  "size": "s",
+  "logoFile": "logos/mad_brain_games-logo.webp",
+  "websiteUrl": "https://madbraingames.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "mad-brain-games",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "זמנהוף",
+      "houseNumber": 29,
+      "city": "הרצליה",
+      "lat": 32.1798799,
+      "lon": 34.8172886
+    }
+  ]
+}

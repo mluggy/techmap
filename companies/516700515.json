@@ -1,0 +1,23 @@
+{
+  "name": "Payro Financial Technologies",
+  "description": "Provides immediate payroll funding for businesses to manage timely employee payments despite cash flow challenges.",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/payro_financial_technologies-logo.webp",
+  "websiteUrl": "https://payrofinance.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "payrofinance",
+  "crunchbaseId": null,
+  "finderId": "payro",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 34,
+      "city": "תל אביב - יפו",
+      "lat": 32.1103029,
+      "lon": 34.8421952
+    }
+  ]
+}

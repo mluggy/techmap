@@ -1,0 +1,23 @@
+{
+  "name": "Hp Technology Israel",
+  "description": "Effortlessly manage printing and scanning remotely with the versatile HP Smart app.",
+  "categoryId": 9,
+  "size": "xl",
+  "logoFile": "logos/hp_technology_israel-logo.webp",
+  "websiteUrl": "https://www.hpsmart.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "hp",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הצורן",
+      "houseNumber": 8,
+      "city": "נתניה",
+      "lat": 32.2872125,
+      "lon": 34.8653497
+    }
+  ]
+}

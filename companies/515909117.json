@@ -1,0 +1,23 @@
+{
+  "name": "Kahun Medical",
+  "description": "Utilizing AI to streamline clinical assessments, this company enhances patient care by efficiently reallocating medical staff to non-automatable tasks and reducing urgent care visit times.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/kahun_medical-logo.webp",
+  "websiteUrl": "https://www.kahun.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "kahun",
+  "crunchbaseId": null,
+  "finderId": "kahun-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.08005635,
+      "lon": 34.799938614641945
+    }
+  ]
+}

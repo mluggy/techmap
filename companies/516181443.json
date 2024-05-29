@@ -1,0 +1,23 @@
+{
+  "name": "Imagene AI",
+  "description": "An advanced AI platform that generates photorealistic images from textual descriptions using conditional diffusion models and super-resolution techniques.",
+  "categoryId": 1,
+  "size": "s",
+  "logoFile": "logos/imagene_ai-logo.webp",
+  "websiteUrl": "https://imagen.research.google/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "imagene-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 39,
+      "city": "תל אביב - יפו",
+      "lat": 32.0658477,
+      "lon": 34.7859941
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Drove Network",
+  "description": "Launch campaigns swiftly with a state-of-the-art platform for digital fundraising, communication, and tracking.",
+  "categoryId": 2,
+  "size": "xs",
+  "logoFile": "logos/drove_network_ltd-logo.webp",
+  "websiteUrl": "https://www.drove.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": "drove-networks",
+  "finderId": "drove-network",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בלוך דוד",
+      "houseNumber": 29,
+      "city": "תל אביב - יפו",
+      "lat": 32.083107,
+      "lon": 34.784203
+    }
+  ]
+}

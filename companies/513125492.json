@@ -1,0 +1,23 @@
+{
+  "name": "Illumina",
+  "description": "We leverage innovative genetic analysis technologies to create advanced, scalable solutions for groundbreaking research.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/illumina-logo.webp",
+  "websiteUrl": "https://www.illumina.com/",
+  "careersUrl": "https://www.illumina.com/company/careers.html",
+  "isHiring": true,
+  "linkedinId": "illumina",
+  "crunchbaseId": null,
+  "finderId": "illumina",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "התאנה",
+      "houseNumber": 10,
+      "city": "כפר קאסם",
+      "lat": 32.1100421,
+      "lon": 34.9530629
+    }
+  ]
+}

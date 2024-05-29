@@ -1,0 +1,23 @@
+{
+  "name": "Datos Health",
+  "description": "A device-agnostic platform streamlining workflows into automated remote care apps, boosting self-care, adoption, and patient engagement.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/datos_health-logo.webp",
+  "websiteUrl": "https://www.datos-health.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "datos-health",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ויסבורג חיים",
+      "houseNumber": 16,
+      "city": "תל אביב - יפו",
+      "lat": 32.119953794480104,
+      "lon": 34.82855673339346
+    }
+  ]
+}

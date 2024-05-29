@@ -1,0 +1,23 @@
+{
+  "name": "Runel Ngmt",
+  "description": "A leading Israeli company specializing in advanced telecommunications solutions.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/runel_ngmt_ltd-logo.webp",
+  "websiteUrl": "https://www.runel.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "runel-ngmt",
+  "crunchbaseId": null,
+  "finderId": "runel-ngmt",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "חומה",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.96051035,
+      "lon": 34.773556043510936
+    }
+  ]
+}

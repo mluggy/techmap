@@ -1,0 +1,23 @@
+{
+  "name": "Pam Bio",
+  "description": "A cooperative entity uniting over 180 stakeholders, including producers, associations, and businesses, to create a vibrant community hub in the city center.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pam_bio-logo.webp",
+  "websiteUrl": "https://www.pambio.fr/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pambio",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל-חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6901031,
+      "lon": 35.298186
+    }
+  ]
+}

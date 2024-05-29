@@ -1,0 +1,23 @@
+{
+  "name": "Dishare AI",
+  "description": "Customized Nutrition-Focused Cooking Service.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/dishare_ai-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "dishare",
+  "crunchbaseId": null,
+  "finderId": "dishare-ai",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "מנדלשטם",
+      "houseNumber": 29,
+      "city": "תל אביב - יפו",
+      "lat": 32.091907,
+      "lon": 34.77682
+    }
+  ]
+}

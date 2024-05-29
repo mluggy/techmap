@@ -1,0 +1,23 @@
+{
+  "name": "Nanosynex",
+  "description": "This MedTech company accelerates diagnostic processes to improve testing quality, reduce healthcare costs, and enable faster prescription of targeted antibiotics.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/nanosynex-logo.webp",
+  "websiteUrl": "https://nanosynex.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "nanosynex",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "בן יהודה",
+      "houseNumber": 178,
+      "city": "תל אביב - יפו",
+      "lat": 32.08776,
+      "lon": 34.773482
+    }
+  ]
+}

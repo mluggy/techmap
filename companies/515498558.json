@@ -1,0 +1,23 @@
+{
+  "name": "Safehouse Technologies",
+  "description": "The app provides an easy way to monitor, control, and secure your digital life, ensuring your data remains private and your identity protected.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/safehouse_technologies-logo.webp",
+  "websiteUrl": "https://safehousetech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "safehousetech",
+  "crunchbaseId": "safehouse-ffed",
+  "finderId": "safehouse-technologies",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "פרישמן",
+      "houseNumber": 88,
+      "city": "תל אביב - יפו",
+      "lat": 32.07928,
+      "lon": 34.779502
+    }
+  ]
+}

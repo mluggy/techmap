@@ -1,0 +1,23 @@
+{
+  "name": "Pruvo Net",
+  "description": "We secure refunds by finding price drops and secret deals for your hotel bookings, even after you've made reservations.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/pruvo_net-logo.webp",
+  "websiteUrl": "https://www.pruvo.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "pruvo",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "נעמ\"ת",
+      "houseNumber": 11,
+      "city": "חיפה",
+      "lat": 32.7965427,
+      "lon": 34.9927125
+    }
+  ]
+}

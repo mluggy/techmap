@@ -1,0 +1,23 @@
+{
+  "name": "Elfi Tech",
+  "description": "Elfi-Tech aims to launch advanced sensing technology for process automation in the US by 2024.",
+  "categoryId": 15,
+  "size": "s",
+  "logoFile": "logos/elfi_tech-logo.webp",
+  "websiteUrl": "https://elfi-tech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "elfi-tech-ltd",
+  "crunchbaseId": "elfi-tech",
+  "finderId": "elfi-tech",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 150,
+      "city": "תל אביב - יפו",
+      "lat": 32.0605137,
+      "lon": 34.7759853
+    }
+  ]
+}

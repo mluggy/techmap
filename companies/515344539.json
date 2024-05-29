@@ -1,0 +1,23 @@
+{
+  "name": "Alpha Tau Medical",
+  "description": "Specializing in innovative radiation therapies, this company offers Alpha DaRT for treating solid cancer tumors.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/alpha_tau_medical-logo.webp",
+  "websiteUrl": "https://www.alphatau.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "alpha-tau-medical",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "קרית מדע",
+      "houseNumber": 5,
+      "city": "ירושלים",
+      "lat": 31.8015023,
+      "lon": 35.2103559
+    }
+  ]
+}

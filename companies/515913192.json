@@ -1,0 +1,23 @@
+{
+  "name": "Eyezon",
+  "description": "Providing comprehensive security and personal emergency solutions through an easy-to-use app for homes and small businesses.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/eyezon-logo.webp",
+  "websiteUrl": "https://www.eyezon.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": null,
+  "crunchbaseId": null,
+  "finderId": "eyezon",
+  "xId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 21,
+      "city": "תל אביב - יפו",
+      "lat": 32.0705297,
+      "lon": 34.7872761
+    }
+  ]
+}

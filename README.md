@@ -2,9 +2,11 @@
 
 Welcome! This project aims to help Israelis find hi-tech jobs near their homes, minimizing commute and wasted time. The map is hosted at [https://maphub.net/mluggy/techmap](https://maphub.net/mluggy/techmap) and is the work of [Michael Lugassy](https://www.linkedin.com/in/mluggy/).
 
+![Techmap](techmap.gif)
+
 ## Project Overview
 
-The main point-of-truth for this project is Rasham Havarot ([רשם החברות](https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8)). Only locally registered, non-violating companies are included.
+The main point-of-truth for this project is Rasham Havarot ([רשם החברות](https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8)). Please provide the current company number (ח.פ) whenever adding, updating or deleting your company. Note: only locally registered, non-violating companies are included in the final map.
 
 ## Adding, Updating, or Deleting Your Company
 
@@ -15,11 +17,11 @@ To contribute to this project by adding, updating, or deleting your company info
 1. **Fork the repository**: Click the "Fork" button on the top right of this page.
 2. **Clone your forked repository**: Open your terminal and run:
    ```bash
-   git clone https://github.com/yourusername/israeli-tech-companies-map.git
+   git clone https://github.com/yourusername/israeli-tech-companies-map.git```
 3. **Create a new branch** for your changes:
    ```bash
-   git checkout -b add-company
-4. Add or edit a company JSON file named after your company's ח.פ (e.g., 513674309.json) in the companies/ directory. Use the following template:
+   git checkout -b add-company```
+4. Add or edit a company JSON file named after your company's number (e.g., 513674309.json) in the companies/ directory. Use the following template:
    ```json
    {
   "name": "Acme",
@@ -42,7 +44,7 @@ To contribute to this project by adding, updating, or deleting your company info
       "lon": 34.77373112886606
     }
   ]
-}
+}```
 - **name:** The name of the company appearing on the map (avoid adding Ltd, Limited, or Company at the end).
 - **description:** The company's tagline or mission statement, preferably a one-liner with no superfluous adjectives and exaggerations.
 - **categoryId:** Should be picked from [categories.json.](categories.json)
@@ -56,10 +58,10 @@ To contribute to this project by adding, updating, or deleting your company info
 5. **Commit your changes:**
   ```bash
   git add .
-  git commit -m "Added/Updated company Acme"
+  git commit -m "Added/Updated company Acme"```
 6. **Push to your fork:**
    ```bash
-   git push origin add-company
+   git push origin add-company```
 7. **Create a pull request** on Github.
 
 ### Method 2: Submit an Issue
@@ -71,8 +73,8 @@ As a last resort, you can send me an [email.](mailto:mluggy@example.com?subject=
 ## License
 This project is licensed under the [Open Database License (ODbL) v1.0.](https://opendatacommons.org/licenses/odbl/1-0/) You are free to:
 
-- Share: Copy and redistribute the material in any medium or format.
-- Adapt: Remix, transform, and build upon the material for any purpose, even commercially.
+- **Share:** Copy and redistribute the material in any medium or format.
+- **Adapt:** Remix, transform, and build upon the material for any purpose, even commercially.
 
 However, you must attribute the original creator by crediting Michael Lugassy and providing a link to this project. If you modify or build upon the data, you must distribute your contributions under the same license as the original.
 

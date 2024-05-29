@@ -80,9 +80,9 @@ git push origin add-company
 
 You can also request an addition, update, or deletion through the repository's [Issues page.](https://github.com/mluggy/techmap/issues) Enter as many details as possible, and someone will pick it up for you, hopefully.
 
-### Method 3: Email
+### Method 3: Express (Paid) Listing
 
-As a last resort, you can send me an <a href="mailto:michael@lugassy.net?subject=Add/Update%20Company&body=Please%20provide%20the%20following%20details:%0A%0A- Company%20Name:%0A- Description:%0A- Category%20ID:%0A- Size:%0A- Logo%20File%20URL:%0A- Website%20URL:%0A- Careers%20URL:%0A- Is%20Hiring%20(True/False):%0A- LinkedIn%20ID:%0A- Crunchbase%20ID:%0A- Finder%20ID:%0A- Addresses:%0A%20%20- Street:%0A%20%20- House%20Number:%0A%20%20- City:%0A%20%20- Latitude%20(optional):%0A%20%20- Longitude%20(optional):">email.</a> Note that this is the least favorable option as I'm not always available.
+If you would like your listing to be added or updated promptly, I offer an express (paid) option for your convenience. <a href="https://mrng.to/0UqeX19y8t" target="_blank">After a small contribution,</a> I will personally reach out to you via email to confirm the details.
 
 ## License
 

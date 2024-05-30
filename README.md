@@ -1,6 +1,6 @@
 # Israeli Tech Companies Map
 
-Welcome! This project aims to help Israelis find hi-tech jobs near their homes, minimizing commute and wasted time. The map is hosted at <a href="https://maphub.net/mluggy/techmap" target="_blank">(https://maphub.net/mluggy/techmap).</a>
+Welcome! This project aims to help Israelis find hi-tech jobs near their homes, minimizing commute and wasted time. The map is hosted at <a href="https://maphub.net/mluggy/techmap" target="_blank">(https://maphub.net/mluggy/techmap)</a> and updates itself daily using this repo data.
 
 ![Techmap](techmap.gif)
 
@@ -10,19 +10,19 @@ The main point-of-truth for this project is <a href="https://ica.justice.gov.il/
 
 ## Adding, Updating, or Deleting Your Company
 
-To contribute to this project by adding, updating, or deleting your company information, you can use one of the following methods:
+Contribute to this project by adding, updating, or deleting any company information.
 
 ### Method 1: Fork and Clone (Recommended)
 
-1. **Fork the repository**: Click the "Fork" button on the top right of this page.
-2. **Clone your forked repository**: Open your terminal and run:
-   ````bash
-   git clone https://github.com/yourusername/techmap.git```
-   ````
+1. **Fork the repository**
+2. **Clone your forked repository:**
+   ```bash
+   git clone https://github.com/yourusername/techmap.git
+   ```
 3. **Create a new branch** for your changes:
-   ````bash
-   git checkout -b add-company```
-   ````
+   ```bash
+   git checkout -b add-company
+   ```
 4. Add or edit a company JSON file named after your company's number (e.g., 513674309.json) in the companies/ directory. Use the following template:
    ```json
    {
@@ -59,7 +59,7 @@ To contribute to this project by adding, updating, or deleting your company info
 - **careersUrl:** The company's careers/job page address.
 - **isHiring:** Should be true only if you're actively hiring.
 - **linkedinId, crunchbaseId, finderId and xId:** The company IDs (not full URLs) from <a href="https://www.linkedin.com/" target="_blank">LinkedIn,</a> <a href="https://www.crunchbase.com/" target="_blank">Crunchbase,</a> <a href="https://finder.startupnationcentral.org/" target="_blank">Startup Finder</a> and <a href="https://x.com" target="_blank">X/Twitter.</a>
-- **addresses:** Aמ array specifying one or more physical locations. Each object should contain at least city and preferably street and houseNumber. Our system will do geo mapping, but you can specify your own lat and lon.
+- **addresses:** Aמ array specifying one or more physical locations. Each object should contain at least city and preferably street and houseNumber. The map will do the geocoding automatically, or you can specify your own latitude and longitude.
 
 5. **Commit your changes:**
 
@@ -74,13 +74,13 @@ git commit -m "Added/Updated company Acme"
 git push origin add-company
 ```
 
-7. **Create a pull request** on Github.
+7. **Create a pull request**
 
 ### Method 2: Submit an Issue
 
-You can also request an addition, update, or deletion through the repository's [Issues page.](https://github.com/mluggy/techmap/issues) Enter as many details as possible, and someone will pick it up for you, hopefully.
+You can also request an addition, update, or deletion through the repository's [Issues page.](https://github.com/mluggy/techmap/issues) Enter as many details as possible, and someone will pick it up for you, eventually.
 
-### Method 3: Express (Paid) Listing
+### Method 3: Donate
 
 If you would like your listing to be added or updated promptly, I offer an express (paid) option for your convenience. <a href="https://mrng.to/0UqeX19y8t" target="_blank">After a small contribution,</a> I will personally reach out to you via email to confirm the details.
 
@@ -95,10 +95,10 @@ However, you must attribute the original creator by crediting Michael Lugassy an
 
 ## Acknowledgements
 
-Thank you to everyone who updates the map and helps with this project. Special thanks to those who provide comments and suggestions. I hope that this tool will be useful for job seekers and beneficial for the companies listed.
+Thank you to everyone who updates the map and helps with this project. Special thanks to those who provided comments and suggestions. I hope this tool proves useful for both job seekers and companies listed.
 
 Happy job hunting! ❤️
 
 Michael Lugassy
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/mluggy/) & [Twitter/X](https://x.com/mluggy)
+Follow me on <a href="https://www.linkedin.com/in/mluggy/" target="_blank">LinkedIn</a> & <a href="https://x.com/mluggy" target="_blank">X/Twitter.</a>

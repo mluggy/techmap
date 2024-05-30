@@ -5,19 +5,19 @@
   "size": "l",
   "logoFile": "logos/xm_cyber-logo.webp",
   "websiteUrl": "https://xmcyber.com/",
-  "careersUrl": null,
-  "isHiring": false,
+  "careersUrl": "https://xmcyber.com/job-listing/",
+  "isHiring": true,
   "linkedinId": "xm",
-  "crunchbaseId": null,
+  "crunchbaseId": "xm-cyber",
   "finderId": "xm",
   "xId": null,
   "addresses": [
     {
-      "street": "ספיר",
-      "houseNumber": 7,
-      "city": "הרצליה",
-      "lat": 32.1635565,
-      "lon": 34.811999
+      "street": "לאונרדו דה וינצי",
+      "houseNumber": 2,
+      "city": "תל אביב",
+      "lat": 32.070955,
+      "lon": 34.786063
     }
   ]
 }

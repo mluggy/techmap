@@ -1,0 +1,23 @@
+{
+  "name": "Yahoo! Israel",
+  "description": "Web services provider known for its search engine, email service, and expansive digital content, now partially Verizon Media Group.",
+  "categoryId": 8,
+  "size": "xl",
+  "logoFile": "logos/yahoo-logo.webp",
+  "websiteUrl": "https://www.yahoo.com/",
+  "careersUrl": "https://www.yahooinc.com/careers/",
+  "isHiring": true,
+  "linkedinId": "yahoo",
+  "crunchbaseId": "yahoo",
+  "finderId": "yahoo",
+  "xId": "Yahoo",
+  "addresses": [
+    {
+      "street": "זבוטינסקי",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08264076234969,
+      "lon": 34.80136522885679
+    }
+  ]
+}

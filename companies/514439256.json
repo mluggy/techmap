@@ -1,0 +1,23 @@
+{
+  "name": "Meta (formerly Facebook)",
+  "description": "Tech giant specializing in social media, virtual reality, and digital connectivity, aiming to build the metaverse and advance AI.",
+  "categoryId": 8,
+  "size": "xl",
+  "logoFile": "logos/meta-logo.webp",
+  "websiteUrl": "https://about.meta.com/",
+  "careersUrl": "https://www.metacareers.com/locations/tel-aviv/",
+  "isHiring": true,
+  "linkedinId": "meta",
+  "crunchbaseId": "meta",
+  "finderId": "facebook",
+  "xId": "Meta",
+  "addresses": [
+    {
+      "street": "רוטשילד",
+      "houseNumber": 22,
+      "city": "תל אביב - יפו",
+      "lat": 32.06291372487591,
+      "lon": 34.771462390317815
+    }
+  ]
+}

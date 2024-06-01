@@ -1,0 +1,23 @@
+{
+  "name": "Verint",
+  "description": "Customer engagement solutions, offering advanced analytics and AI-driven tools to enhance customer experience and operational efficiency.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/verint-logo.webp",
+  "websiteUrl": "https://www.verint.com/",
+  "careersUrl": "https://www.verint.com/careers/",
+  "isHiring": true,
+  "linkedinId": "verint",
+  "crunchbaseId": "verint",
+  "finderId": "verint-systems",
+  "xId": "Verint",
+  "addresses": [
+    {
+      "street": "אריה שנקר",
+      "houseNumber": 5,
+      "city": "הרצליה",
+      "lat": 32.15971732287243,
+      "lon": 34.80953813173687
+    }
+  ]
+}

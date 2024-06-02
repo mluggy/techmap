@@ -1,0 +1,23 @@
+{
+    "name": "iCount",
+    "description": "Accounting, billing, time management and more for small-medium businesses.",
+    "categoryId": 10,
+    "size": "s",
+    "logoFile": "logos/icount_logo.webp",
+    "websiteUrl": "https://www.icount.co.il/",
+    "careersUrl": "https://www.icount.co.il/careers/",
+    "isHiring": true,
+    "linkedinId": "icount---",
+    "crunchbaseId": "icount-systems",
+    "finderId": null,
+    "xId": null,
+    "addresses": [
+      {
+        "street": "תוצרת הארץ",
+        "houseNumber": 3,
+        "city": "פתח תקווה",
+        "lat": 32.090640,
+        "lon": 34.861154
+      }
+    ]
+  }

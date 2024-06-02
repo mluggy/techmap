@@ -1,23 +1,23 @@
 {
-  "name": "Iguazio Systems",
-  "description": "A platform that automates machine learning pipelines to turn AI projects into tangible business results.",
+  "name": "Iguazio (acquired by McKinsey)",
+  "description": "A platform that enables development, deployment and management of AI and Gen AI projects at scale to generate real business impact in the enterprise.",
   "categoryId": 1,
   "size": "m",
   "logoFile": "logos/iguazio_systems-logo.webp",
   "websiteUrl": "https://www.iguazio.com/",
   "careersUrl": "https://www.iguazio.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "iguazio",
   "crunchbaseId": "iguaz-io",
   "finderId": "iguaz-io",
   "xId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
-      "houseNumber": 5,
+      "houseNumber": 18,
       "city": "הרצליה",
-      "lat": 32.1596535,
-      "lon": 34.8097186
+      "lat": null,
+      "lon": null
     }
   ]
 }

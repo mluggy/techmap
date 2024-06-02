@@ -5,11 +5,19 @@
   "size": "l",
   "logoFile": "logos/seatgeek_israel-logo.webp",
   "websiteUrl": "https://seatgeek.com/",
-  "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
-  "crunchbaseId": null,
+  "careersUrl": "https://seatgeek.com/jobs",
+  "isHiring": true,
+  "linkedinId": "seatgeek",
+  "crunchbaseId": "seatgeek",
   "finderId": "seatgeek",
-  "xId": null,
-  "addresses": []
+  "xId": "seatgeek",
+  "addresses": [{
+    {
+      "street": "הדולב",
+      "houseNumber": 3,
+      "city": "פארק תעשיות בר-לב",
+      "lat": 32.90630540972388,
+      "lon": 35.18817842372995
+    }
+  }]
 }

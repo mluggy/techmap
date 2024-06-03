@@ -11,7 +11,7 @@
   "crunchbaseId": "seatgeek",
   "finderId": "seatgeek",
   "xId": "seatgeek",
-  "addresses": [{
+  "addresses": [
     {
       "street": "הדולב",
       "houseNumber": 3,
@@ -19,5 +19,5 @@
       "lat": 32.90630540972388,
       "lon": 35.18817842372995
     }
-  }]
+  ]
 }

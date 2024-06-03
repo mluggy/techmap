@@ -2,22 +2,22 @@
   "name": "Align Technology",
   "description": "A global innovator in orthodontic and restorative treatment, revolutionizing smiles with the advanced Invisalign® clear aligner system.",
   "categoryId": 12,
-  "size": "l",
+  "size": "xl",
   "logoFile": "logos/align_technology-logo.webp",
   "websiteUrl": "https://www.aligntech.com/",
   "careersUrl": "https://jobs.aligntech.com/careers",
   "isHiring": true,
-  "linkedinId": null,
-  "crunchbaseId": null,
+  "linkedinId": "align-technology",
+  "crunchbaseId": "align-technology",
   "finderId": "align-technology",
-  "xId": null,
+  "xId": "AlignTechInc",
   "addresses": [
     {
       "street": "דרך יצחק רבין",
       "houseNumber": 1,
       "city": "פתח תקווה",
-      "lat": 32.2101852,
-      "lon": 34.9650933
+      "lat": 32.09047487830811,
+      "lon": 34.861837986563515
     }
   ]
 }

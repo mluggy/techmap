@@ -7,17 +7,17 @@
   "websiteUrl": "https://www.sweet.security/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
-  "crunchbaseId": null,
+  "linkedinId": "sweet-security",
+  "crunchbaseId": "sweet-security",
   "finderId": "sweet-security",
-  "xId": null,
+  "xId": "Sweet_cloud_sec",
   "addresses": [
     {
-      "street": "בית השואבה",
-      "houseNumber": 5,
-      "city": "רעננה",
-      "lat": 32.1834749,
-      "lon": 34.8566861
+      "street": "המסגר",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.06539024960552,
+      "lon": 34.78529946872073
     }
   ]
 }

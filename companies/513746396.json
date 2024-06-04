@@ -1,16 +1,16 @@
 {
   "name": "Seeking Alpha",
-  "description": "Join the world's largest investing community for market news, analysis, and portfolio tools.",
+  "description": "World's largest investing community for market news, analysis, and portfolio tools.",
   "categoryId": 8,
   "size": "l",
   "logoFile": "logos/seeking_alpha-logo.webp",
   "websiteUrl": "https://seekingalpha.com/",
-  "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "careersUrl": "https://jobs.seekingalpha.com/",
+  "isHiring": true,
+  "linkedinId": "seeking-alpha",
   "crunchbaseId": null,
   "finderId": "seeking-alpha",
-  "xId": null,
+  "xId": "SeekingAlpha",
   "addresses": [
     {
       "street": "הנשיאים",

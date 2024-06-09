@@ -1,23 +1,23 @@
 {
-  "name": "Recolabs",
-  "description": "An innovative R&D team crafting advanced data engineering solutions and sharing development insights through their blog.",
-  "categoryId": 1,
+  "name": "Reco",
+  "description": "Discovers, controls, and protects the entire SaaS environment, no agent required.",
+  "categoryId": 7,
   "size": "m",
   "logoFile": "logos/recolabs-logo.webp",
-  "websiteUrl": "https://recolabs.dev/",
-  "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
-  "crunchbaseId": null,
+  "websiteUrl": "https://www.reco.ai/",
+  "careersUrl": "https://www.reco.ai/careers",
+  "isHiring": true,
+  "linkedinId": "recolabs",
+  "crunchbaseId": "reco-67bb",
   "finderId": "recolabs",
-  "xId": null,
+  "xId": "recolabs_ai",
   "addresses": [
     {
-      "street": "שד' בן ציון",
-      "houseNumber": 5,
+      "street": "יהודה הלוי",
+      "houseNumber": 106,
       "city": "תל אביב - יפו",
-      "lat": 32.0737468,
-      "lon": 34.7763271
+      "lat": 32.07043964665099,
+      "lon": 34.78168796029804
     }
   ]
 }

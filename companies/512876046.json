@@ -1,5 +1,5 @@
 {
-  "name": "Browzwear International",
+  "name": "Browzwear",
   "description": "The company provides premier 3D software solutions for fashion design, development, and merchandising in the apparel industry.",
   "categoryId": 4,
   "size": "l",
@@ -8,16 +8,16 @@
   "careersUrl": "https://browzwear.com/careers",
   "isHiring": true,
   "linkedinId": "browzwear",
-  "crunchbaseId": null,
+  "crunchbaseId": "browzwear",
   "finderId": "browzwear",
-  "xId": null,
+  "xId": "browzwear",
   "addresses": [
     {
-      "street": "הרקפת",
+      "street": "הנגר",
       "houseNumber": 6,
-      "city": "תל מונד",
-      "lat": 32.2504797,
-      "lon": 34.9182373
+      "city": "הוד השרון",
+      "lat": 32.1303183989958,
+      "lon": 34.892814
     }
   ]
 }

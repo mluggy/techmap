@@ -1,0 +1,23 @@
+{
+  "name": "F5 Networks",
+  "description": "A multi-cloud application services and security company optimizing and securing apps and APIs across on-premises, cloud, and edge environments.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/f5-logo.webp",
+  "websiteUrl": "https://www.f5.com/",
+  "careersUrl": "https://www.f5.com/company/careers/",
+  "isHiring": true,
+  "linkedinId": "f5",
+  "crunchbaseId": "f5-networks",
+  "finderId": "f5",
+  "xId": "f5networks",
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 21,
+      "city": "רמת גן",
+      "lat": 32.086401485076756,
+      "lon": 34.80462284403944
+    }
+  ]
+}

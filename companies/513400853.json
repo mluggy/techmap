@@ -1,23 +1,23 @@
 {
-    "name": "Tikal",
-    "description": "Tikal provides expert services to hi-tech companies to make tech impact on their product",
-    "categoryId": null,
-    "size": "l",
-    "logoFile": "logos/tikal.png",
-    "websiteUrl": "https://tikalk.com/",
-    "careersUrl": "https://tikalk.com/career/",
-    "isHiring": true,
-    "linkedinId": "tikal-knowledge",
-    "crunchbaseId": null,
-    "finderId": null,
-    "xId": null,
-    "addresses": [
-      {
-        "street": "יונה קרמניצקי",
-        "houseNumber": 6,
-        "city": "תל אביב",
-        "lat": 32.06673843046041, 
-        "lon": 34.79429081958143
-      }
-    ]
-  }
+  "name": "Tikal",
+  "description": "Tikal provides expert services to hi-tech companies to make tech impact on their product",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/tikal_knowledge-logo.webp",
+  "websiteUrl": "https://tikalk.com/",
+  "careersUrl": "https://tikalk.com/career/",
+  "isHiring": true,
+  "linkedinId": "tikal-knowledge",
+  "crunchbaseId": null,
+  "finderId": null,
+  "xId": null,
+  "addresses": [
+    {
+      "street": "יונה קרמניצקי",
+      "houseNumber": 6,
+      "city": "תל אביב",
+      "lat": 32.06673843046041,
+      "lon": 34.79429081958143
+    }
+  ]
+}

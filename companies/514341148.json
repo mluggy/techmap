@@ -1,5 +1,5 @@
 {
-  "name": "Vocalzoom Systems",
+  "name": "VocalZoom",
   "description": "Revolutionize manufacturing efficiency, performance, and quality with intuitive smart sensor solutions.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "vocalzoom",
   "finderId": "vocalzoom",
-  "xId": null,
+  "xId": "vocalzoom",
   "addresses": [
     {
       "street": "בית ראשון במולדת",
@@ -19,5 +19,6 @@
       "lat": 32.59733706118241,
       "lon": 35.05676062327632
     }
-  ]
+  ],
+  "isMultinational": false
 }

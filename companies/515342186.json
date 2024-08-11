@@ -1,5 +1,5 @@
 {
-  "name": "Pentera Security",
+  "name": "Pentera",
   "description": "Automating security validation to ensure up-to-date protection against evolving cyber threats.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "penterasecurity",
   "crunchbaseId": null,
   "finderId": "pentera",
-  "xId": null,
+  "xId": "penterasec",
   "addresses": [
     {
       "street": "דרך אם המושבות",
@@ -19,5 +19,9 @@
       "lat": 32.1005635,
       "lon": 34.8495503
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Penterasec",
+  "linkedinNum": 18445647,
+  "comeetId": "pentera/C5.00D"
 }

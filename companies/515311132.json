@@ -1,10 +1,10 @@
 {
-  "name": "Mobicar App",
-  "description": "Providing comprehensive remote diagnostics, ECU upgrades, and fraud detection for vehicle manufacturers.",
+  "name": "Mobicar",
+  "description": "Road Services App",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/mobicar_app-logo.webp",
-  "websiteUrl": "https://mobicar.ca/",
+  "websiteUrl": "https://www.mobicar.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "mobicar-co",
@@ -19,5 +19,7 @@
       "lat": 32.0623169,
       "lon": 34.8684135
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mobicar.co.il"
 }

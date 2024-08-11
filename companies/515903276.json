@@ -1,10 +1,10 @@
 {
-  "name": "Open Dna",
-  "description": "Effortlessly set up and protect your home network with cloud-delivered enterprise security, guided by user-friendly resources.",
-  "categoryId": 7,
+  "name": "OpenDNA",
+  "description": "Using Precision Genomic AI to Predict and Prevent Heart Disease",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/open_dna-logo.webp",
-  "websiteUrl": "https://www.opendns.com/",
+  "websiteUrl": "https://open-dna.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "open-dna",
@@ -19,5 +19,7 @@
       "lat": 32.78785285,
       "lon": 34.96565267465318
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75003430
 }

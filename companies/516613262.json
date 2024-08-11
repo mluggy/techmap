@@ -1,5 +1,5 @@
 {
-  "name": "Ovio Bakery",
+  "name": "Ovio",
   "description": "A platform enabling users to complete missions and earn rewards with high conversion rates and reduced media costs, requiring no tech integration for partners and offering the highest return on ad spend for user acquisition managers.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ovio",
-  "xId": null,
+  "xId": "ovioGG",
   "addresses": [
     {
       "street": "אנילביץ",
@@ -19,5 +19,8 @@
       "lat": 32.0796354,
       "lon": 34.8290515
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "oviogg",
+  "linkedinNum": 74541993
 }

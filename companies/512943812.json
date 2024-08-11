@@ -1,10 +1,10 @@
 {
-  "name": "Makesense",
-  "description": "Boost productivity with AI-driven tools for image annotation and data analysis.",
-  "categoryId": 1,
+  "name": "MakeSense",
+  "description": "AI-based Technology for Measuring Nutritional Values of Meals",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/makesense-logo.webp",
-  "websiteUrl": "https://www.makesense.ai/",
+  "websiteUrl": "https://www.makesensedht.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.060419,
       "lon": 34.774454
     }
-  ]
+  ],
+  "isMultinational": false
 }

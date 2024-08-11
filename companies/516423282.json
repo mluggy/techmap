@@ -1,0 +1,26 @@
+{
+  "name": "FlyCode",
+  "description": "AI-based Payment Management Solution for Subscription Revenue",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/flycode.webp",
+  "websiteUrl": "https://www.flycode.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "flycodehq",
+  "linkedinNum": 74525421,
+  "crunchbaseId": null,
+  "finderId": "flycode",
+  "xId": "FlycodeHQ",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 146,
+      "city": "תל אביב - יפו",
+      "lat": 32.078531783590485,
+      "lon": 34.79428755414076
+    }
+  ],
+  "isMultinational": false
+}

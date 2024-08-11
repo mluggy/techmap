@@ -1,5 +1,5 @@
 {
-  "name": "Consolto Sites",
+  "name": "Consolto",
   "description": "Facilitate real-time video chats to quickly engage and convert website visitors using a simple, all-in-one tool for customer interactions.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "consolto",
-  "xId": null,
+  "xId": "ConsoltoTweet",
   "addresses": [
     {
       "street": "עמק השלום",
@@ -19,5 +19,8 @@
       "lat": 32.6435148,
       "lon": 35.0935658
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ConsoltoPage",
+  "linkedinNum": 28613630
 }

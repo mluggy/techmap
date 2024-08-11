@@ -1,5 +1,5 @@
 {
-  "name": "270 Surgical",
+  "name": "270Surgical",
   "description": "Specializing in clinical trials, this consultant has extensive experience across numerous therapeutic areas such as endoscopy, diabetes, and heart failure.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "270surgical",
   "crunchbaseId": null,
   "finderId": "mitos-medical",
-  "xId": null,
+  "xId": "270Surgical",
   "addresses": [
     {
       "street": "רגב אריה",
@@ -19,5 +19,7 @@
       "lat": 32.2807699,
       "lon": 34.8627324
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12611453
 }

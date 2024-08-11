@@ -1,23 +1,25 @@
 {
-  "name": "Dreamed Diabetes",
-  "description": "Their FDA-cleared technology empowers any healthcare provider with expert-level treatment recommendations.",
+  "name": "DreaMed Diabetes",
+  "description": "Personalized Diabetes Treatment Optimization Solutions",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/dreamed_diabetes-logo.webp",
-  "websiteUrl": "https://dreamed.ai/",
+  "logoFile": "logos/dreamed-diabetes.webp",
+  "websiteUrl": "https://www.dreamed-diabetes.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinNum": 5220173,
   "crunchbaseId": null,
   "finderId": "dreamed-diabetes",
-  "xId": null,
+  "xId": "dreameddiabetes",
+  "facebookId": "pages",
   "addresses": [
     {
       "street": "קפלן אליעזר",
       "houseNumber": 14,
       "city": "פתח תקווה",
-      "lat": 32.08807786208864,
-      "lon": 34.867806176811726
+      "lat": 32.08809494137463,
+      "lon": 34.86780635660082
     }
-  ]
+  ],
+  "isMultinational": false
 }

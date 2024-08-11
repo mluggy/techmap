@@ -1,0 +1,25 @@
+{
+  "name": "Conntour",
+  "description": "AI-driven Software for Search & Analysis of Security Camera Footage",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/conntour.webp",
+  "websiteUrl": "https://www.conntour.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "conntour",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "נחלת בנימין",
+      "houseNumber": 3,
+      "city": "תל אביב - יפו",
+      "lat": 32.0694299255858,
+      "lon": 34.770311038720656
+    }
+  ],
+  "isMultinational": false
+}

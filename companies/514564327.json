@@ -1,16 +1,16 @@
 {
   "name": "Redis",
-  "description": "Developers love Redis. Unlock the full potential of the Redis database with Redis Enterprise and start building blazing fast apps.",
-  "categoryId": 6,
+  "description": "Real-time Data Platform",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/redis-logo.webp",
-  "websiteUrl": "https://redis.io/",
+  "websiteUrl": "https://redis.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "redis-labs",
-  "xId": null,
+  "xId": "redislabs",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RedisLabs",
+  "linkedinNum": 2014725
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "zimperium",
-  "xId": null,
+  "xId": "zimperium",
   "addresses": [
     {
       "street": "הרקפת",
@@ -19,5 +19,8 @@
       "lat": 32.3170564,
       "lon": 34.9449696
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZIMPERIUMINC",
+  "linkedinNum": 1630757
 }

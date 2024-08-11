@@ -1,5 +1,5 @@
 {
-  "name": "Acumen Labs",
+  "name": "Acumen.io",
   "description": "Accumen's Lab consulting and Clinical transformation help Health Systems respond to complex challenges & thrive in today's environment.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "acumen-labs",
   "crunchbaseId": "acumen-labs",
   "finderId": "acumen-labs",
-  "xId": null,
+  "xId": "AcumenLabs",
   "addresses": [
     {
       "street": "תושיה",
@@ -19,5 +19,8 @@
       "lat": 32.066664,
       "lon": 34.788182
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AcumenEngineering",
+  "linkedinNum": 20100529
 }

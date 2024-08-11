@@ -1,16 +1,16 @@
 {
   "name": "Tigi",
-  "description": "פיתוח חדשני של קולטי שמש מבודדים שקופים לשימושי חום תעשייתיים, המפחיתים איבודי אנרגיה ומשפרים את היעילות בטמפרטורות 65°-95°C.",
+  "description": "Solar Thermal Energy Solutions for Heat Generation and Storage",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/tigi-logo.webp",
-  "websiteUrl": "https://www.tigi.co.il/",
+  "websiteUrl": "https://www.tigisolar.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tigi",
-  "xId": null,
+  "xId": "tigi_solar",
   "addresses": [
     {
       "street": "המכונאי",
@@ -19,5 +19,7 @@
       "lat": 32.1324189231844,
       "lon": 34.893626191801296
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 740334
 }

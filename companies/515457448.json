@@ -1,16 +1,16 @@
 {
-  "name": "Fillip Sharing Economy",
-  "description": "A Vancouver-based publisher founded in 2004 to foster critical discussions on contemporary art.",
-  "categoryId": 8,
+  "name": "Fillip",
+  "description": "Crowdsourced Job Recruitment",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/fillip_sharing_economy-logo.webp",
-  "websiteUrl": "https://fillip.ca/",
+  "websiteUrl": "https://www.fillip.co",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fillip",
-  "xId": null,
+  "xId": "FillipApp",
   "addresses": [
     {
       "street": "הרעות",
@@ -19,5 +19,8 @@
       "lat": 31.806645913651433,
       "lon": 35.08113696120877
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Fillip.co",
+  "linkedinNum": 9475029
 }

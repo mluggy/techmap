@@ -1,13 +1,13 @@
 {
   "name": "Nominal",
-  "description": "A collaboration offering elegantly designed jewelry pieces featuring necklaces and hoop earrings with a distinctive crescent motif.",
-  "categoryId": 9,
+  "description": "Financial Operating System for Enterprises",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/nominal-logo.webp",
-  "websiteUrl": "https://nominalx.com/",
+  "websiteUrl": "https://nominal.so/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nominalinc",
   "crunchbaseId": null,
   "finderId": "nominal",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 31.98279945,
       "lon": 34.80378075
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 93632044,
+  "comeetId": "nominal/E8.003"
 }

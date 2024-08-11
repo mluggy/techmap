@@ -1,5 +1,5 @@
 {
-  "name": "Zerobillbank",
+  "name": "ZEROBILLBANK",
   "description": "This company develops and offers an advanced data management platform utilizing cloud, IoT, and blockchain technologies to enhance privacy governance and address data management challenges in collaborative environments.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "zerobillbank",
   "finderId": "zerobillbank",
-  "xId": null,
+  "xId": "zerobillbank",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "zerobillbank"
 }

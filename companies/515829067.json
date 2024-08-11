@@ -1,16 +1,16 @@
 {
-  "name": "Watchful Technologies",
-  "description": "An AI accelerator that enhances NLP and Large Language Models through rapid, automated, data-centric workflows for better model training and fine-tuning.",
-  "categoryId": 1,
+  "name": "Watchful",
+  "description": "Competitive Data Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/watchful_technologies-logo.webp",
-  "websiteUrl": "https://www.watchful.io/",
+  "websiteUrl": "https://www.watchful.ai/",
   "careersUrl": "https://www.watchful.io/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "watchful-technologies",
-  "xId": null,
+  "xId": "WatchfulAi",
   "addresses": [
     {
       "street": "גיבורי ישראל",
@@ -19,5 +19,7 @@
       "lat": 32.2787263,
       "lon": 34.8610014
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 28598834
 }

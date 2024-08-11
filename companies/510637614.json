@@ -1,16 +1,16 @@
 {
   "name": "Visonic",
-  "description": "Providing advanced security solutions leveraging cellular and IP networks through comprehensive CMS, mobile app, and communication technologies.",
+  "description": "Home Security Systems",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/visonic-logo.webp",
-  "websiteUrl": "https://catalog.visonic.com/",
+  "websiteUrl": "https://www.visonic.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "visonic",
-  "xId": null,
+  "xId": "VisonicTech",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1976788,
       "lon": 34.8811941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Visonic-1809180055806792",
+  "linkedinNum": 166816
 }

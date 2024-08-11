@@ -1,5 +1,5 @@
 {
-  "name": "Globekeeper Tech",
+  "name": "GlobeKeeper",
   "description": "Unified platform for operational teams to oversee, coordinate, and document all activities seamlessly.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "globekeeper",
   "crunchbaseId": "globekeeper",
   "finderId": "globekeeper",
-  "xId": null,
+  "xId": "globekeeper",
   "addresses": [
     {
       "street": "לבנון חיים",
@@ -19,5 +19,8 @@
       "lat": 32.1203825,
       "lon": 34.8021072
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "globekeeperofficial",
+  "linkedinNum": 6599304
 }

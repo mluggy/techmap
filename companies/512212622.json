@@ -1,10 +1,10 @@
 {
   "name": "Artisan Sonics",
-  "description": "They offer an integrated OBGYN workstation that merges ultrasound imaging with examination data for optimal management.",
+  "description": "Workflow Optimization for OB-GYN Sonographers",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/artisan_sonics_ltd-logo.webp",
-  "websiteUrl": "https://link.artisansonics.com/",
+  "websiteUrl": "https://artisansonics.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "artisan-sonics",
@@ -19,5 +19,8 @@
       "lat": 32.16238825,
       "lon": 34.90227674398078
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "artisansonics",
+  "linkedinNum": 9333862
 }

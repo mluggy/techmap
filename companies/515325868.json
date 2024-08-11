@@ -1,5 +1,5 @@
 {
-  "name": "Intezer Labs",
+  "name": "Intezer",
   "description": "A platform that autonomously analyzes, reverse engineers, and investigates every security alert with expert-level precision.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "intezer-labs",
   "crunchbaseId": null,
   "finderId": "intezer",
-  "xId": null,
+  "xId": "intezerlabs",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.064232399999995,
       "lon": 34.77442479088546
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "IntezerLabs",
+  "linkedinNum": 10656303
 }

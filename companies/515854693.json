@@ -1,10 +1,10 @@
 {
-  "name": "Cheetahlabs Haifa",
-  "description": "Developing and controlling advanced robotic systems inspired by biological principles.",
-  "categoryId": 15,
+  "name": "Cheetah Labs",
+  "description": "Real-time Urban Labs",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/cheetahlabs_haifa-logo.webp",
-  "websiteUrl": "https://biomimetics.mit.edu/",
+  "websiteUrl": "https://cheetah-labs.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.8149496,
       "lon": 35.0000688
     }
-  ]
+  ],
+  "isMultinational": false
 }

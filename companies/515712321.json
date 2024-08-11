@@ -1,15 +1,18 @@
 {
-  "name": "Egm 18 At Razpol Group",
-  "description": "A gaming-focused media outlet offering reviews and features across multiple platforms including Nintendo, PC, PlayStation, Xbox, and retro gaming.",
-  "categoryId": 11,
+  "name": "EGM",
+  "description": "Electrical Grid Monitoring and Managing Tool",
+  "categoryId": 17,
   "size": "l",
   "logoFile": "logos/egm_18_at_razpol_group-logo.webp",
-  "websiteUrl": "https://egmnow.com/",
+  "websiteUrl": "https://egm.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "egm",
-  "xId": null,
-  "addresses": []
+  "xId": "EGridMonitoring",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "ElectricalGridMonitoring",
+  "linkedinNum": 35651814
 }

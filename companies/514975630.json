@@ -1,5 +1,5 @@
 {
-  "name": "Sparkbeyond",
+  "name": "SparkBeyond",
   "description": "We prioritize ethical decision-making to turn complex analytics into clear solutions.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sparkbeyond",
-  "xId": null,
+  "xId": "sparkbeyond",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2773544,
       "lon": 34.8584354
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sparkbeyond",
+  "linkedinNum": 3620726
 }

@@ -1,10 +1,10 @@
 {
   "name": "Nuel Advanced Technologies",
-  "description": "Additive that lowers fuel emissions.",
-  "categoryId": 17,
+  "description": "Green fuels",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/nuel_advanced_technologies-logo.webp",
-  "websiteUrl": "http://nuelcorp.com/",
+  "websiteUrl": "https://nuel.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "nuel-advanced-technologies-ltd",
@@ -19,5 +19,7 @@
       "lat": 31.9529814,
       "lon": 34.8263216
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Nueladvancedtech"
 }

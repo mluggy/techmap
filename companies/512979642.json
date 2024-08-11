@@ -1,5 +1,5 @@
 {
-  "name": "Voice Sense",
+  "name": "VoiceSense",
   "description": "Utilizing advanced speech analytics and AI, the company predicts behaviors by analyzing the prosody of voice patterns.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "voicesense",
   "crunchbaseId": null,
   "finderId": "voicesense",
-  "xId": null,
+  "xId": "Voice_Sense",
   "addresses": [
     {
       "street": "שמעון הצדיק",
@@ -19,5 +19,8 @@
       "lat": 32.05454,
       "lon": 34.757943
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Voicesense-1990302097897400",
+  "linkedinNum": 18399267
 }

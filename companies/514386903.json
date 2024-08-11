@@ -1,16 +1,16 @@
 {
   "name": "Windward",
-  "description": "A pioneering intelligence firm utilizing AI and maritime know-how to digitalize and provide real-time insights for the global seafaring industry.",
-  "categoryId": 1,
+  "description": "Predictive Maritime Intelligence",
+  "categoryId": 5,
   "size": "m",
   "logoFile": "logos/windward-logo.webp",
-  "websiteUrl": "https://investors.windward.ai/",
+  "websiteUrl": "https://windward.ai/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "windward-ltd-",
   "crunchbaseId": null,
   "finderId": "windward-ltd",
-  "xId": null,
+  "xId": "WindwardAI",
   "addresses": [
     {
       "street": "השלושה",
@@ -19,5 +19,9 @@
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WindwardAI",
+  "linkedinNum": 2680190,
+  "comeetId": "windward/31.002"
 }

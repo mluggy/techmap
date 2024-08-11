@@ -1,5 +1,5 @@
 {
-  "name": "Xjet",
+  "name": "XJet",
   "description": "Offers advanced 3D printing solutions featuring an end-to-end ecosystem and innovative NanoParticle Jetting technology for precise metal and ceramic parts.",
   "categoryId": 15,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "xjet-ltd",
-  "xId": null,
+  "xId": "XJet_3d",
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -19,5 +19,7 @@
       "lat": 31.9104321,
       "lon": 34.8058374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1482058
 }

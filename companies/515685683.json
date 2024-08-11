@@ -1,5 +1,5 @@
 {
-  "name": "Salaryo Credit",
+  "name": "Salaryo",
   "description": "Providing fast, flexible financing solutions tailored for small businesses.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "salaryo",
   "crunchbaseId": "salaryo",
   "finderId": "salaryo",
-  "xId": null,
+  "xId": "salaryo_",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,7 @@
       "lat": 32.064386823167006,
       "lon": 34.77461660359986
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17941527
 }

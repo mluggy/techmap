@@ -1,5 +1,5 @@
 {
-  "name": "Waze Mobile",
+  "name": "Waze",
   "description": "Receive the most efficient route to your destination with real-time guidance from live traffic updates shared by other drivers.",
   "categoryId": 5,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "waze",
-  "xId": null,
+  "xId": "waze",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0700073,
       "lon": 34.794193699999994
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Waze",
+  "linkedinNum": 379681
 }

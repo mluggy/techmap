@@ -1,5 +1,5 @@
 {
-  "name": "Darrow AI",
+  "name": "Darrow",
   "description": "Linking you to high-impact cases efficiently, saving time and letting you focus on your legal expertise.",
   "categoryId": 1,
   "size": "m",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.darrow.ai/",
   "careersUrl": "https://www.darrow.ai/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "darrow-ai",
   "crunchbaseId": null,
   "finderId": "darrow",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.065253,
       "lon": 34.785664
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67191532
 }

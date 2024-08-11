@@ -1,10 +1,10 @@
 {
   "name": "Tonomy",
-  "description": "A Dutch non-profit focused on developing secure, open-source web3 and SSI technologies to foster thriving ecosystems.",
-  "categoryId": 10,
+  "description": "Home Tonometer to Reduce the Risk of Glaucoma",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/tonomy-logo.webp",
-  "websiteUrl": "https://tonomy.foundation/",
+  "websiteUrl": "https://www.tonomy-iop.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.78785285,
       "lon": 34.96565267465318
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 28653333
 }

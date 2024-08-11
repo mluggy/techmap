@@ -1,16 +1,16 @@
 {
-  "name": "Kala Biliana",
-  "description": "Providing a classical guitar experience with trusted quality at an affordable price point.",
-  "categoryId": 9,
+  "name": "Kala",
+  "description": "Marketing-driven Website Creation",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/kala_biliana-logo.webp",
-  "websiteUrl": "https://kalabrand.com/",
+  "websiteUrl": "https://kala.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "kala",
-  "xId": null,
+  "xId": "KalaPlatform",
   "addresses": [
     {
       "street": "נתניהו יהונתן",
@@ -19,5 +19,8 @@
       "lat": 32.0219296,
       "lon": 34.8566055
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Kala.marketing.driven.website.manager",
+  "linkedinNum": 3174973
 }

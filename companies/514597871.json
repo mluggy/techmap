@@ -1,0 +1,25 @@
+{
+  "name": "Atmor",
+  "description": "Tankless Electric Water Heaters",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/atmor.webp",
+  "websiteUrl": "https://www.atmor.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "atmor",
+  "xId": null,
+  "facebookId": "atmor.co.il",
+  "addresses": [
+    {
+      "street": "הסדנא",
+      "houseNumber": 6,
+      "city": "כפר סבא",
+      "lat": 32.17181159809772,
+      "lon": 34.926411867826495
+    }
+  ],
+  "isMultinational": false
+}

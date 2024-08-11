@@ -1,10 +1,10 @@
 {
-  "name": "Control Applications C A",
-  "description": "Systems for Measuring and Tracking Electrical Usage.",
-  "categoryId": 13,
+  "name": "Control Applications",
+  "description": "Electrical Metering and Monitoring Systems",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/control_applications_c_a-logo.webp",
-  "websiteUrl": "https://www.controlapplications.co.uk/",
+  "websiteUrl": "https://www.elnet-meter.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "control-applications",
@@ -19,5 +19,7 @@
       "lat": 32.106471,
       "lon": 34.835657
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ElnetCA"
 }

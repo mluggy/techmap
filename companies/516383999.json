@@ -1,10 +1,10 @@
 {
   "name": "Genoxy",
-  "description": "Eco-friendly, safe technology designed to eradicate antibiotic-resistant bacteria from surfaces.",
-  "categoryId": 17,
+  "description": "Natural, Nontoxic Technology for Eliminating Antibiotic Resistant Bacteria from Surfaces",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/genoxy-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.genoxymed.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "genoxy",
@@ -19,5 +19,7 @@
       "lat": 32.9944774,
       "lon": 35.6902499
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71693362
 }

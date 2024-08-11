@@ -1,10 +1,10 @@
 {
   "name": "Exom",
-  "description": "A global leader in the fuels, lubricants, and chemicals industry, leveraging extensive resources and a highly integrated operating model with pioneering scientific research.",
-  "categoryId": 17,
+  "description": "Protective Habitats for Lunar and Martian Environments",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/exom-logo.webp",
-  "websiteUrl": "https://corporate.exxonmobil.com/",
+  "websiteUrl": "https://exom.space/",
   "careersUrl": "https://corporate.exxonmobil.com/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.088014,
       "lon": 34.794807
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PCM-Space-104835315412622",
+  "linkedinNum": 77664120
 }

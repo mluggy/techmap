@@ -1,16 +1,16 @@
 {
-  "name": "Jones Entrepreneurship",
-  "description": "A uniquely-packaged, premium craft soda made with pure cane sugar.",
-  "categoryId": 9,
+  "name": "Jones",
+  "description": "Certificate of Insurance Tracking Software",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/jones_entrepreneurship-logo.webp",
-  "websiteUrl": "https://www.jonessoda.com/",
+  "websiteUrl": "https://getjones.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "jones",
-  "xId": null,
+  "xId": "usejones",
   "addresses": [
     {
       "street": "מעלה השחרור",
@@ -19,5 +19,8 @@
       "lat": 32.8149496,
       "lon": 35.0000688
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "JonesSoftware",
+  "linkedinNum": 11148063
 }

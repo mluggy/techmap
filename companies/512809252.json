@@ -1,10 +1,10 @@
 {
   "name": "Medintec",
-  "description": "Provides technical consulting, training, and support services in industrial and legal metrology, and maintenance management for both industrial and healthcare sectors.",
-  "categoryId": 12,
+  "description": "Insurance Claim Management Solution",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/medintec-logo.webp",
-  "websiteUrl": "https://medinntec.com.co/",
+  "websiteUrl": "https://www.medin-tec.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.09327955,
       "lon": 34.84894383304102
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17946072
 }

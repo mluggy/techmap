@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.tailorbrands.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tailor-brands",
   "crunchbaseId": null,
   "finderId": "tailor-brands",
-  "xId": null,
+  "xId": "tailorbrands",
   "addresses": [
     {
       "street": "אלנבי",
@@ -19,5 +19,8 @@
       "lat": 32.062766,
       "lon": 34.773452
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tailorbrands",
+  "linkedinNum": 5309961
 }

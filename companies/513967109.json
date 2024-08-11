@@ -1,10 +1,10 @@
 {
-  "name": "Sade Group Building And Developing",
-  "description": "Providing expert investment management, financial planning, and fiduciary services for 401k and 403b plans.",
-  "categoryId": 10,
+  "name": "Sade Group",
+  "description": "Cannabis-based Pharmaceutical Products",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/sade_group_building_and_developing-logo.webp",
-  "websiteUrl": "https://www.sadepwm.com/",
+  "websiteUrl": "https://www.sade.group/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.106598,
       "lon": 34.797414
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sade.biotech",
+  "linkedinNum": 35452848
 }

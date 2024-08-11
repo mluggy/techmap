@@ -1,16 +1,16 @@
 {
-  "name": "Intel Israel",
+  "name": "Intel",
   "description": "Leading global provider of critical technologies and products for the cloud and smart, connected environments.",
-  "categoryId": 16,
   "size": "l",
+  "categoryId": 16,
   "logoFile": "logos/intel_mobile_communications_israel-logo.webp",
-  "websiteUrl": "https://www.intc.com/",
+  "websiteUrl": "https://www.intel.com",
   "careersUrl": "https://www.intel.com/content/www/us/en/jobs/life-at-intel.html",
   "isHiring": true,
   "linkedinId": "intel-corporation",
   "crunchbaseId": null,
   "finderId": "intel",
-  "xId": null,
+  "xId": "intel",
   "addresses": [
     {
       "street": "השפלה",
@@ -54,5 +54,8 @@
       "lat": 31.7671619513762,
       "lon": 35.225780245274365
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "IntelIsrael",
+  "linkedinNum": 1053
 }

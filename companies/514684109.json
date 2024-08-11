@@ -1,5 +1,5 @@
 {
-  "name": "Jifiti Israel",
+  "name": "Jifiti",
   "description": "A company dedicated to excellence, creativity, flexibility, and punctuality in meeting business needs.",
   "categoryId": 9,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "jifiti",
   "crunchbaseId": "jifiti-com",
   "finderId": "jifiti",
-  "xId": null,
+  "xId": "JifitiPayments",
   "addresses": [
     {
       "street": "שדרות דם המכבים",
@@ -19,5 +19,9 @@
       "lat": 31.905411899999997,
       "lon": 35.005662165798086
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "jifiti",
+  "linkedinNum": 1956915,
+  "comeetId": "jifiti/47.005"
 }

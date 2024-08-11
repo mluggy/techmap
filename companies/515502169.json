@@ -1,10 +1,10 @@
 {
   "name": "Iron Drone",
-  "description": "Solution for Intercepting Drones.",
-  "categoryId": 7,
+  "description": "Drone Interception Solution",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/iron_drone-logo.webp",
-  "websiteUrl": "https://www.airoboticsdrones.com/",
+  "websiteUrl": "https://www.irondrone.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.067242,
       "lon": 34.788291
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 26205651
 }

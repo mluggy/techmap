@@ -1,10 +1,10 @@
 {
-  "name": "Ibot Israel Botanicals",
-  "description": "Herbal Health Supplements.",
+  "name": "IBOT Israel Botanicals",
+  "description": "Botanical Nutritional Supplements",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ibot_israel_botanicals-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.israel-botanicals.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.7542502,
       "lon": 34.9949556
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Bits Of Gold",
+  "name": "Bits of Gold",
   "description": "״Bits of Gold״ מספקת פתרונות מסודרים ומאובטחים לרכישה, שמירה ומכירה של מטבעות דיגיטליים עם מעקב קל אחר תנועות הקריפטו.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bits-of-gold",
-  "xId": null,
+  "xId": "BitsofGold_LTD",
   "addresses": [
     {
       "street": "אחוזת בית",
@@ -19,5 +19,8 @@
       "lat": 32.064681,
       "lon": 34.770586
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BitsOfGold",
+  "linkedinNum": 2985724
 }

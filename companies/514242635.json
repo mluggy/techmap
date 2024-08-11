@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sol-chip",
-  "xId": null,
+  "xId": "solchip",
   "addresses": [
     {
       "street": "דרך יפו",
@@ -19,5 +19,8 @@
       "lat": 32.8276768,
       "lon": 34.9851308
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Sol-Chip-Ltd-273183862801722",
+  "linkedinNum": 2706994
 }

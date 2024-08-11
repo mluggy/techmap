@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sofwave-medical",
-  "xId": null,
+  "xId": "sofwave",
   "addresses": [
     {
       "street": "העוצמה",
@@ -19,5 +19,7 @@
       "lat": 32.670915290173845,
       "lon": 35.107367435792284
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Sofwave"
 }

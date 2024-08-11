@@ -1,5 +1,5 @@
 {
-  "name": "Ezshift",
+  "name": "EZShift",
   "description": "A software solution for managing shift workers and scheduling, incorporating organizational rules and limitations.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ezshift",
-  "xId": null,
+  "xId": "EZShift?fbclid=IwAR2qeW_BiqUbvsQP9FzJTKAOmnLtyugUsTAgFImmRBEuTEoarYxZywbZT8c",
   "addresses": [
     {
       "street": "חרושת",
@@ -19,5 +19,8 @@
       "lat": 32.128416099999995,
       "lon": 34.858940825585236
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EZShift.Scheduling",
+  "linkedinNum": 2301192
 }

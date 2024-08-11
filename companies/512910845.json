@@ -10,7 +10,7 @@
   "linkedinId": "celebros",
   "crunchbaseId": "celebros",
   "finderId": "celebros-conversion-technologies",
-  "xId": null,
+  "xId": "celebrossearch",
   "addresses": [
     {
       "street": "התשבי",
@@ -19,5 +19,8 @@
       "lat": 32.8163005,
       "lon": 34.9784694
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "celebrossearch",
+  "linkedinNum": 20338
 }

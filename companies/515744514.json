@@ -1,16 +1,16 @@
 {
-  "name": "Freezem Cryogenics",
-  "description": "The company enhances insect protein output with scalable, life-cycle paused Black Soldier Fly neonates named PauseM®.",
-  "categoryId": 12,
+  "name": "FreezeM",
+  "description": "Insect Farming Solutions",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/freezem_cryogenics-logo.webp",
-  "websiteUrl": "https://www.freezem.com/",
+  "websiteUrl": "https://freeze-em.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "freezem",
   "crunchbaseId": "freezem",
   "finderId": "freezem",
-  "xId": null,
+  "xId": "FreezeM5",
   "addresses": [
     {
       "street": "הצברים",
@@ -19,5 +19,8 @@
       "lat": 32.1773311,
       "lon": 34.8464856
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FreezeM-102195254834998",
+  "linkedinNum": 18634509
 }

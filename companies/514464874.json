@@ -1,5 +1,5 @@
 {
-  "name": "Hikari Laboratories",
+  "name": "HIKARI Laboratories",
   "description": "A pioneering innovator in medical aesthetic and professional cosmetic products, specializing in anti-aging research with patented advancements.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "hikari-laboratories",
   "crunchbaseId": null,
   "finderId": "hikari-laboratories",
-  "xId": null,
+  "xId": "hikarilabs",
   "addresses": [
     {
       "street": "הזורע",
@@ -19,5 +19,8 @@
       "lat": 31.2153309,
       "lon": 34.8118978
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HIKARI.Laboratories",
+  "linkedinNum": 1761785
 }

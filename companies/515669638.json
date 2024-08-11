@@ -1,16 +1,16 @@
 {
-  "name": "Dow Material Sciences",
+  "name": "Dow",
   "description": "Provides the world's most reliable business news and financial information across multiple media platforms.",
-  "categoryId": 8,
   "size": "s",
+  "categoryId": 10,
   "logoFile": "logos/dow_material_sciences-logo.webp",
-  "websiteUrl": "https://www.dowjones.com/",
+  "websiteUrl": "https://www.dow.com/en-us",
   "careersUrl": "https://corporate.dow.com/en-us/careers.html",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dow",
-  "xId": null,
+  "xId": "DowNewsroom",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "dow",
+  "linkedinNum": 2562
 }

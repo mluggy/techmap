@@ -1,10 +1,10 @@
 {
   "name": "Databin",
-  "description": "Offering secure, high-capacity file transfer without registration, ranging from 2GB to unlimited.",
-  "categoryId": 14,
+  "description": "IoT Monitoring and Management of Waste Disposal Bins",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/databin-logo.webp",
-  "websiteUrl": "https://datadeliver.net/",
+  "websiteUrl": "https://www.data-bins.info/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7955508,
       "lon": 34.6398893
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27111840
 }

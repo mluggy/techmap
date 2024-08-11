@@ -1,5 +1,5 @@
 {
-  "name": "Flexiwan",
+  "name": "flexiWAN",
   "description": "This company offers a customizable SD-WAN & SASE platform that reduces software and hardware costs by enabling dynamic integration of third-party applications.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "flexiwan",
-  "xId": null,
+  "xId": "FlexiWan",
   "addresses": [
     {
       "street": "הגולן",
@@ -19,5 +19,7 @@
       "lat": 32.1592864,
       "lon": 34.9224335
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19106553
 }

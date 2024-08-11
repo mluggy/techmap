@@ -1,0 +1,25 @@
+{
+  "name": "Vect",
+  "description": "The World's First Parameter Management Company",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/vect.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "vect",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 45,
+      "city": "נתניה",
+      "lat": 32.28445585994983,
+      "lon": 34.86058749043448
+    }
+  ],
+  "isMultinational": false
+}

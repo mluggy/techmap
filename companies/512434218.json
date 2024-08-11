@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.itamar-medical.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "itamar-medical",
   "crunchbaseId": null,
   "finderId": "itamar-medical",
-  "xId": null,
+  "xId": "itamarmedical",
   "addresses": [
     {
       "street": "חלמיש",
@@ -19,5 +19,8 @@
       "lat": 32.4811959,
       "lon": 34.9481254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ItamarMedical",
+  "linkedinNum": 52332
 }

@@ -1,0 +1,25 @@
+{
+  "name": "Aero-plan",
+  "description": "Medical Transport Services Marketplace",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/aero-plan.webp",
+  "websiteUrl": "https://aero-plan.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 5028525,
+  "crunchbaseId": null,
+  "finderId": "aero-plan",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "אורנים",
+      "houseNumber": 9,
+      "city": "גבעת שמואל",
+      "lat": 32.06899509445513,
+      "lon": 34.84654883643739
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Simplex Consulting",
+  "name": "Simplex",
   "description": "Providing integrated fraud prevention and payment processing solutions, this service ensures fast and secure transactions.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "simplex",
-  "xId": null,
+  "xId": "SimplexCC",
   "addresses": [
     {
       "street": "באדר יוחנן",
@@ -19,5 +19,8 @@
       "lat": 32.0728439,
       "lon": 34.8318052
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Simplex.cc",
+  "linkedinNum": 5174336
 }

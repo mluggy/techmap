@@ -1,5 +1,5 @@
 {
-  "name": "Zecops Israel",
+  "name": "ZecOps",
   "description": "They provide advanced mobile threat detection and forensics solutions utilized by top-tier organizations and individuals globally.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "zecops",
-  "xId": null,
+  "xId": "ZecOps",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,8 @@
       "lat": 32.0650402,
       "lon": 34.7863315801129
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "zecopsinc",
+  "linkedinNum": 18253737
 }

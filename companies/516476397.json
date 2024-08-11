@@ -1,0 +1,25 @@
+{
+  "name": "AIME",
+  "description": "Smart Space Management Software",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/aime.webp",
+  "websiteUrl": "https://aimeverse.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 82618967,
+  "crunchbaseId": null,
+  "finderId": "aime",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "דיזנגוף",
+      "houseNumber": 128,
+      "city": "תל אביב - יפו",
+      "lat": 32.08159825569417,
+      "lon": 34.77392863418166
+    }
+  ],
+  "isMultinational": false
+}

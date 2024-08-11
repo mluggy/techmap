@@ -1,16 +1,16 @@
 {
   "name": "Sunday Security",
-  "description": "A platform for individual digital security.",
+  "description": "Personal Cybersecurity Platform",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/sunday_security-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.sundaysecurity.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "sunday-security-ltd",
   "crunchbaseId": "sunday-security",
   "finderId": "pandora-security",
-  "xId": null,
+  "xId": "sunday_security",
   "addresses": [
     {
       "street": "זבולון",
@@ -19,5 +19,8 @@
       "lat": 31.8160402,
       "lon": 34.7835872
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100084213872931",
+  "linkedinNum": 66879500
 }

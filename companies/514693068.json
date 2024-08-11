@@ -10,7 +10,7 @@
   "linkedinId": "datumate",
   "crunchbaseId": null,
   "finderId": "datumate",
-  "xId": null,
+  "xId": "datumate",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,8 @@
       "lat": 32.6578027,
       "lon": 35.1002987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Datumate",
+  "linkedinNum": 5028926
 }

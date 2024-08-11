@@ -1,10 +1,10 @@
 {
-  "name": "Seatgeek Israel",
+  "name": "SeatGeek",
   "description": "A comprehensive event ticket search engine that helps users find and compare the best deals on tickets from various sites.",
-  "categoryId": 9,
   "size": "l",
+  "categoryId": 9,
   "logoFile": "logos/seatgeek_israel-logo.webp",
-  "websiteUrl": "https://seatgeek.com/",
+  "websiteUrl": "https://enterprise.seatgeek.com",
   "careersUrl": "https://seatgeek.com/jobs",
   "isHiring": true,
   "linkedinId": "seatgeek",
@@ -19,5 +19,9 @@
       "lat": 32.90630540972388,
       "lon": 35.18817842372995
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SeatGeek",
+  "linkedinNum": 431105,
+  "greenhouseId": "seatgeek"
 }

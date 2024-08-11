@@ -1,16 +1,16 @@
 {
-  "name": "Beta O 2 Technologies",
+  "name": "Beta-O2 Technologies",
   "description": "A bioreactor implant designed to manage Type 1 Diabetes.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": null,
+  "logoFile": "logos/beta-o2-technologies.webp",
   "websiteUrl": "https://beta-o2.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "beta-o2-technologies-ltd.",
   "crunchbaseId": "beta-o2-technologies",
   "finderId": "beta-o2",
-  "xId": null,
+  "xId": "beta_o2",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.0970131,
       "lon": 34.9105972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Beta-O2-Technologies-Ltd-715701275277592",
+  "linkedinNum": 10999514
 }

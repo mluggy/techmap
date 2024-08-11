@@ -1,5 +1,5 @@
 {
-  "name": "Leverate Technological Trading",
+  "name": "Leverate",
   "description": "A globally trusted provider of white-label solutions catering to brokers and trading platforms.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "leverate",
   "crunchbaseId": "leverate",
   "finderId": "leverate",
-  "xId": null,
+  "xId": "leveratelive",
   "addresses": [
     {
       "street": "ששת הימים",
@@ -19,5 +19,8 @@
       "lat": 32.0984539,
       "lon": 34.8282998
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "leverate",
+  "linkedinNum": 973860
 }

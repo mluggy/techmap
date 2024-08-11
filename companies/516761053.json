@@ -1,16 +1,16 @@
 {
   "name": "Finberry",
-  "description": "Retail business offering products to adults, with prices including VAT and subject to change.",
-  "categoryId": 9,
+  "description": "Personalized Wealth Management Platform",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/finberry-logo.webp",
-  "websiteUrl": "https://www.finberry.fi/",
+  "websiteUrl": "https://finberry.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "finberry",
-  "xId": null,
+  "xId": "Finberry_ai",
   "addresses": [
     {
       "street": "פריש דניאל",
@@ -19,5 +19,7 @@
       "lat": 32.07463945,
       "lon": 34.78327163578098
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100094507819870"
 }

@@ -1,16 +1,16 @@
 {
   "name": "Stands",
-  "description": "A company offering unique apparel and accessories featuring beloved actors, with part of the proceeds supporting important causes.",
-  "categoryId": 9,
+  "description": "Fair and Equitable Ad Blocker",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/stands-logo.webp",
-  "websiteUrl": "https://shopstands.com/",
+  "websiteUrl": "https://www.standsapp.org/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "stands",
-  "xId": null,
+  "xId": "standsapp",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +19,8 @@
       "lat": 32.0696175,
       "lon": 34.7842349
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "stndzapp",
+  "linkedinNum": 4868326
 }

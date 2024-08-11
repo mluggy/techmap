@@ -1,5 +1,5 @@
 {
-  "name": "Summurai Interactions",
+  "name": "Summurai",
   "description": "Condensed Article Overviews.",
   "categoryId": 8,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "summurai",
-  "xId": null,
+  "xId": "summuraiapp",
   "addresses": [
     {
       "street": "זכרון יעקב",
@@ -19,5 +19,8 @@
       "lat": 32.10281295,
       "lon": 34.87480442959978
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SummuraiApp",
+  "linkedinNum": 27143529
 }

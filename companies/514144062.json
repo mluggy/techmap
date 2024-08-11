@@ -1,0 +1,25 @@
+{
+  "name": "WATCHIT",
+  "description": "Advanced Skipper Assistance Solutions",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/watchit.webp",
+  "websiteUrl": "https://watchit.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 86828261,
+  "crunchbaseId": null,
+  "finderId": "watchit",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.068636731192754,
+      "lon": 34.79412071409061
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Easysec Solutions",
+  "name": "EasySec Solutions",
   "description": "Delivering a unique OT-native Zero-Trust platform for comprehensive device-level security, supply chain protection, and real-time monitoring in critical infrastructure and industrial settings.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "easysecsolutions",
   "crunchbaseId": null,
   "finderId": "easysec-solutions",
-  "xId": null,
+  "xId": "EasysecSolution",
   "addresses": [
     {
       "street": "שטנר",
@@ -19,5 +19,7 @@
       "lat": 31.7857412,
       "lon": 35.1898167
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18341445
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Engageli Technologies Israel",
+  "name": "Engageli",
   "description": "Innovatively designed platform that transforms online learning into engaging and interactive experiences for all learners.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "engageli",
   "crunchbaseId": null,
   "finderId": "engageli",
-  "xId": null,
+  "xId": "engageli",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.05865,
       "lon": 34.784414
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "engageli",
+  "linkedinNum": 66705032
 }

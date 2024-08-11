@@ -1,5 +1,5 @@
 {
-  "name": "Vmware Israel",
+  "name": "VMware",
   "description": "Empower applications across clouds and devices with VMware's innovative solutions for modern apps, multi-cloud environments, and digital workspaces.",
   "categoryId": 6,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vmware",
-  "xId": null,
+  "xId": "VMware",
   "addresses": [
     {
       "street": "וייז ג'ורג'",
@@ -19,5 +19,8 @@
       "lat": 32.1067709,
       "lon": 34.804941
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "vmwarecareernew",
+  "linkedinNum": 2988
 }

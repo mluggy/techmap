@@ -1,10 +1,10 @@
 {
-  "name": "Proffimat S R",
+  "name": "PROFFIMAT",
   "description": "Protective Coatings Against Corrosion.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/proffimat_s_r-logo.webp",
-  "websiteUrl": "http://www.proffimat.com/",
+  "websiteUrl": "https://www.proffimat.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.5061257,
       "lon": 35.010185
     }
-  ]
+  ],
+  "isMultinational": false
 }

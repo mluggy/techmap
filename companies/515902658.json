@@ -1,10 +1,10 @@
 {
   "name": "Beta Entrepreneurship",
-  "description": "A platform that uses artificial intelligence to facilitate microlearning at your own pace.",
-  "categoryId": 1,
+  "description": "AI-Powered Platform for Asynchronous Microlearning",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/beta_entrepreneurship-logo.webp",
-  "websiteUrl": "https://www.beta.camp/",
+  "websiteUrl": "https://www.beta.vision",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "betabusinessinnovation",
@@ -19,5 +19,8 @@
       "lat": 32.1632896,
       "lon": 34.9094203
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "betaentrepreneurship",
+  "linkedinNum": 18057392
 }

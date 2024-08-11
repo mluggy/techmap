@@ -4,13 +4,13 @@
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/tag_a_time-logo.webp",
-  "websiteUrl": "http://tagatime.com/",
+  "websiteUrl": "https://tagatime.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tagatime",
-  "xId": null,
+  "xId": "tagatime",
   "addresses": [
     {
       "street": "מבוא הגפן",
@@ -19,5 +19,8 @@
       "lat": 32.3052829,
       "lon": 34.9506137
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tagatime",
+  "linkedinNum": 49140860
 }

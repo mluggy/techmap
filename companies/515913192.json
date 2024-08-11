@@ -1,10 +1,10 @@
 {
   "name": "Eyezon",
-  "description": "Providing comprehensive security and personal emergency solutions through an easy-to-use app for homes and small businesses.",
-  "categoryId": 7,
+  "description": "In-store Checkout Intelligence",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/eyezon-logo.webp",
-  "websiteUrl": "https://www.eyezon.com/",
+  "websiteUrl": "https://www.eyezon.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0705297,
       "lon": 34.7872761
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 35453737
 }

@@ -1,10 +1,10 @@
 {
   "name": "Top Car Armoring",
-  "description": "Company specializing in the production of armored vehicles.",
-  "categoryId": 5,
+  "description": "Armored Vehicle Manufacturing",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/top_car_armoring-logo.webp",
-  "websiteUrl": "https://inkasarmored.com/",
+  "websiteUrl": "https://www.topcar-armoring.com/en/home",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.5227684,
       "lon": 34.6109457
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Top-Car-Armoring-2212657662298402"
 }

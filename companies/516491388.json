@@ -1,16 +1,16 @@
 {
-  "name": "Ritual Health Technologies",
-  "description": "Dedicated to developing transparent, high-quality health formulations with complete ingredient, source, and scientist disclosure.",
+  "name": "Ritual",
+  "description": "Skill-building App for Relationships",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/ritual_health_technologies-logo.webp",
-  "websiteUrl": "https://ritual.com/",
+  "websiteUrl": "https://www.heyritual.com/",
   "careersUrl": "https://ritual.co/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ritual",
-  "xId": null,
+  "xId": "hey_ritual",
   "addresses": [
     {
       "street": "שד סמאטס",
@@ -19,5 +19,8 @@
       "lat": 32.091951,
       "lon": 34.789343
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "heyritual",
+  "linkedinNum": 72688766
 }

@@ -1,5 +1,5 @@
 {
-  "name": "White Swell Medical",
+  "name": "WhiteSwell Medical",
   "description": "A multinational company with offices in Ireland, Israel, and the USA, providing innovative solutions and services.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "whiteswell",
   "crunchbaseId": null,
   "finderId": "whiteswell-medical",
-  "xId": null,
+  "xId": "WhiteswellLtd",
   "addresses": [
     {
       "street": "מרכז מסחרי-חוצות שפיים",
@@ -19,5 +19,7 @@
       "lat": 32.22031707252465,
       "lon": 34.82751392944944
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18936815
 }

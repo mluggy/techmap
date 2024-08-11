@@ -1,5 +1,5 @@
 {
-  "name": "Hyro AI",
+  "name": "Hyro",
   "description": "We offer a solution that automates customer interactions to enhance engagement and optimize resources.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "hyroai",
   "crunchbaseId": "airbud-technologies-inc",
   "finderId": "airbud-technologies",
-  "xId": null,
+  "xId": "hyro_ai",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.07003,
       "lon": 34.786371
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hyroAI",
+  "linkedinNum": 11742085
 }

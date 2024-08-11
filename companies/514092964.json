@@ -1,10 +1,10 @@
 {
-  "name": "Double Check",
-  "description": "Specializing in advanced thermal and thermoelectric solutions, this company optimally customizes and implements them to meet client needs.",
+  "name": "Double Check Thermal Solutions",
+  "description": "Thermal Management Systems",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/double_check-logo.webp",
-  "websiteUrl": "http://www.doublecheck.co.il/",
+  "websiteUrl": "https://dc-ts.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.098827,
       "lon": 34.8312756
     }
-  ]
+  ],
+  "isMultinational": false
 }

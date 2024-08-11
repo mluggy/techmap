@@ -1,10 +1,10 @@
 {
-  "name": "Intellisen",
-  "description": "Identifying Water Pollution and Hazardous Substances.",
-  "categoryId": 12,
+  "name": "IntelliSen",
+  "description": "Detection of Water Contamination and Toxicity",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/intellisen-logo.webp",
-  "websiteUrl": "https://www.intellisenseinc.com/",
+  "websiteUrl": "https://intellisen.wixsite.com/intellisen",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0758527,
       "lon": 34.84585
     }
-  ]
+  ],
+  "isMultinational": false
 }

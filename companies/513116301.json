@@ -1,10 +1,10 @@
 {
-  "name": "Orisol Israel 2001",
-  "description": "Provider of industrial sewing automation solutions for footwear, utilized by over 1000 factories globally.",
-  "categoryId": 15,
+  "name": "Orisol",
+  "description": "Shoe-Making Machinery",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/orisol_israel_2001-logo.webp",
-  "websiteUrl": "https://orisol.com/",
+  "websiteUrl": "https://www.orisol.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "orisol-israel",
@@ -19,5 +19,6 @@
       "lat": 31.8633822,
       "lon": 34.7433681
     }
-  ]
+  ],
+  "isMultinational": false
 }

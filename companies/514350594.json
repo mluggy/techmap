@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "zerto",
-  "xId": null,
+  "xId": "Zerto",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.1609618,
       "lon": 34.8099017
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZertoCorp",
+  "linkedinNum": 1033481
 }

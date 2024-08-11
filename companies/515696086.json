@@ -1,16 +1,16 @@
 {
   "name": "Epsagon",
-  "description": "Technologies for Visualizing Microservice Architectures.",
-  "categoryId": 6,
+  "description": "Microservice Architecture Visualization Technologies",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/epsagon-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.epsagon.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "epsagon",
   "crunchbaseId": "epsagon",
   "finderId": "epsagon",
-  "xId": null,
+  "xId": "epsagon",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2846342,
       "lon": 34.8605173
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "epsagon",
+  "linkedinNum": 27145406
 }

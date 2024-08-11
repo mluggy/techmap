@@ -1,5 +1,5 @@
 {
-  "name": "Xyte Technologies",
+  "name": "Xyte",
   "description": "Effortlessly deploy a fully branded, multi-tenant cloud platform without coding.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "xyte",
   "crunchbaseId": "xyte",
   "finderId": "xyte",
-  "xId": null,
+  "xId": "xyte_io",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.08452905,
       "lon": 34.80020929592628
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "xyte.io",
+  "linkedinNum": 36082092
 }

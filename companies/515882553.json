@@ -1,16 +1,16 @@
 {
   "name": "Facio",
-  "description": "Advance a portion of your salary instantly to cover unexpected expenses and repay it on payday, with fees starting at R$ 9.90 per transaction.",
+  "description": "Smart Contract Management for the Financial Services Industry",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/facio-logo.webp",
-  "websiteUrl": "https://facio.com.br/",
+  "websiteUrl": "https://www.facio.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "facio",
-  "xId": null,
+  "xId": "BigDataCore",
   "addresses": [
     {
       "street": "היובלים",
@@ -19,5 +19,8 @@
       "lat": 32.3204902,
       "lon": 34.989925
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BigDataInsurance",
+  "linkedinNum": 13025678
 }

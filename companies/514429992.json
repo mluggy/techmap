@@ -1,16 +1,16 @@
 {
-  "name": "Lg Galil",
+  "name": "LG",
   "description": "A global leader in HVAC, providing top-tier heating and cooling solutions for both commercial and residential needs.",
-  "categoryId": 5,
   "size": "m",
+  "categoryId": 17,
   "logoFile": "logos/lg_galil-logo.webp",
-  "websiteUrl": "https://lghvac.com/",
+  "websiteUrl": "https://www.lgtci.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "lg",
-  "xId": null,
+  "xId": "lgus",
   "addresses": [
     {
       "street": "הגדנ\"ע",
@@ -19,5 +19,8 @@
       "lat": 32.1860961,
       "lon": 34.8808317
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "LGMobile",
+  "linkedinNum": 3503
 }

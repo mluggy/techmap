@@ -1,0 +1,26 @@
+{
+  "name": "Mellie",
+  "description": "Care Management Platform",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/mellie.webp",
+  "websiteUrl": "https://www.mellie.com/",
+  "careersUrl": "https://www.mellie.com/careers",
+  "isHiring": true,
+  "linkedinId": "mellieinc",
+  "linkedinNum": 82298588,
+  "crunchbaseId": null,
+  "finderId": "mellie",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "יסמין",
+      "houseNumber": 7,
+      "city": "כפר סבא",
+      "lat": 32.177282842711286,
+      "lon": 34.89544181837595
+    }
+  ],
+  "isMultinational": false
+}

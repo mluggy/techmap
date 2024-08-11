@@ -1,5 +1,5 @@
 {
-  "name": "Sintec Media",
+  "name": "Operative",
   "description": "Management software tailored for media companies.",
   "categoryId": 8,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.operative.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": "sintecmedia",
+  "linkedinId": "operative",
   "crunchbaseId": "sintecmedia",
   "finderId": "sintec-media",
-  "xId": null,
+  "xId": "Operative_Media",
   "addresses": [
     {
       "street": "חפצדי נחום",
@@ -19,5 +19,8 @@
       "lat": 31.7877584,
       "lon": 35.18023
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "operative",
+  "linkedinNum": 17979
 }

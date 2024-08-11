@@ -1,10 +1,10 @@
 {
-  "name": "Isityou",
-  "description": "Preventing Fraud through Biometric Technology.",
+  "name": "IsItYou",
+  "description": "Biometric Fraud Prevention",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/isityou-logo.webp",
-  "websiteUrl": "https://isityou.gg/",
+  "websiteUrl": "https://www.isityou.biz",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.6672039,
       "lon": 35.1083867
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2967473
 }

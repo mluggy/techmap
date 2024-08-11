@@ -10,7 +10,7 @@
   "linkedinId": "radware",
   "crunchbaseId": null,
   "finderId": "radware",
-  "xId": null,
+  "xId": "radware",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.110576,
       "lon": 34.838285
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Radware",
+  "linkedinNum": 165642
 }

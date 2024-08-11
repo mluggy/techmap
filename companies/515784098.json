@@ -1,5 +1,5 @@
 {
-  "name": "Idrra Cyber Security",
+  "name": "Findings",
   "description": "Providing automated supply chain risk management and compliance solutions trusted globally by enterprises and vendors.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "idrra",
   "crunchbaseId": null,
   "finderId": "idrra",
-  "xId": null,
+  "xId": "FindingsVRM",
   "addresses": [
     {
       "street": "ראובן",
@@ -19,5 +19,7 @@
       "lat": 31.8855617,
       "lon": 35.0016797
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18072543
 }

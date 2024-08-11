@@ -1,16 +1,16 @@
 {
-  "name": "Ranger Msp",
+  "name": "Ranger MSP",
   "description": "RangerMSP comes with both a Windows client app and a Browser based Web app that is also Responsive and mobile friendly. RangerMSP is a powerful and yet ...",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ranger_msp-logo.webp",
-  "websiteUrl": "http://www.rangermsp.com/",
+  "websiteUrl": "https://www.rangermsp.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "commitcrm",
-  "xId": null,
+  "xId": "rangermsp",
   "addresses": [
     {
       "street": "המכתש",
@@ -19,5 +19,7 @@
       "lat": 32.02622325,
       "lon": 34.795014884560736
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 367771
 }

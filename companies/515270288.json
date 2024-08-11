@@ -1,5 +1,5 @@
 {
-  "name": "Jellop Bidder",
+  "name": "Jellop",
   "description": "Leveraging proprietary analytics and Kickstarter insights to deliver exceptional high-volume returns.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "jellop",
   "crunchbaseId": null,
   "finderId": "jellop",
-  "xId": null,
+  "xId": "jellopcrowdfund",
   "addresses": [
     {
       "street": "הראשונים",
@@ -19,5 +19,8 @@
       "lat": 32.1671233,
       "lon": 34.9198847
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "jelloponline",
+  "linkedinNum": 2353323
 }

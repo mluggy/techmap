@@ -1,10 +1,10 @@
 {
-  "name": "Isra Juk Electronics",
+  "name": "Isra-Juk Electronics",
   "description": "Founded in 1999, this Israeli company specializes in electricity-monitoring solutions.",
   "categoryId": 13,
   "size": "xs",
   "logoFile": "logos/isra_juk_electronics-logo.webp",
-  "websiteUrl": "http://www.israjuk.com/",
+  "websiteUrl": "https://www.israjuk.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0780444,
       "lon": 34.880002
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17925664
 }

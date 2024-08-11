@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ride-vision",
-  "xId": null,
+  "xId": "ride_vision",
   "addresses": [
     {
       "street": "גלגל הפלדה",
@@ -19,5 +19,8 @@
       "lat": 32.1726475,
       "lon": 34.8071901
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ridevision",
+  "linkedinNum": 18492958
 }

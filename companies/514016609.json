@@ -1,5 +1,5 @@
 {
-  "name": "Vision Bi",
+  "name": "Vision.bi",
   "description": "Specializing in data engineering and software development, this company transforms organizational data into actionable insights through BI projects, analytics, cloud migration, and data science expertise.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vision-bi",
-  "xId": null,
+  "xId": "visionbiusa",
   "addresses": [
     {
       "street": "הנחושת",
@@ -19,5 +19,8 @@
       "lat": 32.10981,
       "lon": 34.838876
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Vision.bi",
+  "linkedinNum": 480901
 }

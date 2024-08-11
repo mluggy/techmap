@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "preton",
-  "xId": null,
+  "xId": "pretonsaver",
   "addresses": [
     {
       "street": "קלונימוס",
@@ -19,5 +19,8 @@
       "lat": 32.087415,
       "lon": 34.780496
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 582128
 }

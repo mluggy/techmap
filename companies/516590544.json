@@ -1,10 +1,10 @@
 {
   "name": "Remondo",
-  "description": "Stay updated with regular emails on topics, deals, products, and notifications about videos and results after registration.",
-  "categoryId": 8,
+  "description": "High-resolution Imaging Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/remondo-logo.webp",
-  "websiteUrl": "https://www.rimondo.com/",
+  "websiteUrl": "https://remondo.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.2187395,
       "lon": 34.9835317
     }
-  ]
+  ],
+  "isMultinational": false
 }

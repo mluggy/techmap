@@ -1,10 +1,10 @@
 {
-  "name": "Snax Games",
-  "description": "Offering a wide variety of appetizers, small plates, and snacks, along with soups, salads, and sandwiches.",
-  "categoryId": 9,
+  "name": "Snax",
+  "description": "Casual Games Social Platform and Network",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/snax_games-logo.webp",
-  "websiteUrl": "https://snaxrestaurant.com/",
+  "websiteUrl": "https://www.snaxgames.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1779987,
       "lon": 34.847629
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 97922852
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bright-security",
-  "xId": null,
+  "xId": "BrightAppSec",
   "addresses": [
     {
       "street": "השחר",
@@ -19,5 +19,8 @@
       "lat": 31.9702171,
       "lon": 34.797162
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BrightAppSec",
+  "linkedinNum": 11291424
 }

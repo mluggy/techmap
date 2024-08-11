@@ -10,7 +10,7 @@
   "linkedinId": "cellebrite",
   "crunchbaseId": null,
   "finderId": "cellebrite",
-  "xId": null,
+  "xId": "cellebrite",
   "addresses": [
     {
       "street": "דרך אם המושבות",
@@ -19,5 +19,9 @@
       "lat": 32.1005635,
       "lon": 34.8495503
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cellebritedigitalintelligence",
+  "linkedinNum": 100045,
+  "comeetId": "Cellebrite/C3.00F"
 }

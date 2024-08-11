@@ -1,5 +1,5 @@
 {
-  "name": "Oxeye Security",
+  "name": "Oxeye",
   "description": "Provides a unified, prioritized risk assessment of critical applications through runtime analysis aligned with business priorities.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "oxeye",
-  "xId": null,
+  "xId": "OxeyeSecurity",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0605137,
       "lon": 34.7759853
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "oxeyecloudnative",
+  "linkedinNum": 72734261
 }

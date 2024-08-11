@@ -1,5 +1,5 @@
 {
-  "name": "Click Ins",
+  "name": "Click-Ins",
   "description": "Vehicle Inspections Enhanced by Artificial Intelligence.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "Click-Ins",
-  "xId": null,
+  "xId": "click_ins",
   "addresses": [
     {
       "street": "הצורן",
@@ -19,5 +19,8 @@
       "lat": 32.2863673,
       "lon": 34.8653462
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "automaticvehicledamageassessment",
+  "linkedinNum": 9360771
 }

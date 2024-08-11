@@ -1,10 +1,10 @@
 {
   "name": "Optishell Technologies",
-  "description": "Services to Protect Intellectual Property Rights.",
+  "description": "Solutions to Prevent IP Violation",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/optishell_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://optishell.com/main.html",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0820217,
       "lon": 34.8072235
     }
-  ]
+  ],
+  "isMultinational": false
 }

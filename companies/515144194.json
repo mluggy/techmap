@@ -1,10 +1,10 @@
 {
-  "name": "Enercon Technologies",
-  "description": "A multi-disciplinary firm specializing in engineering and environmental services to enhance the safety and efficiency of the energy life cycle.",
-  "categoryId": 17,
+  "name": "Enercon",
+  "description": "Military Rugged Power and Networking Solutions",
+  "categoryId": 3,
   "size": "m",
   "logoFile": "logos/enercon_technologies-logo.webp",
-  "websiteUrl": "https://www.enercon.com/",
+  "websiteUrl": "https://www.enercon.co.il",
   "careersUrl": "https://www.enercon.de/en/jobs-careers/working-at-enercon",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.2797087,
       "lon": 34.8638687
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 9339854,
+  "comeetId": "enercon/A4.00D"
 }

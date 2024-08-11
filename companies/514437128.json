@@ -1,15 +1,18 @@
 {
   "name": "Todos Medical",
-  "description": "Immune System Testing Services and Solutions.",
+  "description": "Diagnostic Testing Solutions for the Immune System",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/todos_medical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.todosmedical.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "todos-medical",
   "crunchbaseId": null,
   "finderId": "todos-medical",
-  "xId": null,
-  "addresses": []
+  "xId": "todosmedical",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "todosmedical",
+  "linkedinNum": 8557149
 }

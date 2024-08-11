@@ -4,13 +4,13 @@
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/spondoolies-logo.webp",
-  "websiteUrl": "http://www.spondoolies-tech.com/",
+  "websiteUrl": "https://www.spondoolies-tech.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "spondoolies",
   "crunchbaseId": null,
   "finderId": "spondoolies",
-  "xId": null,
+  "xId": "Spondoolies2",
   "addresses": [
     {
       "street": "כרמל",
@@ -19,5 +19,8 @@
       "lat": 31.9346652,
       "lon": 34.8085197
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "spondoolies2",
+  "linkedinNum": 11806897
 }

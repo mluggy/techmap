@@ -1,5 +1,5 @@
 {
-  "name": "Corsight AI",
+  "name": "Corsight",
   "description": "Renowned for innovative Facial Intelligence technology, this company has partnered with a top Latin American security provider to enhance regional security solutions.",
   "categoryId": 1,
   "size": "s",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.corsight.ai/",
   "careersUrl": "https://www.corsight.ai/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "corsight",
   "crunchbaseId": null,
   "finderId": "corsight",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0839585,
       "lon": 34.8064497
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Corsight-AI-113467260354333",
+  "linkedinNum": 37782022
 }

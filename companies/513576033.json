@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "inmatrix",
-  "xId": null,
+  "xId": "zoomplayer",
   "addresses": [
     {
       "street": "הגפן",
@@ -19,5 +19,8 @@
       "lat": 32.5734151,
       "lon": 34.9465414
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "zoomplayer",
+  "linkedinNum": 3335524
 }

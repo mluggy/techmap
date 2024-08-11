@@ -1,16 +1,16 @@
 {
-  "name": "Pick A Pier",
-  "description": "Enabling boaters to efficiently book, communicate with marinas, manage documents, and enjoy a sustainable boating experience.",
-  "categoryId": 17,
+  "name": "Pick a Pier",
+  "description": "Sustainability Platform for Boaters and Marinas",
+  "categoryId": 5,
   "size": "s",
   "logoFile": "logos/pick_a_pier-logo.webp",
-  "websiteUrl": "https://company.pickapier.com/",
+  "websiteUrl": "https://www.pickapier.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "pickapier",
   "crunchbaseId": null,
   "finderId": "pick-a-pier",
-  "xId": null,
+  "xId": "PickaPier",
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -19,5 +19,8 @@
       "lat": 32.819776250000004,
       "lon": 34.9988252
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Pickapier",
+  "linkedinNum": 18226477
 }

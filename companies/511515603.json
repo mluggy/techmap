@@ -1,5 +1,5 @@
 {
-  "name": "Ibm Global Services Israel",
+  "name": "IBM",
   "description": "A century-long leader in technological innovation, specializing in AI, automation, and hybrid cloud solutions for businesses.",
   "categoryId": 1,
   "size": "l",
@@ -19,5 +19,7 @@
       "lat": 32.0775426,
       "lon": 34.9030299
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "IBM"
 }

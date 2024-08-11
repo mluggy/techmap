@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "indeni",
-  "xId": null,
+  "xId": "indeni",
   "addresses": [
     {
       "street": "איסרליש",
@@ -19,5 +19,8 @@
       "lat": 32.07103585,
       "lon": 34.79219333800788
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "indeni",
+  "linkedinNum": 543295
 }

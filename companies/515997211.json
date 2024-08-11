@@ -1,5 +1,5 @@
 {
-  "name": "Xinteza Api",
+  "name": "Xinteza API",
   "description": "Established in 2019, this company leverages cutting-edge research and strategic industrial partnerships to innovate in the biotech sector.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.12204935,
       "lon": 34.81933269664718
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77669925
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Etherwaves",
-  "description": "Automotive Digital Radio Solutions.",
-  "categoryId": 5,
+  "name": "EtherWaves",
+  "description": "Digital Radio Technology for the Automotive Industry",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/etherwaves-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.etherwaves.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "etherwaves?trk=ppro_cprof",
@@ -19,5 +19,7 @@
       "lat": 32.1640505,
       "lon": 34.8107428
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1432272
 }

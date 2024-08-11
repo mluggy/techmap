@@ -1,10 +1,10 @@
 {
   "name": "Memoriz Plus",
-  "description": "Online Platforms for Tributes and Remembrances.",
+  "description": "Digital Tribute and Memorial Websites",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/memoriz_plus-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.memoriz.plus/en",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "memorizplus?trk=public_profile_experience-item_profile-section-card_image-click",
@@ -19,5 +19,7 @@
       "lat": 32.06376960096488,
       "lon": 34.84597779475505
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MemorizPlus"
 }

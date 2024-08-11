@@ -1,5 +1,5 @@
 {
-  "name": "Cathetrix",
+  "name": "CATHETRIX",
   "description": "Launching a pioneering catheter stabilizer at Arab Health 2023, this company aims to prevent urinary tract infections and accidental catheter extractions.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "cathetrix",
   "crunchbaseId": null,
   "finderId": "cathetrix",
-  "xId": null,
+  "xId": "cathetrix",
   "addresses": [
     {
       "street": "ריב\"ל",
@@ -19,5 +19,8 @@
       "lat": 32.062477,
       "lon": 34.782957
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cathetrix",
+  "linkedinNum": 48759463
 }

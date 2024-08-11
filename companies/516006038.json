@@ -1,16 +1,16 @@
 {
   "name": "Crumbiz",
-  "description": "A platform designed for building and maintaining professional connections.",
+  "description": "Professional Networking Platform",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/crumbiz-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.crumbiz.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "crumbiz",
   "crunchbaseId": "crumbiz-ltd",
   "finderId": "crumbiz",
-  "xId": null,
+  "xId": "crumbiz",
   "addresses": [
     {
       "street": null,
@@ -19,5 +19,8 @@
       "lat": 32.3475348,
       "lon": 34.9162242
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Crumbiz-102999198035011",
+  "linkedinNum": 28858235
 }

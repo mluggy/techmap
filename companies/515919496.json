@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "exero-medical",
-  "xId": null,
+  "xId": "ExeroMedical",
   "addresses": [
     {
       "street": "שרון אריאל",
@@ -19,5 +19,7 @@
       "lat": 32.0215775,
       "lon": 34.854526
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18838545
 }

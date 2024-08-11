@@ -1,5 +1,5 @@
 {
-  "name": "Fourtec Fourier Technologies",
+  "name": "Fourtec",
   "description": "A leader in data logging systems with over 30 years of expertise in monitoring solutions.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "fourtec",
   "crunchbaseId": null,
   "finderId": "fourtec",
-  "xId": null,
+  "xId": "fourtecfourier",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.1088976,
       "lon": 34.9653972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FourtecTechnologies",
+  "linkedinNum": 1672253
 }

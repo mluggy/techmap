@@ -1,10 +1,10 @@
 {
-  "name": "Trego",
-  "description": "Established in 2007, this Israeli firm specializes in high-end hardware design and software solutions, offering professional services and turnkey projects.",
-  "categoryId": 15,
+  "name": "TreGo",
+  "description": "Versatile Cargo Attachment for Bikes",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/trego-logo.webp",
-  "websiteUrl": "https://www.trego.co.il/",
+  "websiteUrl": "https://trego-trolley.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.103838550000006,
       "lon": 34.89099230960969
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tregobikes"
 }

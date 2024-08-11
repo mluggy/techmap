@@ -1,5 +1,5 @@
 {
-  "name": "Polyfos 3 D",
+  "name": "Polyfos 3D",
   "description": "A 3D printing company established in memory of a heroic individual who saved her family.",
   "categoryId": 15,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 31.7384701,
       "lon": 35.1872439
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 83044701
 }

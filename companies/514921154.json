@@ -1,5 +1,5 @@
 {
-  "name": "Medial Earlysign",
+  "name": "Medial EarlySign",
   "description": "This company leverages advanced machine learning to convert real-world data into actionable, person-specific clinical insights.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "medial-earlysign",
-  "xId": null,
+  "xId": "medialearlysign",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,8 @@
       "lat": 32.12984109999999,
       "lon": 34.89354939995229
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MedialEarlySign",
+  "linkedinNum": 7959149
 }

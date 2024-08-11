@@ -1,10 +1,10 @@
 {
-  "name": "Biogencell",
-  "description": "A treatment system using stem cells to combat degenerative illnesses.",
+  "name": "BioGenCell",
+  "description": "Stem Cell Therapy Platform for Degenerative Diseases",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/biogencell-logo.webp",
-  "websiteUrl": "https://www.biogencelltrial.com/",
+  "websiteUrl": "https://biogencell.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "biogencell-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.3475009,
       "lon": 34.8574417
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "www.BioGenCell.net",
+  "linkedinNum": 69232576
 }

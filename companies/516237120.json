@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tolstoy",
-  "xId": null,
+  "xId": "gotolstoy",
   "addresses": [
     {
       "street": "השרון",
@@ -19,5 +19,7 @@
       "lat": 32.1771803,
       "lon": 34.8688481
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 73419180
 }

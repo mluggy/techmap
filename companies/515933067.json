@@ -1,5 +1,5 @@
 {
-  "name": "Aeye Health",
+  "name": "AEYE Health",
   "description": "Artificial Intelligence for Analyzing Retinal Images.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "aeyehealth",
   "crunchbaseId": null,
   "finderId": "aeye-health",
-  "xId": null,
+  "xId": "aeyehealth",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +19,7 @@
       "lat": 32.069533,
       "lon": 34.785594
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 52141090
 }

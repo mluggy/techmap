@@ -1,5 +1,5 @@
 {
-  "name": "Dragonflydb",
+  "name": "DragonflyDB",
   "description": "Optimized for modern cloud computing, this technology delivers 25x more throughput and 12x lower snapshotting latency than legacy in-memory data stores, providing a seamless real-time experience.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dragonflydb",
-  "xId": null,
+  "xId": "dragonflydbio",
   "addresses": [
     {
       "street": "ילין מור נתן",
@@ -19,5 +19,7 @@
       "lat": 32.07107222943664,
       "lon": 34.79166460309122
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82089379
 }

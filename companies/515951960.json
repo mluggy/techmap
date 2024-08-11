@@ -1,5 +1,5 @@
 {
-  "name": "Madskil Gaming",
+  "name": "Madskil",
   "description": "A real-time interactive game designed for live streaming platforms.",
   "categoryId": 11,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "madskil",
   "crunchbaseId": "madskil-gaming",
   "finderId": "madskil",
-  "xId": null,
+  "xId": "Madskil_Gaming",
   "addresses": [
     {
       "street": "גורדון י ל",
@@ -19,5 +19,8 @@
       "lat": 32.081161,
       "lon": 34.77803
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "madskil.gaming",
+  "linkedinNum": 35707739
 }

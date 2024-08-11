@@ -10,7 +10,7 @@
   "linkedinId": "orca-surgical",
   "crunchbaseId": null,
   "finderId": "orca-surgical",
-  "xId": null,
+  "xId": "orca_surgical",
   "addresses": [
     {
       "street": "תרשיש-פארק התעשייה",
@@ -19,5 +19,8 @@
       "lat": 32.4879599,
       "lon": 34.9040366
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Orcasurgical",
+  "linkedinNum": 2467748
 }

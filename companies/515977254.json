@@ -1,10 +1,10 @@
 {
-  "name": "Polymerit",
-  "description": "Innovative Polymers for Advanced Wound Healing.",
+  "name": "polyMERit",
+  "description": "Smart Reactive Polymers for Wound Care",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/polymerit-logo.webp",
-  "websiteUrl": "http://www.polymerits.com/",
+  "websiteUrl": "https://www.polymerit.ch",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "polymerit-ideas-med-real",
@@ -19,5 +19,6 @@
       "lat": 32.1840902,
       "lon": 34.8908865
     }
-  ]
+  ],
+  "isMultinational": false
 }

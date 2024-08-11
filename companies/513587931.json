@@ -1,16 +1,16 @@
 {
   "name": "Sisense",
-  "description": "A platform that integrates artificial intelligence to enhance data analytics.",
-  "categoryId": 1,
+  "description": "AI-driven Platform for Infused Analytics",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/sisense-logo.webp",
-  "websiteUrl": "https://sisense.dev/",
+  "websiteUrl": "https://www.sisense.com",
   "careersUrl": "https://www.sisense.com/careers/",
   "isHiring": true,
   "linkedinId": "sisense",
   "crunchbaseId": null,
   "finderId": "sisense",
-  "xId": null,
+  "xId": "Sisense",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Sisense",
+  "linkedinNum": 148828
 }

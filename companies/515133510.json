@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "source-defense",
-  "xId": null,
+  "xId": "SourceDefense",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.09668,
       "lon": 34.9066455
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sourcedefense",
+  "linkedinNum": 2447123
 }

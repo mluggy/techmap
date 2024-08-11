@@ -1,16 +1,16 @@
 {
-  "name": "Dynamo Tech",
-  "description": "A two-time MLS champion team featuring a reserve squad, youth academy, and playing at Shell Energy Stadium.",
-  "categoryId": 11,
+  "name": "Dynamo",
+  "description": "AI-Driven Individual Retargeting at Scale",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/dynamo_tech-logo.webp",
-  "websiteUrl": "https://www.houstondynamofc.com/",
+  "websiteUrl": "https://www.dynamo.fyi",
   "careersUrl": "https://www.dynamosoftware.com/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dynamo-2",
-  "xId": null,
+  "xId": "dynamo_10x",
   "addresses": [
     {
       "street": "משושים",
@@ -19,5 +19,8 @@
       "lat": 32.1408666,
       "lon": 34.8860005
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100086697821387",
+  "linkedinNum": 11774633
 }

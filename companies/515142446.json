@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "upright-pose",
-  "xId": null,
+  "xId": "UpRightPose",
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -19,5 +19,8 @@
       "lat": 32.02777945,
       "lon": 34.89120456423841
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Uprightpose",
+  "linkedinNum": 5202409
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Essence Smartcare",
-  "description": "They offer advanced TeleCare and Telehealth solutions to help businesses deliver innovative, comprehensive care.",
-  "categoryId": 12,
+  "name": "Essence",
+  "description": "Security, Smart Home, and Telecare",
+  "categoryId": 7,
   "size": "l",
   "logoFile": "logos/essence_smartcare-logo.webp",
-  "websiteUrl": "https://www.essencesmartcare.com/",
+  "websiteUrl": "https://essence-grp.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "essence-smartcare",
   "crunchbaseId": null,
   "finderId": "essence-smartcare",
-  "xId": null,
+  "xId": "Essence_grp",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,8 @@
       "lat": 32.1617757,
       "lon": 34.8081374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "essencegrp",
+  "linkedinNum": 865102
 }

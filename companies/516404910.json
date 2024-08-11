@@ -1,5 +1,5 @@
 {
-  "name": "Permit Io",
+  "name": "Permit.io",
   "description": "Provides innovative solutions to streamline enterprise operations and simplify server management.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "authorizon-technologies",
-  "xId": null,
+  "xId": "permit_io",
   "addresses": [
     {
       "street": "בית הלל",
@@ -19,5 +19,7 @@
       "lat": 32.069416,
       "lon": 34.789403
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72387999
 }

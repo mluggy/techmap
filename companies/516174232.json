@@ -1,10 +1,10 @@
 {
   "name": "Sign Now",
-  "description": "Provides a unified login experience for users of signNow, airSlate, and pdfFiller platforms.",
-  "categoryId": 14,
+  "description": "Sign Language Interpretation Technology",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/sign_now-logo.webp",
-  "websiteUrl": "https://app.signnow.com/",
+  "websiteUrl": "https://www.signnow.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.9986306,
       "lon": 34.9461689
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 56405443
 }

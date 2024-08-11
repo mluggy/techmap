@@ -1,10 +1,10 @@
 {
-  "name": "Segment Y G Business Development",
-  "description": "A platform for collecting, cleaning, and activating customer data.",
-  "categoryId": 8,
+  "name": "Segment IT",
+  "description": "Supply Chain Management Software",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/segment_y_g_business_development-logo.webp",
-  "websiteUrl": "https://segment.com/",
+  "websiteUrl": "https://www.segment.co.il/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.8150989,
       "lon": 35.0610096
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Segmentit",
+  "linkedinNum": 2388459
 }

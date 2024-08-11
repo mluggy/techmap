@@ -1,5 +1,5 @@
 {
-  "name": "Cynerio Israel",
+  "name": "Cynerio",
   "description": "Dedicated to healthcare, this company secures medical devices, halts cyber attacks, and safeguards patient information.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cynerio",
   "crunchbaseId": "cynerio",
   "finderId": "cynerio",
-  "xId": null,
+  "xId": "cynerio",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.0845555,
       "lon": 34.80095822826725
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cynerio",
+  "linkedinNum": 17949764
 }

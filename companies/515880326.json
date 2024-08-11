@@ -10,7 +10,7 @@
   "linkedinId": "valid-network",
   "crunchbaseId": "valid-network",
   "finderId": "valid-network",
-  "xId": null,
+  "xId": "NetworkValid",
   "addresses": [
     {
       "street": "הרדוף",
@@ -19,5 +19,8 @@
       "lat": 32.8097915,
       "lon": 34.972496
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ValidHash",
+  "linkedinNum": 18467750
 }

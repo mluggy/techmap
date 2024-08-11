@@ -1,5 +1,5 @@
 {
-  "name": "Kratos 2021",
+  "name": "Kratos",
   "description": "They innovate cost-effective systems and platforms for national security and communications.",
   "categoryId": 3,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "kratos",
-  "xId": null,
+  "xId": "KratosDefense",
   "addresses": [
     {
       "street": "יאיר",
@@ -19,5 +19,7 @@
       "lat": 31.2632927,
       "lon": 34.7911694
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 269675
 }

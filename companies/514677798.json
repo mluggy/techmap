@@ -1,5 +1,5 @@
 {
-  "name": "Wishi Fashion",
+  "name": "WISHI",
   "description": "An online styling app that matches users with elite stylists for effortless daily fashion.",
   "categoryId": 9,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.wishi.me/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wishi",
   "crunchbaseId": null,
   "finderId": "wishi",
-  "xId": null,
+  "xId": "thewishi",
   "addresses": [
     {
       "street": "רופא המחתרות",
@@ -19,5 +19,8 @@
       "lat": 32.099826,
       "lon": 34.784571
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TheWiShi",
+  "linkedinNum": 2405104
 }

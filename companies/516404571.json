@@ -1,10 +1,10 @@
 {
   "name": "Buzzer",
-  "description": "חדשנות בשירותי משלוחים פרטיים עם חלונות תיאום קצרים בשעות הערב ושליטה מלאה לחוויית משתמש יוצאת דופן.",
-  "categoryId": 9,
+  "description": "AI-powered performance optimization for sales and customer support",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/buzzer-logo.webp",
-  "websiteUrl": "https://buzzr.biz/",
+  "websiteUrl": "https://www.buzzer.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.157463,
       "lon": 34.8463645
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "buzzerai",
+  "linkedinNum": 74527283
 }

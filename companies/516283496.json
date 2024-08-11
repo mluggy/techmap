@@ -1,5 +1,5 @@
 {
-  "name": "Qwak AI",
+  "name": "Qwak",
   "description": "A scalable AI platform used by top teams worldwide to streamline integrations.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "qwakai",
   "crunchbaseId": null,
   "finderId": "qwak",
-  "xId": null,
+  "xId": "Qwak_ai",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0796864,
       "lon": 34.7955201
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Qwak-101159811867748",
+  "linkedinNum": 70376634
 }

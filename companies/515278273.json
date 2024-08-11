@@ -1,5 +1,5 @@
 {
-  "name": "Daytwo",
+  "name": "DayTwo",
   "description": "They provide personalized nutrition recommendations based on gut microbiome analysis to manage type 2 diabetes and optimize health.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "daytwo",
-  "xId": null,
+  "xId": "daytwohealth",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DayTwoHealth",
+  "linkedinNum": 10304777
 }

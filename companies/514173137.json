@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rapid-medical",
-  "xId": null,
+  "xId": "Rapid__Medical",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,7 @@
       "lat": 32.6578027,
       "lon": 35.1002987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2515464
 }

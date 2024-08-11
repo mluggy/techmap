@@ -1,16 +1,16 @@
 {
   "name": "Gofer Technologies",
-  "description": "A search tool for desktop environments.",
+  "description": "Desktop Search Solution",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/gofer_technologies-logo.webp",
-  "websiteUrl": "https://www.gofer.com.gh/",
+  "websiteUrl": "https://www.justgoferit.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "gofer",
   "finderId": "gofer-technologies",
-  "xId": null,
+  "xId": "justgofer",
   "addresses": [
     {
       "street": "גלית",
@@ -19,5 +19,8 @@
       "lat": 31.8756732,
       "lon": 34.727581
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "justgofer",
+  "linkedinNum": 28664149
 }

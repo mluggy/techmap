@@ -1,10 +1,10 @@
 {
-  "name": "Safe School Analytics",
-  "description": "Offering safety and compliance training solutions for schools and districts, utilized by thousands to enhance administrative management.",
-  "categoryId": 12,
+  "name": "Safe School",
+  "description": "Creating a Safe Digital Environment for Schools and Municipalities",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/safe_school_analytics-logo.webp",
-  "websiteUrl": "https://www.safeschools.com/",
+  "websiteUrl": "https://www.safeschool.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.078909,
       "lon": 34.809898
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74062600
 }

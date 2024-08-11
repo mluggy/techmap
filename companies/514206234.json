@@ -1,5 +1,5 @@
 {
-  "name": "Tamnoon Eilat",
+  "name": "Tamnoon",
   "description": "Streamlining cloud security with intelligent, end-to-end solutions for security and development teams.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "tamnoon.io",
   "crunchbaseId": "tamnoon-2acb",
   "finderId": "tamnoon",
-  "xId": null,
+  "xId": "tamnoon_io",
   "addresses": [
     {
       "street": "הרטום",
@@ -19,5 +19,7 @@
       "lat": 31.8041398,
       "lon": 35.2105915
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 89746207
 }

@@ -1,10 +1,10 @@
 {
   "name": "Supersmart",
-  "description": "Established in 1992, this company offers over 400 premium dietary supplements focused on efficacy and safety for optimal health.",
-  "categoryId": 12,
+  "description": "AI-powered Autonomous Checkout for Brick-and-mortar Retailers",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/supersmart-logo.webp",
-  "websiteUrl": "https://www.supersmart.com/",
+  "websiteUrl": "https://supersmart.me/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1599547,
       "lon": 34.8071821
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Supersmart-Shopping-Experience-774463189399153",
+  "linkedinNum": 6376583
 }

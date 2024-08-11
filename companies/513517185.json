@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "amimon",
-  "xId": null,
+  "xId": "CONNEX_Amimon",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1932202,
       "lon": 34.8827706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AmimonConnex",
+  "linkedinNum": 28431
 }

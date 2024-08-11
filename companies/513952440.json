@@ -1,16 +1,16 @@
 {
-  "name": "Agora P S V D",
-  "description": "Hosting live music events featuring top artists at renowned venues.",
-  "categoryId": 8,
+  "name": "Agora",
+  "description": "Investment Management Solution",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/agora_p_s_v_d-logo.webp",
-  "websiteUrl": "https://www.agoracleveland.com/",
+  "websiteUrl": "https://agorareal.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "agora-re",
   "crunchbaseId": null,
   "finderId": "agora",
-  "xId": null,
+  "xId": "agora_re",
   "addresses": [
     {
       "street": "המעפילים",
@@ -19,5 +19,8 @@
       "lat": 31.7623135,
       "lon": 35.2046425
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AgoraRE",
+  "linkedinNum": 11711779
 }

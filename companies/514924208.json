@@ -1,10 +1,10 @@
 {
   "name": "Peak Medical",
-  "description": "Devices for managing airways and providing critical care.",
+  "description": "Airway Management and Critical Care Devices",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/peak_medical-logo.webp",
-  "websiteUrl": "https://peakmedicalproducts.com/",
+  "websiteUrl": "https://www.peakmedic.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.277431119999996,
       "lon": 34.85979694
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10207201
 }

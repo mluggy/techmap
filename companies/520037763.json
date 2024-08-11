@@ -1,10 +1,10 @@
 {
-  "name": "Iintoo",
-  "description": "Specializing in real estate investments, this company offers equity opportunities with historically strong annualized returns.",
+  "name": "iintoo",
+  "description": "Native Digital Platform for Alternative Investments",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/iintoo-logo.webp",
-  "websiteUrl": "https://www.iintoo.com/",
+  "websiteUrl": "https://www.iintoo.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.3281766,
       "lon": 34.8581463
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getiintooit",
+  "linkedinNum": 10275338
 }

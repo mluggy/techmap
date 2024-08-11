@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "trinity-audio",
-  "xId": null,
+  "xId": "trinityaudiobot",
   "addresses": [
     {
       "street": "חכמי דוד",
@@ -19,5 +19,7 @@
       "lat": 32.063526,
       "lon": 34.78079
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18986037
 }

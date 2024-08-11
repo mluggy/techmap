@@ -1,5 +1,5 @@
 {
-  "name": "Sapiens",
+  "name": "Sapiens International Corporation",
   "description": "Enabling insurance companies to adapt and thrive in a transforming industry.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "sapiens",
   "crunchbaseId": null,
   "finderId": "sapiens",
-  "xId": null,
+  "xId": "sapiensins",
   "addresses": [
     {
       "street": null,
@@ -19,5 +19,8 @@
       "lat": 32.00767676856025,
       "lon": 34.799425993220844
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SapiensIntCorp",
+  "linkedinNum": 9659
 }

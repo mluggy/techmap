@@ -1,5 +1,5 @@
 {
-  "name": "Globaledocs",
+  "name": "GlobaleDocs",
   "description": "Streamlining complex manual editing with efficient tools and responsive support, ultimately boosting team productivity.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "globaledocs",
-  "xId": null,
+  "xId": "global_edocs",
   "addresses": [
     {
       "street": "רבי חנינא",
@@ -19,5 +19,7 @@
       "lat": 32.051814,
       "lon": 34.754884
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2433398
 }

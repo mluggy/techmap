@@ -1,5 +1,5 @@
 {
-  "name": "Lightrun Platform",
+  "name": "Lightrun",
   "description": "A platform for real-time, secure instrumentation of logs, metrics, and traces directly from your development environment to live applications.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "lightruntech",
   "crunchbaseId": null,
   "finderId": "lightrun",
-  "xId": null,
+  "xId": "Lightruntech",
   "addresses": [
     {
       "street": "פריש דניאל",
@@ -19,5 +19,8 @@
       "lat": 32.07463945,
       "lon": 34.78327163578098
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 37539897
 }

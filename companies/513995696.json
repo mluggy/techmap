@@ -1,5 +1,5 @@
 {
-  "name": "Intuit Israel",
+  "name": "Intuit",
   "description": "A global technology platform simplifying financial management and tax preparation for individuals and businesses with products like QuickBooks, TurboTax, and Mint.",
   "categoryId": 10,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "intuit",
   "crunchbaseId": "intuit",
   "finderId": "intuit",
-  "xId": null,
+  "xId": "Intuit",
   "addresses": [
     {
       "street": "הפסגות",
@@ -19,5 +19,8 @@
       "lat": 32.097946,
       "lon": 34.8551804
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Intuit.Israel.team",
+  "linkedinNum": 1666
 }

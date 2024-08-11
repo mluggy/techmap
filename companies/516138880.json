@@ -1,13 +1,13 @@
 {
-  "name": "Treat Group Innovative Therapeutics",
-  "description": "We create oversized organic lip balms and scrubs with edible-purity ingredients.",
-  "categoryId": 12,
+  "name": "Treat",
+  "description": "Mobile Gaming and Pet Care",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/treat_group_innovative_therapeutics-logo.webp",
-  "websiteUrl": "https://www.treatbeauty.com/",
+  "websiteUrl": "https://www.treatva.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "treat-virtual-adoption",
   "crunchbaseId": null,
   "finderId": "treat",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VirtuallyAdopt",
+  "linkedinNum": 66928863
 }

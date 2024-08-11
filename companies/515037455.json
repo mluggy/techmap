@@ -1,10 +1,10 @@
 {
   "name": "Alfa Rhythm",
-  "description": "A device using electrical and biometric technology to treat depression, anxiety, and sleep issues.",
+  "description": "Electro-biometric Stimulator for Depression, Anxiety, and Sleep Disorders",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/alfa_rhythm-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.alfarhythm.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.80798736240189,
       "lon": 35.05387493321824
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AlfaRhythm4U"
 }

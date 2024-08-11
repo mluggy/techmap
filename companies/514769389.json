@@ -1,5 +1,5 @@
 {
-  "name": "Re Sec Technologies",
+  "name": "ReSec Technologies",
   "description": "Document Security with Zero Trust Principles.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "re-sec-technologies-ltd",
   "crunchbaseId": "re-sec-technologies",
   "finderId": "re-sec-technologies",
-  "xId": null,
+  "xId": "resectech",
   "addresses": [
     {
       "street": "הטוחן",
@@ -19,5 +19,8 @@
       "lat": 32.4863102,
       "lon": 34.9521262
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "resectech",
+  "linkedinNum": 3253132
 }

@@ -1,10 +1,10 @@
 {
   "name": "Richard Bonn Technologies",
-  "description": "Richard Bonn Technologies Ltd. 35 Tchernichovsky Rd. Haifa 35709 Israel. Tel: +972 4 831 4404. Fax: +972 4 833 3013. Mobile +972 52 ...",
-  "categoryId": 15,
+  "description": "Precision Cooling and Air-conditioning Systems",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/richard_bonn_technologies-logo.webp",
-  "websiteUrl": "https://bonncooling.com/",
+  "websiteUrl": "https://www.bonn-cooling.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.817579,
       "lon": 34.9708888
     }
-  ]
+  ],
+  "isMultinational": false
 }

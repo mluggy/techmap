@@ -1,10 +1,10 @@
 {
-  "name": "Fritz Logistics And Forwarding",
-  "description": "A top-rated Galena restaurant offering exceptional cuisine in a charming French bistro setting with outstanding ambiance and delightful service.",
-  "categoryId": 9,
+  "name": "Fritz",
+  "description": "Advanced Logistics and Freight Forwarding Solutions",
+  "categoryId": 5,
   "size": "l",
   "logoFile": "logos/fritz_logistics_and_forwarding-logo.webp",
-  "websiteUrl": "https://fritzandfrites.com/",
+  "websiteUrl": "https://www.fritz.co.il/en",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0216292,
       "lon": 34.8648319
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Fritz.co.il",
+  "linkedinNum": 16009
 }

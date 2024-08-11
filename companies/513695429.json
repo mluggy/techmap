@@ -1,10 +1,10 @@
 {
-  "name": "Otomedics Advanced Medical Technologies",
-  "description": "Ear Surgery Tympanostomy Tubes.",
+  "name": "Otomedics",
+  "description": "Tympanostomy Tube for Ear Surgery",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/otomedics_advanced_medical_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://cohendv.wixsite.com/otomedics-u-tube",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.76811277156015,
       "lon": 35.178962945639604
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Feelter Sales Tools",
+  "name": "Feelter",
   "description": "An innovative embeddable search engine that swiftly curates social content for your website.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "feelter",
-  "xId": null,
+  "xId": "feelterinc",
   "addresses": [
     {
       "street": "שוקן",
@@ -19,5 +19,8 @@
       "lat": 32.053118,
       "lon": 34.772401
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FeelterSystems",
+  "linkedinNum": 5349673
 }

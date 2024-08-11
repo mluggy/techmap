@@ -1,5 +1,5 @@
 {
-  "name": "Acid Technologies",
+  "name": "ACID Technologies",
   "description": "This company provides continuous dark web monitoring and cyber intelligence to protect organizations from cyber attacks.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "acid-technologies",
   "crunchbaseId": null,
   "finderId": "acid-technologies",
-  "xId": null,
+  "xId": "AcidTec",
   "addresses": [
     {
       "street": "לסקוב חיים",
@@ -19,5 +19,8 @@
       "lat": 32.1746968,
       "lon": 34.8419719
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AcidTechnologies",
+  "linkedinNum": 4854877
 }

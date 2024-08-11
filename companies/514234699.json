@@ -1,5 +1,5 @@
 {
-  "name": "Avantis Team",
+  "name": "Avantis",
   "description": "Seamless, profitable and efficient monetization suites for software, mobile and website owners.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "avantis-team",
   "crunchbaseId": "avantis-team",
   "finderId": "avantis",
-  "xId": null,
+  "xId": "AvantisTeam",
   "addresses": [
     {
       "street": null,
@@ -19,5 +19,8 @@
       "lat": 32.08325589984098,
       "lon": 34.802308806732476
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "avantisteam",
+  "linkedinNum": 4852665
 }

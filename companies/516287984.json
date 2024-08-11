@@ -1,10 +1,10 @@
 {
-  "name": "Curatio Dl",
+  "name": "CuratioDL",
   "description": "Advanced cancer treatment systems powered by deep learning technology.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/curatio_dl-logo.webp",
-  "websiteUrl": "http://curatiodl.com/",
+  "websiteUrl": "https://curatiodl.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "curatio-dl",
@@ -19,5 +19,7 @@
       "lat": 32.0736302,
       "lon": 34.7963872
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71231732
 }

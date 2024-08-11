@@ -1,16 +1,16 @@
 {
-  "name": "Guidde Knowledge",
-  "description": "A versatile plugin for swift and easy grid creation and guide manipulation across various work platforms.",
+  "name": "Guidde",
+  "description": "Application Enablement Platform",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/guidde_knowledge-logo.webp",
-  "websiteUrl": "https://guideguide.me/",
+  "websiteUrl": "https://www.guidde.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "guidde",
-  "xId": null,
+  "xId": "guiddeco",
   "addresses": [
     {
       "street": "השדות",
@@ -19,5 +19,8 @@
       "lat": 32.1248831,
       "lon": 34.8163807
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GuiddeCo",
+  "linkedinNum": 71624645
 }

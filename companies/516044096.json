@@ -1,5 +1,5 @@
 {
-  "name": "Homez Technologies",
+  "name": "Homez",
   "description": "A worldwide provider of turnkey, stylishly furnished apartments for flexible rental durations.",
   "categoryId": 9,
   "size": "m",
@@ -19,5 +19,7 @@
       "lat": 32.062283,
       "lon": 34.764451
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 66230433
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Sightful Computers",
+  "name": "Sightful",
   "description": "We provide an ideal creative workspace with ample time and space, now accessible through our Early Access program.",
   "categoryId": 4,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "heysightful",
   "crunchbaseId": null,
   "finderId": "sightful",
-  "xId": null,
+  "xId": "sightful",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.07207,
       "lon": 34.794686
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74498231
 }

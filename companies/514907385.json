@@ -1,0 +1,26 @@
+{
+  "name": "PTC",
+  "description": null,
+  "categoryId": 14,
+  "size": "xl",
+  "logoFile": "logos/ptc.webp",
+  "websiteUrl": "https://www.ptc.com",
+  "careersUrl": "https://www.ptc.com/en/careers",
+  "isHiring": true,
+  "linkedinId": "ptcinc",
+  "linkedinNum": 1935,
+  "crunchbaseId": null,
+  "finderId": "ptc",
+  "xId": "PTC",
+  "facebookId": "PTCinIsrael",
+  "addresses": [
+    {
+      "street": "חת נחום",
+      "houseNumber": 5,
+      "city": "חיפה",
+      "lat": 32.78322381187122,
+      "lon": 34.95940949874106
+    }
+  ],
+  "isMultinational": true
+}

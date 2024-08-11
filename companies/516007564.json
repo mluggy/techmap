@@ -1,10 +1,10 @@
 {
-  "name": "Samson Logic Transportation",
-  "description": "Intelligent System for Monitoring and Managing Construction Materials.",
-  "categoryId": 13,
+  "name": "Samson Logic",
+  "description": "Smart Tracking and Management System for Construction Materials",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/samson_logic_transportation-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.samson-logic.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "samson-logic",
@@ -19,5 +19,7 @@
       "lat": 32.1328239,
       "lon": 34.8589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 30126974
 }

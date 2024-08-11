@@ -1,10 +1,10 @@
 {
-  "name": "Autoagronom Israel",
-  "description": "A system designed to monitor and manage irrigation and fertilization.",
-  "categoryId": 13,
+  "name": "AutoAgronom",
+  "description": "Sensing System for Irrigation and Fertilization",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/autoagronom_israel-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://WWW.ROOTS-TALK.COM",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "autoagronom",
@@ -19,5 +19,8 @@
       "lat": 32.6406157,
       "lon": 35.0851611
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AutoAgronom",
+  "linkedinNum": 5344406
 }

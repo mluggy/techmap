@@ -1,5 +1,5 @@
 {
-  "name": "Ziprecruiter Israel",
+  "name": "ZipRecruiter",
   "description": "A personalized career advisor service that helps users find and apply to job openings in the US with ease.",
   "categoryId": 14,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "ziprecruiter",
   "crunchbaseId": null,
   "finderId": "ziprecruiter",
-  "xId": null,
+  "xId": "ZipRecruiter",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "pages",
+  "linkedinNum": 967124
 }

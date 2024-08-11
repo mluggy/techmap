@@ -1,5 +1,5 @@
 {
-  "name": "Alex Original Enterprise 2008",
+  "name": "Alex Original",
   "description": "Pioneering a unique approach, this company designs and manufactures all its components and products in-house.",
   "categoryId": 5,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.27935875,
       "lon": 34.85796956507133
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "alexoriginalltd",
+  "linkedinNum": 51731286
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Solidrun",
+  "name": "SolidRun",
   "description": "Developer of cost-effective, low-power embedded edge computing platforms specializing in 5G, IoT, enterprise security, network monitoring, and SD-WAN solutions.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "solidrun",
-  "xId": null,
+  "xId": "solid_run",
   "addresses": [
     {
       "street": "משמר הים",
@@ -19,5 +19,8 @@
       "lat": 32.90800931610275,
       "lon": 35.08528570972289
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SolidRun",
+  "linkedinNum": 3305184
 }

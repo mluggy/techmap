@@ -1,16 +1,16 @@
 {
-  "name": "Intervyo R D",
-  "description": "Forecasting Job Candidates' Fit Using Analytical Tools.",
-  "categoryId": 1,
+  "name": "Intervyo",
+  "description": "Predictive Analytics for Job Candidate Suitability",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/intervyo_r_d-logo.webp",
-  "websiteUrl": "https://interviewnow.io/",
+  "websiteUrl": "https://www.intervyo.com/",
   "careersUrl": "https://jobs.publix.com/2022/01/17/5-interview-tips-to-help-you-stand-out/",
   "isHiring": true,
   "linkedinId": "intervyo",
   "crunchbaseId": "intervyo",
   "finderId": "Intervyo",
-  "xId": null,
+  "xId": "intervyo",
   "addresses": [
     {
       "street": "ברודצקי",
@@ -19,5 +19,8 @@
       "lat": 32.106353,
       "lon": 34.797195
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "intervyo",
+  "linkedinNum": 7942229
 }

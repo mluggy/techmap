@@ -1,10 +1,10 @@
 {
   "name": "Cuspa",
-  "description": "Minimally Invasive Solutions for Heart Valve Dysfunction.",
+  "description": "Transcatheter Treatment for Valve Insufficiency",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cuspa-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://cuspamedical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cuspa",
@@ -19,5 +19,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82134919
 }

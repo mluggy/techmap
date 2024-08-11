@@ -1,5 +1,5 @@
 {
-  "name": "Palo Alto Networks Israel",
+  "name": "Palo Alto Networks",
   "description": "Provider of comprehensive cybersecurity solutions emphasizing Zero Trust, securing networks, cloud operations, hybrid workforces, and leveraging threat intelligence and expert consulting.",
   "categoryId": 7,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "palo-alto-networks",
   "crunchbaseId": "palo-alto-networks",
   "finderId": "palo-alto-networks",
-  "xId": null,
+  "xId": "PaloAltoNtwks",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.068346,
       "lon": 34.793507
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "PaloAltoNetworksIsrael",
+  "linkedinNum": 30086
 }

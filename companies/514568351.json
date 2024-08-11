@@ -1,5 +1,5 @@
 {
-  "name": "Bit Mint",
+  "name": "BitMint",
   "description": "BitMint revolutionizes cyberspace living with innovative solutions in digital money, security, privacy, and identity management, driven by advanced high-grade randomness technology.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "bitmint",
   "crunchbaseId": null,
   "finderId": "bitmint",
-  "xId": null,
+  "xId": "BitMintNews",
   "addresses": [
     {
       "street": "יערי מאיר",
@@ -19,5 +19,8 @@
       "lat": 32.100022,
       "lon": 34.787157
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 33245624
 }

@@ -1,10 +1,10 @@
 {
-  "name": "I Derm Pharma",
-  "description": "The company specializes in creating innovative, steroid-free topical treatments for autoimmune skin conditions like Psoriasis.",
+  "name": "I-Derm Pharma",
+  "description": "Nonsteroidal Treatment for Inflammatory Skin Diseases",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/i_derm_pharma-logo.webp",
-  "websiteUrl": "https://www.idermpharma.com/",
+  "websiteUrl": "https://ngt-healthcare2.com/iderm/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false
 }

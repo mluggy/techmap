@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "shockwave-security",
   "finderId": "shockwave-security",
-  "xId": null,
+  "xId": "shockwave_sec",
   "addresses": [
     {
       "street": "השקד",
@@ -19,5 +19,7 @@
       "lat": 32.573051500000005,
       "lon": 34.94744858880056
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76210755
 }

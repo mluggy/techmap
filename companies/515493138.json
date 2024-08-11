@@ -1,5 +1,5 @@
 {
-  "name": "Oriient New Media",
+  "name": "Oriient",
   "description": "Oriient provides precise indoor location services using Earth's magnetic field and advanced deep learning techniques.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "oriient",
   "crunchbaseId": "oriient",
   "finderId": "oriient",
-  "xId": null,
+  "xId": "oriient_me",
   "addresses": [
     {
       "street": "זליבנסקי",
@@ -19,5 +19,8 @@
       "lat": 32.123651,
       "lon": 34.826146
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "oriient.me",
+  "linkedinNum": 10693382
 }

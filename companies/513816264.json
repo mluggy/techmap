@@ -1,5 +1,5 @@
 {
-  "name": "Attengo",
+  "name": "AttenGo",
   "description": "Training attention and concentration skills through unique computer exercises that address background distractions with immediate performance feedback.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "attengo",
-  "xId": null,
+  "xId": "attengo_adhd",
   "addresses": [
     {
       "street": "כבוש העבודה",
@@ -19,5 +19,7 @@
       "lat": 32.17238910283201,
       "lon": 34.84362104456016
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AttenGoADHD"
 }

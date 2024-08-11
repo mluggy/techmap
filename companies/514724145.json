@@ -1,5 +1,5 @@
 {
-  "name": "Pyramid Analytics Israel",
+  "name": "Pyramid Analytics",
   "description": "A seamless platform integrating data preparation, business analytics, and data science to enhance decision intelligence.",
   "categoryId": 1,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.pyramidanalytics.com/",
   "careersUrl": "https://www.pyramidanalytics.com/company/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "pyramid-analytics",
   "crunchbaseId": null,
   "finderId": "pyramid-analytics",
-  "xId": null,
+  "xId": "PyramidAnalytic",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,8 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PyramidAnalytics",
+  "linkedinNum": 1919217
 }

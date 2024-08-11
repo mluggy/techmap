@@ -1,5 +1,5 @@
 {
-  "name": "Surgical Theater International",
+  "name": "Surgical Theater",
   "description": "Leveraging XR technology, we enhance surgical precision by identifying potential anatomical risks.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "surgical-theater",
   "crunchbaseId": null,
   "finderId": "surgical-theater",
-  "xId": null,
+  "xId": "SurgicalTheater",
   "addresses": [
     {
       "street": "מפי",
@@ -19,5 +19,8 @@
       "lat": 32.2746979,
       "lon": 34.8602605
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SurgicalTheater",
+  "linkedinNum": 3828230
 }

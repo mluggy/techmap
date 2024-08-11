@@ -1,5 +1,5 @@
 {
-  "name": "Cyberint Technologies",
+  "name": "CyberInt",
   "description": "Continuously mitigate the most relevant risks with customized threat intelligence specific to your attack surface.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cyberint",
   "crunchbaseId": "cyberint",
   "finderId": "cyberint",
-  "xId": null,
+  "xId": "cyber_int",
   "addresses": [
     {
       "street": "המפלסים",
@@ -19,5 +19,8 @@
       "lat": 32.1015806,
       "lon": 34.8635276
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cyberint",
+  "linkedinNum": 2741671
 }

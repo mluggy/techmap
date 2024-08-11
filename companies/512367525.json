@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fibrolan",
-  "xId": null,
+  "xId": "fibrolan",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,8 @@
       "lat": 32.6578027,
       "lon": 35.1002987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FibroLAN-CEE-GmbH-1415354378678442",
+  "linkedinNum": 114346
 }

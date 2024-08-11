@@ -1,16 +1,16 @@
 {
   "name": "Sentra",
-  "description": "An event was celebrated with festive joy during the Renewal Week at the Holy Metropolis of Kleisoura in Kastoria.",
+  "description": "Cloud-native Data Security Platform",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/sentra-logo.webp",
-  "websiteUrl": "https://sentra.com.gr/",
+  "websiteUrl": "https://www.sentra.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sentra-io",
   "crunchbaseId": null,
   "finderId": "sentra",
-  "xId": null,
+  "xId": "sentra_security",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81291957
 }

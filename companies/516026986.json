@@ -1,16 +1,16 @@
 {
-  "name": "Cynergy Cybersecurity 2019",
-  "description": "Advance your personal and professional growth through communal learning and shared experiences.",
+  "name": "Cynergy",
+  "description": "Attack Surface Management and Automated Remediation",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/cynergy_cybersecurity_2019-logo.webp",
-  "websiteUrl": "https://www.cynergymaine.com/",
+  "websiteUrl": "https://cynergy.app",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cynergy",
-  "xId": null,
+  "xId": "CynergyApp",
   "addresses": [
     {
       "street": "אלמליח",
@@ -19,5 +19,8 @@
       "lat": 32.0182492,
       "lon": 34.7448224
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cynergyapp",
+  "linkedinNum": 68816166
 }

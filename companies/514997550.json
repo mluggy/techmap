@@ -1,5 +1,5 @@
 {
-  "name": "Webeyez Analytics",
+  "name": "Webeyez",
   "description": "Leveraging AI insights, this company optimizes eCommerce performance by identifying, prioritizing, and resolving roadblocks to boost conversions and revenue.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "webeyez",
   "crunchbaseId": "webeyez",
   "finderId": "webeyez",
-  "xId": null,
+  "xId": "webeyezHQ",
   "addresses": [
     {
       "street": "חלמיש",
@@ -19,5 +19,8 @@
       "lat": 32.4811959,
       "lon": 34.9481254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "webeyez",
+  "linkedinNum": 9855184
 }

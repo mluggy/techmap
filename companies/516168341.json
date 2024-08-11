@@ -1,16 +1,16 @@
 {
-  "name": "Hypercore Financial Technologies",
-  "description": "Offering customizable, comprehensive solutions to meet diverse global business needs.",
+  "name": "Hypercore",
+  "description": "Data-first loan management for  commercial and direct lenders who want to scale.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/hypercore_financial_technologies-logo.webp",
-  "websiteUrl": "https://www.hypercorenetworks.com/",
+  "websiteUrl": "https://www.hypercore.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hypercore",
-  "xId": null,
+  "xId": "hypercoreai",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hypercoreai",
+  "linkedinNum": 69708599
 }

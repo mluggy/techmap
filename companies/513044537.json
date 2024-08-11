@@ -1,5 +1,5 @@
 {
-  "name": "Dialogic Networks Israel",
+  "name": "Dialogic",
   "description": "Providing top-tier cloud-optimized solutions across applications, media servers, SBC, WebRTC, Unified Communications, and IoT for diverse industries like service providers and enterprises.",
   "categoryId": 18,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "dialogic",
   "crunchbaseId": null,
   "finderId": "dialogic",
-  "xId": null,
+  "xId": "Dialogic",
   "addresses": [
     {
       "street": "הסיבים",
@@ -19,5 +19,8 @@
       "lat": 32.0916612,
       "lon": 34.8571892
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "DialogicInc",
+  "linkedinNum": 5736
 }

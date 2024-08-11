@@ -1,5 +1,5 @@
 {
-  "name": "Tangelo Games Holdings",
+  "name": "Tangelo Games",
   "description": "Offering free-to-play, cross-platform games that connect global communities, supporting solo and multiplayer experiences in five languages.",
   "categoryId": 11,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tangelo-games",
-  "xId": null,
+  "xId": "TangeloGames",
   "addresses": [
     {
       "street": "לינקולן",
@@ -19,5 +19,8 @@
       "lat": 32.066035,
       "lon": 34.782959
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Tangelogames",
+  "linkedinNum": 10864350
 }

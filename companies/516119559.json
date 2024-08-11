@@ -1,5 +1,5 @@
 {
-  "name": "Magnilearn",
+  "name": "MagniLearn",
   "description": "An educational platform providing tailored, interactive lessons that adapt to individual student needs based on extensive learning data.",
   "categoryId": 1,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 31.7316961,
       "lon": 35.2057465
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MagnilearnEdTech",
+  "linkedinNum": 64289417
 }

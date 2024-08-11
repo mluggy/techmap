@@ -1,5 +1,5 @@
 {
-  "name": "Algopix Holdings",
+  "name": "Algopix",
   "description": "An AI-driven tool enabling optimal product selection and cross-channel analysis for smarter sales decisions.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "algopix",
-  "xId": null,
+  "xId": "Algopix",
   "addresses": [
     {
       "street": "דרך השלום",
@@ -19,5 +19,8 @@
       "lat": 32.072245,
       "lon": 34.796049
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "algopix",
+  "linkedinNum": 10677945
 }

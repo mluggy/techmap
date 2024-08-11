@@ -1,16 +1,16 @@
 {
-  "name": "Keysight Technologies Israel 1999",
+  "name": "Keysight",
   "description": "Keysight Technologies is a leading provider of electronic design and test solutions, enabling innovation and performance in the aerospace, defense, automotive, communications, and semiconductor industries.",
-  "categoryId": 15,
   "size": "xl",
+  "categoryId": 16,
   "logoFile": "logos/keysight_technologies_israel_1999-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.keysight.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "keysight-technologies",
   "crunchbaseId": null,
   "finderId": "keysight",
-  "xId": null,
+  "xId": "keysight",
   "addresses": [
     {
       "street": "דולב",
@@ -19,5 +19,8 @@
       "lat": 32.2019868,
       "lon": 34.8811357
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Keysight",
+  "linkedinNum": 3812750
 }

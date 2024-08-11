@@ -1,5 +1,5 @@
 {
-  "name": "Mul T Lock",
+  "name": "Mul-T-Lock",
   "description": "Offering innovative mechanical and electromechanical security solutions, their products enhance safety for homes and businesses.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mul-t-lock",
-  "xId": null,
+  "xId": "MulTLockCorp",
   "addresses": [
     {
       "street": "חירות",
@@ -19,5 +19,8 @@
       "lat": 31.8679622,
       "lon": 34.7448883
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mul.t.lock.corp",
+  "linkedinNum": 69553
 }

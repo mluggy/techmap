@@ -1,10 +1,10 @@
 {
-  "name": "Degem Engineering S Y",
-  "description": "Specializing in luxurious fine diamond and gemstone jewelry, we bring over 40 years of expertise in Malaysia's jewelry industry.",
-  "categoryId": 9,
+  "name": "Degem",
+  "description": "Additive Manufacturing Technology for Building Models",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/degem_engineering_s_y-logo.webp",
-  "websiteUrl": "https://www.degemdiamond.com/",
+  "websiteUrl": "https://3degem.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "3degem",
+  "linkedinNum": 70451567
 }

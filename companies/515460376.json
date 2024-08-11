@@ -1,5 +1,5 @@
 {
-  "name": "Adoric Technologies",
+  "name": "Adoric",
   "description": "A cutting-edge lead generation and conversion optimization platform specializing in personalized website engagement for enhanced ecommerce performance.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "adoric",
   "crunchbaseId": null,
   "finderId": "adoric",
-  "xId": null,
+  "xId": "AdoricBiz",
   "addresses": [
     {
       "street": "אליפלט",
@@ -19,5 +19,8 @@
       "lat": 32.057708,
       "lon": 34.764336
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getadoric",
+  "linkedinNum": 2673824
 }

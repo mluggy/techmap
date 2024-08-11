@@ -1,5 +1,5 @@
 {
-  "name": "Antisep Tech",
+  "name": "AntisepTech",
   "description": "AntisepTech provides digital health tools to prevent hospital-acquired infections and combat antimicrobial resistance, empowering medical professionals and caregivers alike.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 31.374021,
       "lon": 34.8129461
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AntisepTech",
+  "linkedinNum": 27217683
 }

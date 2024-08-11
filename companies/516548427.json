@@ -1,10 +1,10 @@
 {
-  "name": "Terrific Digital Marketing",
-  "description": "Interactive Shopping Experience.",
-  "categoryId": 9,
+  "name": "Terrific",
+  "description": "Live Shopping Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/terrific_digital_marketing-logo.webp",
-  "websiteUrl": "https://terrific-digital.com/",
+  "websiteUrl": "https://www.terrificlive.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "terrific-digital",
@@ -19,5 +19,8 @@
       "lat": 32.0705297,
       "lon": 34.7872761
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "terrificapp",
+  "linkedinNum": 72145691
 }

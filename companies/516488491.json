@@ -1,16 +1,16 @@
 {
-  "name": "Ecoprice",
-  "description": "An AI-driven solution offering eCommerce stores personalized, real-time pricing strategies to boost profitability and competitive advantage.",
-  "categoryId": 1,
+  "name": "Intelis",
+  "description": "Shopping Comparison Engine",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/ecoprice-logo.webp",
-  "websiteUrl": "https://www.intelis.ai/",
+  "websiteUrl": "https://www.ecoprice.shop/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ecoprice",
-  "xId": null,
+  "xId": "eco_price",
   "addresses": [
     {
       "street": "שרת משה",
@@ -19,5 +19,8 @@
       "lat": 31.9932733,
       "lon": 34.755049
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ec0price",
+  "linkedinNum": 67753259
 }

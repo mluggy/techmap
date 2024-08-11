@@ -1,16 +1,16 @@
 {
-  "name": "Zira Investments Tdi",
-  "description": "Zira enables users to effortlessly manage their own roles via message reactions on Discord since 2017.",
+  "name": "Zira",
+  "description": "End-to-end Business Automation for Industrial Manufacturers",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/zira_investments_tdi-logo.webp",
-  "websiteUrl": "https://zira.bot/",
+  "websiteUrl": "https://www.joinzira.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "zira",
-  "xId": null,
+  "xId": "Zira_US",
   "addresses": [
     {
       "street": "ארלוזורוב",
@@ -19,5 +19,8 @@
       "lat": 32.0135778,
       "lon": 34.7714884
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LightappTechnologies",
+  "linkedinNum": 2170866
 }

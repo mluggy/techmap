@@ -1,5 +1,5 @@
 {
-  "name": "Insurights",
+  "name": "Healthee",
   "description": "A virtual healthcare assistant simplifies benefits navigation and Open Enrollment, providing real-time personalized answers to enhance efficiency for HR leaders and stakeholders.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "insurights",
   "finderId": "insurights",
-  "xId": null,
+  "xId": "gethealthee",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "gethealthee"
 }

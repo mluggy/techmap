@@ -1,10 +1,10 @@
 {
   "name": "Deep Learning Robotics",
-  "description": "Autonomous Learning Robotics.",
-  "categoryId": 15,
+  "description": "Self-learning Robotic Controller",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/deep_learning_robotics-logo.webp",
-  "websiteUrl": "https://16-884.github.io/",
+  "websiteUrl": "https://www.dlrob.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.4852088,
       "lon": 34.9486528645006
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18155477
 }

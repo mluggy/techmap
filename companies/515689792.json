@@ -1,5 +1,5 @@
 {
-  "name": "Cyabra Strategy",
+  "name": "Cyabra",
   "description": "Protect brand reputation and combat disinformation by identifying malicious actors, bot networks, and AI-generated content.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cyabra",
   "crunchbaseId": "cyabra",
   "finderId": "cyabra",
-  "xId": null,
+  "xId": "thecyabra",
   "addresses": [
     {
       "street": "שץ גגה גרשון",
@@ -19,5 +19,7 @@
       "lat": 32.069126,
       "lon": 34.789123
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18135073
 }

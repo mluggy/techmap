@@ -1,5 +1,5 @@
 {
-  "name": "Tinytap",
+  "name": "TinyTap",
   "description": "A global community-driven platform where users create, share, and play personalized interactive educational lessons and games.",
   "categoryId": 11,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tinytap",
-  "xId": null,
+  "xId": "TinyTapIt",
   "addresses": [
     {
       "street": "הנצי\"ב",
@@ -19,5 +19,8 @@
       "lat": 32.068149,
       "lon": 34.789976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tinytapit",
+  "linkedinNum": 2791852
 }

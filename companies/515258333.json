@@ -1,5 +1,5 @@
 {
-  "name": "Datarails",
+  "name": "DataRails",
   "description": "Providing financial professionals with a streamlined tool for FP&A, budgeting, and forecasting.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "datarails",
   "crunchbaseId": null,
   "finderId": "datarails",
-  "xId": null,
+  "xId": "datarails",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.079241,
       "lon": 34.795072
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "datarails",
+  "linkedinNum": 10519133
 }

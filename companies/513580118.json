@@ -1,16 +1,16 @@
 {
   "name": "Icaros Geosystems",
-  "description": "עולם וירטואלי לשיפור הכושר הגופני באמצעות פעילות אינטראקטיבית.",
-  "categoryId": 4,
+  "description": "Geospatial Solutions",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/icaros_geosystems-logo.webp",
-  "websiteUrl": "https://www.icaros.co.il/",
+  "websiteUrl": "https://icarosgeospatial.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "icaros",
-  "xId": null,
+  "xId": "IcarosInc",
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +19,8 @@
       "lat": 32.1663299,
       "lon": 34.8124346
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "icarosinc",
+  "linkedinNum": 1444347
 }

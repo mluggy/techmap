@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "secret-double-octopus",
-  "xId": null,
+  "xId": "double_octopus",
   "addresses": [
     {
       "street": "שד' רוקח",
@@ -19,5 +19,7 @@
       "lat": 32.1043282,
       "lon": 34.8088651
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10259347
 }

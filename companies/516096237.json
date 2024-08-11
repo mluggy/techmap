@@ -1,10 +1,10 @@
 {
   "name": "Ampify",
-  "description": "A platform offering tools and resources for creating and sharing music.",
-  "categoryId": 8,
+  "description": "Algorithm to Convert Websites to Mobile",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ampify-logo.webp",
-  "websiteUrl": "https://ampifymusic.com/",
+  "websiteUrl": "https://ampify.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0731354,
       "lon": 34.814782380980105
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ampify.io",
+  "linkedinNum": 28806916
 }

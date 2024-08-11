@@ -1,5 +1,5 @@
 {
-  "name": "Plant Ditech",
+  "name": "Plant-Ditech",
   "description": "Enabling advanced plant research through innovative technologies and a vibrant community.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "plant-ditech",
-  "xId": null,
+  "xId": "PlantDiTech",
   "addresses": [
     {
       "street": "הירדן",
@@ -19,5 +19,7 @@
       "lat": 31.885643,
       "lon": 34.7387338
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17960823
 }

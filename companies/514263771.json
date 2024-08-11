@@ -1,16 +1,16 @@
 {
   "name": "Tikun Olam",
-  "description": "Healthcare-focused Cannabis Solutions.",
+  "description": "Medical Cannabis",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/tikun_olam-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://tikunolam.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tikun-olam",
-  "xId": null,
+  "xId": "TikunOlam_mgc",
   "addresses": [
     {
       "street": "אלון",
@@ -19,5 +19,8 @@
       "lat": 33.045386793709625,
       "lon": 35.565042192370036
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TikunOlamUSA",
+  "linkedinNum": 12644267
 }

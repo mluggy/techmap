@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "applicaster",
-  "xId": null,
+  "xId": "Applicaster",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,8 @@
       "lat": 32.0869162,
       "lon": 34.7822126
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "applicaster",
+  "linkedinNum": 1425277
 }

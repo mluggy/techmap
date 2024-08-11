@@ -1,5 +1,5 @@
 {
-  "name": "Percepto Robotics",
+  "name": "Percepto",
   "description": "They innovate the inspection and monitoring of vital infrastructure through advanced visual data collection and analysis.",
   "categoryId": 15,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "perceptoautonomousdrones",
   "crunchbaseId": "percepto",
   "finderId": "percepto",
-  "xId": null,
+  "xId": "PerceptoDrones",
   "addresses": [
     {
       "street": "שדרות דם המכבים",
@@ -19,5 +19,9 @@
       "lat": 31.9036665,
       "lon": 35.0067451
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "perceptodrones",
+  "linkedinNum": 5366007,
+  "comeetId": "percepto/44.000"
 }

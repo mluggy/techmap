@@ -1,5 +1,5 @@
 {
-  "name": "Ripe Guard",
+  "name": "Ripe-Guard",
   "description": "This Israeli startup offers a non-destructive, highly accurate shelf-life prediction system for fresh produce to significantly reduce waste in distribution and retail.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 33.19620427669614,
       "lon": 35.57492703472511
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75065345
 }

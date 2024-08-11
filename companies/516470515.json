@@ -1,5 +1,5 @@
 {
-  "name": "Jika Io",
+  "name": "Jika.io",
   "description": "Create a portfolio, network with fellow investors, and boost your earnings by leveraging collective expertise.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "jika-io",
   "crunchbaseId": null,
   "finderId": "jika-io",
-  "xId": null,
+  "xId": "jika_io",
   "addresses": [
     {
       "street": "קרליבך",
@@ -19,5 +19,8 @@
       "lat": 32.06895,
       "lon": 34.7831904
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "www.jika.io",
+  "linkedinNum": 76530753
 }

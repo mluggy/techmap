@@ -1,5 +1,5 @@
 {
-  "name": "Aio A D Systems",
+  "name": "AIO",
   "description": "Provides advanced technology for banks and non-banks to enhance financial decision-making and create customer profiles for loans and financial products.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "aio",
-  "xId": null,
+  "xId": "aio_identity",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,8 @@
       "lat": 32.65739155,
       "lon": 35.09768735
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "aio.identity",
+  "linkedinNum": 28918439
 }

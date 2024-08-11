@@ -10,7 +10,7 @@
   "linkedinId": "mentee-robotics",
   "crunchbaseId": null,
   "finderId": "mentee-robotics",
-  "xId": null,
+  "xId": "MenteeBot",
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -19,5 +19,7 @@
       "lat": 32.1640314,
       "lon": 34.8154209
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 91015386
 }

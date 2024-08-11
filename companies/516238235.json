@@ -1,16 +1,16 @@
 {
-  "name": "Laminar Israel",
-  "description": "A medical device company focused on removing the left atrial appendage in non-valvular atrial fibrillation patients.",
-  "categoryId": 12,
+  "name": "Laminar",
+  "description": "Public Cloud Data Protection",
+  "categoryId": 7,
   "size": "m",
   "logoFile": "logos/laminar_israel-logo.webp",
-  "websiteUrl": "https://laminarlaa.com/",
+  "websiteUrl": "https://laminarsecurity.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "laminar",
-  "xId": null,
+  "xId": "laminarsec",
   "addresses": [
     {
       "street": "יצחק שדה",
@@ -19,5 +19,8 @@
       "lat": 32.06518925,
       "lon": 34.78521533912037
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "laminarsec",
+  "linkedinNum": 79906878
 }

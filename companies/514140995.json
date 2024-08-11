@@ -1,16 +1,16 @@
 {
   "name": "Gnrgy",
-  "description": "Provider of charging infrastructure solutions and regulatory compliance for electric vehicles.",
+  "description": "Smart Grid for Appliances and EV Charging Solutions",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/gnrgy-logo.webp",
-  "websiteUrl": "https://www.gnrgy.co.il/",
+  "websiteUrl": "https://www.gnrgy.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "gnrgy",
-  "xId": null,
+  "xId": "Gnrgy",
   "addresses": [
     {
       "street": "דרך יצחק רבין",
@@ -19,5 +19,8 @@
       "lat": 32.0661187,
       "lon": 34.8047208
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "%D7%92%D7%99%D7%A0%D7%A8%D7%92%D7%99-%D7%A8%D7%9B%D7%91-%D7%97%D7%A9%D7%9E%D7%9C%D7%99-Gnrgy-e-mobility-412401219350543",
+  "linkedinNum": 554498
 }

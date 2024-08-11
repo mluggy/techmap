@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.semperis.com/",
   "careersUrl": "https://www.semperis.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "semperis",
   "crunchbaseId": null,
   "finderId": "semperis",
-  "xId": null,
+  "xId": "SemperisTech",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.08452905,
       "lon": 34.80020929592628
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SemperisTech",
+  "linkedinNum": 3219131
 }

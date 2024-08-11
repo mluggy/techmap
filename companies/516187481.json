@@ -1,10 +1,10 @@
 {
   "name": "Tupaia",
-  "description": "A global crowdsourcing initiative using an app to gather and share clinic data and procurement resources.",
-  "categoryId": 12,
+  "description": "GNSS-based Precise Positioning",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/tupaia-logo.webp",
-  "websiteUrl": "https://www.tupaia.org/",
+  "websiteUrl": "https://tupaia-pos.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1462554,
       "lon": 34.8332184
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77658177
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Beeper Communications Israel",
-  "description": "A versatile messaging platform allowing communication across 14 different chat networks from a single app.",
-  "categoryId": 18,
+  "name": "Beeper Communications",
+  "description": "Emergency Communication Systems",
+  "categoryId": 3,
   "size": "m",
   "logoFile": "logos/beeper_communications_israel-logo.webp",
-  "websiteUrl": "https://www.beeper.com/",
+  "websiteUrl": "https://he.beepergroup.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "beeper-communications-israel-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.0816104,
       "lon": 34.8148549
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Beeper.Jobs",
+  "linkedinNum": 512663
 }

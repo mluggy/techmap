@@ -1,0 +1,25 @@
+{
+  "name": "Nilos",
+  "description": "Custodial Wallet for Brands and Creators",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/nilos.webp",
+  "websiteUrl": "https://www.nilos.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 74055871,
+  "crunchbaseId": null,
+  "finderId": "nilos",
+  "xId": "intent",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 37,
+      "city": "תל אביב - יפו",
+      "lat": 32.06408202865042,
+      "lon": 34.77383491563364
+    }
+  ],
+  "isMultinational": false
+}

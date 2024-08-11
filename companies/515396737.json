@@ -1,10 +1,10 @@
 {
-  "name": "Shoptimally",
-  "description": "Customizing Online Shopping Experiences.",
-  "categoryId": 9,
+  "name": "Neowize",
+  "description": "Ecommerce Site Personalization",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/shoptimally-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.neowize.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.119322,
       "lon": 34.82452
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NeoWize",
+  "linkedinNum": 10580249
 }

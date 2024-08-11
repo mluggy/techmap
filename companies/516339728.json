@@ -1,5 +1,5 @@
 {
-  "name": "Cloudquery",
+  "name": "CloudQuery",
   "description": "An open-source data integration platform that enhances security through comprehensive metadata extraction and analysis from AWS and other services.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cloudquery",
-  "xId": null,
+  "xId": "cloudqueryio",
   "addresses": [
     {
       "street": "שץ גגה גרשון",
@@ -19,5 +19,7 @@
       "lat": 32.068758,
       "lon": 34.790455
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72084684
 }

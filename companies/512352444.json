@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.ceragon.com/",
   "careersUrl": "https://www.ceragon.com/about-ceragon/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "ceragon-networks",
   "crunchbaseId": null,
   "finderId": "ceragon-networks",
-  "xId": null,
+  "xId": "Ceragon",
   "addresses": [
     {
       "street": "אריאב אורי",
@@ -19,5 +19,9 @@
       "lat": 32.1127148,
       "lon": 34.9419436
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ceragonnetworks",
+  "linkedinNum": 14470,
+  "comeetId": "Ceragon/D3.003"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Neurim Pharmaceuticals 1991",
+  "name": "Neurim Pharmaceuticals",
   "description": "A pioneering drug discovery and development firm behind the globally available Circadin®.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.109707,
       "lon": 34.840481
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1268772
 }

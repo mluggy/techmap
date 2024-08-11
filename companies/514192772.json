@@ -10,7 +10,7 @@
   "linkedinId": "tapingo",
   "crunchbaseId": "tapingo",
   "finderId": "tapingo",
-  "xId": null,
+  "xId": "tapingo",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tapingo",
+  "linkedinNum": 2146932
 }

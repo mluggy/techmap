@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "elmedical",
-  "xId": null,
+  "xId": "elmedical",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,7 @@
       "lat": 32.1312727,
       "lon": 34.896831
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Elmedical"
 }

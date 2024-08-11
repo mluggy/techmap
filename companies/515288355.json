@@ -1,5 +1,5 @@
 {
-  "name": "Optimalq Technologies",
+  "name": "OptimalQ",
   "description": "OptimalQ leverages historical and real-time data alongside its sensor network to predict the optimal times for customer engagement.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "optimalq-technologies",
   "finderId": "optimalq",
-  "xId": null,
+  "xId": "QOptimal",
   "addresses": [
     {
       "street": "הנחושת",
@@ -19,5 +19,8 @@
       "lat": 32.109582,
       "lon": 34.839068
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OptimalQ-244560932964336",
+  "linkedinNum": 10084126
 }

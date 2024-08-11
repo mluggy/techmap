@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sound-radix",
-  "xId": null,
+  "xId": "soundradix",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.063789,
       "lon": 34.773213
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "soundradix",
+  "linkedinNum": 3264008
 }

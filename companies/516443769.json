@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "memcyco",
   "finderId": "memcyco",
-  "xId": null,
+  "xId": "memcyco",
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -19,5 +19,8 @@
       "lat": 32.0935738,
       "lon": 34.8231612
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "memcyco",
+  "linkedinNum": 77059698
 }

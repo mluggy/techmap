@@ -1,5 +1,5 @@
 {
-  "name": "Lead Spotting",
+  "name": "LeadSpotting",
   "description": "Providing verified email lists for global marketing campaigns across multiple industries with unparalleled data accuracy.",
   "categoryId": 2,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "leadspotting",
   "crunchbaseId": null,
   "finderId": "leadspotting",
-  "xId": null,
+  "xId": "leadSpotting",
   "addresses": [
     {
       "street": "הצורף",
@@ -19,5 +19,8 @@
       "lat": 32.0160501,
       "lon": 34.8033077
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LeadSpotting",
+  "linkedinNum": 714641
 }

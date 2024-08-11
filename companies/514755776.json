@@ -1,10 +1,10 @@
 {
-  "name": "Cardiosert",
-  "description": "Cutting-edge instruments designed for interventional cardiologists conducting PCI procedures.",
+  "name": "CardioSert",
+  "description": "Advanced Tools for Interventional Cardiologists Performing PCI Procedures",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cardiosert-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://cardiosert.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.7694573,
       "lon": 35.0351795
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Doconvert",
+  "name": "DOConvert",
   "description": "Specializing in ERP integrations and data management, we facilitate seamless connectivity and data handling across various platforms and formats.",
   "categoryId": 14,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.08755,
       "lon": 34.776458
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DOConvert"
 }

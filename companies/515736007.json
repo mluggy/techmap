@@ -1,5 +1,5 @@
 {
-  "name": "Dokka A I",
+  "name": "Dokka",
   "description": "Automating accounts payable and financial close processes, this service eliminates manual tasks, centralizes data, and ensures audit readiness.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dokka",
-  "xId": null,
+  "xId": "dokkame",
   "addresses": [
     {
       "street": "האנפה",
@@ -19,5 +19,8 @@
       "lat": 32.2490558,
       "lon": 34.9216615
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dokkame",
+  "linkedinNum": 17997076
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Briefcam",
+  "name": "BriefCam",
   "description": "This technology leverages advanced multi-camera systems to swiftly and accurately identify people and vehicles of interest through facial recognition and appearance analysis.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "briefcam",
-  "xId": null,
+  "xId": "BriefCamVS",
   "addresses": [
     {
       "street": "המעיין",
@@ -19,5 +19,8 @@
       "lat": 31.9173085,
       "lon": 34.9656521
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BriefCamVS",
+  "linkedinNum": 202961
 }

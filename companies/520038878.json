@@ -1,5 +1,5 @@
 {
-  "name": "Upsellon Brands Holdings",
+  "name": "Upsellon Brands",
   "description": "Leveraging deep learning, we analyze and create markets from initial products and keywords by constantly evaluating and monitoring their relevance.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "upsellon",
   "crunchbaseId": null,
   "finderId": "upsellon-brands",
-  "xId": null,
+  "xId": "upsellon",
   "addresses": [
     {
       "street": "בן גוריון דוד",
@@ -19,5 +19,8 @@
       "lat": 32.0938961,
       "lon": 34.8226531
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "upsellon",
+  "linkedinNum": 34901040
 }

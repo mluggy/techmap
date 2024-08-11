@@ -1,5 +1,5 @@
 {
-  "name": "Tastewise Technologies",
+  "name": "Tastewise",
   "description": "Leveraging generative AI, this platform empowers modern food and beverage brands to swiftly analyze trends, validate ideas, and strategically position themselves through comprehensive consumer insights.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "tastewise",
   "finderId": "fooddos",
-  "xId": null,
+  "xId": "tastewiseai",
   "addresses": [
     {
       "street": "לינקולן",
@@ -19,5 +19,9 @@
       "lat": 32.066035,
       "lon": 34.782959
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tastewiseAI",
+  "linkedinNum": 27022057,
+  "comeetId": "tastewise/F8.000"
 }

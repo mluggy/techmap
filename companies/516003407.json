@@ -1,16 +1,16 @@
 {
-  "name": "Regatta Data",
-  "description": "A boutique integrator specializing in identity and access management with deep expertise in SailPoint solutions.",
-  "categoryId": 7,
+  "name": "Regatta",
+  "description": "Universal Data Management Platform",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/regatta_data-logo.webp",
-  "websiteUrl": "https://regattasg.com/",
+  "websiteUrl": "https://regatta.dev/",
   "careersUrl": "https://www.regattacentral.com/regatta/?job_id=8937",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "regatta",
   "crunchbaseId": null,
   "finderId": "paramount-data",
-  "xId": null,
+  "xId": "Regatta_Data",
   "addresses": [
     {
       "street": "דרך הים",
@@ -19,5 +19,7 @@
       "lat": 32.5255364,
       "lon": 34.9236857
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64525232
 }

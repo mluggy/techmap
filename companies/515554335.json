@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "append-medical",
   "finderId": "append-medical",
-  "xId": null,
+  "xId": "appendmedical",
   "addresses": [
     {
       "street": "אבי ואביב",
@@ -19,5 +19,7 @@
       "lat": 32.0224046,
       "lon": 34.8581547
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 30743186
 }

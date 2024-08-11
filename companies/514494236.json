@@ -1,5 +1,5 @@
 {
-  "name": "Flipkart Israel",
+  "name": "Flipkart",
   "description": "Offering limitless possibilities, a loyalty reward program for frequent customers at no cost.",
   "categoryId": 9,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.flipkart.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "upstream-commerce",
   "crunchbaseId": null,
   "finderId": "flipkart",
-  "xId": null,
+  "xId": "flipkart",
   "addresses": [
     {
       "street": "ארניה אסוולדו",
@@ -19,5 +19,8 @@
       "lat": 32.0693445,
       "lon": 34.7860947
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "flipkart",
+  "linkedinNum": 2002979
 }

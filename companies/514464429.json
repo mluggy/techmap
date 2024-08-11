@@ -1,16 +1,16 @@
 {
-  "name": "Vonage Apps",
+  "name": "Vonage",
   "description": "Providing adaptable communication solutions through voice, messaging, video, and data across Unified Communications, Contact Centers, and APIs.",
-  "categoryId": 18,
   "size": "l",
+  "categoryId": 18,
   "logoFile": "logos/vonage_apps-logo.webp",
-  "websiteUrl": "https://www.vonage.com/",
+  "websiteUrl": "https://www.vonagetlv.com/",
   "careersUrl": "https://www.vonage.com/careers/",
   "isHiring": true,
   "linkedinId": "vonage",
   "crunchbaseId": null,
   "finderId": "vonage",
-  "xId": null,
+  "xId": "Vonage",
   "addresses": [
     {
       "street": "יגאל אלון",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "VonageApps",
+  "linkedinNum": 13018429
 }

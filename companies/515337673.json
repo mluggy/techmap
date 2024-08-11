@@ -1,5 +1,5 @@
 {
-  "name": "Nestlogic Israel",
+  "name": "Nestlogic",
   "description": "A team of veteran engineers specializing in data analysis, modeling, processing, and data science.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "nestlogic-inc.",
   "crunchbaseId": null,
   "finderId": "nestlogic",
-  "xId": null,
+  "xId": "hashtag",
   "addresses": [
     {
       "street": "הגפן",
@@ -19,5 +19,8 @@
       "lat": 32.0892781,
       "lon": 34.812375716323004
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nestlogic",
+  "linkedinNum": 10572193
 }

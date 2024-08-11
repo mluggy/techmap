@@ -1,16 +1,16 @@
 {
   "name": "Medint Medical Intelligence",
-  "description": "A company providing advanced medical intelligence solutions through AI technology.",
+  "description": "AI-driven Answers to Clinical Experts",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/medint_medical_intelligence-logo.webp",
-  "websiteUrl": "https://heb.medint.ai/",
+  "websiteUrl": "https://medint.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "medint-medical-intelligence",
-  "xId": null,
+  "xId": "medintmed",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.07734524999999,
       "lon": 34.79332549438699
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "patientcenteredresearch",
+  "linkedinNum": 10578372
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Sage Design Automation",
+  "name": "Sage",
   "description": "Sage is a global market leader in providing integrated accounting, payroll, and payment systems to small and medium-sized businesses.",
-  "categoryId": 14,
   "size": "s",
+  "categoryId": 10,
   "logoFile": "logos/sage_design_automation-logo.webp",
-  "websiteUrl": "https://sage-da.com/",
+  "websiteUrl": "https://www.sage.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.9111651,
       "lon": 34.8080738
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 2802
 }

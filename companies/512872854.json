@@ -1,16 +1,16 @@
 {
-  "name": "Ceva Technologies",
-  "description": "A leading global firm specializing in innovative animal health solutions, driven by experienced veterinarians.",
-  "categoryId": 12,
+  "name": "CEVA",
+  "description": "Signal-processing Platform and AI Processors",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/ceva_technologies-logo.webp",
-  "websiteUrl": "https://www.ceva.com/",
+  "websiteUrl": "https://www.ceva-ip.com/",
   "careersUrl": "https://www.cevalogistics.com/en/careers",
   "isHiring": true,
-  "linkedinId": "ceva-logistics",
+  "linkedinId": "ceva",
   "crunchbaseId": null,
   "finderId": "ceva",
-  "xId": null,
+  "xId": "CEVA_IP",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,9 @@
       "lat": 32.1675106,
       "lon": 34.8116118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CEVAIP",
+  "linkedinNum": 11357,
+  "comeetId": "ceva/76.005"
 }

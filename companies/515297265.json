@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "neurosteer",
-  "xId": null,
+  "xId": "neurosteer",
   "addresses": [
     {
       "street": "אלוף מגן קלמן",
@@ -19,5 +19,8 @@
       "lat": 32.07110345,
       "lon": 34.78706174292169
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Neurosteer",
+  "linkedinNum": 18138139
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Toky Toy",
-  "description": "An award-winning St. Louis creative studio specializing in brand strategy, digital solutions, and identity design.",
+  "name": "Toky",
+  "description": "Wearable Device for Interactive Toys",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/toky_toy-logo.webp",
-  "websiteUrl": "https://toky.com/",
+  "websiteUrl": "https://tokytoy.com",
   "careersUrl": "https://toky.com/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7694663,
       "lon": 34.9662432
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Tokytoy"
 }

@@ -1,10 +1,10 @@
 {
   "name": "Endoways",
-  "description": "This company offers a groundbreaking fully disposable robotic system that enhances medical procedures with precise, low-radiation delivery and remote operation.",
-  "categoryId": 15,
+  "description": "Self-propelling Microcatheter for Tortuous Blood Vessels",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/endoways-logo.webp",
-  "websiteUrl": "https://www.endoways.co.il/",
+  "websiteUrl": "https://www.endoways.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "endoways.com",
@@ -19,5 +19,7 @@
       "lat": 32.4811959,
       "lon": 34.9481254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18480681
 }

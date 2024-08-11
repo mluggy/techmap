@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "splacer",
-  "xId": null,
+  "xId": "splacer_co",
   "addresses": [
     {
       "street": "שדרות ח\"ן",
@@ -19,5 +19,8 @@
       "lat": 32.074142,
       "lon": 34.780124
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "splacer.co",
+  "linkedinNum": 5200506
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Dafni Hair Products",
+  "name": "DAFNI",
   "description": "Offers a ceramic brush that safely straightens and styles hair at an optimal temperature.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dafni",
-  "xId": null,
+  "xId": "dafni_hair",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.195562,
       "lon": 34.8826355
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DAFNIofficial",
+  "linkedinNum": 10654454
 }

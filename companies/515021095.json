@@ -1,0 +1,25 @@
+{
+  "name": "Pragma",
+  "description": "Knowledge Management Platform",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/pragma.webp",
+  "websiteUrl": "https://www.pragma.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 72374758,
+  "crunchbaseId": null,
+  "finderId": "pragma",
+  "xId": "pragmaai",
+  "facebookId": "InLoveWithPragma",
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 33,
+      "city": "רמת גן",
+      "lat": 32.08379053990448,
+      "lon": 34.8059188191354
+    }
+  ],
+  "isMultinational": false
+}

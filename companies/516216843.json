@@ -1,10 +1,10 @@
 {
   "name": "Airtonics Health",
-  "description": "Treatment for COVID-19.",
+  "description": "COVID-19 Therapy",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/airtonics_health-logo.webp",
-  "websiteUrl": "https://aerobiotix.com/",
+  "websiteUrl": "https://www.vytonic-health.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0642,
       "lon": 34.766558
     }
-  ]
+  ],
+  "isMultinational": false
 }

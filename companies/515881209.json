@@ -1,5 +1,5 @@
 {
-  "name": "Gk 8",
+  "name": "GK8",
   "description": "The platform provides comprehensive digital asset solutions including lending, trading, staking, and tokenization, while ensuring full control and security through self-custody.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "gk8bygalaxy",
   "crunchbaseId": null,
   "finderId": "puzzzle",
-  "xId": null,
+  "xId": "gk8_security",
   "addresses": [
     {
       "street": "אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0863972,
       "lon": 34.802034
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 15838394,
+  "comeetId": "gk8/E8.000"
 }

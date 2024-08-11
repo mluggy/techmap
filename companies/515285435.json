@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "perception-point",
-  "xId": null,
+  "xId": "PerceptionPo1nt",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.0654291,
       "lon": 34.7766695
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "perceptionpoint",
+  "linkedinNum": 10230855
 }

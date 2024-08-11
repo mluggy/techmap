@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "captain-up",
-  "xId": null,
+  "xId": "cptup",
   "addresses": [
     {
       "street": "ברנדיס",
@@ -19,5 +19,7 @@
       "lat": 32.094281,
       "lon": 34.787039
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3170665
 }

@@ -1,0 +1,25 @@
+{
+  "name": "spotad",
+  "description": "Real-time Predictive Advertising Platform",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/spotad.webp",
+  "websiteUrl": "https://www.spotad.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 3492821,
+  "crunchbaseId": null,
+  "finderId": "spotad",
+  "xId": "Spotadco",
+  "facebookId": "SpotadCo",
+  "addresses": [
+    {
+      "street": "המעין",
+      "houseNumber": 11,
+      "city": "גבעתיים",
+      "lat": 32.07122949233772,
+      "lon": 34.809895241713185
+    }
+  ],
+  "isMultinational": false
+}

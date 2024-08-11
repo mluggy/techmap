@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "simploud",
-  "xId": null,
+  "xId": "simploud",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0796864,
       "lon": 34.7955201
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "simploud",
+  "linkedinNum": 11753627
 }

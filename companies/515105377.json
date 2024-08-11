@@ -1,10 +1,10 @@
 {
-  "name": "Phytopharma International",
-  "description": "Since 1993, they have specialized in producing high-quality health products sold exclusively through chemists and pharmacies.",
-  "categoryId": 12,
+  "name": "PhytoPharma",
+  "description": "Medical Research and Plant Breeding",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/phytopharma_international-logo.webp",
-  "websiteUrl": "https://www.phytopharma.ch/",
+  "websiteUrl": "https://bee-fuse.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.6236389,
       "lon": 35.3176342
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17895320
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Apa Wellness",
+  "name": "Apā Wellness",
   "description": "Providing health support and recommendations through consultations and referrals to various healthcare professionals.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.567085659665665,
       "lon": 34.94348867514253
     }
-  ]
+  ],
+  "isMultinational": false
 }

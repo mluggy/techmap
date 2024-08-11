@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sensifree",
-  "xId": null,
+  "xId": "sensifree",
   "addresses": [
     {
       "street": "חגי",
@@ -19,5 +19,7 @@
       "lat": 32.1868826,
       "lon": 34.9354126
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2909611
 }

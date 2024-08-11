@@ -1,23 +1,25 @@
 {
-  "name": "Copilotmd",
-  "description": "Revolutionizing healthcare with an automated and streamlined information management and navigation system for patients and providers.",
-  "categoryId": 12,
-  "size": "xs",
-  "logoFile": "logos/copilotmd-logo.webp",
-  "websiteUrl": "https://www.copilotmd.org/",
+  "name": "Copilot",
+  "description": "Automated Customer Experience Platform",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/copilot.webp",
+  "websiteUrl": "https://www.copilot.cx/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinNum": 40839726,
   "crunchbaseId": null,
-  "finderId": "copilotmd",
-  "xId": null,
+  "finderId": "copilot",
+  "xId": "CopilotCX",
+  "facebookId": "copilot.cx",
   "addresses": [
     {
       "street": "תובל",
       "houseNumber": 5,
       "city": "תל אביב - יפו",
-      "lat": 32.070276,
-      "lon": 34.794943
+      "lat": 32.07040532433058,
+      "lon": 34.79492890530462
     }
-  ]
+  ],
+  "isMultinational": false
 }

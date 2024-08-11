@@ -1,16 +1,16 @@
 {
-  "name": "Codespread",
-  "description": "Create your own website for free using ntt's intuitive site-building platform.",
-  "categoryId": 9,
+  "name": "CodeSpread",
+  "description": "Coding and Development Marketplace",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/codespread-logo.webp",
-  "websiteUrl": "https://codespread.ntt.co.il/",
+  "websiteUrl": "https://codespread.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "codespread",
   "crunchbaseId": null,
   "finderId": "codespread",
-  "xId": null,
+  "xId": "codespread_2021",
   "addresses": [
     {
       "street": "משה שמיר",
@@ -19,5 +19,8 @@
       "lat": 32.0986104,
       "lon": 34.8739279
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "codespread.io",
+  "linkedinNum": 75765036
 }

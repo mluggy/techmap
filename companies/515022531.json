@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "adscale",
-  "xId": null,
+  "xId": "adscale",
   "addresses": [
     {
       "street": "הנוריות",
@@ -19,5 +19,8 @@
       "lat": 32.6567843,
       "lon": 35.1101813
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AdScaleSoftware",
+  "linkedinNum": 17889734
 }

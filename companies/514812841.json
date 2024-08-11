@@ -1,16 +1,16 @@
 {
-  "name": "Smarterapps",
-  "description": "Specializing in AI and app development, this company excels in creating transformative tech solutions across various industries.",
-  "categoryId": 1,
+  "name": "SmarterApps",
+  "description": "Rule-based Smartphone Automation App",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/smarterapps-logo.webp",
-  "websiteUrl": "https://www.smarterapps.com.au/",
+  "websiteUrl": "https://automateitapp.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "smarterapps",
-  "xId": null,
+  "xId": "AutomateItApp",
   "addresses": [
     {
       "street": "הרימון",
@@ -19,5 +19,7 @@
       "lat": 32.0632736,
       "lon": 34.8807319
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AutomateItApp"
 }

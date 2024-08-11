@@ -1,10 +1,10 @@
 {
-  "name": "Daisy Investments",
-  "description": "The leading manufacturer specializing in BB guns and youth rifles for young shooting enthusiasts.",
-  "categoryId": 5,
+  "name": "Daisy",
+  "description": "Property Management Solutions",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/daisy_investments-logo.webp",
-  "websiteUrl": "https://www.daisy.com/",
+  "websiteUrl": "https://www.joindaisy.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0294773,
       "lon": 34.8885912
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LiveWithDaisy",
+  "linkedinNum": 42885770
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Aerotel Medical Systems 1998",
+  "name": "Aerotel Medical Systems",
   "description": "We offer comprehensive telemedicine solutions with user-friendly ECG monitors and reliable ECG software for effective remote patient monitoring.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "aerotel-medical-systems",
   "crunchbaseId": null,
   "finderId": "aerotel-medical-systems",
-  "xId": null,
+  "xId": "Aerotel",
   "addresses": [
     {
       "street": "המשביר",
@@ -19,5 +19,8 @@
       "lat": 32.014275,
       "lon": 34.8023584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "aerotel",
+  "linkedinNum": 713117
 }

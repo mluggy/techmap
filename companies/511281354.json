@@ -1,0 +1,25 @@
+{
+  "name": "Viryanet",
+  "description": "Mobile Workforce Management",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/viryanet.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 22758,
+  "crunchbaseId": null,
+  "finderId": "viryanet",
+  "xId": "viryanet",
+  "facebookId": "pages",
+  "addresses": [
+    {
+      "street": "המרפא",
+      "houseNumber": 8,
+      "city": "ירושלים",
+      "lat": 31.803570146540736,
+      "lon": 35.210073690721
+    }
+  ],
+  "isMultinational": false
+}

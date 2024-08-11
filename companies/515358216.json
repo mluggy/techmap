@@ -7,10 +7,10 @@
   "websiteUrl": "https://salt.security/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "saltsecurity",
   "crunchbaseId": "saltsecurity",
   "finderId": "secful",
-  "xId": null,
+  "xId": "SaltSecurity",
   "addresses": [
     {
       "street": "דה וינצ'י לאונרדו",
@@ -19,5 +19,8 @@
       "lat": 32.07418525,
       "lon": 34.78524499360144
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SaltAPIProtectionInc",
+  "linkedinNum": 9458521
 }

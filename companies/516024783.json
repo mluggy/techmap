@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bzigo",
-  "xId": null,
+  "xId": "getbzigo",
   "addresses": [
     {
       "street": "יעב\"ץ",
@@ -19,5 +19,8 @@
       "lat": 32.0684176,
       "lon": 34.8366328
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getbzigo",
+  "linkedinNum": 19171210
 }

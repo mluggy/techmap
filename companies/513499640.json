@@ -4,7 +4,7 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/clinicode-logo.webp",
-  "websiteUrl": "http://clinicode.com/",
+  "websiteUrl": "https://clinicode.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.109427,
       "lon": 34.830131
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Clinicode-Ltd-279992935383961",
+  "linkedinNum": 2974162
 }

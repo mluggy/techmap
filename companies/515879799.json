@@ -10,7 +10,7 @@
   "linkedinId": "skylock1",
   "crunchbaseId": null,
   "finderId": "skylock-systems",
-  "xId": null,
+  "xId": "skylock_system",
   "addresses": [
     {
       "street": "הטחנה",
@@ -19,5 +19,7 @@
       "lat": 32.1732974,
       "lon": 34.8910865
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18582187
 }

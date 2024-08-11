@@ -1,5 +1,5 @@
 {
-  "name": "Buildos",
+  "name": "Swapp",
   "description": "Leveraging AI to enhance architectural efficiency and impact, with a diverse portfolio of over 200 multifaceted projects.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "buildos",
-  "xId": null,
+  "xId": "SwappArchitech",
   "addresses": [
     {
       "street": "חפץ חיים",
@@ -19,5 +19,8 @@
       "lat": 32.074988,
       "lon": 34.799384
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "swapparchitecture",
+  "linkedinNum": 35520324
 }

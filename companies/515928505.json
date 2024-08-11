@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "certora",
-  "xId": null,
+  "xId": "certorainc",
   "addresses": [
     {
       "street": "התנאים",
@@ -19,5 +19,7 @@
       "lat": 32.116898,
       "lon": 34.795809
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12669388
 }

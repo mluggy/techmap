@@ -1,10 +1,10 @@
 {
-  "name": "Beyon 3 D",
-  "description": "Specializing in 3D printing, we offer high-quality materials, printers, and comprehensive support across FDM, MSLA, and DLP technologies.",
-  "categoryId": 15,
+  "name": "Beyon3D",
+  "description": "Robotics-based System for Concrete Segment Manufacturing",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/beyon_3_d-logo.webp",
-  "websiteUrl": "https://www.beyond3d.co.il/",
+  "websiteUrl": "https://beyon3d.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "beyon3d",
@@ -19,5 +19,8 @@
       "lat": 32.1668445,
       "lon": 34.8115866
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Beyon3D-252248834890663",
+  "linkedinNum": 2675824
 }

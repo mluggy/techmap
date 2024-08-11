@@ -1,10 +1,10 @@
 {
-  "name": "Modulegal",
-  "description": "Specialized Communication Services for Legal Professionals.",
-  "categoryId": 18,
+  "name": "ModuLegal",
+  "description": "Communication Solutions for the Legal Field",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/modulegal-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.modulegal.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "modulegal",
@@ -19,5 +19,6 @@
       "lat": 32.1052985,
       "lon": 34.87910365320536
     }
-  ]
+  ],
+  "isMultinational": false
 }

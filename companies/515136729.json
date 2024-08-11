@@ -1,5 +1,5 @@
 {
-  "name": "Exabeam Israel",
+  "name": "Exabeam",
   "description": "They provide innovative tools that enhance security teams' ability to detect and respond to threats effectively.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "exabeam",
   "crunchbaseId": "exabeam",
   "finderId": "exabeam",
-  "xId": null,
+  "xId": "exabeam",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.08472355,
       "lon": 34.80419494318181
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "exabeam",
+  "linkedinNum": 3181474
 }

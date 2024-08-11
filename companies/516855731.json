@@ -1,5 +1,5 @@
 {
-  "name": "Enigma Avvanced Laboratoies",
+  "name": "SCRT Labs",
   "description": "Pioneering since 2015 with MIT roots, SCRT Labs excels in developing advanced private computing technologies.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "scrtlabs",
   "crunchbaseId": null,
   "finderId": "enigma",
-  "xId": null,
+  "xId": "scrt_labs",
   "addresses": [
     {
       "street": "הפלמ\"ח",
@@ -19,5 +19,7 @@
       "lat": 31.79635447612011,
       "lon": 35.1412601922365
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 15083327
 }

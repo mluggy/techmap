@@ -1,5 +1,5 @@
 {
-  "name": "Cityshob Software",
+  "name": "CityShob Software",
   "description": "A platform that integrates various city systems for better management and real-time resident engagement.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "cityshob-software-ltd-",
   "crunchbaseId": null,
   "finderId": "cityshob-software",
-  "xId": null,
+  "xId": "cityshobl",
   "addresses": [
     {
       "street": "האלון",
@@ -19,5 +19,8 @@
       "lat": 32.2681043,
       "lon": 34.8644968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CityShob-Software-Ltd-220099651790295",
+  "linkedinNum": 11020701
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "testuff",
-  "xId": null,
+  "xId": "testuff",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.0843988,
       "lon": 34.800395800000004
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Testuff-Test-Management-Software-257650488047",
+  "linkedinNum": 305296
 }

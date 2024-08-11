@@ -1,5 +1,5 @@
 {
-  "name": "Barilliance Systems",
+  "name": "Barilliance",
   "description": "Delivering personalized, dynamic shopping experiences that boost sales by 30%.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "barilliance",
   "crunchbaseId": "barilliance",
   "finderId": "barilliance",
-  "xId": null,
+  "xId": "barilliance",
   "addresses": [
     {
       "street": "נחשון",
@@ -19,5 +19,8 @@
       "lat": 32.1517212,
       "lon": 34.8320362
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Barilliance",
+  "linkedinNum": 3563857
 }

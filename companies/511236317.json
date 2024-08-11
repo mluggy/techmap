@@ -1,10 +1,10 @@
 {
-  "name": "Elgressy Engineering Services 1987",
-  "description": "Specializing in advanced, chemical-free environmental technologies for efficient water savings and remote technical support.",
-  "categoryId": 17,
+  "name": "Elgressy Engineering Services",
+  "description": "Electrochemical Water Treatment",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/elgressy_engineering_services_1987-logo.webp",
-  "websiteUrl": "https://www.elgressy-international.com/",
+  "websiteUrl": "https://www.elgressy.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "elgressy",
@@ -19,5 +19,6 @@
       "lat": 32.0881419,
       "lon": 34.8536011
     }
-  ]
+  ],
+  "isMultinational": false
 }

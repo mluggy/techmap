@@ -1,10 +1,10 @@
 {
-  "name": "Eversense Sps",
-  "description": "A long-lasting CGM system providing continuous glucose monitoring for up to 180 days for individuals with diabetes.",
-  "categoryId": 12,
+  "name": "EVERSENSE",
+  "description": "Wildfire Detection System",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/eversense_sps-logo.webp",
-  "websiteUrl": "https://global.eversensediabetes.com/",
+  "websiteUrl": "https://www.eversense-sps.com/",
   "careersUrl": "https://www.senseonics.com/careers/benefits",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0754864,
       "lon": 34.8633524
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 85655941
 }

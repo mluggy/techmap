@@ -1,16 +1,16 @@
 {
-  "name": "Ebay Israel Holding",
+  "name": "eBay",
   "description": "A leading global marketplace for diverse products with top brands, competitive prices, and free shipping on numerous items.",
-  "categoryId": 9,
   "size": "l",
+  "categoryId": 9,
   "logoFile": "logos/ebay_israel_holding-logo.webp",
-  "websiteUrl": "https://www.ebay.com/",
+  "websiteUrl": "https://ebay.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ebay",
-  "xId": null,
+  "xId": "eBay",
   "addresses": [
     {
       "street": "הגביש",
@@ -19,5 +19,8 @@
       "lat": 32.2902566,
       "lon": 34.863091527006965
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ebayRnDil",
+  "linkedinNum": 27176272
 }

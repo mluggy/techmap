@@ -1,5 +1,5 @@
 {
-  "name": "Fly Money Technologies",
+  "name": "Fly Money",
   "description": "We ensure safely and securely delivered travel money orders with onsite customer service.",
   "categoryId": 10,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.077112,
       "lon": 34.778241
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Fly-Money-Israel-1490927167680017",
+  "linkedinNum": 6639801
 }

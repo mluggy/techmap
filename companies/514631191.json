@@ -1,5 +1,5 @@
 {
-  "name": "Mylefly",
+  "name": "MyleFly",
   "description": "Provides a top-rated, fast, and reliable service for converting airline and hotel points into cash.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mylefly",
-  "xId": null,
+  "xId": "mylefly",
   "addresses": [
     {
       "street": "פורצי הדרך",
@@ -19,5 +19,8 @@
       "lat": 32.1626088,
       "lon": 34.8632079
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MyleFly",
+  "linkedinNum": 3047871
 }

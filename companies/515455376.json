@@ -1,5 +1,5 @@
 {
-  "name": "Currenge Israel",
+  "name": "Currenge",
   "description": "A service offering highly competitive rates for online currency transfers and conversions.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "currenge",
   "finderId": "currenge",
-  "xId": null,
+  "xId": "Currenge2",
   "addresses": [
     {
       "street": "עובדיה",
@@ -19,5 +19,7 @@
       "lat": 32.8135652,
       "lon": 34.9749413
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10454087
 }

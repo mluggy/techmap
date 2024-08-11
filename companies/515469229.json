@@ -1,5 +1,5 @@
 {
-  "name": "Pagaya Investment Israel",
+  "name": "Pagaya",
   "description": "Experience advanced financial solutions through an AI-powered network that maximizes credit approvals while minimizing risk.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "pagaya",
   "crunchbaseId": null,
   "finderId": "pagaya",
-  "xId": null,
+  "xId": "Pagayaltd",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pagayaltd",
+  "linkedinNum": 17930214
 }

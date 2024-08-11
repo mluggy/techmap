@@ -1,10 +1,10 @@
 {
-  "name": "Feelbetter",
-  "description": "A multidisciplinary therapeutic team offering specialized services in psychology, art therapy, mindfulness-based psychotherapy, and third-wave CBT.",
+  "name": "FeelBetter",
+  "description": "Polypharmacy Patient Management",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/feelbetter-logo.webp",
-  "websiteUrl": "https://www.feelbetter.co.il/",
+  "websiteUrl": "https://www.feelbetter.healthcare/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.167309314499974,
       "lon": 34.804659250302514
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67952819
 }

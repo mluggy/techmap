@@ -1,5 +1,5 @@
 {
-  "name": "Gotit Cellular Application",
+  "name": "GOTit",
   "description": "A platform for sharing possessions and discovering new items to purchase.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.18629162965165,
       "lon": 34.81711018815159
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GOTitApplication"
 }

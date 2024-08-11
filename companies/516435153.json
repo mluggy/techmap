@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "veriti-security",
-  "xId": null,
+  "xId": "VERITISECURITY",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.0605137,
       "lon": 34.7759853
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 86832887
 }

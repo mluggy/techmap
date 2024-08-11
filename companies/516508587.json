@@ -1,16 +1,16 @@
 {
-  "name": "Bosco R B Y",
-  "description": "A cozy Greenwich Village spot offering inventive Tex-Mex cuisine paired with craft cocktails.",
-  "categoryId": 9,
+  "name": "Bosco",
+  "description": "Real-time Threat Monitoring and Prevention for Parents",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/bosco_r_b_y-logo.webp",
-  "websiteUrl": "https://www.bosconyc.com/",
+  "websiteUrl": "https://www.boscoapp.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bosco",
-  "xId": null,
+  "xId": "boscoapp",
   "addresses": [
     {
       "street": "רקנאטי",
@@ -19,5 +19,8 @@
       "lat": 32.124282,
       "lon": 34.803129
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BoscoApp",
+  "linkedinNum": 3575818
 }

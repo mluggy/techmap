@@ -1,5 +1,5 @@
 {
-  "name": "Synamedia Technologies Israel",
+  "name": "Synamedia",
   "description": "A versatile SaaS platform that streamlines OTT service management while enhancing agility and differentiation for streaming services.",
   "categoryId": 8,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "synamedia",
   "crunchbaseId": null,
   "finderId": "synamedia",
-  "xId": null,
+  "xId": "synamediavideo",
   "addresses": [
     {
       "street": "הרטום",
@@ -19,5 +19,8 @@
       "lat": 31.8043239,
       "lon": 35.2109994
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SynamediaVideo",
+  "linkedinNum": 33194934
 }

@@ -1,10 +1,10 @@
 {
   "name": "Hop Engineering",
-  "description": "We specialize in preventing and removing scale and rust in water systems.",
-  "categoryId": 12,
+  "description": "Prevention and Elimination of Scale and Rust in Water Systems",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/hop_engineering-logo.webp",
-  "websiteUrl": "https://www.hop.uk.com/",
+  "websiteUrl": "https://www.hop-pth.com",
   "careersUrl": "https://www.hop.uk.com/careers/current-opportunities/",
   "isHiring": true,
   "linkedinId": "hop-engineering-ltd",
@@ -19,5 +19,7 @@
       "lat": 32.10059,
       "lon": 34.8652871
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11690892
 }

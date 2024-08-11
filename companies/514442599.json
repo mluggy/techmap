@@ -1,5 +1,5 @@
 {
-  "name": "Tama 38 A Y I R Investments",
+  "name": "Tama Group",
   "description": "Leading manufacturer of advanced crop baling solutions, integrating farming expertise with innovative agricultural technology worldwide.",
   "categoryId": 17,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.tama.co.il/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tamagroup",
   "crunchbaseId": null,
   "finderId": "tama",
-  "xId": null,
+  "xId": "TamaFGS",
   "addresses": [
     {
       "street": "בן גוריון דוד",
@@ -19,5 +19,8 @@
       "lat": 32.0955779,
       "lon": 34.8219534
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Tama.fgs",
+  "linkedinNum": 745114
 }

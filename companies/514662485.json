@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "opinion-stage",
-  "xId": null,
+  "xId": "opinionstage",
   "addresses": [
     {
       "street": "זמורה",
@@ -19,5 +19,8 @@
       "lat": 32.0081684,
       "lon": 34.949276
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OpinionStage",
+  "linkedinNum": 2384126
 }

@@ -1,5 +1,5 @@
 {
-  "name": "WSC Sports",
+  "name": "WSC Sports Technologies",
   "description": "Enabling global digital content creation, WSC Sports achieved record-breaking video views on YouTube and Instagram through innovative partnerships like Volleyball World.",
   "categoryId": 8,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://wsc-sports.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wsc-sports-technologies",
   "crunchbaseId": "w-s-c-sports",
   "finderId": "w-s-c-sports-technologies",
-  "xId": null,
+  "xId": "wsc_sports",
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -19,5 +19,9 @@
       "lat": 32.0907362,
       "lon": 34.8119048
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WSC.SportsTechnologies",
+  "linkedinNum": 10409556,
+  "comeetId": "wsc-sports/93.007"
 }

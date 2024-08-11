@@ -10,7 +10,7 @@
   "linkedinId": "tap-with-us",
   "crunchbaseId": "tap-systems-inc",
   "finderId": "tap-systems",
-  "xId": null,
+  "xId": "tapwithus",
   "addresses": [
     {
       "street": "התומר",
@@ -19,5 +19,8 @@
       "lat": 32.2748136,
       "lon": 34.8911666
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tapwithus",
+  "linkedinNum": 10370354
 }

@@ -1,16 +1,16 @@
 {
   "name": "Tactical Robotics",
-  "description": "A free service that instantly translates words, phrases, and web pages from English to over 100 languages.",
-  "categoryId": 15,
+  "description": "Unmanned Air Vehicles",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/tactical_robotics-logo.webp",
-  "websiteUrl": "https://translate.google.co.il/",
+  "websiteUrl": "https://www.tactical-robotics.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tactical-robotics",
-  "xId": null,
+  "xId": "tacticalrobotix",
   "addresses": [
     {
       "street": "נחל שניר",
@@ -19,5 +19,7 @@
       "lat": 31.8993354,
       "lon": 34.7385308
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Tacticalrobotics"
 }

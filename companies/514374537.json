@@ -1,10 +1,10 @@
 {
-  "name": "Stat Market",
-  "description": "The internet's premier statistics database offering extensive data from over 22,500 sources on more than 60,000 topics.",
-  "categoryId": 8,
+  "name": "Stat-Market",
+  "description": "Human-Machine AI Intelligence",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/stat_market-logo.webp",
-  "websiteUrl": "https://www.statista.com/",
+  "websiteUrl": "https://www.stat-market.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1625842,
       "lon": 34.9106627
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 499020
 }

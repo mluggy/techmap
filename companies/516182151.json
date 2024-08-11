@@ -1,15 +1,18 @@
 {
-  "name": "Limestory",
-  "description": "Marketing platform powered by AI for creating compelling stories.",
-  "categoryId": 1,
+  "name": "LimeStory",
+  "description": "AI Storytelling Marketing Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/limestory-logo.webp",
-  "websiteUrl": "https://www.story.com/",
+  "websiteUrl": "https://www.limestory.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "limestory",
   "crunchbaseId": "limestory-ltd",
   "finderId": "limestory",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "LimeStoryIO",
+  "linkedinNum": 37466890
 }

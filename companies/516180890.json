@@ -1,5 +1,5 @@
 {
-  "name": "Avenews Managment",
+  "name": "Avenews",
   "description": "Avenews provides a comprehensive financial super-app offering short-term loans and robust business management tools for Africa's agribusinesses.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "avenews-gt",
   "crunchbaseId": "avenews-gt",
   "finderId": "avenews-gt",
-  "xId": null,
+  "xId": "Avenews_gt",
   "addresses": [
     {
       "street": "אחד העם",
@@ -19,5 +19,8 @@
       "lat": 32.064594,
       "lon": 34.774322
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AvenewsGT",
+  "linkedinNum": 10961166
 }

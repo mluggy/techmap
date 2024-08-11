@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "optibus",
-  "xId": null,
+  "xId": "OptibusHQ",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.0730925,
       "lon": 34.7893649
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Optibusltd",
+  "linkedinNum": 3023213,
+  "comeetId": "optibus/D1.00C"
 }

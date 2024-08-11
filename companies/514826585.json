@@ -1,16 +1,16 @@
 {
-  "name": "Shadow Technologies 2012",
-  "description": "Experts in IPC-certified training and clean room assembly, specializing in fiber optic testing and inspection.",
-  "categoryId": 18,
+  "name": "Shadow Technologies",
+  "description": "Summarizing Reviews on Any Subject",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/shadow_technologies_2012-logo.webp",
-  "websiteUrl": "http://www.shadowt.com/",
+  "websiteUrl": "https://the-shadow.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "shadow-technologies-ltd-",
   "crunchbaseId": null,
   "finderId": "shadow-technologies",
-  "xId": null,
+  "xId": "shadowcomhq",
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -19,5 +19,8 @@
       "lat": 32.0935738,
       "lon": 34.8231612
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ShadowTechnologies",
+  "linkedinNum": 5097192
 }

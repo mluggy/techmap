@@ -1,10 +1,10 @@
 {
   "name": "WeBus",
-  "description": "Taxi sharing app for connecting up to four passengers into shared taxi.",
-  "categoryId": 9,
+  "description": "Taxi-sharing App",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/tbus-logo.webp",
-  "websiteUrl": "https//webus.co.il",
+  "websiteUrl": "https://webus.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "webus-gettheretogether",
@@ -19,5 +19,8 @@
       "lat": 31.7510528,
       "lon": 35.1804059
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GetThereTogether",
+  "linkedinNum": 14049833
 }

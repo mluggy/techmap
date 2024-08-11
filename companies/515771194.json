@@ -1,5 +1,5 @@
 {
-  "name": "Addionics Il",
+  "name": "Addionics",
   "description": "They're pioneering advanced rechargeable batteries with innovative 3D structures for enhanced performance.",
   "categoryId": 17,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "addionics",
   "crunchbaseId": null,
   "finderId": "addionics",
-  "xId": null,
+  "xId": "addionics",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,7 @@
       "lat": 32.072927,
       "lon": 34.797046
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18323880
 }

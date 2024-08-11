@@ -1,5 +1,5 @@
 {
-  "name": "KLA (formerly Orbotech)",
+  "name": "KLA",
   "description": "A leading innovator in process control utilizing cutting-edge inspection, metrology, and computational analytics technologies.",
   "categoryId": 15,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "klacorp",
   "crunchbaseId": null,
   "finderId": "kla-tencor",
-  "xId": null,
+  "xId": "klatencor_info",
   "addresses": [
     {
       "street": "הלווין",
@@ -19,5 +19,8 @@
       "lat": 32.6905359,
       "lon": 35.2491178
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "KLA.Israel",
+  "linkedinNum": 2722
 }

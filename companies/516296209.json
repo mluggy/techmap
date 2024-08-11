@@ -10,7 +10,7 @@
   "linkedinId": "cyera",
   "crunchbaseId": null,
   "finderId": "cyera",
-  "xId": null,
+  "xId": "cyera_io",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,6 @@
       "lat": 32.091261,
       "lon": 34.783164
     }
-  ]
+  ],
+  "isMultinational": false
 }

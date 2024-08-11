@@ -1,10 +1,10 @@
 {
   "name": "Hulyo Tourism",
-  "description": "An app to book flights at the last minute.",
+  "description": "Mobile App for Last-minute Flights",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/hulyo_tourism-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.hulyo.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "hulyo-tourism",
@@ -19,5 +19,8 @@
       "lat": 32.0674794,
       "lon": 34.8637212
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "%D7%97%D7%95%D7%9C%D7%99%D7%95-%D7%98%D7%99%D7%A1%D7%95%D7%AA-%D7%9E%D7%95%D7%96%D7%9C%D7%95%D7%AA-Hulyo-318088008270570",
+  "linkedinNum": 5309528
 }

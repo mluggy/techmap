@@ -1,5 +1,5 @@
 {
-  "name": "Innocan Pharma",
+  "name": "InnoCan Pharma",
   "description": "A specialty pharma innovator focused on cannabinoid-based products with proprietary delivery technologies and exclusive commercialization rights.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "innocanpharma",
   "crunchbaseId": null,
   "finderId": "innocan-pharma",
-  "xId": null,
+  "xId": "innocanp",
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -19,5 +19,8 @@
       "lat": 32.1630763,
       "lon": 34.8150141
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Innocanpharma",
+  "linkedinNum": 28636009
 }

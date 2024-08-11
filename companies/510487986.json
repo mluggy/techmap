@@ -1,16 +1,16 @@
 {
-  "name": "Elta Systems",
-  "description": "Solutions for Intelligence, Surveillance, and Reconnaissance operations.",
-  "categoryId": 7,
+  "name": "ELTA Systems",
+  "description": "Intelligence, Surveillance, and Reconnaissance Solutions",
+  "categoryId": 3,
   "size": "l",
   "logoFile": "logos/elta_systems-logo.webp",
-  "websiteUrl": "https://eltanorthamerica.com/",
+  "websiteUrl": "https://www.iai.co.il/about/groups/elta-systems",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "elta",
   "crunchbaseId": null,
   "finderId": "elta-systems",
-  "xId": null,
+  "xId": "ELTA_SystemsLtd",
   "addresses": [
     {
       "street": "יצחק הנשיא",
@@ -19,5 +19,8 @@
       "lat": 31.79557068552066,
       "lon": 34.66275782134774
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ELTA.SYSTEMS",
+  "linkedinNum": 9749
 }

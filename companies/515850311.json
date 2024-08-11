@@ -1,5 +1,5 @@
 {
-  "name": "Else Nutrition Gh",
+  "name": "Else Nutrition",
   "description": "Offering trusted, plant-based, organic nutrition as a clean-label alternative to dairy for babies, toddlers, and kids.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "else-nutrition",
-  "xId": null,
+  "xId": "ElseNutrition",
   "addresses": [
     {
       "street": "הנחושת",
@@ -19,5 +19,8 @@
       "lat": 32.10981,
       "lon": 34.838876
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "elsenutrition",
+  "linkedinNum": 20126450
 }

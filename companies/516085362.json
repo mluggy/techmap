@@ -1,5 +1,5 @@
 {
-  "name": "Wellybox Technologies",
+  "name": "WellyBox",
   "description": "WellyBox turns receipts into Excel spreadsheets for detailed analysis and integrates smoothly with leading accounting software.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "wellybox",
-  "xId": null,
+  "xId": "wellyboxhq",
   "addresses": [
     {
       "street": "לויטן יצחק",
@@ -19,5 +19,8 @@
       "lat": 32.11874878736999,
       "lon": 34.79770886970489
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WellyBox-100496698217431",
+  "linkedinNum": 18940889
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "myndlift",
-  "xId": null,
+  "xId": "Myndlift",
   "addresses": [
     {
       "street": "לינקולן",
@@ -19,5 +19,8 @@
       "lat": 32.066398,
       "lon": 34.783062
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myndlift",
+  "linkedinNum": 5233342
 }

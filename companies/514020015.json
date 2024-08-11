@@ -1,13 +1,13 @@
 {
-  "name": "Pango Pay Go",
-  "description": "A platform providing parking permits, payment solutions for violations, and reservation services.",
-  "categoryId": 10,
+  "name": "Pango",
+  "description": "Mobile Parking Tool",
+  "categoryId": 5,
   "size": "m",
   "logoFile": "logos/pango_pay_go-logo.webp",
-  "websiteUrl": "https://www.mypango.com/",
+  "websiteUrl": "https://en.pango.co.il/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "milgam-cellular-parking",
   "crunchbaseId": null,
   "finderId": "pango",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0843166,
       "lon": 34.8584859
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pangoisrael",
+  "linkedinNum": 499080
 }

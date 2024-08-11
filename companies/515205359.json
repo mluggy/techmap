@@ -1,10 +1,10 @@
 {
-  "name": "Onsoft Financial Solutions",
-  "description": "A local spot for savoring wood-fired pizza, mini burgers, chef-driven dishes, craft beer, and cocktails.",
+  "name": "OnSoft",
+  "description": "Credit Card Transaction Monitoring and Control",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/onsoft_financial_solutions-logo.webp",
-  "websiteUrl": "https://www.matchboxrestaurants.com/",
+  "websiteUrl": "https://www.onsoft.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.9809285,
       "lon": 34.771985
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10401896
 }

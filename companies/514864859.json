@@ -1,16 +1,16 @@
 {
-  "name": "Activocal",
-  "description": "Offering a wide variety of top-quality Belgian chocolates, this company is highly recommended for corporate gifts.",
-  "categoryId": 9,
+  "name": "ActiVocal",
+  "description": "Devices for Assisted Living",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/activocal-logo.webp",
-  "websiteUrl": "https://www.vocca.co/",
+  "websiteUrl": "https://activocal.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vocca",
-  "xId": null,
+  "xId": "activocal",
   "addresses": [
     {
       "street": "פארן",
@@ -19,5 +19,7 @@
       "lat": 31.8939898,
       "lon": 34.7347034
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ActiVocal"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Nevette Technologies",
-  "description": "Technology that uses AI to enhance and automate the performance of machines and systems.",
-  "categoryId": 1,
+  "name": "Nevette",
+  "description": "AI-powered Optimization and Automation Technology for Machines and Systems",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/nevette_technologies-logo.webp",
-  "websiteUrl": "https://aestheticbynevette.com/",
+  "websiteUrl": "https://nevette.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.7184192,
       "lon": 35.3954738
     }
-  ]
+  ],
+  "isMultinational": false
 }

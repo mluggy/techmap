@@ -1,5 +1,5 @@
 {
-  "name": "Kimonix Ecommerce",
+  "name": "Kimonix",
   "description": "An AI-driven solution offering dynamic, ROI-focused merchandising strategies tailored to real-time business requirements.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "kimonix",
   "crunchbaseId": "kimonix",
   "finderId": "kimonix",
-  "xId": null,
+  "xId": "Kimonix_",
   "addresses": [
     {
       "street": "לוינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.059402,
       "lon": 34.768294
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Kimonix-110646984027490",
+  "linkedinNum": 65577899
 }

@@ -10,7 +10,7 @@
   "linkedinId": "parknav",
   "crunchbaseId": null,
   "finderId": "parknav",
-  "xId": null,
+  "xId": "parknav",
   "addresses": [
     {
       "street": "אלוף מגן קלמן",
@@ -19,5 +19,8 @@
       "lat": 32.07110345,
       "lon": 34.78706174292169
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "parknav",
+  "linkedinNum": 2390460
 }

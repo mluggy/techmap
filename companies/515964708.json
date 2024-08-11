@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "lavie-bio",
-  "xId": null,
+  "xId": "LavieBio",
   "addresses": [
     {
       "street": "פינשטיין",
@@ -19,5 +19,8 @@
       "lat": 31.8999536,
       "lon": 34.79146377703995
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LavieBio123",
+  "linkedinNum": 35599831
 }

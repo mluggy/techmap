@@ -1,5 +1,5 @@
 {
-  "name": "Parkam Israel",
+  "name": "ParKam",
   "description": "This company enhances existing CCTV systems to accurately monitor and manage parking spaces.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "parkam",
   "crunchbaseId": "parkam",
   "finderId": "parkam",
-  "xId": null,
+  "xId": "parkam7",
   "addresses": [
     {
       "street": "הנופר",
@@ -19,5 +19,7 @@
       "lat": 32.1942969,
       "lon": 34.8850285
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 7056369
 }

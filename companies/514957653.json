@@ -1,5 +1,5 @@
 {
-  "name": "Openlegacy Technologies",
+  "name": "OpenLegacy",
   "description": "Integrates legacy systems seamlessly with leading technology platforms and cloud environments for comprehensive solutions.",
   "categoryId": 6,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "openlegacy-inc",
   "crunchbaseId": null,
   "finderId": "openlegacy",
-  "xId": null,
+  "xId": "openlegacy",
   "addresses": [
     {
       "street": "מוטה גור",
@@ -19,5 +19,8 @@
       "lat": 32.0938214,
       "lon": 34.8648016
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "openlegacy",
+  "linkedinNum": 2762833
 }

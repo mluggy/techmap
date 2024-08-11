@@ -1,0 +1,25 @@
+{
+  "name": "ICV",
+  "description": "Candidate Matching Solution for Human Resources",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/icv1.webp",
+  "websiteUrl": "https:////",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 10943887,
+  "crunchbaseId": null,
+  "finderId": "icv1",
+  "xId": "get_icv",
+  "facebookId": "getICVil",
+  "addresses": [
+    {
+      "street": "דולב",
+      "houseNumber": 4,
+      "city": "רעננה",
+      "lat": 32.20069468258747,
+      "lon": 34.881293353582656
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,10 +1,10 @@
 {
-  "name": "Ensights Ai Renewable Energy Os",
-  "description": "North Dakota's official platform for comprehensive public education data from various partner agencies.",
-  "categoryId": 1,
+  "name": "enSights",
+  "description": "AI-Powered Renewable Energy Management Solutions",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/ensights_ai_renewable_energy_os-logo.webp",
-  "websiteUrl": "https://insights.nd.gov/",
+  "websiteUrl": "https://ensights.ai/",
   "careersUrl": "https://www.insights.com/us/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.3263313,
       "lon": 34.9780302
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79936426
 }

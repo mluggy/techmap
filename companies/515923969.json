@@ -1,10 +1,10 @@
 {
   "name": "Embie Clinic",
-  "description": "Empowering clinics and patients with enhanced collaboration, transparency, and satisfaction through advanced data analytics, visualization tools, and streamlined digital workflows.",
+  "description": "Enabling a 10X growth in Fertility Treatments in the US via Remote Fertility Treatment",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/embie_clinic-logo.webp",
-  "websiteUrl": "https://embieclinic.com/",
+  "websiteUrl": "https://embieapp.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.075347,
       "lon": 34.766947
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "embieapp",
+  "linkedinNum": 74321722
 }

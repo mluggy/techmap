@@ -1,5 +1,5 @@
 {
-  "name": "Storedot",
+  "name": "StoreDot",
   "description": "Pioneering extreme-fast charging EV batteries through advanced nanotechnology, organic molecules, and AI optimization, integrated within a diverse R&D ecosystem for swift mass production.",
   "categoryId": 5,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.store-dot.com/",
   "careersUrl": "https://www.store-dot.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "storedot",
   "crunchbaseId": null,
   "finderId": "storedot",
-  "xId": null,
+  "xId": "StoreDotLtd",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.158885,
       "lon": 34.8090779
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "StoredotLtd",
+  "linkedinNum": 2667427
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Nft New Age Automobile",
-  "description": "A free service that provides instant translation of text and web content between English and more than 100 languages.",
+  "name": "NFT- New Age Automobile",
+  "description": "Autonomous Flight Technology for Urban Travel",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/nft_new_age_automobile-logo.webp",
-  "websiteUrl": "https://translate.google.co.uk/",
+  "websiteUrl": "https://www.askafly.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nft-new-age-automobile",
-  "xId": null,
+  "xId": "ASKAFLY",
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -19,5 +19,8 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ASKA.drive.and.fly.eVTOLvehicle",
+  "linkedinNum": 13685177
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Mazebolt Technologies",
+  "name": "MazeBolt",
   "description": "Continuous, non-disruptive testing reveals vulnerabilities in DDoS attack surfaces.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "mazebolt-technologies",
   "crunchbaseId": "mazebolt-technologies",
   "finderId": "mazebolt",
-  "xId": null,
+  "xId": "Mazebolt",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0835543,
       "lon": 34.8042074
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mazebolt",
+  "linkedinNum": 5017324
 }

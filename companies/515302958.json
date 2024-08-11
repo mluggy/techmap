@@ -1,5 +1,5 @@
 {
-  "name": "Webiks Y O",
+  "name": "Webiks",
   "description": "Creating smart applications for innovative customers.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "webiks",
   "crunchbaseId": "webiks",
   "finderId": "webiks",
-  "xId": null,
+  "xId": "therealwebiks",
   "addresses": [
     {
       "street": "מוזס יהודה ונח",
@@ -19,5 +19,7 @@
       "lat": 32.075798,
       "lon": 34.794728
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 40817066
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Dormotech Medical",
+  "name": "DormoTech Medical",
   "description": "A pioneering FDA-approved device offers a full testing cycle with intuitive reporting and exceeds CMS standards through advanced machine-assisted scoring.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.6236389,
       "lon": 35.3176342
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68496321
 }

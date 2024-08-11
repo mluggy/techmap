@@ -1,10 +1,10 @@
 {
   "name": "Tissue Dynamics",
-  "description": "Illuminating the path to drug discovery with advanced sensor technology.",
+  "description": "Sensor Illuminated Drug Discovery",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/tissue_dynamics-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.tissuedynamics.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "tissuedynamics",
@@ -19,5 +19,7 @@
       "lat": 31.9119527,
       "lon": 34.8070016
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77048454
 }

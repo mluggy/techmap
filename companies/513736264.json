@@ -1,5 +1,5 @@
 {
-  "name": "Enlivex Therapeutics R D",
+  "name": "Enlivex Therapeutics R&D",
   "description": "We are a clinical-stage biotechnology company developing and commercializing macrophage reprogramming therapies for diseases like Sepsis, Osteoarthritis, solid cancers, and COVID-19.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "enlivex-therapeutics",
-  "xId": null,
+  "xId": "EnlivexT",
   "addresses": [
     {
       "street": "עין כרם",
@@ -19,5 +19,7 @@
       "lat": 31.7681468,
       "lon": 35.1621008
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19117645
 }

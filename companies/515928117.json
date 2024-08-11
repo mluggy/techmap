@@ -1,16 +1,16 @@
 {
-  "name": "Propel Hr",
-  "description": "Provides essential nutrients like Vitamin C and Zinc to bolster immune health.",
-  "categoryId": 12,
+  "name": "Propel",
+  "description": "PR Productivity Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/propel_hr-logo.webp",
-  "websiteUrl": "https://www.propelwater.com/",
+  "websiteUrl": "https://www.propelmypr.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "propel",
-  "xId": null,
+  "xId": "PropelPRM",
   "addresses": [
     {
       "street": "רגבים",
@@ -19,5 +19,8 @@
       "lat": 32.1496042,
       "lon": 34.839727
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PropelPRM",
+  "linkedinNum": 27245365
 }

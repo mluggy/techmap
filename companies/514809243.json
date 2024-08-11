@@ -1,5 +1,5 @@
 {
-  "name": "Femselect",
+  "name": "FEMSelect",
   "description": "We provide specialized solutions for pelvic organ prolapse when traditional treatments like pessaries and Kegels fall short.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "femselect",
   "crunchbaseId": "femselect",
   "finderId": "pop-medical-solutions",
-  "xId": null,
+  "xId": "FEMSelect",
   "addresses": [
     {
       "street": "המעיין",
@@ -19,5 +19,8 @@
       "lat": 31.922288,
       "lon": 34.9688892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FEMSelect",
+  "linkedinNum": 28632694
 }

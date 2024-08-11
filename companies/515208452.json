@@ -1,5 +1,5 @@
 {
-  "name": "Muscle Motion",
+  "name": "Muscle & Motion",
   "description": "A comprehensive resource offering in-depth education on muscular and anatomical dynamics for fitness professionals and enthusiasts.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "muscle-and-motion",
-  "xId": null,
+  "xId": "muscleandmotion",
   "addresses": [
     {
       "street": "האלוף דוד",
@@ -19,5 +19,8 @@
       "lat": 31.9703652,
       "lon": 34.77893125
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "muscleandmotion",
+  "linkedinNum": 2201039
 }

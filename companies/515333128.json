@@ -1,5 +1,5 @@
 {
-  "name": "Arbe Robotics",
+  "name": "Arbe",
   "description": "Pioneering ultra-high-resolution 4D imaging radar technology, this company revolutionizes automotive sensors by offering unparalleled detail and positioning.",
   "categoryId": 5,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://arberobotics.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "arbe-robotics",
   "crunchbaseId": null,
   "finderId": "arbe-robotics",
-  "xId": null,
+  "xId": "Arbe_Robotics",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +19,8 @@
       "lat": 32.06959,
       "lon": 34.784878
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "arberobotics",
+  "linkedinNum": 12960415
 }

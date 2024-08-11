@@ -1,5 +1,5 @@
 {
-  "name": "Apono Tech",
+  "name": "Apono",
   "description": "Efficiently manage permissions and ensure compliance, enhancing employee access and security.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "aponoio",
   "crunchbaseId": null,
   "finderId": "apono",
-  "xId": null,
+  "xId": "Apono_official",
   "addresses": [
     {
       "street": "קארו יוסף",
@@ -19,5 +19,7 @@
       "lat": 32.070604,
       "lon": 34.790807
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78367340
 }

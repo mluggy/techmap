@@ -1,5 +1,5 @@
 {
-  "name": "Playsight Interactive",
+  "name": "PlaySight Interactive",
   "description": "Empowering global sports with advanced video analytics, live streaming, and performance tools for athletes, coaches, and leagues.",
   "categoryId": 11,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "playsight-interactive",
   "crunchbaseId": null,
   "finderId": "playsight-interactive",
-  "xId": null,
+  "xId": "playsight",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,8 @@
       "lat": 32.12984109999999,
       "lon": 34.89354939995229
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PlaySight",
+  "linkedinNum": 941666
 }

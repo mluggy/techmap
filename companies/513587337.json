@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "physical-logic",
-  "xId": null,
+  "xId": "Physical_Logic",
   "addresses": [
     {
       "street": "גליס",
@@ -19,5 +19,7 @@
       "lat": 32.1045523,
       "lon": 34.8930578
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 546527
 }

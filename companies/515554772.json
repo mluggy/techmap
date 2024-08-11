@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.wiliot.com/",
   "careersUrl": "https://www.wiliot.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "wiliot",
   "crunchbaseId": "wiliot",
   "finderId": "wiliot",
-  "xId": null,
+  "xId": "wiliothq",
   "addresses": [
     {
       "street": "הטוחן",
@@ -19,5 +19,9 @@
       "lat": 32.4863102,
       "lon": 34.9521262
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WiliotHQ",
+  "linkedinNum": 17943955,
+  "comeetId": "wiliot/F6.003"
 }

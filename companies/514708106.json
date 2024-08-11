@@ -1,5 +1,5 @@
 {
-  "name": "Appsflyer",
+  "name": "AppsFlyer",
   "description": "Leverage top-tier measurement tools to convert insights into personalized growth strategies, optimize user acquisition, and boost app installations.",
   "categoryId": 2,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.appsflyer.com/",
   "careersUrl": "https://careers.appsflyer.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "appsflyerhq",
   "crunchbaseId": null,
   "finderId": "appsflyer",
-  "xId": null,
+  "xId": "appsflyer",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,8 @@
       "lat": 32.16468155,
       "lon": 34.81060678883929
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AppsFlyer",
+  "linkedinNum": 2233984
 }

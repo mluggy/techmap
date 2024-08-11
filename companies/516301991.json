@@ -1,10 +1,10 @@
 {
   "name": "Exegiline Pharma",
-  "description": "Comprehensive Approach to Treating Alzheimer's Disease.",
+  "description": "Multifactorial Treatment of Alzheimer's Disease",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/exegiline_pharma-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.exegiline.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "exegiline",
@@ -19,5 +19,6 @@
       "lat": 32.7150024,
       "lon": 35.1179578
     }
-  ]
+  ],
+  "isMultinational": false
 }

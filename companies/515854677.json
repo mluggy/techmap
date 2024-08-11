@@ -1,10 +1,10 @@
 {
-  "name": "Restar",
-  "description": "An innovative electronics solutions provider addressing challenges in various sectors, from semiconductors to energy systems, with advanced technology and services.",
-  "categoryId": 16,
+  "name": "RestAR",
+  "description": "Cloud-based 3D Scanning and AR for Retail",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/restar-logo.webp",
-  "websiteUrl": "https://www.en.restargp.com/",
+  "websiteUrl": "https://www.rest-ar.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RestAR3D",
+  "linkedinNum": 11399157
 }

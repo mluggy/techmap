@@ -1,10 +1,10 @@
 {
-  "name": "Ituran Location And Control",
-  "description": "We offer solutions for immediate fuel and maintenance savings, reduced liability exposure, and fewer traffic violations.",
-  "categoryId": 13,
+  "name": "Ituran",
+  "description": "Vehicle-tracking Technologies",
+  "categoryId": 5,
   "size": "l",
   "logoFile": "logos/ituran_location_and_control_ltd-logo.webp",
-  "websiteUrl": "https://www.ituranusa.com/",
+  "websiteUrl": "https://www.ituran.co.il/ituranfront/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ituran",
@@ -19,5 +19,8 @@
       "lat": 32.2772195,
       "lon": 34.8870453
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ituranusa",
+  "linkedinNum": 17951641
 }

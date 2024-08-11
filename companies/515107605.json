@@ -1,16 +1,16 @@
 {
   "name": "One World Cannabis",
-  "description": "Products for Cannabis-Based Therapy.",
+  "description": "Cannabis Treatment Products",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/one_world_cannabis-logo.webp",
-  "websiteUrl": "https://oneworldproducts.com/",
+  "websiteUrl": "https://www.owcpharma.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "owp-ventures-inc",
   "crunchbaseId": null,
   "finderId": "one-world-cannabis",
-  "xId": null,
+  "xId": "OWCPharma",
   "addresses": [
     {
       "street": "הכובשים",
@@ -19,5 +19,7 @@
       "lat": 32.56601785,
       "lon": 34.94453832195801
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13034754
 }

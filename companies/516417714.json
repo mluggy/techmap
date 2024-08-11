@@ -1,10 +1,10 @@
 {
-  "name": "Provengo Technologies",
-  "description": "Automated Generation of Test Scenarios.",
-  "categoryId": 15,
+  "name": "Provengo",
+  "description": "Automatic Test Scenario Generation",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/provengo_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://provengo.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "provengotechnologies",
@@ -19,5 +19,7 @@
       "lat": 32.1425988,
       "lon": 34.8428205
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68861303
 }

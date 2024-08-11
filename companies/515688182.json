@@ -1,10 +1,10 @@
 {
-  "name": "Empirical Hire",
-  "description": "Our company merges culinary and scientific breakthroughs to revolutionize flavors in spirits and more, rooted in the Empirical method of experiential knowledge.",
-  "categoryId": 9,
+  "name": "Empirical",
+  "description": "Algorithm-based Candidate Screening",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/empirical_hire-logo.webp",
-  "websiteUrl": "https://empirical.co/",
+  "websiteUrl": "https://www.empiricalhire.com",
   "careersUrl": "https://empiricalfoods.com/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EmpiricalHire",
+  "linkedinNum": 18252070
 }

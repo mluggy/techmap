@@ -1,10 +1,10 @@
 {
   "name": "Cytora",
-  "description": "Transforms risk submissions into decision-ready data, enhancing workflows through comprehensive classification and augmentation from various sources.",
-  "categoryId": 10,
+  "description": "Oral Mucosa Stem Cell Therapy",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/cytora-logo.webp",
-  "websiteUrl": "https://www.cytora.com/",
+  "websiteUrl": "https://www.cytorastem.com/",
   "careersUrl": "https://www.cytora.com/about-careers",
   "isHiring": true,
   "linkedinId": "cytora",
@@ -19,5 +19,7 @@
       "lat": 32.666821299999995,
       "lon": 35.1073974779977
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77067876
 }

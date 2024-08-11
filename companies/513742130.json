@@ -1,5 +1,5 @@
 {
-  "name": "Payoneer Research And Development",
+  "name": "Payoneer Global",
   "description": "A digital platform enabling efficient money management, payments, and earnings access for freelancers and businesses.",
   "categoryId": 10,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.payoneer.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "payoneer",
   "crunchbaseId": null,
   "finderId": "payoneer",
-  "xId": null,
+  "xId": "Payoneer",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.0960132,
       "lon": 34.8499068
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Payoneer",
+  "linkedinNum": 56101
 }

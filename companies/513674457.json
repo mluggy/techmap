@@ -1,16 +1,16 @@
 {
   "name": "Singular",
-  "description": "An authorized financial services provider specializing in shares and bonds.",
-  "categoryId": 10,
+  "description": "Unified Marketing Analytics Platform",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/singular-logo.webp",
-  "websiteUrl": "https://www.singularfs.co.za/",
+  "websiteUrl": "https://www.singular.net/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "singular-labs",
   "crunchbaseId": null,
   "finderId": "singular",
-  "xId": null,
+  "xId": "TweetSingular",
   "addresses": [
     {
       "street": "קרן היסוד",
@@ -19,5 +19,8 @@
       "lat": 31.7717814,
       "lon": 35.2222777
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "singularplatform",
+  "linkedinNum": 3739623
 }

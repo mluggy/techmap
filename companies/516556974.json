@@ -1,10 +1,10 @@
 {
-  "name": "Nowaste",
-  "description": "An innovative app designed for optimizing food inventory, reducing waste, and streamlining meal planning for a more sustainable lifestyle.",
+  "name": "NoWaste",
+  "description": "Agricultural Waste Recycling Platform",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/nowaste-logo.webp",
-  "websiteUrl": "https://www.nowasteapp.com/",
+  "websiteUrl": "https://nowaste.eco/welcome/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.7247262,
       "lon": 35.1392411
     }
-  ]
+  ],
+  "isMultinational": false
 }

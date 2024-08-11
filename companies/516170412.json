@@ -1,5 +1,5 @@
 {
-  "name": "Erudite",
+  "name": "Upword",
   "description": "Enhance your knowledge and productivity with an AI-powered assistant for organizing, researching, summarizing, and managing lifelong information.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "erudite",
-  "xId": null,
+  "xId": "upword_official",
   "addresses": [
     {
       "street": "בוני העיר",
@@ -19,5 +19,8 @@
       "lat": 32.100101,
       "lon": 34.783343
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Upword-109254874006696",
+  "linkedinNum": 26255123
 }

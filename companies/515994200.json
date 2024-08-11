@@ -1,10 +1,10 @@
 {
-  "name": "Radd Stories",
-  "description": "A non-profit organization funded by music fans dedicated to eradicating drunk driving crashes.",
-  "categoryId": 12,
+  "name": "radd.",
+  "description": "Ecommerce Platform for Influencer Engagement",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/radd_stories-logo.webp",
-  "websiteUrl": "https://www.radd.org/",
+  "websiteUrl": "https://raddcontent.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "raddcontent",
+  "linkedinNum": 18011867
 }

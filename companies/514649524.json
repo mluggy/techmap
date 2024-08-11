@@ -1,15 +1,18 @@
 {
-  "name": "Headstart G M M",
-  "description": "A platform for raising funds to support creative endeavors.",
-  "categoryId": 9,
+  "name": "Headstart",
+  "description": "Crowdfunding Platform for Creative Projects",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/headstart_g_m_m-logo.webp",
-  "websiteUrl": "https://eclkc.ohs.acf.hhs.gov/",
+  "websiteUrl": "https://www.headstart.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "headstart",
-  "xId": null,
-  "addresses": []
+  "xId": "headstart_il",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "Headstart.co.il",
+  "linkedinNum": 3363308
 }

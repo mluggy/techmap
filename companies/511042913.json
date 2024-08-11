@@ -1,16 +1,16 @@
 {
   "name": "Gat Fertilizers",
-  "description": "A global leader in multi-nutrient NPK liquid fertilizers, offering customized solutions and comprehensive training.",
+  "description": "Solid and Liquid Water-soluble Fertilizers",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/gat_fertilizers-logo.webp",
-  "websiteUrl": "https://gatfertilizers.com/",
+  "websiteUrl": "https://deshengat.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "gat-fertilizers",
   "crunchbaseId": null,
   "finderId": "gat-fertilizers",
-  "xId": null,
+  "xId": "DeshenGat",
   "addresses": [
     {
       "street": "פלטינה",
@@ -19,5 +19,8 @@
       "lat": 31.6013563,
       "lon": 34.779282
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GatFertilizers",
+  "linkedinNum": 2636038
 }

@@ -1,0 +1,25 @@
+{
+  "name": "SC Square",
+  "description": "Security Software Developer",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/sc-square.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "sc-square",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "וייז ג'ורג'",
+      "houseNumber": 17,
+      "city": "תל אביב - יפו",
+      "lat": 32.10868703224132,
+      "lon": 34.80611256064269
+    }
+  ],
+  "isMultinational": false
+}

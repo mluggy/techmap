@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.air-dr.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "airdoctor",
   "crunchbaseId": null,
   "finderId": "air-doctor",
-  "xId": null,
+  "xId": "AirDoctorApp",
   "addresses": [
     {
       "street": "השקד",
@@ -19,5 +19,8 @@
       "lat": 31.8027506,
       "lon": 35.1238636
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "airdoctorltd",
+  "linkedinNum": 18112521
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Forcepoint Security Solutions Israel",
+  "name": "Forcepoint",
   "description": "Simplify and unify security across apps, devices, and locations with one comprehensive platform.",
   "categoryId": 7,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "forcepoint",
   "crunchbaseId": null,
   "finderId": "forcepoint",
-  "xId": null,
+  "xId": "forcepointsec",
   "addresses": [
     {
       "street": "השלושה",
@@ -19,5 +19,8 @@
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ForcepointLLC",
+  "linkedinNum": 7584467
 }

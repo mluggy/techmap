@@ -1,0 +1,26 @@
+{
+  "name": "OPPO",
+  "description": null,
+  "categoryId": 18,
+  "size": "xl",
+  "logoFile": "logos/oppo.webp",
+  "websiteUrl": "https://www.oppo.com/",
+  "careersUrl": "https://career.oppo.com/",
+  "isHiring": false,
+  "linkedinId": "oppo",
+  "linkedinNum": 2852649,
+  "crunchbaseId": null,
+  "finderId": "oppo",
+  "xId": null,
+  "facebookId": "OPPOIsrael",
+  "addresses": [
+    {
+      "street": "אין רחובות",
+      "houseNumber": 8,
+      "city": "טייבה",
+      "lat": 32.26678938837191,
+      "lon": 35.01040086406263
+    }
+  ],
+  "isMultinational": true
+}

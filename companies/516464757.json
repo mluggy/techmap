@@ -1,10 +1,10 @@
 {
-  "name": "Flowmo App",
-  "description": "Offers a step-by-step program to enhance posture, perfect for unwinding after a sedentary workday.",
-  "categoryId": 12,
+  "name": "FlowMo",
+  "description": "Comprehensive Web Design Platform",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/flowmo_app-logo.webp",
-  "websiteUrl": "https://flowmostudio.com/",
+  "websiteUrl": "https://flowmo.design/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "flowmo-app",
@@ -19,5 +19,7 @@
       "lat": 32.1554572,
       "lon": 34.8374141
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76530922
 }

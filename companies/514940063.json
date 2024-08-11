@@ -1,5 +1,5 @@
 {
-  "name": "Folloze Il",
+  "name": "Folloze",
   "description": "This company enhances the B2B buying experience by delivering personalized content recommendations powered by OpenAI.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "folloze",
   "crunchbaseId": "folloze",
   "finderId": "folloze",
-  "xId": null,
+  "xId": "folloze",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0608197,
       "lon": 34.7771205
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "folloze",
+  "linkedinNum": 3240893
 }

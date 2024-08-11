@@ -1,5 +1,5 @@
 {
-  "name": "Ionir Systems",
+  "name": "Ionir",
   "description": "Accelerate enterprise data management with a Kubernetes-optimized data services platform.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "ionir",
   "crunchbaseId": "reduxio",
   "finderId": "reduxio",
-  "xId": null,
+  "xId": "IonirCloud",
   "addresses": [
     {
       "street": "מנורת המאור",
@@ -19,5 +19,7 @@
       "lat": 32.074448,
       "lon": 34.796408
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68571558
 }

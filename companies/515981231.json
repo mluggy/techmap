@@ -1,23 +1,25 @@
 {
   "name": "Hour One AI",
-  "description": "A revolutionary AI-powered platform centralizes all content creation workflows for businesses.",
-  "categoryId": 1,
-  "size": "m",
-  "logoFile": "logos/hour_one_ai-logo.webp",
-  "websiteUrl": "https://hourone.ai/",
+  "description": "AI-based Synthetic Video Platform",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/hour-one-ai.webp",
+  "websiteUrl": "https://www.hourone.ai/   ",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinNum": 12633438,
   "crunchbaseId": null,
-  "finderId": "hour-one",
-  "xId": null,
+  "finderId": "hour-one-ai",
+  "xId": "HourOneAI",
+  "facebookId": "houroneai",
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
       "city": "תל אביב - יפו",
-      "lat": 32.064654,
-      "lon": 34.785584
+      "lat": 32.06488512183789,
+      "lon": 34.785412834923285
     }
-  ]
+  ],
+  "isMultinational": false
 }

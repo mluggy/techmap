@@ -1,5 +1,5 @@
 {
-  "name": "Circles It Innovation",
+  "name": "Circles",
   "description": "An innovative online platform offering round-the-clock emotional support groups for shared life challenges.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "7chairs",
-  "xId": null,
+  "xId": "circlessupport",
   "addresses": [
     {
       "street": "ויתקין",
@@ -19,5 +19,8 @@
       "lat": 32.090934,
       "lon": 34.773611
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CirclesSupport",
+  "linkedinNum": 34595189
 }

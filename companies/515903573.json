@@ -1,5 +1,5 @@
 {
-  "name": "Bloxroute Labs",
+  "name": "bloXroute Labs",
   "description": "The company specializes in accelerating blockchain transactions and enhancing DeFi performance through advanced mempool services and trading tools across multiple networks such as Ethereum, BSC, and Polygon.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "bloxroute-labs",
   "crunchbaseId": null,
   "finderId": "bloxroute-labs",
-  "xId": null,
+  "xId": "bloXrouteLabs",
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +19,7 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 23207629
 }

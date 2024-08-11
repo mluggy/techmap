@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "let-s-bench",
-  "xId": null,
+  "xId": "letsbench",
   "addresses": [
     {
       "street": "דרך חברון",
@@ -19,5 +19,8 @@
       "lat": 31.7316844,
       "lon": 35.20565
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "letsbench",
+  "linkedinNum": 2038723
 }

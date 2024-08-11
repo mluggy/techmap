@@ -1,5 +1,5 @@
 {
-  "name": "Log In Log Out",
+  "name": "LOG Pharma Packaging",
   "description": "We specialize in premium pharma-packaging, meeting rigorous quality standards certified by ISO 9001 and ISO 15378.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "log-ltd-",
   "crunchbaseId": null,
   "finderId": "log",
-  "xId": null,
+  "xId": "logpacltd",
   "addresses": [
     {
       "street": "שטינמן",
@@ -19,5 +19,8 @@
       "lat": 32.09862461243271,
       "lon": 34.80098710727979
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "logpacltd",
+  "linkedinNum": 5062419
 }

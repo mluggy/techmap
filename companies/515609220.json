@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nanosynex",
-  "xId": null,
+  "xId": "nanosynex",
   "addresses": [
     {
       "street": "בן יהודה",
@@ -19,5 +19,8 @@
       "lat": 32.08776,
       "lon": 34.773482
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nanosynex",
+  "linkedinNum": 22294309
 }

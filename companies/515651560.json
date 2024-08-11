@@ -1,5 +1,5 @@
 {
-  "name": "Kovrr Risk Modeling",
+  "name": "Kovrr",
   "description": "The company provides on-demand financial quantification of cyber risk to empower informed decision-making in cyber risk management.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "kovrr",
   "crunchbaseId": null,
   "finderId": "mydro",
-  "xId": null,
+  "xId": "kovrrIns",
   "addresses": [
     {
       "street": "תושיה",
@@ -19,5 +19,7 @@
       "lat": 32.066746,
       "lon": 34.7889
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11570750
 }

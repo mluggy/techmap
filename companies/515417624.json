@@ -1,5 +1,5 @@
 {
-  "name": "Atvisor AI",
+  "name": "Atvisor.ai",
   "description": "We provide seamless shopping experiences and 24/7 customer support, ensuring worry-free purchases with comprehensive buyer protection policies.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "innitie",
-  "xId": null,
+  "xId": "atvisor",
   "addresses": [
     {
       "street": "השייטת",
@@ -19,5 +19,8 @@
       "lat": 31.9304613,
       "lon": 34.7910225
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "atvisorai",
+  "linkedinNum": 11761496
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Supertrans Medical",
-  "description": "Innovative antibiotics designed to combat drug-resistant bacteria.",
+  "name": "SuperTrans Medical",
+  "description": "Novel Antibiotics for Targeting Resistant Bacteria",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/supertrans_medical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.supertrans-medical.com/site/content/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "supertrans-medical",
   "crunchbaseId": "supertrans-medical",
   "finderId": "supertrans-medical",
-  "xId": null,
+  "xId": "SuperTransMedi1",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,7 @@
       "lat": 32.0736302,
       "lon": 34.7963872
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 65341530
 }

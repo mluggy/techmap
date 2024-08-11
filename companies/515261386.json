@@ -1,10 +1,10 @@
 {
-  "name": "Atlasense Biomed",
-  "description": "Smart Wearable Technology to Aid Clinical Decision-Making.",
+  "name": "ATLASense Biomed",
+  "description": "Wearable Solution for Clinical Decision Support",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/atlasense_biomed-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.atlasensebiomed.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "atlasensebiomed",
@@ -19,5 +19,8 @@
       "lat": 32.1652468,
       "lon": 34.9032801
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ATLASense",
+  "linkedinNum": 16168862
 }

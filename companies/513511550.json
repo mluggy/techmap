@@ -1,10 +1,10 @@
 {
-  "name": "Slice Pizza Ramat Hasharon",
-  "description": "A platform that seamlessly connects pizza enthusiasts with local pizzerias nationwide.",
-  "categoryId": 9,
+  "name": "Slice",
+  "description": "Cross-Border B2B Solution in Fintech and Legaltech",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/slice_pizza_ramat_hasharon-logo.webp",
-  "websiteUrl": "https://slicelife.com/",
+  "websiteUrl": "https://www.sliceglobal.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.04031487465118,
       "lon": 34.87898721982376
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 88391962
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Pic Your Life",
-  "description": "הסוכנות לעסקים קטנים ובינוניים מקדמת יזמות טכנולוגית באזורים מועדפים באמצעות תוכנית MaofTech הכוללת מעל 20 אקסלרטורים ברחבי הארץ.",
-  "categoryId": 9,
+  "name": "PicYourLife",
+  "description": "Mobile App to Organize and Share Pictures",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/pic_your_life-logo.webp",
-  "websiteUrl": "https://maoftech.org.il/",
+  "websiteUrl": "https://www.picyourlifeapps.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0797878,
       "lon": 34.8468249
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100063439377137",
+  "linkedinNum": 34607233
 }

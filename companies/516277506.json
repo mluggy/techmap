@@ -1,16 +1,16 @@
 {
-  "name": "Raftt Systems",
-  "description": "A multiplayer oceanic survival game where you gather debris, expand your raft, and navigate various dangers alone or with friends.",
-  "categoryId": 11,
+  "name": "Raftt",
+  "description": "Cloud-based Platform for Creating and Sharing Development Environments",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/raftt_systems-logo.webp",
-  "websiteUrl": "https://raft-game.com/",
+  "websiteUrl": "https://www.raftt.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "raftt",
-  "xId": null,
+  "xId": "rafttio",
   "addresses": [
     {
       "street": "סמ אליהו",
@@ -19,5 +19,7 @@
       "lat": 32.07719999814197,
       "lon": 34.807471566557105
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81329269
 }

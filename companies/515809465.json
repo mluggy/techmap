@@ -1,15 +1,18 @@
 {
   "name": "Smart Dive Travel",
-  "description": "This free service provides instant translation of text and web pages between English and more than 100 languages.",
-  "categoryId": 1,
+  "description": "One-stop Shop for Dive Travel",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/smart_dive_travel-logo.webp",
-  "websiteUrl": "https://translate.google.com/",
+  "websiteUrl": "https://beta.smartdivetravel.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "smart-dive-travel-ltd",
-  "xId": null,
-  "addresses": []
+  "xId": "SmartDiveTravel",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "SmartDiveTravel",
+  "linkedinNum": 18085072
 }

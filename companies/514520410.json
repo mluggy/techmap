@@ -10,7 +10,7 @@
   "linkedinId": "bizzabo",
   "crunchbaseId": null,
   "finderId": "bizzabo",
-  "xId": null,
+  "xId": "bizzabo",
   "addresses": [
     {
       "street": "האומנים",
@@ -19,5 +19,8 @@
       "lat": 32.071148,
       "lon": 34.79519
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Bizzabo",
+  "linkedinNum": 1588586
 }

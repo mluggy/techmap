@@ -1,10 +1,10 @@
 {
-  "name": "Drs Rada Technologies",
-  "description": "Tactical Systems for Radar and Avionics.",
+  "name": "DRS RADA Technologies",
+  "description": "Tactical Radar and Avionics Systems",
   "categoryId": 3,
   "size": "l",
   "logoFile": "logos/rsda_technologies-logo.webp",
-  "websiteUrl": "https://www.drsrada.com/",
+  "websiteUrl": "https://www.rada.com",
   "careersUrl": "https://www.drsrada.com/careers",
   "isHiring": true,
   "linkedinId": "drsradatechnologies",
@@ -19,5 +19,8 @@
       "lat": 32.2787263,
       "lon": 34.8610014
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RADAElectronicsOfficial",
+  "linkedinNum": 36577
 }

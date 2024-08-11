@@ -7,10 +7,10 @@
   "websiteUrl": "https://coralogix.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "coralogix",
   "crunchbaseId": null,
   "finderId": "coralogix",
-  "xId": null,
+  "xId": "Coralogix",
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -19,5 +19,9 @@
       "lat": 32.0907362,
       "lon": 34.8119048
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Coralogix",
+  "linkedinNum": 3763125,
+  "comeetId": "coralogix/06.004"
 }

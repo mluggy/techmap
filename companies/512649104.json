@@ -1,10 +1,10 @@
 {
   "name": "English Adventure",
-  "description": "Offering creative and experiential learning, the EPIC program empowers 3rd graders to become independent learners.",
-  "categoryId": 12,
+  "description": "English-learning Programs for Young Learners",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/english_adventure_ltd-logo.webp",
-  "websiteUrl": "https://www.eadventure.co.il/",
+  "websiteUrl": "https://www.englishadventure.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1375493,
       "lon": 34.8451267
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EngAdven",
+  "linkedinNum": 7969517
 }

@@ -1,16 +1,16 @@
 {
   "name": "White Cyber Knight",
-  "description": "A leading search engine that provides comprehensive access to global information, including webpages, images, and videos, with tailored search features.",
+  "description": "Cyber Risk and Compliance Management for IT/OT/IoT",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/white_cyber_knight-logo.webp",
-  "websiteUrl": "https://www.google.com/",
+  "websiteUrl": "https://wck-grc.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "white-cyber-knight",
-  "xId": null,
+  "xId": "wckltd",
   "addresses": [
     {
       "street": "שניאור זלמן",
@@ -19,5 +19,6 @@
       "lat": 32.0767805,
       "lon": 34.82055587638732
     }
-  ]
+  ],
+  "isMultinational": false
 }

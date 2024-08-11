@@ -1,5 +1,5 @@
 {
-  "name": "Grid 4C",
+  "name": "Grid4C",
   "description": "Leveraging AI, this company provides predictive analytics from individual meters to clusters, enhancing energy efficiency and management.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.1932185,
       "lon": 34.8506881
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "grid4c",
+  "linkedinNum": 7322672
 }

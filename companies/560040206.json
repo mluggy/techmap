@@ -1,0 +1,25 @@
+{
+  "name": "Medicane Health",
+  "description": "Cannabis-based Medications",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/medicane-health.webp",
+  "websiteUrl": "https://medicane.net/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 53143609,
+  "crunchbaseId": null,
+  "finderId": "medicane-health",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 28,
+      "city": "כפר סבא",
+      "lat": 32.178458123280514,
+      "lon": 34.92799856442618
+    }
+  ],
+  "isMultinational": false
+}

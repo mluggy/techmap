@@ -1,5 +1,5 @@
 {
-  "name": "Jpu Io",
+  "name": "Pente Networks",
   "description": "Streamline the deployment, integration, and management of private LTE/5G networks seamlessly from any location.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "jpu",
   "finderId": "jpu",
-  "xId": null,
+  "xId": "PenteNetworks",
   "addresses": [
     {
       "street": "מוטה גור",
@@ -19,5 +19,8 @@
       "lat": 32.0920729,
       "lon": 34.8646062
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pentenetworks",
+  "linkedinNum": 76563779
 }

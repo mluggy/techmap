@@ -1,5 +1,5 @@
 {
-  "name": "Idea Bio Medical",
+  "name": "IDEA Bio-Medical",
   "description": "Empowering cell biology research with automated high-content analysis technology through strategic distribution partnerships.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "idea-bio-medical",
-  "xId": null,
+  "xId": "WiScanHermes",
   "addresses": [
     {
       "street": "ברגמן",
@@ -19,5 +19,8 @@
       "lat": 31.9113645,
       "lon": 34.8090693
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "IdeaBioMedical",
+  "linkedinNum": 1776549
 }

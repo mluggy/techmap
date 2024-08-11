@@ -1,5 +1,5 @@
 {
-  "name": "Otonomo Technologies",
+  "name": "otonomo",
   "description": "A platform providing intelligent data solutions for transportation.",
   "categoryId": 13,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "otonomo",
   "crunchbaseId": "otonomo",
   "finderId": "otonomo",
-  "xId": null,
+  "xId": "otonomo_",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,8 @@
       "lat": 32.16222215,
       "lon": 34.80753269535335
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "otonomo.io",
+  "linkedinNum": 10311669
 }

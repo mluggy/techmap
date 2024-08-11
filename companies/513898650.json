@@ -1,16 +1,16 @@
 {
-  "name": "Site 123",
-  "description": "Offering a free subdomain and affordable custom domain plans, this website builder emphasizes cost-effective web development solutions.",
-  "categoryId": 9,
+  "name": "SITE123",
+  "description": "Website Builder",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/site_123-logo.webp",
-  "websiteUrl": "https://www.site123.com/",
+  "websiteUrl": "https://he.site123.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "site123",
   "crunchbaseId": null,
   "finderId": "site123",
-  "xId": null,
+  "xId": "site123",
   "addresses": [
     {
       "street": "חלקיקי האור",
@@ -19,5 +19,8 @@
       "lat": 31.2638117,
       "lon": 34.8121724
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Site123",
+  "linkedinNum": 13181758
 }

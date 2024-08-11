@@ -1,5 +1,5 @@
 {
-  "name": "Puresight Technologies",
+  "name": "PureSight",
   "description": "A comprehensive digital parenting solution offering alert notifications, screen time management, and kid geolocation tracking.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "puresight",
   "crunchbaseId": null,
   "finderId": "puresight",
-  "xId": null,
+  "xId": "PureSight_Owl",
   "addresses": [
     {
       "street": "התע\"ש",
@@ -19,5 +19,8 @@
       "lat": 32.1789899,
       "lon": 34.9284423
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PureSightOnlineSafety",
+  "linkedinNum": 275756
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Shareroute",
+  "name": "ShareRoute",
   "description": "Get economical and efficient local transportation on a shared, licensed, and insured minibus with optimized routes for your convenience.",
   "categoryId": 5,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "shareroute",
-  "xId": null,
+  "xId": "shareroute",
   "addresses": [
     {
       "street": "גלעדי",
@@ -19,5 +19,8 @@
       "lat": 31.7537752,
       "lon": 35.2230591
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Share-Route-302131820409515",
+  "linkedinNum": 17928639
 }

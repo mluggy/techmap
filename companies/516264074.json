@@ -1,5 +1,5 @@
 {
-  "name": "Vyzer Financial Services",
+  "name": "Vyzer",
   "description": "Comprehensive platform offering investment tracking, financial planning, data insights, and document analysis for diverse portfolios.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "vyzerfinance",
   "crunchbaseId": null,
   "finderId": "vyzer",
-  "xId": null,
+  "xId": "VyzerFinance",
   "addresses": [
     {
       "street": "ברמן בני",
@@ -19,5 +19,8 @@
       "lat": 32.2785135,
       "lon": 34.8474165
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "vyzerfinance",
+  "linkedinNum": 65545072
 }

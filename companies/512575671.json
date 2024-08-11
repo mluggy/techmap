@@ -1,16 +1,16 @@
 {
-  "name": "Dialogue Center For Inter Cultural Meetings",
-  "description": "Since 1966, this independent journal has been dedicated to publishing scholarly and creative works centered on the Mormon experience.",
-  "categoryId": 8,
+  "name": "Dialogue",
+  "description": "AI-powered E-commerce Personalization Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/dialogue_center_for_inter_cultural_meetings-logo.webp",
-  "websiteUrl": "https://www.dialoguejournal.com/",
+  "websiteUrl": "https://nowdialogue.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dialogue",
-  "xId": null,
+  "xId": "nowdialogue1",
   "addresses": [
     {
       "street": "הכרכום",
@@ -19,5 +19,8 @@
       "lat": 32.58871645,
       "lon": 34.95206715
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nowdialogue",
+  "linkedinNum": 19077084
 }

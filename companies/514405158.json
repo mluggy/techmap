@@ -1,10 +1,10 @@
 {
-  "name": "Geospotx",
+  "name": "GeoSpotX",
   "description": "Developing advanced GPS, location monitoring, and image processing software solutions.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/geospotx-logo.webp",
-  "websiteUrl": "http://geospotx.com/",
+  "websiteUrl": "https://geospotx.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.09583,
       "lon": 34.789869
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3474884
 }

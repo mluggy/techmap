@@ -1,5 +1,5 @@
 {
-  "name": "Digitalowl Inst",
+  "name": "DigitalOwl",
   "description": "Their AI-driven platform revolutionizes medical review analysis with unparalleled speed and accuracy for insurers and legal experts.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "digitalowlai",
   "crunchbaseId": null,
   "finderId": "legal-automation",
-  "xId": null,
+  "xId": "DigitalOwl_AI",
   "addresses": [
     {
       "street": "השלושה",
@@ -19,5 +19,8 @@
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DigitalOwlINST",
+  "linkedinNum": 27146200
 }

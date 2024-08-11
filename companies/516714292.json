@@ -1,10 +1,10 @@
 {
-  "name": "Vitas Labs",
-  "description": "Transform training with our VR solution enabling athletes and coaches to practice cognitive skills through 3D-VR scenes from any location.",
-  "categoryId": 4,
+  "name": "ViTAs Labs",
+  "description": "Cognitive Training Tool",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/vitas_labs-logo.webp",
-  "websiteUrl": "https://www.vitas-labs.com/",
+  "websiteUrl": "https://www.vtactica.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.068629,
       "lon": 34.785878
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 91059793
 }

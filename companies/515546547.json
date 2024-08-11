@@ -1,10 +1,10 @@
 {
-  "name": "Anydish",
-  "description": "A free German software facilitating secure bidirectional remote access between computers and mobile devices.",
-  "categoryId": 7,
+  "name": "anydish",
+  "description": "AI-based Nutritional Analysis",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/anydish-logo.webp",
-  "websiteUrl": "https://anydesk.en.softonic.com/",
+  "websiteUrl": "https://www.anydish.me/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.126916,
       "lon": 34.80647
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "people",
+  "linkedinNum": 7154062
 }

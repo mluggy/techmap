@@ -1,10 +1,10 @@
 {
-  "name": "Novvo Central",
-  "description": "An online banking service tailored for small businesses offers fee-free checking accounts.",
+  "name": "Novvo",
+  "description": "Private Company Financing Solutions",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/novvo_central-logo.webp",
-  "websiteUrl": "https://www.novo.co/",
+  "websiteUrl": "https://www.novvo.ai/",
   "careersUrl": "https://www.novonordisk.com/careers.html",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.9961823,
       "lon": 34.950333
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90942938
 }

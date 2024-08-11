@@ -1,5 +1,5 @@
 {
-  "name": "Novid 20",
+  "name": "Novid-20",
   "description": "An Israeli startup leveraging a novel cinnamon compound, Cinnovir, to combat various enveloped viruses.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.78246488948715,
       "lon": 35.3042026906069
     }
-  ]
+  ],
+  "isMultinational": false
 }

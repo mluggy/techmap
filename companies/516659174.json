@@ -1,10 +1,10 @@
 {
-  "name": "Emazelabs",
-  "description": "A software service designed for cognitive therapy sessions that can be conducted from home.",
+  "name": "eMazeLabs",
+  "description": "SaaS Platform for At-home Cognitive Therapy",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/emazelabs-logo.webp",
-  "websiteUrl": "http://emazelabs.com.s3-website-us-east-1.amazonaws.com/",
+  "websiteUrl": "https://emazelabs.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "emazebrain",
@@ -19,5 +19,8 @@
       "lat": 32.2412074,
       "lon": 34.9975717
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "eMazeBrain",
+  "linkedinNum": 77330954
 }

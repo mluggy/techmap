@@ -1,16 +1,16 @@
 {
-  "name": "Epm Group Israel",
-  "description": "Empowering brokers with diverse mortgage options to better serve their clients.",
-  "categoryId": 10,
+  "name": "EPM",
+  "description": "Steroid Substitutes Based on Synthetic Cannabinoid Acids",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/epm_group_israel-logo.webp",
-  "websiteUrl": "https://www.epmwholesale.com/",
+  "websiteUrl": "https://epmip.com/",
   "careersUrl": "https://www.epm-inc.com/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "epm",
-  "xId": null,
+  "xId": "EPMIP",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EPMIP",
+  "linkedinNum": 54275941
 }

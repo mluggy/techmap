@@ -1,10 +1,10 @@
 {
   "name": "Elefend",
-  "description": "Safeguarding Against Consumer Fraud and Identity Theft.",
+  "description": "Consumer Fraud and Identity Theft Protection",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/elefend-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.elefend.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0940715,
       "lon": 34.823239
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myelefend",
+  "linkedinNum": 18961564
 }

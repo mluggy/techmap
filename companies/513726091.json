@@ -1,16 +1,16 @@
 {
   "name": "Viora",
-  "description": "Offering advanced treatments for fat reduction, hair removal, skin rejuvenation, and post-weight loss skin tightening to enhance your appearance.",
+  "description": "Medical Aesthetics Solutions",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/viora-logo.webp",
-  "websiteUrl": "https://www.vioralife.com/",
+  "websiteUrl": "https://www.vioramed.com/int/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "viora",
-  "xId": null,
+  "xId": "vioramed",
   "addresses": [
     {
       "street": "פארק תעשיות שגיא 2000",
@@ -19,5 +19,8 @@
       "lat": 32.655404507635595,
       "lon": 35.23816273293453
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "vioramed",
+  "linkedinNum": 818922
 }

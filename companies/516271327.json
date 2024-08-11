@@ -1,16 +1,16 @@
 {
-  "name": "Anchor Fintech",
-  "description": "A free, comprehensive podcast platform designed for creators.",
-  "categoryId": 8,
+  "name": "Anchor",
+  "description": "Autonomous Billing System",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/anchor_fintech-logo.webp",
-  "websiteUrl": "https://podcasters.spotify.com/",
+  "websiteUrl": "https://www.sayanchor.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "anchor",
-  "xId": null,
+  "xId": "Say_anchor_",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,9 @@
       "lat": 32.064654,
       "lon": 34.785584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sayanchor",
+  "linkedinNum": 66951046,
+  "comeetId": "anchorfintech/87.00D"
 }

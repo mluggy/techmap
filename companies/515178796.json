@@ -1,5 +1,5 @@
 {
-  "name": "Aimbetter",
+  "name": "AimBetter",
   "description": "Enhancing clients' system security and performance by quickly identifying and resolving IT issues such as breaches, data loss, and database errors.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "aimbetter",
-  "xId": null,
+  "xId": "better_aim",
   "addresses": [
     {
       "street": "חודשי השנה",
@@ -19,5 +19,8 @@
       "lat": 31.6729205,
       "lon": 34.5757598
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sqlservermonitor",
+  "linkedinNum": 6444168
 }

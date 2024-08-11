@@ -1,5 +1,5 @@
 {
-  "name": "Oncohost",
+  "name": "OncoHost",
   "description": "Leveraging advanced bioinformatics and proteomic technologies, this company predicts patient responses to cancer therapies and provides evidence-based treatment recommendations.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "oncohost",
   "crunchbaseId": null,
   "finderId": "oncohost",
-  "xId": null,
+  "xId": "oncohost",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.5128454,
       "lon": 34.9484798
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OncoHost",
+  "linkedinNum": 18360929
 }

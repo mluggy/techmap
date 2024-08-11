@@ -1,5 +1,5 @@
 {
-  "name": "Zesty Tech",
+  "name": "Zesty",
   "description": "Their platform optimizes cloud infrastructure, cutting costs and minimizing manual work while ensuring optimal performance.",
   "categoryId": 6,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://zesty.co/",
   "careersUrl": "https://zesty.co/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "zestyco",
   "crunchbaseId": null,
   "finderId": "cloudvisor-io",
-  "xId": null,
+  "xId": "zesty_co",
   "addresses": [
     {
       "street": "לינקולן",
@@ -19,5 +19,8 @@
       "lat": 32.066035,
       "lon": 34.782959
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "zestyhq",
+  "linkedinNum": 19106475
 }

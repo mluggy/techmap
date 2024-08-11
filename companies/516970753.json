@@ -1,0 +1,25 @@
+{
+  "name": "SaveMe",
+  "description": "system to prevent 'Forgotten Baby Syndrome' in vehicles",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/saveme.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "saveme",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "בלפור",
+      "houseNumber": 107,
+      "city": "נהרייה",
+      "lat": 32.99274321052736,
+      "lon": 35.08737524917435
+    }
+  ],
+  "isMultinational": false
+}

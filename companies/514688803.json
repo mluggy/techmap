@@ -1,5 +1,5 @@
 {
-  "name": "Nufiltration",
+  "name": "NUFiltration",
   "description": "A dynamic and innovative global leader in water and wastewater treatment utilizing patented sterilized medical device-based ultrafiltration technology.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nufiltration",
-  "xId": null,
+  "xId": "nufiltration",
   "addresses": [
     {
       "street": "אשכולית",
@@ -19,5 +19,7 @@
       "lat": 32.5167441,
       "lon": 34.9030766
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NUFiltration"
 }

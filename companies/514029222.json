@@ -1,5 +1,5 @@
 {
-  "name": "Qmarkets Net",
+  "name": "Qmarkets",
   "description": "A transformative software platform that empowers business leaders with intelligent innovation management solutions.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "qmarkets",
   "crunchbaseId": "qmarkets---innovation-management",
   "finderId": "qmarkets",
-  "xId": null,
+  "xId": "qmarketsglobal",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.1088976,
       "lon": 34.9653972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "qmarkets",
+  "linkedinNum": 930816
 }

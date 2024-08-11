@@ -1,5 +1,5 @@
 {
-  "name": "Getpackage",
+  "name": "GetPackage",
   "description": "Instant Delivery Solution.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "getpackage",
-  "xId": null,
+  "xId": "Get_Package",
   "addresses": [
     {
       "street": "הכשרת הישוב",
@@ -19,5 +19,8 @@
       "lat": 31.9923878,
       "lon": 34.7617696
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GetPackage",
+  "linkedinNum": 18409268
 }

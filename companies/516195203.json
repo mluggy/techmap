@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "frontitude",
-  "xId": null,
+  "xId": "frontitude",
   "addresses": [
     {
       "street": "יוחנן הורקנוס",
@@ -19,5 +19,8 @@
       "lat": 32.094204,
       "lon": 34.782661
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "frontitude",
+  "linkedinNum": 37800854
 }

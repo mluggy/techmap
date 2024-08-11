@@ -1,5 +1,5 @@
 {
-  "name": "Descope Technologies Israel 2022",
+  "name": "Descope Technologies",
   "description": "Empower app user experiences with seamless authentication, MFA, and authorization using our quick, no-code CIAM solutions.",
   "categoryId": 7,
   "size": "s",
@@ -7,10 +7,11 @@
   "websiteUrl": "https://www.descope.com/",
   "careersUrl": "https://careers.descope.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "descope",
   "crunchbaseId": null,
   "finderId": "descope-technologies",
-  "xId": null,
+  "xId": "descopeinc",
+  "breezyId": "descope",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +20,7 @@
       "lat": 32.064232399999995,
       "lon": 34.77442479088546
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 89542997
 }

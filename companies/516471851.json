@@ -1,5 +1,5 @@
 {
-  "name": "Kooply Zyp",
+  "name": "Kooply",
   "description": "Transform data into actionable insights and contribute to the creation of a groundbreaking product.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "kooply",
   "crunchbaseId": "kooply",
   "finderId": "kooply",
-  "xId": null,
+  "xId": "KooplyGames",
   "addresses": [
     {
       "street": "הצופים",
@@ -19,5 +19,8 @@
       "lat": 31.9739513,
       "lon": 34.8152066
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "KooplyGames",
+  "linkedinNum": 24275777
 }

@@ -10,7 +10,7 @@
   "linkedinId": "five-sigma",
   "crunchbaseId": null,
   "finderId": "five-sigma",
-  "xId": null,
+  "xId": "FiveSigmaClaims",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070501,
       "lon": 34.785145
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FiveSigmaSolutions",
+  "linkedinNum": 18332447
 }

@@ -1,10 +1,10 @@
 {
   "name": "Valin Technologies",
-  "description": "Providing industry-tailored services and products to enhance automation, filtration, fluid handling, heating, and process control efficiency.",
-  "categoryId": 15,
+  "description": "Biosimilars and Biological Therapeutics",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/valin_technologies-logo.webp",
-  "websiteUrl": "https://www.valin.com/",
+  "websiteUrl": "https://www.valin-technologies.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "valin-technologies",
@@ -19,5 +19,7 @@
       "lat": 31.9011613,
       "lon": 34.738844
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1421341
 }

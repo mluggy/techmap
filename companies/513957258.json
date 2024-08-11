@@ -1,16 +1,16 @@
 {
-  "name": "Knock Nlock",
-  "description": "Enable leasing agents to work remotely while maintaining high-quality leads and offering prospects more leasing opportunities.",
-  "categoryId": 9,
+  "name": "block.a",
+  "description": "Comprehensive Leasing Solution for Property Managers and Renters",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/knock_nlock-logo.webp",
-  "websiteUrl": "https://www.knockcrm.com/",
+  "websiteUrl": "https://www.blocka.com/",
   "careersUrl": "https://www.knock.com/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "knock",
-  "xId": null,
+  "xId": "knockapp_co",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,8 @@
       "lat": 32.6578027,
       "lon": 35.1002987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rentblock.a",
+  "linkedinNum": 28148156
 }

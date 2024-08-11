@@ -1,5 +1,5 @@
 {
-  "name": "Data Valley",
+  "name": "DataValley",
   "description": "A premier provider of data engineering courses and career opportunities fostering a vibrant learning community.",
   "categoryId": 14,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.5350964,
       "lon": 35.51829767774473
     }
-  ]
+  ],
+  "isMultinational": false
 }

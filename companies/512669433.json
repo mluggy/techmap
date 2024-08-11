@@ -1,10 +1,10 @@
 {
-  "name": "Filt Air",
-  "description": "They offer tailored air filtration solutions using diverse materials suitable for various environments and airflow conditions.",
-  "categoryId": 12,
+  "name": "FILT AIR",
+  "description": "Air Filtration Solutions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/filt_air-logo.webp",
-  "websiteUrl": "https://www.filt-air.com/",
+  "websiteUrl": "https://www.sterionizer.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.5743764,
       "lon": 34.9640984
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 52052736
 }

@@ -1,0 +1,25 @@
+{
+  "name": "Hydro-Noa",
+  "description": "Emergency Rescue Equipment Manufacturer",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/hydro-noa.webp",
+  "websiteUrl": "https://hydronoa.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 11754613,
+  "crunchbaseId": null,
+  "finderId": "hydro-noa",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "בית אלפא",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.06582542016819,
+      "lon": 34.787375443688006
+    }
+  ],
+  "isMultinational": false
+}

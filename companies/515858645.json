@@ -1,5 +1,5 @@
 {
-  "name": "Shopupz",
+  "name": "ShopUpz",
   "description": "The leading app for seamless inventory management between Etsy and Shopify, featuring listing export/import, order management, and quantity synchronization.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "shopupz",
-  "xId": null,
+  "xId": "ShopUpz",
   "addresses": [
     {
       "street": "המפוחית",
@@ -19,5 +19,8 @@
       "lat": 31.9651669,
       "lon": 34.77568015
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100054597618221",
+  "linkedinNum": 18179897
 }

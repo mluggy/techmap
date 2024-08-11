@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bacsoft",
-  "xId": null,
+  "xId": "bacsoft",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,8 @@
       "lat": 32.0900999,
       "lon": 34.8612558
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bacsoft.IOT",
+  "linkedinNum": 2311855
 }

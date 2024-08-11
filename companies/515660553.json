@@ -1,5 +1,5 @@
 {
-  "name": "Comovid Group",
+  "name": "Comovid",
   "description": "Harnessing advanced AI, this technology transforms website stories into engaging videos.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "comovid",
   "crunchbaseId": "comovid",
   "finderId": "comovid",
-  "xId": null,
+  "xId": "ComovidAi",
   "addresses": [
     {
       "street": "קשת מכבים רעות",
@@ -19,5 +19,8 @@
       "lat": 31.904312994135598,
       "lon": 35.003922517530754
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "comovid",
+  "linkedinNum": 18301502
 }

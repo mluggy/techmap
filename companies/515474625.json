@@ -1,5 +1,5 @@
 {
-  "name": "Planet Watchers",
+  "name": "PlanetWatchers",
   "description": "Specializing in ag monitoring, we provide accurate data to enhance policy validation and support the North American ag insurance industry.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "planetwatchers",
   "crunchbaseId": null,
   "finderId": "planetwatchers",
-  "xId": null,
+  "xId": "PlanetWatchers",
   "addresses": [
     {
       "street": "הפלך",
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "planet1watchers",
+  "linkedinNum": 17958574
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Ncr Global",
+  "name": "NCR Corporation",
   "description": "A leader in expanding financial access through self-service transaction solutions.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "ncr-corporation",
   "crunchbaseId": null,
   "finderId": "ncr",
-  "xId": null,
+  "xId": "NCRCorporation",
   "addresses": [
     {
       "street": "דפנה",
@@ -19,5 +19,8 @@
       "lat": 32.198691,
       "lon": 34.88010202850285
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ncrcorp",
+  "linkedinNum": 1467
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Trieye",
-  "description": "Innovative sports eyewear featuring a built-in rearview mirror for enhanced safety and convenience during activities like cycling and rowing.",
+  "name": "TriEye",
+  "description": "Short-Wave Infrared (SWIR) Sensing Solutions Enabling Imaging & Ranging Under All Visibility Conditions",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/trieye-logo.webp",
-  "websiteUrl": "https://trieye.com/",
+  "websiteUrl": "https://www.trieye.tech",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "trieye",
-  "xId": null,
+  "xId": "trieye_tech",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.066186,
       "lon": 34.792954
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18073394
 }

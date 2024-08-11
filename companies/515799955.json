@@ -1,10 +1,10 @@
 {
-  "name": "Bacocure",
-  "description": "Therapies Utilizing Bacteria to Treat Non-Muscle Invasive Bladder Cancer.",
+  "name": "BacoCure",
+  "description": "Bacterial Products for Treatment of Non-muscle Invasive Bladder Cancer",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/bacocure-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.integra-holdings.com/portfolio-items/bacocure/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false
 }

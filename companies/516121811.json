@@ -1,5 +1,5 @@
 {
-  "name": "Torq Technologies",
+  "name": "torq",
   "description": "A scalable no-code security hyperautomation solution offering enterprises 10X faster ROI as a real SOAR alternative.",
   "categoryId": 7,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://torq.io/",
   "careersUrl": "https://torq.io/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "torqio",
   "crunchbaseId": null,
   "finderId": "stackpulse",
-  "xId": null,
+  "xId": "torq_io",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.066645,
       "lon": 34.78582
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "torqhq",
+  "linkedinNum": 64511369
 }

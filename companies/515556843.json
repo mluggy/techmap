@@ -1,5 +1,5 @@
 {
-  "name": "Dermadetect",
+  "name": "DermaDetect",
   "description": "Provides 24/7 asynchronous access to physicians, eliminating the need for real-time interaction.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 31.9104321,
       "lon": 34.8058374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10901178
 }

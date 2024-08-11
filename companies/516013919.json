@@ -1,5 +1,5 @@
 {
-  "name": "Cloudwize Owl",
+  "name": "CloudWize",
   "description": "A no-code platform ensuring comprehensive cloud security and compliance from design to runtime.",
   "categoryId": 6,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "cloudwize",
   "finderId": "cloudwize",
-  "xId": null,
+  "xId": "cloud_wize",
   "addresses": [
     {
       "street": "תאשור",
@@ -19,5 +19,8 @@
       "lat": 32.2985069,
       "lon": 34.8742468
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CloudWize.io",
+  "linkedinNum": 18855115
 }

@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.varonis.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "varonis",
   "crunchbaseId": null,
   "finderId": "varonis-systems",
-  "xId": null,
+  "xId": "varonis",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.1597393,
       "lon": 34.8094017
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VaronisSystems",
+  "linkedinNum": 25403
 }

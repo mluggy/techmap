@@ -1,5 +1,5 @@
 {
-  "name": "Magic Leap Israel",
+  "name": "Magic Leap",
   "description": "Pioneering advancements in augmented reality through cutting-edge optics, scalable production, and AI technology.",
   "categoryId": 4,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "magic-leap",
-  "xId": null,
+  "xId": "magicleap",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "pages",
+  "linkedinNum": 3098033
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Unitronics 1989 R G",
+  "name": "Unitronics",
   "description": "Since 1989, this company has been pioneering reliable automation solutions tailored to the specific needs of the automation control industry.",
   "categoryId": 15,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "unitronics",
-  "xId": null,
+  "xId": "unitronics",
   "addresses": [
     {
       "street": "הערבה",
@@ -19,5 +19,8 @@
       "lat": 31.9864947152907,
       "lon": 34.91166786325833
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "UnitronicsUSA",
+  "linkedinNum": 208819
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Bruker Technologies",
+  "name": "Bruker",
   "description": "Bruker is a global leader in scientific instruments and high-performance analytical solutions for molecular research and industrial analysis.",
   "categoryId": 12,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "bruker-corporation",
   "crunchbaseId": null,
   "finderId": "bruker",
-  "xId": null,
+  "xId": "bruker",
   "addresses": [
     {
       "street": "המחקר",
@@ -19,5 +19,8 @@
       "lat": 32.68555395,
       "lon": 35.2435595
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "bruker.corp",
+  "linkedinNum": 5174388
 }

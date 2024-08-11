@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "swathly",
-  "xId": null,
+  "xId": "SwathlyBigdata",
   "addresses": [
     {
       "street": "רום יעל",
@@ -19,5 +19,8 @@
       "lat": 32.1001812,
       "lon": 34.881173655832924
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "swathly",
+  "linkedinNum": 10655797
 }

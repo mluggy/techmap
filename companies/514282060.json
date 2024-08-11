@@ -1,10 +1,10 @@
 {
   "name": "Omplant",
-  "description": "Providing a free resource to help dental professionals identify implants through patient radiographs.",
+  "description": "Dental Implant Driver System",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/omplant-logo.webp",
-  "websiteUrl": "https://whatimplantisthat.com/",
+  "websiteUrl": "https://www.omplant.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 33.0061707,
       "lon": 35.097461
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5292902
 }

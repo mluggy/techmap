@@ -1,0 +1,25 @@
+{
+  "name": "Cognitiv",
+  "description": "Stealth Mode",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cognitiv.webp",
+  "websiteUrl": "https://cogntiv.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "cognitiv",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "מבוא יורם",
+      "houseNumber": 9,
+      "city": "ירושלים",
+      "lat": 31.7680179957102,
+      "lon": 35.213502150032035
+    }
+  ],
+  "isMultinational": false
+}

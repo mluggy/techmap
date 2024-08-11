@@ -1,0 +1,25 @@
+{
+  "name": "Mobius Gaming",
+  "description": "Gamer-focused Platform",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/mobius-gaming.webp",
+  "websiteUrl": "https://www.playmobius.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 88679391,
+  "crunchbaseId": null,
+  "finderId": "mobius-gaming",
+  "xId": "PlayMobius",
+  "facebookId": "mobiusgamingltd",
+  "addresses": [
+    {
+      "street": "תפוח חינני",
+      "houseNumber": 14,
+      "city": "הרצליה",
+      "lat": 32.177741116486104,
+      "lon": 34.820923852803254
+    }
+  ],
+  "isMultinational": false
+}

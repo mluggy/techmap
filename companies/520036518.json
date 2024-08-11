@@ -1,10 +1,10 @@
 {
   "name": "Vulcan Automotive Industries",
-  "description": "Batteries with advanced lead-acid technology powered by nanotechnology.",
+  "description": "Nanotechnology-enhanced Lead-acid Batteries",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/vulcan_automotive_industries-logo.webp",
-  "websiteUrl": "https://www.vulcanauto.com/",
+  "websiteUrl": "https://volta.co.il/english/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "vulcan-automotive-industries-ltd",
@@ -19,5 +19,8 @@
       "lat": 31.9947059,
       "lon": 34.7489709
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "volta.vulcan.auto",
+  "linkedinNum": 2357542
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Belong Financial Markets",
-  "description": "This app allows you to handle rental management, request professional services, and communicate with support, all in one place.",
-  "categoryId": 9,
+  "name": "Belong",
+  "description": "Social and Professional Network for Patients",
+  "categoryId": 12,
   "size": "m",
   "logoFile": "logos/belong_financial_markets-logo.webp",
-  "websiteUrl": "https://belonghome.com/",
+  "websiteUrl": "https://belong.life/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "belongtail",
   "crunchbaseId": null,
   "finderId": "belong",
-  "xId": null,
+  "xId": "Belong_Life",
   "addresses": [
     {
       "street": "מונטיפיורי",
@@ -19,5 +19,8 @@
       "lat": 32.065774,
       "lon": 34.774733
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BelongTail",
+  "linkedinNum": 9371841
 }

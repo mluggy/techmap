@@ -1,10 +1,10 @@
 {
-  "name": "Lipocure",
+  "name": "LipoCure",
   "description": "LipoCure leverages decades of expertise in liposomal drug delivery to develop advanced, safer therapies.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/lipocure-logo.webp",
-  "websiteUrl": "http://lipocurerx.com/",
+  "websiteUrl": "https://lipocurerx.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "lipocure",
@@ -19,5 +19,7 @@
       "lat": 31.7681468,
       "lon": 35.1621008
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3738990
 }

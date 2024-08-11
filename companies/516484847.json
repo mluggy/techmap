@@ -1,13 +1,13 @@
 {
   "name": "Dual Bird Technologies",
-  "description": "A free service providing instant translation for words, phrases, and web pages across more than 100 languages.",
+  "description": "Data Infrastructure and Analytics",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/dual_bird_technologies-logo.webp",
-  "websiteUrl": "https://translate.google.com/",
+  "websiteUrl": "https://dualbird.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dualbird",
   "crunchbaseId": "dual-bird",
   "finderId": "dual-bird-technologies",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.6670519,
       "lon": 35.1085669
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81335198
 }

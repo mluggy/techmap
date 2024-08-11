@@ -1,16 +1,16 @@
 {
   "name": "Innervue",
-  "description": "Technology for Analyzing Facial Expressions During Interviews.",
-  "categoryId": 1,
+  "description": "Facial Analytics Technology for Interviewers",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/innervue-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.innervue.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "innervueio",
   "crunchbaseId": "innervue",
   "finderId": "innervue",
-  "xId": null,
+  "xId": "innervueio",
   "addresses": [
     {
       "street": "קרן קימת לישראל",
@@ -19,5 +19,7 @@
       "lat": 32.0751462,
       "lon": 34.8064549
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 43288449
 }

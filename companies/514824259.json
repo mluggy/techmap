@@ -1,5 +1,5 @@
 {
-  "name": "Enzootic Genetics And Innovation",
+  "name": "Enzootic",
   "description": "A vertically integrated biotech venture headquartered in Singapore with a Genetics and Innovation hub in Israel and commercial production facilities.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "enzootic",
-  "xId": null,
+  "xId": "EnzooticInfo",
   "addresses": [
     {
       "street": "דרך אליהו נאוי",
@@ -19,5 +19,8 @@
       "lat": 31.248643,
       "lon": 34.817092
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "enzootic.holdings",
+  "linkedinNum": 10453527
 }

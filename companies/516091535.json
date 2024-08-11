@@ -1,13 +1,13 @@
 {
-  "name": "Ownera Israel Technologies",
-  "description": "A leading U.S. insurer delivering diverse discounts and coverage options.",
+  "name": "Ownera",
+  "description": "Open-source Routing and Settlement Protocol",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/ownera_israel_technologies-logo.webp",
-  "websiteUrl": "https://www.auto-owners.com/",
+  "websiteUrl": "https://ownera.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": "joinowners",
+  "linkedinId": "ownera",
   "crunchbaseId": null,
   "finderId": "ownera",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OwneraIO",
+  "linkedinNum": 34248483
 }

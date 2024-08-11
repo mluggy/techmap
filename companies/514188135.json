@@ -1,5 +1,5 @@
 {
-  "name": "Motus Gi Medical Technologies",
+  "name": "Motus GI",
   "description": "Enhancing colonoscopy efficiency and quality, this system significantly improves colon visualization for prompt and accurate results.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "motus-gi",
   "crunchbaseId": null,
   "finderId": "mouts-gi",
-  "xId": null,
+  "xId": "Motus_GI",
   "addresses": [
     {
       "street": "קרן היסוד",
@@ -19,5 +19,8 @@
       "lat": 32.771226299999995,
       "lon": 34.972212121500846
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MotusGI",
+  "linkedinNum": 10597881
 }

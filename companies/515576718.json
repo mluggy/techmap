@@ -1,10 +1,10 @@
 {
-  "name": "Eyedo Fielding Technologies",
-  "description": "Offers a 30-day return or exchange policy for eyewear to ensure customer satisfaction.",
-  "categoryId": 9,
+  "name": "EyeDo",
+  "description": "Field Operation Management Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/eyedo_fielding_technologies-logo.webp",
-  "websiteUrl": "https://www.eyedoeyewear.com/",
+  "websiteUrl": "https://eye.do",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0243218,
       "lon": 34.8302716
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Eyedofieldoptimization"
 }

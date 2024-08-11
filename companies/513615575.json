@@ -1,16 +1,16 @@
 {
-  "name": "Reach Investments",
-  "description": "Delivering objective and rigorous research to enhance school choice policy design and implementation.",
-  "categoryId": 12,
+  "name": "REACH",
+  "description": "Remote Customer Collaboration Platform for Business Transactions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/reach_investments-logo.webp",
-  "websiteUrl": "https://www.reachcentered.org/",
+  "websiteUrl": "https://reachhq.com/static/index.html",
   "careersUrl": "https://www.livemedhealth.com/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "livemed",
-  "xId": null,
+  "xId": "reachhqcom",
   "addresses": [
     {
       "street": "גרינברג אורי צבי",
@@ -19,5 +19,8 @@
       "lat": 32.7749564,
       "lon": 34.9907355
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "reachhqcom",
+  "linkedinNum": 10466693
 }

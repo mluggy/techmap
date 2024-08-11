@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "skyline-ai",
-  "xId": null,
+  "xId": "SKYLINE_AI",
   "addresses": [
     {
       "street": "מיקוניס שמואל",
@@ -19,5 +19,8 @@
       "lat": 32.060069,
       "lon": 34.785451
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "skylineai",
+  "linkedinNum": 17972616
 }

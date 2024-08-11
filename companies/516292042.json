@@ -1,16 +1,16 @@
 {
-  "name": "Pika Diapers Israel",
-  "description": "A platform enabling users to transform their creative ideas into videos, from memes to movies, fueled by their imagination.",
-  "categoryId": 8,
+  "name": "Pika",
+  "description": "Machine for Cleaning Reusable Diapers",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pika_diapers_israel-logo.webp",
-  "websiteUrl": "https://pika.art/",
+  "websiteUrl": "https://www.pikadiapers.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pika",
-  "xId": null,
+  "xId": "pikadiapers",
   "addresses": [
     {
       "street": "הבנים",
@@ -19,5 +19,8 @@
       "lat": 31.7937064,
       "lon": 34.638447569246594
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Pikadiapers",
+  "linkedinNum": 34949544
 }

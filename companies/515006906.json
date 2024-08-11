@@ -1,10 +1,10 @@
 {
-  "name": "Parasonic",
-  "description": "The official website offers comprehensive information on the company's profile, product details, after-sales services, career opportunities, and CSR activities.",
-  "categoryId": 18,
+  "name": "ParaSonic",
+  "description": "Ultrasound Device for the Elimination of Lice",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/parasonic-logo.webp",
-  "websiteUrl": "https://panasonic.cn/",
+  "websiteUrl": "https://para-sonic.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.077864,
       "lon": 34.80064
     }
-  ]
+  ],
+  "isMultinational": false
 }

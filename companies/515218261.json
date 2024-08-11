@@ -1,10 +1,10 @@
 {
-  "name": "Bo Bo",
-  "description": "חברה המספקת מוצר כושר טכנולוגי מתקדם המשנה את פני האימונים והשיקום, בשימוש פיזיותרפיות, מכוני כושר ובתי חולים.",
+  "name": "BoBo",
+  "description": "Smart Fitness and Rehabilitation Tools",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/bo_bo-logo.webp",
-  "websiteUrl": "https://www.bobo-balance.co.il/",
+  "websiteUrl": "https://bobo-balance.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.105494,
       "lon": 34.9420815
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bobo.balance.better",
+  "linkedinNum": 10907637
 }

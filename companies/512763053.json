@@ -10,7 +10,7 @@
   "linkedinId": "ferring-pharmaceuticals",
   "crunchbaseId": null,
   "finderId": "ferring-pharmaceuticals",
-  "xId": null,
+  "xId": "ferring",
   "addresses": [
     {
       "street": "השיטה",
@@ -19,5 +19,8 @@
       "lat": 32.4760963,
       "lon": 34.9429075
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ferringpharmaceuticals",
+  "linkedinNum": 163789
 }

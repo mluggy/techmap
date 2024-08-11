@@ -4,7 +4,7 @@
   "categoryId": 15,
   "size": "xs",
   "logoFile": "logos/eldrotec-logo.webp",
-  "websiteUrl": "http://www.eldrotec.com/",
+  "websiteUrl": "https://www.eldrotec.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "eldrotec",
@@ -19,5 +19,8 @@
       "lat": 32.86414353650799,
       "lon": 35.09737957490872
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "people",
+  "linkedinNum": 2625429
 }

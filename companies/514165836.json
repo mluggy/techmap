@@ -10,7 +10,7 @@
   "linkedinId": "all-my-faves",
   "crunchbaseId": null,
   "finderId": "all-my-faves",
-  "xId": null,
+  "xId": "allmyfaves",
   "addresses": [
     {
       "street": "מבצע דקל",
@@ -19,5 +19,8 @@
       "lat": 32.0944503,
       "lon": 34.8699935
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "allmyfaves",
+  "linkedinNum": 601124
 }

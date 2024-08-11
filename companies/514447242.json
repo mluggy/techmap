@@ -1,5 +1,5 @@
 {
-  "name": "Ribbon Communications Israel",
+  "name": "Ribbon Communications",
   "description": "Providing cutting-edge IP and optical networking and cloud-to-edge communication solutions for modern connectivity needs.",
   "categoryId": 18,
   "size": "xl",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://ribboncommunications.com/",
   "careersUrl": "https://ribboncommunications.com/company/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "ribbon-communications",
   "crunchbaseId": null,
   "finderId": "ribbon-communications",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0916612,
       "lon": 34.8571892
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 11338267
 }

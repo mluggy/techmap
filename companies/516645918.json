@@ -1,5 +1,5 @@
 {
-  "name": "Monada AI",
+  "name": "Monada",
   "description": "Delivers comprehensive cargo management with integrated pricing, automated follow-ups, and exceptional customer engagement.",
   "categoryId": 1,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.1362496,
       "lon": 34.8446021
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 89526712
 }

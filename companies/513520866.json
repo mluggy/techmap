@@ -1,5 +1,5 @@
 {
-  "name": "Algosec Systems",
+  "name": "AlgoSec",
   "description": "Automating security policy and application connectivity across hybrid networks.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "algosec",
   "crunchbaseId": null,
   "finderId": "algosec",
-  "xId": null,
+  "xId": "AlgoSec",
   "addresses": [
     {
       "street": "שלמה",
@@ -19,5 +19,8 @@
       "lat": 32.0776339,
       "lon": 34.9031889
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AlgoSec",
+  "linkedinNum": 151058
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Novidea",
+  "name": "Novidea Software",
   "description": "This insurance software solution digitalizes the entire distribution lifecycle, offering comprehensive customer insights and streamlined data access across all stages.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "novidea-software",
   "crunchbaseId": null,
   "finderId": "novidea",
-  "xId": null,
+  "xId": "Novidea_soft",
   "addresses": [
     {
       "street": "הדקלים",
@@ -19,5 +19,8 @@
       "lat": 32.4755881,
       "lon": 34.9723583
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1624099,
+  "comeetId": "novidea/E5.00A"
 }

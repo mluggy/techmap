@@ -1,5 +1,5 @@
 {
-  "name": "Pointgrab",
+  "name": "PointGrab",
   "description": "Specializing in smart sensing and real-time analytics, this company leverages deep-learning technology to optimize data collection in commercial real estate and smart building environments.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pointgrab",
-  "xId": null,
+  "xId": "pointgrab",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PointGrab",
+  "linkedinNum": 452517
 }

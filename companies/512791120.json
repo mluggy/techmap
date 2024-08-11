@@ -1,5 +1,5 @@
 {
-  "name": "Telemessage",
+  "name": "TeleMessage",
   "description": "Providing dynamic communication and archiving solutions through a powerful API cloud platform.",
   "categoryId": 18,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "telemessage",
   "crunchbaseId": null,
   "finderId": "telemessage",
-  "xId": null,
+  "xId": "TeleMessage1",
   "addresses": [
     {
       "street": "המפלסים",
@@ -19,5 +19,8 @@
       "lat": 32.1015806,
       "lon": 34.8635276
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TeleMessage",
+  "linkedinNum": 27159
 }

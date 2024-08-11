@@ -1,16 +1,16 @@
 {
   "name": "Treepodia",
-  "description": "With 24/7 support and cutting-edge personalized video marketing solutions, this company revolutionizes brand engagement for businesses globally.",
-  "categoryId": 2,
+  "description": "Personalized Video Marketing Solutions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/treepodia-logo.webp",
-  "websiteUrl": "https://treepodia.de/",
+  "websiteUrl": "https://www.treepodia.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "treepodia",
   "crunchbaseId": null,
   "finderId": "treepodia",
-  "xId": null,
+  "xId": "treepodia",
   "addresses": [
     {
       "street": "שד' אלי לנדאו",
@@ -19,5 +19,8 @@
       "lat": 32.1789536,
       "lon": 34.8034806
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Treepodia",
+  "linkedinNum": 1007741
 }

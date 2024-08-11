@@ -1,10 +1,10 @@
 {
-  "name": "Devek Integrations",
-  "description": "A leading Mexican firm specializing in adhesive tapes.",
-  "categoryId": 9,
+  "name": "Devek",
+  "description": "SaaS Infrastructure Integration Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/devek_integrations-logo.webp",
-  "websiteUrl": "http://www.devek.mx/",
+  "websiteUrl": "https://www.devek.cloud/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "devek",
@@ -19,5 +19,8 @@
       "lat": 32.063669,
       "lon": 34.771299
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "devek.cloud",
+  "linkedinNum": 19199841
 }

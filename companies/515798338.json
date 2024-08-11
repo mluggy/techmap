@@ -1,5 +1,5 @@
 {
-  "name": "Invendiv Israel",
+  "name": "Invendiv",
   "description": "Founded in Israel in 2018, this company specializes in vending technology, retail systems, and software solutions.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.30241467382655,
       "lon": 34.949955655573504
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Invendivautomatedretail",
+  "linkedinNum": 12593391
 }

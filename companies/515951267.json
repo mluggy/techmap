@@ -1,5 +1,5 @@
 {
-  "name": "Ultrasight",
+  "name": "UltraSight",
   "description": "Real-time AI-Guided Cardiac Ultrasound.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "ultrasight2",
   "crunchbaseId": "on-sight-b615",
   "finderId": "on-sight-medical",
-  "xId": null,
+  "xId": "UltraSightAI",
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -19,5 +19,6 @@
       "lat": 31.9148938,
       "lon": 34.8040759
     }
-  ]
+  ],
+  "isMultinational": false
 }

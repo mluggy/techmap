@@ -1,10 +1,10 @@
 {
-  "name": "A 2 Vision Technologies",
+  "name": "A2 Vision Technologies",
   "description": "A2 Vision Technologies Ltd. specializes in designing and manufacturing advanced progressive lens molds for ophthalmic use, leveraging proprietary algorithms and extensive industry expertise.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/a_2_vision_technologies-logo.webp",
-  "websiteUrl": "http://www.a2vision.com/",
+  "websiteUrl": "https://www.a2vision.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.7922976,
       "lon": 34.9917444
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Doubleverify",
+  "name": "DoubleVerify",
   "description": "Enhancing digital advertising through trusted, secure, and high-performance solutions for advertisers, platforms, and publishers.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "doubleverify-inc",
   "crunchbaseId": null,
   "finderId": "doubleverify",
-  "xId": null,
+  "xId": "doubleverify",
   "addresses": [
     {
       "street": "דרך אלנבי",
@@ -19,5 +19,8 @@
       "lat": 32.8234298,
       "lon": 34.9806609
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DoubleVerify",
+  "linkedinNum": 745720
 }

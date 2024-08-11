@@ -1,10 +1,10 @@
 {
-  "name": "Caesarea Medical Electronics Holding 2000",
-  "description": "Devices for controlled delivery of fluids and medications.",
+  "name": "Caesarea Medical Electronics",
+  "description": "Infusion and Syringe Pump Systems",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/caesarea_medical_electronics_holding_2000-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://cme-infusion.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cme-caesaria-medical-electronics-",
@@ -19,5 +19,7 @@
       "lat": 32.4891572,
       "lon": 34.9061208
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 828683
 }

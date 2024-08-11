@@ -1,10 +1,10 @@
 {
   "name": "Frenn Analytics",
-  "description": "Insights on Revenue to Enhance Sales Efficiency.",
-  "categoryId": 1,
+  "description": "Revenue Intelligence for Pipeline Optimization",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/frenn_analytics-logo.webp",
-  "websiteUrl": "https://www.frenn.org/",
+  "websiteUrl": "https://www.frenn.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "frennio",
@@ -19,5 +19,7 @@
       "lat": 31.8822969,
       "lon": 34.7384393
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71715275
 }

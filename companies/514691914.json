@@ -1,5 +1,5 @@
 {
-  "name": "Peerspot",
+  "name": "PeerSpot",
   "description": "Connecting buyers and vendors, this platform facilitates product advice, feedback sharing, and authentic customer reviews to enhance purchasing decisions.",
   "categoryId": 9,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "it-central-station",
-  "xId": null,
+  "xId": "peerspot",
   "addresses": [
     {
       "street": "שדרות דם המכבים",
@@ -19,5 +19,8 @@
       "lat": 31.908826,
       "lon": 35.0135269
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PeerSpotdotcom",
+  "linkedinNum": 2471045
 }

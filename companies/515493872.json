@@ -1,5 +1,5 @@
 {
-  "name": "Ford Israel Innovation Center",
+  "name": "Ford Motor",
   "description": "Discover innovative vehicles, including hybrids and electrics, from a company built for America.",
   "categoryId": 5,
   "size": "xl",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.ford.com/",
   "careersUrl": "https://corporate.ford.com/careers.html",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "ford-motor-company",
   "crunchbaseId": null,
   "finderId": "ford",
-  "xId": null,
+  "xId": "ford",
   "addresses": [
     {
       "street": "השלושה",
@@ -19,5 +19,8 @@
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ford",
+  "linkedinNum": 1483
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Bit Bridge",
-  "description": "A versatile platform for seamlessly integrating and building components in both new and existing projects.",
-  "categoryId": 14,
+  "name": "bit",
+  "description": "P2P Mobile Payment Solution",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/bit_bridge-logo.webp",
-  "websiteUrl": "https://bit.dev/",
+  "websiteUrl": "https://www.bitpay.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.092414,
       "lon": 34.773467
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bit.poalim"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Tulou Community",
+  "name": "TULU",
   "description": "We offer residents immediate access to everyday necessities and convenient items, from household basics to tech and transportation.",
   "categoryId": 9,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tulou",
-  "xId": null,
+  "xId": "tululiving",
   "addresses": [
     {
       "street": "סהרון",
@@ -19,5 +19,8 @@
       "lat": 32.034539,
       "lon": 34.750491
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TULU.city",
+  "linkedinNum": 35458285
 }

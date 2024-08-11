@@ -1,10 +1,10 @@
 {
   "name": "Rubidium",
-  "description": "Developer specializing in voice-activated user interfaces.",
-  "categoryId": 1,
+  "description": "Voice-based User Interface Developer",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/rubidium-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.rubidium.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1951246,
       "lon": 34.8787131
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 719354
 }

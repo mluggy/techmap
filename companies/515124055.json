@@ -1,10 +1,10 @@
 {
-  "name": "Neoprol",
-  "description": "Administration and upkeep of anesthesia through intravenous methods.",
+  "name": "NEOPROL",
+  "description": "Intravenous Induction and Maintenance of Anesthesia",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/neoprol-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.integra-holdings.com/portfolio-items/neoprol/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false
 }

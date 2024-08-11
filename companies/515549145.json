@@ -1,5 +1,5 @@
 {
-  "name": "Serenus AI",
+  "name": "Serenus.AI",
   "description": "Developing advanced Generative AI to optimize critical medical decisions, Serenus.AI enhances patient outcomes and resource efficiency.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "serenus-ai",
   "crunchbaseId": null,
   "finderId": "Serenus-AI",
-  "xId": null,
+  "xId": "SerenusAI",
   "addresses": [
     {
       "street": "רופא המחתרות",
@@ -19,5 +19,8 @@
       "lat": 32.100789,
       "lon": 34.784355
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SerenusAI",
+  "linkedinNum": 12992715
 }

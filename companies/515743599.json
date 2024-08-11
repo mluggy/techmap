@@ -1,5 +1,5 @@
 {
-  "name": "Remitrix",
+  "name": "RemitRix",
   "description": "A visual dashboard providing efficient, accurate ALM reports and solvency calculations at the click of a button, replacing complex spreadsheets.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "remitrix",
   "crunchbaseId": null,
   "finderId": "remitrix",
-  "xId": null,
+  "xId": "@RemitRix1",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.08419825,
       "lon": 34.800707700000004
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RemitRix1",
+  "linkedinNum": 18133536
 }

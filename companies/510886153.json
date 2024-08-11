@@ -1,5 +1,5 @@
 {
-  "name": "Aitech Systems",
+  "name": "Aitech",
   "description": "Providing customized, rugged embedded computer systems for extreme environments across air, land, sea, and space.",
   "categoryId": 3,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "aitech",
   "crunchbaseId": null,
   "finderId": "aitech",
-  "xId": null,
+  "xId": "AitechDefense",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,9 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "AitechDefense",
+  "linkedinNum": 110784,
+  "comeetId": "aitechsystems/88.004"
 }

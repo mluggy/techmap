@@ -1,0 +1,25 @@
+{
+  "name": "Sherloq",
+  "description": "Collaborative Data Platform",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/sherloq.webp",
+  "websiteUrl": "https://sherloqdata.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 81840486,
+  "crunchbaseId": null,
+  "finderId": "sherloq",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "קפלן",
+      "houseNumber": 2,
+      "city": "תל אביב - יפו",
+      "lat": 32.07349131375421,
+      "lon": 34.78201962408527
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Twigo Tv",
+  "name": "Twigo.TV",
   "description": "Platform for Discovering Live Streams.",
   "categoryId": 8,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.1598236,
       "lon": 34.8080456
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TWIGO.TV",
+  "linkedinNum": 77025034
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Ai 21 Labs",
+  "name": "AI21 Labs",
   "description": "AI21 Labs develops enterprise-grade AI systems and models that enhance critical workflows with tailored, scalable solutions, including their innovative Jamba hybrid SSM-Transformer model.",
   "categoryId": 1,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.ai21.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ai21",
   "crunchbaseId": null,
   "finderId": "ai211",
-  "xId": null,
+  "xId": "AI21Labs",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,9 @@
       "lat": 32.0869162,
       "lon": 34.7822126
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AI21Labs",
+  "linkedinNum": 18424078,
+  "comeetId": "ai21/E6.001"
 }

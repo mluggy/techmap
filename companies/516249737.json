@@ -1,10 +1,10 @@
 {
-  "name": "Brainwatch Tech",
-  "description": "Real-time Eye Pupil Tracking Technology.",
-  "categoryId": 4,
+  "name": "BrainWatch Tech",
+  "description": "Continuous Pupillary Monitoring System",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/brainwatch_tech-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://brainwatch.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "brainwatch-tech",
@@ -19,5 +19,7 @@
       "lat": 32.2506832,
       "lon": 34.9222254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 80924944
 }

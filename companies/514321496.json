@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "surgimate",
-  "xId": null,
+  "xId": "surgimate",
   "addresses": [
     {
       "street": "יפו",
@@ -19,5 +19,8 @@
       "lat": 31.7892307,
       "lon": 35.20322458164618
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "surgimate",
+  "linkedinNum": 280362
 }

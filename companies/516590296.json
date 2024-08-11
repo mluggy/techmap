@@ -1,10 +1,10 @@
 {
-  "name": "Cobe Labs",
-  "description": "An AI-driven tool designed to identify and manage anxiety in teenagers at an early stage.",
+  "name": "CoBe Labs",
+  "description": "AI-based Solution for Early Detection and Treatment of Adolescent Anxiety",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cobe_labs-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.cobelabs.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cobelabs",
@@ -19,5 +19,7 @@
       "lat": 32.1690193,
       "lon": 34.8609612
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 49149949
 }

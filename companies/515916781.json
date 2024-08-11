@@ -1,5 +1,5 @@
 {
-  "name": "Graymatters Health",
+  "name": "GrayMatters Health",
   "description": "Innovating mental healthcare with neurotechnology that enhances therapy effectiveness and patient outcomes through the world's first digital brain activity biomarker for mental health.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "graymatters-health",
-  "xId": null,
+  "xId": "GraymattersH",
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -19,5 +19,7 @@
       "lat": 32.823617,
       "lon": 34.9928356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64704759
 }

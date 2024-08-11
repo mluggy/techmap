@@ -1,16 +1,16 @@
 {
-  "name": "Ifloat Systems",
-  "description": "Intelligent Camera Designed for Fishing Enthusiasts.",
-  "categoryId": 13,
+  "name": "iFloat Systems",
+  "description": "Smart Camera for Sport Fishing",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/ifloat_systems-logo.webp",
-  "websiteUrl": "https://www.ifloats.com/",
+  "websiteUrl": "https://www.getspydro.com",
   "careersUrl": "https://ftrbuyersguide.com/job/kalanit-13-142-spydro-ifloat-systems/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ifloat-systems",
-  "xId": null,
+  "xId": "GetSpydro",
   "addresses": [
     {
       "street": "שד ירושלים",
@@ -19,5 +19,8 @@
       "lat": 32.855756,
       "lon": 35.0795764
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GetSpydro",
+  "linkedinNum": 10666708
 }

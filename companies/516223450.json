@@ -1,10 +1,10 @@
 {
   "name": "Envario",
-  "description": "A web app for planning, executing, and monitoring environmental projects.",
-  "categoryId": 17,
+  "description": "No-code Platform for Creating Virtual Environments",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/envario-logo.webp",
-  "websiteUrl": "http://app.envar.io/",
+  "websiteUrl": "https://envar.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1037427,
       "lon": 34.9629175
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 69695052
 }

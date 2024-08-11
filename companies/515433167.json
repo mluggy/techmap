@@ -10,7 +10,7 @@
   "linkedinId": "papaya-global",
   "crunchbaseId": null,
   "finderId": "Papaya",
-  "xId": null,
+  "xId": "Papaya_Global",
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +19,8 @@
       "lat": 32.1663299,
       "lon": 34.8124346
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "papayag",
+  "linkedinNum": 7957327
 }

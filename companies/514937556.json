@@ -4,13 +4,13 @@
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/spectrophon-logo.webp",
-  "websiteUrl": "http://www.spectrophon.com/",
+  "websiteUrl": "https://www.spectrophon.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "spectrophon",
-  "xId": null,
+  "xId": "spectrophon",
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -19,5 +19,6 @@
       "lat": 31.9110334,
       "lon": 34.8072255
     }
-  ]
+  ],
+  "isMultinational": false
 }

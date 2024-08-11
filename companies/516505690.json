@@ -1,0 +1,25 @@
+{
+  "name": "Avalor",
+  "description": "Vulnerability Management Solution",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/avalor.webp",
+  "websiteUrl": "https://www.avalor.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "avalor",
+  "xId": "avalor_io",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 2,
+      "city": "רמת גן",
+      "lat": 32.08482965842569,
+      "lon": 34.80027309341423
+    }
+  ],
+  "isMultinational": false
+}

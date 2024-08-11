@@ -1,5 +1,5 @@
 {
-  "name": "Meprolight 1990",
+  "name": "Meprolight",
   "description": "A top-tier producer of optics, handgun, shotgun, and thermal sights with ISO and MIL certification.",
   "categoryId": 3,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "meprolight",
-  "xId": null,
+  "xId": "meprolight",
   "addresses": [
     {
       "street": "ההדס",
@@ -19,5 +19,8 @@
       "lat": 32.5190875,
       "lon": 34.9199724
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "meprolightofficial",
+  "linkedinNum": 254471
 }

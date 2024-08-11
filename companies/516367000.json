@@ -1,10 +1,10 @@
 {
   "name": "Retrieval Alliance",
-  "description": "A tech company providing comprehensive search capabilities across various types of information with advanced features for precise results.",
-  "categoryId": 1,
+  "description": "Debt Collection Technology",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/retrieval_alliance-logo.webp",
-  "websiteUrl": "https://www.google.co.uk/",
+  "websiteUrl": "https://retrievalalliance.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.690960987545076,
       "lon": 35.141166861216085
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75062502
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Brew Investments",
-  "description": "Provides a flexible and user-controlled package management system for installing and developing software.",
+  "name": "Brew",
+  "description": "Marketing Strategy Platform",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/brew_investments-logo.webp",
-  "websiteUrl": "https://brew.sh/",
+  "websiteUrl": "https://www.getbrew.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "brew",
-  "xId": null,
+  "xId": "get_brew",
   "addresses": [
     {
       "street": "סנש חנה",
@@ -19,5 +19,8 @@
       "lat": 32.057832,
       "lon": 34.787837
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getbrewhq",
+  "linkedinNum": 73982974
 }

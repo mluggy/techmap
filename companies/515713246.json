@@ -1,10 +1,10 @@
 {
-  "name": "Bestbrain",
-  "description": "Using certified teachers and a distinct curriculum, their learning centers and online platforms help children aged 3-14 excel academically.",
+  "name": "BestBrain",
+  "description": "Cognitive Self-care Solutions",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/bestbrain-logo.webp",
-  "websiteUrl": "https://bestbrains.com/",
+  "websiteUrl": "https://www.bestbrain.org/",
   "careersUrl": "https://bestbrains.com/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2178068,
       "lon": 34.9951506
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27228877
 }

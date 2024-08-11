@@ -10,7 +10,7 @@
   "linkedinId": "compugen-ltd",
   "crunchbaseId": null,
   "finderId": "compugen",
-  "xId": null,
+  "xId": "CompugenLtd",
   "addresses": [
     {
       "street": "הרוקמים",
@@ -19,5 +19,7 @@
       "lat": 32.0077054,
       "lon": 34.80060304320986
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 753626
 }

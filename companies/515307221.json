@@ -1,10 +1,10 @@
 {
-  "name": "Diagyn",
-  "description": "A diagnostic institute offering specialized health testing and consultation services in Klagenfurt am Wörthersee.",
+  "name": "DiaGyn",
+  "description": "Targeted Chemotherapy for Breast and Ovarian Cancer",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/diagyn-logo.webp",
-  "websiteUrl": "https://diagyn.at/",
+  "websiteUrl": "https://www.diagyn.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1613414,
       "lon": 34.8105823
     }
-  ]
+  ],
+  "isMultinational": false
 }

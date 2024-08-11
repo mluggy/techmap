@@ -1,5 +1,5 @@
 {
-  "name": "New Relic Israel",
+  "name": "New Relic",
   "description": "A comprehensive observability platform offering engineers free, credit card-free sign-ups to monitor, debug, and enhance their systems.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "new-relic-inc-",
   "crunchbaseId": null,
   "finderId": "new-relic",
-  "xId": null,
+  "xId": "newrelic",
   "addresses": [
     {
       "street": "יהודה הלוי",
@@ -19,5 +19,8 @@
       "lat": 32.06441,
       "lon": 34.777345
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "NewRelicIsrael",
+  "linkedinNum": 426253
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Nordson Medical Israel",
+  "name": "Nordson",
   "description": "A global leader in crafting advanced medical devices and component technologies.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nordson",
-  "xId": null,
+  "xId": "nordsonmedical",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,7 @@
       "lat": 32.1088976,
       "lon": 34.9653972
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 109387
 }

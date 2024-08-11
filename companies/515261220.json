@@ -1,5 +1,5 @@
 {
-  "name": "Onepep",
+  "name": "OnePep",
   "description": "A cloud-based platform enabling employees to collaborate, share knowledge, and manage professional communities effectively.",
   "categoryId": 14,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.1604516,
       "lon": 34.7929633
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "onepep1",
+  "linkedinNum": 18207527
 }

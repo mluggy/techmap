@@ -1,0 +1,25 @@
+{
+  "name": "Dibble",
+  "description": "Discovery Platform for Building Supplies",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/dibble.webp",
+  "websiteUrl": "https://dibble.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 69212360,
+  "crunchbaseId": null,
+  "finderId": "dibble",
+  "xId": null,
+  "facebookId": "dibble.co.il",
+  "addresses": [
+    {
+      "street": "המרץ",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.051600061031884,
+      "lon": 34.77268243090451
+    }
+  ],
+  "isMultinational": false
+}

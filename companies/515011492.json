@@ -1,5 +1,5 @@
 {
-  "name": "Zuta Labs",
+  "name": "ZUtA Labs",
   "description": "Developers of the Robotic Printer, currently not available for purchase, cautioning against unauthorized sales.",
   "categoryId": 15,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "zuta-labs",
-  "xId": null,
+  "xId": "ZUtALabs",
   "addresses": [
     {
       "street": "יד חרוצים",
@@ -19,5 +19,8 @@
       "lat": 31.7545045,
       "lon": 35.2172163
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 5217164
 }

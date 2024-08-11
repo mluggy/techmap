@@ -1,5 +1,5 @@
 {
-  "name": "Snyk Israel",
+  "name": "Snyk",
   "description": "A developer security platform that integrates seamlessly into development tools and workflows to identify and fix vulnerabilities.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "snyk",
   "crunchbaseId": null,
   "finderId": "snyk",
-  "xId": null,
+  "xId": "snyksec",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "snyksec",
+  "linkedinNum": 10043614
 }

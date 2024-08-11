@@ -1,5 +1,5 @@
 {
-  "name": "Honeybook",
+  "name": "HoneyBook",
   "description": "Manage clients, projects, and payments seamlessly with this all-in-one platform for independent businesses.",
   "categoryId": 14,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.honeybook.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "honeybook",
   "crunchbaseId": null,
   "finderId": "honeybook",
-  "xId": null,
+  "xId": "honeybook",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,8 @@
       "lat": 32.075175,
       "lon": 34.78205
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "honeybook.co",
+  "linkedinNum": 2527444
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Intelligym Labs",
+  "name": "IntelliGym Labs",
   "description": "Boost athletic performance and reduce injury risk with a six-week training program that enhances awareness, anticipation, decision making, concentration, and execution.",
   "categoryId": 11,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "ace-applied-cognitive-engineering-",
   "crunchbaseId": null,
   "finderId": "intelligym-labs",
-  "xId": null,
+  "xId": "trainintelligym",
   "addresses": [
     {
       "street": "רגב אריה",
@@ -19,5 +19,8 @@
       "lat": 32.2810102,
       "lon": 34.8632635
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SoccerIntelliGym",
+  "linkedinNum": 1337757
 }

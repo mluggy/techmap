@@ -1,5 +1,5 @@
 {
-  "name": "Qualcomm Israel",
+  "name": "Qualcomm",
   "description": "Empowering global connectivity through advanced mobile technology innovations.",
   "categoryId": 18,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.qualcomm.com/",
   "careersUrl": "https://www.qualcomm.com/company/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "qualcomm",
   "crunchbaseId": null,
   "finderId": "qualcomm",
-  "xId": null,
+  "xId": "Qualcomm",
   "addresses": [
     {
       "street": "חת נחום",
@@ -19,5 +19,8 @@
       "lat": 32.7845356,
       "lon": 34.9577195
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "QualcommIsrael",
+  "linkedinNum": 2017
 }

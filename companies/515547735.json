@@ -10,7 +10,7 @@
   "linkedinId": "verbit",
   "crunchbaseId": null,
   "finderId": "verbit-software",
-  "xId": null,
+  "xId": "verbit_",
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +19,8 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "verbit.inc",
+  "linkedinNum": 18106245
 }

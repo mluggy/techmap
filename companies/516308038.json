@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "expecting",
-  "xId": null,
+  "xId": "ExpectingAi",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.089526,
       "lon": 34.773426
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ExpectingAi",
+  "linkedinNum": 54320206
 }

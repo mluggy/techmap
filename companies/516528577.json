@@ -1,5 +1,5 @@
 {
-  "name": "Novoshield",
+  "name": "novoShield",
   "description": "A cutting-edge app and browser extension that ensures your digital security effortlessly and rapidly.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "novoshield",
   "crunchbaseId": null,
   "finderId": "novoshield",
-  "xId": null,
+  "xId": "NovoShield_Pro",
   "addresses": [
     {
       "street": "הצמיחה",
@@ -19,5 +19,8 @@
       "lat": 32.668888,
       "lon": 35.107009
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "novoShield",
+  "linkedinNum": 80014993
 }

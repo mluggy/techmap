@@ -10,7 +10,7 @@
   "linkedinId": "unlimited-robotics",
   "crunchbaseId": "unlimited-robotics",
   "finderId": "unlimited-robotics",
-  "xId": null,
+  "xId": "UnlimitedRobots",
   "addresses": [
     {
       "street": "בגין מנחם",
@@ -19,5 +19,8 @@
       "lat": 32.0719364,
       "lon": 34.8532492
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "unlimitedrobotic",
+  "linkedinNum": 42279015
 }

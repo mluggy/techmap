@@ -1,5 +1,5 @@
 {
-  "name": "Nostack",
+  "name": "NoStack",
   "description": "Effortlessly develop full-stack React applications without server management through our intuitive virtual stack platform.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nostack",
-  "xId": null,
+  "xId": "NoStackApp",
   "addresses": [
     {
       "street": "חיי יצחק",
@@ -19,5 +19,8 @@
       "lat": 31.701467113224947,
       "lon": 35.121344631793086
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NoStackApp",
+  "linkedinNum": 19169481
 }

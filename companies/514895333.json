@@ -1,10 +1,10 @@
 {
-  "name": "Toneshub",
+  "name": "TonesHub",
   "description": "Empowering publishers to effortlessly monetize music-loving audiences with hassle-free ringtones and prompt payments.",
   "categoryId": 2,
   "size": "xs",
   "logoFile": "logos/toneshub-logo.webp",
-  "websiteUrl": "http://www.toneshub.com/",
+  "websiteUrl": "https://www.toneshub.com/",
   "careersUrl": "http://www.toneshub.com/careers.aspx",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2787263,
       "lon": 34.8610014
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10343924
 }

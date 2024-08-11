@@ -1,5 +1,5 @@
 {
-  "name": "Ossio",
+  "name": "OSSIO",
   "description": "This company offers groundbreaking bone implants that integrate and become part of the natural bone, leaving no residue.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "ossio-ltd.",
   "crunchbaseId": null,
   "finderId": "ossio",
-  "xId": null,
+  "xId": "OSSIOfiber",
   "addresses": [
     {
       "street": "הטוחן",
@@ -19,5 +19,8 @@
       "lat": 32.4863102,
       "lon": 34.9521262
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "healbonebetter",
+  "linkedinNum": 10639272
 }

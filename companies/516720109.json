@@ -1,0 +1,25 @@
+{
+  "name": "Wonka",
+  "description": "Innovative Sampling Intelligence Platform",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/wonka.webp",
+  "websiteUrl": "https://wonka.cloud/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 93374565,
+  "crunchbaseId": null,
+  "finderId": "wonka",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "השפלה",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.098180575470366,
+      "lon": 34.86011563243273
+    }
+  ],
+  "isMultinational": false
+}

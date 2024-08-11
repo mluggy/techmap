@@ -1,10 +1,10 @@
 {
   "name": "Sabres Security",
-  "description": "Security Equipment Corporation, brand name SABRE, is voluntarily recalling some of its Aim & Fire Pepper Gel products. These are gel dispensers that are co- ...",
+  "description": "Protection for Open-source CMS Applications",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/sabres_security-logo.webp",
-  "websiteUrl": "https://www.sabrered.com/",
+  "websiteUrl": "https://www.sabressecurity.com",
   "careersUrl": "https://careers.sabresystems.com/",
   "isHiring": true,
   "linkedinId": "sabres-security",
@@ -19,5 +19,8 @@
       "lat": 32.014275,
       "lon": 34.8023584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sabressec",
+  "linkedinNum": 10680548
 }

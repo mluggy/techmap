@@ -4,7 +4,7 @@
   "categoryId": 2,
   "size": "xs",
   "logoFile": "logos/adstrix-logo.webp",
-  "websiteUrl": "http://www.adstrix.com/",
+  "websiteUrl": "https://www.adstrix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.4811959,
       "lon": 34.9481254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3197641
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Gem Art",
-  "description": "Providing exceptionally engineered electric vehicles for individuals, cities, campuses, and communities to redefine their driving experience.",
-  "categoryId": 5,
+  "name": "Gem",
+  "description": "Cloud Security Detection and Response Platform",
+  "categoryId": 7,
   "size": "m",
   "logoFile": "logos/gem_art-logo.webp",
-  "websiteUrl": "https://www.gemcar.com/",
+  "websiteUrl": "https://gem.security",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.084057200000004,
       "lon": 34.801283912351195
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 92433105
 }

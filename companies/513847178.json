@@ -1,16 +1,16 @@
 {
   "name": "Gama Operations",
-  "description": "Advanced secure communication systems for businesses, including both traditional and internet-based PBX solutions.",
-  "categoryId": 18,
+  "description": "Enterprise Secure PBXs and IP PBX Systems",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/gama_operations-logo.webp",
-  "websiteUrl": "https://www.gamaaviation.com/",
+  "websiteUrl": "https://www.gamaoperations.com",
   "careersUrl": "https://www.gamaaviation.com/careers/",
   "isHiring": true,
   "linkedinId": "gama-operations-ltd",
   "crunchbaseId": null,
   "finderId": "gama-operations",
-  "xId": null,
+  "xId": "gamaoperations",
   "addresses": [
     {
       "street": "המפלסים",
@@ -19,5 +19,8 @@
       "lat": 32.1011348,
       "lon": 34.8634356816404
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Gama-Operations-171944459650082",
+  "linkedinNum": 1919115
 }

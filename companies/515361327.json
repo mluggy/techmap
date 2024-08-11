@@ -10,7 +10,7 @@
   "linkedinId": "habana-ai",
   "crunchbaseId": null,
   "finderId": "habana",
-  "xId": null,
+  "xId": "habanalabs",
   "addresses": [
     {
       "street": "גרניט",
@@ -19,5 +19,8 @@
       "lat": 32.4897493,
       "lon": 34.9507759
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HabanaGDN",
+  "linkedinNum": 27203291
 }

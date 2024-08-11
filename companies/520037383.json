@@ -1,10 +1,10 @@
 {
   "name": "Avrot Industries",
-  "description": "Manufacturer specializing in coatings and linings for steel pipes.",
-  "categoryId": 5,
+  "description": "Steel Pipe Coating and Lining Developer",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/avrot_industries_ltd-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.avrot.co.il/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "avrot-industries-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.04274980315246,
       "lon": 34.91272746697255
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ProjectsAvrot",
+  "linkedinNum": 27071432
 }

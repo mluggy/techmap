@@ -1,5 +1,5 @@
 {
-  "name": "Continuity Software",
+  "name": "Continuity",
   "description": "Protection against data loss and cyber threats for mixed IT environments.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "continuity-storage-protection",
   "crunchbaseId": "continuity-software",
   "finderId": "continuity-software",
-  "xId": null,
+  "xId": "ContinuitySoft",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.109707,
       "lon": 34.840481
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "continuitysoftware",
+  "linkedinNum": 46211
 }

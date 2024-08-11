@@ -1,16 +1,16 @@
 {
   "name": "Blix",
-  "description": "A free, ad-free, HD streaming platform offering the latest movies and TV shows without requiring registration.",
-  "categoryId": 8,
+  "description": "Smart Blending System",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/blix-logo.webp",
-  "websiteUrl": "https://w1.nites.is/",
+  "websiteUrl": "https://myblix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "blix",
-  "xId": null,
+  "xId": "myblix",
   "addresses": [
     {
       "street": "גלוסקין",
@@ -19,5 +19,8 @@
       "lat": 32.086556,
       "lon": 34.793352
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myblix",
+  "linkedinNum": 27155392
 }

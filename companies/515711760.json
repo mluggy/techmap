@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.bookaway.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bookaway",
   "crunchbaseId": null,
   "finderId": "travelertick",
-  "xId": null,
+  "xId": "bookaway_travel",
   "addresses": [
     {
       "street": "תע\"ש",
@@ -19,5 +19,9 @@
       "lat": 32.0889179,
       "lon": 34.8015247
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Bookaway",
+  "linkedinNum": 18405530,
+  "comeetId": "Bookaway/64.006"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Duda Mobile D M",
+  "name": "Duda",
   "description": "A leading provider of AI-powered, pixel-perfect website building solutions for rapid scaling.",
   "categoryId": 1,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.duda.co/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "duda",
   "crunchbaseId": null,
   "finderId": "duda",
-  "xId": null,
+  "xId": "Duda_Inc",
   "addresses": [
     {
       "street": "ארניה",
@@ -19,5 +19,9 @@
       "lat": 32.0693445,
       "lon": 34.7860947
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "duda",
+  "linkedinNum": 2046165,
+  "greenhouseId": "duda"
 }

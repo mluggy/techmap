@@ -1,5 +1,5 @@
 {
-  "name": "Nova",
+  "name": "Nova Measuring Instruments",
   "description": "Optical Metrology for Semiconductor Manufacturing.",
   "categoryId": 16,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "nova-ltd.",
   "crunchbaseId": null,
   "finderId": "nova-measuring-instruments",
-  "xId": null,
+  "xId": "nova_nvmi",
   "addresses": [
     {
       "street": "פייקס דוד",
@@ -19,5 +19,8 @@
       "lat": 31.9159391,
       "lon": 34.8103557
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Nova.Ltd",
+  "linkedinNum": 11129
 }

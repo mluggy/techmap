@@ -1,16 +1,16 @@
 {
   "name": "Vidac Pharma",
-  "description": "Treatment for Skin Cancer.",
+  "description": "Skin Cancer Treatment",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/vidac_pharma-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.vidacpharma.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "vidac-pharma",
   "crunchbaseId": null,
   "finderId": "vidac-pharma",
-  "xId": null,
+  "xId": "VidacPharma",
   "addresses": [
     {
       "street": "הגפן",
@@ -19,5 +19,7 @@
       "lat": 31.8943539,
       "lon": 34.8453804
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3121139
 }

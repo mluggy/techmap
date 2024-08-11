@@ -1,16 +1,16 @@
 {
-  "name": "Proov Systems",
-  "description": "Offering at-home medical-quality fertility diagnostics and support to enhance reproductive success.",
-  "categoryId": 12,
+  "name": "prooV",
+  "description": "Proof-of-concept Evaluation Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/proov_systems-logo.webp",
-  "websiteUrl": "https://proovtest.com/",
+  "websiteUrl": "https://proov.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "scalabilit",
-  "xId": null,
+  "xId": "prooV_inc",
   "addresses": [
     {
       "street": "ברנר",
@@ -19,5 +19,8 @@
       "lat": 32.1595445,
       "lon": 34.8506074
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "proov.inc",
+  "linkedinNum": 10036029
 }

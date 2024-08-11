@@ -1,5 +1,5 @@
 {
-  "name": "Pheno AI",
+  "name": "Pheno.AI",
   "description": "A landmark global effort launched in 2018 that collects deep phenotype and multi-omic datasets through a 25-year longitudinal study involving over 20,000 participants.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.068323,
       "lon": 34.786754
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90230192
 }

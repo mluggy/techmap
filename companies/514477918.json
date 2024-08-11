@@ -1,10 +1,10 @@
 {
-  "name": "Gtech It",
-  "description": "Pioneering advanced solutions for intricate national security issues.",
-  "categoryId": 7,
+  "name": "CoreOne",
+  "description": "Solar Hot Water System",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/gtech_it-logo.webp",
-  "websiteUrl": "https://coreone.com/",
+  "websiteUrl": "https://coreone.co",
   "careersUrl": "https://coreone.com/careers/current-openings/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.062477,
       "lon": 34.782957
     }
-  ]
+  ],
+  "isMultinational": false
 }

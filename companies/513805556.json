@@ -4,7 +4,7 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/adar_biotech-logo.webp",
-  "websiteUrl": "http://adarbiotech.com/",
+  "websiteUrl": "https://adarbiotech.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.899323,
       "lon": 34.8026909
     }
-  ]
+  ],
+  "isMultinational": false
 }

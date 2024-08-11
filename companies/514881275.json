@@ -1,16 +1,16 @@
 {
-  "name": "Zeekit Online Shopping",
-  "description": "Providing advanced fleet management, electronic logbook, and field systems with seamless integrations for efficient operations.",
-  "categoryId": 9,
+  "name": "Zeekit",
+  "description": "Virtual Fitting Room for Online Shoppers",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/zeekit_online_shopping-logo.webp",
-  "websiteUrl": "https://www.zeekit.no/",
+  "websiteUrl": "https://zeekit.me",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "zeekit",
   "crunchbaseId": null,
   "finderId": "zeekit",
-  "xId": null,
+  "xId": "zeekit_app",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZeekitAR",
+  "linkedinNum": 5350337
 }

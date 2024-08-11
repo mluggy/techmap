@@ -1,5 +1,5 @@
 {
-  "name": "Spetz Tech",
+  "name": "Spetz",
   "description": "An innovative app that swiftly links users to highly-rated local service professionals.",
   "categoryId": 9,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "spetz.il",
+  "linkedinNum": 28864040
 }

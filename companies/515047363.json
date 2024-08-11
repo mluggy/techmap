@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "city-transformer",
-  "xId": null,
+  "xId": "CtTransformer",
   "addresses": [
     {
       "street": "דבורה הנביאה",
@@ -19,5 +19,8 @@
       "lat": 32.113198,
       "lon": 34.844295
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CtTransformer",
+  "linkedinNum": 3605373
 }

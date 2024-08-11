@@ -1,5 +1,5 @@
 {
-  "name": "Kahr Medical",
+  "name": "KAHR Medical",
   "description": "This company creates tailored cancer therapies that dismantle tumor defenses and trigger a comprehensive immune response.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "kahr-medical",
-  "xId": null,
+  "xId": "KahrMedical",
   "addresses": [
     {
       "street": "שדרות דם המכבים",
@@ -19,5 +19,7 @@
       "lat": 31.905411899999997,
       "lon": 35.005662165798086
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 6724763
 }

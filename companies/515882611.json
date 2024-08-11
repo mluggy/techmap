@@ -1,10 +1,10 @@
 {
-  "name": "Wedge O K",
-  "description": "A neighborhood brewery in Asheville's River Arts District since 2008, offering good beer and good times in two welcoming locations.",
-  "categoryId": 9,
+  "name": "Wedge",
+  "description": "Sustainable Fashion Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/wedge_o_k-logo.webp",
-  "websiteUrl": "https://wedgebrewing.com/",
+  "websiteUrl": "https://www.thewedge.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.065332,
       "lon": 34.794807
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100087406864326"
 }

@@ -1,15 +1,17 @@
 {
   "name": "Maabarot Products",
-  "description": "Nutrition and dietary products for both people and pets.",
-  "categoryId": 12,
+  "description": "Food Products and Nutritional Supplements for Humans and Animals",
+  "categoryId": 17,
   "size": "m",
   "logoFile": "logos/maabarot_products_ltd-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.maabarot.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "maabarot-products-ltd-mabr-",
   "crunchbaseId": null,
   "finderId": "maabarot",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "linkedinNum": 4778075
 }

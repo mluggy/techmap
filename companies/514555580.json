@@ -1,5 +1,5 @@
 {
-  "name": "Gelt Simple",
+  "name": "Gelt",
   "description": "Offering tech-driven, expert CPA-backed premium tax solutions.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "gelt",
-  "xId": null,
+  "xId": "GeltTaxes",
   "addresses": [
     {
       "street": "נחלת יצחק",
@@ -19,5 +19,7 @@
       "lat": 32.073975,
       "lon": 34.79994
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74761698
 }

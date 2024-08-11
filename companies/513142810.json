@@ -1,10 +1,10 @@
 {
-  "name": "Triplecheck",
-  "description": "With extensive experience in IT and ERP market, we specialize in project management, software development, and consulting services.",
+  "name": "TripleCheck",
+  "description": "Centralized Data-monitoring Solution for Enterprises",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/triplecheck-logo.webp",
-  "websiteUrl": "https://www.triplecheck.co.il/",
+  "websiteUrl": "https://www.triple-check.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "triplecheck-ltd-",
@@ -19,5 +19,7 @@
       "lat": 32.11522056543993,
       "lon": 34.84294885154274
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5077064
 }

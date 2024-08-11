@@ -1,5 +1,5 @@
 {
-  "name": "Sodastream Industries",
+  "name": "SodaStream",
   "description": "Create fresh, sparkling water at home with our range of water makers, bottles, flavors, and CO2 cylinders.",
   "categoryId": 9,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://sodastream.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sodastream-international-ltd-",
   "crunchbaseId": null,
   "finderId": "sodastream",
-  "xId": null,
+  "xId": "sodastreamusa",
   "addresses": [
     {
       "street": "עתיר ידע",
@@ -19,5 +19,9 @@
       "lat": 32.1620348,
       "lon": 34.9337429
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SodaStream",
+  "linkedinNum": 1000151,
+  "comeetId": "sodastream/40.008"
 }

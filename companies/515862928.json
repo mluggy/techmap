@@ -1,16 +1,16 @@
 {
-  "name": "Trustblock",
-  "description": "Enhance your UI/UX and streamline data integration with our unique data hub, while easily finding the ideal auditor for your project needs.",
-  "categoryId": 10,
+  "name": "TrustBlock",
+  "description": "Blockchain Cold Wallet Technology",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/trustblock-logo.webp",
-  "websiteUrl": "https://trustblock.run/",
+  "websiteUrl": "https://www.trustblock.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "trustblockhq",
   "crunchbaseId": null,
   "finderId": "trustblock",
-  "xId": null,
+  "xId": "TrustBlock_Ltd",
   "addresses": [
     {
       "street": "דרך יצחק רבין",
@@ -19,5 +19,7 @@
       "lat": 32.0661187,
       "lon": 34.8047208
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64851182
 }

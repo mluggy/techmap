@@ -1,10 +1,10 @@
 {
   "name": "Tuned",
-  "description": "Offering a robust, secure, and scalable end-to-end trading platform for efficient and reliable trade execution.",
-  "categoryId": 10,
+  "description": "AI-based Smart-hearing Platform",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/tuned-logo.webp",
-  "websiteUrl": "https://www.tuned.com/",
+  "websiteUrl": "https://www.tuned.in/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.35075163029115,
       "lon": 34.994667959523234
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81849379
 }

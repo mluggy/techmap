@@ -1,5 +1,5 @@
 {
-  "name": "Sitago",
+  "name": "SITAGO",
   "description": "A secure and fair gaming platform with advanced fraud detection for social interactive games.",
   "categoryId": 11,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sitago",
-  "xId": null,
+  "xId": "sitagogames",
   "addresses": [
     {
       "street": "בן צבי יצחק",
@@ -19,5 +19,8 @@
       "lat": 32.752336,
       "lon": 34.9720848
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SitagoSkillGames",
+  "linkedinNum": 88050022
 }

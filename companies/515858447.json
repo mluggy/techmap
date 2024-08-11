@@ -1,5 +1,5 @@
 {
-  "name": "Multisense Israel Biometric Identification",
+  "name": "MultiSense",
   "description": "A Start-Up specializing in innovative multibiometric and advanced software technology solutions.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "multisense",
-  "xId": null,
+  "xId": "MultiSense_Ltd",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2788892,
       "lon": 34.858196076704104
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "multisenseltd",
+  "linkedinNum": 9427694
 }

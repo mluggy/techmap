@@ -1,10 +1,10 @@
 {
-  "name": "Green C Tech",
-  "description": "A platform that uses artificial intelligence for vision screening.",
+  "name": "GreenCTech",
+  "description": "AI-based Vision Screening Platform",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/green_c_tech-logo.webp",
-  "websiteUrl": "https://ctechmanufacturing.com/",
+  "websiteUrl": "https://www.eye-n-joy.com/",
   "careersUrl": "https://ctechprograms.com/career-highways/green-technology/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.078703,
       "lon": 34.7870616
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71612841
 }

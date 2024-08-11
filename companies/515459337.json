@@ -1,5 +1,5 @@
 {
-  "name": "Pruvo Net",
+  "name": "Pruvo",
   "description": "We secure refunds by finding price drops and secret deals for your hotel bookings, even after you've made reservations.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pruvo",
-  "xId": null,
+  "xId": "pruvoweb",
   "addresses": [
     {
       "street": "נעמ\"ת",
@@ -19,5 +19,8 @@
       "lat": 32.7965427,
       "lon": 34.9927125
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pruvo.net",
+  "linkedinNum": 10581815
 }

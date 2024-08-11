@@ -1,5 +1,5 @@
 {
-  "name": "Viewerslogic",
+  "name": "ViewersLogic",
   "description": "Providing privacy-compliant, reliable data that offers a complete and precise analysis of each consumer's purchasing journey.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "viewerslogic",
   "crunchbaseId": null,
   "finderId": "viewerslogic",
-  "xId": null,
+  "xId": "viewerslogic",
   "addresses": [
     {
       "street": "גלגל הפלדה",
@@ -19,5 +19,8 @@
       "lat": 32.1630041,
       "lon": 34.808744
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ViewersLogic",
+  "linkedinNum": 4857965
 }

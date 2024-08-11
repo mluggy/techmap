@@ -1,5 +1,5 @@
 {
-  "name": "Workiz Development",
+  "name": "Workiz",
   "description": "Providing a comprehensive platform for streamlined job management and team scheduling in field service operations.",
   "categoryId": 14,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.workiz.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "workizinc",
   "crunchbaseId": null,
   "finderId": "workiz",
-  "xId": null,
+  "xId": "workizinc",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070693,
       "lon": 34.785176
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "workiz",
+  "linkedinNum": 3794219
 }

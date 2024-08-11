@@ -1,10 +1,10 @@
 {
-  "name": "Itc Intelligent Traffic Control",
-  "description": "Innovating traffic management by predicting and alleviating congestion using advanced computer vision algorithms integrated with existing infrastructure.",
-  "categoryId": 1,
+  "name": "ITC Intelligent Traffic Control",
+  "description": "Traffic Prediction Software",
+  "categoryId": 5,
   "size": "s",
   "logoFile": "logos/itc_intelligent_traffic_control-logo.webp",
-  "websiteUrl": "https://www.itc-israel.co.il/",
+  "websiteUrl": "https://www.itc.city",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0822229,
       "lon": 34.982694238211764
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ITC-Intelligent-Traffic-Control-108805671426543",
+  "linkedinNum": 19076393
 }

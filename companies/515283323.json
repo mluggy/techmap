@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dealer-relay",
-  "xId": null,
+  "xId": "DealerRelay",
   "addresses": [
     {
       "street": "שד קרן קימת",
@@ -19,5 +19,8 @@
       "lat": 32.8297303,
       "lon": 35.0771401
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DealerRelay",
+  "linkedinNum": 18132629
 }

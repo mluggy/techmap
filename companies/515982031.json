@@ -1,5 +1,5 @@
 {
-  "name": "Tendomend",
+  "name": "TendoMend",
   "description": "A private Israeli startup founded in 2019, developing innovative medical devices through collaboration with top orthopedic surgeons.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false
 }

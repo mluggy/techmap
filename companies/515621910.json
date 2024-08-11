@@ -1,5 +1,5 @@
 {
-  "name": "Track 160",
+  "name": "Track160",
   "description": "A fully automated SaaS platform offering clubs and academies precise data and video analytics through advanced Deep Learning technology, requiring just one camera installation to meet top FIFA EPTS standards.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "track160",
   "crunchbaseId": null,
   "finderId": "track160-ltd",
-  "xId": null,
+  "xId": "track160",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.108647,
       "lon": 34.838493
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Track160Sports",
+  "linkedinNum": 18114002
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Inerticx M D T",
-  "description": "A company operating in secret.",
-  "categoryId": 3,
+  "name": "InerticX",
+  "description": "Stealth Mode company",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/inerticx_m_d_t-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://inerticx.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1667931,
       "lon": 34.829324086011596
     }
-  ]
+  ],
+  "isMultinational": false
 }

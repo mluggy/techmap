@@ -1,5 +1,5 @@
 {
-  "name": "Zoll Medical Israel",
+  "name": "ZOLL Medical",
   "description": "For over 25 years, they've led the development of innovative medical devices and software to enhance emergency care and lifesaving efforts.",
   "categoryId": 12,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "zoll-medical-corporation",
   "crunchbaseId": null,
   "finderId": "zoll",
-  "xId": null,
+  "xId": "zollemsfire",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1620348,
       "lon": 34.9337429
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ZOLLMedical",
+  "linkedinNum": 13727
 }

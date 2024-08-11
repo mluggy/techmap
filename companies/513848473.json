@@ -1,16 +1,16 @@
 {
-  "name": "Persys Medical",
+  "name": "PerSys Medical",
   "description": "PerSys Medical specializes in innovative, life-saving medical solutions and emergency response products for military, emergency responders, and healthcare professionals.",
-  "categoryId": 12,
   "size": "l",
+  "categoryId": 12,
   "logoFile": "logos/persys_medical-logo.webp",
-  "websiteUrl": "https://safeguardmedical.com/",
+  "websiteUrl": "https://persysmedical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "persys-medical",
   "crunchbaseId": null,
   "finderId": "persys-medical",
-  "xId": null,
+  "xId": "persys_medical",
   "addresses": [
     {
       "street": "נתרן",
@@ -19,5 +19,8 @@
       "lat": 31.5936876,
       "lon": 34.7777381
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "persysmedical",
+  "linkedinNum": 947002
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Socialmind",
+  "name": "SocialMind",
   "description": "A user-friendly tool providing parents evidence-based interventions, video feedback, and support following their child's diagnosis.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.47642476958734,
       "lon": 35.00215053421651
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SocialMindAutism",
+  "linkedinNum": 69559082
 }

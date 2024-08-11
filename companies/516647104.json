@@ -1,0 +1,25 @@
+{
+  "name": "Honeydew",
+  "description": "Business Intelligence Data Analysis Tool",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/honeydew.webp",
+  "websiteUrl": "https://honeydew.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "honeydew",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "הרי הגלעד",
+      "houseNumber": 11,
+      "city": "רמת גן",
+      "lat": 32.08376030006026,
+      "lon": 34.80554158845368
+    }
+  ],
+  "isMultinational": false
+}

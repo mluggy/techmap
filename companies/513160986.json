@@ -1,5 +1,5 @@
 {
-  "name": "Silverstream Medical",
+  "name": "SilverStream Medical",
   "description": "The company offers globally approved medical devices for managing and moisturizing various types of wounds, including ulcers, burns, and post-surgical wounds.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.48306525247429,
       "lon": 34.892573774336206
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1386412
 }

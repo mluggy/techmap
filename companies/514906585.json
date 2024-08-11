@@ -1,10 +1,10 @@
 {
   "name": "Adopt Media",
-  "description": "Revolutionizing digital advertising with intelligent, scalable, and responsive technology solutions for publishers and advertisers.",
-  "categoryId": 2,
+  "description": "Advertising Monetization Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/adopt_media-logo.webp",
-  "websiteUrl": "https://adopt.media/",
+  "websiteUrl": "https://www.adopt-media.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.5301739,
       "lon": 34.60612
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5113195
 }

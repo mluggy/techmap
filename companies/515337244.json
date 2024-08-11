@@ -1,10 +1,10 @@
 {
-  "name": "Breathe Me",
-  "description": "A solution designed to monitor and manage asthma and COPD conditions.",
+  "name": "Breathe.me",
+  "description": "Monitoring and Management Solution for Asthma and COPD",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/breathe_me-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://breatheme.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1976788,
       "lon": 34.8811941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18177585
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Dots App",
-  "description": "Offers a variety of stylish and comfortable women's clothing, including dresses, jackets, and pants.",
-  "categoryId": 9,
+  "name": "Dots",
+  "description": "Expanding Social Circles",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/dots_app-logo.webp",
-  "websiteUrl": "https://www.dots.com/",
+  "websiteUrl": "https://www.hello-dots.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.079054,
       "lon": 34.772678
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DotsAppOfficial",
+  "linkedinNum": 66650610
 }

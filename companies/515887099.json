@@ -1,10 +1,10 @@
 {
   "name": "Your Right Solutions",
-  "description": "Payroll Validation Automation.",
-  "categoryId": 15,
+  "description": "Automated Payroll Verification",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/your_right_solutions-logo.webp",
-  "websiteUrl": "https://www.right-solutions.com/",
+  "websiteUrl": "https://you-r-right.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "the-right-solutions-inc-",
@@ -19,5 +19,8 @@
       "lat": 32.0729636,
       "lon": 34.8662331
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "righty.io",
+  "linkedinNum": 28178117
 }

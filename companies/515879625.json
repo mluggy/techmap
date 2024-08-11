@@ -1,5 +1,5 @@
 {
-  "name": "Ettorney Technologies",
+  "name": "Ettorney",
   "description": "מציעה שירותים משפטיים אונליין באמצעות רשת של עורכי דין מובילים בישראל.",
   "categoryId": 10,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.11006275,
       "lon": 34.84225851145355
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ettorney.co.il",
+  "linkedinNum": 9360861
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Proteantecs",
+  "name": "proteanTecs",
   "description": "A platform leveraging machine learning and analytics on chip-embedded data to deliver performance insights and predictions.",
   "categoryId": 1,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "proteantecs",
   "crunchbaseId": "proteantecs",
   "finderId": "proteantecs",
-  "xId": null,
+  "xId": "ProteanTecs",
   "addresses": [
     {
       "street": "קדושי בגדד",
@@ -19,5 +19,8 @@
       "lat": 32.8208931,
       "lon": 34.9992356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "proteanTecs",
+  "linkedinNum": 34221141
 }

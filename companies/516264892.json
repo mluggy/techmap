@@ -1,10 +1,10 @@
 {
   "name": "Ekron Software",
-  "description": "רשת חנויות שמציעה מבחר רחב של מוצרי טכנולוגיה כולל מחשבים, טלפונים, קונסולות ומשחקים.",
-  "categoryId": 9,
+  "description": "Cyber Network Monitoring",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/ekron_software-logo.webp",
-  "websiteUrl": "https://www.bug.co.il/",
+  "websiteUrl": "https://www.ekron.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.851811391250084,
       "lon": 34.83651578029821
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Ekron.co.il",
+  "linkedinNum": 42145528
 }

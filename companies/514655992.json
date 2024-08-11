@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "umoove",
-  "xId": null,
+  "xId": "UmooveMe",
   "addresses": [
     {
       "street": "בשמת",
@@ -19,5 +19,8 @@
       "lat": 31.851787373525656,
       "lon": 35.27180463282995
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Umoove",
+  "linkedinNum": 2476752
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Arbor Knot",
-  "description": "Solutions for Managing Customer Payments.",
+  "name": "ArborKnot",
+  "description": "Customer Payment Solutions",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/arbor_knot-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.arborknot.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "arborknotltd",
   "crunchbaseId": null,
   "finderId": "arbor-knot",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 70389402
 }

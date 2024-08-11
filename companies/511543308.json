@@ -1,10 +1,10 @@
 {
-  "name": "Mida Computers Software Solutions G D",
-  "description": "A Torino e provincia da vent'anni, vendita ed assistenza informatica su PC, notebook e smartphone.",
-  "categoryId": 9,
+  "name": "Mida Computers",
+  "description": "Software Solutions for Enterprise Planning and Management",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/mida_computers_software_solutions_g_d-logo.webp",
-  "websiteUrl": "https://www.midacomputer.it/",
+  "websiteUrl": "https://www.mida.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.86720648379817,
       "lon": 35.09635509795458
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ADAMHRMS",
+  "linkedinNum": 1050046
 }

@@ -1,10 +1,10 @@
 {
   "name": "Cellopark Technologies",
-  "description": "A mobile app offering convenient parking solutions with additional services such as alerts, roadside assistance, car washes, and public transit information.",
-  "categoryId": 9,
+  "description": "Advanced Parking Management System",
+  "categoryId": 5,
   "size": "s",
   "logoFile": "logos/cellopark_technologies-logo.webp",
-  "websiteUrl": "https://www.cello-app.com/",
+  "websiteUrl": "https://www.cellopark.com/site/",
   "careersUrl": "https://cello-app.com/jobs/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0077054,
       "lon": 34.80060304320986
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CelloIsrael",
+  "linkedinNum": 10053176
 }

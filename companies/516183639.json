@@ -1,5 +1,5 @@
 {
-  "name": "Landa Capital 2020",
+  "name": "Landa Digital Printing",
   "description": "Offering innovative digital printing in a proven B1 format, these presses set the standard for mainstream applications.",
   "categoryId": 8,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://landanano.com/",
   "careersUrl": "https://landanano.com/about-us/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "landa-digital-printing",
   "crunchbaseId": null,
   "finderId": "landa",
-  "xId": null,
+  "xId": "landanano",
   "addresses": [
     {
       "street": "קרית מדע",
@@ -19,5 +19,9 @@
       "lat": 31.8023267,
       "lon": 35.2092883
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "landanano",
+  "linkedinNum": 2868643,
+  "comeetId": "landacorp/A4.000"
 }

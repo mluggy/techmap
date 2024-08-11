@@ -1,5 +1,5 @@
 {
-  "name": "Stay In Tel Aviv",
+  "name": "Stay",
   "description": "Innovative, science-based canine nutrition crafted by expert chefs to adapt to dogs' evolving needs.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.0654291,
       "lon": 34.7766695
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "staylabs",
+  "linkedinNum": 68491696
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Automato Agricultural Robotics",
+  "name": "Automato Robotics",
   "description": "Transforming global greenhouse agriculture with affordable, autonomous robot fleets to empower farmers worldwide.",
   "categoryId": 15,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "automatorobotics",
   "crunchbaseId": null,
   "finderId": "automato",
-  "xId": null,
+  "xId": "AutomatoTweet",
   "addresses": [
     {
       "street": "שושנים",
@@ -19,5 +19,7 @@
       "lat": 32.09504591768192,
       "lon": 34.81354010268182
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11569792
 }

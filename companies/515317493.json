@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "orasis-pharmaceuticals",
   "finderId": "orasis-pharmaceuticals",
-  "xId": null,
+  "xId": "orasispharma",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,7 @@
       "lat": 32.1668445,
       "lon": 34.8115866
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10476373
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Diagnostear",
-  "description": "Dry Eye Syndrome Screening and Monitoring Kit.",
+  "name": "DiagnosTear",
+  "description": "Screening and Monitoring Kit for Dry Eye Syndrome",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/diagnostear-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://bio-light.co.il/diagnos-tear/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "diagnostear-ltd",
@@ -19,5 +19,7 @@
       "lat": 31.9121989,
       "lon": 34.8069706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27090167
 }

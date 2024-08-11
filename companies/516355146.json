@@ -1,5 +1,5 @@
 {
-  "name": "Choco Insurance Agency 2021",
+  "name": "Choco Insurance",
   "description": "A global digital insurer offering 24/7 service, competitive pricing, and rapid claims handling to cover your valued assets.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "chocoinsurance",
   "crunchbaseId": null,
   "finderId": "choco-insurance",
-  "xId": null,
+  "xId": "chocoinsurance",
   "addresses": [
     {
       "street": "היובלים",
@@ -19,5 +19,8 @@
       "lat": 32.3204902,
       "lon": 34.989925
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "chocoinsurance",
+  "linkedinNum": 72723767
 }

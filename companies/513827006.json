@@ -1,5 +1,5 @@
 {
-  "name": "Solicall",
+  "name": "SoliCall",
   "description": "Patented technology enhances telephony audio quality with noise and echo cancellation solutions for contact centers and crowded workspaces.",
   "categoryId": 18,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "solicall",
-  "xId": null,
+  "xId": "solicall",
   "addresses": [
     {
       "street": "הברוש",
@@ -19,5 +19,7 @@
       "lat": 32.2473895,
       "lon": 34.9201303
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2264744
 }

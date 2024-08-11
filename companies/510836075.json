@@ -1,10 +1,10 @@
 {
-  "name": "Rimi Management And Investment",
-  "description": "They offer comprehensive radiology services including CT scans, MRIs, mammography, ultrasound, and X-rays across Rhode Island.",
-  "categoryId": 12,
+  "name": "Rimi",
+  "description": "Low-toxicity Products for Pest Control",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/rimi_management_and_investment-logo.webp",
-  "websiteUrl": "https://rimirad.com/",
+  "websiteUrl": "https://www.rimi.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1798659,
       "lon": 34.864688
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rimi1922"
 }

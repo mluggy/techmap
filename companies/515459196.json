@@ -1,16 +1,16 @@
 {
   "name": "Pure Blue Fish",
-  "description": "A free service that provides instant translation for text and web pages across more than 100 languages.",
-  "categoryId": 1,
+  "description": "Land Based Aquaculture Solution",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/pure_blue_fish-logo.webp",
-  "websiteUrl": "https://translate.google.com/",
+  "websiteUrl": "https://purebluefish.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pure-blue-fish",
-  "xId": null,
+  "xId": "purebluefish",
   "addresses": [
     {
       "street": "מעגל הרימון",
@@ -19,5 +19,8 @@
       "lat": 30.99004650178298,
       "lon": 34.9207838195407
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "purebluefish",
+  "linkedinNum": 78983973
 }

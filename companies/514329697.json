@@ -1,10 +1,10 @@
 {
   "name": "Bonfix",
-  "description": "Non-invasive Solutions for Bunions.",
+  "description": "Minimally Invasive Hallux Valgus Correction",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/bonfix-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.bonfixmedical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false
 }

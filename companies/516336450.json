@@ -1,10 +1,10 @@
 {
   "name": "Nexocarp",
-  "description": "Eco-friendly Microencapsulation Solutions.",
-  "categoryId": 17,
+  "description": "Sustainable Microencapsulation Technology",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/nexocarp-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.nexocarp.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.80308325980522,
       "lon": 35.20985974657241
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71731776
 }

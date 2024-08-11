@@ -1,5 +1,5 @@
 {
-  "name": "Gurushots",
+  "name": "GuruShots",
   "description": "Join an engaging photography platform where you can participate in daily challenges, receive community feedback, and win prizes.",
   "categoryId": 11,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "gurushots",
-  "xId": null,
+  "xId": "GuruShots",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.065766,
       "lon": 34.792307
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GuruShots",
+  "linkedinNum": 1546180
 }

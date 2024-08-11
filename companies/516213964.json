@@ -1,10 +1,10 @@
 {
   "name": "Gomake",
-  "description": "פלטפורמת רשת לקישור בין שותפים עסקיים תוך מתן כלים ותשתיות, ללא אחריות על ניהול הזמנות ואיכות עבודה.",
+  "description": "SaaS MIS for The Global Printing Market",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/gomake-logo.webp",
-  "websiteUrl": "https://gomake.co.il/",
+  "websiteUrl": "https://gomake.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.819776250000004,
       "lon": 34.9988252
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 80986809
 }

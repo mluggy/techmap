@@ -1,5 +1,5 @@
 {
-  "name": "Tatio Workforce",
+  "name": "TaTiO",
   "description": "Interactive Career Simulations.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tatio",
-  "xId": null,
+  "xId": "Maya_HuberHR",
   "addresses": [
     {
       "street": "בראלי",
@@ -19,5 +19,7 @@
       "lat": 32.104117,
       "lon": 34.790283
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tatioHR"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Adenza Israel",
+  "name": "Adenza",
   "description": "Comprehensive solutions that streamline trading, treasury, risk management, and regulatory compliance to optimize investment and operational efficiency.",
-  "categoryId": 10,
   "size": "xl",
+  "categoryId": 10,
   "logoFile": "logos/adenza_israel-logo.webp",
-  "websiteUrl": "https://adenza.com/",
+  "websiteUrl": "https://www.axiomsl.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "adenza",
@@ -19,5 +19,7 @@
       "lat": 31.7507751,
       "lon": 35.1850697
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 75591392
 }

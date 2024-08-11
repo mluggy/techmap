@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.lightricks.com/",
   "careersUrl": "https://careers.lightricks.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "lightricks",
   "crunchbaseId": null,
   "finderId": "lightricks",
-  "xId": null,
+  "xId": "lightricks",
   "addresses": [
     {
       "street": "פרופ רקח",
@@ -19,5 +19,9 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Lightricks",
+  "linkedinNum": 2887786,
+  "greenhouseId": "lightricks"
 }

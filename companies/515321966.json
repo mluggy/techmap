@@ -1,5 +1,5 @@
 {
-  "name": "Griiip Automotive Engineering",
+  "name": "Griiip",
   "description": "A tech innovator transforming motorsports through cutting-edge data collection and analysis tools.",
   "categoryId": 5,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "griiip",
   "crunchbaseId": null,
   "finderId": "griiip",
-  "xId": null,
+  "xId": "griiip_racing",
   "addresses": [
     {
       "street": "הפסגות",
@@ -19,5 +19,8 @@
       "lat": 32.097946,
       "lon": 34.8551804
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GriiipG1Series",
+  "linkedinNum": 18209150
 }

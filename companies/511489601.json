@@ -1,5 +1,5 @@
 {
-  "name": "Surecomp Development",
+  "name": "Surecomp",
   "description": "A world leader in trade finance software and solutions, offering SWIFT certified options both on the cloud and on-premise for banks and corporations.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "surecomp",
   "crunchbaseId": "surecomp",
   "finderId": "surecomp",
-  "xId": null,
+  "xId": "surecomp",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1620348,
       "lon": 34.9337429
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 166207,
+  "comeetId": "Surecomp/24.00E"
 }

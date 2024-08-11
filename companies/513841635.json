@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "perfecto-mobile",
-  "xId": null,
+  "xId": "perfectomobile",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.0970131,
       "lon": 34.9105972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "perfectomobile",
+  "linkedinNum": 485728
 }

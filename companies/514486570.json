@@ -1,10 +1,10 @@
 {
   "name": "Eyeways Systems",
-  "description": "Analyzing scenes using four-dimensional object modeling.",
-  "categoryId": 4,
+  "description": "4D Object-based Scene Analysis",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/eyeways_systems-logo.webp",
-  "websiteUrl": "https://eyeways.com/",
+  "websiteUrl": "https://eyewaysystems.com/newsite/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.144570400000006,
       "lon": 34.837453998367415
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27045508
 }

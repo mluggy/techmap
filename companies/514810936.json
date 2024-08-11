@@ -1,5 +1,5 @@
 {
-  "name": "Medisafe Project",
+  "name": "Medisafe",
   "description": "They offer digital solutions that simplify medication management and payment processes, ensuring streamlined enrollments and real-time shipment tracking.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "medisafe-project",
   "crunchbaseId": null,
   "finderId": "medisafe-project",
-  "xId": null,
+  "xId": "MediSafeApp",
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -19,5 +19,8 @@
       "lat": 32.7941088,
       "lon": 34.9579664
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MedisafeProject",
+  "linkedinNum": 2886861
 }

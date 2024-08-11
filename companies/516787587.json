@@ -1,5 +1,5 @@
 {
-  "name": "Recallcue",
+  "name": "RecallCue",
   "description": "This service transforms tablets into user-friendly day clocks and offers a mobile app to enhance the life of loved ones remotely.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "recallcue",
-  "xId": null,
+  "xId": "recallcue",
   "addresses": [
     {
       "street": "היסמין",
@@ -19,5 +19,8 @@
       "lat": 31.7389162,
       "lon": 34.9747545
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "recallcue",
+  "linkedinNum": 18114598
 }

@@ -1,16 +1,16 @@
 {
   "name": "Enroute",
-  "description": "Offering ethically-made, romantic jewelry starting at $18, this online store specializes in earrings, necklaces, chokers, bracelets, rings, and anklets.",
-  "categoryId": 9,
+  "description": "eCommerce Layer for Mobility Services",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/enroute-logo.webp",
-  "websiteUrl": "https://enroutejewelry.com/",
+  "websiteUrl": "https://enroute.tech",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "enroute",
-  "xId": null,
+  "xId": "EnrouteTech",
   "addresses": [
     {
       "street": "שבח",
@@ -19,5 +19,8 @@
       "lat": 32.061248,
       "lon": 34.783449
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Enroute-346634125809169",
+  "linkedinNum": 18304803
 }

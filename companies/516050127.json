@@ -1,10 +1,10 @@
 {
-  "name": "Pocoz Israel",
-  "description": "Offering vinyl and CD reissues, they're bringing classic music back to life.",
-  "categoryId": 9,
+  "name": "Pocoz",
+  "description": "Collaboration Platform for Large Communities",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pocoz_israel-logo.webp",
-  "websiteUrl": "https://pocoband.com/",
+  "websiteUrl": "https://www.pocoz.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.2677732,
       "lon": 34.8861844
     }
-  ]
+  ],
+  "isMultinational": false
 }

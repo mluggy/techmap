@@ -1,10 +1,10 @@
 {
-  "name": "Dun T 1",
-  "description": "A free service that instantly translates words, phrases, and web pages from Japanese to over 100 languages.",
-  "categoryId": 1,
+  "name": "DUN T1",
+  "description": "Orally Administered Drug for Type-1 Diabetes",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/dun_t_1-logo.webp",
-  "websiteUrl": "https://translate.google.co.jp/",
+  "websiteUrl": "https://www.dunica.info/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "dunica-type-1-diabetes",
@@ -19,5 +19,7 @@
       "lat": 31.8127334,
       "lon": 34.7509287
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18844730
 }

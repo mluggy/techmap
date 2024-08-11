@@ -1,0 +1,25 @@
+{
+  "name": "G-Med",
+  "description": "Global Physician Community",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/g-med.webp",
+  "websiteUrl": "https://www.g-med.info/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 5194081,
+  "crunchbaseId": null,
+  "finderId": "g-med",
+  "xId": "GMedPhysicians",
+  "facebookId": "GMedPhysicians",
+  "addresses": [
+    {
+      "street": "זרחין אלכסנדר",
+      "houseNumber": 10,
+      "city": "רעננה",
+      "lat": 32.195499560242375,
+      "lon": 34.882881318768376
+    }
+  ],
+  "isMultinational": false
+}

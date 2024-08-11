@@ -1,5 +1,5 @@
 {
-  "name": "8 Fig",
+  "name": "8fig",
   "description": "This company offers customized financial support to help online businesses grow while preserving brand integrity.",
   "categoryId": 10,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.8fig.co/",
   "careersUrl": "https://www.8fig.co/jobs/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "8fig",
   "crunchbaseId": null,
   "finderId": "8fig",
-  "xId": null,
+  "xId": "eightfig",
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +19,8 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "8fig.co",
+  "linkedinNum": 72434046
 }

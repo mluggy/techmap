@@ -1,5 +1,5 @@
 {
-  "name": "Questar Investments",
+  "name": "Questar",
   "description": "Their platform leverages AI and deep learning to help OEMs and fleet owners minimize warranty, recall, and downtime expenses.",
   "categoryId": 1,
   "size": "m",
@@ -19,5 +19,8 @@
       "lat": 32.065789,
       "lon": 34.768838
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "QuestarAuto",
+  "linkedinNum": 809070
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Noble Line",
-  "description": "Committed to providing students with equitable opportunities and positive school experiences to prepare them for college and fulfilling futures.",
-  "categoryId": 14,
+  "name": "Noble",
+  "description": "Credit Underwriting as a Service",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/noble_line-logo.webp",
-  "websiteUrl": "https://nobleschools.org/",
+  "websiteUrl": "https://www.benoble.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 33.0259211544136,
       "lon": 35.259859647081505
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77699405
 }

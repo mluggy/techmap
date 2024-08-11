@@ -10,7 +10,7 @@
   "linkedinId": "fairtility",
   "crunchbaseId": null,
   "finderId": "fairtility1",
-  "xId": null,
+  "xId": "fairtility",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,7 @@
       "lat": 32.066331,
       "lon": 34.786433
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64940612
 }

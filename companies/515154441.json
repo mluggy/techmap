@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "photomyne",
-  "xId": null,
+  "xId": "photomyne",
   "addresses": [
     {
       "street": "הקישון",
@@ -19,5 +19,8 @@
       "lat": 32.09847095,
       "lon": 34.83075064291436
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Photomyne",
+  "linkedinNum": 3574731
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Seetree Systems",
+  "name": "SeeTree",
   "description": "A pioneer in Ag-tech, delivering per-tree intelligence to monitor and optimize tree health and productivity for growers.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "seetree",
   "crunchbaseId": "seetree",
   "finderId": "seetree",
-  "xId": null,
+  "xId": "SeeTree_AI",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 25027208
 }

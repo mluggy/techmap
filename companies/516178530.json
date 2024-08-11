@@ -1,5 +1,5 @@
 {
-  "name": "Virimask",
+  "name": "ViriMASK",
   "description": "Offers individually packaged protective masks and replacement filters with international shipping.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.7726661,
       "lon": 34.9678575
     }
-  ]
+  ],
+  "isMultinational": false
 }

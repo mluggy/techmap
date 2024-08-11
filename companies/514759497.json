@@ -1,5 +1,5 @@
 {
-  "name": "Nielsen Innovate",
+  "name": "Nielsen",
   "description": "A global frontrunner in audience analytics, this company influences the future of media by precisely measuring what people watch and listen to.",
   "categoryId": 8,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "nielsen",
   "crunchbaseId": null,
   "finderId": "nielsen",
-  "xId": null,
+  "xId": "nielsen",
   "addresses": [
     {
       "street": "חלמיש",
@@ -19,5 +19,8 @@
       "lat": 32.4811959,
       "lon": 34.9481254
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "pages",
+  "linkedinNum": 1714
 }

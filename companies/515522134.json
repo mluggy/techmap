@@ -1,5 +1,5 @@
 {
-  "name": "Cytoreason",
+  "name": "CytoReason",
   "description": "This company specializes in licensing AI-driven disease models and extending drug development collaborations with major pharmaceutical firms.",
   "categoryId": 1,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.cytoreason.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cytoreason",
   "crunchbaseId": null,
   "finderId": "cytoreason",
-  "xId": null,
+  "xId": "Cytoreason",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12901361
 }

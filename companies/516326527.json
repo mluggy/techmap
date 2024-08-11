@@ -1,5 +1,5 @@
 {
-  "name": "Happydural",
+  "name": "HappyDural",
   "description": "A FemTech company offering an AI-driven anesthetic management system that ensures accurate dosing by continuously monitoring the drug's effects on patients.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.063117,
       "lon": 34.762003
     }
-  ]
+  ],
+  "isMultinational": false
 }

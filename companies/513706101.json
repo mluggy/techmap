@@ -1,5 +1,5 @@
 {
-  "name": "Ocean Brick System O B S",
+  "name": "Ocean Brick System",
   "description": "This cost-effective, innovative technology enables the construction of artificial islands, breakwaters, and deep-water ports.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.0848946,
       "lon": 34.8028513
     }
-  ]
+  ],
+  "isMultinational": false
 }

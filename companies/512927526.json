@@ -1,5 +1,5 @@
 {
-  "name": "Nipendo",
+  "name": "nipendo",
   "description": "The platform enhances supply chain efficiency and supplier relations by automating documentation and ensuring transparency, allowing the team to focus on strategic challenges.",
   "categoryId": 15,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nipendo",
-  "xId": null,
+  "xId": "nipendo",
   "addresses": [
     {
       "street": "המחשב",
@@ -19,5 +19,8 @@
       "lat": 32.288215199999996,
       "lon": 34.86509507625543
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Nipendo-183743151655866",
+  "linkedinNum": 131197
 }

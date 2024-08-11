@@ -1,10 +1,10 @@
 {
-  "name": "Uturn",
-  "description": "Connecting shippers and carriers for seamless, tech-driven container transport optimization.",
-  "categoryId": 9,
+  "name": "UTurn",
+  "description": "Reselling Online Returns Prior to Return Shipment",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/uturn-logo.webp",
-  "websiteUrl": "https://uturn-now.com/",
+  "websiteUrl": "https://www.uturn.shop/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.8693643,
       "lon": 34.741499
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67236229
 }

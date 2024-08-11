@@ -1,5 +1,5 @@
 {
-  "name": "Controlup Technologies",
+  "name": "ControlUp",
   "description": "Enhancing employee productivity through real-time optimization of digital experiences.",
   "categoryId": 14,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.controlup.com/",
   "careersUrl": "https://www.controlup.com/company/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "controlup-technology",
   "crunchbaseId": null,
   "finderId": "controlup",
-  "xId": null,
+  "xId": "ControlUp",
   "addresses": [
     {
       "street": "שדרות נים",
@@ -19,5 +19,8 @@
       "lat": 31.949713600000003,
       "lon": 34.80328505744155
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ControllingUp",
+  "linkedinNum": 295466
 }

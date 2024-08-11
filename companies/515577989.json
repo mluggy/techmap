@@ -1,10 +1,10 @@
 {
-  "name": "Cloud Erp Systems",
-  "description": "Online platform for managing procurement and overseeing financial operations.",
-  "categoryId": 6,
+  "name": "CloudERP Systems",
+  "description": "Cloud-based Procurement Management and Financial Control",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/cloud_erp_systems-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://procee.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.437149721266966,
       "lon": 34.58297681745415
     }
-  ]
+  ],
+  "isMultinational": false
 }

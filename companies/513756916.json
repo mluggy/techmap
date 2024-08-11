@@ -1,5 +1,5 @@
 {
-  "name": "Biopetroclean",
+  "name": "BioPetroClean",
   "description": "BioPetroClean offers efficient wastewater treatment solutions with significantly reduced sludge levels.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "BioPetroClean",
-  "xId": null,
+  "xId": "BioPetroClean",
   "addresses": [
     {
       "street": "גבעת התחמושת",
@@ -19,5 +19,8 @@
       "lat": 32.073674,
       "lon": 34.791807
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BioPetroClean",
+  "linkedinNum": 653943
 }

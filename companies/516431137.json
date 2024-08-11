@@ -1,10 +1,10 @@
 {
-  "name": "1 E Therapeutics",
-  "description": "Innovative Medications Targeting RNA.",
+  "name": "1E Therapeutics",
+  "description": "Novel RNA-targeting Drugs",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/1_e_therapeutics-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.1etx.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "1etx",
@@ -19,5 +19,7 @@
       "lat": 31.913727,
       "lon": 34.8081797
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72749387
 }

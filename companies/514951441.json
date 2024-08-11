@@ -1,16 +1,16 @@
 {
-  "name": "Myquest",
-  "description": "A secure, user-friendly tool for accessing test results, scheduling appointments, and tracking health history, available at numerous convenient locations.",
-  "categoryId": 12,
+  "name": "MyQuest",
+  "description": "Online Training and Knowledge Sharing",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/myquest-logo.webp",
-  "websiteUrl": "https://myquest.questdiagnostics.com/",
+  "websiteUrl": "https://www.myquest.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "myquest",
-  "xId": null,
+  "xId": "myquestt",
   "addresses": [
     {
       "street": "האחים בן עזר",
@@ -19,5 +19,8 @@
       "lat": 32.0874861,
       "lon": 34.8694675
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myQuestTraining",
+  "linkedinNum": 5196595
 }

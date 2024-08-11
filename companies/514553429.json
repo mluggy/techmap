@@ -1,10 +1,10 @@
 {
-  "name": "Myway Ev",
-  "description": "Providing tire maintenance guidelines, this company emphasizes regular air pressure checks and timely tire replacement to avoid punctures.",
+  "name": "INOKIM",
+  "description": "Light and Foldable Electric Scooters",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/myway_ev-logo.webp",
-  "websiteUrl": "https://il.inokim.com/",
+  "websiteUrl": "https://inokim.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.3529503,
       "lon": 34.8722076
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "inokimofficial",
+  "linkedinNum": 13983115
 }

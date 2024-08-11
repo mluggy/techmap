@@ -1,5 +1,5 @@
 {
-  "name": "Dots Eco",
+  "name": "dots.eco",
   "description": "Leveraging a partnership to enhance coral reef protection and raise ocean conservation awareness in the Western Caribbean.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "dots-eco",
   "crunchbaseId": null,
   "finderId": "dots-eco",
-  "xId": null,
+  "xId": "DotsEco",
   "addresses": [
     {
       "street": "סמ דליה",
@@ -19,5 +19,8 @@
       "lat": 32.136773056416565,
       "lon": 34.83953160206167
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dotsecology",
+  "linkedinNum": 79993129
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Tectonic Engineering And Development",
-  "description": "Offering curated, high-quality essentials for daily use, including wallets and travel accessories.",
-  "categoryId": 9,
+  "name": "Ridge",
+  "description": "Edge Computing Metacloud",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tectonic_engineering_and_development-logo.webp",
-  "websiteUrl": "https://ridge.com/",
+  "websiteUrl": "https://ridge.co/",
   "careersUrl": "https://tectonicengineering.com/home/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tectonic",
-  "xId": null,
+  "xId": "cloud_ridge",
   "addresses": [
     {
       "street": "מוצקין",
@@ -19,5 +19,7 @@
       "lat": 32.768787,
       "lon": 34.9737793
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11808567
 }

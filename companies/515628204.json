@@ -1,5 +1,5 @@
 {
-  "name": "Depoint Management Solutions",
+  "name": "Depoint",
   "description": "Centralized management solution for overseeing employees, stores, systems, and processes.",
   "categoryId": 14,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 31.81647435,
       "lon": 34.659967991985226
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getdepoint",
+  "linkedinNum": 13223483
 }

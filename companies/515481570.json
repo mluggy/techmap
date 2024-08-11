@@ -1,10 +1,10 @@
 {
   "name": "Freetail Technologies",
-  "description": "Enhancing Customer Interactions.",
-  "categoryId": 8,
+  "description": "Customer Experience Enrichment",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/freetail_technologies-logo.webp",
-  "websiteUrl": "https://www.freetailtech.com/",
+  "websiteUrl": "https://www.freetail.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "freetail-technologies-ltd",
@@ -19,5 +19,6 @@
       "lat": 32.0894751,
       "lon": 34.8376307
     }
-  ]
+  ],
+  "isMultinational": false
 }

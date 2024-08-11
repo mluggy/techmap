@@ -1,5 +1,5 @@
 {
-  "name": "Breathevision",
+  "name": "BreatheVision",
   "description": "We provide wearable sensors and AI technology to continuously monitor and alert healthcare teams about patients' breathing to prevent respiratory emergencies.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 31.9223461,
       "lon": 34.8006766
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 10356498
 }

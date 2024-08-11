@@ -1,5 +1,5 @@
 {
-  "name": "My Polymers",
+  "name": "MY Polymers",
   "description": "Materials with a low refractive index including coatings, adhesives, and polymers.",
   "categoryId": 15,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "my-polymers",
-  "xId": null,
+  "xId": "mypolymers",
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -19,5 +19,8 @@
       "lat": 31.9160002,
       "lon": 34.8020721
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mypolymers",
+  "linkedinNum": 7041633
 }

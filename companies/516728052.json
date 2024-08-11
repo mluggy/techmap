@@ -1,10 +1,10 @@
 {
-  "name": "Cell Lipo",
-  "description": "Customized Cellular Treatment.",
+  "name": "Cell-Lipo",
+  "description": "Personalized Cell Therapy",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cell_lipo-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.cell-lipo.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.82826,
       "lon": 34.7518174
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 86838230
 }

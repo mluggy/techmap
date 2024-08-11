@@ -1,5 +1,5 @@
 {
-  "name": "Siteaware Systems",
+  "name": "SiteAware",
   "description": "They provide real-time dimensional checks for concrete construction to ensure accurate installation of formwork, embeds, and MEPF elements.",
   "categoryId": 15,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "siteawareinc",
   "crunchbaseId": "dronomy",
   "finderId": "dronomy",
-  "xId": null,
+  "xId": "SiteAware",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.067605,
       "lon": 34.785948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SiteAware",
+  "linkedinNum": 10265066
 }

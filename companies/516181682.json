@@ -1,5 +1,5 @@
 {
-  "name": "Nilus AI",
+  "name": "Nilus",
   "description": "An AI-driven platform delivering real-time cash visibility, flow forecasting, reporting, and reconciliation for strategic cash management.",
   "categoryId": 1,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.nilus.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nilus-finance",
   "crunchbaseId": null,
   "finderId": "nilus-1",
-  "xId": null,
+  "xId": "Nilus_finance",
   "addresses": [
     {
       "street": "סגל שמוליק",
@@ -19,5 +19,7 @@
       "lat": 32.123816,
       "lon": 34.826518
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82589199
 }

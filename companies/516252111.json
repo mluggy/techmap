@@ -1,10 +1,10 @@
 {
   "name": "Mind Impact",
-  "description": "A platform designed to help businesses manage employee well-being.",
+  "description": "Well-being Management Platform for Enterprises",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/mind_impact-logo.webp",
-  "websiteUrl": "https://mindimpactconsulting.com/",
+  "websiteUrl": "https://www.mind.us/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1985331,
       "lon": 34.8842596
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76329148
 }

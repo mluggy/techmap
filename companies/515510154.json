@@ -1,16 +1,16 @@
 {
-  "name": "Lychee Media Consulting And Research",
-  "description": "A tool powered by artificial intelligence designed for creators of social audio content.",
-  "categoryId": 1,
+  "name": "Lychee",
+  "description": "AI Tool for Social Audio Content Creators",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/lychee_media_consulting_and_research-logo.webp",
-  "websiteUrl": "http://www.lycheestyle.com/",
+  "websiteUrl": "https://www.lychee.so",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "lychee-so",
   "crunchbaseId": null,
   "finderId": "lychee",
-  "xId": null,
+  "xId": "LycheeSo",
   "addresses": [
     {
       "street": "סמ ואדי סליב",
@@ -19,5 +19,7 @@
       "lat": 32.812490819962335,
       "lon": 35.00291217903234
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76759756
 }

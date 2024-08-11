@@ -1,5 +1,5 @@
 {
-  "name": "Hi Bob",
+  "name": "HiBob",
   "description": "A comprehensive, user-friendly platform that enhances HR management and overall employee engagement by making tasks as intuitive as social networking.",
   "categoryId": 14,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.hibob.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hibob",
   "crunchbaseId": null,
   "finderId": "hibob",
-  "xId": null,
+  "xId": "Hibob_hr",
   "addresses": [
     {
       "street": "בן אביגדור",
@@ -19,5 +19,9 @@
       "lat": 32.06682,
       "lon": 34.790849
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hibobHR",
+  "linkedinNum": 7586104,
+  "comeetId": "hibob/12.00A"
 }

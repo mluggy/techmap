@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.backslash.security/",
   "careersUrl": "https://www.backslash.security/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "backslashsecurity",
   "crunchbaseId": null,
   "finderId": "backslash-security",
-  "xId": null,
+  "xId": "BackslashSec",
   "addresses": [
     {
       "street": "שז\"ר זלמן",
@@ -19,5 +19,7 @@
       "lat": 32.16447495,
       "lon": 34.91001888117337
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90647453
 }

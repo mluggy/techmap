@@ -1,5 +1,5 @@
 {
-  "name": "Thriver Technologies Israel",
+  "name": "Thriver",
   "description": "Streamline workplace culture and employee engagement by discovering, booking, and managing services in one platform.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "thrivercompany",
   "crunchbaseId": null,
   "finderId": "thriver",
-  "xId": null,
+  "xId": "thrivercompany",
   "addresses": [
     {
       "street": "קרן היסוד",
@@ -19,5 +19,8 @@
       "lat": 31.7715763,
       "lon": 35.2225218
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "thrivercompany",
+  "linkedinNum": 67252326
 }

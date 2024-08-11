@@ -1,5 +1,5 @@
 {
-  "name": "Au 10 Tix",
+  "name": "AU10TIX",
   "description": "Implementing sophisticated fraud detection and user verification to boost trust, scalability, and conversion rates while reducing fake accounts.",
   "categoryId": 7,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.au10tix.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "au10tix-limited",
   "crunchbaseId": null,
   "finderId": "au10tix",
-  "xId": null,
+  "xId": "AU10TIXLimited",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,8 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Au10tix",
+  "linkedinNum": 992782
 }

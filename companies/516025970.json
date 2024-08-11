@@ -1,5 +1,5 @@
 {
-  "name": "B 24 Chat",
+  "name": "B24chat",
   "description": "A chat application requiring JavaScript for functionality.",
   "categoryId": 14,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 31.259864174791822,
       "lon": 34.75746256063407
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 28170980
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Beame Io",
+  "name": "beame.io",
   "description": "A cryptographic software firm offering scalable, open-source and proprietary solutions for secure authentication and identification.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "beame-io",
   "finderId": "beame-io",
-  "xId": null,
+  "xId": "beame_io",
   "addresses": [
     {
       "street": "הנחושת",
@@ -19,5 +19,8 @@
       "lat": 32.109582,
       "lon": 34.839068
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "beameio",
+  "linkedinNum": 10304224
 }

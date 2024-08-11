@@ -7,10 +7,10 @@
   "websiteUrl": "https://pulsenmore.com/",
   "careersUrl": "https://pulsenmore.com/jobs/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "pulsenmore",
   "crunchbaseId": null,
   "finderId": "pulsenmore",
-  "xId": null,
+  "xId": "pulsenmore",
   "addresses": [
     {
       "street": "עומרים",
@@ -19,5 +19,8 @@
       "lat": 31.2712166,
       "lon": 34.8421314
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Pulsenmore",
+  "linkedinNum": 73240861
 }

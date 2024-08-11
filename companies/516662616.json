@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "upwind-security",
-  "xId": null,
+  "xId": "upwindsecurity",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.079241,
       "lon": 34.795072
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "upwindsec"
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pangea-biomed",
-  "xId": null,
+  "xId": "PangeaBiomed",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,7 @@
       "lat": 32.106408,
       "lon": 34.833651
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71201409
 }

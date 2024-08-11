@@ -1,10 +1,10 @@
 {
-  "name": "Ola Kali",
-  "description": "Offering affordable and convenient nearby cab bookings for optimal taxi services.",
-  "categoryId": 5,
+  "name": "Ola",
+  "description": "AI-based Monitoring System for Older Adults",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/ola_kali-logo.webp",
-  "websiteUrl": "https://www.olacabs.com/",
+  "websiteUrl": "https://olaCare.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.4763255,
       "lon": 34.947278
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OLAUSAINC",
+  "linkedinNum": 19115337
 }

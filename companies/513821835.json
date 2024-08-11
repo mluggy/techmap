@@ -10,7 +10,7 @@
   "linkedinId": "checkmarx",
   "crunchbaseId": null,
   "finderId": "checkmarx",
-  "xId": null,
+  "xId": "Checkmarx",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,9 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Checkmarx.Source.Code.Analysis",
+  "linkedinNum": 223472,
+  "comeetId": "checkmarx/C0.008"
 }

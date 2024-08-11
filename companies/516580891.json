@@ -1,10 +1,10 @@
 {
-  "name": "Arazim Renewl",
-  "description": "A technically oriented distributor founded in 1989, serving telecommunications, defense, and various industries.",
-  "categoryId": 18,
+  "name": "Arazim",
+  "description": "Navigation and Communication Systems",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/arazim_renewl-logo.webp",
-  "websiteUrl": "https://arazim.co.il/",
+  "websiteUrl": "https://www.arazim.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "arazim-ltd",
@@ -19,5 +19,8 @@
       "lat": 31.9511778,
       "lon": 34.896366
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "61557485739354",
+  "linkedinNum": 36080102
 }

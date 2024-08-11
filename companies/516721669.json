@@ -1,10 +1,10 @@
 {
-  "name": "Vivac Pharma",
-  "description": "Handcrafted in Dixon, NM, this winery is renowned as the highest-rated red wine producer in New Mexico's history.",
+  "name": "ViVac",
+  "description": "Nucleic Acid-based Vaccine Platform",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/vivac_pharma-logo.webp",
-  "websiteUrl": "https://vivacwinery.com/",
+  "websiteUrl": "https://content.celero.io/s/0d316a30/vivac-non-confidential-jan-23/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.949713600000003,
       "lon": 34.80328505744155
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,10 +1,10 @@
 {
   "name": "Yalmo",
-  "description": "Experience top-quality films with premium, luxury, and junior theaters while checking schedules and offers.",
-  "categoryId": 8,
+  "description": "AI System for Children with Autism Spectrum Disorder",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/yalmo-logo.webp",
-  "websiteUrl": "https://yelmocines.es/",
+  "websiteUrl": "https://www.yalmosystem.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.944182249999997,
       "lon": 34.90013093937024
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72097363
 }

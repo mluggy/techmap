@@ -1,5 +1,5 @@
 {
-  "name": "Satixfy Communications",
+  "name": "SatixFy",
   "description": "Providing seamless connectivity for passengers anywhere, whether in-flight or at sea, using an advanced hybrid multi-beam, multi-constellation system.",
   "categoryId": 3,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "satixfy",
-  "xId": null,
+  "xId": "SatixFy_Satcom",
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +19,7 @@
       "lat": 31.9132762,
       "lon": 34.8075468
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2786177
 }

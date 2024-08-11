@@ -1,5 +1,5 @@
 {
-  "name": "Appfront",
+  "name": "AppFront",
   "description": "We offer a comprehensive dine-in solution with customizable in-app payment and ordering, loyalty rewards, and seamless tab splitting for restaurants.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "appfront",
   "crunchbaseId": null,
   "finderId": "appfront",
-  "xId": null,
+  "xId": "appfrontai",
   "addresses": [
     {
       "street": "הגדוד העברי",
@@ -19,5 +19,8 @@
       "lat": 32.0378031,
       "lon": 34.8837813
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AppFront",
+  "linkedinNum": 9384193
 }

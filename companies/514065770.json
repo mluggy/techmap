@@ -1,10 +1,10 @@
 {
-  "name": "Infobay Securtiy And Software",
-  "description": "Experience the newly enhanced free solitaire with upgraded graphics, gameplay, and sound.",
-  "categoryId": 11,
+  "name": "Infobay",
+  "description": "Enterprise Encryption Platform",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/infobay_securtiy_and_software-logo.webp",
-  "websiteUrl": "https://www.infobae.com/",
+  "websiteUrl": "https://www.infobaysec.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0957887,
       "lon": 34.8588101
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 6392529
 }

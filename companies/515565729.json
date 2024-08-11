@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "regulus-cyber",
-  "xId": null,
+  "xId": "RegulusCyber",
   "addresses": [
     {
       "street": "דניה",
@@ -19,5 +19,8 @@
       "lat": 32.7679191,
       "lon": 35.0005915
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "reguluscyber",
+  "linkedinNum": 10305509
 }

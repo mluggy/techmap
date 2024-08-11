@@ -1,10 +1,10 @@
 {
   "name": "Pharmocann",
-  "description": "מציעים טיפולים מותאמים אישית באמצעות קנאביס רפואי, שמגוון ההשפעות של זניו מסייעים לקבל את המענה המתאים ביותר לצרכים רפואיים.",
+  "description": "Medical Cannabis Cultivation and R&D",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/pharmocann-logo.webp",
-  "websiteUrl": "https://pharmocann.co.il/",
+  "websiteUrl": "https://pharmocann.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.7084175,
       "lon": 35.1744669
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pharmocann",
+  "linkedinNum": 18450262
 }

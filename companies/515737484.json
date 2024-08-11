@@ -1,10 +1,10 @@
 {
-  "name": "Treat It",
-  "description": "A mobile app offering convenient, professional phone-based psychological counseling.",
+  "name": "Treat Group",
+  "description": "Sustainable Therapeutics for Improving Animal, Human, and Environmental Welfare",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/treat_it-logo.webp",
-  "websiteUrl": "https://www.treatit.co.il/",
+  "websiteUrl": "https://www.treat-group.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0888605,
       "lon": 34.8776693
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 30656006
 }

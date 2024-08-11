@@ -1,10 +1,10 @@
 {
-  "name": "Intuitive Marketing",
+  "name": "Intuitive",
   "description": "Committed to leading the industry by providing advanced systems, technology, and management solutions for targeted outcomes.",
-  "categoryId": 2,
   "size": "s",
+  "categoryId": 14,
   "logoFile": "logos/intuitive_marketing-logo.webp",
-  "websiteUrl": "https://irtc-hq.com/",
+  "websiteUrl": "https://www.intuitive.com/en-us",
   "careersUrl": "https://irtc-hq.com/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.03945246322061,
       "lon": 34.88131954592422
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 2089819
 }

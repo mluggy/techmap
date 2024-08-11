@@ -1,5 +1,5 @@
 {
-  "name": "Green 2 Pass",
+  "name": "Green2Pass",
   "description": "Instant Safety Assistance for Drivers Overtaking Other Vehicles.",
   "categoryId": 5,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 31.665319,
       "lon": 34.5875574
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Green2Pass-106800997552139"
 }

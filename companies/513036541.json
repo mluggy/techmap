@@ -1,16 +1,16 @@
 {
   "name": "Lumus",
-  "description": "Featherweight Augmented Reality Glasses.",
-  "categoryId": 4,
+  "description": "Lightweight AR Eyewear",
+  "categoryId": 8,
   "size": "m",
   "logoFile": "logos/lumus_ltd-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.lumusvision.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "lumus-ltd-",
   "crunchbaseId": "lumus",
   "finderId": "lumus",
-  "xId": null,
+  "xId": "LumusVision",
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -19,5 +19,8 @@
       "lat": 31.9148938,
       "lon": 34.8040759
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lumusvision",
+  "linkedinNum": 10265870
 }

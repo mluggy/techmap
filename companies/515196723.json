@@ -10,7 +10,7 @@
   "linkedinId": "cato-networks",
   "crunchbaseId": null,
   "finderId": "cato-networks",
-  "xId": null,
+  "xId": "catonetworks",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CatoNetworks",
+  "linkedinNum": 3533853
 }

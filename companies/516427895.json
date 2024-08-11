@@ -1,5 +1,5 @@
 {
-  "name": "Protai Bio",
+  "name": "Protai",
   "description": "They revolutionize drug discovery by intricately mapping disease progression at the protein level to reveal cellular functions.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "protai-bio",
   "crunchbaseId": "protai",
   "finderId": "protai",
-  "xId": null,
+  "xId": "ProtaiBio",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,7 @@
       "lat": 32.0845733,
       "lon": 34.8009733
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74514047
 }

@@ -1,0 +1,25 @@
+{
+  "name": "GreenDays",
+  "description": "Digital Purchasing Advisor for Solar PV and Energy Storage",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/greendays.webp",
+  "websiteUrl": "https://greendays.co.il",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 82144708,
+  "crunchbaseId": null,
+  "finderId": "greendays",
+  "xId": null,
+  "facebookId": "GreenDaySolar",
+  "addresses": [
+    {
+      "street": "נחל נטפים",
+      "houseNumber": 20,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.8954901784028,
+      "lon": 35.02351725785882
+    }
+  ],
+  "isMultinational": false
+}

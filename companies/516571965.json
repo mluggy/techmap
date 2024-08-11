@@ -1,0 +1,25 @@
+{
+  "name": "Faireez",
+  "description": "Platform to Connect Cleaners with Property Management Companies",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/faireez.webp",
+  "websiteUrl": "https://faireez.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 93207107,
+  "crunchbaseId": null,
+  "finderId": "faireez",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "ולנברג ראול",
+      "houseNumber": 18,
+      "city": "תל אביב - יפו",
+      "lat": 32.10987310766867,
+      "lon": 34.837277723904684
+    }
+  ],
+  "isMultinational": false
+}

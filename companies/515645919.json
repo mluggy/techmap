@@ -1,5 +1,5 @@
 {
-  "name": "Cylus Cyber Security",
+  "name": "Cylus",
   "description": "Leading in rail cybersecurity, the company aids rail, freight, and metro sectors in preventing service interruptions and safety incidents.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cylus",
   "crunchbaseId": "cylus",
   "finderId": "cylus",
-  "xId": null,
+  "xId": "Cylus_Security",
   "addresses": [
     {
       "street": "יצחק שדה",
@@ -19,5 +19,8 @@
       "lat": 32.06530465,
       "lon": 34.784687671749694
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cylusec",
+  "linkedinNum": 18413393
 }

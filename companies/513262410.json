@@ -1,5 +1,5 @@
 {
-  "name": "Ginger G",
+  "name": "Ginger Software",
   "description": "Providing seamless desktop and mobile tools to enhance writing and boost productivity.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ginger",
-  "xId": null,
+  "xId": "gingersoftware",
   "addresses": [
     {
       "street": "השזיף",
@@ -19,5 +19,8 @@
       "lat": 32.5044435,
       "lon": 34.9071822
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GingerProofreader",
+  "linkedinNum": 210116
 }

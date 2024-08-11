@@ -7,10 +7,10 @@
   "websiteUrl": "https://cydome.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cydome",
   "crunchbaseId": null,
   "finderId": "cydome-security",
-  "xId": null,
+  "xId": "cydome",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,8 @@
       "lat": 32.0658477,
       "lon": 34.7859941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cydome",
+  "linkedinNum": 10486617
 }

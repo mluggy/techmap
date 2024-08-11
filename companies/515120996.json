@@ -1,16 +1,16 @@
 {
-  "name": "Coders Clan",
-  "description": "Collaborative Software Development Services.",
-  "categoryId": 14,
+  "name": "CodersClan",
+  "description": "Communal Code Outsourcing",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/coders_clan-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.codersclan.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "codersclan",
   "crunchbaseId": "codersclan",
   "finderId": "codersclan",
-  "xId": null,
+  "xId": "codersclan",
   "addresses": [
     {
       "street": "עתיר ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1620348,
       "lon": 34.9337429
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CodersClan",
+  "linkedinNum": 3195438
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Jabil Israel",
+  "name": "Jabil",
   "description": "We transform complex concepts into tangible products with extensive market expertise and innovative design and manufacturing.",
   "categoryId": 15,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "jabil",
   "crunchbaseId": null,
   "finderId": "jabil",
-  "xId": null,
+  "xId": "Jabil",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Jabil",
+  "linkedinNum": 4852
 }

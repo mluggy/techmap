@@ -1,5 +1,5 @@
 {
-  "name": "Radlogics",
+  "name": "RadLogics",
   "description": "Utilizing AI-powered solutions, this company supports overburdened health systems globally by processing and analyzing COVID-19 cases.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "radlogics",
   "crunchbaseId": null,
   "finderId": "radlogics",
-  "xId": null,
+  "xId": "radlogics",
   "addresses": [
     {
       "street": "שד' רוקח",
@@ -19,5 +19,8 @@
       "lat": 32.1053566,
       "lon": 34.811018495092924
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "radlogics",
+  "linkedinNum": 4831585
 }

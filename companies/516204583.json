@@ -1,10 +1,10 @@
 {
   "name": "Pots Farms",
-  "description": "Smart devices for watering plants and compact farming systems powered by artificial intelligence.",
-  "categoryId": 13,
+  "description": "AI-based Plant-watering Devices and Micro-farm Systems",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/pots_farms-logo.webp",
-  "websiteUrl": "https://www.carpinito.com/",
+  "websiteUrl": "https://potsfarms.wixsite.com/mysite",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0201674,
       "lon": 34.7494935
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PotsFarmsLTD"
 }

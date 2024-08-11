@@ -1,10 +1,10 @@
 {
-  "name": "Compit Real Estate",
-  "description": "An event hosted in Drübeck, Germany, focusing on professional development and networking opportunities.",
-  "categoryId": 9,
+  "name": "Compit",
+  "description": "Real Estate Valuation and Analysis Platform",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/compit_real_estate-logo.webp",
-  "websiteUrl": "http://compit.info/",
+  "websiteUrl": "https://app.compit.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "compit-inc-",
@@ -19,5 +19,7 @@
       "lat": 32.1951246,
       "lon": 34.8787131
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10530426
 }

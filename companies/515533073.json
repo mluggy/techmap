@@ -1,10 +1,10 @@
 {
-  "name": "Hito Systems",
-  "description": "Providing versatile and user-friendly enterprise solutions, this company offers a flexible framework for seamless integration into various business processes.",
+  "name": "HITO Systems",
+  "description": "Professional Compliance and Regulatory Software",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/hito_systems-logo.webp",
-  "websiteUrl": "https://hito-systems.com/",
+  "websiteUrl": "https://hito-muni.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.764264,
       "lon": 34.9904441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hitotracer",
+  "linkedinNum": 17980301
 }

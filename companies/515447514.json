@@ -1,10 +1,10 @@
 {
-  "name": "Agree Online Dispute Resolution",
-  "description": "A platform streamlining online contract creation and payment processing for small businesses.",
-  "categoryId": 10,
+  "name": "Agree Online",
+  "description": "Conflict Resolution to Prevent Cyber Bullying",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/agree_online_dispute_resolution-logo.webp",
-  "websiteUrl": "https://www.agree.com/",
+  "websiteUrl": "https://www.agree-online.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0770431,
       "lon": 34.810005
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Agree-Online-904515226288219",
+  "linkedinNum": 17930944
 }

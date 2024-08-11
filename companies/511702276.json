@@ -1,5 +1,5 @@
 {
-  "name": "Lumen Capital",
+  "name": "Lumen",
   "description": "A pioneering portable device that measures, tracks, and analyzes your metabolism to determine if you're burning fats or carbs for energy.",
   "categoryId": 12,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.lumen.me/",
   "careersUrl": "https://jobs.lumen.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "lumen-me",
   "crunchbaseId": null,
   "finderId": "lumen",
-  "xId": null,
+  "xId": "LumenMetabolism",
   "addresses": [
     {
       "street": "לשם",
@@ -19,5 +19,8 @@
       "lat": 31.9965335,
       "lon": 34.9447447
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Lumen.me",
+  "linkedinNum": 10582911
 }

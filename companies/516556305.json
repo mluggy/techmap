@@ -1,10 +1,10 @@
 {
-  "name": "Predimed",
-  "description": "An intelligent system that assists clinicians in making medical decisions through artificial intelligence.",
+  "name": "PrediMed",
+  "description": "AI-based Clinical Decision Support System",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/predimed-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://predimed-health.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77733840
 }

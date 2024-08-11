@@ -1,16 +1,16 @@
 {
   "name": "Make My Day",
-  "description": "Providing special tire benefits and delightful experiences that enhance your day.",
-  "categoryId": 9,
+  "description": "Charging Optimization for Electric Vehicle Drivers and Fleets",
+  "categoryId": 5,
   "size": "s",
   "logoFile": "logos/make_my_day-logo.webp",
-  "websiteUrl": "https://makemyday.michelin.gr/",
+  "websiteUrl": "https://www.makemydayapp.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "makemyday",
-  "xId": null,
+  "xId": "Make_My_Day_App",
   "addresses": [
     {
       "street": "דבורה הנביאה",
@@ -19,5 +19,8 @@
       "lat": 32.113198,
       "lon": 34.844295
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MakeMyDayApp",
+  "linkedinNum": 27151331
 }

@@ -4,13 +4,13 @@
   "categoryId": 2,
   "size": "l",
   "logoFile": "logos/perion_network-logo.webp",
-  "websiteUrl": "http://perion.com/",
+  "websiteUrl": "https://perion.com/",
   "careersUrl": "https://perion.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "perion",
   "crunchbaseId": null,
   "finderId": "perion-network",
-  "xId": null,
+  "xId": "PerionNetwork",
   "addresses": [
     {
       "street": "הרוקמים",
@@ -19,5 +19,8 @@
       "lat": 32.0077054,
       "lon": 34.80060304320986
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Perion.network",
+  "linkedinNum": 26531
 }

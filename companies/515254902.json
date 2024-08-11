@@ -1,10 +1,10 @@
 {
   "name": "Grace Breeding",
-  "description": "Eco-Friendly Farming Innovations.",
+  "description": "Natural Agriculture Solutions",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/grace_breeding-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://gracebreeding.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "grace-breeding",
@@ -19,5 +19,7 @@
       "lat": 32.04614926842207,
       "lon": 34.83279003856786
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 86840328
 }

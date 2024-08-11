@@ -1,5 +1,5 @@
 {
-  "name": "Storeya Feed",
+  "name": "StoreYa",
   "description": "Streamline advertising with AI-driven tools and a user-friendly dashboard to boost traffic and efficiency.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "storeya-com",
   "crunchbaseId": null,
   "finderId": "storeya-com",
-  "xId": null,
+  "xId": "StoreYaCom",
   "addresses": [
     {
       "street": "סוקולוב",
@@ -19,5 +19,8 @@
       "lat": 32.1427424,
       "lon": 34.83746505839056
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "StoreYacom",
+  "linkedinNum": 2347493
 }

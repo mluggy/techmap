@@ -1,0 +1,25 @@
+{
+  "name": "ScoutX",
+  "description": "Crop Monitoring Platform for Vineyards",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/scoutx.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "scoutx",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "האנרגיה",
+      "houseNumber": 77,
+      "city": "באר שבע",
+      "lat": 31.26342135993418,
+      "lon": 34.81089109303142
+    }
+  ],
+  "isMultinational": false
+}

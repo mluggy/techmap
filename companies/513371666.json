@@ -1,5 +1,5 @@
 {
-  "name": "Pluri Biotech",
+  "name": "Pluri",
   "description": "We specialize in cost-efficient 3D cell expansion technology to enhance cell growth processes.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "pluri-biotech",
   "crunchbaseId": null,
   "finderId": "pluristem-therapeutics",
-  "xId": null,
+  "xId": "Pluribiotech",
   "addresses": [
     {
       "street": "דואר מת\"מ",
@@ -19,5 +19,7 @@
       "lat": 32.79071374490573,
       "lon": 34.95929214614536
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 226821
 }

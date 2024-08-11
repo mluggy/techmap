@@ -1,10 +1,10 @@
 {
   "name": "Source Of Sound",
-  "description": "Communication Headsets for Military Personnel.",
-  "categoryId": 18,
+  "description": "Headsets for Defense Forces",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/source_of_sound-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.s-o-s.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.28193335,
       "lon": 34.86526229439164
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SOSMILCOM",
+  "linkedinNum": 5888573
 }

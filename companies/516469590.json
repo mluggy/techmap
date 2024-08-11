@@ -1,10 +1,10 @@
 {
-  "name": "Lakuruma Systems",
-  "description": "Optical communication technologies for vehicle-to-infrastructure (V2I) and vehicle-to-vehicle (V2V) connections.",
+  "name": "Lakuruma",
+  "description": "V2I and V2V Optical Communication Systems for Connected Vehicles",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/lakuruma_systems-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://amirhand.wixsite.com/lakuruma",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.8072266,
       "lon": 35.1570003
     }
-  ]
+  ],
+  "isMultinational": false
 }

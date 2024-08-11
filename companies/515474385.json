@@ -1,10 +1,10 @@
 {
-  "name": "Lipicare Pharmaceuticals",
-  "description": "Advanced Eye Drops Using Micro-emulsion Technology.",
+  "name": "Lipicare  Pharmaceuticals",
+  "description": "Eye Drops in Micro-emulsion Technology",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/lipicare_pharmaceuticals-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://bio-light.co.il/he/lipicare/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "lipicare-pharmaceuticals",
@@ -19,5 +19,7 @@
       "lat": 32.0376994,
       "lon": 34.7489382
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 80939863
 }

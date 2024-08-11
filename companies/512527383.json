@@ -1,5 +1,5 @@
 {
-  "name": "Shl Telemedicine International",
+  "name": "SHL Telemedicine",
   "description": "Introducing the Cardio'B™, a revolutionary lightweight portable device designed for transmitting a 12-lead ECG.",
   "categoryId": 12,
   "size": "m",
@@ -19,5 +19,8 @@
       "lat": 32.0672,
       "lon": 34.793221
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "shahal.co.il",
+  "linkedinNum": 351032
 }

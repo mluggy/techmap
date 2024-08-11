@@ -1,5 +1,5 @@
 {
-  "name": "Talksense",
+  "name": "TalkSense",
   "description": "Streamlining CRM data entry through voice, this solution enhances real-time data accuracy and organizational efficiency with quick deployment.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "talksense",
-  "xId": null,
+  "xId": "talksenseapp",
   "addresses": [
     {
       "street": "בן גוריון",
@@ -19,5 +19,7 @@
       "lat": 31.7951265,
       "lon": 34.7188079
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 4860967
 }

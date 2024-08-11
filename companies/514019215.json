@@ -1,5 +1,5 @@
 {
-  "name": "Carta Sense",
+  "name": "CartaSense",
   "description": "Offering AI-driven predictive analytics to prevent shipment failures by analyzing global weather data and shipment conditions.",
   "categoryId": 13,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.103838550000006,
       "lon": 34.89099230960969
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CartaSense-265174943675970",
+  "linkedinNum": 1176081
 }

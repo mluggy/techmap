@@ -1,10 +1,10 @@
 {
-  "name": "Ottek",
-  "description": "PhD chemist with over 14 years of expertise in exam preparation and a track record of students excelling in local to national chemistry competitions.",
+  "name": "OTTek",
+  "description": "Colonoscopy Assist Device",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ottek-logo.webp",
-  "websiteUrl": "https://ottek.kz/",
+  "websiteUrl": "https://www.ottek-gi.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ottek-ltd",
@@ -19,5 +19,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 80673554
 }

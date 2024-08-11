@@ -1,10 +1,10 @@
 {
-  "name": "Co Exist",
-  "description": "Instant Livestock Tracking and Feeding Management System.",
-  "categoryId": 13,
+  "name": "CO-EXIST",
+  "description": "Real-time Livestock Monitoring and Feeding Solution",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/co_exist-logo.webp",
-  "websiteUrl": "https://www.getcoexist.com/",
+  "websiteUrl": "https://coexist-agro.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.9203478,
       "lon": 35.0364309
     }
-  ]
+  ],
+  "isMultinational": false
 }

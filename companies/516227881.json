@@ -1,10 +1,10 @@
 {
-  "name": "Tazmaz",
-  "description": "Search. Clothing · All Clothing · Dresses · Tops & Tees · Sweaters · Jackets & Coats · Pants · Jeans · Activewear · Leggings · Hoodies & Pullovers · Vests ...",
-  "categoryId": 9,
+  "name": "TazMaz",
+  "description": "Financial Manager for Small Businesses",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/tazmaz-logo.webp",
-  "websiteUrl": "https://www.tazmaraz.com/",
+  "websiteUrl": "https://www.tazmaz.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "tazmaz",
@@ -19,5 +19,8 @@
       "lat": 32.9962134,
       "lon": 35.6818546
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tazmazapp",
+  "linkedinNum": 55045060
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Mitrassist Medical",
+  "name": "MitrAssist",
   "description": "The company provides a minimally invasive mitral valve implant that functions alongside the natural valve for MR treatment.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.4763255,
       "lon": 34.947278
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2989684
 }

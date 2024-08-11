@@ -1,13 +1,13 @@
 {
-  "name": "Dream Team",
-  "description": "Delivering high-quality scenery and airplane addons for flight simulator enthusiasts, now available with added features and new marketplace releases for PC and Xbox.",
-  "categoryId": 11,
+  "name": "DreamTeam",
+  "description": "Hiring Intelligence Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/dream_team-logo.webp",
-  "websiteUrl": "https://www.fsdreamteam.com/",
+  "websiteUrl": "https://www.dreamteam.app/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dreamteamio",
   "crunchbaseId": null,
   "finderId": "dreamteam",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1658392,
       "lon": 34.8116146
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 69693261
 }

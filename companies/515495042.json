@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pickspace",
-  "xId": null,
+  "xId": "_pickspace_",
   "addresses": [
     {
       "street": "הירשנברג",
@@ -19,5 +19,8 @@
       "lat": 32.082916,
       "lon": 34.774566
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pickspace",
+  "linkedinNum": 12956747
 }

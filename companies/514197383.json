@@ -1,16 +1,16 @@
 {
   "name": "Fixread",
-  "description": "The company provides educational materials utilized by numerous universities and colleges across Israel.",
-  "categoryId": 12,
+  "description": "Platform for Online English Courses",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/fixread-logo.webp",
-  "websiteUrl": "https://fixread.co.il/",
+  "websiteUrl": "https://fixread.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fixread",
-  "xId": null,
+  "xId": "fixread",
   "addresses": [
     {
       "street": "קריית ספר",
@@ -19,5 +19,8 @@
       "lat": 32.79048636258196,
       "lon": 34.98904710495853
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fixreadESL",
+  "linkedinNum": 1857465
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Callvu",
-  "description": "The Festival Internacional de Cine de Gijón and Sociedad Cultural Gijonesa proudly present \"Joyas Silentes,\" a Cine Club 60 showcase featuring silent films.",
+  "name": "FICX",
+  "description": "No-code Automation Platform for Customer Experience",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/callvu-logo.webp",
-  "websiteUrl": "https://ficx.tv/",
+  "websiteUrl": "https://ficx.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "callvu",
-  "xId": null,
+  "xId": "CAllVU_US",
   "addresses": [
     {
       "street": "האומנים",
@@ -19,5 +19,8 @@
       "lat": 32.071309,
       "lon": 34.794928
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "callvu",
+  "linkedinNum": 5350672
 }

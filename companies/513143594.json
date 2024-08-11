@@ -1,16 +1,16 @@
 {
-  "name": "Shield Biological Projects",
-  "description": "A platform for ensuring compliance in electronic communications.",
-  "categoryId": 7,
+  "name": "Shield.",
+  "description": "Electronic Communications Compliance Platform",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/shield_biological_projects-logo.webp",
-  "websiteUrl": "https://biotav.com/",
+  "websiteUrl": "https://www.shieldfc.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": "shield-biological-project",
+  "linkedinId": "shieldcommunicationcompliance",
   "crunchbaseId": null,
   "finderId": "shield",
-  "xId": null,
+  "xId": "Shieldregtech",
   "addresses": [
     {
       "street": "אולפן",
@@ -19,5 +19,8 @@
       "lat": 32.6070666972952,
       "lon": 35.30716460100709
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ShieldFinancialCompliance",
+  "linkedinNum": 18055936
 }

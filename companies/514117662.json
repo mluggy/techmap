@@ -1,5 +1,5 @@
 {
-  "name": "Empathy Group",
+  "name": "Empathy",
   "description": "Online Support Tool for Managing Grief.",
   "categoryId": 12,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.empathy.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "empathy-com",
   "crunchbaseId": null,
   "finderId": "empathy",
-  "xId": null,
+  "xId": "empathy_app",
   "addresses": [
     {
       "street": "האגס גבעת עדה",
@@ -19,5 +19,8 @@
       "lat": 32.5206853306449,
       "lon": 35.00751563736368
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "empathyforfamilies",
+  "linkedinNum": 68774537
 }

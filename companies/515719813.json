@@ -1,5 +1,5 @@
 {
-  "name": "Hola Vpn",
+  "name": "Hola",
   "description": "Experience seamless global content access anytime with our platform.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hola",
-  "xId": null,
+  "xId": "hola_org",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HolaBetterInternet",
+  "linkedinNum": 820275
 }

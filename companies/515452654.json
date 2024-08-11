@@ -1,5 +1,5 @@
 {
-  "name": "Tempramed Israel",
+  "name": "TempraMed",
   "description": "Utilizing patented space technology, this company offers solutions to maintain medications at ideal temperatures with their VIVI Cap and VIVI Epi products.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "tempramed",
   "crunchbaseId": null,
   "finderId": "tempramed",
-  "xId": null,
+  "xId": "TempraMed_VIVI",
   "addresses": [
     {
       "street": "הא באייר",
@@ -19,5 +19,8 @@
       "lat": 32.088043,
       "lon": 34.789287
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VIVI-Cooling-Products-314967455559284",
+  "linkedinNum": 10696908
 }

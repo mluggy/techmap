@@ -1,5 +1,5 @@
 {
-  "name": "Innodata Israel",
+  "name": "Innodata",
   "description": "They tackle complex data engineering problems with a blend of AI and human expertise, offering comprehensive solutions.",
   "categoryId": 1,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "innodata-inc-",
   "crunchbaseId": null,
   "finderId": "innodata",
-  "xId": null,
+  "xId": "innodata",
   "addresses": [
     {
       "street": "קרית מדע",
@@ -19,5 +19,8 @@
       "lat": 31.8008466,
       "lon": 35.2107974
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "IsraelInnodata",
+  "linkedinNum": 10827
 }

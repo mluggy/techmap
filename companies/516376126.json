@@ -1,10 +1,10 @@
 {
-  "name": "Genie Pharm",
-  "description": "Providing advanced garage door openers and devices to enhance security and smart functionality.",
-  "categoryId": 13,
+  "name": "Genie",
+  "description": "AI-powered Anti-scam Solution",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/genie_pharm-logo.webp",
-  "websiteUrl": "https://www.geniecompany.com/",
+  "websiteUrl": "https://www.lifesgenie.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.9082994,
       "lon": 35.0138778
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lifesgenie"
 }

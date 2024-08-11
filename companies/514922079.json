@@ -10,7 +10,7 @@
   "linkedinId": "contguard-ltd",
   "crunchbaseId": null,
   "finderId": "contguard",
-  "xId": null,
+  "xId": "contguard",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,8 @@
       "lat": 32.12984109999999,
       "lon": 34.89354939995229
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Contguard.Shipping.with.Intelligence",
+  "linkedinNum": 5047126
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ahava",
-  "xId": null,
+  "xId": "AHAVA_US",
   "addresses": [
     {
       "street": "ערבה",
@@ -19,5 +19,8 @@
       "lat": 31.9427684,
       "lon": 34.8919073
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AHAVA.il",
+  "linkedinNum": 513713
 }

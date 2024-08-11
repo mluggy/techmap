@@ -1,10 +1,10 @@
 {
   "name": "Serendi Systems",
-  "description": "We enhance your talent acquisition strategy by providing superior recruitment services and high-quality talent.",
+  "description": "OCR and Handwriting Recognition Solutions",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/serendi_systems-logo.webp",
-  "websiteUrl": "https://www.serendi.com/",
+  "websiteUrl": "https://www.pen-to-print.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "serendi-sa",
@@ -19,5 +19,8 @@
       "lat": 32.7227866,
       "lon": 35.1354626
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pen2printOCR",
+  "linkedinNum": 12908094
 }

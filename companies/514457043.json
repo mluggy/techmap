@@ -1,10 +1,10 @@
 {
   "name": "Just Manage",
-  "description": "Providing effective management solutions for better organization and efficiency.",
+  "description": "Management Tool for Construction",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/just_manage-logo.webp",
-  "websiteUrl": "https://jm.justmanage.com/",
+  "websiteUrl": "https://www.justmanage.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.24220105686256,
       "lon": 34.90939442287974
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Just2Manage",
+  "linkedinNum": 10542873
 }

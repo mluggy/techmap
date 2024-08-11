@@ -1,5 +1,5 @@
 {
-  "name": "Kubiya AI",
+  "name": "Kubiya.ai",
   "description": "A company revolutionizing DevOps by streamlining complex processes through conversational AI.",
   "categoryId": 1,
   "size": "s",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.kubiya.ai/",
   "careersUrl": "https://www.kubiya.ai/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "kubiya",
   "crunchbaseId": null,
   "finderId": "kubiya-ai",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.128594864391765,
       "lon": 34.852115375857785
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 86714205
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Structshare Technologies",
+  "name": "StructShare Technologies",
   "description": "Streamlines building material purchasing by connecting field, accounting, and procurement teams through a seamless cloud-based platform.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "structshare-technologies",
-  "xId": null,
+  "xId": "structshare?",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.065766,
       "lon": 34.792307
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "StructShare",
+  "linkedinNum": 17928465
 }

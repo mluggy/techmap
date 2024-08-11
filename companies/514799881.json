@@ -1,5 +1,5 @@
 {
-  "name": "Clinch Labs",
+  "name": "Clinch",
   "description": "Their tools empower the creation of visually appealing ads by leveraging existing assets and integrating diverse data sources.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "clinch",
-  "xId": null,
+  "xId": "clinch_usa",
   "addresses": [
     {
       "street": "השזיף",
@@ -19,5 +19,8 @@
       "lat": 32.5044435,
       "lon": 34.9071822
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3152410,
+  "comeetId": "clinch/42.007"
 }

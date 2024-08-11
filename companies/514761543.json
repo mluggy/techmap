@@ -10,7 +10,7 @@
   "linkedinId": "wochit",
   "crunchbaseId": null,
   "finderId": "wochit",
-  "xId": null,
+  "xId": "wochit",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.0705297,
       "lon": 34.7872761
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Wochit",
+  "linkedinNum": 2470245
 }

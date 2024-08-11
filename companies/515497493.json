@@ -1,5 +1,5 @@
 {
-  "name": "Ex Libris Israeli Holdco",
+  "name": "Ex Libris",
   "description": "An integrated library system that empowers libraries to enhance education, maximize research impact, and foster collaboration.",
   "categoryId": 14,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ex-libris",
-  "xId": null,
+  "xId": "exlibrisgroup",
   "addresses": [
     {
       "street": "הגן הטכנולוגי",
@@ -19,5 +19,8 @@
       "lat": 31.75025875,
       "lon": 35.18612507516873
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "exlibrisgroup",
+  "linkedinNum": 7746
 }

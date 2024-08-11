@@ -10,7 +10,7 @@
   "linkedinId": "oxitone-medical",
   "crunchbaseId": null,
   "finderId": "oxitone",
-  "xId": null,
+  "xId": "oxitonemedical",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Oxitone",
+  "linkedinNum": 2384676
 }

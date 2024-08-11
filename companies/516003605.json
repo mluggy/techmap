@@ -1,16 +1,16 @@
 {
-  "name": "Montara Systems",
-  "description": "Offering luxury pontoons that excel in wakesurfing, wakeboarding, and sunset cruising.",
-  "categoryId": 5,
+  "name": "Montara",
+  "description": "The Cloud-Native Modern Business Intelligence Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/montara_systems-logo.webp",
-  "websiteUrl": "https://www.montaraboats.com/",
+  "websiteUrl": "https://montara.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "montara",
-  "xId": null,
+  "xId": "Montara_inc",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,6 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false
 }

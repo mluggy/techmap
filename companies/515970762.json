@@ -1,10 +1,10 @@
 {
-  "name": "Blazepod Israel",
-  "description": "An innovative light-based training kit that enhances agility, reflexes, and quickness for athletes and coaches.",
-  "categoryId": 12,
+  "name": "BlazePod",
+  "description": "Interactive Fitness Training via Mobile Device",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/blazepod_israel-logo.webp",
-  "websiteUrl": "https://www.blazepod.com/",
+  "websiteUrl": "https://blazepod.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.2642704,
       "lon": 34.9002023
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "blazepodIsrael",
+  "linkedinNum": 17978803
 }

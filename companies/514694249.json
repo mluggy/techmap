@@ -1,10 +1,10 @@
 {
-  "name": "Improdia",
-  "description": "A tech-focused platform that earns affiliate commissions through Amazon-linked product recommendations.",
-  "categoryId": 9,
+  "name": "ImProDia",
+  "description": "Immune System Diagnostic Blood Test",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/improdia-logo.webp",
-  "websiteUrl": "https://www.improdia.com/",
+  "websiteUrl": "https://www.improdia.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1613414,
       "lon": 34.8105823
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13990246
 }

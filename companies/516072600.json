@@ -1,5 +1,5 @@
 {
-  "name": "Parametrix",
+  "name": "Parametrix Insurance",
   "description": "Leading provider of cloud downtime insurance offering comprehensive coverage for lost revenues and other expenses from cloud outages with unrestricted claims fund usage.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "parametrix-insurance",
   "crunchbaseId": null,
   "finderId": "parametrix",
-  "xId": null,
+  "xId": "parametrixinsur",
   "addresses": [
     {
       "street": "בן צור שמואל",
@@ -19,5 +19,7 @@
       "lat": 32.8186321,
       "lon": 34.9574826
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13036577
 }

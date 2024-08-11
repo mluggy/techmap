@@ -1,10 +1,10 @@
 {
   "name": "Voxia",
-  "description": "Providing customized smart communication services for businesses, including phone systems, call centers, and network equipment.",
-  "categoryId": 18,
+  "description": "AI Agents for Large-Scale Outbound Call Operations",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/voxia-logo.webp",
-  "websiteUrl": "https://www.voxia.co.il/",
+  "websiteUrl": "https://www.voxia.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.277905,
       "lon": 34.8912417
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 37429937
 }

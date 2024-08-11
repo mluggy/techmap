@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "storycards",
-  "xId": null,
+  "xId": "_Storycards",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,8 @@
       "lat": 32.0900013,
       "lon": 34.8601803
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "my.storycards",
+  "linkedinNum": 73261947
 }

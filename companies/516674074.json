@@ -1,5 +1,5 @@
 {
-  "name": "Wisio Israel",
+  "name": "Wisio",
   "description": "A platform facilitating personalized video advice and services from favorite creators to their followers.",
   "categoryId": 8,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "officialwisio",
   "crunchbaseId": null,
   "finderId": "ScaleAbout",
-  "xId": null,
+  "xId": "wisio_official",
   "addresses": [
     {
       "street": "ראשון לציון",
@@ -19,5 +19,8 @@
       "lat": 32.3284738,
       "lon": 34.8503349
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Wisio.official",
+  "linkedinNum": 10684568
 }

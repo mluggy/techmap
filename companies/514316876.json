@@ -1,5 +1,5 @@
 {
-  "name": "Liniad Media",
+  "name": "Liniad",
   "description": "Bringing games and players together.",
   "categoryId": 11,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "liniad-media",
   "crunchbaseId": null,
   "finderId": "liniad-media",
-  "xId": null,
+  "xId": "LiniadMedia",
   "addresses": [
     {
       "street": "התות",
@@ -19,5 +19,8 @@
       "lat": 32.268994,
       "lon": 34.8771835
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LiniadMedia",
+  "linkedinNum": 2302674
 }

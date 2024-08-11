@@ -7,10 +7,10 @@
   "websiteUrl": "https://elementor.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "elementor",
   "crunchbaseId": null,
   "finderId": "pogo-me",
-  "xId": null,
+  "xId": "elemntor",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,8 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "elemntor",
+  "linkedinNum": 10682833
 }

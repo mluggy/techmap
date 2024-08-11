@@ -7,10 +7,10 @@
   "websiteUrl": "https://brightdata.com/",
   "careersUrl": "https://brightdata.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "bright-data",
   "crunchbaseId": null,
   "finderId": "bright-data",
-  "xId": null,
+  "xId": "bright_data",
   "addresses": [
     {
       "street": "המחשב",
@@ -19,5 +19,7 @@
       "lat": 32.287659,
       "lon": 34.8650507
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 4000016
 }

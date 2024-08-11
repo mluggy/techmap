@@ -10,7 +10,7 @@
   "linkedinId": "wing-security",
   "crunchbaseId": "wing-security",
   "finderId": "wing-security",
-  "xId": null,
+  "xId": "WingSecSaaS",
   "addresses": [
     {
       "street": "יגאל אלון",
@@ -19,5 +19,7 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74984769
 }

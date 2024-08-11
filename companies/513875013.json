@@ -1,5 +1,5 @@
 {
-  "name": "Teva Pharmaceutical Industries",
+  "name": "Teva Pharmaceuticals",
   "description": "A global pharmaceutical company specializing in generic and specialty medications to improve patient health and healthcare accessibility.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "teva-pharmaceuticals",
   "crunchbaseId": "teva-pharmaceutical-industries",
   "finderId": "teva",
-  "xId": null,
+  "xId": "tevapharm",
   "addresses": [
     {
       "street": null,
@@ -54,5 +54,8 @@
       "lat": 32.32242824475739,
       "lon": 34.878403474593476
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tevapharm",
+  "linkedinNum": 5239
 }

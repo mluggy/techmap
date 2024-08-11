@@ -1,5 +1,5 @@
 {
-  "name": "Lightsolver",
+  "name": "LightSolver",
   "description": "They leverage light-based computing to solve complex problems with unprecedented speed and accuracy, outperforming traditional quantum and supercomputing methods.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "lightsolver",
   "crunchbaseId": null,
   "finderId": "lightsolver",
-  "xId": null,
+  "xId": "lightsolverco",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 37529078
 }

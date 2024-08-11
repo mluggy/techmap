@@ -1,10 +1,10 @@
 {
-  "name": "Yavo App",
-  "description": "Healthcare Support for Patients with Chronic Conditions.",
+  "name": "YAVO",
+  "description": "Medical Assistant for Chronically Ill Patients",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/yavo_app-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://yavo.app/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.8679291,
       "lon": 34.7296494
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "yavoapp",
+  "linkedinNum": 69529714
 }

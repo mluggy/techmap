@@ -1,10 +1,10 @@
 {
-  "name": "Atomation Net",
-  "description": "Test your engineering prowess with over 50 engine-building scenarios tailored for diverse applications.",
-  "categoryId": 15,
+  "name": "Atomation",
+  "description": "End-to-end IoT Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/atomation_net-logo.webp",
-  "websiteUrl": "https://www.automationgame.com/",
+  "websiteUrl": "https://atomation.net",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.063834,
       "lon": 34.780027
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "atomation.net",
+  "linkedinNum": 10471051
 }

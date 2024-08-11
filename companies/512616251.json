@@ -1,10 +1,10 @@
 {
-  "name": "Iotech Verticals",
-  "description": "Our software enables real-time sensor data connectivity, edge intelligence, and seamless cloud integration with flexible deployment options.",
-  "categoryId": 13,
+  "name": "ioTech",
+  "description": "Digital Manufacturing for Electronics",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/iotech_verticals-logo.webp",
-  "websiteUrl": "https://www.iotechsys.com/",
+  "websiteUrl": "https://i-o-tech.com/",
   "careersUrl": "https://www.iotechsys.com/company/careers/",
   "isHiring": true,
   "linkedinId": "iotech-systems",
@@ -19,5 +19,7 @@
       "lat": 31.8828339,
       "lon": 34.9624834
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17967458
 }

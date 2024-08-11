@@ -1,10 +1,10 @@
 {
   "name": "Ledge Tech",
-  "description": "Platform for managing payments without coding.",
+  "description": "No-code Payment Management Platform",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/ledge_tech-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.ledge.co",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0753114,
       "lon": 34.7838583
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 88417372
 }

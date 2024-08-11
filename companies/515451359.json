@@ -4,13 +4,13 @@
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/speakizi-logo.webp",
-  "websiteUrl": "http://www.speakizi.com/",
+  "websiteUrl": "https://www.speakizi.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "speakizi",
   "crunchbaseId": "speakizi",
   "finderId": "speakizi",
-  "xId": null,
+  "xId": "speakizi",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.069284,
       "lon": 34.778734
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "speakizi.usa",
+  "linkedinNum": 10568518
 }

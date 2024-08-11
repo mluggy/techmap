@@ -1,5 +1,5 @@
 {
-  "name": "Sixgill",
+  "name": "Cybersixgill",
   "description": "An award-winning vendor offering real-time cyber threat intelligence and secure dark web access for proactive security teams.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "sixgill",
   "crunchbaseId": null,
   "finderId": "sixgill",
-  "xId": null,
+  "xId": "CyberSixgill",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Sixgill-1069680059792649",
+  "linkedinNum": 10058404
 }

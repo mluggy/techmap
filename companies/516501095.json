@@ -1,10 +1,10 @@
 {
-  "name": "P N Y Delivered",
-  "description": "Specialized Electric Scooter for Transporting Cargo.",
+  "name": "P.N.Y Delivered",
+  "description": "Purpose-built Electric Cargo Scooter",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/p_n_y_delivered-logo.webp",
-  "websiteUrl": "https://www.ridepny.com/",
+  "websiteUrl": "https://www.ponydelivered.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.275537257484245,
       "lon": 34.917199875090624
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2272717006
 }

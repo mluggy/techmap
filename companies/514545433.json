@@ -1,5 +1,5 @@
 {
-  "name": "Ayyeka Technologies",
+  "name": "Ayyeka",
   "description": "Streamlining environmental data creation for air quality, solar power, and water monitoring.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,8 @@
   "linkedinId": "ayyeka-technologies",
   "crunchbaseId": "ayyeka",
   "finderId": "ayyeka",
-  "xId": null,
+  "xId": "AyyekaTech",
+  "breezyId": "ayyeka",
   "addresses": [
     {
       "street": "יפו",
@@ -19,5 +20,7 @@
       "lat": 31.787876,
       "lon": 35.2074073
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5005439
 }

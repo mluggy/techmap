@@ -1,5 +1,5 @@
 {
-  "name": "Postboost",
+  "name": "PostBoost",
   "description": "A versatile biological solution for crop treatment, effective both pre- and post-harvest, developed by Israel's Agriculture Research Organization.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.1604703,
       "lon": 34.809883
     }
-  ]
+  ],
+  "isMultinational": false
 }

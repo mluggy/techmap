@@ -1,16 +1,16 @@
 {
   "name": "Cider Security",
-  "description": "A security platform designed to safeguard the operating system.",
+  "description": "AppSec Operating System Security Platform",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/cider_security-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://cidersecurity.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "cider-security",
   "finderId": "cider-security",
-  "xId": null,
+  "xId": "cider_sec",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cidersec",
+  "linkedinNum": 72434907
 }

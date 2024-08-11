@@ -10,7 +10,7 @@
   "linkedinId": "pecan-ai",
   "crunchbaseId": null,
   "finderId": "pecan",
-  "xId": null,
+  "xId": "pecan_ai",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,7 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12608829
 }

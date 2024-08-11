@@ -1,5 +1,5 @@
 {
-  "name": "Dip Tech",
+  "name": "Dip-Tech",
   "description": "Leveraging Ferro's expertise, this company provides advanced digital glass printing technology, ceramic inks, and comprehensive support services to enhance business growth globally.",
   "categoryId": 8,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dip-tech",
-  "xId": null,
+  "xId": "DipTechGlass",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DipTechGlass",
+  "linkedinNum": 863855
 }

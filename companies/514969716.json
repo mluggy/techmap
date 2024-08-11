@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sweet-inn",
-  "xId": null,
+  "xId": "sweet_inn",
   "addresses": [
     {
       "street": "קרן היסוד",
@@ -19,5 +19,8 @@
       "lat": 31.7745745,
       "lon": 35.2185477
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SweetinnTheNewTravelConcept",
+  "linkedinNum": 9235235
 }

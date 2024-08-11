@@ -1,10 +1,10 @@
 {
   "name": "Qniverse",
-  "description": "A Dynamic Space for Exercise and Fun Activities.",
-  "categoryId": 4,
+  "description": "Interactive Playground for Fitness and Activities",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/qniverse-logo.webp",
-  "websiteUrl": "https://qniverse.co.uk/",
+  "websiteUrl": "https://www.qniverse.ai/",
   "careersUrl": "https://qniverse.co.uk/careers/",
   "isHiring": true,
   "linkedinId": "hoppa-group",
@@ -19,5 +19,7 @@
       "lat": 32.10981,
       "lon": 34.838876
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27137805
 }

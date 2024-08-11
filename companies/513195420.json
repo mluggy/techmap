@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.kornit.com/",
   "careersUrl": "https://careers.kornit.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "kornit-digital",
   "crunchbaseId": null,
   "finderId": "kornit-digital",
-  "xId": null,
+  "xId": "kornitdigital",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.09668,
       "lon": 34.9066455
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "kornit",
+  "linkedinNum": 633366
 }

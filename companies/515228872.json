@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "annoto",
-  "xId": null,
+  "xId": "annoto_",
   "addresses": [
     {
       "street": "עזריאל",
@@ -19,5 +19,8 @@
       "lat": 32.09981415,
       "lon": 34.89133846533079
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Annoto.net",
+  "linkedinNum": 16263494
 }

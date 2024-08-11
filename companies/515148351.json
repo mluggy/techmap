@@ -1,0 +1,25 @@
+{
+  "name": "Da-Li",
+  "description": "Interactive Science Education Games",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/da-li.webp",
+  "websiteUrl": "https://da-li.co.il/login/?next=/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "da-li",
+  "xId": null,
+  "facebookId": "dali.co.il",
+  "addresses": [
+    {
+      "street": "וולך",
+      "houseNumber": 4,
+      "city": "קריית אונו",
+      "lat": 32.05929602623856,
+      "lon": 34.854878667524964
+    }
+  ],
+  "isMultinational": false
+}

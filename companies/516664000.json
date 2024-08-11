@@ -1,5 +1,5 @@
 {
-  "name": "Panacea Ml",
+  "name": "Panacea-ml",
   "description": "An AI-driven platform that enhances clinical trial success by predicting patient drug responses and potential side effects for informed decision-making and better patient outcomes.",
   "categoryId": 1,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.1976788,
       "lon": 34.8811941
     }
-  ]
+  ],
+  "isMultinational": false
 }

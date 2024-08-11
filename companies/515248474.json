@@ -1,5 +1,5 @@
 {
-  "name": "Criskco Israel 2015",
+  "name": "CRiskCo",
   "description": "Partnering to streamline and enhance SME credit solutions by reducing risk and processing time.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "criskco",
   "crunchbaseId": "criskco",
   "finderId": "criskco",
-  "xId": null,
+  "xId": "criskcovoice",
   "addresses": [
     {
       "street": "יבנה",
@@ -19,5 +19,8 @@
       "lat": 32.065334,
       "lon": 34.773294
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "criskco",
+  "linkedinNum": 6434432
 }

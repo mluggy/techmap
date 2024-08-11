@@ -1,5 +1,5 @@
 {
-  "name": "Solarwinds Itsm Israel",
+  "name": "SolarWinds",
   "description": "Empowering teams to efficiently manage increasing ticket volumes with advanced tools.",
   "categoryId": 14,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "solarwinds",
   "crunchbaseId": null,
   "finderId": "solarwinds1",
-  "xId": null,
+  "xId": "solarwinds",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2773544,
       "lon": 34.8584354
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SolarWinds",
+  "linkedinNum": 166039
 }

@@ -1,10 +1,10 @@
 {
   "name": "Go Global Travel",
-  "description": "An innovative B2B provider offering extensive hotel and technology solutions with global multilingual support for client partners.",
-  "categoryId": 9,
+  "description": "B2B Hotel and Technology Booking System",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/go_global_travel-logo.webp",
-  "websiteUrl": "https://accounts.goglobal.travel/",
+  "websiteUrl": "https://www.goglobal.travel/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0946875,
       "lon": 34.8248874
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GoGlobalTravelLtd",
+  "linkedinNum": 1489812
 }

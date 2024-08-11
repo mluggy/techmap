@@ -1,10 +1,10 @@
 {
-  "name": "Communi",
-  "description": "A platform fostering a community in the workplace powered by AI.",
-  "categoryId": 1,
+  "name": "COMMUNi",
+  "description": "AI Workplace Community Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/communi-logo.webp",
-  "websiteUrl": "https://www.communi.io/",
+  "websiteUrl": "https://www.mycommuni.site/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "communi-ltd",
@@ -19,5 +19,7 @@
       "lat": 32.07788385,
       "lon": 34.80849731722448
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78993041
 }

@@ -7,10 +7,10 @@
   "websiteUrl": "https://pliops.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pliops",
   "crunchbaseId": null,
   "finderId": "pliops",
-  "xId": null,
+  "xId": "PliopsLtd",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18382394,
+  "comeetId": "pliops/05.004"
 }

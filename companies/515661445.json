@@ -1,16 +1,16 @@
 {
-  "name": "Riseup Moments",
-  "description": "Providing online communication tools to support liberatory social change and create democratic alternatives.",
-  "categoryId": 14,
+  "name": "RiseUp",
+  "description": "Proactive Financial Service Empowering Customers",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/riseup_moments-logo.webp",
-  "websiteUrl": "https://riseup.net/",
+  "websiteUrl": "https://www.riseup.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "riseup",
-  "xId": null,
+  "xId": "riseup_israel",
   "addresses": [
     {
       "street": "פריש דניאל",
@@ -19,5 +19,8 @@
       "lat": 32.07463945,
       "lon": 34.78327163578098
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "riseupisrael",
+  "linkedinNum": 18679438
 }

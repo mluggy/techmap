@@ -1,10 +1,10 @@
 {
-  "name": "Xtras Staffing Solutions",
-  "description": "Leading manufacturer of lightweight, high-performance diver propulsion vehicles.",
-  "categoryId": 3,
+  "name": "Xtras",
+  "description": "Employee Recruitment and Management Platform",
+  "categoryId": 9,
   "size": "s",
   "logoFile": "logos/xtras_staffing_solutions-logo.webp",
-  "websiteUrl": "https://dive-xtras.com/",
+  "websiteUrl": "https://www.xtras.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "XtrasApp",
+  "linkedinNum": 9421947
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Mks Instruments Israel",
+  "name": "MKS Instruments",
   "description": "They specialize in advanced solutions for measuring, monitoring, and controlling critical processes.",
-  "categoryId": 15,
   "size": "m",
+  "categoryId": 15,
   "logoFile": "logos/mks_instruments_israel-logo.webp",
-  "websiteUrl": "https://www.mks.com/",
+  "websiteUrl": "https://www.mksinst.com/",
   "careersUrl": "https://www.mks.com/careers",
   "isHiring": true,
   "linkedinId": "mks-instruments",
   "crunchbaseId": null,
   "finderId": "mks-instruments",
-  "xId": null,
+  "xId": "mksinstruments",
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -19,5 +19,8 @@
       "lat": 31.9105328,
       "lon": 34.8061071
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "MKSInstruments",
+  "linkedinNum": 5884
 }

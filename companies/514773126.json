@@ -1,16 +1,16 @@
 {
   "name": "Endless Technologies",
-  "description": "Empower yourself to design and develop innovative solutions using your existing business data from spreadsheets or databases.",
-  "categoryId": 14,
+  "description": "Mobile Camera Software and Hardware Development",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/endless_technologies-logo.webp",
-  "websiteUrl": "https://www.glideapps.com/",
+  "websiteUrl": "https://wristcam.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "glide-talk-ltd-",
   "crunchbaseId": null,
   "finderId": "glide",
-  "xId": null,
+  "xId": "wristcam",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.0845733,
       "lon": 34.8009733
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "wristcam",
+  "linkedinNum": 3020582
 }

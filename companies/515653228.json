@@ -1,5 +1,5 @@
 {
-  "name": "Endo Gi Medical",
+  "name": "EndoGI Medical",
   "description": "Developer of an advanced system for medical use, showcased during MAGIC 2022.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19113586
 }

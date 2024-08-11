@@ -10,7 +10,7 @@
   "linkedinId": "novo-nordisk",
   "crunchbaseId": null,
   "finderId": "novo-nordisk",
-  "xId": null,
+  "xId": "novonordisk",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "novonordisk",
+  "linkedinNum": 2227
 }

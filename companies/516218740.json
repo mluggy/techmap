@@ -1,0 +1,25 @@
+{
+  "name": "MOV.AI",
+  "description": "Platform for Autonomous Robot Development",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/mov-ai.webp",
+  "websiteUrl": "https://mov.ai/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 15232836,
+  "crunchbaseId": null,
+  "finderId": "mov-ai",
+  "xId": "MovAIRobots",
+  "facebookId": "MovAIRobotics",
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.074572496319455,
+      "lon": 34.79215180793938
+    }
+  ],
+  "isMultinational": false
+}

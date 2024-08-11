@@ -1,16 +1,16 @@
 {
-  "name": "Opereto Software Solutions",
+  "name": "Opereto",
   "description": "Advanced, enterprise-ready continuous testing framework.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/opereto_software_solutions-logo.webp",
-  "websiteUrl": "http://www.opereto.com/",
+  "websiteUrl": "https://www.opereto.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "opereto",
-  "xId": null,
+  "xId": "operetoinc",
   "addresses": [
     {
       "street": "הפרחים",
@@ -19,5 +19,7 @@
       "lat": 32.1798614,
       "lon": 34.85412657908202
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5120608
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Blender P 2 P Israel",
-  "description": "A top-tier tracker utilized by VFX professionals, offering production-ready camera and object tracking for importing raw footage.",
+  "name": "BLender",
+  "description": "Global Lending Platform",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/blender_p_2_p_israel-logo.webp",
-  "websiteUrl": "https://www.blender.org/",
+  "websiteUrl": "https://blender.global/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "blender",
-  "xId": null,
+  "xId": "BLender_Lending",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0835543,
       "lon": 34.8042074
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "blender.co.il",
+  "linkedinNum": 8000917
 }

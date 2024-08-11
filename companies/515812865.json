@@ -1,10 +1,10 @@
 {
-  "name": "Aivia",
-  "description": "Offering AI-powered image processing and analysis, this company enhances visualization and data extraction for microscopists and researchers.",
-  "categoryId": 1,
+  "name": "AIvIA",
+  "description": "AI Video Imagery Analysis",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/aivia-logo.webp",
-  "websiteUrl": "https://www.aivia-software.com/",
+  "websiteUrl": "https://www.ai-ia.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.070501,
       "lon": 34.785145
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19208565
 }

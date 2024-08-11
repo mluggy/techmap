@@ -1,16 +1,16 @@
 {
   "name": "Callflow Software",
-  "description": "מפתחת ומשווקת מערכות לניהול חוויית לקוח במרכזי שירות ומכירה בתחומים שונים כגון בנקאות, בריאות ותקשורת.",
+  "description": "In-store Customer Experience Solutions",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/callflow_software-logo.webp",
-  "websiteUrl": "https://www.callflow.com/",
+  "websiteUrl": "https://www.qnomy.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "callflow-software-ltd",
-  "xId": null,
+  "xId": "QnomyInc",
   "addresses": [
     {
       "street": "ריב\"ל",
@@ -19,5 +19,8 @@
       "lat": 32.062831,
       "lon": 34.782228
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "callflowsoftware",
+  "linkedinNum": 1471847
 }

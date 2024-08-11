@@ -1,5 +1,5 @@
 {
-  "name": "Carbon Blue",
+  "name": "CarbonBlue",
   "description": "Dedicated to combating ocean acidification by extracting and permanently sequestering excess CO2 from water, thus supporting global ecosystem balance.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "carbonblue-cc",
   "crunchbaseId": null,
   "finderId": "carbonblue",
-  "xId": null,
+  "xId": "CarbonBlue_cc",
   "addresses": [
     {
       "street": "הנמל",
@@ -19,5 +19,8 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100091003662932",
+  "linkedinNum": 90817084
 }

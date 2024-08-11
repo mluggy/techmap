@@ -1,15 +1,18 @@
 {
-  "name": "Amiad Car Serving Center",
-  "description": "A global leader in water treatment and filtration solutions, providing a wide array of products.",
+  "name": "Amiad",
+  "description": "Water Treatment and Filtration Solutions",
   "categoryId": 17,
   "size": "l",
   "logoFile": "logos/amiad_car_serving_center_ltd-logo.webp",
-  "websiteUrl": "https://us.amiad.com/",
+  "websiteUrl": "https://www.amiad.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "amiad",
-  "xId": null,
-  "addresses": []
+  "xId": "AmiadWaterSyst",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "AmiadWaterSystems",
+  "linkedinNum": 711932
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Medflyt Technology",
-  "description": "Access and manage nursing visits seamlessly through a user-friendly remote app.",
+  "name": "MedFlyt",
+  "description": "Platform for Healthcare Staffing",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/medflyt_technology-logo.webp",
-  "websiteUrl": "https://app.medflyt.com/",
+  "websiteUrl": "https://www.medflyt.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "medflyt",
-  "xId": null,
+  "xId": "MedFlyt",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "medflyt",
+  "linkedinNum": 17936000
 }

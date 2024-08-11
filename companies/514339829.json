@@ -4,7 +4,7 @@
   "categoryId": 1,
   "size": "xs",
   "logoFile": "logos/silantrix-logo.webp",
-  "websiteUrl": "http://www.silantrix.com/",
+  "websiteUrl": "https://www.silantrix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1679203,
       "lon": 34.9258365
     }
-  ]
+  ],
+  "isMultinational": false
 }

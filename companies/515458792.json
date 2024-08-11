@@ -1,10 +1,10 @@
 {
   "name": "Cybear Networks",
-  "description": "Virtual Cyber Analyst for SOC.",
+  "description": "SOC Virtual Cyber Analyst",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/cybear_networks-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.cybear.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cybear-networks",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CybearNetworks",
+  "linkedinNum": 17880332
 }

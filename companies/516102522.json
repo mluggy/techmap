@@ -1,5 +1,5 @@
 {
-  "name": "Codefuel",
+  "name": "CodeFuel",
   "description": "A division within Perion Network providing monetization solutions for digital platforms and search engines.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "codefuel",
   "crunchbaseId": null,
   "finderId": "codefuel",
-  "xId": null,
+  "xId": "Code_Fuel",
   "addresses": [
     {
       "street": "הרוקמים",
@@ -19,5 +19,8 @@
       "lat": 32.0077054,
       "lon": 34.80060304320986
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "codefuel.dev",
+  "linkedinNum": 3490231
 }

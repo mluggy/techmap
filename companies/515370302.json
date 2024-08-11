@@ -4,7 +4,7 @@
   "categoryId": 15,
   "size": "xs",
   "logoFile": "logos/sphinx_smarthead_technologies-logo.webp",
-  "websiteUrl": "http://www.sphinx-smarthead.com/",
+  "websiteUrl": "https://www.sphinx-smarthead.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7629908,
       "lon": 35.0551134
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11823697
 }

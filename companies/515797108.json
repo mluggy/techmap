@@ -1,10 +1,10 @@
 {
   "name": "Deltika",
-  "description": "Temporary Renting for Profit.",
-  "categoryId": 9,
+  "description": "Short-term Rental Arbitrage",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/deltika-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.deltika.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "deltika-ltd",
@@ -19,5 +19,7 @@
       "lat": 31.7950536,
       "lon": 34.6445409
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18516090
 }

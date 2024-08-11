@@ -1,15 +1,16 @@
 {
   "name": "Riosol",
-  "description": "פיתחה מערכת מקיפה לניהול ותיעוד כל שלבי גידול הקנאביס הרפואי, תוך עמידה מוקפדת בתקנים וברגולציה.",
-  "categoryId": 12,
+  "description": "Documentation of Greenhouse Cultivation and Activity in Post Harvest",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/riosol-logo.webp",
-  "websiteUrl": "https://www.riosol.co.il/",
+  "websiteUrl": "https://www.riosolltd.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "riosol",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false
 }

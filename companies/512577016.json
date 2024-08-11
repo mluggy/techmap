@@ -1,10 +1,10 @@
 {
-  "name": "Naki Plus",
-  "description": "Offering on-the-go powerbank rentals across 2000+ European venues, Naki keeps you charged and connected.",
-  "categoryId": 9,
+  "name": "NAKI",
+  "description": "Conversion of Food Industry Waste into Sustainable Aviation Fuel",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/naki_plus-logo.webp",
-  "websiteUrl": "https://naki.app/",
+  "websiteUrl": "https://www.naki-v.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1939803,
       "lon": 34.8205209
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90980398
 }

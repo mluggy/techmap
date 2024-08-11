@@ -1,5 +1,5 @@
 {
-  "name": "Sailpoint Technologies Israel",
+  "name": "SailPoint",
   "description": "Our AI-powered SaaS platform streamlines and secures identity management for modern enterprises.",
   "categoryId": 7,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "sailpoint-technologies",
   "crunchbaseId": null,
   "finderId": "sailpoint",
-  "xId": null,
+  "xId": "SailPoint",
   "addresses": [
     {
       "street": "נירים",
@@ -19,5 +19,8 @@
       "lat": 32.062277,
       "lon": 34.79049
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SailPoint",
+  "linkedinNum": 47456
 }

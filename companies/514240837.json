@@ -1,16 +1,16 @@
 {
-  "name": "Go Net Systems",
-  "description": "Offering comprehensive IT solutions with a focus on client priority, service culture, reliability, professionalism, and rapid development.",
-  "categoryId": 18,
+  "name": "GoNet Systems",
+  "description": "Broadband Wi-Fi Solutions",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/go_net_systems-logo.webp",
-  "websiteUrl": "http://www.go-net.co.il/",
+  "websiteUrl": "https://www.gonetworks.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "gonet-systems-ltd",
   "crunchbaseId": null,
   "finderId": "gonet-systems",
-  "xId": null,
+  "xId": "GoNETJAPAN",
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -19,5 +19,7 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 9481
 }

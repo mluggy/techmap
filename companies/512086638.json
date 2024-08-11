@@ -1,0 +1,25 @@
+{
+  "name": "Galmobile",
+  "description": "Mobile Potable Water Treatment System",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/galmobile.webp",
+  "websiteUrl": "https://galmobile.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 10692664,
+  "crunchbaseId": null,
+  "finderId": "galmobile",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": 10,
+      "city": "מגדל תפן",
+      "lat": 32.977499377767366,
+      "lon": 35.276107713742995
+    }
+  ],
+  "isMultinational": false
+}

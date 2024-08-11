@@ -1,5 +1,5 @@
 {
-  "name": "Afron Machinery",
+  "name": "Afron",
   "description": "Specializing in agricultural equipment for tree pruning and fruit picking since 1967.",
   "categoryId": 15,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.471635,
       "lon": 34.9769922
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "afron.machines"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "40 Seas",
+  "name": "40Seas",
   "description": "Offering a digital solution for seamless and flexible cross-border B2B payments, empowering global trade participants.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "40seas",
-  "xId": null,
+  "xId": "40seasinc",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,8 @@
       "lat": 32.073172,
       "lon": 34.797489
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "40seas",
+  "linkedinNum": 86825187
 }

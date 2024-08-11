@@ -1,5 +1,5 @@
 {
-  "name": "Vast Data",
+  "name": "VAST Data",
   "description": "Partnering with VAST Data, we offer a cutting-edge, secure environment for high-speed and cost-effective compute tasks like machine learning and rendering.",
   "categoryId": 6,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.vastdata.com/",
   "careersUrl": "https://vastdata.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "vast-data",
   "crunchbaseId": null,
   "finderId": "vast-data",
-  "xId": null,
+  "xId": "VAST_data",
   "addresses": [
     {
       "street": "שד' רוקח",
@@ -19,5 +19,8 @@
       "lat": 32.1043282,
       "lon": 34.8088651
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10489311,
+  "comeetId": "vastdata/43.001"
 }

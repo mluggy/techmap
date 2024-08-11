@@ -1,10 +1,10 @@
 {
-  "name": "Fibo Technologies",
-  "description": "Providing highly durable, waterproof wall systems for bathrooms, kitchens, and other high-use areas with easy installation.",
-  "categoryId": 17,
+  "name": "Fibo",
+  "description": "Digital Platform for Tax Refunds",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/fibo_technologies-logo.webp",
-  "websiteUrl": "https://fibosystemusa.com/",
+  "websiteUrl": "https://fibotax.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.068695,
       "lon": 34.782804
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fibotax",
+  "linkedinNum": 18612229
 }

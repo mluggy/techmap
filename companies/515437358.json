@@ -1,5 +1,5 @@
 {
-  "name": "Precise Bio 3 D",
+  "name": "Precise Bio",
   "description": "A platform that utilizes 3D printing and tissue engineering to create reproducible, scalable custom organs from a patient's cells.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 31.365950300110477,
       "lon": 35.111375207360915
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10439616
 }

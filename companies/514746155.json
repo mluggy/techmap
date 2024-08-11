@@ -1,5 +1,5 @@
 {
-  "name": "Augury Systems",
+  "name": "Augury",
   "description": "Revolutionizing manufacturing with AI-driven solutions for enhanced capacity, predictability, and sustainability.",
   "categoryId": 15,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "augury-systems",
   "crunchbaseId": null,
   "finderId": "augury",
-  "xId": null,
+  "xId": "augurysys",
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -19,5 +19,7 @@
       "lat": 32.823617,
       "lon": 34.9928356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "augurysys"
 }

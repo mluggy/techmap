@@ -1,5 +1,5 @@
 {
-  "name": "Amdocs Israel",
+  "name": "Amdocs",
   "description": "Leading provider of innovative software and services for communications and media companies, enhancing intelligent operations and delivery.",
   "categoryId": 18,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "amdocs",
   "crunchbaseId": null,
   "finderId": "amdocs",
-  "xId": null,
+  "xId": "amdocs",
   "addresses": [
     {
       "street": "דולב",
@@ -26,5 +26,8 @@
       "lat": 31.523018508473697,
       "lon": 34.60486161676057
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "amdocs",
+  "linkedinNum": 1539
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Hadran Citrus Products",
-  "description": "A user-friendly device for quickly applying different sized labels, featuring adjustable tape widths and a built-in microcontroller.",
-  "categoryId": 15,
+  "name": "HADRAN",
+  "description": "Automated Labeling System for Fruit and Vegetables",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/hadran_citrus_products-logo.webp",
-  "websiteUrl": "https://hadran-labelers.com/",
+  "websiteUrl": "https://hurstcanada.ca/hadran-labelers",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.889247992222792,
       "lon": 34.7827127167572
     }
-  ]
+  ],
+  "isMultinational": false
 }

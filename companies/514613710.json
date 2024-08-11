@@ -10,7 +10,7 @@
   "linkedinId": "telesofia-medical",
   "crunchbaseId": null,
   "finderId": "telesofia-medical",
-  "xId": null,
+  "xId": "telesofia",
   "addresses": [
     {
       "street": "פינסקר",
@@ -19,5 +19,8 @@
       "lat": 32.0980264,
       "lon": 34.8813922
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TelesofiaMedical",
+  "linkedinNum": 2242342
 }

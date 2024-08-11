@@ -1,5 +1,5 @@
 {
-  "name": "Augmedics",
+  "name": "AugMedics",
   "description": "Pioneering the first augmented reality guidance system for spine surgery, this innovative technology allows surgeons to visualize patient anatomy through skin and tissue for precise instrument and implant navigation.",
   "categoryId": 4,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "augmedics",
   "crunchbaseId": null,
   "finderId": "augmedics",
-  "xId": null,
+  "xId": "augmedics",
   "addresses": [
     {
       "street": "העוצמה",
@@ -19,5 +19,8 @@
       "lat": 32.670551813318475,
       "lon": 35.107360604191406
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5251279,
+  "comeetId": "augmedics/26.00C"
 }

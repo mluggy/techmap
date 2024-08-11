@@ -1,5 +1,5 @@
 {
-  "name": "Mobilityinsight",
+  "name": "Mobility Insight",
   "description": "Mobi leverages AI, predictive simulations, and IoT technology to optimize traffic management and identify bottlenecks for policymakers and transportation planners.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mobilityinsight",
-  "xId": null,
+  "xId": "mobi_insight",
   "addresses": [
     {
       "street": "רח 5083",
@@ -19,5 +19,7 @@
       "lat": 32.69700993586597,
       "lon": 35.290235561828155
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10435931
 }

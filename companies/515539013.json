@@ -1,5 +1,5 @@
 {
-  "name": "Ocucloud",
+  "name": "OcuCloud",
   "description": "Providing automated, user-friendly security software that proactively detects and prevents data breaches with real-time alerts and robust controls.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "ocucloud",
   "crunchbaseId": null,
   "finderId": "ocucloud",
-  "xId": null,
+  "xId": "ocucloud",
   "addresses": [
     {
       "street": "נחלת יצחק",
@@ -19,5 +19,8 @@
       "lat": 32.073975,
       "lon": 34.79994
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ocucloud",
+  "linkedinNum": 17901454
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "opster",
-  "xId": null,
+  "xId": "OpsterHQ",
   "addresses": [
     {
       "street": "השיזף",
@@ -19,5 +19,8 @@
       "lat": 32.1919424,
       "lon": 34.8855377
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OpsterHQ",
+  "linkedinNum": 28499299
 }

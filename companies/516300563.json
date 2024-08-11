@@ -10,7 +10,7 @@
   "linkedinId": "fireflyai",
   "crunchbaseId": null,
   "finderId": "firefly",
-  "xId": null,
+  "xId": "goFireflyio",
   "addresses": [
     {
       "street": "שאול המלך",
@@ -19,5 +19,7 @@
       "lat": 32.0753114,
       "lon": 34.7838583
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76526616
 }

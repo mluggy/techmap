@@ -1,5 +1,5 @@
 {
-  "name": "Aiola",
+  "name": "aiOla",
   "description": "Using patented technology, an AI platform captures industry-specific jargon and critical information in over 100 languages and various accents.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "aiola",
   "crunchbaseId": null,
   "finderId": "aiola",
-  "xId": null,
+  "xId": "_aiola",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,7 @@
       "lat": 32.161430249999995,
       "lon": 34.808588229913795
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "aiOlaLoop"
 }

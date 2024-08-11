@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.locusview.com/",
   "careersUrl": "https://www.locusview.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "locusview",
   "crunchbaseId": null,
   "finderId": "nortecview",
-  "xId": null,
+  "xId": "LocusView",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,9 @@
       "lat": 32.1589166,
       "lon": 34.8088984
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Locusview",
+  "linkedinNum": 4000129,
+  "comeetId": "locusview/25.002"
 }

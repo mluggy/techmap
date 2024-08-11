@@ -1,5 +1,5 @@
 {
-  "name": "Sense Education Israel",
+  "name": "Sense Education",
   "description": "Providing personalized feedback, guidance, and support to help learners understand subjects and improve their grades.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sense-education",
-  "xId": null,
+  "xId": "sense_education",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.065894,
       "lon": 34.782836578499996
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sense.education.inc",
+  "linkedinNum": 10440600
 }

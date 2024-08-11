@@ -1,10 +1,10 @@
 {
   "name": "Firmbase",
-  "description": "Offering seamless integration and easy access to business data, this solution eliminates silos and manual tasks, enabling smarter planning and dynamic financial modeling.",
-  "categoryId": 14,
+  "description": "Financial Planning and Analysis Platform",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/firmbase-logo.webp",
-  "websiteUrl": "https://www.firmbase.ai/",
+  "websiteUrl": "https://www.firmbase.io/",
   "careersUrl": "https://www.firmbase.ai/careers",
   "isHiring": true,
   "linkedinId": "firmbase-ai",
@@ -19,5 +19,7 @@
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74566024
 }

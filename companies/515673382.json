@@ -1,5 +1,5 @@
 {
-  "name": "Axonius Solutions",
+  "name": "Axonius",
   "description": "The platform enables IT and security teams to comprehensively manage and understand their digital assets and relationships.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "axonius",
   "crunchbaseId": null,
   "finderId": "axonius",
-  "xId": null,
+  "xId": "axoniusinc",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Axonius",
+  "linkedinNum": 18226665,
+  "greenhouseId": "axonius"
 }

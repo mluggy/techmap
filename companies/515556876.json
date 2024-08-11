@@ -1,16 +1,16 @@
 {
-  "name": "Jug Technologies",
-  "description": "An engaging storytelling toy that doesn't require a screen.",
-  "categoryId": 11,
+  "name": "Storyball",
+  "description": "Screen-free Interactive Storytelling Toy",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/jug_technologies-logo.webp",
-  "websiteUrl": "https://jugjugsportsbar.com/",
+  "websiteUrl": "https://www.mystoryball.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "jug-technologies",
   "crunchbaseId": null,
   "finderId": "jug",
-  "xId": null,
+  "xId": "MyStoryball",
   "addresses": [
     {
       "street": "האגם",
@@ -19,5 +19,8 @@
       "lat": 33.06250469577834,
       "lon": 35.611194633246775
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mystoryball",
+  "linkedinNum": 18378275
 }

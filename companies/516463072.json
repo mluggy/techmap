@@ -1,10 +1,10 @@
 {
   "name": "Veryo Studios",
-  "description": "Environmentally Friendly Mobile Games.",
-  "categoryId": 11,
+  "description": "Eco-conscious Mobile Gaming Apps",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/veryo_studios-logo.webp",
-  "websiteUrl": "https://www.apesrevenge.com/",
+  "websiteUrl": "https://veryostudios.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "veryo-studios",
@@ -19,5 +19,8 @@
       "lat": 32.0259042,
       "lon": 34.8058629
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VeryoStudios",
+  "linkedinNum": 70905896
 }

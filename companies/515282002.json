@@ -1,5 +1,5 @@
 {
-  "name": "Cropx Technologies",
+  "name": "CropX",
   "description": "An intuitive agronomy platform harnessing AI and machine learning to optimize farm management through real-time data integration.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cropx-ltd",
   "crunchbaseId": null,
   "finderId": "cropx",
-  "xId": null,
+  "xId": "crop_x",
   "addresses": [
     {
       "street": "גבורי ישראל",
@@ -19,5 +19,8 @@
       "lat": 32.276021814444555,
       "lon": 34.86095337458108
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CropXGlobal",
+  "linkedinNum": 10147582
 }

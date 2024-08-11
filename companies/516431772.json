@@ -1,16 +1,16 @@
 {
-  "name": "Multeez",
-  "description": "A service enabling the shared ownership of digital assets via API integration.",
+  "name": "Antic",
+  "description": "The Smart Checkout forShared Payments and Purchases",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/multeez-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.getantic.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "multeez",
-  "xId": null,
+  "xId": "Getantic",
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -19,5 +19,7 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76513125
 }

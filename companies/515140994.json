@@ -1,5 +1,5 @@
 {
-  "name": "Novartis Israel",
+  "name": "Novartis",
   "description": "An innovative company dedicated to reimagining medicine to improve and extend lives.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "novartis",
   "crunchbaseId": null,
   "finderId": "novartis",
-  "xId": null,
+  "xId": "novartis",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,8 @@
       "lat": 32.073249,
       "lon": 34.796032
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "NovartisIsrael",
+  "linkedinNum": 1406
 }

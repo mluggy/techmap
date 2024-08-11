@@ -1,10 +1,10 @@
 {
   "name": "Skillset Media",
-  "description": "Provides e-learning modules on diversity, equity, and inclusion with additional resources for media sharing and GDPR compliance in screen industries.",
-  "categoryId": 8,
+  "description": "Online Educational Platform for Sports Tutorials",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/skillset_media-logo.webp",
-  "websiteUrl": "https://www.screenskills.com/",
+  "websiteUrl": "https://skillset.tv/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "skillset-media",
@@ -19,5 +19,7 @@
       "lat": 31.9805486,
       "lon": 34.7623081
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12994395
 }

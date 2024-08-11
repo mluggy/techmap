@@ -1,10 +1,10 @@
 {
-  "name": "Food To You",
-  "description": "Crafting fresh, nutritious, and locally-sourced meals, our dedicated team redefines children's dining with uncompromising quality.",
-  "categoryId": 9,
+  "name": "FoodToYou",
+  "description": "Online Food Ordering and Delivery Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/food_to_you-logo.webp",
-  "websiteUrl": "https://www.food2youinc.com/",
+  "websiteUrl": "https://foodtoyou.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.781983,
       "lon": 35.2116351
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,0 +1,26 @@
+{
+  "name": "NEC Corporation",
+  "description": null,
+  "categoryId": 17,
+  "size": "xl",
+  "logoFile": "logos/nec.webp",
+  "websiteUrl": "https://www.nec.com/en/global/rd/labs/israel/index.html",
+  "careersUrl": "https://careers.nec.com/",
+  "isHiring": true,
+  "linkedinId": "nec",
+  "linkedinNum": 1696,
+  "crunchbaseId": null,
+  "finderId": "nec",
+  "xId": "NEC",
+  "facebookId": "nec.global",
+  "addresses": [
+    {
+      "street": "ריב\"ל",
+      "houseNumber": 7,
+      "city": "תל אביב - יפו",
+      "lat": 32.06302171157551,
+      "lon": 34.78226029167387
+    }
+  ],
+  "isMultinational": true
+}

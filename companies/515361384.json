@@ -1,5 +1,5 @@
 {
-  "name": "Accelario Software",
+  "name": "Accelario",
   "description": "A self-service platform streamlining complex DevOps test data management by automating key processes.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "accelario",
   "crunchbaseId": "accelario",
   "finderId": "accelario",
-  "xId": null,
+  "xId": "Accelario2",
   "addresses": [
     {
       "street": "שד נים",
@@ -19,5 +19,8 @@
       "lat": 31.949713600000003,
       "lon": 34.80328505744155
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Accelario-105614770849534",
+  "linkedinNum": 4832578
 }

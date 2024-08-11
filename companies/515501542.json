@@ -1,5 +1,5 @@
 {
-  "name": "Agamon Advertising And Observation",
+  "name": "Agamon",
   "description": "Leveraging Generative AI and behavioral-based automation, this digital health company ensures timely follow-ups to close care gaps.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "agamonhealth",
   "crunchbaseId": "agamon",
   "finderId": "agamon",
-  "xId": null,
+  "xId": "AgamonHealth",
   "addresses": [
     {
       "street": "כפר גלעדי",
@@ -19,5 +19,8 @@
       "lat": 32.0220894,
       "lon": 34.7712957
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "agamonhealth",
+  "linkedinNum": 18680103
 }

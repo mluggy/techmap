@@ -1,0 +1,25 @@
+{
+  "name": "EverC",
+  "description": "Risk Intelligence and Management Suite for E-commerce",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/everc.webp",
+  "websiteUrl": "https://everc.com/",
+  "careersUrl": "https://www.everc.com/careers",
+  "isHiring": true,
+  "linkedinNum": 68055417,
+  "crunchbaseId": null,
+  "finderId": "everc",
+  "xId": "EverCTeam",
+  "facebookId": "EverCTeam",
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.070263206361645,
+      "lon": 34.786520512468144
+    }
+  ],
+  "isMultinational": false
+}

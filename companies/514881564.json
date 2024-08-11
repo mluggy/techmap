@@ -1,5 +1,5 @@
 {
-  "name": "Zooz Power",
+  "name": "ZOOZ Power",
   "description": "Empowering firms worldwide to establish efficient, sustainable EV charging networks with enduring, high-performance solutions.",
   "categoryId": 17,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.zoozpower.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zooz-power",
   "crunchbaseId": null,
   "finderId": "zooz-power",
-  "xId": null,
+  "xId": "zoozpowerglobal",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,7 @@
       "lat": 31.9702691,
       "lon": 34.8981695
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2865502
 }

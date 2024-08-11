@@ -1,5 +1,5 @@
 {
-  "name": "Fuse Autotech",
+  "name": "FUSE Autotech",
   "description": "They offer an integrated platform simplifying car transactions and financing both online and at dealerships.",
   "categoryId": 5,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 31.7544321,
       "lon": 35.2168529
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FUSEautotech",
+  "linkedinNum": 71402078
 }

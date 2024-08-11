@@ -1,10 +1,10 @@
 {
-  "name": "E 2 C",
-  "description": "A free and robust platform for creating, sharing, and learning football tactics, exercises, and formations to enhance team performance.",
-  "categoryId": 14,
+  "name": "E2C",
+  "description": "Simple Smartphone for Seniors",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/e_2_c-logo.webp",
-  "websiteUrl": "https://tactics.easy2coach.net/",
+  "websiteUrl": "https://e2c.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0647098,
       "lon": 34.8649952
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BasicSmartphone",
+  "linkedinNum": 3088244
 }

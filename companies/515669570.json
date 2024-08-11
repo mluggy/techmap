@@ -1,10 +1,10 @@
 {
   "name": "We Go Vision",
-  "description": "A free service instantly translating words, phrases, and web pages from English to over 100 languages.",
-  "categoryId": 1,
+  "description": "Wearable Navigation System for the Blind and Visually Impaired",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/we_go_vision-logo.webp",
-  "websiteUrl": "https://translate.google.co.il/",
+  "websiteUrl": "https://www.vidi2see.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1575187,
       "lon": 34.9015488
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ceo.vidi2see"
 }

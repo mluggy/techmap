@@ -1,5 +1,5 @@
 {
-  "name": "Comtainer",
+  "name": "ComTainer",
   "description": "This tech firm revolutionizes global consolidation with a real-time, online platform, replacing outdated manual processes and Excel, to manage the entire shipment cycle.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 31.8093624,
       "lon": 34.789452
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ComTainerLTD",
+  "linkedinNum": 66317595
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Sick Sensors",
+  "name": "SICK",
   "description": "SICK is a global leader in sensor technology, providing innovative solutions for industrial automation, safety, and environmental monitoring.",
   "categoryId": 15,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "sicksensorintelligence",
   "crunchbaseId": null,
   "finderId": "sick",
-  "xId": null,
+  "xId": "solutionstour",
   "addresses": [
     {
       "street": "בזלת צור יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.2179505,
       "lon": 34.9827171
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "sicksensorintelligence",
+  "linkedinNum": 12346
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Bluesnap",
-  "description": "Integrate a seamless global payments solution into your software platform to enhance user satisfaction, boost revenue, and expedite market entry.",
+  "name": "BlueSnap",
+  "description": "All-in-one Payment Platform for Businesses",
   "categoryId": 10,
   "size": "l",
   "logoFile": "logos/bluesnap-logo.webp",
-  "websiteUrl": "https://www.bluesnap.com/",
+  "websiteUrl": "https://home.bluesnap.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bluesnap",
   "crunchbaseId": null,
   "finderId": "bluesnap",
-  "xId": null,
+  "xId": "BlueSnapInc",
   "addresses": [
     {
       "street": "מדינת היהודים",
@@ -19,5 +19,8 @@
       "lat": 32.166149,
       "lon": 34.8092663
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bluesnapmerchants",
+  "linkedinNum": 52768
 }

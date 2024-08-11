@@ -1,5 +1,5 @@
 {
-  "name": "Imonomy Interactive",
+  "name": "imonomy",
   "description": "A platform enhancing in-image ad performance by providing comprehensive insights and maximizing revenue.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "imonomy",
   "crunchbaseId": "imonomy-interactive",
   "finderId": "imonomy",
-  "xId": null,
+  "xId": "imonomy",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,8 @@
       "lat": 32.083993,
       "lon": 34.8007991
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "imonomy",
+  "linkedinNum": 2433209
 }

@@ -1,10 +1,10 @@
 {
   "name": "Nano Retina",
-  "description": "Advanced Vision Enhancement.",
+  "description": "Artificial Retina",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/nano_retina-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.nano-retina.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "nano-retina",
@@ -19,5 +19,7 @@
       "lat": 32.1666758,
       "lon": 34.8115802
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1342098
 }

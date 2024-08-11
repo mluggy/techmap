@@ -1,0 +1,25 @@
+{
+  "name": "Nostromo Energy",
+  "description": "Water-based Energy Storage Technology",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/nostromo-energy.webp",
+  "websiteUrl": "https://nostromo.energy",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 12894010,
+  "crunchbaseId": null,
+  "finderId": "nostromo-energy",
+  "xId": "NostromoE",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 10,
+      "city": "תל אביב - יפו",
+      "lat": 32.107439633606454,
+      "lon": 34.83718462579054
+    }
+  ],
+  "isMultinational": false
+}

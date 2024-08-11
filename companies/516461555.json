@@ -1,16 +1,16 @@
 {
-  "name": "One Layer",
-  "description": "Committed to enhancing utility networks with leading security and asset management solutions for private cellular devices, pushing towards a secure and resilient grid.",
+  "name": "OneLayer",
+  "description": "Zero Trust Security and Asset Management for Private 5G/LTE Devices",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/one_layer-logo.webp",
-  "websiteUrl": "https://onelayer.com/",
+  "websiteUrl": "https://one-layer.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "one-layer",
   "crunchbaseId": null,
   "finderId": "onelayer",
-  "xId": null,
+  "xId": "OneLayerCyber",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79975818
 }

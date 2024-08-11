@@ -1,16 +1,16 @@
 {
   "name": "Litwise",
-  "description": "A free app that helps friends and roommates manage and split shared expenses.",
-  "categoryId": 10,
+  "description": "Educational and Technological Solutions for Writers",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/litwise-logo.webp",
-  "websiteUrl": "https://www.splitwise.com/",
+  "websiteUrl": "https://litwise.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "litwise",
-  "xId": null,
+  "xId": "litwisehq",
   "addresses": [
     {
       "street": "הנטקה",
@@ -19,5 +19,8 @@
       "lat": 32.782442700000004,
       "lon": 34.995606449863175
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "litwise",
+  "linkedinNum": 10153922
 }

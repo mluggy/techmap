@@ -1,5 +1,5 @@
 {
-  "name": "Comodo Technologies",
+  "name": "Feetium",
   "description": "Providing a seamless and enjoyable digital shopping experience through accurate 3D foot renderings, fostering customer loyalty and repeat purchases.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "comodo-technologies",
-  "xId": null,
+  "xId": "feetium_",
   "addresses": [
     {
       "street": "סלע",
@@ -19,5 +19,7 @@
       "lat": 32.1408009,
       "lon": 34.8345815
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17992768
 }

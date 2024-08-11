@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "freightos",
-  "xId": null,
+  "xId": "freightos",
   "addresses": [
     {
       "street": "אגודת ספורט הפועל",
@@ -19,5 +19,8 @@
       "lat": 31.7507813,
       "lon": 35.184892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Freightos",
+  "linkedinNum": 2843986
 }

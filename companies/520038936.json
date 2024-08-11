@@ -10,7 +10,7 @@
   "linkedinId": "gilat-satellite-networks",
   "crunchbaseId": null,
   "finderId": "gilat-satellite-networks",
-  "xId": null,
+  "xId": "GilatSatNet",
   "addresses": [
     {
       "street": "יגיע כפיים",
@@ -19,5 +19,9 @@
       "lat": 32.0966598,
       "lon": 34.854771346954784
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Gilat.Satellite.Networks",
+  "linkedinNum": 7934,
+  "comeetId": "gilat/39.005"
 }

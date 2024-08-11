@@ -1,5 +1,5 @@
 {
-  "name": "Linkedin Israel",
+  "name": "LinkedIn",
   "description": "A platform to manage professional identities, network, and access valuable insights and opportunities.",
   "categoryId": 8,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "linkedin",
-  "xId": null,
+  "xId": "LinkedIn",
   "addresses": [
     {
       "street": "רוקח שמעון",
@@ -19,5 +19,7 @@
       "lat": 32.060472,
       "lon": 34.7657446
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "LinkedIn"
 }

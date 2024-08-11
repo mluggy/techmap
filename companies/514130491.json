@@ -1,5 +1,5 @@
 {
-  "name": "Jfrog",
+  "name": "JFrog",
   "description": "They provide an end-to-end solution for automatically delivering secure software updates from build to production across all devices.",
   "categoryId": 6,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://jfrog.com/",
   "careersUrl": "https://join.jfrog.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "jfrog-ltd",
   "crunchbaseId": null,
   "finderId": "jfrog",
-  "xId": null,
+  "xId": "jfrog",
   "addresses": [
     {
       "street": "המחשב",
@@ -19,5 +19,9 @@
       "lat": 32.288215199999996,
       "lon": 34.86509507625543
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "artifrog",
+  "linkedinNum": 455737,
+  "greenhouseId": "jfrog"
 }

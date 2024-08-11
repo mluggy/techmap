@@ -1,16 +1,16 @@
 {
   "name": "Yaballe",
-  "description": "This leading eCommerce platform enhances sales and sustainability through seamless automation and advanced listing features, available globally with a free trial.",
-  "categoryId": 9,
+  "description": "Automated Dropshipping Solutions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/yaballe-logo.webp",
-  "websiteUrl": "https://welcome.yaballe.com/",
+  "websiteUrl": "https://yaballe.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "yaballe",
   "crunchbaseId": null,
   "finderId": "yaballe",
-  "xId": null,
+  "xId": "_yaballe",
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -19,5 +19,8 @@
       "lat": 32.1630763,
       "lon": 34.8150141
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "yaballe.ds",
+  "linkedinNum": 18618958
 }

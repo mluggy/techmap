@@ -1,10 +1,10 @@
 {
-  "name": "Solo Project",
-  "description": "A community-driven finance platform enabling members to borrow, lend, and manage finances independently and fee-free.",
-  "categoryId": 10,
+  "name": "Solo",
+  "description": "Using Emotion-based Data for Increased Engagement",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/solo_project-logo.webp",
-  "websiteUrl": "https://solofunds.com/",
+  "websiteUrl": "https://www.imsolo.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.074827814894704,
       "lon": 34.81148396123929
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 20489071
 }

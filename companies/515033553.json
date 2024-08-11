@@ -1,13 +1,13 @@
 {
-  "name": "Payme",
-  "description": "Providing instant, no-cost payroll advance services to improve employee retention and recruitment with comprehensive support.",
+  "name": "PayMe",
+  "description": "Embedded Financial Platform",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/payme-logo.webp",
-  "websiteUrl": "https://payme.tokyo/",
+  "websiteUrl": "https://payme.io",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "payme-io",
   "crunchbaseId": null,
   "finderId": "payme",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0723,
       "lon": 34.797175
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PayMeService",
+  "linkedinNum": 9185039
 }

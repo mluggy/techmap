@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "personalics",
-  "xId": null,
+  "xId": "personalics",
   "addresses": [
     {
       "street": "מזא\"ה",
@@ -19,5 +19,8 @@
       "lat": 32.065683,
       "lon": 34.779207
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "personalics",
+  "linkedinNum": 5395882
 }

@@ -10,7 +10,7 @@
   "linkedinId": "atrinet",
   "crunchbaseId": null,
   "finderId": "atrinet",
-  "xId": null,
+  "xId": "atrinet1",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,7 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5024166
 }

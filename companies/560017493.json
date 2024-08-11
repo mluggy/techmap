@@ -1,0 +1,26 @@
+{
+  "name": "AT&T",
+  "description": null,
+  "categoryId": 18,
+  "size": "xl",
+  "logoFile": "logos/at-t.webp",
+  "websiteUrl": "https://il.att.com/",
+  "careersUrl": "https://www.att.jobs/",
+  "isHiring": true,
+  "linkedinId": "at-t-israel-r-d-center",
+  "linkedinNum": 37482211,
+  "crunchbaseId": null,
+  "finderId": "at-t",
+  "xId": "ATT",
+  "facebookId": "attrndil",
+  "addresses": [
+    {
+      "street": "נגב",
+      "houseNumber": 2,
+      "city": "קריית שדה התעופה",
+      "lat": 31.987335608268868,
+      "lon": 34.912853521517434
+    }
+  ],
+  "isMultinational": true
+}

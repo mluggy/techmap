@@ -1,5 +1,5 @@
 {
-  "name": "Onmap",
+  "name": "OnMap",
   "description": "A cutting-edge real estate platform designed for renters, landlords, sellers, and buyers, offering thousands of updated property listings.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "onmap",
-  "xId": null,
+  "xId": "OnMap_ltd",
   "addresses": [
     {
       "street": "פיק\"א",
@@ -19,5 +19,8 @@
       "lat": 31.9730344,
       "lon": 34.8099297
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "onmapltd",
+  "linkedinNum": 10694773
 }

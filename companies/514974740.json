@@ -1,10 +1,10 @@
 {
   "name": "Metabomed",
-  "description": "Cancer treatments that block specific targets.",
+  "description": "Target-inhibiting Anticancer Drugs",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/metabomed-logo.webp",
-  "websiteUrl": "https://www.meta-biomed.com/",
+  "websiteUrl": "https://www.metabomed.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "metabomed-ltd-",
@@ -19,5 +19,7 @@
       "lat": 31.8863191,
       "lon": 34.73453
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 9341600
 }

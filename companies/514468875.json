@@ -1,16 +1,16 @@
 {
   "name": "Simply",
-  "description": "A premium, free digital card offering impressive cashback rewards.",
-  "categoryId": 10,
+  "description": "Music Education Apps",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/simply-logo.webp",
-  "websiteUrl": "https://www.simply.cards/",
+  "websiteUrl": "https://www.hellosimply.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "simply-joytunes",
   "crunchbaseId": null,
   "finderId": "joytunes",
-  "xId": null,
+  "xId": "hellosimply",
   "addresses": [
     {
       "street": "איסרליש",
@@ -19,5 +19,8 @@
       "lat": 32.07103585,
       "lon": 34.79219333800788
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hellosimply",
+  "linkedinNum": 908804
 }

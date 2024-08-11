@@ -1,5 +1,5 @@
 {
-  "name": "Ramon Space",
+  "name": "Ramon.Space",
   "description": "We engineer state-of-the-art space resilient computing systems that are the core of new space satellites and space missions.",
   "categoryId": 3,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "ramonspace",
   "crunchbaseId": null,
   "finderId": "ramon-chips",
-  "xId": null,
+  "xId": "ramonspace_",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,7 @@
       "lat": 32.6613363,
       "lon": 35.1045936
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3183517
 }

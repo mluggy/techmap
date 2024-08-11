@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "inqwise",
-  "xId": null,
+  "xId": "inqwise",
   "addresses": [
     {
       "street": "הרב ניסנבוים יצחק",
@@ -19,5 +19,8 @@
       "lat": 32.023015548758714,
       "lon": 34.79118934928326
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "inqwise",
+  "linkedinNum": 2390531
 }

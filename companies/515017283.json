@@ -1,5 +1,5 @@
 {
-  "name": "Shapedo",
+  "name": "ShapeDo",
   "description": "Effortlessly synchronize and review drawings for instantaneous comparison and streamlined approval by relevant stakeholders.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "shapedo",
-  "xId": null,
+  "xId": "shape_do",
   "addresses": [
     {
       "street": "נחליאלי",
@@ -19,5 +19,8 @@
       "lat": 31.8953961,
       "lon": 34.9927446
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "shapedo",
+  "linkedinNum": 5015898
 }

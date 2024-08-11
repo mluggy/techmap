@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "quttera",
-  "xId": null,
+  "xId": "quttera",
   "addresses": [
     {
       "street": "שבט שמעון",
@@ -19,5 +19,8 @@
       "lat": 31.779193654952387,
       "lon": 34.63515557453088
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Quttera",
+  "linkedinNum": 3089514
 }

@@ -1,10 +1,10 @@
 {
   "name": "Securepush",
-  "description": "Security Solutions for Internet-Connected Devices.",
+  "description": "IoT Security Solutions",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/securepush-logo.webp",
-  "websiteUrl": "https://pushsecurity.com/",
+  "websiteUrl": "https://ioten.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "securepush",
@@ -19,5 +19,8 @@
       "lat": 33.0341693,
       "lon": 35.1031644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ioten123",
+  "linkedinNum": 18167112
 }

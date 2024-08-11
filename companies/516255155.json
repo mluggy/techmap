@@ -1,10 +1,10 @@
 {
   "name": "Cirotta Tech",
-  "description": "A phone case that protects against hacking.",
+  "description": "Anti-hacking Phone Case",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/cirotta_tech-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://cirotta.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cirotta",
@@ -19,5 +19,7 @@
       "lat": 32.19630935,
       "lon": 34.88423473965118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68119980
 }

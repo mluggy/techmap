@@ -1,5 +1,5 @@
 {
-  "name": "Okoora Automated Business Currency Management",
+  "name": "Okoora",
   "description": "Enable seamless global transactions, optimize expense management, and quickly adapt to market changes to save resources.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "okoora",
   "crunchbaseId": null,
   "finderId": "okoora",
-  "xId": null,
+  "xId": "OkooraOfficial",
   "addresses": [
     {
       "street": "ששת הימים",
@@ -19,5 +19,9 @@
       "lat": 32.0984539,
       "lon": 34.8282998
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "okoora2022",
+  "linkedinNum": 77576835,
+  "comeetId": "okoora/85.00C"
 }

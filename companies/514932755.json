@@ -1,5 +1,5 @@
 {
-  "name": "Qspark",
+  "name": "qSpark",
   "description": "This company offers cutting-edge trading platforms that empower high-frequency traders to maximize the effectiveness of their algorithms.",
   "categoryId": 10,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.066035,
       "lon": 34.782959
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 9299295
 }

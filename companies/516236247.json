@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "enso-security",
-  "xId": null,
+  "xId": "enso_security",
   "addresses": [
     {
       "street": "יבנה",
@@ -19,5 +19,8 @@
       "lat": 32.063565,
       "lon": 34.774039
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ensosec",
+  "linkedinNum": 69252630
 }

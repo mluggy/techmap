@@ -1,10 +1,10 @@
 {
   "name": "Validoo",
-  "description": "Provides secure first-time login credentials for personalized customer access through a unique key.",
-  "categoryId": 7,
+  "description": "Automated Verification for Digitization Workflows",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/validoo-logo.webp",
-  "websiteUrl": "https://www2.valido-max.com/",
+  "websiteUrl": "https://www.validoo.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2293692,
       "lon": 35.0043645
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 69058612
 }

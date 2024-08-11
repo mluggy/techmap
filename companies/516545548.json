@@ -1,5 +1,5 @@
 {
-  "name": "Venturefy Technologies",
+  "name": "venturefy",
   "description": "Utilizing artificial intelligence, the company offers a public wiki of verified corporate relationships.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "venturefyai",
   "crunchbaseId": "venturefy",
   "finderId": "venturefy",
-  "xId": null,
+  "xId": "venturefy",
   "addresses": [
     {
       "street": "כנפי נשרים",
@@ -19,5 +19,8 @@
       "lat": 31.78761,
       "lon": 35.18095954927904
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "venturefyai",
+  "linkedinNum": 84529933
 }

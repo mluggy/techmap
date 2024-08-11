@@ -1,5 +1,5 @@
 {
-  "name": "Migvax",
+  "name": "MigVax",
   "description": "This innovative vaccine leverages a chimeric protein to activate mucosal, blood-based, and cell-mediated immunity, ensuring robust and comprehensive protection against infections.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 33.19620439350544,
       "lon": 35.57492703272195
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82100394
 }

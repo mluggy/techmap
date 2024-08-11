@@ -1,5 +1,5 @@
 {
-  "name": "Bufferzone Security",
+  "name": "BUFFERZONE",
   "description": "Providing endpoint protection through isolated browsing and removable media, utilizing advanced Content Disarm & Reconstruction to counter ransomware, zero-days, and phishing threats.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "trustware",
-  "xId": null,
+  "xId": "BufferZoneSec",
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -19,5 +19,8 @@
       "lat": 32.1640314,
       "lon": 34.8154209
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BufferZonePro",
+  "linkedinNum": 1409549
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Fts Cloud Based Management Solutions",
-  "description": "Provides tutorials, humanitarian aid contributions, and funding information processed annually, coordinating internal and external plans for donors.",
-  "categoryId": 6,
+  "name": "FTS",
+  "description": "Convergent Billing, Charging, and Policy Control",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/fts_cloud_based_management_solutions-logo.webp",
-  "websiteUrl": "https://fts.unocha.org/",
+  "websiteUrl": "https://www.fts-soft.com/",
   "careersUrl": "https://ftsco.com/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fts",
-  "xId": null,
+  "xId": "FTS_Billing",
   "addresses": [
     {
       "street": "יהדות קנדה",
@@ -19,5 +19,7 @@
       "lat": 32.0236202,
       "lon": 34.8599045
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 9009
 }

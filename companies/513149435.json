@@ -1,16 +1,16 @@
 {
-  "name": "Fermata D Trade",
-  "description": "The company offers advanced vehicle-to-grid (V2G), vehicle-to-building (V2B), and vehicle-to-home (V2H) systems that enable users to generate revenue or cut costs.",
-  "categoryId": 5,
+  "name": "Fermata",
+  "description": "AI Pest and Disease Detection",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/fermata_d_trade-logo.webp",
-  "websiteUrl": "https://fermataenergy.com/",
+  "websiteUrl": "https://fermata.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fermata",
-  "xId": null,
+  "xId": "FermataTech",
   "addresses": [
     {
       "street": "רא\"ל יגאל ידין",
@@ -19,5 +19,8 @@
       "lat": 31.905681733313447,
       "lon": 35.00404683476471
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FermataTechnology",
+  "linkedinNum": 19152085
 }

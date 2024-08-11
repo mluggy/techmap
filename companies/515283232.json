@@ -1,10 +1,10 @@
 {
-  "name": "Trioxnano",
-  "description": "Customizable treatments utilizing synthetic DNA-based molecular devices.",
+  "name": "TrioxNano",
+  "description": "Programmable Medicine using synthetic DNA molecular machines",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/trioxnano-logo.webp",
-  "websiteUrl": "https://programedicine.com/",
+  "websiteUrl": "https://www.trioxnano.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "trioxnano-programmed-medicine",
@@ -19,5 +19,6 @@
       "lat": 31.9137859,
       "lon": 34.8024773
     }
-  ]
+  ],
+  "isMultinational": false
 }

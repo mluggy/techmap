@@ -1,16 +1,16 @@
 {
   "name": "Glean Labs",
-  "description": "Providing a centralized, low-code/no-code AI platform with extensive connectors for seamless, scalable integration of generative AI across your business.",
-  "categoryId": 1,
+  "description": "AI-powered Employee Competency Mapping Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/glean_labs-logo.webp",
-  "websiteUrl": "https://www.glean.com/",
+  "websiteUrl": "https://www.gleanlabs.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "glean-labs",
   "crunchbaseId": "glean-labs",
   "finderId": "glean-labs",
-  "xId": null,
+  "xId": "GleanLabs",
   "addresses": [
     {
       "street": "שד' ההשכלה",
@@ -19,5 +19,7 @@
       "lat": 32.068536,
       "lon": 34.79593
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27115052
 }

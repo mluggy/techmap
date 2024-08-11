@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "telrad-networks",
-  "xId": null,
+  "xId": "telradnetworks",
   "addresses": [
     {
       "street": "רקפת",
@@ -19,5 +19,8 @@
       "lat": 32.019876477752156,
       "lon": 34.96203664588395
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "telrad",
+  "linkedinNum": 166322
 }

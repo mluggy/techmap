@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "typemock",
-  "xId": null,
+  "xId": "typemock",
   "addresses": [
     {
       "street": "סירקין",
@@ -19,5 +19,8 @@
       "lat": 32.080418,
       "lon": 34.7717
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "typemock",
+  "linkedinNum": 217450
 }

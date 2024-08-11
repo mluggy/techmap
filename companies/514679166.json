@@ -1,5 +1,5 @@
 {
-  "name": "Bond I T",
+  "name": "BondIT",
   "description": "Leveraging AI-driven predictive Credit Analytics, our platform assesses extensive data to gauge issuer-specific credit risk and uncover investment opportunities.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "bondit",
   "crunchbaseId": null,
   "finderId": "bondit",
-  "xId": null,
+  "xId": "BondIT_fintech",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,7 @@
       "lat": 32.16222215,
       "lon": 34.80753269535335
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3222746
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Agrint Sensing Solutions",
+  "name": "Agrint",
   "description": "Innovative management system leveraging data to enhance field team coordination, treatment processes, harvesting, and tree productivity.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "agrint",
   "crunchbaseId": "agrint",
   "finderId": "agrint",
-  "xId": null,
+  "xId": "AgrintSensing",
   "addresses": [
     {
       "street": "אפק",
@@ -19,5 +19,8 @@
       "lat": 32.1388053,
       "lon": 34.8982531
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Agrint-Sensing-Solutions-Ltd-1720505334866838",
+  "linkedinNum": 19092678
 }

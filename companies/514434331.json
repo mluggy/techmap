@@ -1,10 +1,10 @@
 {
-  "name": "Telcon Diamond",
-  "description": "A comprehensive provider of electro-mechanical assemblies, machined components, and precision radiation shielding solutions.",
-  "categoryId": 3,
+  "name": "Telcon",
+  "description": "Manufacturer of Diamond-tipped Drills and Countersinks",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/telcon_diamond-logo.webp",
-  "websiteUrl": "https://www.telcon.us/",
+  "websiteUrl": "https://www.telconpcd.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.6347679,
       "lon": 35.3368155
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TelconPCD",
+  "linkedinNum": 301720
 }

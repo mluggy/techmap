@@ -1,5 +1,5 @@
 {
-  "name": "Twill Isr",
+  "name": "Twill",
   "description": "Enhancing mental well-being through interactive, scientifically-proven tools that develop vital life skills.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "twill",
-  "xId": null,
+  "xId": "twillhealth",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,7 @@
       "lat": 32.109636,
       "lon": 34.837396
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3155228
 }

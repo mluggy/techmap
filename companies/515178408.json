@@ -1,5 +1,5 @@
 {
-  "name": "Barracuda Networks Israel",
+  "name": "Barracuda Networks",
   "description": "Offering comprehensive multi-layered protection against advanced threats across major vectors.",
   "categoryId": 7,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "barracuda-networks",
   "crunchbaseId": null,
   "finderId": "barracuda-networks",
-  "xId": null,
+  "xId": "barracuda",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0853375,
       "lon": 34.8037829
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "BarracudaNetworks",
+  "linkedinNum": 13957
 }

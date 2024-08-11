@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "codename-one",
-  "xId": null,
+  "xId": "Codename_One",
   "addresses": [
     {
       "street": "יורם קניוק",
@@ -19,5 +19,8 @@
       "lat": 32.068446,
       "lon": 34.784136
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CodenameOne",
+  "linkedinNum": 5041007
 }

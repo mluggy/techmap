@@ -1,10 +1,10 @@
 {
-  "name": "Emc Amazon Lifetree",
+  "name": "Dell EMC",
   "description": "Dell EMC provides infrastructure solutions that enable organizations to modernize, automate, and transform their data centers using industry-leading converged infrastructure, servers, storage, and cybersecurity technologies.",
-  "categoryId": 6,
   "size": "l",
+  "categoryId": 6,
   "logoFile": "logos/emc_amazon_lifetree-logo.webp",
-  "websiteUrl": "https://emcamazon.com/",
+  "websiteUrl": "https://www.dell.com/he-il/dt/corporate/coe/index.htm",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7802439,
       "lon": 35.2167191
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 1128
 }

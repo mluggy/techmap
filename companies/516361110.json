@@ -1,10 +1,10 @@
 {
   "name": "Treat Me",
-  "description": "Comprehensive Recovery Care Focused on Patients' Needs.",
+  "description": "Patient-centric Integrated Recovery Solution",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/treat_me-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.treatme.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.062912194932366,
       "lon": 34.854031104743186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79976879
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Xfind",
+  "name": "xFind",
   "description": "Enhancing team productivity and customer satisfaction, they positively impact the success of support organizations.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "xfind",
-  "xId": null,
+  "xId": "xfindai",
   "addresses": [
     {
       "street": "האלון",
@@ -19,5 +19,8 @@
       "lat": 31.824140505234173,
       "lon": 35.13239065922309
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "xfindai",
+  "linkedinNum": 27204181
 }

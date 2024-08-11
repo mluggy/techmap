@@ -1,10 +1,10 @@
 {
-  "name": "Pam Bio",
-  "description": "A cooperative entity uniting over 180 stakeholders, including producers, associations, and businesses, to create a vibrant community hub in the city center.",
+  "name": "PamBio",
+  "description": "Antifibrinolytic Therapy for Acute Bleeding Conditions",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/pam_bio-logo.webp",
-  "websiteUrl": "https://www.pambio.fr/",
+  "websiteUrl": "https://www.ngt3vc.com/pambio/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,10 +1,10 @@
 {
   "name": "Headovations",
-  "description": "Founded in 2014 by Ben Cohen Gazit, Headovations specializes in creating comfortable and safe travel solutions for children.",
-  "categoryId": 5,
+  "description": "Head Support Solutions",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/headovations-logo.webp",
-  "websiteUrl": "https://www.headovations.com/",
+  "websiteUrl": "https://www.mynapup.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "headovations",
@@ -19,5 +19,7 @@
       "lat": 32.120399,
       "lon": 34.840216
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mynapup"
 }

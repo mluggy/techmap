@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "substrata",
-  "xId": null,
+  "xId": "SubstrataHQ",
   "addresses": [
     {
       "street": "ביל\"ו",
@@ -19,5 +19,8 @@
       "lat": 32.072757,
       "lon": 34.781009
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "substrata.me",
+  "linkedinNum": 13997175
 }

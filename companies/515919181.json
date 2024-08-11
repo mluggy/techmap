@@ -1,16 +1,16 @@
 {
-  "name": "Tuki Jets",
-  "description": "Get top-notch, durable padded covers for amps and speakers with an extensive selection and custom options available.",
-  "categoryId": 9,
+  "name": "Tuki",
+  "description": "Unified Communications Lifecycle Management Solution",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/tuki_jets-logo.webp",
-  "websiteUrl": "https://www.tukicovers.com/",
+  "websiteUrl": "https://www.tuki.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tuki-2",
-  "xId": null,
+  "xId": "UCTuki",
   "addresses": [
     {
       "street": "דבורה הנביאה",
@@ -19,5 +19,7 @@
       "lat": 32.113198,
       "lon": 34.844295
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10350735
 }

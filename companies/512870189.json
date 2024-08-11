@@ -1,10 +1,10 @@
 {
   "name": "Mistral Detection",
-  "description": "We specialize in providing high-quality, advanced technologies and tailored solutions that meet your operational needs through transparent and personalized service.",
-  "categoryId": 7,
+  "description": "Defense Industry Technology",
+  "categoryId": 3,
   "size": "m",
   "logoFile": "logos/mistral_detection-logo.webp",
-  "websiteUrl": "https://www.mistralsecurityinc.com/",
+  "websiteUrl": "https://www.mistralgroup.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1668445,
       "lon": 34.8115866
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1538949
 }

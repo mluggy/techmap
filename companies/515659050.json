@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "orbs",
-  "xId": null,
+  "xId": "orbs_network",
   "addresses": [
     {
       "street": "רב אלוף דוד אלעזר",
@@ -19,5 +19,7 @@
       "lat": 32.072099,
       "lon": 34.788187
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27118944
 }

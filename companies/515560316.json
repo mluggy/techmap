@@ -1,10 +1,10 @@
 {
-  "name": "Freewill",
-  "description": "This platform offers a straightforward, cost-free solution to create legally binding wills with expert guidance.",
+  "name": "FREEWILL",
+  "description": "Stroller and Wheelchair Connector",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/freewill-logo.webp",
-  "websiteUrl": "https://www.freewill.com/",
+  "websiteUrl": "https://www.freewill-design.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.480500649999996,
       "lon": 34.981834130755885
     }
-  ]
+  ],
+  "isMultinational": false
 }

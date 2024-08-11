@@ -1,10 +1,10 @@
 {
   "name": "Twilight Cyber",
-  "description": "A free service providing instant translation for texts and web pages in over 100 languages.",
+  "description": "Asset Monitoring and Breach Detection Platform",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/twilight_cyber-logo.webp",
-  "websiteUrl": "https://translate.google.com/",
+  "websiteUrl": "https://www.twilightcyber.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "twilight-cyber",
@@ -19,5 +19,7 @@
       "lat": 32.9911704,
       "lon": 35.6872193
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 80057288
 }

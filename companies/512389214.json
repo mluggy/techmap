@@ -1,5 +1,5 @@
 {
-  "name": "Orsense",
+  "name": "OrSense",
   "description": "Based in Tel Aviv-Yafo, this company is reachable through various contact methods including phone, fax, and email for inquiries and information.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.10981,
       "lon": 34.838876
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 105808
 }

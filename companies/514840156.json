@@ -1,16 +1,16 @@
 {
-  "name": "Linnovate Technologies",
-  "description": "A proprietary, cloud-based ecosystem powering asset services through seamless platform integration.",
-  "categoryId": 6,
+  "name": "Linnovate",
+  "description": "Open-source Web Development Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/linnovate_technologies-logo.webp",
-  "websiteUrl": "https://www.linnovatepartners.com/",
+  "websiteUrl": "https://www.linnovate.net",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": "linnovate-partners",
+  "linkedinId": "linnovate-ltd",
   "crunchbaseId": "linnovate-partners",
   "finderId": "linnovate",
-  "xId": null,
+  "xId": "linnovate",
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -19,5 +19,8 @@
       "lat": 32.0940715,
       "lon": 34.823239
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "linnovate",
+  "linkedinNum": 200394
 }

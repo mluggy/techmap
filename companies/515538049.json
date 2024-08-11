@@ -1,5 +1,5 @@
 {
-  "name": "Viz Ai Israel",
+  "name": "Viz.ai",
   "description": "We provide an AI-driven care coordination platform using FDA-approved algorithms to analyze medical imaging data.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "viz-ai",
   "crunchbaseId": null,
   "finderId": "viz",
-  "xId": null,
+  "xId": "Viz_AI",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.0608197,
       "lon": 34.7771205
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "viz.ai.stroke",
+  "linkedinNum": 17897131,
+  "greenhouseId": "vizai"
 }

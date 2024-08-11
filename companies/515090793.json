@@ -1,5 +1,5 @@
 {
-  "name": "Guesty Bookhost",
+  "name": "Guesty",
   "description": "A leading provider of property management software, empowering hospitality providers to enhance guest experiences and ensure long-term success.",
   "categoryId": 9,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "guesty",
   "crunchbaseId": null,
   "finderId": "guesty",
-  "xId": null,
+  "xId": "guesty",
   "addresses": [
     {
       "street": "קפלן",
@@ -19,5 +19,9 @@
       "lat": 32.0731921,
       "lon": 34.7820874
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "guestycom",
+  "linkedinNum": 3675144,
+  "comeetId": "guesty/10.000"
 }

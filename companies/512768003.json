@@ -1,5 +1,5 @@
 {
-  "name": "Novocure Israel",
+  "name": "NovoCure",
   "description": "An innovative oncology firm developing Tumor Treating Fields therapy to combat cancer.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "novocure-inc",
   "crunchbaseId": null,
   "finderId": "novocure",
-  "xId": null,
+  "xId": "novocure",
   "addresses": [
     {
       "street": "חת נחום",
@@ -19,5 +19,7 @@
       "lat": 32.783678,
       "lon": 34.960601
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 105770
 }

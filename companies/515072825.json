@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.anodot.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "anodot",
   "crunchbaseId": null,
   "finderId": "anodot",
-  "xId": null,
+  "xId": "TeamAnodot",
   "addresses": [
     {
       "street": "השיזף",
@@ -19,5 +19,8 @@
       "lat": 32.1919424,
       "lon": 34.8855377
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "anodot",
+  "linkedinNum": 5229141
 }

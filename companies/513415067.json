@@ -1,10 +1,10 @@
 {
-  "name": "Tersus Software",
-  "description": "They empower premium brands to join the textile circular economy with cutting-edge cleaning technology.",
-  "categoryId": 17,
+  "name": "Tersus",
+  "description": "Visual Programming Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/tersus_software-logo.webp",
-  "websiteUrl": "https://www.tersussolutions.com/",
+  "websiteUrl": "https://www.tersus.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.16222215,
       "lon": 34.80753269535335
     }
-  ]
+  ],
+  "isMultinational": false
 }

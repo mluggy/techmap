@@ -1,16 +1,16 @@
 {
-  "name": "Get In",
-  "description": "Bridging the gap between individuals and clubs.",
+  "name": "GetIn",
+  "description": "Connecting Users and Clubs",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/get_in-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://get-in.com/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "get-in",
-  "xId": null,
+  "xId": "getin_official",
   "addresses": [
     {
       "street": "הרכבת",
@@ -19,5 +19,7 @@
       "lat": 32.0631483,
       "lon": 34.7793569
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Get-IN-1496957693870576"
 }

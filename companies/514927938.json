@@ -1,10 +1,10 @@
 {
-  "name": "Cliniclicks",
-  "description": "Tailored Management Software for Healthcare Facilities.",
+  "name": "CliniClicks",
+  "description": "Customizable Management Application for Clinics",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cliniclicks-logo.webp",
-  "websiteUrl": "https://cliniclick.ai/",
+  "websiteUrl": "https://www.cliniclicks.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cliniclicks-ltd",
@@ -19,5 +19,7 @@
       "lat": 32.069629,
       "lon": 34.784178
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3327391
 }

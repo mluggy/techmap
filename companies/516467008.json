@@ -1,10 +1,10 @@
 {
-  "name": "Dots Data Of The Soil",
-  "description": "A free service providing instant translation of words, phrases, and web pages from English to over 100 languages.",
-  "categoryId": 1,
+  "name": "DOTS, Data of the Soil",
+  "description": "Real-time Soil Nitrate Monitoring",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/dots_data_of_the_soil-logo.webp",
-  "websiteUrl": "https://translate.google.co.il/",
+  "websiteUrl": "https://dotsoil.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7316844,
       "lon": 35.20565
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79865339
 }

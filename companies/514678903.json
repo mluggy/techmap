@@ -1,10 +1,10 @@
 {
-  "name": "Consent Md",
-  "description": "Platform for Detailed Medical Procedure Information and Patient Consent.",
+  "name": "Consent MD",
+  "description": "Medical Procedure Information and Consent Platform",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/consent_md-logo.webp",
-  "websiteUrl": "https://mdconsents.com/",
+  "websiteUrl": "https://www.c-2md.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0721032,
       "lon": 34.8813584
     }
-  ]
+  ],
+  "isMultinational": false
 }

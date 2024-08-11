@@ -1,5 +1,5 @@
 {
-  "name": "Kissterra Capital",
+  "name": "Kissterra",
   "description": "Leveraging data, this company offers a comprehensive marketing and distribution solution tailored specifically for insurers.",
   "categoryId": 2,
   "size": "m",
@@ -19,5 +19,8 @@
       "lat": 32.107085,
       "lon": 34.836911
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "kissterra",
+  "linkedinNum": 18123524
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Vr Steps",
-  "description": "Empowering creators to design realistic 3D exhibitions, events, and brand stories through a web-based application with no extra software needed.",
-  "categoryId": 4,
+  "name": "VR STEPS",
+  "description": "Remote Patient Monitoring and Rehabilitation Platform",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/vr_steps-logo.webp",
-  "websiteUrl": "https://www.artsteps.com/",
+  "websiteUrl": "https://www.vrsteps.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.2428648,
       "lon": 34.7859073
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "vrsteps",
+  "linkedinNum": 72460124
 }

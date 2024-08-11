@@ -1,10 +1,10 @@
 {
   "name": "Arcadia Math",
-  "description": "A robust account system offering automatic privacy protection, advanced spam filters, and security alerts to safeguard your personal information and alert you of potential threats.",
-  "categoryId": 7,
+  "description": "Gaming-based Math Education Platform",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/arcadia_math-logo.webp",
-  "websiteUrl": "https://myaccount.google.com/",
+  "websiteUrl": "https://www.arcadiamath.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.52271358204358,
       "lon": 34.940800275381385
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Blob-Quest-113552031098219"
 }

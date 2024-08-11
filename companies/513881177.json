@@ -1,5 +1,5 @@
 {
-  "name": "Wix.com",
+  "name": "Wix",
   "description": "Build and enhance your online presence effortlessly with a comprehensive suite of design, business, and SEO tools.",
   "categoryId": 9,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.wix.com/",
   "careersUrl": "https://careers.wix.com/positions",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "wix-com",
   "crunchbaseId": null,
   "finderId": "wix",
-  "xId": null,
+  "xId": "Wix",
   "addresses": [
     {
       "street": null,
@@ -33,5 +33,8 @@
       "lat": 32.82351781914197,
       "lon": 34.99234542325772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "wix",
+  "linkedinNum": 97250
 }

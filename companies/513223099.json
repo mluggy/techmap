@@ -1,16 +1,16 @@
 {
-  "name": "April Flowers",
-  "description": "A creative platform showcasing diverse artists, exhibitions, and poems.",
-  "categoryId": 8,
+  "name": "april",
+  "description": "Embedded Tax Experiences",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/april_flowers-logo.webp",
-  "websiteUrl": "https://aprilapril.gallery/",
+  "websiteUrl": "https://www.getapril.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "apriltax",
   "crunchbaseId": null,
   "finderId": "april",
-  "xId": null,
+  "xId": "getapril_tax",
   "addresses": [
     {
       "street": "דרך השדות",
@@ -19,5 +19,8 @@
       "lat": 32.30800423390511,
       "lon": 34.99836493262186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getapriltax",
+  "linkedinNum": 79937233
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Jovianx",
+  "name": "JovianX",
   "description": "Transforms software into fully managed cloud services and SaaS applications with multi-tenancy, subscription management, and Kubernetes integration.",
   "categoryId": 6,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "jovianx",
-  "xId": null,
+  "xId": "jovian_x",
   "addresses": [
     {
       "street": "יורדי ים",
@@ -19,5 +19,7 @@
       "lat": 32.1602558,
       "lon": 34.7956503
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 28126696
 }

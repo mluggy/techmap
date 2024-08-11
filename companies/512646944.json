@@ -1,10 +1,10 @@
 {
-  "name": "Wondernet",
-  "description": "We aim to materialize abstract networks into tangible objects, showcasing their physical reality.",
-  "categoryId": 4,
+  "name": "WonderNet",
+  "description": "Electronic Signature Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/wondernet_ltd-logo.webp",
-  "websiteUrl": "https://netwonder.net/",
+  "websiteUrl": "https://www.wondernet.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1436003,
       "lon": 34.8300977
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18076636
 }

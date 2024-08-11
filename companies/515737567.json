@@ -1,5 +1,5 @@
 {
-  "name": "Beehero",
+  "name": "BeeHero",
   "description": "Delivering precision pollination services for various crops through expert beekeeping and advanced technology.",
   "categoryId": 17,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "beehero",
-  "xId": null,
+  "xId": "beehero_io",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,9 @@
       "lat": 32.062937,
       "lon": 34.785459
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BeeHeroPollination",
+  "linkedinNum": 28669130,
+  "comeetId": "beehero/78.00E"
 }

@@ -1,0 +1,25 @@
+{
+  "name": "GoodDeeds",
+  "description": "AI-Powered Virtual Assistants for NGOs",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/gooddeeds.webp",
+  "websiteUrl": "https://GoodDeeds.ai",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 90950690,
+  "crunchbaseId": null,
+  "finderId": "gooddeeds",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "דרך נמיר מרדכי",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.08101394384901,
+      "lon": 34.7938811137929
+    }
+  ],
+  "isMultinational": false
+}

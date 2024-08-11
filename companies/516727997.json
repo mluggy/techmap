@@ -1,10 +1,10 @@
 {
   "name": "Airosphera",
-  "description": "Custom Air Filtration Solutions.",
-  "categoryId": 12,
+  "description": "Personalized Air-purifying Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/airosphera-logo.webp",
-  "websiteUrl": "https://www.airovation-tech.com/",
+  "websiteUrl": "https://www.airosphera.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "airosphera",
@@ -19,5 +19,7 @@
       "lat": 31.9177299,
       "lon": 34.80439671200948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 88442050
 }

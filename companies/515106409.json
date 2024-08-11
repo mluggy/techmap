@@ -1,16 +1,16 @@
 {
   "name": "Carbyne",
-  "description": "Providing cloud-native, future-proof solutions for public safety, incident management, and transportation sectors.",
-  "categoryId": 18,
+  "description": "Emergency Contact Center Solutions",
+  "categoryId": 7,
   "size": "m",
   "logoFile": "logos/carbyne-logo.webp",
-  "websiteUrl": "https://carbyne.com/",
+  "websiteUrl": "https://www.carbyne911.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "carbyne",
   "crunchbaseId": null,
   "finderId": "reporty",
-  "xId": null,
+  "xId": "carbyne911",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Carbyneglobal",
+  "linkedinNum": 5337585
 }

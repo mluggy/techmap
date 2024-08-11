@@ -1,5 +1,5 @@
 {
-  "name": "Greenonyx",
+  "name": "GreenOnyx",
   "description": "Aiming to enhance global health and sustainability, this company pioneers groundbreaking, nature-powered food sources.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "greenonyx",
   "crunchbaseId": null,
   "finderId": "greenonyx",
-  "xId": null,
+  "xId": "_GreenOnyx",
   "addresses": [
     {
       "street": "דרך בן צבי",
@@ -19,5 +19,8 @@
       "lat": 32.041932,
       "lon": 34.771818
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GreenOnyx.ag",
+  "linkedinNum": 51879520
 }

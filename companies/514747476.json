@@ -1,16 +1,16 @@
 {
   "name": "Flask Data",
-  "description": "A comprehensive resource for learning and utilizing Flask, including installation, quickstart, tutorials, and detailed component descriptions.",
+  "description": "Real-time Data Collection for Clinical Trials",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/flask_data-logo.webp",
-  "websiteUrl": "https://flask.palletsprojects.com/",
+  "websiteUrl": "https://flaskdata.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "flask-data",
-  "xId": null,
+  "xId": "flaskdata",
   "addresses": [
     {
       "street": "עמק דותן",
@@ -19,5 +19,8 @@
       "lat": 31.9001475,
       "lon": 35.0132653
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Flaskdata-100609114743592",
+  "linkedinNum": 10224748
 }

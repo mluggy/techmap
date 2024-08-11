@@ -1,5 +1,5 @@
 {
-  "name": "Radview Software",
+  "name": "RadView",
   "description": "Harnessing AI and JavaScript, this solution revolutionizes load testing with smart correlation and unparalleled power.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "radview",
-  "xId": null,
+  "xId": "RadViewSoftware",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.09668,
       "lon": 34.9066455
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RadView",
+  "linkedinNum": 17110
 }

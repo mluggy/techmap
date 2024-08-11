@@ -1,16 +1,16 @@
 {
-  "name": "Oneview Space",
-  "description": "Empowering patients with knowledge and self-service tools to enhance hospital care experiences and clinical outcomes.",
-  "categoryId": 12,
+  "name": "OneView",
+  "description": "Platform for Creating Virtual Synthetic Datasets",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/oneview_space-logo.webp",
-  "websiteUrl": "https://www.oneviewhealthcare.com/",
+  "websiteUrl": "https://www.one-view.ai",
   "careersUrl": "https://www.oneviewhealthcare.com/oneview-healthcare/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "oneview",
-  "xId": null,
+  "xId": "OneView_AI",
   "addresses": [
     {
       "street": "קפלנסקי",
@@ -19,5 +19,7 @@
       "lat": 32.0388295,
       "lon": 34.893638
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13054907
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Sompo Digital Lab Israel",
+  "name": "Sompo",
   "description": "A global leader in specialty property and casualty insurance and reinsurance.",
-  "categoryId": 12,
   "size": "l",
+  "categoryId": 10,
   "logoFile": "logos/sompo_digital_lab_israel-logo.webp",
-  "websiteUrl": "https://www.sompo-intl.com/",
+  "websiteUrl": "https://sompo.io/en/labs/tel-aviv/",
   "careersUrl": "https://www.sompo-intl.com/careers/",
   "isHiring": true,
   "linkedinId": "sompo-",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Sompo-Digital-Lab-Tel-Aviv-352103938891573",
+  "linkedinNum": 12597333
 }

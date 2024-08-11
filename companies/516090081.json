@@ -1,5 +1,5 @@
 {
-  "name": "Pinecone Systems",
+  "name": "Pinecone",
   "description": "Provide fast and efficient vector search for various applications, utilizing a serverless infrastructure.",
   "categoryId": 1,
   "size": "m",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.pinecone.io/",
   "careersUrl": "https://www.pinecone.io/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "pinecone-io",
   "crunchbaseId": null,
   "finderId": "pinecone1",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.093061,
       "lon": 34.775551
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 20299330
 }

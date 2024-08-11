@@ -1,5 +1,5 @@
 {
-  "name": "Saverone 2014",
+  "name": "SaverOne",
   "description": "Offering the exclusive solution to eliminate phone-related driving distractions.",
   "categoryId": 5,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "saver1",
   "crunchbaseId": null,
   "finderId": "saverone",
-  "xId": null,
+  "xId": "SaverOne_",
   "addresses": [
     {
       "street": "דרך אם המושבות",
@@ -19,5 +19,8 @@
       "lat": 32.1005635,
       "lon": 34.8495503
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Saver.One.Official",
+  "linkedinNum": 5379022
 }

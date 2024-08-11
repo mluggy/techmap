@@ -1,16 +1,16 @@
 {
   "name": "Elementary Data",
-  "description": "Offering enhanced personalization, improved accessibility, strengthened privacy, and over 200 updates, a user-centric operating system ensures apps operate with your explicit consent.",
-  "categoryId": 1,
+  "description": "Open-source Data Observability Framework for Data Teams",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/elementary_data-logo.webp",
-  "websiteUrl": "https://elementary.io/",
+  "websiteUrl": "https://www.elementary-data.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "elementary-data",
-  "xId": null,
+  "xId": "ElementaryData",
   "addresses": [
     {
       "street": "ויצמן",
@@ -19,5 +19,7 @@
       "lat": 32.082219,
       "lon": 34.788748
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76561188
 }

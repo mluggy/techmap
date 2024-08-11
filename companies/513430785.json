@@ -1,5 +1,5 @@
 {
-  "name": "Asocs",
+  "name": "ASOCS",
   "description": "Leveraging a private 5G network, production machine connectivity and AI training improved our First Pass Yield from 70% to over 85%.",
   "categoryId": 18,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "asocs",
   "crunchbaseId": null,
   "finderId": "asocs",
-  "xId": null,
+  "xId": "asocscloud",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.108278,
       "lon": 34.9652441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AsocsCloud",
+  "linkedinNum": 54063
 }

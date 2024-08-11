@@ -1,10 +1,10 @@
 {
   "name": "Taxon Therapeutics",
-  "description": "Developing specialized therapeutic proteins to treat uncommon autoimmune conditions.",
+  "description": "Recombinant Therapeutic Proteins for Rare Autoimmune Diseases",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/taxon_therapeutics-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://taxonthera.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "taxonbiosciences",
@@ -19,5 +19,6 @@
       "lat": 32.1565499,
       "lon": 34.8382772
     }
-  ]
+  ],
+  "isMultinational": false
 }

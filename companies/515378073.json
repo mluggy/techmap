@@ -1,5 +1,5 @@
 {
-  "name": "Atidot Software",
+  "name": "Atidot",
   "description": "They offer cloud-based AI and machine learning solutions tailored for life insurance companies.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "atidot",
   "crunchbaseId": "atidot",
   "finderId": "atidot",
-  "xId": null,
+  "xId": "atidotisrael",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.079241,
       "lon": 34.795072
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17912216
 }

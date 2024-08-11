@@ -1,16 +1,16 @@
 {
-  "name": "Milkstrip",
-  "description": "Instant Analysis Tools for Breast Milk Quality.",
+  "name": "DiagnoseStick",
+  "description": "Real-time Breast Milk Diagnostic Tools",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/milkstrip-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.milkstrip.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "milkstrip",
   "finderId": "milkstrip",
-  "xId": null,
+  "xId": "milkstrip",
   "addresses": [
     {
       "street": "פקריס",
@@ -19,5 +19,8 @@
       "lat": 31.9115487,
       "lon": 34.8054913
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MilkStrip",
+  "linkedinNum": 36084649
 }

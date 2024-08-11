@@ -1,5 +1,5 @@
 {
-  "name": "Palantir Engineering Israel",
+  "name": "Palantir",
   "description": "We create software solutions that enable organizations to seamlessly unify their data, decisions, and operations.",
   "categoryId": 1,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "palantir",
-  "xId": null,
+  "xId": "palantirtech",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.063755,
       "lon": 34.774745
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Palantir",
+  "linkedinNum": 20708
 }

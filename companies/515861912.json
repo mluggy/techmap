@@ -1,0 +1,25 @@
+{
+  "name": "Maprix",
+  "description": "Mobile App for Monitoring Remote Printers",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/maprix.webp",
+  "websiteUrl": "https://www.maprix.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 102920567,
+  "crunchbaseId": null,
+  "finderId": "maprix",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "לוחמי הגיטאות",
+      "houseNumber": 13,
+      "city": "יהוד-מונוסון",
+      "lat": 32.03741941181938,
+      "lon": 34.89567312415044
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,10 +1,10 @@
 {
-  "name": "Alta Innovation",
-  "description": "A free service that provides real-time translation for text and web content across more than 100 languages.",
-  "categoryId": 1,
+  "name": "ALTA INNOVATION",
+  "description": "Drone Solutions for Agriculture",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/alta_innovation-logo.webp",
-  "websiteUrl": "https://translate.google.com/",
+  "websiteUrl": "https://www.alta.team",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.091106,
       "lon": 34.78353
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AltaInnovationLTD",
+  "linkedinNum": 19056476
 }

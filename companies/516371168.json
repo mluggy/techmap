@@ -1,5 +1,5 @@
 {
-  "name": "Staircase Technologies",
+  "name": "Staircase",
   "description": "A company that analyzes various communication channels and product usage data to gain insights.",
   "categoryId": 1,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.158739600000004,
       "lon": 34.81902085
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 73220070
 }

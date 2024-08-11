@@ -1,10 +1,10 @@
 {
-  "name": "Received Payments",
-  "description": "Search. Locate specific profiles to view payment data for healthcare providers, teaching hospitals, or companies. Search by Type.",
-  "categoryId": 10,
+  "name": "Received",
+  "description": "Revenue Management Solution",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/received_payments-logo.webp",
-  "websiteUrl": "https://openpaymentsdata.cms.gov/",
+  "websiteUrl": "https://www.received.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.06277815,
       "lon": 34.77165302176441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 86861359
 }

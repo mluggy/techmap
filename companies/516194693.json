@@ -10,7 +10,7 @@
   "linkedinId": "enzymit",
   "crunchbaseId": null,
   "finderId": "enzymit",
-  "xId": null,
+  "xId": "enzymit",
   "addresses": [
     {
       "street": "אפ\"ק",
@@ -19,5 +19,7 @@
       "lat": 32.056625,
       "lon": 34.760532
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64880066
 }

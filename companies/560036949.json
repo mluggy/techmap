@@ -1,0 +1,25 @@
+{
+  "name": "Sumitomo Corporation",
+  "description": null,
+  "categoryId": 17,
+  "size": "xl",
+  "logoFile": "logos/sumitomo-corporation.webp",
+  "websiteUrl": "https://www.sumitomocorp.com/en/jp",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 82515653,
+  "crunchbaseId": null,
+  "finderId": "sumitomo-corporation",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 21,
+      "city": "תל אביב - יפו",
+      "lat": 32.07063948271163,
+      "lon": 34.78711820476227
+    }
+  ],
+  "isMultinational": true
+}

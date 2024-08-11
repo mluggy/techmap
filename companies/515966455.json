@@ -1,10 +1,10 @@
 {
-  "name": "Ev Kinetics Technologies",
-  "description": "Electric Drive System for Vehicles.",
+  "name": "EV Kinetics Technologies",
+  "description": "Electric Tractive Power System for Vehicles",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/ev_kinetics_technologies-logo.webp",
-  "websiteUrl": "https://www.ek-tech.com/",
+  "websiteUrl": "https://evkinetics.com",
   "careersUrl": "https://www.kinetic.auto/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0074937,
       "lon": 34.7414285
     }
-  ]
+  ],
+  "isMultinational": false
 }

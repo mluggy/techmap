@@ -1,10 +1,10 @@
 {
   "name": "Dilixo",
-  "description": "Specializes in both physical device components and embedded software.",
-  "categoryId": 13,
+  "description": "Hardware and Firmware",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/dilixo-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.dilixo.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "dilixo-ltd-",
@@ -19,5 +19,7 @@
       "lat": 31.9038187,
       "lon": 34.9946203
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3494137
 }

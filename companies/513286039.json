@@ -1,5 +1,5 @@
 {
-  "name": "Sysaid Technologies",
+  "name": "SysAid",
   "description": "Provides cutting-edge, AI-enhanced IT service management through an advanced automation platform.",
   "categoryId": 14,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.sysaid.com/",
   "careersUrl": "https://www.sysaid.com/company/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "sysaid-technologies-ltd",
   "crunchbaseId": null,
   "finderId": "sysaid",
-  "xId": null,
+  "xId": "sysaid",
   "addresses": [
     {
       "street": "שד' שאול המלך",
@@ -19,5 +19,8 @@
       "lat": 32.0780148,
       "lon": 34.7900515
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SysAidIT",
+  "linkedinNum": 132666
 }

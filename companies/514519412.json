@@ -7,10 +7,10 @@
   "websiteUrl": "https://microbotmedical.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "microbot-medical",
   "crunchbaseId": null,
   "finderId": "microbot-medical",
-  "xId": null,
+  "xId": "MicrobotMedical",
   "addresses": [
     {
       "street": "היזמה",
@@ -19,5 +19,8 @@
       "lat": 32.66990136292796,
       "lon": 35.10576848900816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "microbotmedical",
+  "linkedinNum": 1502003
 }

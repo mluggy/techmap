@@ -1,16 +1,16 @@
 {
-  "name": "Fitnuts Pro",
-  "description": "A digital platform for fitness and nutrition.",
+  "name": "Fitnuts",
+  "description": "Online Fitness and Nutrition Platform",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/fitnuts_pro-logo.webp",
-  "websiteUrl": "https://www.thefitdonut.com/",
+  "websiteUrl": "https://fitnuts.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fitnuts",
-  "xId": null,
+  "xId": "fitnutspro",
   "addresses": [
     {
       "street": "הרכבת",
@@ -19,5 +19,7 @@
       "lat": 32.060334,
       "lon": 34.782124
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fitnutspro"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Cell Cure Neurosciences",
-  "description": "Developing treatments for neurological conditions using cellular therapies.",
+  "name": "CellCure Neurosciences",
+  "description": "Cell Therapies for Neural Degenerative Diseases",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/cell_cure_neurosciences-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://lineagecell.com/manufacturing/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cell-cure-neurosciences-ltd-",
@@ -19,5 +19,7 @@
       "lat": 31.7714925,
       "lon": 35.1811894
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10231887
 }

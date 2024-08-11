@@ -1,5 +1,5 @@
 {
-  "name": "Homismart",
+  "name": "HomiSmart",
   "description": "This company specializes in smart home and building management technology, partnering with Google and meeting high Israeli and European standards.",
   "categoryId": 13,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.0920729,
       "lon": 34.8646062
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HomiSmart",
+  "linkedinNum": 5197514
 }

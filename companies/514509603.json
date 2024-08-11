@@ -1,5 +1,5 @@
 {
-  "name": "Eyeyon Medical",
+  "name": "EyeYon Medical",
   "description": "Innovative medical company revolutionizing eye care with drug-depot contact lenses and a breakthrough solution for corneal edema.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "eyeyon",
-  "xId": null,
+  "xId": "EyeyonM",
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -19,5 +19,8 @@
       "lat": 31.9137859,
       "lon": 34.8024773
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EyeYon",
+  "linkedinNum": 2287913
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Cardiovia",
-  "description": "A tool designed for less invasive heart procedures.",
+  "name": "CardioVia",
+  "description": "Device for Minimally Invasive Cardiac Access",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cardiovia-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.cardiovia.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cardiovia",
@@ -19,5 +19,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11434002
 }

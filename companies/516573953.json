@@ -1,5 +1,5 @@
 {
-  "name": "Kanabo Agritec",
+  "name": "Kanabo",
   "description": "An Israeli-based firm pioneering vaporization technology with a new R&D lab and a partnership with Jupiter Research.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.1699447,
       "lon": 34.84216590048941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "kanaboresearch",
+  "linkedinNum": 11742485
 }

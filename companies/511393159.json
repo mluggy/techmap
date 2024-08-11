@@ -1,10 +1,10 @@
 {
   "name": "Advice Electronics",
-  "description": "A global leader in creating and producing advanced power products and solutions.",
-  "categoryId": 15,
+  "description": "Power Supply Systems",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/advice_electronics_ltd-logo.webp",
-  "websiteUrl": "https://www.advicepower.com/",
+  "websiteUrl": "https://www.advice.co.il/en/",
   "careersUrl": "https://advice.co.il/blogs/careers",
   "isHiring": true,
   "linkedinId": "advice-electronics",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AdviceG",
+  "linkedinNum": 2989460
 }

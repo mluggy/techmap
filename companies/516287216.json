@@ -1,10 +1,10 @@
 {
   "name": "Evolution Water",
-  "description": "A solution for managing water infrastructure using artificial intelligence.",
-  "categoryId": 1,
+  "description": "AI-powered Water Infrastructure Management Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/evolution_water-logo.webp",
-  "websiteUrl": "https://www.evolveseries.com/",
+  "websiteUrl": "https://www.evolution-water.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false
 }

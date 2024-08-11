@@ -1,16 +1,16 @@
 {
-  "name": "Lnrd Io",
-  "description": "A pioneering API service simplifying the integration and use of feature flags.",
+  "name": "Unboxable",
+  "description": "Hiring Prediction Technology",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/lnrd_io-logo.webp",
-  "websiteUrl": "https://www.unboxable.io/",
+  "websiteUrl": "https://www.unboxable.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "unboxable",
   "finderId": "lnrd-io",
-  "xId": null,
+  "xId": "unboxablehiring",
   "addresses": [
     {
       "street": "דגניה",
@@ -19,5 +19,8 @@
       "lat": 32.064013,
       "lon": 34.766865
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Unboxablehiring",
+  "linkedinNum": 37447276
 }

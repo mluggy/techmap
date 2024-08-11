@@ -1,5 +1,5 @@
 {
-  "name": "Radwin",
+  "name": "RADWIN",
   "description": "Specializing in wireless connectivity solutions, the company supports diverse applications such as backhaul, broadband access, private networks, video surveillance, and mobility for transportation.",
   "categoryId": 18,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "radwin",
   "crunchbaseId": null,
   "finderId": "radwin",
-  "xId": null,
+  "xId": "radwin",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.109707,
       "lon": 34.840481
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RADWIN.ltd",
+  "linkedinNum": 43197
 }

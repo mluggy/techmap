@@ -1,10 +1,10 @@
 {
-  "name": "Pointme",
-  "description": "A real-time search engine that discovers hidden award flights, compares options, and tracks reward balances for over 100 airlines.",
-  "categoryId": 10,
+  "name": "PointMe",
+  "description": "Mobile-enabled Offline-to-online Connection and Conversion Technology",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pointme-logo.webp",
-  "websiteUrl": "https://www.point.me/",
+  "websiteUrl": "https://www.pointme.me/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.263266,
       "lon": 34.8105466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 40745903
 }

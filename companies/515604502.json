@@ -1,16 +1,16 @@
 {
   "name": "Vanywhere",
-  "description": "A hassle-free service for transferring files of any size and type across devices securely and quickly.",
-  "categoryId": 6,
+  "description": "Platform for Connecting Content Creators with Their Fans",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/vanywhere-logo.webp",
-  "websiteUrl": "https://send-anywhere.com/",
+  "websiteUrl": "https://vanywhere.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vanywhere",
-  "xId": null,
+  "xId": "vVanywhere",
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -19,5 +19,8 @@
       "lat": 32.08472355,
       "lon": 34.80419494318181
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "vVanywhere",
+  "linkedinNum": 17960525
 }

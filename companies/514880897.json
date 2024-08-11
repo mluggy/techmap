@@ -10,7 +10,7 @@
   "linkedinId": "solitics",
   "crunchbaseId": null,
   "finderId": "solitics",
-  "xId": null,
+  "xId": "solitics1",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "solitics",
+  "linkedinNum": 10689815
 }

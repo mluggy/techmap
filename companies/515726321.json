@@ -1,5 +1,5 @@
 {
-  "name": "Organizeat",
+  "name": "OrganizEat",
   "description": "A user-friendly recipe manager app that lets you save and organize recipes by snapping photos or importing them from the web.",
   "categoryId": 14,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 31.908381,
       "lon": 35.010737
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "organizeat"
 }

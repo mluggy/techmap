@@ -1,5 +1,5 @@
 {
-  "name": "Nuance Communications Israel",
+  "name": "Nuance Communications",
   "description": "Nuance Communications specializes in AI-driven speech and imaging solutions, empowering businesses to enhance customer interactions and streamline operations.",
   "categoryId": 1,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "nuance-communications",
   "crunchbaseId": null,
   "finderId": "nuance-communications",
-  "xId": null,
+  "xId": "nuanceinc",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,7 @@
       "lat": 32.1323509,
       "lon": 34.8987146
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 3719
 }

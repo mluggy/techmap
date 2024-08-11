@@ -1,10 +1,10 @@
 {
-  "name": "Pil Marketplace",
-  "description": "An online platform for regulatory research and training.",
-  "categoryId": 12,
+  "name": "PIL Marketplace",
+  "description": "Regulation Search and Online Training System",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pil_marketplace-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://il.globalpil.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.063823,
       "lon": 34.8698464
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PIL-Marketplace-103281924613595",
+  "linkedinNum": 64727607
 }

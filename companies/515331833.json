@@ -1,10 +1,10 @@
 {
   "name": "My Tower",
-  "description": "Provides technical support services for a mobile application.",
-  "categoryId": 18,
+  "description": "Property and Facility Management Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/my_tower-logo.webp",
-  "websiteUrl": "https://panel.my-tower.co.il/",
+  "websiteUrl": "https://www.mytowerapp.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.069111,
       "lon": 34.786789
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mytowerapp",
+  "linkedinNum": 12957166
 }

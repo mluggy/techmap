@@ -1,5 +1,5 @@
 {
-  "name": "Autobrains Technologies",
+  "name": "Autobrains",
   "description": "Leveraging human-like driving intelligence to enhance road safety.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "autobrains-technologies",
   "crunchbaseId": "cartica-ai",
   "finderId": "autobrains",
-  "xId": null,
+  "xId": "Autobrains_AI",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.0634798,
       "lon": 34.7802841
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 20080095
 }

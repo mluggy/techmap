@@ -1,5 +1,5 @@
 {
-  "name": "Ironscales",
+  "name": "IRONSCALES",
   "description": "An AI-driven, self-learning cloud email security platform that shields enterprises from sophisticated email threats.",
   "categoryId": 7,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://ironscales.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ironscales",
   "crunchbaseId": null,
   "finderId": "ironscales",
-  "xId": null,
+  "xId": "IronScales",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ironscalesltd",
+  "linkedinNum": 5287647
 }

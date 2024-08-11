@@ -1,10 +1,10 @@
 {
-  "name": "Aquasmart",
-  "description": "AquaSmart™ develops engineered material solutions to enhance efficiency and longevity in Oil & Gas, Concrete, Agriculture, and Lawn & Garden industries.",
-  "categoryId": 17,
+  "name": "AQUASMART",
+  "description": "AI-powered Water Leak Prediction",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/aquasmart-logo.webp",
-  "websiteUrl": "https://www.aquasmartglobal.com/",
+  "websiteUrl": "https://www.aquasmart.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.3289297,
       "lon": 34.8521888
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79043685
 }

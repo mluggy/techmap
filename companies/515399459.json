@@ -1,5 +1,5 @@
 {
-  "name": "Click 2 Speak",
+  "name": "Click2Speak",
   "description": "Click2Speak provides an innovative on-screen keyboard for individuals with motor impairments to easily communicate and access Windows devices.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.2505912,
       "lon": 34.9125772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "click2speak",
+  "linkedinNum": 5291971
 }

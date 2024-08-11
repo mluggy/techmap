@@ -7,10 +7,10 @@
   "websiteUrl": "https://trullion.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "trullion",
   "crunchbaseId": null,
   "finderId": "trullion",
-  "xId": null,
+  "xId": "Trullion",
   "addresses": [
     {
       "street": "בן אביגדור",
@@ -19,5 +19,7 @@
       "lat": 32.067027,
       "lon": 34.790964
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 35707306
 }

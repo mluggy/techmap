@@ -1,5 +1,5 @@
 {
-  "name": "Medaware",
+  "name": "MedAware",
   "description": "An AI-enhanced platform that detects medication-related risks throughout the patient journey to enhance safety in health data systems and devices.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "medaware",
-  "xId": null,
+  "xId": "medawarerx",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1932202,
       "lon": 34.8827706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MedAwareRX",
+  "linkedinNum": 5236951
 }

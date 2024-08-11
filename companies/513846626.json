@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pollogen",
-  "xId": null,
+  "xId": "pollogen",
   "addresses": [
     {
       "street": "קויפמן יחזקאל",
@@ -19,5 +19,8 @@
       "lat": 32.063998,
       "lon": 34.762479
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Pollogen.ltd",
+  "linkedinNum": 2351750
 }

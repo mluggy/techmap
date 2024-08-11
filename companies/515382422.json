@@ -7,10 +7,10 @@
   "websiteUrl": "https://innoviz.tech/",
   "careersUrl": "https://innoviz.tech/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "innoviz-technologies",
   "crunchbaseId": null,
   "finderId": "innoviz-technologies",
-  "xId": null,
+  "xId": "InnovizOne",
   "addresses": [
     {
       "street": "אריאב אורי",
@@ -19,5 +19,9 @@
       "lat": 32.1127938,
       "lon": 34.9418895
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "InnovizTechnologies",
+  "linkedinNum": 10593485,
+  "comeetId": "innoviz/52.004"
 }

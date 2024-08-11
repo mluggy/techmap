@@ -1,10 +1,10 @@
 {
-  "name": "True Discussion",
-  "description": "A secure platform for group conversations.",
-  "categoryId": 7,
+  "name": "TrueDiscussion",
+  "description": "Safe Collaborative Discussion Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/true_discussion-logo.webp",
-  "websiteUrl": "https://truediscussionpodcast.buzzsprout.com/",
+  "websiteUrl": "https://www.truediscussion.org",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "truediscussion",
@@ -19,5 +19,7 @@
       "lat": 31.884672560096273,
       "lon": 35.03229823994393
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 42790567
 }

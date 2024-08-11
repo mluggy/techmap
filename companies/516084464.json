@@ -1,5 +1,5 @@
 {
-  "name": "J Vocals",
+  "name": "JVocals",
   "description": "A platform connecting Jewish voice talents with users, founded in 2019 out of a love for cantorial music.",
   "categoryId": 8,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 31.9888736,
       "lon": 34.7738644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "JVocals.Marketplace",
+  "linkedinNum": 30077195
 }

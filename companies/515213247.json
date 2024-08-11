@@ -1,10 +1,10 @@
 {
-  "name": "Caesar Ventures",
-  "description": "A pioneering Indian startup transforms mobile gaming by integrating local culture and focusing on real-time multiplayer experiences with the support of Google Cloud, aiming to dominate a $7 billion market.",
-  "categoryId": 11,
+  "name": "Supergaming",
+  "description": "Mobile Trading Card Games",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/caesar_ventures-logo.webp",
-  "websiteUrl": "https://www.supergaming.com/",
+  "websiteUrl": "https://supergaming.net/",
   "careersUrl": "https://www.supergaming.com/careers",
   "isHiring": true,
   "linkedinId": "supg",
@@ -19,5 +19,7 @@
       "lat": 32.4386283,
       "lon": 34.8795254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18771485
 }

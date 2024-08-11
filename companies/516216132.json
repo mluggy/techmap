@@ -1,5 +1,5 @@
 {
-  "name": "Returngo",
+  "name": "ReturnGO.ai",
   "description": "Streamline returns, enhance security, and boost revenue with an SOC 2 certified, self-service return management platform.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "returngo",
   "crunchbaseId": "returngo-ai",
   "finderId": "returngo",
-  "xId": null,
+  "xId": "returngoai",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,8 @@
       "lat": 32.08442285,
       "lon": 34.802311095330936
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "returngoai",
+  "linkedinNum": 67902660
 }

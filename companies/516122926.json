@@ -1,13 +1,13 @@
 {
   "name": "Everafter AI",
-  "description": "An AI-powered app offering seamless integration with Google and Microsoft for user authentication.",
-  "categoryId": 1,
+  "description": "The B2B Customer Interface Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/everafter_ai-logo.webp",
-  "websiteUrl": "https://app.everafter.ai/",
+  "websiteUrl": "https://www.everafter.ai/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "everafter-ai",
   "crunchbaseId": null,
   "finderId": "everafter-ai",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0619496,
       "lon": 34.8647779
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "everafterai",
+  "linkedinNum": 34968197
 }

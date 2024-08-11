@@ -1,16 +1,16 @@
 {
   "name": "Apolicy",
-  "description": "Policy Playground enables high-level, secure and efficient policy expression using a declarative language optimized for JSON environments.",
+  "description": "Kubernetes Policy Orchestration",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/apolicy-logo.webp",
-  "websiteUrl": "https://www.openpolicyagent.org/",
+  "websiteUrl": "https://www.apolicy.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "apolicy-io",
-  "xId": null,
+  "xId": "apolicyio",
   "addresses": [
     {
       "street": "ההדרים",
@@ -19,5 +19,7 @@
       "lat": 32.2644391,
       "lon": 34.8474389
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 36158690
 }

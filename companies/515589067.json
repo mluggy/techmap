@@ -1,5 +1,5 @@
 {
-  "name": "Loyaltydog",
+  "name": "LoyaltyDog",
   "description": "A digital card-based loyalty tool enabling seamless customer interaction and engagement through mobile wallets.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "loyaltydog",
   "crunchbaseId": null,
   "finderId": "drinkedin",
-  "xId": null,
+  "xId": "Loyalty_Dog",
   "addresses": [
     {
       "street": "הבנים",
@@ -19,5 +19,8 @@
       "lat": 32.56123695,
       "lon": 34.95224768275322
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LoyaltyDog",
+  "linkedinNum": 17909072
 }

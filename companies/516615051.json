@@ -1,10 +1,10 @@
 {
-  "name": "Porsche Digital Israel",
+  "name": "Porsche",
   "description": "Renowned for its milestone victories and celebrated sports car models, this company crafts high-performance mid-engine and rear-engine vehicles designed for driving enthusiasts.",
-  "categoryId": 5,
   "size": "l",
+  "categoryId": 5,
   "logoFile": "logos/porsche_digital_israel-logo.webp",
-  "websiteUrl": "https://www.porsche.com/",
+  "websiteUrl": "https://www.porsche.digital/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.07110345,
       "lon": 34.78706174292169
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 17924876
 }

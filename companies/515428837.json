@@ -1,16 +1,16 @@
 {
-  "name": "Mypart",
-  "description": "An online platform specializing in buying and selling auto parts.",
+  "name": "MyPart",
+  "description": "Song Search and Matching Platform",
   "categoryId": 9,
   "size": "s",
   "logoFile": "logos/mypart-logo.webp",
-  "websiteUrl": "https://www.myparts.ge/",
+  "websiteUrl": "https://www.mypart.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mypart",
-  "xId": null,
+  "xId": "MyPArt",
   "addresses": [
     {
       "street": "איסרליש",
@@ -19,5 +19,8 @@
       "lat": 32.071544,
       "lon": 34.790344
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MyPart",
+  "linkedinNum": 12903457
 }

@@ -7,10 +7,10 @@
   "websiteUrl": "https://scopiolabs.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "scopio-labs",
   "crunchbaseId": null,
   "finderId": "scopio-labs",
-  "xId": null,
+  "xId": "scopio_labs",
   "addresses": [
     {
       "street": "השרון",
@@ -19,5 +19,8 @@
       "lat": 32.062033,
       "lon": 34.778825
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "scopiolabs",
+  "linkedinNum": 10048158
 }

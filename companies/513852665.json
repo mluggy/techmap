@@ -1,5 +1,5 @@
 {
-  "name": "Purepeak",
+  "name": "PurePeak",
   "description": "Experts in cloud hosting and management, dedicated to deeply understanding and optimizing your business’s unique needs.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "purepeak-ltd.",
   "crunchbaseId": null,
   "finderId": "purepeak",
-  "xId": null,
+  "xId": "purepeakexperts",
   "addresses": [
     {
       "street": "הסיבים",
@@ -19,5 +19,8 @@
       "lat": 32.0916612,
       "lon": 34.8571892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "purepeak.ltd",
+  "linkedinNum": 225961
 }

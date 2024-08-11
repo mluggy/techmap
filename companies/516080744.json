@@ -1,5 +1,5 @@
 {
-  "name": "Sendi Io",
+  "name": "Sendi.io",
   "description": "Innovative software and app for delivery management with nationwide couriers, used by major brands like McDonald's and Papa John's.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.0758586,
       "lon": 34.8189823
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sendi.io2",
+  "linkedinNum": 42447544
 }

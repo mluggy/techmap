@@ -1,5 +1,5 @@
 {
-  "name": "Universal Mccann Israel",
+  "name": "Universal McCann",
   "description": "A leading global media agency focused on sustainable growth for culture, communities, and client businesses in the face of disruptive forces.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "um-ww",
   "crunchbaseId": null,
   "finderId": "universal-mccann",
-  "xId": null,
+  "xId": "umworldwide",
   "addresses": [
     {
       "street": "ראול ולנברג 2 א'",
@@ -19,5 +19,8 @@
       "lat": 32.106848,
       "lon": 34.828894
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "UMCuriosity",
+  "linkedinNum": 1734739
 }

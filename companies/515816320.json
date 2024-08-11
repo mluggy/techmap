@@ -1,10 +1,10 @@
 {
-  "name": "Jul Beach",
-  "description": "Avo is a Nashville eatery offering high-quality vegan dishes made from locally-sourced ingredients.",
+  "name": "Avo",
+  "description": "AI assistant for Sales, Finance and HR Leaders",
   "categoryId": 9,
   "size": "m",
   "logoFile": "logos/jul_beach-logo.webp",
-  "websiteUrl": "https://www.eatavo.com/",
+  "websiteUrl": "https://www.avonow.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.068024,
       "lon": 34.764891
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 30585745
 }

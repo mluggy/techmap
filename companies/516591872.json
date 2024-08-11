@@ -1,5 +1,5 @@
 {
-  "name": "Dwallet Labs",
+  "name": "dWallet Labs",
   "description": "Security solutions built on blockchain technology for the Odsy Network.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "dwalletlabs",
   "crunchbaseId": "dwallet-labs",
   "finderId": "dwallet-labs",
-  "xId": null,
+  "xId": "dWalletLabs",
   "addresses": [
     {
       "street": "הר סיני",
@@ -19,5 +19,8 @@
       "lat": 32.064412,
       "lon": 34.771751
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dwalletlabs",
+  "linkedinNum": 83063680
 }

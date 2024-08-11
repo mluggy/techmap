@@ -1,5 +1,5 @@
 {
-  "name": "Totango Metrics",
+  "name": "Totango",
   "description": "A n agile platform designed to optimize, manage, and expand SaaS customer journeys for enhanced retention and growth.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "totango",
   "crunchbaseId": "totango",
   "finderId": "totango",
-  "xId": null,
+  "xId": "Totango",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "totango",
+  "linkedinNum": 760976
 }

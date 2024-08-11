@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vorpal",
-  "xId": null,
+  "xId": "VorpalCorp",
   "addresses": [
     {
       "street": "השמחה",
@@ -19,5 +19,7 @@
       "lat": 32.18623624541135,
       "lon": 34.8948321687887
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12634980
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Connatix Native Exchange",
+  "name": "Connatix",
   "description": "Empower your video creation with customizable templates and a vast library of pre-licensed media resources.",
   "categoryId": 8,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "connatix",
   "crunchbaseId": "connatix",
   "finderId": "connatix",
-  "xId": null,
+  "xId": "connatix",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Connatix",
+  "linkedinNum": 4999305
 }

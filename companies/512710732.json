@@ -1,10 +1,10 @@
 {
-  "name": "Rahan Meristem 1998",
-  "description": "Cultivating and multiplying tropical and subtropical fruit trees.",
-  "categoryId": 12,
+  "name": "Rahan Meristem",
+  "description": "Breeding and Propagation of Tropical and Subtropical Fruit Trees",
+  "categoryId": 17,
   "size": "m",
   "logoFile": "logos/rahan_meristem_1998-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.rahan.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "rahanmeristemphils",
@@ -19,5 +19,6 @@
       "lat": 33.01178010817312,
       "lon": 35.09751053180671
     }
-  ]
+  ],
+  "isMultinational": false
 }

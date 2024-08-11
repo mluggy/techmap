@@ -1,15 +1,18 @@
 {
   "name": "Xsense",
-  "description": "An Israeli company based in Migdal Tefen providing advanced sensing solutions.",
-  "categoryId": 13,
+  "description": "Real-time Cold Chain Management",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/xsense-logo.webp",
-  "websiteUrl": "https://www.xsenseccm.com/",
+  "websiteUrl": "https://www.xsense.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "xsense",
-  "xId": null,
-  "addresses": []
+  "xId": "XsenseM",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "XsenseCCM",
+  "linkedinNum": 2735347
 }

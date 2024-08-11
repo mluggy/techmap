@@ -1,5 +1,5 @@
 {
-  "name": "Reason Labs",
+  "name": "ReasonLabs",
   "description": "Offering advanced endpoint protection for personal devices through a multilayered machine-learning engine.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "reasonlabs",
-  "xId": null,
+  "xId": "Reasonsecurity",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ReasonLabsCyberSec",
+  "linkedinNum": 6428902
 }

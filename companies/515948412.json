@@ -1,5 +1,5 @@
 {
-  "name": "Flux Life",
+  "name": "Flux",
   "description": "A decentralized cloud platform featuring user-operated, scalable, and globally distributed computational nodes.",
   "categoryId": 6,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.084431,
       "lon": 34.786971
     }
-  ]
+  ],
+  "isMultinational": false
 }

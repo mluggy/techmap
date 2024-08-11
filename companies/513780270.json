@@ -1,16 +1,16 @@
 {
-  "name": "Jumbomail Technologies",
-  "description": "A versatile search engine that provides access to a vast array of online information and media.",
-  "categoryId": 8,
+  "name": "JumboMail Technologies",
+  "description": "File Sharing Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/jumbomail_technologies-logo.webp",
-  "websiteUrl": "https://www.google.co.il/",
+  "websiteUrl": "https://www.jumbomail.me/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "jumbomail-technologies-ltd",
-  "xId": null,
+  "xId": "jumbomail_me",
   "addresses": [
     {
       "street": "יעקב רוזן",
@@ -19,5 +19,8 @@
       "lat": 32.05688483522226,
       "lon": 34.81510693488032
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "JumboMail.Me",
+  "linkedinNum": 12179540
 }

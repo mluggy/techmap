@@ -1,16 +1,16 @@
 {
   "name": "Save A Train",
-  "description": "Find affordable and speedy train tickets for your next journey at SaveATrain.com.",
-  "categoryId": 9,
+  "description": "Rail Travel Software",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/save_a_train-logo.webp",
-  "websiteUrl": "https://booking.saveatrain.com/",
+  "websiteUrl": "https://www.saveatrain.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "save-a-train",
-  "xId": null,
+  "xId": "SaveATrain",
   "addresses": [
     {
       "street": "סוקולוב",
@@ -19,5 +19,8 @@
       "lat": 32.144916,
       "lon": 34.83844968838688
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "saveatrain",
+  "linkedinNum": 18136594
 }

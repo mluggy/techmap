@@ -1,5 +1,5 @@
 {
-  "name": "Ideomobile",
+  "name": "IdeoDigital",
   "description": "We empower diverse industries to achieve business growth through tailored digital maturity solutions.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "ideodigital",
   "crunchbaseId": null,
   "finderId": "ideomobile",
-  "xId": null,
+  "xId": "ideomobile",
   "addresses": [
     {
       "street": "השלושה",
@@ -19,5 +19,8 @@
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "IdeoDigitalSolutions",
+  "linkedinNum": 1505128
 }

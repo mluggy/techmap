@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tadiran-batteries",
-  "xId": null,
+  "xId": "TadiranBat",
   "addresses": [
     {
       "street": "שד יצחק רבין",
@@ -19,5 +19,8 @@
       "lat": 31.859698835503934,
       "lon": 34.819351305461645
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "people",
+  "linkedinNum": 1133306
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "tadiran-group",
   "finderId": "tadiran-holdings",
-  "xId": null,
+  "xId": "Tadiran_Int",
   "addresses": [
     {
       "street": "רבניצקי",
@@ -19,5 +19,8 @@
       "lat": 32.0999399,
       "lon": 34.8932311
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TadiranInternational",
+  "linkedinNum": 11482362
 }

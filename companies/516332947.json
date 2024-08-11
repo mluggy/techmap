@@ -1,10 +1,10 @@
 {
-  "name": "Ole Marketplace",
-  "description": "A top-ranked young Argentine athlete who moved to Spain shared insights on sports growth and her patriotism.",
-  "categoryId": 8,
+  "name": "Ole",
+  "description": "Ecommerce Fashion Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/ole_marketplace-logo.webp",
-  "websiteUrl": "https://www.ole.com.ar/",
+  "websiteUrl": "https://www.oleshop.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0647098,
       "lon": 34.8649952
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 70880054
 }

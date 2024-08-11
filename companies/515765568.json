@@ -1,5 +1,5 @@
 {
-  "name": "Kumba Application",
+  "name": "Kumba",
   "description": "Specialized Software Solutions for Mobile Veterinary Professionals.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "kumba",
   "crunchbaseId": null,
   "finderId": "kumba",
-  "xId": null,
+  "xId": "kumbapets",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.1604703,
       "lon": 34.809883
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "KumbaPets",
+  "linkedinNum": 18232670
 }

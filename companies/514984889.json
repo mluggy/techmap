@@ -1,16 +1,16 @@
 {
-  "name": "Proofpoint Israel",
+  "name": "Proofpoint",
   "description": "A cybersecurity firm specializing in protection against advanced threats and data breaches.",
-  "categoryId": 7,
   "size": "xl",
+  "categoryId": 7,
   "logoFile": "logos/proofpoint_israel-logo.webp",
-  "websiteUrl": "https://inbox.proofpoint.com/",
+  "websiteUrl": "https://www.proofpoint.com",
   "careersUrl": "https://www.proofpoint.com/us/company/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "proofpoint",
-  "xId": null,
+  "xId": "proofpoint",
   "addresses": [
     {
       "street": "הרכבת",
@@ -19,5 +19,8 @@
       "lat": 32.060334,
       "lon": 34.782124
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ProofpointIsrael",
+  "linkedinNum": 11681
 }

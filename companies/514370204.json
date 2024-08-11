@@ -1,5 +1,5 @@
 {
-  "name": "Cardiacsense",
+  "name": "CardiacSense",
   "description": "Their watch matches ECG monitoring in accuracy with 99% sensitivity and specificity for detecting atrial fibrillation.",
   "categoryId": 12,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.cardiacsense.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cardiacsense",
   "crunchbaseId": null,
   "finderId": "sportracker",
-  "xId": null,
+  "xId": "cardiacsense",
   "addresses": [
     {
       "street": "לשם",
@@ -19,5 +19,8 @@
       "lat": 32.4896964,
       "lon": 34.9069362
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CardiacSense",
+  "linkedinNum": 17905890
 }

@@ -1,10 +1,10 @@
 {
   "name": "Exsys",
-  "description": "They specialize in top-tier CNC tool holders, quick change adapters, and precision repair services.",
-  "categoryId": 15,
+  "description": "Software Development and Integration",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/exsys_ltd-logo.webp",
-  "websiteUrl": "https://www.exsysautomation.com/",
+  "websiteUrl": "https://www.exsys.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "exsysautomation",
@@ -19,5 +19,8 @@
       "lat": 32.1770544,
       "lon": 34.9284708
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "exsyspk",
+  "linkedinNum": 114096
 }

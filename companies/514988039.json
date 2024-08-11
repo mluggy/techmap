@@ -10,7 +10,7 @@
   "linkedinId": "flytrex",
   "crunchbaseId": null,
   "finderId": "flytrex",
-  "xId": null,
+  "xId": "flytrexcom",
   "addresses": [
     {
       "street": "מונטיפיורי",
@@ -19,5 +19,8 @@
       "lat": 32.065888,
       "lon": 34.773888
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "flytrex",
+  "linkedinNum": 7948675
 }

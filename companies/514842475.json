@@ -1,5 +1,5 @@
 {
-  "name": "Rumble Talk",
+  "name": "RumbleTalk",
   "description": "Providing a robust platform for seamless online group chats and high-quality video experiences, praised by users for its reliability and performance.",
   "categoryId": 8,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rumbletalk",
-  "xId": null,
+  "xId": "RumbleTalk",
   "addresses": [
     {
       "street": "הר הצופים",
@@ -19,5 +19,8 @@
       "lat": 31.8951706,
       "lon": 34.7797263
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rumbletalk",
+  "linkedinNum": 3316366
 }

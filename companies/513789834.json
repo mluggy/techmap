@@ -1,5 +1,5 @@
 {
-  "name": "Thrive Dx Digital Skills Training",
+  "name": "Thrive DX",
   "description": "A stay-at-home mom transitioned into cybersecurity through a boot camp, securing a high-paying job at NASA.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "thrivedx-formerly-hu",
   "crunchbaseId": null,
   "finderId": "cybint",
-  "xId": null,
+  "xId": "ThriveDX",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,9 @@
       "lat": 32.08452905,
       "lon": 34.80020929592628
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ThriveDX",
+  "linkedinNum": 80112774,
+  "comeetId": "thrivedx/A7.009"
 }

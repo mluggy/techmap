@@ -1,10 +1,10 @@
 {
-  "name": "Wizlan",
+  "name": "WizLAN",
   "description": "A premier provider of top-tier fiber-optic connectivity solutions tailored for diverse industrial, corporate, security, and networking needs.",
   "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/wizlan-logo.webp",
-  "websiteUrl": "http://www.wizlan.com/",
+  "websiteUrl": "https://www.wizlan.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7721677,
       "lon": 34.9656441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2106458
 }

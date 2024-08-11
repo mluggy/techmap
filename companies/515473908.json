@@ -1,5 +1,5 @@
 {
-  "name": "Hargol Foodtech",
+  "name": "Hargol FoodTech",
   "description": "Pioneering sustainable, high-protein grasshopper farming for mainstream consumption.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "steak-tzartzar",
-  "xId": null,
+  "xId": "HargolFoodTech",
   "addresses": [
     {
       "street": "",
@@ -19,5 +19,8 @@
       "lat": 31.2999609,
       "lon": 34.637033
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HargolFoodTech",
+  "linkedinNum": 10010653
 }

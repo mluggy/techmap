@@ -1,10 +1,10 @@
 {
-  "name": "Watt Car Industries",
-  "description": "A free service providing instant translations for words, phrases, and web pages across more than 100 languages.",
+  "name": "WATT Car Industries",
+  "description": "Two-seater Electric Urban Vehicle",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/watt_car_industries-logo.webp",
-  "websiteUrl": "https://translate.google.com/",
+  "websiteUrl": "https://www.watt-ecar.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "watt-car-industries",
@@ -19,5 +19,7 @@
       "lat": 31.791137201413598,
       "lon": 34.95189342974516
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2008135
 }

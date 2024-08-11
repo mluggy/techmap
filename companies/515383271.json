@@ -1,5 +1,5 @@
 {
-  "name": "Memo App",
+  "name": "MemoApp",
   "description": "MemoApp provides a personalized 32” information and reminders screen for seniors with memory issues and dementia, easily installed at home.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.0151318,
       "lon": 34.7528142
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "memoapp4dementia"
 }

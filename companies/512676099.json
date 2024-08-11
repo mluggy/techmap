@@ -1,5 +1,5 @@
 {
-  "name": "Resonetics Israel",
+  "name": "Resonetics",
   "description": "Accelerating the development and market readiness of innovative medical devices with expert support.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "resonetics",
   "crunchbaseId": null,
   "finderId": "resonetics",
-  "xId": null,
+  "xId": "resonetics",
   "addresses": [
     {
       "street": "ההדס",
@@ -19,5 +19,8 @@
       "lat": 32.5163161,
       "lon": 34.9206291
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "sti.laser.industries",
+  "linkedinNum": 94937
 }

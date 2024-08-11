@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.zengaming.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zengaming",
   "crunchbaseId": null,
   "finderId": "zengaming",
-  "xId": null,
+  "xId": "zengamingx",
   "addresses": [
     {
       "street": "הקוקיה",
@@ -19,5 +19,8 @@
       "lat": 31.95984035,
       "lon": 34.81861024957912
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "zengamingx",
+  "linkedinNum": 6400965
 }

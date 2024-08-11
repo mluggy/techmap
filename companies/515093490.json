@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tempdrop",
-  "xId": null,
+  "xId": "Temp_drop",
   "addresses": [
     {
       "street": "השלושה",
@@ -19,5 +19,8 @@
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 17968802
 }

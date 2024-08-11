@@ -1,16 +1,16 @@
 {
   "name": "Hessegim Software",
-  "description": "Providing solutions for fixed-income analytics and algorithmic trading.",
+  "description": "Marketing Fixed-income Analytics and Algo-trading Systems",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/hessegim_software-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.triple-a.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "hessegim-software",
   "crunchbaseId": null,
   "finderId": "hessegim-software",
-  "xId": null,
+  "xId": "PrafisAnalytics",
   "addresses": [
     {
       "street": "מצדה",
@@ -19,5 +19,7 @@
       "lat": 32.0914266,
       "lon": 34.8251051
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17918409
 }

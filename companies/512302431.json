@@ -1,16 +1,16 @@
 {
-  "name": "Ansa",
-  "description": "A web-based platform that streamlines the assessment process with automatic feedback, detailed insights, and up to 50% reduced marking workload.",
-  "categoryId": 14,
+  "name": "Ansā",
+  "description": "Zero-pollution Coffee Roasting Solution",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/ansa-logo.webp",
-  "websiteUrl": "https://www.ans.app/",
+  "websiteUrl": "https://www.ansacoffee.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ansa-roasting",
   "crunchbaseId": null,
   "finderId": "ans",
-  "xId": null,
+  "xId": "griin_tech",
   "addresses": [
     {
       "street": "מבנה",
@@ -19,5 +19,7 @@
       "lat": 33.0127064663753,
       "lon": 35.2762237369558
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 38101172
 }

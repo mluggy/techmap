@@ -1,16 +1,16 @@
 {
-  "name": "Fontark",
-  "description": "Tool for Designing and Editing Fonts.",
-  "categoryId": 14,
+  "name": "FontArk",
+  "description": "Font Editor and Creator",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/fontark-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://fontark.net/farkwp/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fontark",
-  "xId": null,
+  "xId": "FontArk",
   "addresses": [
     {
       "street": "פאגלין עמיחי",
@@ -19,5 +19,8 @@
       "lat": 32.0813817,
       "lon": 34.869731
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Fontark",
+  "linkedinNum": 5038327
 }

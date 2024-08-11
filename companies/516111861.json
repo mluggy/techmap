@@ -1,5 +1,5 @@
 {
-  "name": "Fintica AI",
+  "name": "FINTICA AI",
   "description": "An Israeli fintech revolutionizing capital markets with autonomous AI solutions across diverse financial sectors.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "fintica",
   "crunchbaseId": null,
   "finderId": "fintica-ai",
-  "xId": null,
+  "xId": "fintica",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 35495491
 }

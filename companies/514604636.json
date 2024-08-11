@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.moonactive.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "moon-active",
   "crunchbaseId": null,
   "finderId": "moon-active",
-  "xId": null,
+  "xId": "moonactive",
   "addresses": [
     {
       "street": "מקוה ישראל",
@@ -19,5 +19,9 @@
       "lat": 32.062818,
       "lon": 34.776052
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "moonactive",
+  "linkedinNum": 3229376,
+  "comeetId": "moonactive/A2.00C"
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Zorba Innovation",
-  "description": "Offering authentic Greek cuisine and a casual, cultural dining experience in Wayne.",
-  "categoryId": 9,
+  "name": "Zorba",
+  "description": "SFR Investment Platform",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/zorba_innovation-logo.webp",
-  "websiteUrl": "https://zorbagreekeatery.com/",
+  "websiteUrl": "https://www.getzorba.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "zorba",
-  "xId": null,
+  "xId": "getzorba",
   "addresses": [
     {
       "street": "פוחצ'בסקי מיכל",
@@ -19,5 +19,8 @@
       "lat": 31.95389262013922,
       "lon": 34.80382112108639
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getzorba",
+  "linkedinNum": 38107615
 }

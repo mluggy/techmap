@@ -1,5 +1,5 @@
 {
-  "name": "Western Digital Israel",
+  "name": "Western Digital",
   "description": "A leading provider of cross-platform digital storage solutions with free shipping, friendly support, and a 30-day return policy.",
   "categoryId": 16,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "western-digital",
   "crunchbaseId": null,
   "finderId": "western-digital",
-  "xId": null,
+  "xId": "westerndigital",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1649783,
       "lon": 34.9279525
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "WesternDigitalIsrael",
+  "linkedinNum": 4593
 }

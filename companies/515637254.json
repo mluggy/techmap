@@ -1,5 +1,5 @@
 {
-  "name": "Agroscout",
+  "name": "AgroScout",
   "description": "Offering advanced crop monitoring solutions, this service enhances supply management, contract retention, and service quality.",
   "categoryId": 1,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.9916263,
       "lon": 35.6847003
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 13004909
 }

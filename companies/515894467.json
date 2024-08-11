@@ -10,7 +10,7 @@
   "linkedinId": "buildots",
   "crunchbaseId": null,
   "finderId": "buildots",
-  "xId": null,
+  "xId": "buildots",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0700073,
       "lon": 34.794193699999994
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "buildots",
+  "linkedinNum": 29118298
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Infinigrow",
+  "name": "InfiniGrow",
   "description": "A unified platform that leverages data-driven insights for maximizing revenue through integrated marketing, sales, and financial analytics.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "infinigrow",
-  "xId": null,
+  "xId": "infinigrow",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.064232399999995,
       "lon": 34.77442479088546
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "InfiniGrow",
+  "linkedinNum": 10047845
 }

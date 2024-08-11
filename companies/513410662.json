@@ -1,16 +1,16 @@
 {
-  "name": "Myheritage",
-  "description": "Unlock and preserve your unique family history through DNA testing and extensive genealogical research.",
-  "categoryId": 12,
+  "name": "MyHeritage",
+  "description": "Genetic Ancestry Research",
+  "categoryId": 8,
   "size": "l",
   "logoFile": "logos/myheritage-logo.webp",
-  "websiteUrl": "https://www.myheritage.co.il/",
+  "websiteUrl": "https://www.myheritage.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "myheritage",
   "crunchbaseId": null,
   "finderId": "myheritage",
-  "xId": null,
+  "xId": "MyHeritage",
   "addresses": [
     {
       "street": "שרון אריאל",
@@ -19,5 +19,8 @@
       "lat": 32.0219471,
       "lon": 34.8582471
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myheritage",
+  "linkedinNum": 167538
 }

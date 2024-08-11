@@ -4,7 +4,7 @@
   "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/ubiqam-logo.webp",
-  "websiteUrl": "http://www.ubiqam.net/",
+  "websiteUrl": "https://www.ubiqam.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ubiqam",
@@ -19,5 +19,7 @@
       "lat": 32.0902463,
       "lon": 34.8561282
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 744993
 }

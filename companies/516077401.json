@@ -1,10 +1,10 @@
 {
-  "name": "Patternox",
-  "description": "A device that scans and identifies potential precancerous skin conditions.",
+  "name": "PATTERNOX",
+  "description": "Skin Scanner for Detecting Precancerous Skin Abnormalities",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/patternox-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.patternox.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "patternox",
@@ -19,5 +19,7 @@
       "lat": 32.6143481,
       "lon": 35.3076582
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 69507784
 }

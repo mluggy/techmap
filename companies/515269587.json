@@ -1,5 +1,5 @@
 {
-  "name": "Gemmacert",
+  "name": "GemmaCert",
   "description": "A desktop solution delivering immediate, lab-accurate cannabis and hemp testing results for in-house or field use.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cannabi-tech",
-  "xId": null,
+  "xId": "GemmaCert",
   "addresses": [
     {
       "street": "החרושת",
@@ -19,5 +19,8 @@
       "lat": 32.1962399,
       "lon": 34.88108037383692
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "gemmacert",
+  "linkedinNum": 18005122
 }

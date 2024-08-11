@@ -1,10 +1,10 @@
 {
-  "name": "Delarix I D",
-  "description": "Solutions for trading digital assets.",
+  "name": "Delarix",
+  "description": "Software for NFT Exchanges",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/delarix_i_d-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.delarix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.77021128187776,
       "lon": 34.972039831346116
     }
-  ]
+  ],
+  "isMultinational": false
 }

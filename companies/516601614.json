@@ -10,7 +10,7 @@
   "linkedinId": "gethexagate",
   "crunchbaseId": null,
   "finderId": "hexagate",
-  "xId": null,
+  "xId": "hexagate_",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 86824951
 }

@@ -7,7 +7,7 @@
   "websiteUrl": "https://magentamed.com/",
   "careersUrl": "https://magentamed.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "magenta-medical",
   "crunchbaseId": null,
   "finderId": "magenta-medical",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2760519,
       "lon": 34.9177744
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 6366808
 }

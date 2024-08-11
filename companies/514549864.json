@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.powerlink.co.il/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fireberry-software-ltd",
   "crunchbaseId": null,
   "finderId": "powerlink-software",
-  "xId": null,
+  "xId": "PowerlinkCRM",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070693,
       "lon": 34.785176
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PowerLinkCRM",
+  "linkedinNum": 2365062
 }

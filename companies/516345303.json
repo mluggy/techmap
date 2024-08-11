@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "talon-cyber-security",
-  "xId": null,
+  "xId": "TalonCyber",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.067461,
       "lon": 34.785688
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TalonCyberSec",
+  "linkedinNum": 76840779
 }

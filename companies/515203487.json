@@ -1,5 +1,5 @@
 {
-  "name": "Somatix Technologies",
+  "name": "Somatix",
   "description": "We offer a passive, continuous, and non-invasive monitoring solution using patented wearable technology to ensure care recipients' safety.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "somatix",
   "crunchbaseId": "somatix",
   "finderId": "somatix",
-  "xId": null,
+  "xId": "somatix",
   "addresses": [
     {
       "street": "החרושת",
@@ -19,5 +19,8 @@
       "lat": 32.1973411,
       "lon": 34.8800625
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Somatix",
+  "linkedinNum": 9496718
 }

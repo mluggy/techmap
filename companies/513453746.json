@@ -1,16 +1,16 @@
 {
-  "name": "Slidemagic",
-  "description": "Revolutionizing content creation with a patented interface that delivers perfectly scaled, cropped, and on-brand visuals in a fraction of the time.",
+  "name": "SlideMagic",
+  "description": "A New Way to Design Presentation Slides",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/slidemagic-logo.webp",
-  "websiteUrl": "https://get.slidemagic.com/",
+  "websiteUrl": "https://www.slidemagic.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "slidemagic",
-  "xId": null,
+  "xId": "slidemagichq",
   "addresses": [
     {
       "street": "רוזנבלום הרצל",
@@ -19,5 +19,8 @@
       "lat": 32.138385,
       "lon": 34.791136
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "slidemagic",
+  "linkedinNum": 5062256
 }

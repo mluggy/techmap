@@ -1,10 +1,10 @@
 {
   "name": "Jobit",
-  "description": "Using AI to facilitate direct communication and quick matching between job seekers and employers.",
-  "categoryId": 1,
+  "description": "Job Search and Matching Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/jobit-logo.webp",
-  "websiteUrl": "https://jobit.world/",
+  "websiteUrl": "https://jobit.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0915323,
       "lon": 34.8250073
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GetJobit",
+  "linkedinNum": 18466620
 }

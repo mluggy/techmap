@@ -1,10 +1,10 @@
 {
   "name": "Logtopus",
-  "description": "A comprehensive platform for transparent management and optimization of material supply and processes.",
-  "categoryId": 14,
+  "description": "Automated Storage & Retrieval Systems",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/logtopus-logo.webp",
-  "websiteUrl": "https://logtopus.de/",
+  "websiteUrl": "https://logtopus.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.9711743,
       "lon": 34.8101786
     }
-  ]
+  ],
+  "isMultinational": false
 }

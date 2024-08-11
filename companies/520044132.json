@@ -1,5 +1,5 @@
 {
-  "name": "Audiocodes",
+  "name": "AudioCodes",
   "description": "A company that offers advanced voice and artificial intelligence solutions to enhance unified communications, collaboration, and customer experiences for businesses.",
   "categoryId": 18,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "audiocodes",
   "crunchbaseId": null,
   "finderId": "audiocodes",
-  "xId": null,
+  "xId": "audiocodes",
   "addresses": [
     {
       "street": "עופרה חזה",
@@ -19,5 +19,7 @@
       "lat": 32.8499926001775,
       "lon": 35.08924395226826
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "audiocodes"
 }

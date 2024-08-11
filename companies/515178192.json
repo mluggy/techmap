@@ -1,10 +1,10 @@
 {
-  "name": "Scenaric Online",
-  "description": "Experience ultra-luxury river and ocean cruising with enhanced safety and comfort.",
-  "categoryId": 9,
+  "name": "Scenaric",
+  "description": "Dynamic Mobile Customer Interaction Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/scenaric_online-logo.webp",
-  "websiteUrl": "https://www.scenicusa.com/",
+  "websiteUrl": "https://www.scenaric.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.9177299,
       "lon": 34.80439671200948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17969373
 }

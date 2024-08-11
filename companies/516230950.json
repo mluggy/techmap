@@ -1,0 +1,25 @@
+{
+  "name": "3DCOM",
+  "description": "Automation Technology for the Real Estate Industry",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/3dcom.webp",
+  "websiteUrl": "https://www.3dcom.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 71566812,
+  "crunchbaseId": null,
+  "finderId": "3dcom",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 35,
+      "city": "תל אביב - יפו",
+      "lat": 32.06491255078565,
+      "lon": 34.785423595683994
+    }
+  ],
+  "isMultinational": false
+}

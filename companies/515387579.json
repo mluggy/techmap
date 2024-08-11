@@ -1,5 +1,5 @@
 {
-  "name": "Mayu Water Art",
+  "name": "MAYU Water",
   "description": "Elevate your hydration with our carafe that enhances drinking water with structured water and added electrolytes for a healthier you.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mayu-water",
-  "xId": null,
+  "xId": "MAYUWater_",
   "addresses": [
     {
       "street": "נוף ילדות",
@@ -19,5 +19,8 @@
       "lat": 32.3868998,
       "lon": 34.9277458
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MAYUWaterOfficial",
+  "linkedinNum": 17923470
 }

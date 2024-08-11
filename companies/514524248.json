@@ -1,10 +1,10 @@
 {
-  "name": "Acropolis Development And Construction",
-  "description": "Offering authentic Greek hospitality and cuisine in Williamsville, NY.",
-  "categoryId": 9,
+  "name": "Acropolis",
+  "description": "Business Intelligence Analysis",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/acropolis_development_and_construction-logo.webp",
-  "websiteUrl": "https://acropolisopa.com/",
+  "websiteUrl": "https://acropolis.pro/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0764083,
       "lon": 34.7682924
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74597734
 }

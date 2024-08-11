@@ -1,5 +1,5 @@
 {
-  "name": "Brainq Technologies",
+  "name": "BrainQ Technologies",
   "description": "Focused on neurorecovery, they create cloud-based, precision therapies using machine learning to map and treat damaged brain networks.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "brainq-technologies",
   "crunchbaseId": "brainq",
   "finderId": "brainq-technologies",
-  "xId": null,
+  "xId": "brainqtech",
   "addresses": [
     {
       "street": "האוניברסיטה העברית",
@@ -19,5 +19,8 @@
       "lat": 31.7974674,
       "lon": 35.234702
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BrainQTech",
+  "linkedinNum": 5549321
 }

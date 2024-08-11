@@ -1,10 +1,10 @@
 {
-  "name": "Wefix App Israel",
-  "description": "Established in 2006, this company is widely regarded as South Africa's leading retailer for professionally refurbished devices.",
+  "name": "Wefix",
+  "description": "Online Marketplace for Services and Household Chores",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/wefix_app_israel-logo.webp",
-  "websiteUrl": "https://wefix.co.za/",
+  "websiteUrl": "https://www.wefixapp.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "wefix-filling-and-packing-experts",
@@ -19,5 +19,8 @@
       "lat": 32.0262424,
       "lon": 34.7965731
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "wefixappisr",
+  "linkedinNum": 34219713
 }

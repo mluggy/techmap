@@ -1,5 +1,5 @@
 {
-  "name": "Fundguard",
+  "name": "FundGuard",
   "description": "Revolutionizing investment operations by providing real-time, seamlessly integrated accounting data for asset managers and service providers.",
   "categoryId": 10,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.fundguard.com/",
   "careersUrl": "https://www.fundguard.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "fundguard",
   "crunchbaseId": null,
   "finderId": "fundguard",
-  "xId": null,
+  "xId": "FundGuard",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FundGuardPlatform",
+  "linkedinNum": 33262287
 }

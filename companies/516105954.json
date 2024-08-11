@@ -1,5 +1,5 @@
 {
-  "name": "Doocit Personal Care",
+  "name": "Doocit",
   "description": "A cutting-edge solution revolutionizing personalized remote patient care and connectivity.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.0864706,
       "lon": 34.9739278
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68851002
 }

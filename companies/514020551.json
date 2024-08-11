@@ -1,5 +1,5 @@
 {
-  "name": "Astrazeneca Israel",
+  "name": "AstraZeneca",
   "description": "This leading biopharmaceutical company develops innovative medicines utilized by millions globally.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "astrazeneca",
   "crunchbaseId": null,
   "finderId": "astrazeneca",
-  "xId": null,
+  "xId": "astrazeneca",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1620348,
       "lon": 34.9337429
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "AstraZeneca",
+  "linkedinNum": 1603
 }

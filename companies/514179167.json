@@ -1,10 +1,10 @@
 {
-  "name": "Aerotactix Israel",
-  "description": "Developing advanced counter-drone technology to safeguard vital areas like airports, borders, and military installations.",
+  "name": "AeroTactiX",
+  "description": "Compact Unmanned Aerial Vehicle Manufacturer",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/aerotactix_israel-logo.webp",
-  "websiteUrl": "https://www.aerotactics.com/",
+  "websiteUrl": "https://www.aerotactix.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0953971,
       "lon": 34.8531501
     }
-  ]
+  ],
+  "isMultinational": false
 }

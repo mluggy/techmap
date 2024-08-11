@@ -4,7 +4,7 @@
   "categoryId": 4,
   "size": "xs",
   "logoFile": "logos/advisol-logo.webp",
-  "websiteUrl": "http://advisol.co.il/",
+  "websiteUrl": "https://advisol.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1643269,
       "lon": 34.8089037
     }
-  ]
+  ],
+  "isMultinational": false
 }

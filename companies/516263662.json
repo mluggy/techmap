@@ -1,5 +1,5 @@
 {
-  "name": "Simetria Trading Solutions",
+  "name": "Simetria",
   "description": "The only private market globally utilizing DLT technology to enhance trading efficiency in private markets.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "simetria",
-  "xId": null,
+  "xId": "SimetriaE",
   "addresses": [
     {
       "street": "נח מוזס",
@@ -19,5 +19,8 @@
       "lat": 31.9931486,
       "lon": 34.7601647
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Simetria-Digital-Exchange-101221731754626",
+  "linkedinNum": 68815629
 }

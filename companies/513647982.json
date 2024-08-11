@@ -1,10 +1,10 @@
 {
   "name": "Smart Medical Systems",
-  "description": "Devices for Gastrointestinal Endoscopy Procedures.",
+  "description": "Medical Devices for GI Endoscopy",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/smart_medical_systems-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.smartmedsys.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "smart-medical-systems",
@@ -19,5 +19,7 @@
       "lat": 32.1936479,
       "lon": 34.8859423
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1389915
 }

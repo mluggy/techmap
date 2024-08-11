@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.hunters.security/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hunters-ai",
   "crunchbaseId": null,
   "finderId": "hunters",
-  "xId": null,
+  "xId": "hunters_ai",
   "addresses": [
     {
       "street": "היובלים",
@@ -19,5 +19,8 @@
       "lat": 32.13357225,
       "lon": 34.903327191157686
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hunters.ai.cyber",
+  "linkedinNum": 18950768
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Identa",
+  "name": "IDenta Corporation",
   "description": "A cutting-edge handheld device for rapid, accurate detection of various explosives and hazardous materials.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "identa",
-  "xId": null,
+  "xId": "touchnknow",
   "addresses": [
     {
       "street": "דרך בית לחם",
@@ -19,5 +19,8 @@
       "lat": 31.7533288,
       "lon": 35.2187937
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TouchandKnow",
+  "linkedinNum": 5502338
 }

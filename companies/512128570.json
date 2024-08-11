@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.amazon.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "amazon",
   "crunchbaseId": null,
   "finderId": "amazon",
-  "xId": null,
+  "xId": "amazon",
   "addresses": [
     {
       "street": "ריב\"ל",
@@ -19,5 +19,8 @@
       "lat": 32.062477,
       "lon": 34.782957
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Amazon",
+  "linkedinNum": 1586
 }

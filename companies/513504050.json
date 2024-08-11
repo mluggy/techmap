@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cnoga-medical",
-  "xId": null,
+  "xId": "Cnoga",
   "addresses": [
     {
       "street": "תרשיש",
@@ -19,5 +19,8 @@
       "lat": 32.4879599,
       "lon": 34.9040366
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cnogamedicalltd",
+  "linkedinNum": 141654
 }

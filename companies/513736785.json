@@ -1,10 +1,10 @@
 {
-  "name": "Conicit",
-  "description": "They foster scientific and technological research while supporting the training of essential researchers and professionals for the nation's development.",
-  "categoryId": 12,
+  "name": "ConicIT",
+  "description": "AI Engine for Optimizing Mainframe Performance",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/conicit-logo.webp",
-  "websiteUrl": "https://www.conicyt.cl/",
+  "websiteUrl": "https://conicit.biz/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.2749649870264,
       "lon": 34.851516603732136
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 879679
 }

@@ -1,15 +1,18 @@
 {
-  "name": "Weknow",
-  "description": "Two adventurous men explore the true experience of labor pains to debunk common misconceptions.",
-  "categoryId": 8,
+  "name": "WeKnow",
+  "description": "Marketplace for On-demand Market Research",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/weknow-logo.webp",
-  "websiteUrl": "https://weknow.co.il/",
+  "websiteUrl": "https://weknow.network/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "weknow1",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "WeKnowNetwork",
+  "linkedinNum": 10923559
 }

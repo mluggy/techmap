@@ -1,5 +1,5 @@
 {
-  "name": "Variantyx Israel",
+  "name": "Variantyx",
   "description": "Revolutionizing genetic testing by unifying diverse testing reports into a comprehensive solution.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "variantyx",
   "crunchbaseId": null,
   "finderId": "variantyx",
-  "xId": null,
+  "xId": "variantyx",
   "addresses": [
     {
       "street": "גלגל הפלדה",
@@ -19,5 +19,8 @@
       "lat": 32.1726475,
       "lon": 34.8071901
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Variantyx",
+  "linkedinNum": 5378447
 }

@@ -1,16 +1,16 @@
 {
   "name": "Vibrant",
-  "description": "Leading Bangladeshi lifestyle brand under US Bangla Group offering a complete range of fashion solutions for men, women, and children online.",
-  "categoryId": 9,
+  "description": "Non-drug Treatment of Chronic Idiopathic Constipation",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/vibrant-logo.webp",
-  "websiteUrl": "https://www.vibrantbd.com/",
+  "websiteUrl": "https://www.vibrantgastro.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vibrant",
-  "xId": null,
+  "xId": "vibrantgastro",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,8 @@
       "lat": 32.6578027,
       "lon": 35.1002987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "vibrantgastro",
+  "linkedinNum": 71487937
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Scadafence",
+  "name": "SCADAfence",
   "description": "A specialized OT security solution enabling rapid detection and mitigation of threats across operational environments.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "scadafence",
   "crunchbaseId": null,
   "finderId": "scadafence",
-  "xId": null,
+  "xId": "SCADAfence",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.08452905,
       "lon": 34.80020929592628
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SCADAfence",
+  "linkedinNum": 9181505
 }

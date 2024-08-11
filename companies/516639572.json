@@ -1,13 +1,13 @@
 {
   "name": "Codium",
-  "description": "This innovative platform provides free, high-speed AI-driven code completion, search, and chat for over 70 programming languages, seamlessly integrating with popular IDEs.",
-  "categoryId": 1,
+  "description": "AI-powered Interactive Code Integrity Tool",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/codium-logo.webp",
-  "websiteUrl": "https://codeium.com/",
-  "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "websiteUrl": "https://www.codium.ai",
+  "careersUrl": "https://www.codium.ai/careers/",
+  "isHiring": true,
+  "linkedinId": "codiumai",
   "crunchbaseId": null,
   "finderId": "codium",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.070693,
       "lon": 34.785176
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 88026039
 }

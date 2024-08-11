@@ -1,5 +1,5 @@
 {
-  "name": "Eplane",
+  "name": "ePlane",
   "description": "An innovative online hub for aerospace parts and aviation repair services.",
   "categoryId": 3,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "eplaneai",
   "crunchbaseId": "eplane",
   "finderId": "eplane",
-  "xId": null,
+  "xId": "eplanemarket",
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -19,5 +19,8 @@
       "lat": 32.0935738,
       "lon": 34.8231612
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ePlaneMarket",
+  "linkedinNum": 17873928
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "datos-health",
-  "xId": null,
+  "xId": "DatosHealth",
   "addresses": [
     {
       "street": "ויסבורג חיים",
@@ -19,5 +19,8 @@
       "lat": 32.119953794480104,
       "lon": 34.82855673339346
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DatosHealth",
+  "linkedinNum": 9450850
 }

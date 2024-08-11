@@ -1,0 +1,25 @@
+{
+  "name": "Reseadent",
+  "description": "Underwater Robotic Navigation",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/reseadent.webp",
+  "websiteUrl": "https://reseadent.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "reseadent",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "ברנדה זאב",
+      "houseNumber": null,
+      "city": "פתח תקווה",
+      "lat": 32.080306247141266,
+      "lon": 34.885471106410826
+    }
+  ],
+  "isMultinational": false
+}

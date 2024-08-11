@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "safend",
-  "xId": null,
+  "xId": "safend",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,7 @@
       "lat": 32.0720324,
       "lon": 34.779107
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 20050
 }

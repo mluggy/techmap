@@ -1,5 +1,5 @@
 {
-  "name": "Cathworks",
+  "name": "CathWorks",
   "description": "A globally approved system that meets CE marking standards for enhancing coronary artery disease diagnostics.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cathworks",
-  "xId": null,
+  "xId": "CathWorks",
   "addresses": [
     {
       "street": "רפפורט",
@@ -19,5 +19,8 @@
       "lat": 32.1920641,
       "lon": 34.8913155
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CathWorksFFRangio",
+  "linkedinNum": 29011590
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Naveh Pharma 1996",
+  "name": "Naveh Pharma",
   "description": "They specialize in creating and supplying medical and health products.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "naveh-pharma-ltd-",
   "crunchbaseId": null,
   "finderId": "naveh-pharma",
-  "xId": null,
+  "xId": "naveh1pharma",
   "addresses": [
     {
       "street": "יד חרוצים",
@@ -19,5 +19,8 @@
       "lat": 32.2794157,
       "lon": 34.86421640322024
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NavehPharma",
+  "linkedinNum": 8986142
 }

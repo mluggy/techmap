@@ -1,0 +1,25 @@
+{
+  "name": "FeelThere",
+  "description": "Live Streaming Platform",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/feelthere.webp",
+  "websiteUrl": "https://www.FeelThere.live",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "feelthere",
+  "xId": null,
+  "facebookId": "FeelThere.Live",
+  "addresses": [
+    {
+      "street": "האורגים",
+      "houseNumber": 21,
+      "city": "אשדוד",
+      "lat": 31.812384142615276,
+      "lon": 34.65631663839678
+    }
+  ],
+  "isMultinational": false
+}

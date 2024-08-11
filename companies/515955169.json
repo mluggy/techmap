@@ -1,5 +1,5 @@
 {
-  "name": "Streetwize Simulations",
+  "name": "StreetWize Simulations",
   "description": "A platform providing immersive and realistic VR training for road safety to educate all road users using real-life scenarios and accident reconstructions.",
   "categoryId": 4,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "streetwize-simulations",
-  "xId": null,
+  "xId": "streetwizevr",
   "addresses": [
     {
       "street": "זכרון יעקב",
@@ -19,5 +19,8 @@
       "lat": 32.084115,
       "lon": 34.790161
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "StreetWizeVR",
+  "linkedinNum": 12645139
 }

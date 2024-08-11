@@ -1,5 +1,5 @@
 {
-  "name": "Coverr Platform",
+  "name": "Coverr.co",
   "description": "Access unique, royalty-free stock videos for any project with no attribution needed.",
   "categoryId": 8,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "coverr",
-  "xId": null,
+  "xId": "coverrco",
   "addresses": [
     {
       "street": "שד' בן ציון",
@@ -19,5 +19,8 @@
       "lat": 32.072423,
       "lon": 34.777883
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "coverrco",
+  "linkedinNum": 18119218
 }

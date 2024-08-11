@@ -1,5 +1,5 @@
 {
-  "name": "Fintastic",
+  "name": "fintastic",
   "description": "A next-generation platform offering advanced collaboration and workflow tools for efficient financial planning and analysis in B2B SaaS environments.",
   "categoryId": 10,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.065253,
       "lon": 34.785664
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 70880949
 }

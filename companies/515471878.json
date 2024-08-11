@@ -1,5 +1,5 @@
 {
-  "name": "Demandoo Insurance Agency",
+  "name": "Demandoo Insurance",
   "description": "Providing on-demand, stress-free insurance with best-in-class fractional coverage, enabling significant savings by paying only for what you need.",
   "categoryId": 10,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 23759516
 }

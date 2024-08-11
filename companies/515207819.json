@@ -1,5 +1,5 @@
 {
-  "name": "Brighttonix Medical",
+  "name": "BrightTonix Medical",
   "description": "A leader in innovative oral care, revolutionizing teeth whitening and mouth rejuvenation for both dental and aesthetic markets globally.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "brighttonix",
   "crunchbaseId": "brighttonix-medical",
   "finderId": "brighttonix-medical",
-  "xId": null,
+  "xId": "BrightTonix",
   "addresses": [
     {
       "street": "מורדי הגטאות",
@@ -19,5 +19,7 @@
       "lat": 32.1788129,
       "lon": 34.8916652
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17996306
 }

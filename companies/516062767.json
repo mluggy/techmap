@@ -1,10 +1,10 @@
 {
   "name": "Neurogait",
-  "description": "Offering 28 customizable exercises through an insole, tailored with professional healthcare advice.",
+  "description": "Monitoring  Parkinson's Using AI",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/neurogait-logo.webp",
-  "websiteUrl": "https://www.neurogait.ai/",
+  "websiteUrl": "https://www.neurogait.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2170222,
       "lon": 34.8625378
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 37436801
 }

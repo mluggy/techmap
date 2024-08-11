@@ -1,16 +1,16 @@
 {
-  "name": "Highiot",
-  "description": "Subscription-based intelligent home security solutions.",
-  "categoryId": 13,
+  "name": "Akita",
+  "description": "Smart Home Security as a Service",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/highiot-logo.webp",
-  "websiteUrl": "http://www.highestrc.com/",
+  "websiteUrl": "https://akita.cloud/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "highiot",
-  "xId": null,
+  "xId": "HighIoT",
   "addresses": [
     {
       "street": "התור",
@@ -19,5 +19,8 @@
       "lat": 32.3042805,
       "lon": 34.883819
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "akitasmarthome",
+  "linkedinNum": 15263112
 }

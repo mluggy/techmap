@@ -1,0 +1,25 @@
+{
+  "name": "SPEAK",
+  "description": "On-demand Live Language Lessons",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/speak.webp",
+  "websiteUrl": "https://www.speaknow.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 18158688,
+  "crunchbaseId": null,
+  "finderId": "speak",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "החורטים",
+      "houseNumber": 4,
+      "city": "חולון",
+      "lat": 32.02777988503332,
+      "lon": 34.79511635889313
+    }
+  ],
+  "isMultinational": false
+}

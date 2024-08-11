@@ -1,5 +1,5 @@
 {
-  "name": "Cyberwrite Israel",
+  "name": "Cyberwrite",
   "description": "Cyberwrite's platform enhances brokers' client interactions with data-driven insights for informed cyber insurance discussions.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "cyberwrite",
   "crunchbaseId": "cyberwrite",
   "finderId": "cybewrite",
-  "xId": null,
+  "xId": "cyberwrite_inc",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,7 @@
       "lat": 31.9661405,
       "lon": 34.7997086
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10556543
 }

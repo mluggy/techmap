@@ -1,5 +1,5 @@
 {
-  "name": "Nokia Solutions And Networks Israel",
+  "name": "Nokia",
   "description": "Providing advanced solutions for mobile, fixed, and cloud networks, we drive productivity, sustainability, and inclusivity globally.",
   "categoryId": 18,
   "size": "m",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.nokia.com/",
   "careersUrl": "https://www.nokia.com/about-us/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "nokia",
   "crunchbaseId": null,
   "finderId": "nokia",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1620348,
       "lon": 34.9337429
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 1070
 }

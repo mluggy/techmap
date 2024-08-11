@@ -1,5 +1,5 @@
 {
-  "name": "Dealhub",
+  "name": "DealHub",
   "description": "Streamlining sales and operational workflows with a no-code platform for real-time adaptability and efficiency.",
   "categoryId": 14,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://dealhub.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dealhubio",
   "crunchbaseId": null,
   "finderId": "valooto",
-  "xId": null,
+  "xId": "DealHubIO",
   "addresses": [
     {
       "street": "הרוקמים",
@@ -19,5 +19,9 @@
       "lat": 32.0077054,
       "lon": 34.80060304320986
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DealHub.io",
+  "linkedinNum": 5013510,
+  "comeetId": "dealhub/86.005"
 }

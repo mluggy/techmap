@@ -1,16 +1,16 @@
 {
-  "name": "Zotapay Payments",
-  "description": "Providing unique cross-border payment solutions for online businesses to connect with local and global customers.",
+  "name": "ZotaPay",
+  "description": "Online Payment Processing",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/zotapay_payments-logo.webp",
-  "websiteUrl": "https://zota.com/",
+  "websiteUrl": "https://zotapay.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "zota-technology",
   "crunchbaseId": null,
   "finderId": "zotapay",
-  "xId": null,
+  "xId": "zotapay",
   "addresses": [
     {
       "street": "אסתר המלכה",
@@ -19,5 +19,8 @@
       "lat": 32.07898,
       "lon": 34.774362
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "zotapay",
+  "linkedinNum": 11039650
 }

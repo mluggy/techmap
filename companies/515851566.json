@@ -1,5 +1,5 @@
 {
-  "name": "Tailor Ed",
+  "name": "Tailor-ED",
   "description": "Learning Bot powered by artificial intelligence.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "tailor-ed",
   "finderId": "tailored",
-  "xId": null,
+  "xId": "tailor__ed",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +19,8 @@
       "lat": 32.070828,
       "lon": 34.777763
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tailor.ed.instruction",
+  "linkedinNum": 13031918
 }

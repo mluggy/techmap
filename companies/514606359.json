@@ -1,5 +1,5 @@
 {
-  "name": "NoviSign Digital Signage",
+  "name": "NoviSign",
   "description": "Cloud digital signage software.",
   "categoryId": 8,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "novisign-digital-signage",
   "crunchbaseId": null,
   "finderId": "novisign",
-  "xId": null,
+  "xId": "novisign",
   "addresses": [
     {
       "street": "דרך הים",
@@ -19,5 +19,8 @@
       "lat": 32.1856145,
       "lon": 34.951263
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "novisign",
+  "linkedinNum": 2661574
 }

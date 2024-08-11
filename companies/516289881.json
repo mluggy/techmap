@@ -1,10 +1,10 @@
 {
-  "name": "Talkon",
-  "description": "אפליקציה מקצועית לניהול טיפול יעיל עבור קלינאי תקשורת, כולל תרגול בבית.",
+  "name": "TalkON",
+  "description": "SaaS System for Helping Improve Speech Therapy Outcomes",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/talkon-logo.webp",
-  "websiteUrl": "https://talkon.health/?noredirect=true",
+  "websiteUrl": "https://talkon.online/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.4236614,
       "lon": 34.9522512
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "talkonIL",
+  "linkedinNum": 71811267
 }

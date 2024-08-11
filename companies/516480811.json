@@ -10,7 +10,7 @@
   "linkedinId": "chaos-labs-xyz",
   "crunchbaseId": "chaos-labs",
   "finderId": "chaos-labs",
-  "xId": null,
+  "xId": "chaos_labs",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.0634798,
       "lon": 34.7802841
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81000155
 }

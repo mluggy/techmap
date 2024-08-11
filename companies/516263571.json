@@ -7,10 +7,10 @@
   "websiteUrl": "https://briya.com/",
   "careersUrl": "https://www.linkedin.com/company/briyahealth/jobs/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "briyahealth",
   "crunchbaseId": null,
   "finderId": "bria-interoperability",
-  "xId": null,
+  "xId": "BriyaHealth",
   "addresses": [
     {
       "street": "שאול המלך",
@@ -19,5 +19,8 @@
       "lat": 32.0777064,
       "lon": 34.78983779282785
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "briya.health",
+  "linkedinNum": 79982772
 }

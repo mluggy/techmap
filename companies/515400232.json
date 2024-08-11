@@ -1,5 +1,5 @@
 {
-  "name": "Loox Online",
+  "name": "Loox",
   "description": "A social proof marketing platform enabling over 100,000 Shopify merchants to grow their brands by leveraging real customer experiences.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "loox",
   "crunchbaseId": null,
   "finderId": "loox",
-  "xId": null,
+  "xId": "looxio",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0835579,
       "lon": 34.8040988
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "looxreviews",
+  "linkedinNum": 10227899
 }

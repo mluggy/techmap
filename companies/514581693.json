@@ -1,5 +1,5 @@
 {
-  "name": "Solarwat",
+  "name": "SolarWat",
   "description": "A privately owned Israeli solar technology company offering patented, next-generation solar systems with significantly higher energy yields.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.2579121,
       "lon": 34.8890969
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 7967441
 }

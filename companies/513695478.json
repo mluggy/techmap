@@ -1,16 +1,16 @@
 {
-  "name": "Google Israel",
+  "name": "Google",
   "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking ...",
-  "categoryId": 8,
   "size": "xl",
+  "categoryId": 8,
   "logoFile": "logos/google-logo.webp",
-  "websiteUrl": "https://www.google.com/",
+  "websiteUrl": "https://careers.google.com/locations/tel-aviv-haifa/",
   "careersUrl": "https://www.google.com/about/careers/applications/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "google",
   "crunchbaseId": null,
   "finderId": "google",
-  "xId": null,
+  "xId": "google",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0700073,
       "lon": 34.794193699999994
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Google",
+  "linkedinNum": 1441
 }

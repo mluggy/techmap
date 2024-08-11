@@ -1,5 +1,5 @@
 {
-  "name": "Whitestream",
+  "name": "whitestream",
   "description": "Specializing in crypto intelligence and analytics, this company delivers actionable insights to prevent fraud, perform due diligence, and investigate cybercrime.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "whitestream",
   "crunchbaseId": null,
   "finderId": "whitestream",
-  "xId": null,
+  "xId": "whitestream5",
   "addresses": [
     {
       "street": "נורדאו",
@@ -19,5 +19,8 @@
       "lat": 32.8061157,
       "lon": 35.1066748
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "whitestream.io",
+  "linkedinNum": 17884291
 }

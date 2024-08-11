@@ -10,7 +10,7 @@
   "linkedinId": "anagog",
   "crunchbaseId": null,
   "finderId": "anagog",
-  "xId": null,
+  "xId": "@anagogSDK",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.07003,
       "lon": 34.786371
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AnagogSDK",
+  "linkedinNum": 5393746
 }

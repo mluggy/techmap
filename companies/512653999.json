@@ -1,5 +1,5 @@
 {
-  "name": "Oracle Demantra R D Center Israel",
+  "name": "Oracle",
   "description": "Providing a complete suite of integrated cloud applications and platform services.",
   "categoryId": 6,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "oracle",
   "crunchbaseId": null,
   "finderId": "oracle",
-  "xId": null,
+  "xId": "Oracle",
   "addresses": [
     {
       "street": "ברט אהרון",
@@ -19,5 +19,8 @@
       "lat": 32.101395,
       "lon": 34.8613485
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "oracleisrael",
+  "linkedinNum": 1028
 }

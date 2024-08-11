@@ -1,5 +1,5 @@
 {
-  "name": "Kubemq",
+  "name": "KubeMQ",
   "description": "Providing latency-critical, Kubernetes-native multi-edge cloud solutions for the mobility demands of 5G and future 6G.",
   "categoryId": 18,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "kubemq",
-  "xId": null,
+  "xId": "kubemq",
   "addresses": [
     {
       "street": "המעלית",
@@ -19,5 +19,7 @@
       "lat": 32.2745434,
       "lon": 34.9199989
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74477891
 }

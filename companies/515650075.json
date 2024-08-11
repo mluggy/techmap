@@ -1,5 +1,5 @@
 {
-  "name": "Sensepass",
+  "name": "SensePass",
   "description": "Centralizing digital payments into one platform, our solution provides comprehensive activity views through various customer-facing tools and a unified dashboard.",
   "categoryId": 10,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 31.9128286,
       "lon": 34.7940787
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27108093
 }

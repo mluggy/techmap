@@ -1,15 +1,17 @@
 {
-  "name": "Agriware Agricultural Solutions",
-  "description": "A multi-user web application for manager coordination with sales teams and dealers.",
-  "categoryId": 14,
+  "name": "AgriWare",
+  "description": "Tree-thinning Solution",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/agriware_agricultural_solutions-logo.webp",
-  "websiteUrl": "https://www.agri-ware.com/",
+  "websiteUrl": "https://www.agriware.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "agriware-inc-",
   "crunchbaseId": null,
   "finderId": "agriware",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "linkedinNum": 78840961
 }

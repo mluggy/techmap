@@ -1,5 +1,5 @@
 {
-  "name": "Equalweb",
+  "name": "EqualWeb",
   "description": "Providing digital accessibility solutions trusted by diverse businesses to meet international standards.",
   "categoryId": 8,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.equalweb.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "equalweb",
   "crunchbaseId": null,
   "finderId": "equalweb",
-  "xId": null,
+  "xId": "Equal_web",
   "addresses": [
     {
       "street": "הקדר",
@@ -19,5 +19,8 @@
       "lat": 32.3226108,
       "lon": 34.8785137
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EqualWebDotCom",
+  "linkedinNum": 11460179
 }

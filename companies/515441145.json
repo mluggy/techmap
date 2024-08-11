@@ -1,10 +1,10 @@
 {
-  "name": "Toya Tap",
+  "name": "ToyaTap",
   "description": "An engaging educational game that nurtures essential math skills in children by enhancing their understanding of numbers and quantities.",
   "categoryId": 11,
   "size": "xs",
   "logoFile": "logos/toya_tap-logo.webp",
-  "websiteUrl": "http://www.toyatap.com/",
+  "websiteUrl": "https://www.toyatap.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "toyatap",
@@ -19,5 +19,7 @@
       "lat": 32.5196688,
       "lon": 35.0110684
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11752396
 }

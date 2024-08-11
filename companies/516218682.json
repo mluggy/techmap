@@ -1,5 +1,5 @@
 {
-  "name": "Swift Duct",
+  "name": "SwiftDuct",
   "description": "A company specializing in navigation technology that uses fluid conductivity differences and integrated sensors to provide real-time anatomical tracking within ducts.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.0215775,
       "lon": 34.854526
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72135609
 }

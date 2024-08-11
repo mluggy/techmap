@@ -1,5 +1,5 @@
 {
-  "name": "Exoprother Medical",
+  "name": "ExoProTher Medical",
   "description": "Offering a nanoparticle-based cancer therapy that targets the p53 tumor suppression mechanism mutated in over 60% of cancers.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.7851231,
       "lon": 34.9809681
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ExoProTher",
+  "linkedinNum": 27192102
 }

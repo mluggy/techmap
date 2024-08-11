@@ -1,10 +1,10 @@
 {
   "name": "Luxembourg Industries",
-  "description": "Standard Agricultural Pest-control Solutions.",
-  "categoryId": 12,
+  "description": "Generic Crop-protection Products",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/luxembourg_industries_ltd-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.luxembourg.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "luxembourg-industries-ltd-",
@@ -19,5 +19,8 @@
       "lat": 32.063211,
       "lon": 34.763353
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "luxembourgindustries",
+  "linkedinNum": 2919142
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "terafence",
-  "xId": null,
+  "xId": "terafence",
   "addresses": [
     {
       "street": "חת נחום",
@@ -19,5 +19,7 @@
       "lat": 32.7835851,
       "lon": 34.9609592
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13996612
 }

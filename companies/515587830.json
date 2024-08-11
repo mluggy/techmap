@@ -1,16 +1,16 @@
 {
-  "name": "Bioeye",
-  "description": "A pioneering app that monitors eye responses via smartphone in 60 seconds to detect potential brain diseases, offering affordable and precise results.",
+  "name": "BioEye",
+  "description": "Monitoring Cognitive States through the Eyes",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/bioeye-logo.webp",
-  "websiteUrl": "https://braineye.com/",
+  "websiteUrl": "https://www.bioeye.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "bioeye",
   "crunchbaseId": null,
   "finderId": "bioeye",
-  "xId": null,
+  "xId": "AppBioEye",
   "addresses": [
     {
       "street": "רפפורט",
@@ -19,5 +19,8 @@
       "lat": 32.191958,
       "lon": 34.8920687
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AppBioEye",
+  "linkedinNum": 18384052
 }

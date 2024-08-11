@@ -1,16 +1,16 @@
 {
   "name": "Buzzilla",
-  "description": "כלי מחקר מתקדם המספק תמונה מקיפה של השיח ברשת באמצעות ניתוח כמותי ואיכותני.",
-  "categoryId": 2,
+  "description": "Social Media Monitoring and Analysis",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/buzzilla-logo.webp",
-  "websiteUrl": "https://buzzilla.co.il/",
+  "websiteUrl": "https://www.buzzilla.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "buzzilla",
   "crunchbaseId": null,
   "finderId": "buzzilla",
-  "xId": null,
+  "xId": "buzzilla",
   "addresses": [
     {
       "street": "מצדה",
@@ -19,5 +19,8 @@
       "lat": 32.0935847,
       "lon": 34.8251159
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "buzzilla.inc",
+  "linkedinNum": 760059
 }

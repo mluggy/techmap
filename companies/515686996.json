@@ -1,10 +1,10 @@
 {
   "name": "Mycelium",
-  "description": "The leading center in Israel for mycology professionals and enthusiasts, offering unique mushroom cultures, home cultivation kits, equipment, and practical growing information.",
-  "categoryId": 9,
+  "description": "Route Management and Optimization",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/mycelium-logo.webp",
-  "websiteUrl": "https://www.mycelium.co.il/",
+  "websiteUrl": "https://mycelium.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1755153,
       "lon": 34.8090082
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 33198414
 }

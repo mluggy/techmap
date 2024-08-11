@@ -10,7 +10,7 @@
   "linkedinId": "inova.diamonds",
   "crunchbaseId": null,
   "finderId": "inova-diamonds",
-  "xId": null,
+  "xId": "InovaDiamonds",
   "addresses": [
     {
       "street": "אחד העם",
@@ -19,5 +19,8 @@
       "lat": 32.0843991,
       "lon": 34.8901317
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "inovadiamonds",
+  "linkedinNum": 17896521
 }

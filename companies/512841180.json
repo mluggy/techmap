@@ -10,7 +10,7 @@
   "linkedinId": "zend-technologies",
   "crunchbaseId": "zend-technologies",
   "finderId": "zend-technologies",
-  "xId": null,
+  "xId": "zend",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.0970131,
       "lon": 34.9105972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZendTechnologies",
+  "linkedinNum": 12625
 }

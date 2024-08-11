@@ -1,16 +1,16 @@
 {
-  "name": "Hellopurple",
-  "description": "Offering color-matching employment opportunities in the innovative gaming industry.",
-  "categoryId": 11,
+  "name": "hellopurple",
+  "description": "Event Planning Marketplace for Businesses",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/hellopurple-logo.webp",
-  "websiteUrl": "https://app.hellopurple.com/",
+  "websiteUrl": "https://hellopurple.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "hellopurple",
   "crunchbaseId": null,
   "finderId": "hellopurple",
-  "xId": null,
+  "xId": "i",
   "addresses": [
     {
       "street": "חזה עופרה",
@@ -19,5 +19,8 @@
       "lat": 32.04287483454876,
       "lon": 35.04732573363285
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hellopurpleevents",
+  "linkedinNum": 12630418
 }

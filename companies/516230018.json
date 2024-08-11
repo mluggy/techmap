@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.walnut.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "teamwalnut",
   "crunchbaseId": null,
   "finderId": "walnut",
-  "xId": null,
+  "xId": "walnutinc",
   "addresses": [
     {
       "street": "דובנוב",
@@ -19,5 +19,8 @@
       "lat": 32.0750294,
       "lon": 34.7838325
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WalnutAI",
+  "linkedinNum": 67760135
 }

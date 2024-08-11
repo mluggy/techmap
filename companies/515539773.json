@@ -1,5 +1,5 @@
 {
-  "name": "Class Me",
+  "name": "Class.Me",
   "description": "A platform facilitating virtual classrooms and affordable tutor support for students and teachers.",
   "categoryId": 14,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.12505738415727,
       "lon": 34.79625422005718
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Class.Me",
+  "linkedinNum": 17988712
 }

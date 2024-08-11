@@ -1,10 +1,10 @@
 {
   "name": "Leorex",
-  "description": "Innovative advanced technology for facial skin rejuvenation and anti-aging with natural, long-lasting effects, developed by Prof. Ingeman from Technion.",
+  "description": "Dermocosmetic Skincare Products",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/leorex-logo.webp",
-  "websiteUrl": "https://leorexisrael.co.il/",
+  "websiteUrl": "https://leorexboost.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7845356,
       "lon": 34.9577195
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LEOREXISRAEL"
 }

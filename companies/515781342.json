@@ -1,5 +1,5 @@
 {
-  "name": "Pathkeeper Surgical",
+  "name": "PathKeeper Surgical",
   "description": "This innovative solution enhances surgical planning and navigation with real-time, high-precision 3D imaging for precise tool and anatomy tracking, ensuring optimal clinical results.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 31.9348826,
       "lon": 34.8079343
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PathKeeperSurgical",
+  "linkedinNum": 65688482
 }

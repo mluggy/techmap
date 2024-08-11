@@ -10,7 +10,7 @@
   "linkedinId": "medinol",
   "crunchbaseId": null,
   "finderId": "medinol",
-  "xId": null,
+  "xId": "medinol_stents",
   "addresses": [
     {
       "street": "רח 2184",
@@ -19,5 +19,8 @@
       "lat": 32.0377129,
       "lon": 34.7484665
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 145260
 }

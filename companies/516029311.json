@@ -1,5 +1,5 @@
 {
-  "name": "Finq Digital",
+  "name": "FINQ",
   "description": "An intelligent investment platform utilizing big data and AI to provide modern, intermediary-free financial solutions for all.",
   "categoryId": 10,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.06565,
       "lon": 34.774042
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "finqai"
 }

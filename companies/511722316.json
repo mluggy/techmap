@@ -1,16 +1,16 @@
 {
-  "name": "Alvarion",
-  "description": "Self-Managing Wireless Network Solutions.",
-  "categoryId": 18,
+  "name": "Alvarion Technologies",
+  "description": "Autonomous Wi-Fi Solutions",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/alvarion-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.supercom.com/alvarion",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "alvarion-ltd",
   "crunchbaseId": "alvarion",
   "finderId": "alvarion",
-  "xId": null,
+  "xId": "Alvarion4G",
   "addresses": [
     {
       "street": "קלוזנר",
@@ -19,5 +19,8 @@
       "lat": 31.9210216,
       "lon": 34.8764925
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "alvariontech",
+  "linkedinNum": 6400
 }

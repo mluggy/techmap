@@ -1,5 +1,5 @@
 {
-  "name": "Rapyd Hzdl",
+  "name": "Rapyd Financial Network",
   "description": "A globally operating FinTech company providing financial services through regulated regional and local entities.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "rapydpayments",
   "crunchbaseId": "rapyd",
   "finderId": "rapyd",
-  "xId": null,
+  "xId": "RapydPayments",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rapydpayments",
+  "linkedinNum": 18245093,
+  "comeetId": "rapyd/73.00E"
 }

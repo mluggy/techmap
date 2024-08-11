@@ -1,10 +1,10 @@
 {
   "name": "Pontic Health",
-  "description": "A networking site dedicated to dental industry experts.",
-  "categoryId": 12,
+  "description": "Professional Networking Platform for Dental Professionals",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/pontic_health-logo.webp",
-  "websiteUrl": "https://www.healthypontiac.org/",
+  "websiteUrl": "https://www.pontichealth.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1873418,
       "lon": 34.8933454
     }
-  ]
+  ],
+  "isMultinational": false
 }

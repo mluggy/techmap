@@ -1,10 +1,10 @@
 {
   "name": "Ascender Technologies",
-  "description": "This video is an un-edited demo of Ascender's Remote Android technology on Packet's Type 2A Cavium 96 core processor server with more technical details than the ...",
-  "categoryId": 4,
+  "description": "Android Integration in the Cloud",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ascender_technologies-logo.webp",
-  "websiteUrl": "https://www.ascender.com/",
+  "websiteUrl": "https://androidinthecloud.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ascender-technologies-ltd-",
@@ -19,5 +19,7 @@
       "lat": 31.8958404,
       "lon": 34.8224282
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3244020
 }

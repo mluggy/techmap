@@ -1,10 +1,10 @@
 {
-  "name": "Carelon Digital Platforms Israel",
+  "name": "Carelon",
   "description": "A trusted health insurance provider offering plans for Medicare, medical, dental, vision, and employers.",
-  "categoryId": 12,
   "size": "xl",
+  "categoryId": 12,
   "logoFile": "logos/carelon_digital_platforms_israel-logo.webp",
-  "websiteUrl": "https://www.anthem.com/",
+  "websiteUrl": "https://www.carelondigitalplatforms.com/israel",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 81512479
 }

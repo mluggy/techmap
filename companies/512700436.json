@@ -1,5 +1,5 @@
 {
-  "name": "Mobileye Vision Technologies",
+  "name": "Mobileye",
   "description": "Pioneering the shift from advanced driver-assistance to autonomous driving with cutting-edge AI expertise.",
   "categoryId": 5,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.mobileye.com/",
   "careersUrl": "https://careers.mobileye.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "mobileye",
   "crunchbaseId": null,
   "finderId": "mobileye",
-  "xId": null,
+  "xId": "Mobileye",
   "addresses": [
     {
       "street": "הלוי שלמה (מומו)",
@@ -19,5 +19,8 @@
       "lat": 31.8014544,
       "lon": 35.2083302
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Mobileye",
+  "linkedinNum": 24017
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Optimove Marketing",
+  "name": "Optimove",
   "description": "Focusing on customer-centric marketing, they help brands achieve a 33% average increase in customer lifetime value.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "optimove",
   "crunchbaseId": null,
   "finderId": "optimove",
-  "xId": null,
+  "xId": "optimove",
   "addresses": [
     {
       "street": "הכפר",
@@ -19,5 +19,8 @@
       "lat": 32.1985745,
       "lon": 34.8302092
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "optimove",
+  "linkedinNum": 227901
 }

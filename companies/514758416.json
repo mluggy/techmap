@@ -1,16 +1,16 @@
 {
-  "name": "N 2 W Software",
-  "description": "Offers backup and recovery solutions for both on-premise and AWS cloud environments, including AWS Outposts.",
-  "categoryId": 6,
+  "name": "N2W Software",
+  "description": "Cloud Backup and Recovery Solutions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/n_2_w_software-logo.webp",
-  "websiteUrl": "https://docs.n2ws.com/",
+  "websiteUrl": "https://www.n2ws.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "n2w-software",
-  "xId": null,
+  "xId": "n2wsoftware",
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -19,5 +19,8 @@
       "lat": 32.7897925,
       "lon": 34.9593655
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "n2wsoftware",
+  "linkedinNum": 3142329
 }

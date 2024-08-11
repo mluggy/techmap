@@ -1,10 +1,10 @@
 {
   "name": "Calodar",
-  "description": "With 60 years of specialized experience, this company excels in distributing sanitary products and possesses unmatched expertise in product application and market knowledge.",
-  "categoryId": 9,
+  "description": "Nutritional Scanning Solution",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/calodar-logo.webp",
-  "websiteUrl": "https://www.calodar.be/",
+  "websiteUrl": "https://calodar.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "calodar-ai",
@@ -19,5 +19,7 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82640071
 }

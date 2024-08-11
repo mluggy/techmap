@@ -1,5 +1,5 @@
 {
-  "name": "New Brightsource Energy",
+  "name": "New BrightSource Energy",
   "description": "A cloud-based solution for optimizing and managing renewable energy assets to maximize revenues and streamline planning.",
   "categoryId": 17,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "new-brightsource-energy",
-  "xId": null,
+  "xId": "BrightSource",
   "addresses": [
     {
       "street": "קרית מדע",
@@ -19,5 +19,8 @@
       "lat": 31.8023267,
       "lon": 35.2092883
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BrightSourceEnergy",
+  "linkedinNum": 2413822
 }

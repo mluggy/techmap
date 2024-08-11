@@ -1,10 +1,10 @@
 {
-  "name": "Wonders Of Nature Foodtech",
-  "description": "A global campaign that determined the new seven natural wonders based on over 500 million votes worldwide.",
-  "categoryId": 9,
+  "name": "Wonders Of Nature",
+  "description": "Meat Alternatives",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/wonders_of_nature_foodtech-logo.webp",
-  "websiteUrl": "https://nature.new7wonders.com/",
+  "websiteUrl": "https://www.wondermeat.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 33.08094603277282,
       "lon": 35.150746559827496
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WondersOfNature.il"
 }

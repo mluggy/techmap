@@ -1,5 +1,5 @@
 {
-  "name": "Viably Capital",
+  "name": "Viably",
   "description": "Streamline business finances with an all-in-one platform offering banking, insights, and management tools.",
   "categoryId": 10,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "runviably",
+  "linkedinNum": 77011923
 }

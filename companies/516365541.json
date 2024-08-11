@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "common-ninja",
-  "xId": null,
+  "xId": "commonninja",
   "addresses": [
     {
       "street": "מפי",
@@ -19,5 +19,7 @@
       "lat": 32.2746979,
       "lon": 34.8602605
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CommonNinja"
 }

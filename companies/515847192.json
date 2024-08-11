@@ -1,10 +1,10 @@
 {
-  "name": "Tandoo E H",
-  "description": "A global online chat platform for 1-on-1 and multiplayer interactions with strangers.",
-  "categoryId": 8,
+  "name": "Tandoo",
+  "description": "Online Learning Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/tandoo_e_h-logo.webp",
-  "websiteUrl": "http://www.tandoo.live/",
+  "websiteUrl": "https://demo.tandoo.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.22908721419188,
       "lon": 35.16241404977814
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18703329
 }

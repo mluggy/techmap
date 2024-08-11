@@ -1,5 +1,5 @@
 {
-  "name": "Muzicwise",
+  "name": "MuzicWise",
   "description": "Offering a rich library of production and royalty-free music, Muzicwise helps you effortlessly incorporate soundtracks into your projects.",
   "categoryId": 8,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "muzicwise",
-  "xId": null,
+  "xId": "muzicwise",
   "addresses": [
     {
       "street": "שבי ציון",
@@ -19,5 +19,8 @@
       "lat": 32.13325277949001,
       "lon": 34.862787606300934
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Muzicwise",
+  "linkedinNum": 13213133
 }

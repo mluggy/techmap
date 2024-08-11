@@ -1,10 +1,10 @@
 {
   "name": "Glassix Solutions",
-  "description": "A unified Omnichannel and AI bot platform enabling immediate customer contact through various digital channels.",
-  "categoryId": 1,
+  "description": "AI-Powered Customer Communication & Messaging Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/glassix_solutions-logo.webp",
-  "websiteUrl": "https://glassix.co.il/",
+  "websiteUrl": "https://www.glassix.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.9995015,
       "lon": 34.9456973
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GlassixCompany",
+  "linkedinNum": 10018093
 }

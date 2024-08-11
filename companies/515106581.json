@@ -1,16 +1,16 @@
 {
-  "name": "Livin Media",
-  "description": "They're developing a secure, privacy-focused infrastructure that fosters user trust and transparency while amplifying network effects across participants.",
-  "categoryId": 2,
+  "name": "PUBLC",
+  "description": "Collaborative Content-sharing Platform",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/livin_media-logo.webp",
-  "websiteUrl": "https://www.about.publc.com/",
+  "websiteUrl": "https://publc.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "livin-media",
   "finderId": "livin-media",
-  "xId": null,
+  "xId": "WeArePUBLC",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.079241,
       "lon": 34.795072
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WeArePUBLC",
+  "linkedinNum": 10370390
 }

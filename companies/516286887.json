@@ -1,16 +1,16 @@
 {
-  "name": "Goto",
-  "description": "App for shared transportation.",
+  "name": "GoTo Global",
+  "description": "Shared Mobility App",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/goto-logo.webp",
-  "websiteUrl": "https://www.goto.com/",
+  "websiteUrl": "https://gotoglobal.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "goto",
   "crunchbaseId": null,
   "finderId": "goto",
-  "xId": null,
+  "xId": "goto_glob",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.066186,
       "lon": 34.792954
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "gotomobility",
+  "linkedinNum": 27020854
 }

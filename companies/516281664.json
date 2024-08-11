@@ -1,10 +1,10 @@
 {
-  "name": "Lumiclear",
-  "description": "Advanced Light-Based Solutions for UVC Disinfection.",
-  "categoryId": 12,
+  "name": "LumiClear",
+  "description": "Optical Technologies for UVC Sanitation",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/lumiclear-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://lumiclear.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.66317262874497,
       "lon": 35.224796496719826
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71214574
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Akooda Tech",
+  "name": "Akooda",
   "description": "Delivering insights for informed decision-making across processes, personnel, customers, and resources.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "akooda",
   "crunchbaseId": "akooda",
   "finderId": "akooda",
-  "xId": null,
+  "xId": "GetAkooda",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +19,8 @@
       "lat": 32.069111,
       "lon": 34.786789
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "akoodaco",
+  "linkedinNum": 69854877
 }

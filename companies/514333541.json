@@ -1,5 +1,5 @@
 {
-  "name": "Dia Imaging Analysis",
+  "name": "DiA Imaging Analysis",
   "description": "Ultrasound Analysis Powered by Artificial Intelligence.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "diaanalysis",
   "crunchbaseId": null,
   "finderId": "DiA-Imaging-Analysis",
-  "xId": null,
+  "xId": "DiA_Analysis",
   "addresses": [
     {
       "street": "האנרגיה",
@@ -19,5 +19,8 @@
       "lat": 31.263266,
       "lon": 34.8105466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DiA-Imaging-Analysis-638306279899161",
+  "linkedinNum": 5004363
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Nanocell",
+  "name": "NanoCell",
   "description": "Intrauterine therapy designed to enhance embryo implantation success.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.89653058630219,
       "lon": 34.80755067086432
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "galileo-wheel",
-  "xId": null,
+  "xId": "GalileoCupWheel",
   "addresses": [
     {
       "street": "הטוחן",
@@ -19,5 +19,8 @@
       "lat": 32.4863102,
       "lon": 34.9521262
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GalileoWheel-FR-2157273167663157",
+  "linkedinNum": 12981162
 }

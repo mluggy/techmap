@@ -1,5 +1,5 @@
 {
-  "name": "Dride Technology",
+  "name": "Dride",
   "description": "Enabling effortless dashcam video sharing was never so simple.",
   "categoryId": 5,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dride",
-  "xId": null,
+  "xId": "drideHQ",
   "addresses": [
     {
       "street": "איתן",
@@ -19,5 +19,8 @@
       "lat": 31.99353945,
       "lon": 34.76535052179885
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dride.io",
+  "linkedinNum": 12179485
 }

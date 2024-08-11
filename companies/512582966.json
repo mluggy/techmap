@@ -1,16 +1,16 @@
 {
-  "name": "Otm Technologies",
-  "description": "This company excels in PC communication and video streaming projects, demonstrating exceptional professionalism and adaptability to customer needs.",
-  "categoryId": 18,
+  "name": "OTM Technologies",
+  "description": "Bluetooth-enabled Digital Pen",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/otm_technologies-logo.webp",
-  "websiteUrl": "https://www.orion-software.co.il/",
+  "websiteUrl": "https://otmtech.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "otm-technologies",
-  "xId": null,
+  "xId": "phreestyl",
   "addresses": [
     {
       "street": "הרצל",
@@ -19,5 +19,8 @@
       "lat": 32.1790805,
       "lon": 34.8682176
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "gophree",
+  "linkedinNum": 8267693
 }

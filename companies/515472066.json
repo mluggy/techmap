@@ -1,10 +1,10 @@
 {
-  "name": "Metis Corp",
-  "description": "A Layer 2 network enabling advanced decentralized applications through a permissionless ecosystem.",
-  "categoryId": 1,
+  "name": "Metis",
+  "description": "Always Optimized No-Ops Data Infrastructure at Scale",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/metis_corp-logo.webp",
-  "websiteUrl": "https://www.metis.io/",
+  "websiteUrl": "https://www.metisdata.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.117498,
       "lon": 34.82264
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75050116
 }

@@ -1,10 +1,10 @@
 {
   "name": "Spring Games",
-  "description": "The world's largest softball event will return to normal in 2022! Click here to get tickets and information!.",
-  "categoryId": 11,
+  "description": "Mobile Game Developer",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/spring_games-logo.webp",
-  "websiteUrl": "https://www.thespringgames.com/",
+  "websiteUrl": "https://www.springames.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0882376,
       "lon": 34.7968864
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Spring-Games-107577291039599",
+  "linkedinNum": 66894255
 }

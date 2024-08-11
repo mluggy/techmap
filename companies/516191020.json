@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hop-a-tour",
-  "xId": null,
+  "xId": "hop_a_tour",
   "addresses": [
     {
       "street": "איתמר",
@@ -19,5 +19,8 @@
       "lat": 32.090371899999994,
       "lon": 34.8066614901699
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hopatourlive",
+  "linkedinNum": 69190695
 }

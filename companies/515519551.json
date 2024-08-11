@@ -1,10 +1,10 @@
 {
   "name": "Omnistream",
-  "description": "A SaaS provider offering segregated accounts for both enterprises and their individual agents.",
-  "categoryId": 9,
+  "description": "Live Broadcasting Platform",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/omnistream-logo.webp",
-  "websiteUrl": "https://www.omnistre.am/",
+  "websiteUrl": "https://omnistream.live",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.144916,
       "lon": 34.83844968838688
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "omnistreamlive",
+  "linkedinNum": 18177680
 }

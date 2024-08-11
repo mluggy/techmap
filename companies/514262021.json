@@ -1,5 +1,5 @@
 {
-  "name": "Equashield Medical",
+  "name": "Equashield",
   "description": "Providing comprehensive CSTDs and automation solutions to safeguard healthcare workers during pharmacy compounding.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "equashield",
-  "xId": null,
+  "xId": "equashield",
   "addresses": [
     {
       "street": "קטלב",
@@ -19,5 +19,8 @@
       "lat": 32.976683859411956,
       "lon": 35.27801436184936
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "equashieldmedical.hr",
+  "linkedinNum": 1585289
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Younity Technologies",
+  "name": "Younity",
   "description": "Revolutionizing building communication infrastructure for the digital age.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "younity",
-  "xId": null,
+  "xId": "younity_global",
   "addresses": [
     {
       "street": "הפלך",
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "younity.io",
+  "linkedinNum": 11692909
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Anzu Virtual Reality",
+  "name": "Anzu.io",
   "description": "A platform for integrating native, dynamic ads into video games and esports.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "anzuio",
   "crunchbaseId": "anzu-io",
   "finderId": "anzu",
-  "xId": null,
+  "xId": "Anzu_io",
   "addresses": [
     {
       "street": "לינקולן",
@@ -19,5 +19,8 @@
       "lat": 32.066035,
       "lon": 34.782959
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "anzu.io",
+  "linkedinNum": 17907575
 }

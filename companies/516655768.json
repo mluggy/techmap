@@ -1,10 +1,10 @@
 {
   "name": "Afront Digital",
-  "description": "Providing affordable, personalized language education to over 60,000 students worldwide.",
-  "categoryId": 8,
+  "description": "Interactive Hebrew Language Learning Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/afront_digital-logo.webp",
-  "websiteUrl": "https://afrontdigital.com/",
+  "websiteUrl": "https://www.aprendehebreo.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "afront-digital",
@@ -19,5 +19,8 @@
       "lat": 32.1621433,
       "lon": 34.8094255
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "aprendehebreo",
+  "linkedinNum": 88008468
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Webydo Systems",
+  "name": "Webydo",
   "description": "A website builder offering design freelancers and agencies integrated CMS and hosting to streamline website creation and business growth.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "webydo",
   "crunchbaseId": null,
   "finderId": "webydo",
-  "xId": null,
+  "xId": "Webydo",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Webydo",
+  "linkedinNum": 3067204
 }

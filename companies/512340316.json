@@ -1,0 +1,25 @@
+{
+  "name": "PolyHeal",
+  "description": "Microsphere-based Wound Healing Products",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/polyheal.webp",
+  "websiteUrl": "https://www.polyhealmicro.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "polyheal",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "מפי",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.27521123025979,
+      "lon": 34.861528048262066
+    }
+  ],
+  "isMultinational": false
+}

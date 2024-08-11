@@ -1,10 +1,10 @@
 {
-  "name": "Mtl 3 D",
-  "description": "Platform for 3D printing enthusiasts to access free models and informative articles.",
-  "categoryId": 9,
+  "name": "MTL-3D",
+  "description": "Optical 3D Inspection Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/mtl_3_d-logo.webp",
-  "websiteUrl": "https://www.printables.com/",
+  "websiteUrl": "https://www.mtl-3d.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.825888,
       "lon": 35.0783758
     }
-  ]
+  ],
+  "isMultinational": false
 }

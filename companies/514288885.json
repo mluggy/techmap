@@ -1,5 +1,5 @@
 {
-  "name": "Memed Diagnostics",
+  "name": "MeMed Diagnostics",
   "description": "Harnessing machine learning, we transform immune system signals into clear diagnostic insights for infectious and inflammatory diseases.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "memed-diagnostic",
-  "xId": null,
+  "xId": "memeddx",
   "addresses": [
     {
       "street": "חת נחום",
@@ -19,5 +19,8 @@
       "lat": 32.7845356,
       "lon": 34.9577195
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Memed.diagnostics",
+  "linkedinNum": 2500897
 }

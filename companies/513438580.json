@@ -1,5 +1,5 @@
 {
-  "name": "Protein Laboratories Rehovot P L R",
+  "name": "Protein Laboratories Rehovot",
   "description": "Founded in August 2003, this company specializes in protein research and development, co-owned by Professor Arieh Gertler.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 31.9017691,
       "lon": 34.8006486
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1707734
 }

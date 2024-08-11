@@ -1,10 +1,10 @@
 {
-  "name": "Compete Hr",
-  "description": "A digital media partner that helps campaigns, causes, and consultants effectively reach and influence their target audience.",
-  "categoryId": 2,
+  "name": "Compete",
+  "description": "Real-time Compensation and Benefit Benchmarks",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/compete_hr-logo.webp",
-  "websiteUrl": "https://competeeverywhere.com/",
+  "websiteUrl": "https://www.competewith.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.9176726,
       "lon": 35.0175172
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "competehr",
+  "linkedinNum": 49118843
 }

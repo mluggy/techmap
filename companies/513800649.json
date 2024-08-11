@@ -1,5 +1,5 @@
 {
-  "name": "Adicet Bio Israel",
+  "name": "Adicet Bio",
   "description": "A biotechnology firm innovating off-the-shelf allogeneic gamma delta T cell therapies to treat cancer.",
   "categoryId": 12,
   "size": "l",
@@ -19,5 +19,7 @@
       "lat": 32.7770652,
       "lon": 34.9936935
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 10701436
 }

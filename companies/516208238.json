@@ -1,10 +1,10 @@
 {
   "name": "Precycle",
-  "description": "On-site plastic recycling powered by artificial intelligence.",
-  "categoryId": 17,
+  "description": "AI-based On-site Plastic Recycling",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/precycle-logo.webp",
-  "websiteUrl": "https://www.precyclenyc.com/",
+  "websiteUrl": "https://www.precycles.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1640505,
       "lon": 34.8107428
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 43364649
 }

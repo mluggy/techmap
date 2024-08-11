@@ -1,10 +1,10 @@
 {
   "name": "Discure Technologies",
-  "description": "Addressing and treating degenerative disc disease.",
+  "description": "Reversing Degenerative Disc Disease",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/discure_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.rainbowmd.com/our-companies/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "discure-technologies",
@@ -19,5 +19,7 @@
       "lat": 32.1666999,
       "lon": 34.8099066
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72074499
 }

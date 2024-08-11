@@ -10,7 +10,7 @@
   "linkedinId": "datatex",
   "crunchbaseId": null,
   "finderId": "datatex",
-  "xId": null,
+  "xId": "datatex_erp",
   "addresses": [
     {
       "street": "אודם",
@@ -19,5 +19,8 @@
       "lat": 32.0896507,
       "lon": 34.8577193
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "datatexErp",
+  "linkedinNum": 51728
 }

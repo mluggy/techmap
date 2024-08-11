@@ -1,10 +1,10 @@
 {
-  "name": "Styletech Studio",
-  "description": "Transform your projects with vibrant and inspiring decorative vinyl films.",
-  "categoryId": 9,
+  "name": "Styletech",
+  "description": "AI-generated Models for Fashion Marketing",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/styletech_studio-logo.webp",
-  "websiteUrl": "https://www.styletechcraft.com/",
+  "websiteUrl": "https://styletech.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0696175,
       "lon": 34.7842349
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "StyletechAISolutions",
+  "linkedinNum": 76857209
 }

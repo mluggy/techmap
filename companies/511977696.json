@@ -1,5 +1,5 @@
 {
-  "name": "Medsim",
+  "name": "MedSim",
   "description": "The UltraSim® Ultrasound Simulator offers realistic, hands-on training for medical students and professionals, widely preferred by over 1,250 global customers.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.1950061,
       "lon": 34.8768325
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "UltrasoundSimulation",
+  "linkedinNum": 93330
 }

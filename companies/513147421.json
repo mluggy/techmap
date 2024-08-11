@@ -1,5 +1,5 @@
 {
-  "name": "Perigen Solutions",
+  "name": "PeriGen",
   "description": "Provides innovative obstetric software solutions for perinatal care, including advanced fetal monitoring and documentation tools.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "perigen",
   "crunchbaseId": null,
   "finderId": "perigen",
-  "xId": null,
+  "xId": "PeriGen",
   "addresses": [
     {
       "street": "שד נים",
@@ -19,5 +19,8 @@
       "lat": 31.949713600000003,
       "lon": 34.80328505744155
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "perigeninc",
+  "linkedinNum": 292393
 }

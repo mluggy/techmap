@@ -1,16 +1,16 @@
 {
-  "name": "Medigate Tech",
-  "description": "Protecting essential medical devices with cybersecurity solutions.",
+  "name": "MediGate",
+  "description": "Cyber Security for Critical Medical Devices",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/medigate_tech-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.medigate.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "medigate-eae8",
   "finderId": "medigate-tech",
-  "xId": null,
+  "xId": "MedigateLtd",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MedigateLtd",
+  "linkedinNum": 18340376
 }

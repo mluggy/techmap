@@ -1,10 +1,10 @@
 {
-  "name": "Vivid",
-  "description": "A platform designed for experts in personal development within the creator economy.",
-  "categoryId": 14,
+  "name": "VIVID",
+  "description": "Creator economy platform for personal growth experts",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/vivid-logo.webp",
-  "websiteUrl": "https://www.vividseats.com/",
+  "websiteUrl": "https://www.vivid.me/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.086834100000004,
       "lon": 34.78983455852593
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78276021
 }

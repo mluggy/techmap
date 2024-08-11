@@ -1,5 +1,5 @@
 {
-  "name": "Dealsumm",
+  "name": "DealSumm",
   "description": "A tech firm that enables automated, comprehensive, and swift management and reporting of contract and lease provisions across portfolios.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "dealsumm",
   "crunchbaseId": "dealsumm",
   "finderId": "dealsumm1",
-  "xId": null,
+  "xId": "DealSumm",
   "addresses": [
     {
       "street": "דישראלי",
@@ -19,5 +19,7 @@
       "lat": 32.78878685680094,
       "lon": 34.989587618426434
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18076182
 }

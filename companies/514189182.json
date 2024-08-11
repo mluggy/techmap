@@ -1,10 +1,10 @@
 {
   "name": "Riuto",
-  "description": "Intelligent Robotic Pool Safety Guard.",
-  "categoryId": 15,
+  "description": "Smart Automatic Pool Lifeguard",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/riuto-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://ronmiasnikov.wixsite.com/riuto",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.095372,
       "lon": 34.776101
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10590362
 }

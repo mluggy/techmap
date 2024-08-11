@@ -1,5 +1,5 @@
 {
-  "name": "Kms Lighthouse",
+  "name": "KMS Lighthouse",
   "description": "Provides advanced search technology for immediate, accurate information to enhance customer and call center experiences.",
   "categoryId": 14,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://kmslh.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kms-lighthouse",
   "crunchbaseId": null,
   "finderId": "kms-lighthouse",
-  "xId": null,
+  "xId": "kmslighthouse",
   "addresses": [
     {
       "street": "שמשון",
@@ -19,5 +19,9 @@
       "lat": 32.0953047,
       "lon": 34.8622572
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 2982156,
+  "comeetId": "kmslh/97.008"
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Toya Green Energy",
-  "description": "Video Games Inspired by Extraordinary Women.",
-  "categoryId": 11,
+  "name": "Toya",
+  "description": "Games Based on Remarkable Women",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/toya_green_energy-logo.webp",
-  "websiteUrl": "https://www.toyagreenenergy.com/",
+  "websiteUrl": "https://www.toyaplay.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "toya",
-  "xId": null,
+  "xId": "ToyaPlayStudio",
   "addresses": [
     {
       "street": "התבור",
@@ -19,5 +19,8 @@
       "lat": 32.7574573,
       "lon": 35.1439374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "toyaplay",
+  "linkedinNum": 71380013
 }

@@ -10,7 +10,7 @@
   "linkedinId": "sorezki",
   "crunchbaseId": null,
   "finderId": "sorezki",
-  "xId": null,
+  "xId": "sorezki",
   "addresses": [
     {
       "street": "בוגרשוב",
@@ -19,5 +19,8 @@
       "lat": 32.075042,
       "lon": 34.773695
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sorezki.labs",
+  "linkedinNum": 1505710
 }

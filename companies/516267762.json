@@ -1,5 +1,5 @@
 {
-  "name": "Tenable Israel",
+  "name": "Tenable",
   "description": "Provides real-time, continuous assessment and risk-based insights into your attack surface.",
   "categoryId": 7,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "tenableinc",
   "crunchbaseId": null,
   "finderId": "tenable",
-  "xId": null,
+  "xId": "tenablesecurity",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Tenable.Inc",
+  "linkedinNum": 25452
 }

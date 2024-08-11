@@ -1,5 +1,5 @@
 {
-  "name": "Polypid",
+  "name": "PolyPid",
   "description": "They leverage their PLEX drug delivery platform to enhance local therapeutic effects and are exploring partnerships and licensing to advance their product candidates.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "polypid",
-  "xId": null,
+  "xId": "PolyPidLtd",
   "addresses": [
     {
       "street": "הסיבים",
@@ -19,5 +19,7 @@
       "lat": 32.0916612,
       "lon": 34.8571892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3835371
 }

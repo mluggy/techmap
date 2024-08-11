@@ -10,7 +10,7 @@
   "linkedinId": "fornova",
   "crunchbaseId": null,
   "finderId": "fornova",
-  "xId": null,
+  "xId": "fornova",
   "addresses": [
     {
       "street": "חורש האלונים",
@@ -19,5 +19,8 @@
       "lat": 32.7084175,
       "lon": 35.1744669
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fornovaltd",
+  "linkedinNum": 603615
 }

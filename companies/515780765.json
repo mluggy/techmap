@@ -1,5 +1,5 @@
 {
-  "name": "Ge Power",
+  "name": "General Electric",
   "description": "Leading innovation through the spinoff of its aerospace and energy businesses to drive future growth.",
   "categoryId": 3,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ge",
-  "xId": null,
+  "xId": "generalelectric",
   "addresses": [
     {
       "street": "רח 1",
@@ -19,5 +19,8 @@
       "lat": 32.39609217201684,
       "lon": 35.03550774658284
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "people",
+  "linkedinNum": 1015
 }

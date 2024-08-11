@@ -1,10 +1,10 @@
 {
-  "name": "Bite Technology",
-  "description": "Offering naturally whitening, cruelty-free, and plastic-free toothpaste tablets in refillable glass containers.",
-  "categoryId": 9,
+  "name": "Bite",
+  "description": "Management Platform for Restaurateurs",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/bite_technology_ltd-logo.webp",
-  "websiteUrl": "https://bitetoothpastebits.com/",
+  "websiteUrl": "https://bitetechusa.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.666644685255406,
       "lon": 35.24325856275964
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bite.il"
 }

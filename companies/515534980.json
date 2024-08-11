@@ -1,5 +1,5 @@
 {
-  "name": "Yoom.com",
+  "name": "Yoom",
   "description": "Automate and streamline 3D character creation with neural network technology to expedite animation processes.",
   "categoryId": 1,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://yoom.com/",
   "careersUrl": "https://yoom.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "yoomiverse",
   "crunchbaseId": null,
   "finderId": "yoom",
-  "xId": null,
+  "xId": "Yoomiverse",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.08452905,
       "lon": 34.80020929592628
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100086387577579",
+  "linkedinNum": 18109674
 }

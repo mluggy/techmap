@@ -1,5 +1,5 @@
 {
-  "name": "Qualitalk",
+  "name": "QualiTalk",
   "description": "Coaching professionals to use compelling body language that enhances their persuasiveness in video calls.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "qualitalk",
   "crunchbaseId": null,
   "finderId": "mindecipher",
-  "xId": null,
+  "xId": "QualiTalk",
   "addresses": [
     {
       "street": "חטיבת גולני",
@@ -19,5 +19,8 @@
       "lat": 32.184101,
       "lon": 34.9038324
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "qualitalk",
+  "linkedinNum": 18651107
 }

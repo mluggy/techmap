@@ -1,5 +1,5 @@
 {
-  "name": "Crazy Labs",
+  "name": "CrazyLabs",
   "description": "A company that creates and distributes mobile games.",
   "categoryId": 11,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "crazylabs",
   "crunchbaseId": null,
   "finderId": "tabtale",
-  "xId": null,
+  "xId": "CrazyLabsGames",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "crazylabsgames",
+  "linkedinNum": 1522212
 }

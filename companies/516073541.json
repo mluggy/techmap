@@ -1,5 +1,5 @@
 {
-  "name": "C 2 I Genomics",
+  "name": "C2i Genomics",
   "description": "An ultra-sensitive blood test for precise cancer monitoring, treatment personalization, and cost reduction.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "c2i-genomics",
-  "xId": null,
+  "xId": "C2iGenomics",
   "addresses": [
     {
       "street": "אלמוג",
@@ -19,5 +19,7 @@
       "lat": 32.811457450000006,
       "lon": 34.961674778481125
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 36105135
 }

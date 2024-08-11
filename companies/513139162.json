@@ -1,16 +1,16 @@
 {
-  "name": "Senso Optics",
+  "name": "Senso-Optics",
   "description": "Products and systems for electro-optical and thermal imaging applications.",
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/senso_optics-logo.webp",
-  "websiteUrl": "http://www.senso-optics.com/",
+  "websiteUrl": "https://www.senso-optics.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "senso-optics",
   "crunchbaseId": "senso-optics",
   "finderId": "senso-optics",
-  "xId": null,
+  "xId": "SensoOptics",
   "addresses": [
     {
       "street": "העוצמה",
@@ -19,5 +19,7 @@
       "lat": 32.670551813318475,
       "lon": 35.107360604191406
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 9549196
 }

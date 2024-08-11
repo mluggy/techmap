@@ -7,10 +7,10 @@
   "websiteUrl": "https://almalasers.com/",
   "careersUrl": "https://almalasers.com/careers/",
   "isHiring": true,
-  "linkedinId": "almalasersnorthamerica",
+  "linkedinId": "alma-lasers-international",
   "crunchbaseId": null,
   "finderId": "alma-lasers",
-  "xId": null,
+  "xId": "almalasers",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.4882508,
       "lon": 34.9474499
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "almalasersint",
+  "linkedinNum": 5317085
 }

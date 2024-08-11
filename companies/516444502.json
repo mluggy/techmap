@@ -1,5 +1,5 @@
 {
-  "name": "Claimzai",
+  "name": "ClaimzAI",
   "description": "Utilizing a proprietary AI algorithm, this company automates the collection and processing of traffic accident, bodily injury, and financial compensation data from publicly available court rulings, decisions, and settlements in tort claims.",
   "categoryId": 1,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.0763905,
       "lon": 34.8133357
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81415730
 }

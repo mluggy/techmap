@@ -1,5 +1,5 @@
 {
-  "name": "Cyberglobes",
+  "name": "CyberGlobes",
   "description": "A platform offering actionable insights on viral trends and geographic data to help investigators track and address emerging threats.",
   "categoryId": 7,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.2624768,
       "lon": 34.8113674
     }
-  ]
+  ],
+  "isMultinational": false
 }

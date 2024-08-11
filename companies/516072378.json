@@ -1,10 +1,10 @@
 {
   "name": "Nutrilees",
-  "description": "Edible Goods Made from Industrial Wine By-products.",
-  "categoryId": 9,
+  "description": "Food Products from Industrial Wine Residue",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/nutrilees-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.nutrilees.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "nutrilees",
@@ -19,5 +19,6 @@
       "lat": 33.2175536,
       "lon": 35.5790537
     }
-  ]
+  ],
+  "isMultinational": false
 }

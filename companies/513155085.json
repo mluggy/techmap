@@ -1,5 +1,5 @@
 {
-  "name": "Paypal Israel",
+  "name": "PayPal",
   "description": "A swift and secure online payment solution for sending, receiving, and processing transactions.",
   "categoryId": 10,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.paypal.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "paypal",
   "crunchbaseId": null,
   "finderId": "paypal",
-  "xId": null,
+  "xId": "PayPal",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0700073,
       "lon": 34.794193699999994
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "PayPalIsrael",
+  "linkedinNum": 1482
 }

@@ -1,10 +1,10 @@
 {
   "name": "Game Story",
-  "description": "Developer of Games for Mobile Devices.",
-  "categoryId": 11,
+  "description": "Mobile Game Developer",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/game_story-logo.webp",
-  "websiteUrl": "https://itskindofafunstory.com/",
+  "websiteUrl": "https://gmstry.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.08769233337585,
       "lon": 34.8022060856916
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 69546521
 }

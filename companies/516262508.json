@@ -1,13 +1,13 @@
 {
   "name": "Synchrony Medical",
-  "description": "Developing a brain-computer interface to enable thought-controlled digital communication for medical patients.",
+  "description": "Airway Clearance System for Home Use",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/synchrony_medical-logo.webp",
-  "websiteUrl": "https://synchron.com/",
+  "websiteUrl": "https://synchrony-medical.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "synchronymedical",
   "crunchbaseId": null,
   "finderId": "synchrony-medical",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0215775,
       "lon": 34.854526
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76867769
 }

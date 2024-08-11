@@ -1,5 +1,5 @@
 {
-  "name": "Rhinocare",
+  "name": "RhinoCare",
   "description": "We offer specialized healthcare solutions designed to meet the unique needs of medical professionals and their patients.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.1899886,
       "lon": 34.8737873
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 83037218
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Reddress",
-  "description": "Premier online women's clothing store since 2005, offering a curated selection of classic, timeless apparel to elevate your style.",
-  "categoryId": 9,
+  "name": "RedDress",
+  "description": "Regenerative Wound Care Technology",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/reddress-logo.webp",
-  "websiteUrl": "https://www.reddress.com/",
+  "websiteUrl": "https://reddressmedical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "reddress",
-  "xId": null,
+  "xId": "ReddressLtd1",
   "addresses": [
     {
       "street": "שקדים",
@@ -19,5 +19,8 @@
       "lat": 32.4785533,
       "lon": 34.9734467
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RedDressLtd1",
+  "linkedinNum": 11201697
 }

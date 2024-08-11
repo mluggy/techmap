@@ -1,15 +1,17 @@
 {
-  "name": "Licompass",
-  "description": "Providing expert consultancy, training, and project management specializing in business continuity and emergency preparedness for public authorities and institutions.",
+  "name": "Licompass Tech",
+  "description": "Safe City System and App",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/licompass-logo.webp",
-  "websiteUrl": "https://licompass.com/",
+  "websiteUrl": "https://my-city.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "licompass",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "linkedinNum": 18911567
 }

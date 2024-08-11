@@ -1,5 +1,5 @@
 {
-  "name": "Eviation Aircraft",
+  "name": "EViation Aircraft",
   "description": "Fly the Future. Eviation is leading a monumental shift in aviation. Alice, the first ever all-electric commuter aircraft, will forever change the way people and ...",
   "categoryId": 3,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "eviation",
-  "xId": null,
+  "xId": "eviationaero",
   "addresses": [
     {
       "street": "האופה",
@@ -19,5 +19,8 @@
       "lat": 32.2760909,
       "lon": 34.9177466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EviationAircraft",
+  "linkedinNum": 18036326
 }

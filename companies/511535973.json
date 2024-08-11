@@ -1,16 +1,16 @@
 {
-  "name": "Morel Il",
-  "description": "The Great Morel offers comprehensive morel mushroom resources, including information, recipes, and a sightings map.",
-  "categoryId": 9,
+  "name": "Morel",
+  "description": "Audio Drivers and Speakers",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/morel_il_ltd-logo.webp",
-  "websiteUrl": "https://www.thegreatmorel.com/",
+  "websiteUrl": "https://www.morelhifi.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "morel",
-  "xId": null,
+  "xId": "MorelHiFi",
   "addresses": [
     {
       "street": "המזמרה",
@@ -19,5 +19,8 @@
       "lat": 31.9219246,
       "lon": 34.7941427
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MorelHiFi",
+  "linkedinNum": 5297372
 }

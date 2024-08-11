@@ -1,5 +1,5 @@
 {
-  "name": "Merry Pop In",
+  "name": "Merry Pop in",
   "description": "Platform for Hosting Temporary Retail Spaces.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.4267126,
       "lon": 34.916442
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MerryPopInEvents",
+  "linkedinNum": 76670256
 }

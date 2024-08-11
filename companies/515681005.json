@@ -1,10 +1,10 @@
 {
-  "name": "Prequel Internet Trading",
-  "description": "A user-friendly app offering comprehensive photo and video editing tools with stylish effects and filters.",
-  "categoryId": 8,
+  "name": "Prequel",
+  "description": "Digital Advertising Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/prequel_internet_trading-logo.webp",
-  "websiteUrl": "https://prequel.app/",
+  "websiteUrl": "https://www.prequel.tv/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.082935,
       "lon": 34.775484
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18127796
 }

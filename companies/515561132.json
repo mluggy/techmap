@@ -1,16 +1,16 @@
 {
-  "name": "Easy 2 Success International",
-  "description": "Guatemalan four-piece band delivering unique soundscapes with keyboard, bass, and vocals.",
-  "categoryId": 8,
+  "name": "Easy",
+  "description": "Search Engine for Local Businesses",
+  "categoryId": 9,
   "size": "m",
   "logoFile": "logos/easy_2_success_international-logo.webp",
-  "websiteUrl": "https://easyeasy.bandcamp.com/",
+  "websiteUrl": "https://easy.co.il/en/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "easy.co.il",
   "crunchbaseId": null,
   "finderId": "easy",
-  "xId": null,
+  "xId": "easy_coil",
   "addresses": [
     {
       "street": "אורן",
@@ -19,5 +19,8 @@
       "lat": 32.8547748,
       "lon": 35.0685111
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "easy.co.il",
+  "linkedinNum": 10291743
 }

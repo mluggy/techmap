@@ -1,5 +1,5 @@
 {
-  "name": "Scisparc",
+  "name": "SciSparc",
   "description": "An experienced team collaborates with distinguished scientific advisors to advance drug development endeavors.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "therapix-biosciences",
-  "xId": null,
+  "xId": "SciSparc",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.1105162,
       "lon": 34.8376966
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SciSparc",
+  "linkedinNum": 71540465
 }

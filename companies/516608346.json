@@ -1,10 +1,10 @@
 {
   "name": "Inertial Fusion",
-  "description": "Energy from Fusion.",
+  "description": "Fusion Energy Solution",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/inertial_fusion-logo.webp",
-  "websiteUrl": "https://firstlightfusion.com/",
+  "websiteUrl": "https://www.inertialfusion.energy/",
   "careersUrl": "https://firstlightfusion.com/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0116735,
       "lon": 34.7696013
     }
-  ]
+  ],
+  "isMultinational": false
 }

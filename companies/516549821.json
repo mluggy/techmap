@@ -1,10 +1,10 @@
 {
-  "name": "Tres Finance",
-  "description": "They provide tools to streamline financial processes and manage Web3 assets through their entire lifecycle.",
-  "categoryId": 10,
+  "name": "Tres.finance",
+  "description": "Web3 Financial Management Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tres_finance-logo.webp",
-  "websiteUrl": "https://www.tresfinance.com/",
+  "websiteUrl": "https://www.tres.finance/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "tresfinance",
@@ -19,5 +19,7 @@
       "lat": 32.072306,
       "lon": 34.782064
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 85408840
 }

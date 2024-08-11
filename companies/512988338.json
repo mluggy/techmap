@@ -1,10 +1,10 @@
 {
-  "name": "Brains Gate",
+  "name": "BrainsGate",
   "description": "Non-invasive therapies for central nervous system disorders.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/brains_gate-logo.webp",
-  "websiteUrl": "http://www.brainsgate.com/",
+  "websiteUrl": "https://www.brainsgate.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "brainsgate",
@@ -19,5 +19,7 @@
       "lat": 32.47810465,
       "lon": 34.95135411321941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 140283
 }

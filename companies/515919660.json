@@ -1,0 +1,25 @@
+{
+  "name": "STRIKECO",
+  "description": "Sports Simulator Platform",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/strikeco.webp",
+  "websiteUrl": "https://www.strikeco.io/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 81295959,
+  "crunchbaseId": null,
+  "finderId": "strikeco",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "למרחב",
+      "houseNumber": 81,
+      "city": "רמת השרון",
+      "lat": 32.14441836782927,
+      "lon": 34.83168733679761
+    }
+  ],
+  "isMultinational": false
+}

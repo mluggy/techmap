@@ -1,16 +1,16 @@
 {
-  "name": "T Rex",
-  "description": "We provide cutting-edge software solutions and comprehensive data management services for asset-backed financing.",
+  "name": "T-REX",
+  "description": "Advanced Software and Managed Data Services for Asset-backed Finance",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/t_rex-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.trexgroup.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "t-rex",
-  "xId": null,
+  "xId": "TREXTALK",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,8 @@
       "lat": 32.07527,
       "lon": 34.781445
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TREXanalytics",
+  "linkedinNum": 2823258
 }

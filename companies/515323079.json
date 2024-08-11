@@ -1,16 +1,16 @@
 {
-  "name": "Helios 3 General Management",
-  "description": "Leading provider of innovative hydraulic and electronic solutions for industrial applications worldwide.",
-  "categoryId": 15,
+  "name": "Helios",
+  "description": "Sustainable green Iron Production, On-site Resource Processing on Earth and in Space",
+  "categoryId": 3,
   "size": "l",
   "logoFile": "logos/helios_3_general_management-logo.webp",
-  "websiteUrl": "https://www.heliostechnologies.com/",
+  "websiteUrl": "https://project-helios.space",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "helios",
-  "xId": null,
+  "xId": "project_helios",
   "addresses": [
     {
       "street": "סוקולוב",
@@ -19,5 +19,8 @@
       "lat": 32.168735049999995,
       "lon": 34.9021068282789
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HeliosSpace",
+  "linkedinNum": 12635226
 }

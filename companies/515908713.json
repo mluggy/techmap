@@ -1,16 +1,16 @@
 {
-  "name": "Multichain",
-  "description": "Leveraging MPC technology, this company offers seamless cross-chain bridging and smart contract services with zero slippage transfers and flexible chain swaps.",
-  "categoryId": 10,
+  "name": "MultiChain",
+  "description": "Platform for Permissioned Blockchains",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/multichain-logo.webp",
-  "websiteUrl": "https://multichain.org/",
+  "websiteUrl": "https://www.multichain.com/",
   "careersUrl": "https://docs.multichain.org/getting-started/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "coin-sciences",
-  "xId": null,
+  "xId": "CoinSciences",
   "addresses": [
     {
       "street": "מגידו",
@@ -19,5 +19,7 @@
       "lat": 32.080542,
       "lon": 34.778275
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19547529
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Red C Biotech",
+  "name": "RedC Biotech",
   "description": "A pioneering biotech firm developing scalable, patented technology to produce universal red blood cells from stem cells, addressing global blood supply needs.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.2150194,
       "lon": 34.8620964
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RedCBiotech",
+  "linkedinNum": 10427931
 }

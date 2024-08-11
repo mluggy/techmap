@@ -1,5 +1,5 @@
 {
-  "name": "Batm Advanced Communications",
+  "name": "BATM",
   "description": "A premier provider of real-time technologies specializing in networking, cyber solutions, and biomedical systems.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "batm",
-  "xId": null,
+  "xId": "BATMLtd",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.1323509,
       "lon": 34.8987146
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BATMgroup",
+  "linkedinNum": 28411
 }

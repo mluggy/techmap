@@ -10,7 +10,7 @@
   "linkedinId": "rightbound",
   "crunchbaseId": null,
   "finderId": "rightbound",
-  "xId": null,
+  "xId": "rightbound_io",
   "addresses": [
     {
       "street": "אשכול לוי",
@@ -19,5 +19,7 @@
       "lat": 32.102284,
       "lon": 34.789573
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 14045632
 }

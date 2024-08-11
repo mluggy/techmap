@@ -1,10 +1,10 @@
 {
-  "name": "Sense Bisum",
-  "description": "Empowering homeowners to optimize energy consumption, save on bills, and minimize environmental impact by managing usage.",
-  "categoryId": 17,
+  "name": "SENSE",
+  "description": "Data-mining Software",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/sense_bisum-logo.webp",
-  "websiteUrl": "https://sense.com/",
+  "websiteUrl": "https://www.53n53.com/",
   "careersUrl": "https://sense.com/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0836051,
       "lon": 34.8551272
     }
-  ]
+  ],
+  "isMultinational": false
 }

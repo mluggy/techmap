@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "novotalk",
-  "xId": null,
+  "xId": "novotalk",
   "addresses": [
     {
       "street": "רבי עקיבא",
@@ -19,5 +19,8 @@
       "lat": 32.0860716,
       "lon": 34.8308631
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "novotalk1",
+  "linkedinNum": 10009038
 }

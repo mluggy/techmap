@@ -1,16 +1,16 @@
 {
   "name": "Capitan",
-  "description": "Business Management Software.",
+  "description": "Enterprise Management Solutions",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/capitan-logo.webp",
-  "websiteUrl": "https://www.villageofcapitan.org/",
+  "websiteUrl": "https://capitan.solutions/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "capit-n",
-  "xId": null,
+  "xId": "CapitanSystems",
   "addresses": [
     {
       "street": "ההגנה",
@@ -19,5 +19,8 @@
       "lat": 32.8144949,
       "lon": 35.0780422
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Capitan.Systems",
+  "linkedinNum": 4861965
 }

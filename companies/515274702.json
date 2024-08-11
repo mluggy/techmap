@@ -1,5 +1,5 @@
 {
-  "name": "Dignotion Israel",
+  "name": "Dignotion",
   "description": "A premier digital marketing agency delivering sustainable results through performance advertising, innovative technologies, creative development, and comprehensive project management.",
   "categoryId": 2,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "dignotion-digital-marketing",
   "crunchbaseId": null,
   "finderId": "dignotion",
-  "xId": null,
+  "xId": "DignotionDM",
   "addresses": [
     {
       "street": "סטימצקי",
@@ -19,5 +19,8 @@
       "lat": 32.113234,
       "lon": 34.790407
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dignotion",
+  "linkedinNum": 9493088
 }

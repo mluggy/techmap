@@ -1,5 +1,5 @@
 {
-  "name": "Cybellum Technologies",
+  "name": "Cybellum",
   "description": "A comprehensive platform streamlining the entire product security workflow for device manufacturers.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cybellum",
   "crunchbaseId": "cybellum",
   "finderId": "cybellum",
-  "xId": null,
+  "xId": "cybellum",
   "addresses": [
     {
       "street": "עמינדב",
@@ -19,5 +19,8 @@
       "lat": 32.065077,
       "lon": 34.793601
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cybellum-206407263103237",
+  "linkedinNum": 10289161
 }

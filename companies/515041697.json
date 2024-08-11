@@ -1,16 +1,16 @@
 {
-  "name": "Breezometer",
-  "description": "BreezoMeter's APIs provide access to location-based air-quality, pollen, fires, & weather data, allowing you to integrate them into your apps, services & ...",
-  "categoryId": 12,
+  "name": "BreezoMeter",
+  "description": "Health-focused Environmental Intelligence",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/breezometer-logo.webp",
-  "websiteUrl": "https://docs.breezometer.com/",
+  "websiteUrl": "https://www.BreezoMeter.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "breezometer",
-  "xId": null,
+  "xId": "BreezoMeter",
   "addresses": [
     {
       "street": "הנמל",
@@ -19,5 +19,8 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Breezometer",
+  "linkedinNum": 5095126
 }

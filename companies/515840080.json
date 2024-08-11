@@ -1,10 +1,10 @@
 {
-  "name": "Toperation",
-  "description": "Facilitates user login via mobile number verification through SMS code.",
-  "categoryId": 7,
+  "name": "TOPeration",
+  "description": "Operations and Workforce Management Platform for Brick and Mortar Retailers",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/toperation-logo.webp",
-  "websiteUrl": "https://app.toperation.co/",
+  "websiteUrl": "https://www.wearedex.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0696175,
       "lon": 34.7842349
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12637999
 }

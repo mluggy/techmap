@@ -10,7 +10,7 @@
   "linkedinId": "outgage",
   "crunchbaseId": "outgage-inc",
   "finderId": "take-make",
-  "xId": null,
+  "xId": "OutgageHQ",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "outgagehq",
+  "linkedinNum": 18581587
 }

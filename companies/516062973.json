@@ -1,10 +1,10 @@
 {
-  "name": "Take A Shuttle",
-  "description": "A service that enables restaurants to donate their excess food to benefit the community.",
+  "name": "TAKE",
+  "description": "Social Impact Solution to Help Restaurants Donate Surplus Food",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/take_a_shuttle-logo.webp",
-  "websiteUrl": "https://www.supershuttle.com/",
+  "websiteUrl": "https://take247.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.6603359,
       "lon": 35.555224
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "take247",
+  "linkedinNum": 31391462
 }

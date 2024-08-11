@@ -1,5 +1,5 @@
 {
-  "name": "Polywizz",
+  "name": "PolyWizz",
   "description": "A system designed for insurance professionals in Israel, offering one-click aggregation, analysis, and optimization recommendations for customer insurance portfolios.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "polywizz",
-  "xId": null,
+  "xId": "poly_wizz",
   "addresses": [
     {
       "street": "מצדה",
@@ -19,5 +19,8 @@
       "lat": 32.0914266,
       "lon": 34.8251051
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "polywizz",
+  "linkedinNum": 25075175
 }

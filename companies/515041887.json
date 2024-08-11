@@ -1,5 +1,5 @@
 {
-  "name": "Algaecore Technologies",
+  "name": "AlgaeCore",
   "description": "Offering single-ingredient fish and meat alternatives that closely resemble the real thing, packed with taste, protein, and essential nutrients.",
   "categoryId": 17,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.19630935,
       "lon": 34.88423473965118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "groups",
+  "linkedinNum": 40723573
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Lightbits Labs",
+  "name": "LightBits Labs",
   "description": "A groundbreaking software-defined data platform offering scalable, high-performance, and cost-efficient block-based NVMe over TCP storage solutions with Intelligent Flash Management and rich enterprise data services.",
   "categoryId": 6,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.lightbitslabs.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lightbits-labs",
   "crunchbaseId": null,
   "finderId": "lightbits-labs",
-  "xId": null,
+  "xId": "LightbitsLabs",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lightbitslabs",
+  "linkedinNum": 10588524
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Electreon Wireless",
+  "name": "Electreon",
   "description": "Leading provider of wireless on-the-go and idle charging solutions for electric vehicles.",
   "categoryId": 5,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://electreon.com/",
   "careersUrl": "https://electreon.com/about-us/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "electreon",
   "crunchbaseId": null,
   "finderId": "electreon",
-  "xId": null,
+  "xId": "Electreon",
   "addresses": [
     {
       "street": "הדסה נעורים",
@@ -19,5 +19,7 @@
       "lat": 32.374030899999994,
       "lon": 34.86223404276589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11678469
 }

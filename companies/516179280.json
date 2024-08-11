@@ -1,10 +1,10 @@
 {
-  "name": "Pointar",
-  "description": "Solutions for Remote Support.",
-  "categoryId": 4,
+  "name": "PointAR",
+  "description": "Remote Assistance Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pointar-logo.webp",
-  "websiteUrl": "https://pointerpointer.com/",
+  "websiteUrl": "https://www.point-ar.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.922288,
       "lon": 34.9688892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71239252
 }

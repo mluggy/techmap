@@ -1,5 +1,5 @@
 {
-  "name": "Mappo Tourism",
+  "name": "Mappo",
   "description": "An advanced platform that provides contextual cultural insights by analyzing your surroundings in real-time.",
   "categoryId": 4,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.9280587,
       "lon": 35.272169
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Mappo.world",
+  "linkedinNum": 18161119
 }

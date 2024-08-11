@@ -1,5 +1,5 @@
 {
-  "name": "Powerinbox",
+  "name": "Jeeng - PowerInbox",
   "description": "We empower publishers to monetize content by delivering personalized ads and curated content directly to subscribers through various channels.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "powerinbox",
-  "xId": null,
+  "xId": "JeengOfficial",
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +19,8 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "JeengOfficial",
+  "linkedinNum": 1969649
 }

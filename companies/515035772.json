@@ -1,16 +1,16 @@
 {
-  "name": "Cydersoft R B",
-  "description": "Implementing machine learning and real-time features, this company strengthens its products to combat fraud effectively.",
-  "categoryId": 7,
+  "name": "Cydersoft",
+  "description": "Mobile Advertising Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/cydersoft_r_b-logo.webp",
-  "websiteUrl": "https://www.videmob.com/",
+  "websiteUrl": "https://www.cydersoft.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cydersoft-ltd",
   "crunchbaseId": "cydersoft",
   "finderId": "cydersoft",
-  "xId": null,
+  "xId": "cydersoft",
   "addresses": [
     {
       "street": "ההגנה",
@@ -19,5 +19,8 @@
       "lat": 32.031718,
       "lon": 34.8532073
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cydersoft",
+  "linkedinNum": 5083467
 }

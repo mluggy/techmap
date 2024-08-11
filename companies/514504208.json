@@ -1,5 +1,5 @@
 {
-  "name": "Bluewind Medical",
+  "name": "BlueWind Medical",
   "description": "Therapy using neuromodulation for treating urge-related urinary incontinence.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "bluewind-medical",
   "crunchbaseId": null,
   "finderId": "bluewind-medical",
-  "xId": null,
+  "xId": "bluewindinc",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,8 @@
       "lat": 32.1668445,
       "lon": 34.8115866
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bluewindmedical",
+  "linkedinNum": 2243132
 }

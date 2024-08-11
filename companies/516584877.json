@@ -1,10 +1,10 @@
 {
   "name": "Joyn Power",
-  "description": "Stream your favorite series, movies, sports, and live TV anytime, anywhere with free signup.",
-  "categoryId": 8,
+  "description": "EV Charging App",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/joyn_power-logo.webp",
-  "websiteUrl": "https://www.joyn.de/",
+  "websiteUrl": "https://www.joynpower.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0522939,
       "lon": 34.8141034
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77634551
 }

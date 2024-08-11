@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "kitchen-robotics",
-  "xId": null,
+  "xId": "KitchenRobotics",
   "addresses": [
     {
       "street": "הסתת",
@@ -19,5 +19,8 @@
       "lat": 31.8862194,
       "lon": 34.9609731
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "kitchenrobotics",
+  "linkedinNum": 55177406
 }

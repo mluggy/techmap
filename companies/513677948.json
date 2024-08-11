@@ -1,5 +1,5 @@
 {
-  "name": "Pet Novations",
+  "name": "PetNovations",
   "description": "Creators of the world's only self-cleaning, eco-friendly cat waste management system, benefiting both the environment and feline households globally.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "petnovations",
   "crunchbaseId": null,
   "finderId": "petnovations",
-  "xId": null,
+  "xId": "catgenie",
   "addresses": [
     {
       "street": "הפרחים",
@@ -19,5 +19,8 @@
       "lat": 32.1678528,
       "lon": 34.8938559
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 72418869
 }

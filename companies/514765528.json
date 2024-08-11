@@ -1,16 +1,16 @@
 {
-  "name": "Viber Lab",
-  "description": "Complimentary and Safe Communication for Messaging and Calls.",
-  "categoryId": 18,
+  "name": "Viber",
+  "description": "Free and Secure Messaging and Calls",
+  "categoryId": 8,
   "size": "l",
   "logoFile": "logos/viber_lab-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.viber.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rakuten-viber",
   "crunchbaseId": null,
   "finderId": "viber",
-  "xId": null,
+  "xId": "viber",
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -19,5 +19,9 @@
       "lat": 32.0933997,
       "lon": 34.8233558
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "viber",
+  "linkedinNum": 1710293,
+  "comeetId": "viber/04.002"
 }

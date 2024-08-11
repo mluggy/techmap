@@ -1,16 +1,16 @@
 {
-  "name": "Tensorleap",
-  "description": "A platform enhancing the development of Deep Neural Networks by offering advanced debugging, observability, and explainability tools for data scientists.",
-  "categoryId": 1,
+  "name": "TensorLeap",
+  "description": "Deep-learning Development",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tensorleap-logo.webp",
-  "websiteUrl": "https://docs.tensorleap.ai/",
+  "websiteUrl": "https://tensorleap.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tensorleap",
-  "xId": null,
+  "xId": "tensorleap",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,8 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TensorLeap-107420070750477",
+  "linkedinNum": 26251098
 }

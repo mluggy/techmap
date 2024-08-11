@@ -1,10 +1,10 @@
 {
-  "name": "Medva Gis",
-  "description": "A leader in transforming geographic data into valuable decision-making tools, specializing in cloud-based Decision Support Systems for managers.",
-  "categoryId": 6,
+  "name": "Medva GIS",
+  "description": "Spatial Decision-support Systems",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/medva_gis-logo.webp",
-  "websiteUrl": "https://www.medva-gis.com/",
+  "websiteUrl": "https://www.agri-insight.net",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "medva-gis",
@@ -19,5 +19,7 @@
       "lat": 32.106754,
       "lon": 34.83522
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Insight-GIS-488343415020479"
 }

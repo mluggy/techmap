@@ -1,5 +1,5 @@
 {
-  "name": "Securithings",
+  "name": "SecuriThings",
   "description": "Manage, automate, and secure all your physical security devices with real-time monitoring and smart analytics through a single, cohesive platform.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "securithings",
   "crunchbaseId": null,
   "finderId": "securithings",
-  "xId": null,
+  "xId": "SecuriThings",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.08452905,
       "lon": 34.80020929592628
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SecuriThingsIoT",
+  "linkedinNum": 5391738
 }

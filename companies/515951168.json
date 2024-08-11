@@ -1,16 +1,16 @@
 {
   "name": "Comonetize",
-  "description": "A recruitment platform driven by community collaboration.",
+  "description": "Community-based Recruitment Engine",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/comonetize-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.comonetize.me/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "comonetize",
   "crunchbaseId": "comonetize",
   "finderId": "comonetize",
-  "xId": null,
+  "xId": "comonetize",
   "addresses": [
     {
       "street": "רזיאל",
@@ -19,5 +19,8 @@
       "lat": 32.0542502,
       "lon": 34.8229817
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "comonetize",
+  "linkedinNum": 15843667
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Oktopost Technologies",
+  "name": "Oktopost",
   "description": "A B2B-focused social engagement platform that empowers data-driven organizations to achieve their marketing objectives.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "oktopost",
   "crunchbaseId": null,
   "finderId": "oktopost",
-  "xId": null,
+  "xId": "oktopost",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,8 @@
       "lat": 32.083993,
       "lon": 34.8007991
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "oktopost",
+  "linkedinNum": 2603902
 }

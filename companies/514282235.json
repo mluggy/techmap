@@ -1,5 +1,5 @@
 {
-  "name": "Zoominfo Israel",
+  "name": "ZoomInfo",
   "description": "A versatile operating system enabling revenue teams to achieve business growth through intelligence and prospecting.",
   "categoryId": 1,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "zoominfo",
   "crunchbaseId": null,
   "finderId": "zoominfo",
-  "xId": null,
+  "xId": "ZoomInfo",
   "addresses": [
     {
       "street": "השיזף",
@@ -19,5 +19,8 @@
       "lat": 32.1919424,
       "lon": 34.8855377
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ZoomInformation",
+  "linkedinNum": 16272
 }

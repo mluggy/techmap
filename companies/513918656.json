@@ -1,16 +1,16 @@
 {
-  "name": "Controls Force",
-  "description": "Ensuring the safety of data and transactions across different systems.",
+  "name": "Control's Force",
+  "description": "Securing Data and Transactions Across Disparate Systems",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/controls_force-logo.webp",
-  "websiteUrl": "https://www.forcecontrols.com/",
+  "websiteUrl": "https://www.controlsforce.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "control's-force-ltd",
   "crunchbaseId": "controls-force",
   "finderId": "control-s-force",
-  "xId": null,
+  "xId": "controlsforce",
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -19,5 +19,8 @@
       "lat": 31.9137859,
       "lon": 34.8024773
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Controls-Force-207065632647210",
+  "linkedinNum": 1285001
 }

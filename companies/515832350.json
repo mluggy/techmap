@@ -1,5 +1,5 @@
 {
-  "name": "Simpool Io",
+  "name": "Simpool",
   "description": "AI-driven simulation service offering endless 'what-if' scenario explorations to guide future decision-making.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "simpool",
   "finderId": "simpool",
-  "xId": null,
+  "xId": "simpool_ltv",
   "addresses": [
     {
       "street": "הקרן",
@@ -19,5 +19,8 @@
       "lat": 32.4822141,
       "lon": 34.9880899
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "simpool.io",
+  "linkedinNum": 18427710
 }

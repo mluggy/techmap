@@ -1,10 +1,10 @@
 {
-  "name": "Cancurx",
-  "description": "Solutions for Pancreatic Cancer Care.",
+  "name": "CanCuRX",
+  "description": "Pancreatic Cancer Treatment",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cancurx-logo.webp",
-  "websiteUrl": "https://gco.iarc.fr/",
+  "websiteUrl": "https://carmel-ltd.haifa.ac.il/index.php/carmel-innovation-fund/190-cancurx-ltd",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.7659659,
       "lon": 35.012341
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Botika E Y",
-  "description": "Savor a fusion of Chinese-Peruvian, Japanese-Peruvian, and creatively reimagined Asian and Latin American dishes.",
-  "categoryId": 8,
+  "name": "Botika",
+  "description": "Reinventing Fashion Photoshoots with Generative AI",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/botika_e_y-logo.webp",
-  "websiteUrl": "https://botikapearl.com/",
+  "websiteUrl": "https://botika.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0837038,
       "lon": 34.7716714
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 53084553
 }

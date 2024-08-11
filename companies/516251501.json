@@ -1,5 +1,5 @@
 {
-  "name": "Riverside FM",
+  "name": "Riverside.fm",
   "description": "Offering an AI-powered online platform for high-quality podcast and video production, specializing in seamless human conversations.",
   "categoryId": 1,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "riverside-fm",
   "crunchbaseId": "riverside-fm",
   "finderId": "riverside-fm",
-  "xId": null,
+  "xId": "riversidedotfm",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +19,9 @@
       "lat": 32.0694309,
       "lon": 34.7865283
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "riversidedotfm",
+  "linkedinNum": 37854337,
+  "comeetId": "riverside-fm/66.009"
 }

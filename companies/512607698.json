@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.stratasys.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "stratasys",
   "crunchbaseId": null,
   "finderId": "stratasys",
-  "xId": null,
+  "xId": "Stratasys",
   "addresses": [
     {
       "street": "הולצמן חיים",
@@ -19,5 +19,8 @@
       "lat": 31.915662249999997,
       "lon": 34.807746809143225
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "stratasys",
+  "linkedinNum": 415728
 }

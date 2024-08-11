@@ -1,10 +1,10 @@
 {
-  "name": "Chronisense Medical",
-  "description": "Managing Long-Term Health Conditions.",
+  "name": "ChroniSense Medical",
+  "description": "Chronic Disease Management",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/chronisense_medical-logo.webp",
-  "websiteUrl": "https://polsohealth.com/",
+  "websiteUrl": "https://polsowatch.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "polso-health",
@@ -19,5 +19,7 @@
       "lat": 32.658470449999996,
       "lon": 35.098399294495735
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 37426567
 }

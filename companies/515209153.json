@@ -1,5 +1,5 @@
 {
-  "name": "Pickapp Farming",
+  "name": "PickApp Farming",
   "description": "This tool streamlines farm production, measuring yield and quality to enhance efficiency and maximize fruit value.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "pickapp-farming",
   "crunchbaseId": null,
   "finderId": "pickapp",
-  "xId": null,
+  "xId": "PickAppFarming",
   "addresses": [
     {
       "street": "ברק",
@@ -19,5 +19,8 @@
       "lat": 30.36109364164795,
       "lon": 35.15546440424852
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PickAppFarmingIsrael",
+  "linkedinNum": 10303170
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "synergy-cables",
-  "xId": null,
+  "xId": "synergycables",
   "addresses": [
     {
       "street": "האשל",
@@ -19,5 +19,8 @@
       "lat": 31.5201396,
       "lon": 34.5975794
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Synergycables",
+  "linkedinNum": 798435
 }

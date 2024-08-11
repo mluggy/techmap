@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.snappy.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "snappy-app",
   "crunchbaseId": null,
   "finderId": "snappy-gifts",
-  "xId": null,
+  "xId": "snappygift",
   "addresses": [
     {
       "street": "נמל תל אביב",
@@ -19,5 +19,8 @@
       "lat": 32.0969249,
       "lon": 34.774118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "snappygifts",
+  "linkedinNum": 7600452
 }

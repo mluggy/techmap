@@ -1,16 +1,16 @@
 {
   "name": "Advinion",
-  "description": "A top provider of industry-specific enterprise and IT software solutions, offering financial portals and market tools for both professionals and non-professionals.",
-  "categoryId": 10,
+  "description": "Industry-specific SaaS Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/advinion-logo.webp",
-  "websiteUrl": "http://advinion.co.il/?lang=eng",
+  "websiteUrl": "https://www.prochartview.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "advinion",
-  "xId": null,
+  "xId": "tradeandchart",
   "addresses": [
     {
       "street": "עין חי",
@@ -19,5 +19,8 @@
       "lat": 32.1565748,
       "lon": 34.8929633
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "prochartview",
+  "linkedinNum": 3337302
 }

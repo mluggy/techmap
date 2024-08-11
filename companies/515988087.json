@@ -1,10 +1,10 @@
 {
-  "name": "Voicencode",
-  "description": "Voice Recognition Software.",
-  "categoryId": 1,
+  "name": "VoicEncode",
+  "description": "Speech Recognition Technology",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/voicencode-logo.webp",
-  "websiteUrl": "https://serenade.ai/",
+  "websiteUrl": "https://voicencode.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "voicencode",
@@ -19,5 +19,7 @@
       "lat": 32.1848844,
       "lon": 34.928684
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11519127
 }

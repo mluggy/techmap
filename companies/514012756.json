@@ -1,5 +1,5 @@
 {
-  "name": "Billrun Technologies",
+  "name": "BillRun Technologies",
   "description": "An open-source Telecom BSS platform offering transparency, reduced complexity, and lower OPEX costs without vendor lock-in, benefiting from community-driven solutions.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "billrun-ltd.",
   "crunchbaseId": null,
   "finderId": "billrun",
-  "xId": null,
+  "xId": "billrun_billing",
   "addresses": [
     {
       "street": "לנדאו חיים",
@@ -19,5 +19,7 @@
       "lat": 32.0932043,
       "lon": 34.8420365
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10518310
 }

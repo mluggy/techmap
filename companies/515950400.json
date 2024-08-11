@@ -1,5 +1,5 @@
 {
-  "name": "Odysight AI",
+  "name": "OdysightAI",
   "description": "They employ AI-driven Camera-as-a-Sensor™ technology for predictive maintenance in challenging Industry 4.0 environments like aviation and energy.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "odysightai",
   "crunchbaseId": null,
   "finderId": "odysightai",
-  "xId": null,
+  "xId": "OdysightAI",
   "addresses": [
     {
       "street": "אזור התעשיה",
@@ -19,5 +19,7 @@
       "lat": 31.27115,
       "lon": 34.842576
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19164024
 }

@@ -1,0 +1,25 @@
+{
+  "name": "Mush Foods",
+  "description": "Mushroom Mycelium-based Protein",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/mush-foods.webp",
+  "websiteUrl": "https://mush-foods.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 75045706,
+  "crunchbaseId": null,
+  "finderId": "mush-foods",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "הבושם",
+      "houseNumber": 3,
+      "city": "אשדוד",
+      "lat": 31.81951908100907,
+      "lon": 34.666782692997096
+    }
+  ],
+  "isMultinational": false
+}

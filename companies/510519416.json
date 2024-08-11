@@ -1,5 +1,5 @@
 {
-  "name": "Sigma Aldrich Israel",
+  "name": "Sigma Aldrich",
   "description": "Driving life and health advancements through a diverse portfolio of cutting-edge scientific products.",
   "categoryId": 12,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "sigma-aldrich",
   "crunchbaseId": null,
   "finderId": "sigma-aldrich",
-  "xId": null,
+  "xId": "SigmaAldrich",
   "addresses": [
     {
       "street": "פלאוט מנחם",
@@ -19,5 +19,8 @@
       "lat": 31.9125418,
       "lon": 34.8065818
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SigmaAldrich",
+  "linkedinNum": 165965
 }

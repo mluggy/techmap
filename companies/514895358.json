@@ -1,5 +1,5 @@
 {
-  "name": "Lusha Systems",
+  "name": "Lusha",
   "description": "Delivering premium, high-quality data seamlessly across social networks, the web, Salesforce, and directly into your product.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "lushadata",
   "crunchbaseId": null,
   "finderId": "lusha",
-  "xId": null,
+  "xId": "Lushadata",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LushaData",
+  "linkedinNum": 33222678,
+  "comeetId": "lusha/73.00B"
 }

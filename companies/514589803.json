@@ -1,5 +1,5 @@
 {
-  "name": "Mirobot",
+  "name": "miRobot",
   "description": "Automates the entire milking process using advanced robotics, image processing, and dairy science for gentle yet robust milking.",
   "categoryId": 15,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.7343847,
       "lon": 35.1470459
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 34701689
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Stemrad",
+  "name": "StemRad",
   "description": "Pioneering personal radiation shielding, this company enhances safety for critical professionals through innovation and scientific breakthroughs.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "stemrad",
-  "xId": null,
+  "xId": "stemrad",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.107465,
       "lon": 34.827939
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "stemrad",
+  "linkedinNum": 3505511
 }

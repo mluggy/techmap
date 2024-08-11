@@ -1,5 +1,5 @@
 {
-  "name": "Pharmedica",
+  "name": "PharMedica",
   "description": "A multidisciplinary team specializing in medical device innovation, particularly in developing orally dissolving films for controlled and sustained drug release.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.7897925,
       "lon": 34.9593655
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1387179
 }

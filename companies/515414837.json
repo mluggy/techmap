@@ -1,5 +1,5 @@
 {
-  "name": "Poultrix",
+  "name": "PoultriX",
   "description": "This innovative farm management solution enables real-time monitoring and decision-making from any location.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "poultrix",
-  "xId": null,
+  "xId": "PoultrixC",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.109818,
       "lon": 34.841254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "poultrix",
+  "linkedinNum": 28149217
 }

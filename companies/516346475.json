@@ -1,5 +1,5 @@
 {
-  "name": "Ariga Technologies",
+  "name": "Ariga",
   "description": "Offers database schema management solutions including safe migrations, CI verification, and deployment planning.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ariga",
-  "xId": null,
+  "xId": "ariga_io",
   "addresses": [
     {
       "street": "בית הלל",
@@ -19,5 +19,7 @@
       "lat": 32.069135,
       "lon": 34.791589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76107497
 }

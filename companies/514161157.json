@@ -1,10 +1,10 @@
 {
   "name": "Turbulent Technologies",
-  "description": "We collaborate globally to deliver renewable energy solutions with cutting-edge technology, offering diverse turbine projects from small household units to larger clusters.",
-  "categoryId": 17,
+  "description": "Large-scale Liquid Mixing and Separation Systems",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/turbulent_technologies-logo.webp",
-  "websiteUrl": "https://www.turbulent.be/",
+  "websiteUrl": "https://turbulent-tech.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7978986,
       "lon": 34.9842473
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 880277
 }

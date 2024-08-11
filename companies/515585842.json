@@ -1,5 +1,5 @@
 {
-  "name": "Capitolis Technologies",
+  "name": "Capitolis",
   "description": "Leveraging advanced tech and financial know-how, they deliver innovative solutions to fuel global growth.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "capitolis.com",
   "crunchbaseId": "capitolis",
   "finderId": "capitolis",
-  "xId": null,
+  "xId": "Capitolis_Inc",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,8 @@
       "lat": 32.073172,
       "lon": 34.797489
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18124548,
+  "greenhouseId": "capitolis"
 }

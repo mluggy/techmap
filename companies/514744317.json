@@ -1,5 +1,5 @@
 {
-  "name": "Inno Bev",
+  "name": "Inno-Bev",
   "description": "InnoBev offers a patented natural formula that enhances daily focus and concentration by syncing with your biological clock.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.0858591,
       "lon": 34.7701454
     }
-  ]
+  ],
+  "isMultinational": false
 }

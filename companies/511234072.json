@@ -1,15 +1,18 @@
 {
-  "name": "Hazera 1939",
-  "description": "An international agricultural cooperative, founded and directed by farmers, that specializes in agricultural products.",
-  "categoryId": 9,
+  "name": "Hazera",
+  "description": "Data-driven Seed Breeding and Development",
+  "categoryId": 17,
   "size": "l",
   "logoFile": "logos/hazera_1939_ltd-logo.webp",
-  "websiteUrl": "https://us.hazera.com/",
+  "websiteUrl": "https://www.hazera.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hazera-seeds",
   "crunchbaseId": null,
   "finderId": "hazera",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "hazeracorp",
+  "linkedinNum": 115473
 }

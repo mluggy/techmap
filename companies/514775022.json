@@ -1,5 +1,5 @@
 {
-  "name": "Cure Diva",
+  "name": "CureDiva",
   "description": "A supportive platform dedicated to helping breast cancer patients and survivors maintain their self-esteem and femininity through tailored resources.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.1618526,
       "lon": 34.80709739822251
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CureDiva",
+  "linkedinNum": 2604618
 }

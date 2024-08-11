@@ -1,10 +1,10 @@
 {
-  "name": "Bel Har Investments",
-  "description": "Specializing in electronic components, this company facilitates global connectivity across various sectors such as computing, networking, telecommunications, and transportation.",
-  "categoryId": 16,
+  "name": "Bel Technologies",
+  "description": "Water Treatment and Processing Products",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/bel_har_investments-logo.webp",
-  "websiteUrl": "https://www.belfuse.com/",
+  "websiteUrl": "https://www.bel-g.com/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7763981,
       "lon": 35.2114836
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2574884
 }

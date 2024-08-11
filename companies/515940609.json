@@ -1,16 +1,16 @@
 {
   "name": "Veego Software",
-  "description": "A comprehensive shipping solution providing the lowest rates and cashback, along with advanced inventory and warehouse management tools.",
-  "categoryId": 9,
+  "description": "Connected Home Experience Solutions",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/veego_software-logo.webp",
-  "websiteUrl": "https://www.veeqo.com/",
+  "websiteUrl": "https://www.veego.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "veego",
   "finderId": "veego-software",
-  "xId": null,
+  "xId": "veegosmarthome",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.0848749,
       "lon": 34.8030899
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VeegoTeam",
+  "linkedinNum": 13028336
 }

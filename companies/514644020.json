@@ -1,5 +1,5 @@
 {
-  "name": "Nutrino Health",
+  "name": "Nutrino",
   "description": "An innovator in AI, data analytics, MLOps, and cloud computing, dedicated to advancing healthcare technology.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nutrino",
-  "xId": null,
+  "xId": "Nutrino",
   "addresses": [
     {
       "street": "הרכבת",
@@ -19,5 +19,8 @@
       "lat": 32.060334,
       "lon": 34.782124
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nutrino.co",
+  "linkedinNum": 2329594
 }

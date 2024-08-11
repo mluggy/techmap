@@ -1,5 +1,5 @@
 {
-  "name": "Aperio Systems 2020",
+  "name": "Aperio Systems",
   "description": "Enhancing data accuracy, security, and value at scale to enable smarter, real-time decision-making.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "aperioai",
   "crunchbaseId": null,
   "finderId": "aperio-systems",
-  "xId": null,
+  "xId": "Aperio_AI",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.063827,
       "lon": 34.773396
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "aperiosys",
+  "linkedinNum": 10446579
 }

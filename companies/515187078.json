@@ -1,5 +1,5 @@
 {
-  "name": "Octopai B I",
+  "name": "Octopai",
   "description": "Automated solution empowering BI and Analytics teams to swiftly locate and comprehend their data through advanced lineage, catalog, and discovery features.",
   "categoryId": 1,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OctopaiBI",
+  "linkedinNum": 9502791
 }

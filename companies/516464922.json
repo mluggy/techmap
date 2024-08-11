@@ -1,5 +1,5 @@
 {
-  "name": "Datadog Israel",
+  "name": "Datadog",
   "description": "We provide a cloud-based monitoring and security platform for developers, IT operations teams, and business users.",
   "categoryId": 6,
   "size": "xl",
@@ -19,5 +19,8 @@
       "lat": 32.062831,
       "lon": 34.782228
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 1066442,
+  "greenhouseId": "datadog"
 }

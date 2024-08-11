@@ -1,5 +1,5 @@
 {
-  "name": "Stackpath",
+  "name": "StackPath",
   "description": "A cloud computing service providing localized platforms in major global markets to enhance the proximity and performance of internet-centric applications and microservices.",
   "categoryId": 6,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "stackpath",
   "crunchbaseId": null,
   "finderId": "stackpath",
-  "xId": null,
+  "xId": "stackpath",
   "addresses": [
     {
       "street": "העצמאות",
@@ -19,5 +19,8 @@
       "lat": 32.0745882,
       "lon": 34.8691489
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "stackpathllc",
+  "linkedinNum": 10346930
 }

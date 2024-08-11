@@ -1,5 +1,5 @@
 {
-  "name": "Nanoghost",
+  "name": "NanoGhost",
   "description": "A pioneering biotech firm creating nanovesicle-based drug delivery systems derived from mesenchymal stem cells to target cancer and inflammation with high precision.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.2759247,
       "lon": 34.8623182
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 80018810
 }

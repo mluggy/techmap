@@ -1,5 +1,5 @@
 {
-  "name": "Roomer Travel",
+  "name": "Roomer",
   "description": "Roomer is an online marketplace for selling & buying discounted hotel reservations. Save up to 80% on hotel rooms worldwide.",
   "categoryId": 9,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.roomertravel.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "roomer",
   "crunchbaseId": null,
   "finderId": "roomer-travel",
-  "xId": null,
+  "xId": "RoomerTravel",
   "addresses": [
     {
       "street": "יהודה הלוי",
@@ -19,5 +19,8 @@
       "lat": 32.061977,
       "lon": 34.772924
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RoomerHotDeals",
+  "linkedinNum": 2858730
 }

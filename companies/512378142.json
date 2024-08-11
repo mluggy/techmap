@@ -1,10 +1,10 @@
 {
-  "name": "Myform",
-  "description": "Provides secure login solutions integrating both username and password authentication.",
-  "categoryId": 7,
+  "name": "MyForm",
+  "description": "Personal Protective Gear",
+  "categoryId": 3,
   "size": "s",
   "logoFile": "logos/myform-logo.webp",
-  "websiteUrl": "https://myforms.dipostar.com/",
+  "websiteUrl": "https://www.myformgroup.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.067078,
       "lon": 34.781747
     }
-  ]
+  ],
+  "isMultinational": false
 }

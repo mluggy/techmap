@@ -1,10 +1,10 @@
 {
   "name": "Wellplay",
-  "description": "A scalable tournament management platform offering flexible subscription plans and backend services to handle high traffic effortlessly.",
-  "categoryId": 11,
+  "description": "AI Platform for Mental Health Therapists and Patients",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/wellplay-logo.webp",
-  "websiteUrl": "https://well-played.gg/",
+  "websiteUrl": "https://www.wellplayapp.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.07334546740088,
       "lon": 34.82250254889426
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Wellplayapp",
+  "linkedinNum": 77913873
 }

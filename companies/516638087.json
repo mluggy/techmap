@@ -1,0 +1,26 @@
+{
+  "name": "Tweed",
+  "description": "Crypto Wallet API for Web3",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/tweed.webp",
+  "websiteUrl": "https://paytweed.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinId": "paytweed",
+  "linkedinNum": 91556781,
+  "crunchbaseId": null,
+  "finderId": "tweed",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 96,
+      "city": "תל אביב - יפו",
+      "lat": 32.069366721506846,
+      "lon": 34.78551243185513
+    }
+  ],
+  "isMultinational": false
+}

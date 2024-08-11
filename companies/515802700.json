@@ -1,16 +1,16 @@
 {
-  "name": "Blox Financial Services",
-  "description": "Leading provider of modular healthcare building solutions, delivering extensive design, manufacturing, and construction services since 2014.",
-  "categoryId": 12,
+  "name": "Blox",
+  "description": "Social Network for Crypto Investors",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/blox_financial_services-logo.webp",
-  "websiteUrl": "https://www.bloxbuilt.com/",
+  "websiteUrl": "https://www.bloxstaking.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "blox",
-  "xId": null,
+  "xId": "blox_staking",
   "addresses": [
     {
       "street": "השופטים",
@@ -19,5 +19,7 @@
       "lat": 32.1527245,
       "lon": 34.841064924970595
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17909829
 }

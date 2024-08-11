@@ -1,5 +1,5 @@
 {
-  "name": "Onepass Medical",
+  "name": "OnePass Medical",
   "description": "An Israeli development stage company has created a unique disposable multi-needle device for taking simultaneous tumor biopsies from five different locations.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 31.0549895,
       "lon": 35.0377289
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 70469348
 }

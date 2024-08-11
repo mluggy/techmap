@@ -1,5 +1,5 @@
 {
-  "name": "Dym Sense",
+  "name": "DYM-Sense",
   "description": "A sensor that measures a driver's blood alcohol levels without any invasive procedures.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 31.99353945,
       "lon": 34.76535052179885
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 66752040
 }

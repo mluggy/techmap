@@ -1,16 +1,16 @@
 {
-  "name": "Hip Mobility",
-  "description": "A Platform for Corporate Transportation and Reservations.",
-  "categoryId": 9,
+  "name": "HQ",
+  "description": "Corporate Transport and Booking Platform",
+  "categoryId": 5,
   "size": "m",
   "logoFile": "logos/hip_mobility-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://hqtravel.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hip-mobility",
-  "xId": null,
+  "xId": "Ride_Hip",
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -19,5 +19,7 @@
       "lat": 31.9148938,
       "lon": 34.8040759
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18888156
 }

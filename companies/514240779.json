@@ -1,5 +1,5 @@
 {
-  "name": "Nrgene Technologies",
+  "name": "NRGene",
   "description": "Leveraging genomic data and AI, this company swiftly identifies optimal solutions for sustainability.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "nrgene-ltd",
   "crunchbaseId": null,
   "finderId": "nrgene",
-  "xId": null,
+  "xId": "NRGene",
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -19,5 +19,8 @@
       "lat": 31.9160002,
       "lon": 34.8020721
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NRGene-Technologies-1003279819696574",
+  "linkedinNum": 1704972
 }

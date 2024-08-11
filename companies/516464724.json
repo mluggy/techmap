@@ -1,5 +1,5 @@
 {
-  "name": "Dig Security Solutions",
+  "name": "Dig Security",
   "description": "Safeguard and manage your cloud data with advanced DSPM and DDR solutions.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "dig-security",
   "finderId": "dig-security",
-  "xId": null,
+  "xId": "dig_security",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Dig.Cyber",
+  "linkedinNum": 75003715,
+  "comeetId": "dig/E7.00B"
 }

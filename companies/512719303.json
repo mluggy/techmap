@@ -1,5 +1,5 @@
 {
-  "name": "Mti Wireless Edge",
+  "name": "MTI Wireless Edge",
   "description": "Established in 1972, this Israeli-based company excels in creating advanced antennas and antenna systems for commercial and custom applications across a wide frequency spectrum.",
   "categoryId": 18,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mti-wireless-edge",
-  "xId": null,
+  "xId": "MTIWirelessEdge",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.1088976,
       "lon": 34.9653972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HighQualityAntennas",
+  "linkedinNum": 118835
 }

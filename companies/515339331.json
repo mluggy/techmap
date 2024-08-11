@@ -10,7 +10,7 @@
   "linkedinId": "beaconcure",
   "crunchbaseId": null,
   "finderId": "beaconcure",
-  "xId": null,
+  "xId": "beaconcure",
   "addresses": [
     {
       "street": "תע\"ש",
@@ -19,5 +19,8 @@
       "lat": 32.0889179,
       "lon": 34.8015247
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "beaconcure",
+  "linkedinNum": 10420264
 }

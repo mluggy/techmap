@@ -1,10 +1,10 @@
 {
-  "name": "Quick Mobile",
-  "description": "An exterior express wash service offering unlimited memberships and free vacuums in several U.S. states.",
+  "name": "Quick",
+  "description": "Online Supermarket Delivery Service",
   "categoryId": 9,
   "size": "m",
   "logoFile": "logos/quick_mobile-logo.webp",
-  "websiteUrl": "https://www.dontdrivedirty.com/",
+  "websiteUrl": "https://quik.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0852923,
       "lon": 34.962579282768985
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "quiksupermarket",
+  "linkedinNum": 11386238
 }

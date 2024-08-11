@@ -1,5 +1,5 @@
 {
-  "name": "Troya Tech Defense",
+  "name": "Troya",
   "description": "We provide night vision and thermal imaging technologies.",
   "categoryId": 3,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "troya",
   "crunchbaseId": "troya-tech-defense-ltd",
   "finderId": "troya",
-  "xId": null,
+  "xId": "TroyaTechDef",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.1950061,
       "lon": 34.8768325
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "troyatechnologies",
+  "linkedinNum": 5087354
 }

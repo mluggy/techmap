@@ -1,10 +1,10 @@
 {
   "name": "Hopa",
-  "description": "A company advancing hematology/oncology pharmacy to enhance cancer patient care through evidence-based practices.",
-  "categoryId": 12,
+  "description": "Reusable Digital Business Cards",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/hopa-logo.webp",
-  "websiteUrl": "https://www.hoparx.org/",
+  "websiteUrl": "https://hopatag.com/",
   "careersUrl": "https://careers.hoparx.org/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.062878,
       "lon": 34.777925
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HOPA-TAG-103040574871192",
+  "linkedinNum": 94834563
 }

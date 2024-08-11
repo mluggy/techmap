@@ -1,10 +1,10 @@
 {
-  "name": "Enertec Systems 2001",
-  "description": "Enertech Global specializes in designing heat pumps and distributing solar PV and energy-efficient products to promote energy independence.",
-  "categoryId": 17,
+  "name": "Enertec Systems",
+  "description": "Advanced Electronic Systems for Military and Civil Applications",
+  "categoryId": 3,
   "size": "s",
   "logoFile": "logos/enertec_systems_2001-logo.webp",
-  "websiteUrl": "https://enertechusa.com/",
+  "websiteUrl": "https://enertec.wpengine.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "enertec-systems-ltd",
@@ -19,5 +19,7 @@
       "lat": 32.9223178,
       "lon": 35.3225045
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1263578
 }

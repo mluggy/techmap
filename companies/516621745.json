@@ -1,16 +1,16 @@
 {
-  "name": "Leo Amplification And Lighting",
-  "description": "A digital assistant tailored for insurance industry experts.",
-  "categoryId": 1,
+  "name": "LeO",
+  "description": "Virtual Assistant for Insurance Professionals",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/leo_amplification_and_lighting-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.meetleo.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "leo",
-  "xId": null,
+  "xId": "LeoChiefOfStuff",
   "addresses": [
     {
       "street": "עופרה חזה",
@@ -19,5 +19,8 @@
       "lat": 32.850283,
       "lon": 35.0830477
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pg",
+  "linkedinNum": 17926444
 }

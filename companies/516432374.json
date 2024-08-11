@@ -1,10 +1,10 @@
 {
-  "name": "Esti Friedman Investments",
-  "description": "A unified app designed for content creators to maintain consistent aesthetics across social media platforms.",
-  "categoryId": 8,
+  "name": "ESTI",
+  "description": "Personal Digital Beauty Advisor",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/esti_friedman_investments-logo.webp",
-  "websiteUrl": "https://esti.app/",
+  "websiteUrl": "https://www.estiapp.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.7860095,
       "lon": 35.1739445
     }
-  ]
+  ],
+  "isMultinational": false
 }

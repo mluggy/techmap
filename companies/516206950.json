@@ -1,10 +1,10 @@
 {
-  "name": "Justride",
-  "description": "A Belluno-based motorcycle dealership offering new and used bikes, expert servicing, and specialized maintenance, founded through a partnership blending professional freestyle motocross expertise and decades of industry experience.",
+  "name": "JustRide",
+  "description": "Automatic Bicycle Transmission",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/justride-logo.webp",
-  "websiteUrl": "https://justridestore.it/",
+  "websiteUrl": "https://justride.one/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.19594595,
       "lon": 34.877010398086966
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10698458
 }

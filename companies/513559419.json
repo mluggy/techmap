@@ -10,7 +10,7 @@
   "linkedinId": "imagine-communications",
   "crunchbaseId": null,
   "finderId": "imagine-communications",
-  "xId": null,
+  "xId": "imagine_comms",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2773544,
       "lon": 34.8584354
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ImagineCommsCorp",
+  "linkedinNum": 37660
 }

@@ -1,10 +1,10 @@
 {
   "name": "Selfit Medical",
-  "description": "Intelligent online therapy solution designed for older adults.",
+  "description": "Smart Digital Therapy Platform for the Aging Population",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/selfit_medical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.selfitmedical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "selfit-medical",
@@ -19,5 +19,7 @@
       "lat": 32.144916,
       "lon": 34.83844968838688
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11237579
 }

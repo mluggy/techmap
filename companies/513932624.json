@@ -1,5 +1,5 @@
 {
-  "name": "Cloudshare",
+  "name": "CloudShare",
   "description": "Revolutionizing virtual labs, our platform ensures seamless VM management and budget control for unparalleled demos and experiments.",
   "categoryId": 6,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.cloudshare.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cloudshare",
   "crunchbaseId": null,
   "finderId": "cloudshare",
-  "xId": null,
+  "xId": "CloudShare",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0835543,
       "lon": 34.8042074
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CloudShare",
+  "linkedinNum": 689670
 }

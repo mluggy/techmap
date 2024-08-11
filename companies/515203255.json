@@ -1,5 +1,5 @@
 {
-  "name": "Intraposition",
+  "name": "IntraPosition",
   "description": "Specializing in cost-effective, precise indoor positioning solutions for complex spaces like supermarkets, warehouses, and hospitals.",
   "categoryId": 13,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.5115576,
       "lon": 34.949588
     }
-  ]
+  ],
+  "isMultinational": false
 }

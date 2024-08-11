@@ -1,5 +1,5 @@
 {
-  "name": "Esggo",
+  "name": "ESGgo",
   "description": "A deep-tech data engine designed to streamline and normalize diverse data formats for regulatory reporting and digital product passport applications.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "esggo",
   "crunchbaseId": null,
   "finderId": "esggo",
-  "xId": null,
+  "xId": "goESGgo",
   "addresses": [
     {
       "street": "שער הים",
@@ -19,5 +19,7 @@
       "lat": 32.1877382,
       "lon": 34.8136406
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78338965
 }

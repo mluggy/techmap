@@ -1,5 +1,5 @@
 {
-  "name": "Officecore.com",
+  "name": "OfficeTrack",
   "description": "A versatile platform enabling task creation, dynamic forms, and adaptable reports for efficient workflow management.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "officecore",
   "crunchbaseId": null,
   "finderId": "officecore",
-  "xId": null,
+  "xId": "OfficeCore_IL",
   "addresses": [
     {
       "street": "ברגמן צבי",
@@ -19,5 +19,8 @@
       "lat": 32.10837775,
       "lon": 34.89076721830157
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 2408547
 }

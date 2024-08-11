@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "strigo",
-  "xId": null,
+  "xId": "StrigoIO",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070281,
       "lon": 34.784982
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "strigoio",
+  "linkedinNum": 10520137
 }

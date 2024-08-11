@@ -1,10 +1,10 @@
 {
-  "name": "Bridgewise Analytics",
-  "description": "A company focused on innovative solutions, enhancing user experience, and providing valuable information through their platform.",
-  "categoryId": 1,
+  "name": "BridgeWise",
+  "description": "AI-driven Financial Research Technology",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/bridgewise_analytics-logo.webp",
-  "websiteUrl": "https://app.bridgewise.com/",
+  "websiteUrl": "https://www.desheanalytics.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "bridgewise",
@@ -19,5 +19,7 @@
       "lat": 32.0835543,
       "lon": 34.8042074
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 43199001
 }

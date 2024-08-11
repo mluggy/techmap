@@ -1,10 +1,10 @@
 {
-  "name": "Vocai",
-  "description": "Provides free AI-powered separation of vocals and instrumentals for karaoke backing tracks and acapella extraction.",
-  "categoryId": 1,
+  "name": "VOCAI",
+  "description": "AI-Enhanced Battery Health and Safety Management Technology",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/vocai-logo.webp",
-  "websiteUrl": "https://vocalremover.org/",
+  "websiteUrl": "https://vocai.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1612746,
       "lon": 34.9065958
     }
-  ]
+  ],
+  "isMultinational": false
 }

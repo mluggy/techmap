@@ -1,5 +1,5 @@
 {
-  "name": "Illustria",
+  "name": "illustria",
   "description": "We offer customizable workflows for managing open source package usage, putting security teams in control.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "illustria-io",
   "crunchbaseId": null,
   "finderId": "illustria",
-  "xId": null,
+  "xId": "Illustriaio",
   "addresses": [
     {
       "street": "הרב לוין",
@@ -19,5 +19,6 @@
       "lat": 32.0701364,
       "lon": 34.8351061
     }
-  ]
+  ],
+  "isMultinational": false
 }

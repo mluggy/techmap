@@ -1,5 +1,5 @@
 {
-  "name": "Belkin Vision",
+  "name": "BELKIN Vision",
   "description": "Providing painless, non-contact glaucoma laser treatments and accessible care.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "belkin-laser",
-  "xId": null,
+  "xId": "BELKIN_Laser",
   "addresses": [
     {
       "street": "שדרות גן רווה",
@@ -19,5 +19,7 @@
       "lat": 31.9011613,
       "lon": 34.738844
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18529552
 }

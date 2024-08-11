@@ -1,16 +1,16 @@
 {
-  "name": "Winbond Technology",
+  "name": "Winbond",
   "description": "Provides comprehensive memory solutions including Flash and DRAM technologies.",
-  "categoryId": 16,
   "size": "l",
+  "categoryId": 16,
   "logoFile": "logos/winbond_technology-logo.webp",
-  "websiteUrl": "https://www.winbond.com/",
+  "websiteUrl": "https://winbond.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "winbond",
   "crunchbaseId": null,
   "finderId": "winbond",
-  "xId": null,
+  "xId": "winbondflash",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,8 @@
       "lat": 32.1613414,
       "lon": 34.8105823
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Winbond.Careers.Israel",
+  "linkedinNum": 11370912
 }

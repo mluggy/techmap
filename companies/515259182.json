@@ -1,5 +1,5 @@
 {
-  "name": "Olehpay",
+  "name": "OlehPay",
   "description": "Facilitates fee-free USD to NIS money transfers to any Israeli account at competitive exchange rates.",
   "categoryId": 10,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 31.7866243,
       "lon": 35.2098659
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OlehPayIsrael",
+  "linkedinNum": 18108316
 }

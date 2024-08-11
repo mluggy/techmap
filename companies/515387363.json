@@ -1,5 +1,5 @@
 {
-  "name": "Redash I O",
+  "name": "Redash",
   "description": "Enabling seamless data connection, querying, visualization, and sharing across diverse sources for better decision-making.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "redash",
-  "xId": null,
+  "xId": "getredash",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getredash",
+  "linkedinNum": 10676275
 }

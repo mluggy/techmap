@@ -1,5 +1,5 @@
 {
-  "name": "Neogames Systems",
+  "name": "NeoGames",
   "description": "Leveraging 17 years of expertise, this firm pioneers the iLottery market with a comprehensive suite of top-tier omnichannel technology solutions.",
   "categoryId": 11,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "neogames",
   "crunchbaseId": "neogames-technologies",
   "finderId": "neogames-technologies",
-  "xId": null,
+  "xId": "iLottery_NG",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,9 @@
       "lat": 32.107131,
       "lon": 34.837026
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NeoGames-444258718952410",
+  "linkedinNum": 215379,
+  "comeetId": "neogames/16.00C"
 }

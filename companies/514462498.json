@@ -1,10 +1,10 @@
 {
-  "name": "Euclid System Engineering",
-  "description": "Participate in a community event featuring music, activities, local vendors, and food, all while supporting businesses on 200th and 185th Streets.",
+  "name": "Euclid",
+  "description": "Smart Positioning Systems",
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/euclid_system_engineering-logo.webp",
-  "websiteUrl": "https://www.cityofeuclid.com/",
+  "websiteUrl": "https://www.euclid-eng.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.3400708,
       "lon": 35.0108993
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Euclid-Systems-Engineering-Ltd-116457343817379",
+  "linkedinNum": 1445904
 }

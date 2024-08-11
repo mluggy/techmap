@@ -1,16 +1,16 @@
 {
-  "name": "Beamup",
-  "description": "A global network of stable servers enabling seamless multiplayer experiences using familiar maps, vehicles, and mods from BeamNG.drive.",
-  "categoryId": 11,
+  "name": "BeamUP",
+  "description": "AI-Powered Facility Intelligence",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/beamup-logo.webp",
-  "websiteUrl": "https://beammp.com/",
+  "websiteUrl": "https://www.beamup.ai",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "beamup",
   "crunchbaseId": null,
   "finderId": "beamup",
-  "xId": null,
+  "xId": "beamupai",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.063834,
       "lon": 34.780027
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "beamupai",
+  "linkedinNum": 35580855
 }

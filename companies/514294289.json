@@ -1,10 +1,10 @@
 {
-  "name": "Digisense",
-  "description": "Offering comprehensive sanction and PEP checks utilizing global regulatory lists and government sources, including coverage of RCAs and SOEs.",
-  "categoryId": 10,
+  "name": "DigiSense",
+  "description": "Contact-free, Wearable Monitoring Technology",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/digisense-logo.webp",
-  "websiteUrl": "https://dilisense.com/",
+  "websiteUrl": "https://www.dg-sense.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0995681,
       "lon": 34.88979814208768
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1043044
 }

@@ -1,16 +1,16 @@
 {
   "name": "Luminera Derm",
-  "description": "Beauty Treatments Delivered Through Injections.",
+  "description": "Injectable Beauty Solutions",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/luminera_derm-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.luminera.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "luminera-ltd",
   "crunchbaseId": null,
   "finderId": "luminera-derm",
-  "xId": null,
+  "xId": "LumineraDerm",
   "addresses": [
     {
       "street": "בת שבע",
@@ -19,5 +19,8 @@
       "lat": 31.9530326,
       "lon": 34.88971251534439
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LumineraDerm",
+  "linkedinNum": 9353016
 }

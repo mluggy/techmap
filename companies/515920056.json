@@ -1,5 +1,5 @@
 {
-  "name": "Slitled",
+  "name": "SlitLED",
   "description": "A device for conducting eye exams remotely via telemedicine.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.668888,
       "lon": 35.107009
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Slitled",
+  "linkedinNum": 11496257
 }

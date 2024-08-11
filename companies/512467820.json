@@ -1,16 +1,16 @@
 {
-  "name": "Nazdaq Nazareth Data Quest",
-  "description": "Providing up-to-date stock market news, information, quotes, and data analysis reports.",
-  "categoryId": 8,
+  "name": "NAZDAQ",
+  "description": "Document Management Solutions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/nazdaq_nazareth_data_quest_ltd-logo.webp",
-  "websiteUrl": "https://www.nasdaq.com/",
+  "websiteUrl": "https://www.nazdaq-it.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nazdaq",
-  "xId": null,
+  "xId": "NAZDAQ_IT",
   "addresses": [
     {
       "street": "הגליל",
@@ -19,5 +19,8 @@
       "lat": 32.7237693,
       "lon": 35.2847813
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NAZDAQIT",
+  "linkedinNum": 1586677
 }

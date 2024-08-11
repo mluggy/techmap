@@ -1,5 +1,5 @@
 {
-  "name": "Endymed",
+  "name": "EndyMed",
   "description": "Utilizing over 22 years of medical expertise, Dr. Fabian Perez Rivera incorporates advanced fractional skin resurfacing technology to enhance treatment options.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "endymed",
-  "xId": null,
+  "xId": "EndyMed",
   "addresses": [
     {
       "street": "לשם",
@@ -19,5 +19,8 @@
       "lat": 32.4896964,
       "lon": 34.9069362
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EndyMed",
+  "linkedinNum": 1405508
 }

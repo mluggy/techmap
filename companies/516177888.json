@@ -1,5 +1,5 @@
 {
-  "name": "Insightcat",
+  "name": "InsightCat",
   "description": "Join the monitoring revolution with zero-configuration visualization, real-time insights, and smart alerts by simply adding a line to your Telegraf configuration.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "insightcat",
   "crunchbaseId": "insightcat",
   "finderId": "insightcat",
-  "xId": null,
+  "xId": "insightcat1",
   "addresses": [
     {
       "street": "מוטה גור",
@@ -19,5 +19,8 @@
       "lat": 32.0920729,
       "lon": 34.8646062
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "insightcat",
+  "linkedinNum": 42140122
 }

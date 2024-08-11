@@ -1,5 +1,5 @@
 {
-  "name": "Navan Labs Israel",
+  "name": "Navan",
   "description": "A top-rated all-in-one app simplifying corporate travel and expense management with enhanced visibility, savings, and control.",
   "categoryId": 9,
   "size": "l",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://navan.com/",
   "careersUrl": "https://navan.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "navan",
   "crunchbaseId": null,
   "finderId": "navan",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.060334,
       "lon": 34.782124
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79902774,
+  "greenhouseId": "TripActions"
 }

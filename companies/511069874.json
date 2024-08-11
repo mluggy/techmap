@@ -1,10 +1,10 @@
 {
   "name": "Tvuna Software Industries",
-  "description": "Tools designed to aid Boards of Directors in effective management.",
+  "description": "Management Tools for Boards of Directors",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tvuna_software_industries_ltd-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.tvuna.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0862661,
       "lon": 34.800174909775976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tvuna.digital",
+  "linkedinNum": 78425
 }

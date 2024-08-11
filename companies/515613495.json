@@ -1,10 +1,10 @@
 {
-  "name": "Eta Bar",
-  "description": "Uninterrupted Power Solutions for IoT Devices.",
-  "categoryId": 13,
+  "name": "Eta-Bar",
+  "description": "Offline Power Supply for IoT Devices",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/eta_bar-logo.webp",
-  "websiteUrl": "https://www.etarestaurantandbar.com/",
+  "websiteUrl": "https://www.eta-bar.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0845026,
       "lon": 34.8731823
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17888009
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Nutrits",
-  "description": "Specializing in nanotechnology, this company leverages the unique properties of sub-100 nm nanobubbles to enhance water characteristics and performance.",
-  "categoryId": 17,
+  "name": "nanobb",
+  "description": "Baby Bottle that Preserves Breast Milk Nutrients",
+  "categoryId": 12,
   "size": "m",
   "logoFile": "logos/nutrits-logo.webp",
-  "websiteUrl": "https://www.nanobb.com/",
+  "websiteUrl": "https://www.nanobebe.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nutrits",
-  "xId": null,
+  "xId": "nanobebeworld",
   "addresses": [
     {
       "street": "הסדנאות",
@@ -19,5 +19,8 @@
       "lat": 32.1618526,
       "lon": 34.80709739822251
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nanobebeISRAEL",
+  "linkedinNum": 10249867
 }

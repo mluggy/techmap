@@ -1,16 +1,16 @@
 {
   "name": "Pulseem",
-  "description": "Providing 15 years of expert digital marketing services for businesses of all sizes.",
-  "categoryId": 2,
+  "description": "Email Marketing and SMS Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pulseem-logo.webp",
-  "websiteUrl": "https://site.pulseem.co.il/",
+  "websiteUrl": "https://www.pulseem.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pulseem",
   "crunchbaseId": null,
   "finderId": "pulseem",
-  "xId": null,
+  "xId": "Pulseem",
   "addresses": [
     {
       "street": "שד' מסריק",
@@ -19,5 +19,8 @@
       "lat": 32.0789864,
       "lon": 34.7789275
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pulseem.co.il",
+  "linkedinNum": 2650215
 }

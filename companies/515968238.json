@@ -1,13 +1,13 @@
 {
-  "name": "Xtend Robotics",
-  "description": "A transformative fitness program that enhances physical and mental strength, showing you your true potential.",
-  "categoryId": 15,
+  "name": "XTEND",
+  "description": "Human-guided Autonomous Systems",
+  "categoryId": 3,
   "size": "m",
   "logoFile": "logos/xtend_robotics-logo.webp",
-  "websiteUrl": "https://xtendbarre.com/",
+  "websiteUrl": "https://www.xtend.me/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "xtend-xr",
   "crunchbaseId": null,
   "finderId": "xtend",
   "xId": null,
@@ -19,5 +19,9 @@
       "lat": 31.9113645,
       "lon": 34.8090693
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "XTEND-Human-Machine-Telepresence-109556187310020",
+  "linkedinNum": 33194604,
+  "comeetId": "xtend/85.00A"
 }

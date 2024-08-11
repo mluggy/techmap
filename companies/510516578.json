@@ -1,5 +1,5 @@
 {
-  "name": "Unilever Israel Home And Personal Care",
+  "name": "Unilever",
   "description": "Providing essential products for nutrition, hygiene, and personal care to enhance daily living.",
   "categoryId": 9,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "unilever",
   "crunchbaseId": null,
   "finderId": "unilever",
-  "xId": null,
+  "xId": "Unilever",
   "addresses": [
     {
       "street": "יוליוס סימון",
@@ -19,5 +19,8 @@
       "lat": 32.8183522,
       "lon": 35.051309
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "unilever",
+  "linkedinNum": 1248
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Ionoterra",
-  "description": "Leveraging adaptive technology, a groundbreaking system predicts earthquakes with up to 8 hours of advance warning.",
-  "categoryId": 17,
+  "name": "IONOTERRA",
+  "description": "Earthquake Prediction System",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/ionoterra-logo.webp",
-  "websiteUrl": "https://ionoterra.com/",
+  "websiteUrl": "https://ionoterra.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ionoterra",
   "crunchbaseId": null,
   "finderId": "ionoterra",
-  "xId": null,
+  "xId": "ionoterra",
   "addresses": [
     {
       "street": "האוכמניות רמת אפעל",
@@ -19,5 +19,7 @@
       "lat": 32.04917875949404,
       "lon": 34.833195060892145
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ionoterra.eq"
 }

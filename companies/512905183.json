@@ -1,5 +1,5 @@
 {
-  "name": "King Engine Bearings Manufacturing And Marketing",
+  "name": "King Engine Bearings",
   "description": "Provides engine bearings for a wide range of internal combustion engines, including those used in vehicles, marine, aviation, and power systems.",
   "categoryId": 5,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "king-engine-bearings",
-  "xId": null,
+  "xId": "KingBearings",
   "addresses": [
     {
       "street": "אבץ",
@@ -19,5 +19,8 @@
       "lat": 31.6036508,
       "lon": 34.7913406
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "King.Bearings",
+  "linkedinNum": 2915742
 }

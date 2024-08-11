@@ -1,10 +1,10 @@
 {
   "name": "Comtec",
-  "description": "A company providing essential automotive support products like dashcams, ozone servers, alcohol detectors, and fleet management systems.",
-  "categoryId": 5,
+  "description": "Software for Insurance, Finance, and Enterprise Security",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/comtec-logo.webp",
-  "websiteUrl": "https://www.e-comtec.co.jp/",
+  "websiteUrl": "https://www.comtecglobal.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0916612,
       "lon": 34.8571892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 625255
 }

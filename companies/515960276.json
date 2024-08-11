@@ -1,5 +1,5 @@
 {
-  "name": "Flashyapp",
+  "name": "FlashyApp",
   "description": "An intelligent marketing automation solution for real-time customer engagement through behavior-based popups, emails, SMS, and push notifications.",
   "categoryId": 1,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.0766126,
       "lon": 34.9050459
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Flashyapp",
+  "linkedinNum": 18053532
 }

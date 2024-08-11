@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "my-town-games",
-  "xId": null,
+  "xId": "MyTownGames",
   "addresses": [
     {
       "street": "דן",
@@ -19,5 +19,8 @@
       "lat": 31.7585463,
       "lon": 35.2178791
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mytowngames",
+  "linkedinNum": 10471596
 }

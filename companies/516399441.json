@@ -1,10 +1,10 @@
 {
   "name": "Panax",
-  "description": "Streamlined Financial Management.",
+  "description": "Automated Cash Flow Management",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/panax-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.thepanax.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.071361,
       "lon": 34.791194
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90915183
 }

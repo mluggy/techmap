@@ -1,10 +1,10 @@
 {
-  "name": "Bold Holdings",
-  "description": "Quickly apply for exclusive scholarships and grants tailored to students.",
-  "categoryId": 9,
+  "name": "Bold",
+  "description": "Deep Adaptive Intelligence Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/bold_holdings-logo.webp",
-  "websiteUrl": "https://bold.org/",
+  "websiteUrl": "https://www.boldintel.com/",
   "careersUrl": "https://www.bold.com/bold-jobs/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0951632,
       "lon": 34.812633
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 87375465
 }

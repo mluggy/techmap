@@ -1,5 +1,5 @@
 {
-  "name": "Cognyte Software",
+  "name": "Cognyte",
   "description": "Leading provider of security analytics software, delivering actionable intelligence to governments and enterprises for enhanced safety.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "cognyte",
   "crunchbaseId": null,
   "finderId": "cognyte",
-  "xId": null,
+  "xId": "Cognyte",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,9 @@
       "lat": 32.162063,
       "lon": 34.810813491994125
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cognyte",
+  "linkedinNum": 3669,
+  "comeetId": "cognyte/F2.009"
 }

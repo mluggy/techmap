@@ -1,0 +1,25 @@
+{
+  "name": "Unika",
+  "description": "Data-based Employee Experience Platform",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/unika.webp",
+  "websiteUrl": "https://getunika.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "unika",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "זמיר",
+      "houseNumber": 390,
+      "city": "צפת",
+      "lat": 32.986034741320495,
+      "lon": 35.508995408398725
+    }
+  ],
+  "isMultinational": false
+}

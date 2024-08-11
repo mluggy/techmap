@@ -1,5 +1,5 @@
 {
-  "name": "Callmarker Communications",
+  "name": "CallMarker",
   "description": "An AI-driven platform enhancing sales reps' efficiency by analyzing and prioritizing interactions to boost conversion rates.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "callmarker",
   "crunchbaseId": "callmarker",
   "finderId": "callmarker",
-  "xId": null,
+  "xId": "CallMarker",
   "addresses": [
     {
       "street": "סילבר אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.7892551,
       "lon": 35.0144765
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "callmarker",
+  "linkedinNum": 18070629
 }

@@ -4,7 +4,7 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/targene_advanced_agriculture-logo.webp",
-  "websiteUrl": "http://www.targene.com/",
+  "websiteUrl": "https://www.targene.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1675833,
       "lon": 34.8753422
     }
-  ]
+  ],
+  "isMultinational": false
 }

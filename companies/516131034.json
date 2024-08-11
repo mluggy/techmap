@@ -1,10 +1,10 @@
 {
-  "name": "Amygdala",
-  "description": "Technology for Predicting Failures in the Railway Sector.",
-  "categoryId": 1,
+  "name": "AMYGDALA",
+  "description": "Failure Prediction Technology for the Railway Industry",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/amygdala-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.amygdalatech.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.115616,
       "lon": 34.789598
     }
-  ]
+  ],
+  "isMultinational": false
 }

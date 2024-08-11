@@ -1,5 +1,5 @@
 {
-  "name": "Cloudally",
+  "name": "CloudAlly",
   "description": "Provides cloud-based data protection and backup solutions for SaaS applications.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cloudally",
-  "xId": null,
+  "xId": "CloudAlly",
   "addresses": [
     {
       "street": "אלטלף אברהם",
@@ -19,5 +19,8 @@
       "lat": 32.0291282,
       "lon": 34.8991448
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CloudAllyPage",
+  "linkedinNum": 2315696
 }

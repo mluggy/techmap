@@ -1,16 +1,16 @@
 {
-  "name": "Snap Israel 2016",
+  "name": "Snap",
   "description": "Engage and create with friends through chats, snaps, stories, and lenses on both desktop and mobile.",
-  "categoryId": 4,
   "size": "xl",
+  "categoryId": 8,
   "logoFile": "logos/snap_israel_2016-logo.webp",
-  "websiteUrl": "https://www.snapchat.com/",
+  "websiteUrl": "https://www.snap.com/en-US/",
   "careersUrl": "https://careers.snap.com/jobs",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "snap-inc-co",
   "crunchbaseId": null,
   "finderId": "snap",
-  "xId": null,
+  "xId": "snapchat",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0605137,
       "lon": 34.7759853
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "snapincorporated",
+  "linkedinNum": 15191764
 }

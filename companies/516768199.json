@@ -1,10 +1,10 @@
 {
-  "name": "Imai",
-  "description": "Providing expert, comprehensive property services, from lettings and sales to mortgages and investments.",
-  "categoryId": 9,
+  "name": "LEADERS",
+  "description": "SaaS Solution for Workflow Automation and Influencer Marketing",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/imai-logo.webp",
-  "websiteUrl": "https://www.leaders.co.uk/",
+  "websiteUrl": "https://influencermarketing.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1103886,
       "lon": 34.84245
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 52145948
 }

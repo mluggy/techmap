@@ -1,5 +1,5 @@
 {
-  "name": "Storone",
+  "name": "StorONE",
   "description": "A revolutionary storage solution that unifies all use cases into one comprehensive product.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "storone",
   "crunchbaseId": "storone",
   "finderId": "storone",
-  "xId": null,
+  "xId": "StorOne_Inc",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.1950061,
       "lon": 34.8768325
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "StorONEinc",
+  "linkedinNum": 2100499
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Art Medical",
+  "name": "ART Medical",
   "description": "A holistic solution for critical care nutrition management, featuring an ecosystem of sensor-based tools, software, and algorithms. smART+ is designed to reduce ...",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "artmedicalltd",
   "crunchbaseId": "art-medical",
   "finderId": "art-healthcare",
-  "xId": null,
+  "xId": "ARTMedicalLtd",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2773544,
       "lon": 34.8584354
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ArtMedicalLtd",
+  "linkedinNum": 18096947
 }

@@ -4,7 +4,7 @@
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/credics_technologies_ltd-logo.webp",
-  "websiteUrl": "http://www.credics.com/",
+  "websiteUrl": "https://www.credics.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "credics-technologies-ltd.",
@@ -19,5 +19,7 @@
       "lat": 32.0940715,
       "lon": 34.823239
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 532937
 }

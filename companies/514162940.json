@@ -1,5 +1,5 @@
 {
-  "name": "Abonair",
+  "name": "ABonAir",
   "description": "Leading provider of wireless broadcast solutions for sports, news, and live events with cutting-edge technologies for seamless coverage.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "abonair",
   "crunchbaseId": null,
   "finderId": "abonair",
-  "xId": null,
+  "xId": "ABonAirRed",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ABonAir1",
+  "linkedinNum": 2256775
 }

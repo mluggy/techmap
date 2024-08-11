@@ -1,5 +1,5 @@
 {
-  "name": "Tikal Networks",
+  "name": "Tikal Center",
   "description": "Solutions for Internet-based phone systems and customer support centers.",
   "categoryId": 18,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "tikal-center",
   "crunchbaseId": "tikal-networks",
   "finderId": "tikal-networks",
-  "xId": null,
+  "xId": "tikalnetworks",
   "addresses": [
     {
       "street": "אודם",
@@ -19,5 +19,7 @@
       "lat": 32.0896507,
       "lon": 34.8577193
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 595430
 }

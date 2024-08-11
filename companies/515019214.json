@@ -1,10 +1,10 @@
 {
-  "name": "Elevation Education",
-  "description": "Experience inspiring sermons online, connect with a community, and engage through local involvement and groups.",
-  "categoryId": 12,
+  "name": "Elevation",
+  "description": "Employee Training Platform",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/elevation_education-logo.webp",
-  "websiteUrl": "https://elevationchurch.org/",
+  "websiteUrl": "https://elevation.ac/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.06641,
       "lon": 34.785829
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "elevationeducation",
+  "linkedinNum": 5334623
 }

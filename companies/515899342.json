@@ -1,10 +1,10 @@
 {
-  "name": "Ramino Bio",
-  "description": "A medication taken by mouth for treating heart-related and metabolic diseases, as well as the rare condition known as MSUD (Maple Syrup Urine Disease).",
+  "name": "Ramino-Bio",
+  "description": "Oral drug for treating cardio-metabolic disease and rare MSUD",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ramino_bio-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.futurx.co.il/portfolio/ramino-bio/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ramino-bio",
@@ -19,5 +19,6 @@
       "lat": 31.9177299,
       "lon": 34.80439671200948
     }
-  ]
+  ],
+  "isMultinational": false
 }

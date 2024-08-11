@@ -1,5 +1,5 @@
 {
-  "name": "Magic Software Enterprises Israel",
+  "name": "Magic Software Enterprises",
   "description": "Enabling swift integration and automation of SaaS enterprise applications through centralized platforms.",
   "categoryId": 15,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "magic-software-enterprises",
   "crunchbaseId": null,
   "finderId": "magic-software-enterprises",
-  "xId": null,
+  "xId": "MagicSoftware",
   "addresses": [
     {
       "street": "יהדות קנדה",
@@ -19,5 +19,8 @@
       "lat": 32.020395,
       "lon": 34.8606489
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MagicSoftwareEnterprises",
+  "linkedinNum": 164813
 }

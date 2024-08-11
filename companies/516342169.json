@@ -1,16 +1,16 @@
 {
-  "name": "Manufuture",
-  "description": "Driving industrial transformation through research and innovation for a competitive, sustainable, and resilient European manufacturing sector by 2030.",
-  "categoryId": 17,
+  "name": "ManuFuture",
+  "description": "B2B Marketplace for Mechanical Parts",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/manufuture-logo.webp",
-  "websiteUrl": "https://manufuture.org/",
+  "websiteUrl": "https://manufuture.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "manufuture",
-  "xId": null,
+  "xId": "ManuFuture_Ltd",
   "addresses": [
     {
       "street": "הבריח",
@@ -19,5 +19,7 @@
       "lat": 32.16347134757456,
       "lon": 34.89789500398926
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78126857
 }

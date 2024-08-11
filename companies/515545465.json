@@ -4,7 +4,7 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/entou_labs-logo.webp",
-  "websiteUrl": "http://www.entou-labs.com/",
+  "websiteUrl": "https://www.entou-labs.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "entou-labs",
@@ -19,5 +19,8 @@
       "lat": 32.1169485,
       "lon": 34.7903212
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Entou-Labs-2109646652475946",
+  "linkedinNum": 35648723
 }

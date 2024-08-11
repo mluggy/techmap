@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.siemens.com/",
   "careersUrl": "https://www.siemens.com/global/en/company/jobs.html",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "siemens",
   "crunchbaseId": null,
   "finderId": "siemens",
-  "xId": null,
+  "xId": "Siemens",
   "addresses": [
     {
       "street": "אריאב אורי",
@@ -19,5 +19,8 @@
       "lat": 32.1127938,
       "lon": 34.9418895
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Siemens",
+  "linkedinNum": 1043
 }

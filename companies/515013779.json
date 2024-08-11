@@ -1,16 +1,16 @@
 {
   "name": "Eyeway Vision",
-  "description": "An augmented reality system that can be worn for an immersive experience.",
-  "categoryId": 4,
+  "description": "Wearable Immersive Augmented Reality System",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/eyeway_vision-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.eyeway-vision.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "eyeway-vision",
   "crunchbaseId": "eyeway-vision",
   "finderId": "eyeway-vision",
-  "xId": null,
+  "xId": "EyewayV",
   "addresses": [
     {
       "street": "האלה",
@@ -19,5 +19,8 @@
       "lat": 31.805489851079965,
       "lon": 35.15802236171538
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "eyewayvision",
+  "linkedinNum": 1474589
 }

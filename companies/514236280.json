@@ -1,16 +1,16 @@
 {
-  "name": "Secureteam Software",
-  "description": "A UK-based cyber security firm specializing in web application and network penetration testing, information assurance, and handling cyber incidents.",
+  "name": "SecureTeam",
+  "description": "Application Protection Solution",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/secureteam_software-logo.webp",
-  "websiteUrl": "https://secureteam.co.uk/",
+  "websiteUrl": "https://secureteam.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "secureteam",
-  "xId": null,
+  "xId": "steamdotnet",
   "addresses": [
     {
       "street": "הנגב",
@@ -19,5 +19,8 @@
       "lat": 31.8752804,
       "lon": 34.7246855
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "steamdotnet",
+  "linkedinNum": 2237163
 }

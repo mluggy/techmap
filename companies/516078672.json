@@ -1,10 +1,10 @@
 {
   "name": "Neural Guard",
-  "description": "A free service that instantly translates words, phrases, and websites from English to over 100 languages.",
-  "categoryId": 1,
+  "description": "AI-powered Automated Threat Detection",
+  "categoryId": 7,
   "size": "s",
   "logoFile": "logos/neural_guard-logo.webp",
-  "websiteUrl": "https://translate.google.co.il/",
+  "websiteUrl": "https://www.neuralguard.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.283315349999995,
       "lon": 34.8595275
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18528070
 }

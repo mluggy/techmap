@@ -1,10 +1,10 @@
 {
   "name": "Culception",
-  "description": "Self-managing greenhouse control systems.",
-  "categoryId": 13,
+  "description": "Autonomous Greenhouse Operating Systems",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/culception-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://culception.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "culception",
@@ -19,5 +19,7 @@
       "lat": 32.0669598,
       "lon": 34.8715965
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75386685
 }

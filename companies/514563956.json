@@ -7,10 +7,10 @@
   "websiteUrl": "https://plarium.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "plarium",
   "crunchbaseId": null,
   "finderId": "plarium-games",
-  "xId": null,
+  "xId": "plarium",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,8 @@
       "lat": 32.1603685,
       "lon": 34.8117432
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PlariumGames",
+  "linkedinNum": 1949408
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Rise Management Engineering",
-  "description": "Experience top-quality recreational and medical cannabis, including sativa, indica, vape pens, and edibles, available for online order.",
-  "categoryId": 9,
+  "name": "Rise",
+  "description": "Advanced Monetization and Data-powered Solutions",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/rise_management_engineering-logo.webp",
-  "websiteUrl": "https://risecannabis.com/",
+  "websiteUrl": "https://risecodes.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "risecodes",
   "crunchbaseId": null,
   "finderId": "rise1",
   "xId": null,
@@ -19,5 +19,9 @@
       "lat": 32.1479908,
       "lon": 34.8426895
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "risecodes",
+  "linkedinNum": 70928327,
+  "comeetId": "risecodes/A9.000"
 }

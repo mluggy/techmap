@@ -1,5 +1,5 @@
 {
-  "name": "Fast Simon Israel",
+  "name": "Fast Simon",
   "description": "Pioneering in enhancing shopping experiences for merchants through merchandising, visual/manual adjustments, rule-based strategies, A/B testing, and display optimization.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "instantsearch",
-  "xId": null,
+  "xId": "InstantSearch_",
   "addresses": [
     {
       "street": "ברנשטיין פרץ",
@@ -19,5 +19,8 @@
       "lat": 32.7778931,
       "lon": 34.9848762
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "instantsearchplus",
+  "linkedinNum": 5058749
 }

@@ -1,16 +1,16 @@
 {
   "name": "Mindful Games",
-  "description": "Offering a daily variety of 8 new challenging levels, alongside a host of brain games, math puzzles, crosswords, sudokus, and memory games online.",
-  "categoryId": 11,
+  "description": "Poker Training App",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/mindful_games-logo.webp",
-  "websiteUrl": "https://www.mindgames.com/",
+  "websiteUrl": "https://www.poker-fighter.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mindful-games",
-  "xId": null,
+  "xId": "PokerFighter42 ",
   "addresses": [
     {
       "street": "האקליפטוס",
@@ -19,5 +19,8 @@
       "lat": 32.16022118817442,
       "lon": 34.87364644567599
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PokerFighter",
+  "linkedinNum": 18037838
 }

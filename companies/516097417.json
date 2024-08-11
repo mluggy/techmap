@@ -1,10 +1,10 @@
 {
   "name": "Elixie",
-  "description": "A dynamic, functional language optimized for creating scalable, low-latency, and fault-tolerant applications across various domains.",
-  "categoryId": 1,
+  "description": "Nano-Tech Cannabinoid pharmaceuticals",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/elixie-logo.webp",
-  "websiteUrl": "https://elixir-lang.org/",
+  "websiteUrl": "https://elixie.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.115644,
       "lon": 34.786687
     }
-  ]
+  ],
+  "isMultinational": false
 }

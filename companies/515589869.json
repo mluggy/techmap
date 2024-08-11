@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "meetinkz",
-  "xId": null,
+  "xId": "meetinkz",
   "addresses": [
     {
       "street": "רגבה",
@@ -19,5 +19,8 @@
       "lat": 32.976173450000005,
       "lon": 35.0979954
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Meetinkz",
+  "linkedinNum": 18033321
 }

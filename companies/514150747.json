@@ -1,0 +1,25 @@
+{
+  "name": "Ex-Sight",
+  "description": "Video Analytics Security Solutions",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/ex-sight.webp",
+  "websiteUrl": "https://www.ex-sight.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "ex-sight",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "אתגר",
+      "houseNumber": 2,
+      "city": "טירת כרמל",
+      "lat": 32.772295404458156,
+      "lon": 34.96752298258251
+    }
+  ],
+  "isMultinational": false
+}

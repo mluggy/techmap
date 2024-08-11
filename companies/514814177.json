@@ -1,15 +1,18 @@
 {
   "name": "Classoos",
-  "description": "A digital textbook online store providing a lending program for schools, with books accessible even offline.",
-  "categoryId": 9,
+  "description": "Online Textbook Service",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/classoos-logo.webp",
-  "websiteUrl": "https://classoos.co.il/",
+  "websiteUrl": "https://www.classoos.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "classoos",
-  "xId": null,
-  "addresses": []
+  "xId": "classoos_edu",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "classoos",
+  "linkedinNum": 10542530
 }

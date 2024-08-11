@@ -1,16 +1,16 @@
 {
-  "name": "Rewalk Robotics",
-  "description": "System for walking powered by batteries.",
-  "categoryId": 15,
+  "name": "ReWalk Robotics",
+  "description": "Battery-powered Walking System",
+  "categoryId": 12,
   "size": "m",
   "logoFile": "logos/rewalk_robotics-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://rewalk.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rewalk-robotics",
-  "xId": null,
+  "xId": "ReWalk_Robotics",
   "addresses": [
     {
       "street": "התנופה",
@@ -19,5 +19,8 @@
       "lat": 32.666821299999995,
       "lon": 35.1073974779977
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ReWalk",
+  "linkedinNum": 3816322
 }

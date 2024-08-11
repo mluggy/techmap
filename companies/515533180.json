@@ -1,5 +1,5 @@
 {
-  "name": "Chargeafter",
+  "name": "ChargeAfter",
   "description": "We provide an advanced financing platform that streamlines and integrates loan applications across various sales channels with multiple lenders in real-time.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "chargeafter",
   "crunchbaseId": null,
   "finderId": "chargeafter",
-  "xId": null,
+  "xId": "ChargeAfter",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ChargeAfter",
+  "linkedinNum": 18014047
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Avomed",
-  "description": "In Zusammenarbeit mit der ÖGK bietet das Unternehmen kostenlose Ernährungsworkshops für werdende und junge Eltern an.",
+  "name": "AvoMed",
+  "description": "Biowaste-based Bioactive Compound for Dermal Disorders",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/avomed_ltd-logo.webp",
-  "websiteUrl": "https://www.avomed.at/",
+  "websiteUrl": "https://avo-med.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.972207949871326,
       "lon": 35.543022740260746
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,10 +1,10 @@
 {
   "name": "Chocomake",
-  "description": "Custom Chocolate Creation Service.",
-  "categoryId": 9,
+  "description": "Personalized Chocolate Treat Maker",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/chocomake-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.chocomake.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "chocomake",
@@ -19,5 +19,8 @@
       "lat": 32.208729071227296,
       "lon": 34.98572494620048
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Chocomake-112607393533579",
+  "linkedinNum": 35472094
 }

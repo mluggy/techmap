@@ -1,10 +1,10 @@
 {
-  "name": "Soilfender",
+  "name": "SoilFender",
   "description": "A versatile crop protection product derived from a syntenic food-grade compound, effective against various pathogens and adaptable as a soil disinfectant, nematicide, herbicide, or fungicide.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/soilfender-logo.webp",
-  "websiteUrl": "http://copia-agro.com/",
+  "websiteUrl": "https://copia-agro.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1604703,
       "lon": 34.809883
     }
-  ]
+  ],
+  "isMultinational": false
 }

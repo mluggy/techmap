@@ -1,5 +1,5 @@
 {
-  "name": "Eaton Avraham Sons Diamonds",
+  "name": "Eaton",
   "description": "Providing services across Central America and the Caribbean from Costa Rica.",
   "categoryId": 9,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "eaton",
-  "xId": null,
+  "xId": "eatoncorp",
   "addresses": [
     {
       "street": "הלילך",
@@ -19,5 +19,8 @@
       "lat": 32.2728128,
       "lon": 34.8415059
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "eatoncorporation",
+  "linkedinNum": 2599
 }

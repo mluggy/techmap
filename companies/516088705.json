@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "satori-cyber",
-  "xId": null,
+  "xId": "SatoriCyber",
   "addresses": [
     {
       "street": "פקריס",
@@ -19,5 +19,8 @@
       "lat": 31.9119094,
       "lon": 34.804801
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SatoriCyber",
+  "linkedinNum": 34691936
 }

@@ -1,5 +1,5 @@
 {
-  "name": "C Crop",
+  "name": "C-Crop",
   "description": "A stylish online store offering fashionable women's and men's clothing at the best prices across various European countries.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.843583232301675,
       "lon": 34.84510464473381
     }
-  ]
+  ],
+  "isMultinational": false
 }

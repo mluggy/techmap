@@ -1,5 +1,5 @@
 {
-  "name": "Placer Technologies",
+  "name": "Placer.ai",
   "description": "Optimize real estate strategies and enhance deal closures with advanced location intelligence and foot traffic data.",
   "categoryId": 1,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "placer",
   "crunchbaseId": null,
   "finderId": "placer",
-  "xId": null,
+  "xId": "placer_ai",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,9 @@
       "lat": 32.083369250000004,
       "lon": 34.80252937066078
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Placerai-381442635729306",
+  "linkedinNum": 3027652,
+  "greenhouseId": "placerlabs"
 }

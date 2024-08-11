@@ -1,10 +1,10 @@
 {
-  "name": "Admonis E Commerce",
-  "description": "An automated solution for online retail operations.",
-  "categoryId": 9,
+  "name": "Admonis",
+  "description": "eCommerce Automation Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/admonis_e_commerce-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://admonis.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "admonis-e-commerce-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.0839116,
       "lon": 34.85842
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "admonisltd",
+  "linkedinNum": 28956723
 }

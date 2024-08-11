@@ -1,5 +1,5 @@
 {
-  "name": "Mindolife Iot",
+  "name": "MindoLife IoT",
   "description": "A pioneering firm specializing in smart IoT solutions for advanced building management.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "mindolife-ltd",
   "crunchbaseId": null,
   "finderId": "mindolife",
-  "xId": null,
+  "xId": "mindolifeltd",
   "addresses": [
     {
       "street": "שיבת ציון",
@@ -19,5 +19,8 @@
       "lat": 32.8130891,
       "lon": 35.0024518
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MindoLife",
+  "linkedinNum": 5215716
 }

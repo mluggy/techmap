@@ -1,10 +1,10 @@
 {
   "name": "Jigso",
-  "description": "A web-based platform that enhances employee experience through psychological safety, cohesion, and continuous performance management.",
+  "description": "AI Business Observability Platform",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/jigso-logo.webp",
-  "websiteUrl": "https://jigso.com/",
+  "websiteUrl": "https://www.jigso.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "jigsoio",
@@ -19,5 +19,7 @@
       "lat": 32.117142587196504,
       "lon": 34.79805377585838
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78707612
 }

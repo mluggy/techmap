@@ -1,5 +1,5 @@
 {
-  "name": "Unicorns Exchange",
+  "name": "Unicorns.Exchange",
   "description": "A leading marketplace facilitating the trade of private, venture-backed tech companies' shares using innovative proprietary technology for scaled efficiency.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.107872,
       "lon": 34.832918
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 36803882
 }

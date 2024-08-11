@@ -1,5 +1,5 @@
 {
-  "name": "Dbs H",
+  "name": "DBS-H",
   "description": "Providing seamless data integration solutions for both SQL and NoSQL databases.",
   "categoryId": 6,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "dbs-h",
   "crunchbaseId": null,
   "finderId": "dbs-h",
-  "xId": null,
+  "xId": "dbs_h",
   "addresses": [
     {
       "street": "אנוסי משהד",
@@ -19,5 +19,8 @@
       "lat": 31.7447622,
       "lon": 35.232965
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DBSHBigDataIntegration",
+  "linkedinNum": 2391382
 }

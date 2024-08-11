@@ -1,10 +1,10 @@
 {
-  "name": "Whomi Avatar",
-  "description": "A platform requiring JavaScript to function optimally.",
-  "categoryId": 4,
+  "name": "WhoMi Avatar",
+  "description": "Behavioral Finance and AI Solutions for Traders",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/whomi_avatar-logo.webp",
-  "websiteUrl": "https://whoplus.microsoft.com/",
+  "websiteUrl": "https://www.whomi.biz/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.6702146,
       "lon": 34.9462929
     }
-  ]
+  ],
+  "isMultinational": false
 }

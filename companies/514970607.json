@@ -10,7 +10,7 @@
   "linkedinId": "aniview",
   "crunchbaseId": null,
   "finderId": "aniview",
-  "xId": null,
+  "xId": "aniview_",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.1604703,
       "lon": 34.809883
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "aniview.av",
+  "linkedinNum": 5124785
 }

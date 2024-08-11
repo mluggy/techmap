@@ -1,0 +1,25 @@
+{
+  "name": "Cinch",
+  "description": "Mobile Wallet App to Benefit Local Communities",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/credibilio.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 10519137,
+  "crunchbaseId": null,
+  "finderId": "credibilio",
+  "xId": "CinchWallet",
+  "facebookId": "cinchwallet",
+  "addresses": [
+    {
+      "street": "ארלוזורוב",
+      "houseNumber": 69,
+      "city": "תל אביב - יפו",
+      "lat": 32.0858266494981,
+      "lon": 34.78040981212165
+    }
+  ],
+  "isMultinational": false
+}

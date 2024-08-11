@@ -1,5 +1,5 @@
 {
-  "name": "Olive X Press",
+  "name": "Olive X-Press",
   "description": "A device for pressing olive oil that is designed to fit on countertops.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.3152806,
       "lon": 34.8949552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "olivexpress1",
+  "linkedinNum": 18344521
 }

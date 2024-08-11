@@ -1,5 +1,5 @@
 {
-  "name": "Triple Jump Israel",
+  "name": "Triple Jump",
   "description": "A device that delivers insulin for individuals with diabetes.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.65739155,
       "lon": 35.09768735
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 34727954
 }

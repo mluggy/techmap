@@ -1,5 +1,5 @@
 {
-  "name": "Sky And Space Global Israel",
+  "name": "Sky and Space Global",
   "description": "They offer nanosatellites and advanced software systems to bolster global space-based communication networks.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "sky-and-space-co",
   "crunchbaseId": null,
   "finderId": "sky-and-space-global",
-  "xId": null,
+  "xId": "SkySpaceGlobal",
   "addresses": [
     {
       "street": "רקפת",
@@ -19,5 +19,8 @@
       "lat": 32.01948610162985,
       "lon": 34.961390245419054
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "skyandspaceglobal",
+  "linkedinNum": 10424893
 }

@@ -10,7 +10,7 @@
   "linkedinId": "bosonenergy",
   "crunchbaseId": null,
   "finderId": "boson-energy-1",
-  "xId": null,
+  "xId": "bosonenergy",
   "addresses": [
     {
       "street": "שדרות דם המכבים",
@@ -19,5 +19,8 @@
       "lat": 31.9036665,
       "lon": 35.0067451
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BosonEnergy",
+  "linkedinNum": 1230385
 }

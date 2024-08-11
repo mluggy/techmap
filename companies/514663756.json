@@ -1,5 +1,5 @@
 {
-  "name": "Finastra Israel Holdco",
+  "name": "Finastra",
   "description": "A leading global fintech firm, providing a comprehensive range of solutions for financial institutions.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "finastra",
   "crunchbaseId": null,
   "finderId": "finastra",
-  "xId": null,
+  "xId": "FinastraFS",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "FinastraCareers",
+  "linkedinNum": 11153805
 }

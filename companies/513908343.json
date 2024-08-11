@@ -1,5 +1,5 @@
 {
-  "name": "Etoro",
+  "name": "eToro",
   "description": "Automate your investment strategy by replicating the actions of trusted investors in real time, noting that your capital is at risk.",
   "categoryId": 10,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.etoro.com/",
   "careersUrl": "https://www.etoro.com/about/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "etoro",
   "crunchbaseId": null,
   "finderId": "etoro",
-  "xId": null,
+  "xId": "etoro",
   "addresses": [
     {
       "street": "ששת הימים",
@@ -19,5 +19,9 @@
       "lat": 32.0984539,
       "lon": 34.8282998
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "etoro",
+  "linkedinNum": 167277,
+  "comeetId": "etoro/41.009"
 }

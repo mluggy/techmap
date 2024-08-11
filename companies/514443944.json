@@ -1,5 +1,5 @@
 {
-  "name": "Identytech Solutions",
+  "name": "IdentyTech Solutions",
   "description": "Offering top-tier, customizable identity management solutions globally, with locations in the USA and Israel.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "identytech-ltd.",
   "crunchbaseId": null,
   "finderId": "identytech",
-  "xId": null,
+  "xId": "identytech",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.0953971,
       "lon": 34.8531501
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "IdentytechSolutions",
+  "linkedinNum": 1296704
 }

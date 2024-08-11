@@ -1,16 +1,16 @@
 {
-  "name": "Ever Co",
-  "description": "Commerce Solutions Available When You Need Them.",
-  "categoryId": 9,
+  "name": "Ever",
+  "description": "On-demand Commerce Solutions",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/ever_co-logo.webp",
-  "websiteUrl": "https://www.theeverco.co/",
+  "websiteUrl": "https://ever.co ",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ever-co",
-  "xId": null,
+  "xId": "everplatform",
   "addresses": [
     {
       "street": "העצמאות",
@@ -19,5 +19,8 @@
       "lat": 31.7898874,
       "lon": 34.645077
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "everplatform",
+  "linkedinNum": 10153744
 }

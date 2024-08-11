@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "powermat-technologies",
-  "xId": null,
+  "xId": "powermat",
   "addresses": [
     {
       "street": "קריית התקשורת",
@@ -19,5 +19,8 @@
       "lat": 31.807881712883653,
       "lon": 35.08091291674583
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PowermatTechnologies",
+  "linkedinNum": 940993
 }

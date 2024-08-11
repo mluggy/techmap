@@ -1,10 +1,10 @@
 {
-  "name": "Plenty Consulting Initiation Investments",
-  "description": "Revolutionizing agriculture with indoor vertical farms, this company produces fresh, flavorful, pesticide-free greens using minimal resources.",
+  "name": "Plenty",
+  "description": "Vegan Dairy Products",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/plenty_consulting_initiation_investments_ltd-logo.webp",
-  "websiteUrl": "https://www.plenty.ag/",
+  "websiteUrl": "https://plenty4u.co.il/",
   "careersUrl": "https://www.plenty.ag/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.9001807,
       "lon": 34.9895065
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "plenty4u",
+  "linkedinNum": 82975598
 }

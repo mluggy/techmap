@@ -1,10 +1,10 @@
 {
-  "name": "Robogroup T E K",
+  "name": "RoboGroup",
   "description": "A leading innovator in robotics, motion control, and advanced technologies globally.",
   "categoryId": 15,
   "size": "s",
   "logoFile": "logos/robogroup_t_e_k-logo.webp",
-  "websiteUrl": "http://robo-group.com/",
+  "websiteUrl": "https://robo-group.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "robogroup-ltd.",
@@ -19,5 +19,8 @@
       "lat": 32.108278,
       "lon": 34.9652441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "robotecisrael",
+  "linkedinNum": 858344
 }

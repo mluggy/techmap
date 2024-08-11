@@ -1,5 +1,5 @@
 {
-  "name": "Abbott Medical Laboratories",
+  "name": "Abbott",
   "description": "Develops cutting-edge medical devices and health solutions for cardiovascular health, diabetes, diagnostics, nutrition, and chronic pain management.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "abbott-",
   "crunchbaseId": null,
   "finderId": "abbott",
-  "xId": null,
+  "xId": "AbbottNews",
   "addresses": [
     {
       "street": "קרית עתידים",
@@ -19,5 +19,8 @@
       "lat": 32.11601368963312,
       "lon": 34.84295899996691
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Abbott",
+  "linkedinNum": 1612
 }

@@ -1,10 +1,10 @@
 {
   "name": "Infoneto",
-  "description": "Streamlining recruitment with fast candidate sourcing and data-driven insights.",
-  "categoryId": 1,
+  "description": "Semantic Search and Hebrew Text Analysis",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/infoneto-logo.webp",
-  "websiteUrl": "http://infoneto.com/",
+  "websiteUrl": "https://cv-next.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "infoneto-ltd-",
@@ -19,5 +19,8 @@
       "lat": 31.9062169,
       "lon": 35.0089493
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "infonetoltd",
+  "linkedinNum": 209938
 }

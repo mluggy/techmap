@@ -1,5 +1,5 @@
 {
-  "name": "Testfairy",
+  "name": "TestFairy",
   "description": "Empowering mobile teams with real-time user session videos to swiftly identify and resolve app issues.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "testfairy",
-  "xId": null,
+  "xId": "testfairy",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0839584,
       "lon": 34.806805623834066
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TestFairy",
+  "linkedinNum": 3145512
 }

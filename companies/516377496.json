@@ -1,10 +1,10 @@
 {
   "name": "Neologic",
-  "description": "Founded in 2007, this company delivers cutting-edge process and automation solutions for various industries with a focus on quality and energy efficiency.",
-  "categoryId": 15,
+  "description": "Quasi-CMOS Computing Technology",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/neologic-logo.webp",
-  "websiteUrl": "https://www.neologicengineers.com/",
+  "websiteUrl": "https://www.neologicvlsi.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2470566,
       "lon": 34.9213785
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 87197678
 }

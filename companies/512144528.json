@@ -1,5 +1,5 @@
 {
-  "name": "Optitex",
+  "name": "OptiTex",
   "description": "They offer comprehensive software solutions for pattern design and 3D prototyping across various industries like fashion, automotive, and upholstery.",
   "categoryId": 4,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "optitex",
   "crunchbaseId": null,
   "finderId": "optitex",
-  "xId": null,
+  "xId": "optitex",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.1088976,
       "lon": 34.9653972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OptiTexHQ",
+  "linkedinNum": 47316
 }

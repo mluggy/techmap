@@ -1,5 +1,5 @@
 {
-  "name": "Neema Shefa Israel",
+  "name": "Neema",
   "description": "Offers multi-currency accounts and real-time cross-border payments through a high-availability API and an international card.",
   "categoryId": 10,
   "size": "m",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://getneema.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "neema-official",
   "crunchbaseId": null,
   "finderId": "neema",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SendWithNeema",
+  "linkedinNum": 4861953
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "stops-com",
   "finderId": "stops-com",
-  "xId": null,
+  "xId": "stopscom",
   "addresses": [
     {
       "street": "נוף הירדן",
@@ -19,5 +19,8 @@
       "lat": 32.9477523,
       "lon": 35.5287329
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "stopscom",
+  "linkedinNum": 16153516
 }

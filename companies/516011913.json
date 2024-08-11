@@ -1,5 +1,5 @@
 {
-  "name": "Tagim Investments",
+  "name": "TAGim",
   "description": "A system that tracks and maintains livestock health.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.8576017,
       "lon": 35.2168482
     }
-  ]
+  ],
+  "isMultinational": false
 }

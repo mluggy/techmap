@@ -1,5 +1,5 @@
 {
-  "name": "Aireye",
+  "name": "AirEye",
   "description": "Our SaaS, zero-touch solution effortlessly extends network security into the digital airspace without the need for complex configurations or extra resources.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "aireye",
   "crunchbaseId": null,
   "finderId": "AirEye",
-  "xId": null,
+  "xId": "AirEyeSecurity",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Aireye.tech",
+  "linkedinNum": 68504032
 }

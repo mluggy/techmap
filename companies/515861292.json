@@ -1,16 +1,16 @@
 {
-  "name": "Realfriend Tech",
-  "description": "Offering advanced AI technology and natural language processing to create an experience akin to having an endlessly knowledgeable best friend.",
-  "categoryId": 1,
+  "name": "RealFriend",
+  "description": "AI-powered Real Estate Agents for Apartment Rentals",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/realfriend_tech-logo.webp",
-  "websiteUrl": "https://realfriendai.com/",
+  "websiteUrl": "https://textluke.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "realfriend-tech-israel",
   "finderId": "realfriend",
-  "xId": null,
+  "xId": "text_luke",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.071142,
       "lon": 34.778606
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LukeRealFriend",
+  "linkedinNum": 33178381
 }

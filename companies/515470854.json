@@ -1,16 +1,16 @@
 {
-  "name": "Ugotit",
-  "description": "Connecting you with skilled professionals for home repairs and personalized English lessons.",
+  "name": "uGotit",
+  "description": "Social Platform for Service Providers",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/ugotit-logo.webp",
-  "websiteUrl": "https://www.ugotit.co.il/",
+  "websiteUrl": "https://en.ugotit.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ugotit",
-  "xId": null,
+  "xId": "Ugotit_app",
   "addresses": [
     {
       "street": "אלנבי",
@@ -19,5 +19,8 @@
       "lat": 32.066306,
       "lon": 34.771951
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "uGotitApp",
+  "linkedinNum": 10285377
 }

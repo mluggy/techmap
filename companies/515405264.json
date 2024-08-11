@@ -1,5 +1,5 @@
 {
-  "name": "Firstpoint Mobile Guard",
+  "name": "FirstPoint Mobile Guard",
   "description": "Provides enterprises with a secure, intuitive platform for global IoT device deployment and management.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "firstpoint-mobile-guard",
-  "xId": null,
+  "xId": "firstpointmg",
   "addresses": [
     {
       "street": "סבידור מנחם",
@@ -19,5 +19,7 @@
       "lat": 32.2731573,
       "lon": 34.8492094
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10922356
 }

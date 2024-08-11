@@ -1,10 +1,10 @@
 {
   "name": "Iluria",
-  "description": "A free app that enables multi-device note taking, listing, reminders, image capturing, voice memo recording, and organizing with labels and colors.",
-  "categoryId": 14,
+  "description": "Biomarker-based ADHD Monitoring",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/iluria-logo.webp",
-  "websiteUrl": "https://keep.google.com/",
+  "websiteUrl": "https://www.iluriahealth.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1490298,
       "lon": 34.8809681
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68774207
 }

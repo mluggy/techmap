@@ -1,10 +1,10 @@
 {
-  "name": "Persimio",
-  "description": "Assessing the likelihood of bone fractures in individuals with cancer and osteoporosis.",
+  "name": "PerSimiO",
+  "description": "Predicting Fracture Risk for Patients with Cancer and Osteoporosis",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/persimio-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.persimio.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "persimio",
@@ -19,5 +19,6 @@
       "lat": 31.263266,
       "lon": 34.8105466
     }
-  ]
+  ],
+  "isMultinational": false
 }

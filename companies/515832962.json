@@ -1,16 +1,16 @@
 {
-  "name": "Oko Finance",
-  "description": "A culinary experience blending Japanese traditions with local farm and water-sourced ingredients, crafted by Chef Lewis.",
+  "name": "OKO",
+  "description": "Crop Insurance Platform",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/oko_finance-logo.webp",
-  "websiteUrl": "https://okokitchen.com/",
+  "websiteUrl": "https://www.oko.finance/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "oko",
-  "xId": null,
+  "xId": "OKO_insurance",
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -19,5 +19,8 @@
       "lat": 32.0920416,
       "lon": 34.8239345
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OKOInsurance",
+  "linkedinNum": 18293606
 }

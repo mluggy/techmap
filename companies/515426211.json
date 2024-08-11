@@ -1,10 +1,10 @@
 {
   "name": "Datar Medical Innovations",
-  "description": "Ongoing pain relief solutions for patients outside the hospital.",
+  "description": "Continuous Regional Analgesia for Outpatients",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/datar_medical_innovations-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.pain-guard.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 33.0760504,
       "lon": 35.1485842
     }
-  ]
+  ],
+  "isMultinational": false
 }

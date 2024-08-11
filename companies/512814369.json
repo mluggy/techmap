@@ -1,5 +1,5 @@
 {
-  "name": "Tenova Advanced Technologies",
+  "name": "Tenova",
   "description": "Tenova drives sustainable innovation in the metals industry, specializing in a range of advanced processing and manufacturing technologies.",
   "categoryId": 17,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "tenova",
   "crunchbaseId": null,
   "finderId": "tenova",
-  "xId": null,
+  "xId": "tenovagroup",
   "addresses": [
     {
       "street": "התנופה",
@@ -19,5 +19,8 @@
       "lat": 32.66791475,
       "lon": 35.10722320481222
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Tenova-210347352387549",
+  "linkedinNum": 3142823
 }

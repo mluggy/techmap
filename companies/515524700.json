@@ -1,10 +1,10 @@
 {
-  "name": "Syncleo",
-  "description": "Offering a small business phone system with virtual receptionist and integrated voice response, providing free toll-free numbers for seamless local and international calls.",
-  "categoryId": 18,
+  "name": "SYNCLEO",
+  "description": "Home Appliance IoT Systems and Applications",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/syncleo-logo.webp",
-  "websiteUrl": "https://www.syncleo.com/",
+  "websiteUrl": "https://www.syncleo-iot.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.3105987,
       "lon": 34.8568923
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 28146836
 }

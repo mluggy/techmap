@@ -1,5 +1,5 @@
 {
-  "name": "Packetlight Networks",
+  "name": "PacketLight",
   "description": "Provider of comprehensive DWDM and OTN solutions with versatile service support and optional Layer-1 encryption.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "packetlight",
-  "xId": null,
+  "xId": "packetlight",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.1114482,
       "lon": 34.8390358
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "packetlight",
+  "linkedinNum": 39419
 }

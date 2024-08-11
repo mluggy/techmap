@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vortex-imaging",
-  "xId": null,
+  "xId": "vorteximaging",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,7 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77051529
 }

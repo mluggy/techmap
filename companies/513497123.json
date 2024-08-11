@@ -1,16 +1,16 @@
 {
   "name": "Save Foods",
-  "description": "A global collective of 750 entities dedicated to combating food waste and loss.",
+  "description": "Eco-friendly Solutions to Ensure Food Safety and Shelf Life",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/save_foods-logo.webp",
-  "websiteUrl": "https://www.save-food.org/",
+  "websiteUrl": "https://www.savefoods.co",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "save-foods",
-  "xId": null,
+  "xId": "SaveFoodsInc",
   "addresses": [
     {
       "street": "שטיבל",
@@ -19,5 +19,8 @@
       "lat": 32.066336,
       "lon": 34.788438
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SaveFoodsInc",
+  "linkedinNum": 35695229
 }

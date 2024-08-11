@@ -1,5 +1,5 @@
 {
-  "name": "Inmode",
+  "name": "InMode",
   "description": "Pioneering for over 20 years, their cutting-edge light, laser, and radiofrequency technologies set industry standards to enhance patient and practice satisfaction alike.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "inmode-aesthetics",
   "crunchbaseId": null,
   "finderId": "inmode",
-  "xId": null,
+  "xId": "inmodesolutions",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,7 @@
       "lat": 32.662423450000006,
       "lon": 35.104844443125
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5279219
 }

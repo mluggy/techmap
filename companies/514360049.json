@@ -1,16 +1,16 @@
 {
-  "name": "Visa Facilities Center",
+  "name": "Visa",
   "description": "A global leader in digital payments technology that empowers people, enterprises, and economies to prosper.",
-  "categoryId": 10,
   "size": "s",
+  "categoryId": 10,
   "logoFile": "logos/visa_facilities_center-logo.webp",
-  "websiteUrl": "https://usa.visa.com/",
+  "websiteUrl": "https://www.visa.co.il/visa-everywhere/innovation-centers/tel-aviv.html",
   "careersUrl": "https://corporate.visa.com/en/careers.html",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "visa",
   "crunchbaseId": null,
   "finderId": "visa",
-  "xId": null,
+  "xId": "Visa",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.07734524999999,
       "lon": 34.79332549438699
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Visa",
+  "linkedinNum": 2190
 }

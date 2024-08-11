@@ -1,10 +1,10 @@
 {
   "name": "Citizen Impact",
-  "description": "A platform leveraging artificial intelligence to provide social support services.",
-  "categoryId": 1,
+  "description": "AI-based Platform for Social Assistance Services",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/citizen_impact-logo.webp",
-  "websiteUrl": "https://citizenimpactusa.org/",
+  "websiteUrl": "https://www.citizens-ai.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.3873507,
       "lon": 34.9229448
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75057944
 }

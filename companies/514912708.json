@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "routeperfect",
-  "xId": null,
+  "xId": "routeperfect",
   "addresses": [
     {
       "street": "אורי",
@@ -19,5 +19,7 @@
       "lat": 32.128549,
       "lon": 34.793804
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2786395
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Pixi Gaming",
-  "description": "Craft stunning digital visuals swiftly with a versatile 2D WebGL renderer trusted by global brands.",
-  "categoryId": 11,
+  "name": "Nlight.io",
+  "description": "Gameplay Analytics Company",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pixi_gaming-logo.webp",
-  "websiteUrl": "https://pixijs.com/",
+  "websiteUrl": "https://nlight.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "nlight-io",
   "crunchbaseId": null,
   "finderId": "pixi-gaming",
-  "xId": null,
+  "xId": "NlightIo",
   "addresses": [
     {
       "street": "שניר",
@@ -19,5 +19,8 @@
       "lat": 32.13981,
       "lon": 34.831537
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nlight.io",
+  "linkedinNum": 74207364
 }

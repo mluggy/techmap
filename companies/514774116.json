@@ -1,5 +1,5 @@
 {
-  "name": "Ezbob It",
+  "name": "ezbob",
   "description": "Their platform streamlines and accelerates the development of new lending services while enhancing existing systems, drastically reducing time and costs.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "ezbob",
   "crunchbaseId": "orange-money-dba-ezbob",
   "finderId": "ezbob",
-  "xId": null,
+  "xId": "ezbob_uk",
   "addresses": [
     {
       "street": "מדינת היהודים",
@@ -19,5 +19,7 @@
       "lat": 32.1666999,
       "lon": 34.8099066
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2646245
 }

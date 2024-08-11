@@ -1,10 +1,10 @@
 {
-  "name": "Timestamp",
-  "description": "Epoch time is the count of seconds elapsed since January 1, 1970 (midnight UTC/GMT), excluding leap seconds.",
-  "categoryId": 14,
+  "name": "TimeStamp",
+  "description": "Smart Sticker Technology for Tracking Medication Adherence",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/timestamp-logo.webp",
-  "websiteUrl": "https://www.epochconverter.com/",
+  "websiteUrl": "https://www.timestamp-ai.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1563285,
       "lon": 34.9182793
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11806925
 }

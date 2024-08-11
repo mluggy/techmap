@@ -1,10 +1,10 @@
 {
   "name": "Epeius Pharma",
-  "description": "Transporting treatment proteins directly to the brain and spinal cord.",
+  "description": "Delivery of Therapeutic Proteins into the Central Nervous System",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/epeius_pharma-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.futurx.co.il/portfolio/epeius-pharma/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "epeius-pharma",
@@ -19,5 +19,7 @@
       "lat": 31.9177299,
       "lon": 34.80439671200948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77039352
 }

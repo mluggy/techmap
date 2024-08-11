@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "revelator",
-  "xId": null,
+  "xId": "GetRevelator",
   "addresses": [
     {
       "street": "דרך חברון",
@@ -19,5 +19,8 @@
       "lat": 31.7316844,
       "lon": 35.20565
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RevelatorNetwork",
+  "linkedinNum": 3593611
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Atlas Lta Advanced Technology",
+  "name": "Atlas LTA",
   "description": "Providing bespoke lighter-than-air solutions for surveillance, communications, entertainment, tourism, and cargo transport.",
   "categoryId": 3,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "atlas-lta-advance-technology-ltd",
   "crunchbaseId": null,
   "finderId": "atlas-lta",
-  "xId": null,
+  "xId": "LtaAtlas",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.1088976,
       "lon": 34.9653972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "atlasairships",
+  "linkedinNum": 28505432
 }

@@ -1,10 +1,10 @@
 {
   "name": "Lensy Medical",
-  "description": "Contact Lenses Manufactured using 3D Printing Technology.",
+  "description": "Mass Customization of Contact Lenses Using 3D Printing",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/lensy_medical-logo.webp",
-  "websiteUrl": "https://www.lindseymedicalsupply.com/",
+  "websiteUrl": "https://lensymed.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "lensy-medical",
@@ -19,5 +19,7 @@
       "lat": 31.7499823,
       "lon": 35.2143376
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 100023212
 }

@@ -1,10 +1,10 @@
 {
   "name": "Linkthat",
-  "description": "A web-based advanced communication platform offering user-friendly interface for seamless organizational management and real-time oversight.",
-  "categoryId": 18,
+  "description": "Footwear",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/linkthat-logo.webp",
-  "websiteUrl": "https://www.link.co.il/",
+  "websiteUrl": "https://link-shoes.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.9959047,
       "lon": 35.2597296
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "link.flipshoe"
 }

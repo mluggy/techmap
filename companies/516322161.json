@@ -1,5 +1,5 @@
 {
-  "name": "Apowiser",
+  "name": "ApoWiser",
   "description": "A digital platform providing guidance on over-the-counter medications.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "apowiser",
   "crunchbaseId": "apowiser",
   "finderId": "apowiser",
-  "xId": null,
+  "xId": "apowiser",
   "addresses": [
     {
       "street": "הברוש",
@@ -19,5 +19,8 @@
       "lat": 32.1357438,
       "lon": 34.9247887
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "apowiser",
+  "linkedinNum": 71208778
 }

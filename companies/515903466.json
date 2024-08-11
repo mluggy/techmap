@@ -1,10 +1,10 @@
 {
   "name": "Neurogenesis",
-  "description": "Cell Therapy for Neurodegenerative Diseases.",
+  "description": "Neurodegenerative Disease Cell Therapy",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/neurogenesis-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://neurogenesis-cell.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0871497,
       "lon": 34.8036825
     }
-  ]
+  ],
+  "isMultinational": false
 }

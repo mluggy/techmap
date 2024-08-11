@@ -1,5 +1,5 @@
 {
-  "name": "Monogoto",
+  "name": "monogoto",
   "description": "Providing a user-friendly self-service console, this solution simplifies VPN setup and offers robust network visibility for globally connected systems.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "monogoto",
-  "xId": null,
+  "xId": "monogoto_iot",
   "addresses": [
     {
       "street": "שד' ההשכלה",
@@ -19,5 +19,7 @@
       "lat": 32.065233,
       "lon": 34.795947
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11517116
 }

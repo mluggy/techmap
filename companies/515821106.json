@@ -7,10 +7,10 @@
   "websiteUrl": "https://lumigo.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lumigo",
   "crunchbaseId": null,
   "finderId": "lumigo",
-  "xId": null,
+  "xId": "lumigo",
   "addresses": [
     {
       "street": "שפינוזה",
@@ -19,5 +19,8 @@
       "lat": 32.083002,
       "lon": 34.776628
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lumigo.io",
+  "linkedinNum": 11839899
 }

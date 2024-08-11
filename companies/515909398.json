@@ -1,5 +1,5 @@
 {
-  "name": "Newt Personalized Nutrition",
+  "name": "Newt",
   "description": "Online Dietary Assistance Service.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.78544755,
       "lon": 34.969002826824436
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Newtfit",
+  "linkedinNum": 35464184
 }

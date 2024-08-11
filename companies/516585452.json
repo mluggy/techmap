@@ -1,16 +1,16 @@
 {
-  "name": "Cryptohub",
-  "description": "Stay up-to-date with real-time crypto prices, interactive charts, and market trends.",
+  "name": "CryptoHub",
+  "description": "A Real-time Trading Platform with Analysis and Research Tools",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/cryptohub-logo.webp",
-  "websiteUrl": "https://crypthub.io/",
+  "websiteUrl": "https://www.coinscan.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cryptohub",
-  "xId": null,
+  "xId": "CoinScanDeFi",
   "addresses": [
     {
       "street": "הירקון",
@@ -19,5 +19,7 @@
       "lat": 32.068102,
       "lon": 34.76418
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77738894
 }

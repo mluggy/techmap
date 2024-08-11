@@ -1,10 +1,10 @@
 {
   "name": "Flightree",
-  "description": "Encouraging reduced air travel to combat climate change by promoting pledges to fly less frequently.",
-  "categoryId": 17,
+  "description": "Travel Company",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/flightree-logo.webp",
-  "websiteUrl": "https://flightfree.org/",
+  "websiteUrl": "https://www.flightree.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.782739755357245,
       "lon": 35.21352675620242
     }
-  ]
+  ],
+  "isMultinational": false
 }

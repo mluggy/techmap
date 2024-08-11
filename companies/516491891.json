@@ -1,5 +1,5 @@
 {
-  "name": "Selina Operation Capsule",
+  "name": "Selina",
   "description": "Offering the best rates for booking unique stays that blend travel, work, adventure, and wellness while connecting with the travel community.",
   "categoryId": 9,
   "size": "m",
@@ -19,5 +19,8 @@
       "lat": 32.067373,
       "lon": 34.790942
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "selinathenomad",
+  "linkedinNum": 5157123
 }

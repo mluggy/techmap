@@ -10,7 +10,7 @@
   "linkedinId": "blockaid",
   "crunchbaseId": null,
   "finderId": "blockaid",
-  "xId": null,
+  "xId": "blockaid_",
   "addresses": [
     {
       "street": "פריש דניאל",
@@ -19,5 +19,7 @@
       "lat": 32.07463945,
       "lon": 34.78327163578098
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 94964794
 }

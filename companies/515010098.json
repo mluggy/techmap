@@ -1,16 +1,16 @@
 {
-  "name": "Freshbiz Global",
-  "description": "Serial entrepreneur, author, speaker, and coach who has impacted thousands globally through innovative business games and motivational teachings.",
-  "categoryId": 14,
+  "name": "FreshBiz Global",
+  "description": "Game-based Entrepreneurship Education",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/freshbiz_global-logo.webp",
-  "websiteUrl": "https://freshbizgame.co.il/",
+  "websiteUrl": "https://www.freshbizgame.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "freshbiz",
   "crunchbaseId": "freshbiz-global",
   "finderId": "freshbiz-global",
-  "xId": null,
+  "xId": "freshbizgame",
   "addresses": [
     {
       "street": "השעורה",
@@ -19,5 +19,8 @@
       "lat": 32.5218291,
       "lon": 34.9351638
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FreshBiz",
+  "linkedinNum": 2695684
 }

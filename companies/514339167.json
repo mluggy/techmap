@@ -1,10 +1,10 @@
 {
-  "name": "Beck Medical",
-  "description": "A technology for managing weight that is administered through the nose.",
+  "name": "NozNoz",
+  "description": "Nasal-based Weight Management Technology",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/beck_medical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://noznoz.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.52242617492569,
       "lon": 34.99404113367883
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NozNozWeightManagement",
+  "linkedinNum": 35495802
 }

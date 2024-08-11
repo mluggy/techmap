@@ -1,10 +1,10 @@
 {
-  "name": "Nematoeat",
+  "name": "NematoEat",
   "description": "Providing a sustainable, effective, and non-toxic bio-nematicide derived from predatory microorganisms to replace harmful chemical crop-protection products.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/nematoeat-logo.webp",
-  "websiteUrl": "http://copia-agro.com/",
+  "websiteUrl": "https://copia-agro.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1604703,
       "lon": 34.809883
     }
-  ]
+  ],
+  "isMultinational": false
 }

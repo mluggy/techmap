@@ -1,16 +1,16 @@
 {
-  "name": "Wobi Insurance Agency",
-  "description": "A premier global hub for business content, providing top executives with innovative management insights to drive exceptional organizational performance.",
+  "name": "Wobi",
+  "description": "Insurance Price Comparisons",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/wobi_insurance_agency-logo.webp",
-  "websiteUrl": "https://www.wobi.com/",
+  "websiteUrl": "https://www.wobi.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "wobi",
-  "xId": null,
+  "xId": "wobi_il",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0919976,
       "lon": 34.8257445
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "wobi.co.il",
+  "linkedinNum": 2576426
 }

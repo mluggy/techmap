@@ -1,5 +1,5 @@
 {
-  "name": "Gencell",
+  "name": "GenCell",
   "description": "Pioneering sustainable and cost-effective ammonia and hydrogen fuel cell energy solutions.",
   "categoryId": 17,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "gencell",
-  "xId": null,
+  "xId": "gencellenergy",
   "addresses": [
     {
       "street": "התנופה",
@@ -19,5 +19,8 @@
       "lat": 32.099682,
       "lon": 34.8569061
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GenCellEnergy",
+  "linkedinNum": 3500202
 }

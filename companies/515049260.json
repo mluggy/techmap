@@ -1,10 +1,10 @@
 {
-  "name": "Quantalx Neuroscience",
-  "description": "Real-time Imaging of Brain Activity.",
+  "name": "QuantalX NeuroScience",
+  "description": "Direct Functional Brain Imaging",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/quantalx_neuroscience-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.quantalx.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "quantalx-neuroscience-ltd",
@@ -19,5 +19,7 @@
       "lat": 32.1732974,
       "lon": 34.8910865
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77652362
 }

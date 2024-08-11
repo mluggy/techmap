@@ -1,10 +1,10 @@
 {
-  "name": "Mdsg Innovation",
-  "description": "Healthcare Tech Advancement Hub.",
+  "name": "MDSG Innovation",
+  "description": "Medical Technology Innovation Platform",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/mdsg_innovation-logo.webp",
-  "websiteUrl": "https://www.mdsg.eu/",
+  "websiteUrl": "https://mdsg.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.9123022,
       "lon": 34.8036757
     }
-  ]
+  ],
+  "isMultinational": false
 }

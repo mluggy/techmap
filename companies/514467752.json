@@ -1,5 +1,5 @@
 {
-  "name": "Sqream Technologies",
+  "name": "SQream Technologies",
   "description": "Leveraging GPUs for data analysis, the company offers rapid, cost-effective query processing on large datasets both in the cloud and on-premises.",
   "categoryId": 1,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://sqream.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sqream_",
   "crunchbaseId": null,
   "finderId": "sqream-technologies",
-  "xId": null,
+  "xId": "SQreamTech",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sqreamtech",
+  "linkedinNum": 2515598
 }

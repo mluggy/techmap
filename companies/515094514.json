@@ -1,5 +1,5 @@
 {
-  "name": "Mybiotics Pharma",
+  "name": "MyBiotics Pharma",
   "description": "A pharmaceutical company entering a research and development partnership while securing substantial European Union funding.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mybiotics-pharma",
-  "xId": null,
+  "xId": "mybiotix",
   "addresses": [
     {
       "street": "מודעי יצחק",
@@ -19,5 +19,7 @@
       "lat": 31.8997233,
       "lon": 34.7876913
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 6381842
 }

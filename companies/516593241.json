@@ -1,10 +1,10 @@
 {
-  "name": "Saywhatt Online",
-  "description": "Artificial Intelligence-driven Sales Solution for Retail.",
-  "categoryId": 1,
+  "name": "saywhatt",
+  "description": "AI-based Retail Sales Engine",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/saywhatt_online-logo.webp",
-  "websiteUrl": "https://saywhat.org.zw/",
+  "websiteUrl": "https://www.saywhatt.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.077998,
       "lon": 34.780255
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82584740
 }

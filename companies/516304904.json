@@ -1,10 +1,10 @@
 {
   "name": "Femme Medical",
-  "description": "Offering personalized coaching, medical support, and group classes to address health and fertility issues through certified professionals.",
+  "description": "Treatment for Pelvic Organ Prolapse",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/femme_medical-logo.webp",
-  "websiteUrl": "https://femmhealth.org/",
+  "websiteUrl": "https://www.femme-medical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0359907,
       "lon": 34.8873747
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75718178
 }

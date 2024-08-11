@@ -1,13 +1,13 @@
 {
-  "name": "I Fact",
-  "description": "Cet organisme harmonise compétences et savoirs en formation, recherche et soins à travers huit départements spécialisés.",
-  "categoryId": 12,
+  "name": "iFact",
+  "description": "Financial Operations Management Software",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/i_fact-logo.webp",
-  "websiteUrl": "https://www.ifatc.com/",
+  "websiteUrl": "https://bizibox.biz/en/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bizibox",
   "crunchbaseId": null,
   "finderId": "ifact",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bizibox",
+  "linkedinNum": 2740416
 }

@@ -1,0 +1,25 @@
+{
+  "name": "Moodo",
+  "description": "Smart Home Aroma Diffuser",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/moodo.webp",
+  "websiteUrl": "https://moodo.co",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "moodo",
+  "xId": "Moodo_co",
+  "facebookId": "moodo.co",
+  "addresses": [
+    {
+      "street": "התעשיה",
+      "houseNumber": 1,
+      "city": "בית שמש",
+      "lat": 31.73464985859537,
+      "lon": 34.95233777899711
+    }
+  ],
+  "isMultinational": false
+}

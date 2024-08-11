@@ -10,7 +10,7 @@
   "linkedinId": "tarsier-pharma",
   "crunchbaseId": null,
   "finderId": "tarsius-pharma",
-  "xId": null,
+  "xId": "TarsierPharma",
   "addresses": [
     {
       "street": "יהלום",
@@ -19,5 +19,7 @@
       "lat": 32.56339875,
       "lon": 34.94342355628042
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 34220421
 }

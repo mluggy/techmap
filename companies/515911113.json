@@ -1,5 +1,5 @@
 {
-  "name": "Cornix 10",
+  "name": "Cornix",
   "description": "A leading marketplace for crypto signals, offering access to expert traders and user-created trading bots.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cornix",
-  "xId": null,
+  "xId": "cornix_io",
   "addresses": [
     {
       "street": "יונה וולך",
@@ -19,5 +19,8 @@
       "lat": 32.1476666,
       "lon": 34.8935194
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cornix.io",
+  "linkedinNum": 19051716
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Vishay Advanced Technologies",
+  "name": "Vishay",
   "description": "Offering a comprehensive range of electronic components, including semiconductors, passive components, and custom magnetics.",
   "categoryId": 16,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "vishay-intertechnology-inc-",
   "crunchbaseId": null,
   "finderId": "vishay",
-  "xId": null,
+  "xId": "VishayIndust",
   "addresses": [
     {
       "street": "צלע ההר",
@@ -19,5 +19,8 @@
       "lat": 31.9161384,
       "lon": 34.9691849
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "VishayIntertechnology",
+  "linkedinNum": 7449
 }

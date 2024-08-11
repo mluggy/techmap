@@ -1,5 +1,5 @@
 {
-  "name": "3 Nt Medical",
+  "name": "3NT Medical",
   "description": "A medical device company expanding its product availability in collaboration with physicians and offering updates through a contact form.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.108278,
       "lon": 34.9652441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18209947
 }

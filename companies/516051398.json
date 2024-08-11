@@ -1,5 +1,5 @@
 {
-  "name": "Gorilla Link",
+  "name": "GorillaLink",
   "description": "Providing robust, climate-resilient automotive connectivity through satellite modules and an IoT operations cloud for global data transmission and management.",
   "categoryId": 13,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false
 }

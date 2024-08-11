@@ -7,10 +7,10 @@
   "websiteUrl": "https://zoomd.com/",
   "careersUrl": "https://zoomd.com/zoomd-careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "zoomd-com",
   "crunchbaseId": null,
   "finderId": "zoomd",
-  "xId": null,
+  "xId": "zoomdtech",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,8 @@
       "lat": 32.161430249999995,
       "lon": 34.808588229913795
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Zoomd.Since2012",
+  "linkedinNum": 2709230
 }

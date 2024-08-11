@@ -1,10 +1,10 @@
 {
-  "name": "Antishock Technologies",
-  "description": "A device that monitors blood flow in vessels without needing invasive procedures.",
+  "name": "AntiShock",
+  "description": "Noninvasive Monitoring Device for Assessing the Flow in Blood Vessels",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/antishock_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.antishock.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "antishock",
@@ -19,5 +19,8 @@
       "lat": 32.78785285,
       "lon": 34.96565267465318
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AntiShock-113914147019672",
+  "linkedinNum": 23758804
 }

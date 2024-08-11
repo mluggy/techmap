@@ -1,5 +1,5 @@
 {
-  "name": "Biflow Medical",
+  "name": "BiFlow Medical",
   "description": "A company dedicated to innovating AAA treatment through endovascular repair using a unique dual-stent mechanism.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2182843
 }

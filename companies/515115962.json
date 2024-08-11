@@ -1,5 +1,5 @@
 {
-  "name": "Cashcow",
+  "name": "CashCow",
   "description": "פלטפורמה ליצירת אתרים במהירות ובקלות ללא צורך בידע טכני עם מגוון תבניות מרהיבות ועורך מתקדם.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cashcow",
-  "xId": null,
+  "xId": "CashCow_LTD",
   "addresses": [
     {
       "street": "טביב",
@@ -19,5 +19,8 @@
       "lat": 31.959144,
       "lon": 34.8128715
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cashcowpage",
+  "linkedinNum": 2599396
 }

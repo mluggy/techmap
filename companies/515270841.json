@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pagewiz",
-  "xId": null,
+  "xId": "pagewiz_app",
   "addresses": [
     {
       "street": "יעקב רוזן",
@@ -19,5 +19,8 @@
       "lat": 32.05646032141984,
       "lon": 34.81485064209813
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pagewiz",
+  "linkedinNum": 4984110
 }

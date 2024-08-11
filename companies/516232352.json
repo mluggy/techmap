@@ -1,5 +1,5 @@
 {
-  "name": "Kai AI",
+  "name": "Kai.ai",
   "description": "An empathetic AI companion designed to enhance well-being and personal growth.",
   "categoryId": 1,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.819776250000004,
       "lon": 34.9988252
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "kai.ai.coach",
+  "linkedinNum": 42296108
 }

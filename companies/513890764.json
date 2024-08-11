@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "brainsway",
-  "xId": null,
+  "xId": "Brainsway",
   "addresses": [
     {
       "street": "הרטום",
@@ -19,5 +19,8 @@
       "lat": 31.8041398,
       "lon": 35.2105915
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BrainswayDeepTMS",
+  "linkedinNum": 3253269
 }

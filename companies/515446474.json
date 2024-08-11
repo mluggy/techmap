@@ -10,7 +10,7 @@
   "linkedinId": "busnet-&-trucknet",
   "crunchbaseId": null,
   "finderId": "trucknet-enterprise",
-  "xId": null,
+  "xId": "Trucknet_Ltd",
   "addresses": [
     {
       "street": "השרטט",
@@ -19,5 +19,7 @@
       "lat": 29.5984857,
       "lon": 34.9742148
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Trucknet-Enterprise-950954654959643"
 }

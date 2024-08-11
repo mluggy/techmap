@@ -1,5 +1,5 @@
 {
-  "name": "Docktech",
+  "name": "DockTech",
   "description": "They deliver digital infrastructure to enhance maritime navigation and supply chain efficiency for ports and rivers.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "docktech",
   "crunchbaseId": null,
   "finderId": "docktech",
-  "xId": null,
+  "xId": "dock_tech",
   "addresses": [
     {
       "street": "דרך השלום",
@@ -19,5 +19,8 @@
       "lat": 32.072245,
       "lon": 34.796049
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "docktech99",
+  "linkedinNum": 11291094
 }

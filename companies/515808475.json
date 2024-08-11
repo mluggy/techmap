@@ -1,5 +1,5 @@
 {
-  "name": "Getplace",
+  "name": "GetPlace",
   "description": "מלוות אותך בכל שלבי מכירת הנכס עם שיווק ממוקד להבטחת מחיר מקסימלי.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "getplace",
-  "xId": null,
+  "xId": "getplacemobile",
   "addresses": [
     {
       "street": "הפלך",
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GetPlaceIsrael",
+  "linkedinNum": 18465374
 }

@@ -1,10 +1,10 @@
 {
   "name": "Carbonade",
-  "description": "A one-step electro-chemical system for capturing and utilizing CO2.",
-  "categoryId": 17,
+  "description": "Electro-chemical CO2 Utilization Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/carbonade-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.carbonade.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.9717221,
       "lon": 35.1553291
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79036541
 }

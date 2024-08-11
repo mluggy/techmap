@@ -1,0 +1,25 @@
+{
+  "name": "Lipo",
+  "description": "Micro-mobility Vehicles in the Urban Public Space",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/lipo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 77632856,
+  "crunchbaseId": null,
+  "finderId": "lipo",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "יפה נוף",
+      "houseNumber": 39,
+      "city": "חיפה",
+      "lat": 32.813690499611326,
+      "lon": 34.98297585727803
+    }
+  ],
+  "isMultinational": false
+}

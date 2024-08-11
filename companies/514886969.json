@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.forter.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "forter",
   "crunchbaseId": null,
   "finderId": "forter",
-  "xId": null,
+  "xId": "ForterGlobal",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 5071248
 }

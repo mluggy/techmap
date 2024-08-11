@@ -1,10 +1,10 @@
 {
-  "name": "Tabi Learning Technologies",
-  "description": "Customized online education platform designed for learners with disabilities.",
-  "categoryId": 12,
+  "name": "TABI Learning Technologies",
+  "description": "Personalized Digital Learning Platform for Students with Learning Disabilities",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/tabi_learning_technologies-logo.webp",
-  "websiteUrl": "https://www.tabilabs.com/",
+  "websiteUrl": "https://www.tabi.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "tabi-learning-technologies",
@@ -19,5 +19,7 @@
       "lat": 31.787025,
       "lon": 34.6337443
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68540799
 }

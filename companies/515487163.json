@@ -10,7 +10,7 @@
   "linkedinId": "access-fintech",
   "crunchbaseId": "accessfintech",
   "finderId": "access-fintech",
-  "xId": null,
+  "xId": "accessfintech",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,7 @@
       "lat": 32.083369250000004,
       "lon": 34.80252937066078
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 7941391
 }

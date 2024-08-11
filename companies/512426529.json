@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nanonics-imaging",
-  "xId": null,
+  "xId": "nanonics",
   "addresses": [
     {
       "street": "הרטום",
@@ -19,5 +19,8 @@
       "lat": 31.8041398,
       "lon": 35.2105915
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nanonicsimaging",
+  "linkedinNum": 1748314
 }

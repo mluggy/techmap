@@ -1,0 +1,25 @@
+{
+  "name": "BUM",
+  "description": "Software and Device Treatment for Back and Knee Pain",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/bum.webp",
+  "websiteUrl": "https://www.backupmeltd.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "bum",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "יהודה הנשיא",
+      "houseNumber": 10,
+      "city": "קריית אתא",
+      "lat": 32.80464639574615,
+      "lon": 35.10702850190298
+    }
+  ],
+  "isMultinational": false
+}

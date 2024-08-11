@@ -4,7 +4,7 @@
   "categoryId": 1,
   "size": "xs",
   "logoFile": "logos/alteco_ai-logo.webp",
-  "websiteUrl": "http://alteco.ai/",
+  "websiteUrl": "https://alteco.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "alteco-ai",
@@ -19,5 +19,7 @@
       "lat": 32.3263313,
       "lon": 34.9780302
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 69507541
 }

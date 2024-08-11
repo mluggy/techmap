@@ -1,10 +1,10 @@
 {
   "name": "Lua Connect",
-  "description": "An app designed to foster genuine relationships.",
+  "description": "Dating App for Meaningful Connections",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/lua_connect-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.lua.earth/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0913173,
       "lon": 34.8728406
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LuaMoonGoddess",
+  "linkedinNum": 66971859
 }

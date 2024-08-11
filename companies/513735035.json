@@ -1,10 +1,10 @@
 {
   "name": "Nobesity",
-  "description": "A leading bariatric surgery center in Ahmedabad, Nobesity has performed over 8,000 successful surgeries, treating over 650 new patients annually for obesity and metabolic disorders.",
+  "description": "Products for Obesity Prevention",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/nobesity-logo.webp",
-  "websiteUrl": "https://nobesity.in/",
+  "websiteUrl": "https://www.nobesity.biz",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.8083317,
       "lon": 34.980237
     }
-  ]
+  ],
+  "isMultinational": false
 }

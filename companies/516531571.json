@@ -1,16 +1,16 @@
 {
-  "name": "Mona Medical",
-  "description": "A regional fashion leader renowned for premium-quality jackets and accessories you'll adore.",
-  "categoryId": 9,
+  "name": "Mona",
+  "description": "Intelligent Monitoring Solution for AI and Data-driven Applications",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/mona_medical-logo.webp",
-  "websiteUrl": "https://www.monaonline.com/",
+  "websiteUrl": "https://www.monalabs.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mona",
-  "xId": null,
+  "xId": "mona_labs",
   "addresses": [
     {
       "street": "כנפי נשרים",
@@ -19,5 +19,7 @@
       "lat": 31.7873914,
       "lon": 35.1837336
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 35506044
 }

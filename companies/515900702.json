@@ -1,5 +1,5 @@
 {
-  "name": "Ottopia Technologies",
+  "name": "Ottopia",
   "description": "Seamlessly integrating vehicles with remote driving stations via public networks, Ottopia’s software ensures efficient teleoperation.",
   "categoryId": 5,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "ottopia",
   "crunchbaseId": "ottopia",
   "finderId": "ottopia",
-  "xId": null,
+  "xId": "ottopia_tech",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.066532,
       "lon": 34.785078
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ottopiatech",
+  "linkedinNum": 11860995
 }

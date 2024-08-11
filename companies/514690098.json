@@ -1,5 +1,5 @@
 {
-  "name": "Bigpanda M S",
+  "name": "BigPanda",
   "description": "Teams enhance IT operations, resolve issues swiftly, and boost efficiency using full-context AIOps.",
   "categoryId": 1,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.bigpanda.io/",
   "careersUrl": "https://www.bigpanda.io/company/panda-way/jobs/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "bigpanda",
   "crunchbaseId": null,
   "finderId": "bigpanda",
-  "xId": null,
+  "xId": "bigpanda",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,8 @@
       "lat": 32.067908,
       "lon": 34.786921
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bigpandaio",
+  "linkedinNum": 2598034
 }

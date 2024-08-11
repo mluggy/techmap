@@ -1,5 +1,5 @@
 {
-  "name": "Roadsense Advanced Technologies",
+  "name": "RoadSense",
   "description": "A cutting-edge platform that wirelessly collects public space data, offering cities real-time insights and instant alerts for various challenges.",
   "categoryId": 13,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.31493989402396,
       "lon": 34.93964684775995
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 35636020
 }

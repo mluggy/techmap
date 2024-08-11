@@ -1,16 +1,16 @@
 {
-  "name": "Video Flow",
-  "description": "Offering a comprehensive, zero-code platform for video management, streaming, distribution, and monetization, enabling rapid deployment.",
+  "name": "VideoFlow",
+  "description": "Solutions for Improving IP Network Reliability",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/video_flow-logo.webp",
-  "websiteUrl": "https://info.videoflow.io/",
+  "websiteUrl": "https://www.video-flow.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "videoflow",
-  "xId": null,
+  "xId": "ofl_videoflow",
   "addresses": [
     {
       "street": "הזית",
@@ -19,5 +19,8 @@
       "lat": 32.1063026,
       "lon": 34.9543129
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VideoFlow-346001595849062",
+  "linkedinNum": 2386186
 }

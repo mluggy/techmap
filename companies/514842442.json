@@ -1,10 +1,10 @@
 {
-  "name": "Ptm Biosciences",
-  "description": "Discover innovative advancements in single-cell and 4D proteomics at Booth 2480 during the 2023 AACC Annual Meeting and Clinical Lab Expo.",
+  "name": "PTM Biosciences",
+  "description": "Proteomics-based Products for Personalized Medicine",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ptm_biosciences-logo.webp",
-  "websiteUrl": "https://ptmbio.com/",
+  "websiteUrl": "https://ptm-biosciences.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ptm-biosciences",
@@ -19,5 +19,7 @@
       "lat": 32.4774943,
       "lon": 34.9447996
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 42938941
 }

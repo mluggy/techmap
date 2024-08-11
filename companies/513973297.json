@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "scodix",
-  "xId": null,
+  "xId": "ScodixSense",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.0970131,
       "lon": 34.9105972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Scodix",
+  "linkedinNum": 587748
 }

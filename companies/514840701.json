@@ -1,5 +1,5 @@
 {
-  "name": "Konnecto Top Tech",
+  "name": "Konnecto",
   "description": "Providing actionable insights for affiliate marketers to find new partners and optimize existing relationships.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "konnectoconsumerintelligence",
   "crunchbaseId": "konnecto",
   "finderId": "konnecto",
-  "xId": null,
+  "xId": "konnecto_",
   "addresses": [
     {
       "street": "פריש דניאל",
@@ -19,5 +19,9 @@
       "lat": 32.07463945,
       "lon": 34.78327163578098
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "konnecto.io",
+  "linkedinNum": 10481143,
+  "comeetId": "konnecto/36.00C"
 }

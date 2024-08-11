@@ -1,5 +1,5 @@
 {
-  "name": "3 Dsellers",
+  "name": "3Dsellers",
   "description": "Boost eBay sales efficiency with cutting-edge listing software for easy, bulk inventory management.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "3dsellers",
-  "xId": null,
+  "xId": "3dsellers",
   "addresses": [
     {
       "street": "הגבור האלמוני",
@@ -19,5 +19,8 @@
       "lat": 32.05841892522462,
       "lon": 34.79960233285159
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "3dsellers",
+  "linkedinNum": 1559246
 }

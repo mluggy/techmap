@@ -1,10 +1,10 @@
 {
   "name": "Moodify",
-  "description": "A service that leverages Spotify's API and AI to recommend mood-matching music based on various emotional and musical metrics.",
-  "categoryId": 1,
+  "description": "Software-defined Scents",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/moodify-logo.webp",
-  "websiteUrl": "https://moodify.toasted.ai/",
+  "websiteUrl": "https://www.moodify.today",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1789899,
       "lon": 34.9284423
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 14844089
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Coolautomation",
+  "name": "CoolAutomation",
   "description": "A leader in HVAC technology, providing intelligent, widely adopted solutions for seamless system integration and remote management globally.",
   "categoryId": 13,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://coolautomation.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cool-automation",
   "crunchbaseId": null,
   "finderId": "CoolAutomation",
-  "xId": null,
+  "xId": "cool_automation",
   "addresses": [
     {
       "street": "מבטחים",
@@ -19,5 +19,8 @@
       "lat": 32.087326,
       "lon": 34.8543625
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CoolAutomation",
+  "linkedinNum": 1456190
 }

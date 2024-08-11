@@ -1,10 +1,10 @@
 {
-  "name": "Dg 4",
-  "description": "Online tools for managing warehouses using SAP IM.",
-  "categoryId": 14,
+  "name": "DG4",
+  "description": "Digital Solution for SAP IM Managed Warehouses",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/dg_4-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://dg4.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 33.0116608,
       "lon": 35.0908568
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68538282
 }

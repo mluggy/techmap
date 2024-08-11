@@ -1,5 +1,5 @@
 {
-  "name": "Lonza Israel",
+  "name": "Lonza",
   "description": "Providing comprehensive manufacturing solutions for the healthcare, pharmaceutical, biotech, and nutrition industries.",
   "categoryId": 12,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "lonza",
   "crunchbaseId": null,
   "finderId": "lonza",
-  "xId": null,
+  "xId": "LonzaGroup",
   "addresses": [
     {
       "street": "נתיב האור",
@@ -19,5 +19,8 @@
       "lat": 32.78785285,
       "lon": 34.96565267465318
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "LonzaGroupAG",
+  "linkedinNum": 7462
 }

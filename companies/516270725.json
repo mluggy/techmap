@@ -1,10 +1,10 @@
 {
   "name": "Biomarkerz",
-  "description": "A digital service designed to enhance experiences in mental health care.",
+  "description": "Telehealth Platform for Improving Mental  Healthcare Encounters",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/biomarkerz-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.biomarkerz.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.121775,
       "lon": 34.793306
     }
-  ]
+  ],
+  "isMultinational": false
 }

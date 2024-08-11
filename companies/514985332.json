@@ -1,16 +1,16 @@
 {
-  "name": "Rupert And Sons Taim Bashuk",
-  "description": "A vibrant venue in Collingwood offering eclectic dining and drinks in a stylish, welcoming atmosphere.",
-  "categoryId": 9,
+  "name": "Rupert.",
+  "description": "Analytics Distribution Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/rupert_and_sons_taim_bashuk-logo.webp",
-  "websiteUrl": "https://rupertonrupert.com.au/",
+  "websiteUrl": "https://www.hirupert.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rupert",
-  "xId": null,
+  "xId": "RupertData",
   "addresses": [
     {
       "street": "בית יעקב",
@@ -19,5 +19,8 @@
       "lat": 31.7851778,
       "lon": 35.2112241
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rupertdatatool",
+  "linkedinNum": 36453562
 }

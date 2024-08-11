@@ -1,10 +1,10 @@
 {
-  "name": "Super Spectra",
-  "description": "A device for Alzheimer's disease imaging that doesn't require invasive procedures.",
+  "name": "SuperSpectra",
+  "description": "Noninvasive Imaging Device for Alzheimer's Disease",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/super_spectra-logo.webp",
-  "websiteUrl": "https://www.spectrasuperalloys.com/",
+  "websiteUrl": "https://super-spectra.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0219296,
       "lon": 34.8566055
     }
-  ]
+  ],
+  "isMultinational": false
 }

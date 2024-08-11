@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "chat-leap",
-  "xId": null,
+  "xId": "Chatleap",
   "addresses": [
     {
       "street": "הזית",
@@ -19,5 +19,8 @@
       "lat": 31.9437059,
       "lon": 34.8470531
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "chatleap",
+  "linkedinNum": 12896069
 }

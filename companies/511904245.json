@@ -1,16 +1,16 @@
 {
-  "name": "Alpha Omega Engineering",
-  "description": "Promoting excellence in medical education to enhance patient care for everyone.",
+  "name": "Alpha Omega",
+  "description": "Functional Neurosurgery and Neuroscience Research Solutions",
   "categoryId": 12,
   "size": "l",
   "logoFile": "logos/alpha_omega_engineering-logo.webp",
-  "websiteUrl": "https://www.alphaomegaalpha.org/",
+  "websiteUrl": "https://www.alphaomega-eng.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "alpha-omega",
-  "xId": null,
+  "xId": "alphaomegaeng",
   "addresses": [
     {
       "street": "המרכבה",
@@ -19,5 +19,8 @@
       "lat": 32.763062,
       "lon": 35.319556
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AlphaOmegaEngineering",
+  "linkedinNum": 54004
 }

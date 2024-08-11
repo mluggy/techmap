@@ -1,5 +1,5 @@
 {
-  "name": "Respisafe",
+  "name": "RespiSafe",
   "description": "An authorized service center dedicated to providing exceptional customer support and maintenance for 3M/Scott Safety equipment.",
   "categoryId": 12,
   "size": "xs",
@@ -11,5 +11,6 @@
   "crunchbaseId": null,
   "finderId": "respisafe",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false
 }

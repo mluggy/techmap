@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hairstetics",
-  "xId": null,
+  "xId": "hairstetics",
   "addresses": [
     {
       "street": "נתניהו יהונתן",
@@ -19,5 +19,8 @@
       "lat": 32.0219296,
       "lon": 34.8566055
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hairstetics",
+  "linkedinNum": 11115892
 }

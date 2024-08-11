@@ -10,7 +10,7 @@
   "linkedinId": "vanti-ai",
   "crunchbaseId": "vanti-analytics",
   "finderId": "vanti-analytics",
-  "xId": null,
+  "xId": "AnalyticsVanti",
   "addresses": [
     {
       "street": "יצחק שדה",
@@ -19,5 +19,7 @@
       "lat": 32.065253,
       "lon": 34.785664
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 26535059
 }

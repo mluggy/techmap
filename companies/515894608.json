@@ -1,10 +1,10 @@
 {
   "name": "Oddetect",
-  "description": "Software that analyzes video footage for surveillance purposes.",
+  "description": "Video Analytics Software for Video Surveillance Systems",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/oddetect-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.oddetect.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "oddetect",
@@ -19,5 +19,7 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12619080
 }

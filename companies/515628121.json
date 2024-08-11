@@ -1,16 +1,16 @@
 {
-  "name": "Nanna Apps",
-  "description": "Stay updated on future event announcements and notifications in your area.",
+  "name": "Nanna",
+  "description": "Parenting Chat Bot App",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/nanna_apps-logo.webp",
-  "websiteUrl": "https://www.nannanannananna.com/",
+  "websiteUrl": "https://www.nanna.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nanna",
-  "xId": null,
+  "xId": "nanna_ai",
   "addresses": [
     {
       "street": "רייק חביבה",
@@ -19,5 +19,8 @@
       "lat": 32.1891431,
       "lon": 34.8699429
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nannabot",
+  "linkedinNum": 17900621
 }

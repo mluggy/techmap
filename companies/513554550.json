@@ -1,10 +1,10 @@
 {
   "name": "Verilite",
-  "description": "The company specializes in pioneering ultra-lightweight Air-Foam Floatation seating systems and back supports for wheelchairs.",
-  "categoryId": 12,
+  "description": "Energy Asset Management Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/verilite-logo.webp",
-  "websiteUrl": "https://www.varilite.com/",
+  "websiteUrl": "https://www.verilite-energy.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0700073,
       "lon": 34.794193699999994
     }
-  ]
+  ],
+  "isMultinational": false
 }

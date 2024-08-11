@@ -1,5 +1,5 @@
 {
-  "name": "Twingate Israel",
+  "name": "Twingate",
   "description": "Twingate enables secure, high-speed access to protected resources via direct peer-to-peer connections with real-time verification for each request.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "twingate",
-  "xId": null,
+  "xId": "TwingateHQ",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "twingatehq",
+  "linkedinNum": 38092246
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Intigua Israel",
+  "name": "JetPatch",
   "description": "Providing an all-in-one solution for server compliance and patch management, achieving up to a 75% reduction in IT complexity.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "intigua",
   "crunchbaseId": "jetpatch",
   "finderId": "intigua",
-  "xId": null,
+  "xId": "jetpatchcloud",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,8 @@
       "lat": 32.1666758,
       "lon": 34.8115802
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getjetpatch",
+  "linkedinNum": 12574306
 }

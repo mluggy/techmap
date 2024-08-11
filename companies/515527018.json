@@ -1,10 +1,10 @@
 {
-  "name": "Lama Consulting",
-  "description": "A leading auction house for acquiring and selling Modern and Contemporary Art and Design.",
+  "name": "LAMA",
+  "description": "Mobile App for Connecting Students with Tutors",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/lama_consulting-logo.webp",
-  "websiteUrl": "https://www.lamodern.com/",
+  "websiteUrl": "https://www.masterlama.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.5201675,
       "lon": 34.9186564
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lama.learn.and.master",
+  "linkedinNum": 30707684
 }

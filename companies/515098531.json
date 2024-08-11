@@ -1,10 +1,10 @@
 {
   "name": "Skinny Pasta",
-  "description": "Skinny Pasta 9.52 oz - The Only Odor Free 100% Konjac Noodle - Low Calorie Food - Variety Pack ... Enjoy Free Shipping on All Orders Today!.",
-  "categoryId": 9,
+  "description": "Alternative Pasta",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/skinny_pasta-logo.webp",
-  "websiteUrl": "https://skinnypasta.com/",
+  "websiteUrl": "https://skinnypasta.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.2583649,
       "lon": 34.9324621
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "skinnypasta.co.il",
+  "linkedinNum": 96455516
 }

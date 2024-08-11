@@ -1,5 +1,5 @@
 {
-  "name": "Bio View",
+  "name": "BioView",
   "description": "We provide automated platforms that streamline imaging, analysis, and reporting for cytogenetic, oncology, and pathology labs, accommodating various sample volumes and automation needs.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bioview",
-  "xId": null,
+  "xId": "bio_view",
   "addresses": [
     {
       "street": "פקריס",
@@ -19,5 +19,8 @@
       "lat": 31.9119094,
       "lon": 34.804801
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BioViewInc",
+  "linkedinNum": 80102
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Deemedya M S",
+  "name": "Deemedya",
   "description": "A leading developer and publisher of top mobile games with strategic locations in Tel Aviv, Saint Petersburg, and Silicon Valley.",
   "categoryId": 11,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "deemedya",
   "crunchbaseId": "deemedya",
   "finderId": "deemedya",
-  "xId": null,
+  "xId": "deemedya",
   "addresses": [
     {
       "street": "נחלת יצחק",
@@ -19,5 +19,8 @@
       "lat": 32.074857,
       "lon": 34.796826
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Deemedya",
+  "linkedinNum": 1303902
 }

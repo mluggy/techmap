@@ -1,15 +1,17 @@
 {
-  "name": "Mybouncer",
-  "description": "Offering efficient and reliable online identity verification services.",
+  "name": "mybouncer",
+  "description": "Drink Spiking Detector",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/mybouncer-logo.webp",
-  "websiteUrl": "https://app.usebouncer.com/",
+  "websiteUrl": "https://www.my-bouncer.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "mybouncer",
   "crunchbaseId": null,
   "finderId": "mybouncer",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "linkedinNum": 95955070
 }

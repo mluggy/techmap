@@ -1,16 +1,16 @@
 {
-  "name": "Screenz Cross Media",
-  "description": "A versatile cloud service enabling seamless information display across multiple screens in varied locations.",
-  "categoryId": 6,
+  "name": "Screenz",
+  "description": "SaaS Platform for Audience Engagement",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/screenz_cross_media-logo.webp",
-  "websiteUrl": "https://en.screenz.no/",
+  "websiteUrl": "https://scrnz.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "screenz",
-  "xId": null,
+  "xId": "Scrnz",
   "addresses": [
     {
       "street": "תבואות הארץ",
@@ -19,5 +19,8 @@
       "lat": 32.111398,
       "lon": 34.82675
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "scrnz",
+  "linkedinNum": 2806136
 }

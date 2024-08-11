@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hibernating-rhinos",
-  "xId": null,
+  "xId": "hiberrhinos",
   "addresses": [
     {
       "street": "אחד העם",
@@ -19,5 +19,8 @@
       "lat": 32.4357902,
       "lon": 34.9156576
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RavenDB-265907650186374",
+  "linkedinNum": 4837335
 }

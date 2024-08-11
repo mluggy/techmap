@@ -1,5 +1,5 @@
 {
-  "name": "Shield I O T",
+  "name": "ShieldIOT",
   "description": "A patented SaaS platform delivering AI-driven asset intelligence and threat management to secure and provide visibility for SIM-connected IoT/IIoT networks at scale.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "shieldiot",
-  "xId": null,
+  "xId": "shieldiot1",
   "addresses": [
     {
       "street": "הגביש",
@@ -19,5 +19,7 @@
       "lat": 32.176795,
       "lon": 34.9299507
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18173639
 }

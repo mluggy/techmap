@@ -1,5 +1,5 @@
 {
-  "name": "Cybereason Labs",
+  "name": "Cybereason",
   "description": "An AI-powered platform offering superior predictive prevention, detection, and response to effectively combat modern ransomware and advanced cyber threats.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "cybereason",
   "crunchbaseId": null,
   "finderId": "cybereason",
-  "xId": null,
+  "xId": "cybereason",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cybereason",
+  "linkedinNum": 3173675
 }

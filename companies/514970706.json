@@ -10,7 +10,7 @@
   "linkedinId": "eloxx-pharmaceuticals",
   "crunchbaseId": null,
   "finderId": "eloxx",
-  "xId": null,
+  "xId": "eloxx_pharma",
   "addresses": [
     {
       "street": "דרך הנפת הדגל",
@@ -19,5 +19,7 @@
       "lat": 31.9205342,
       "lon": 34.8070201
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18504171
 }

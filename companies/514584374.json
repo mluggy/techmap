@@ -1,5 +1,5 @@
 {
-  "name": "Pollight Advanced Management Systems",
+  "name": "Pollight",
   "description": "An intelligent web platform that optimizes energy use and transforms habits into sustainable assets.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "pollight",
   "crunchbaseId": null,
   "finderId": "pollight",
-  "xId": null,
+  "xId": "pollights",
   "addresses": [
     {
       "street": "אגודת ספורט הפועל",
@@ -19,5 +19,8 @@
       "lat": 31.7507813,
       "lon": 35.184892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pollights",
+  "linkedinNum": 18930885
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Do 4 Brain",
-  "description": "Mind exercises designed for older adults.",
+  "name": "Do4Brain",
+  "description": "Cognitive Training for Seniors",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/do_4_brain-logo.webp",
-  "websiteUrl": "https://www.forbrain.com/",
+  "websiteUrl": "https://www.do4brain.com/eng",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0958117,
       "lon": 34.9666344
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Do4Brain"
 }

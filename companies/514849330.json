@@ -1,16 +1,16 @@
 {
   "name": "Biop Medical",
-  "description": "Timely and Precise Cervical Cancer Diagnosis.",
+  "description": "Early and Accurate Detection of Cervical Cancer",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/biop_medical-logo.webp",
-  "websiteUrl": "https://bio-medical.com/",
+  "websiteUrl": "https://www.biopmedical.com/home",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "biop-medical-ltd.",
   "crunchbaseId": null,
   "finderId": "biop-medical",
-  "xId": null,
+  "xId": "biop_medical",
   "addresses": [
     {
       "street": "אהליאב",
@@ -19,5 +19,8 @@
       "lat": 32.08769233337585,
       "lon": 34.8022060856916
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BiopMedical",
+  "linkedinNum": 10423187
 }

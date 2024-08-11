@@ -1,10 +1,10 @@
 {
-  "name": "Staga",
-  "description": "Offering customizable transportation and mobility solutions including scheduling, reservations, and bike-sharing.",
-  "categoryId": 5,
+  "name": "STAGA",
+  "description": "Music-based Skill Development Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/staga-logo.webp",
-  "websiteUrl": "https://www.stga.fr/",
+  "websiteUrl": "https://www.staga.art/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.064005,
       "lon": 34.771695
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90876123
 }

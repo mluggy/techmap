@@ -1,5 +1,5 @@
 {
-  "name": "Starkware Industries",
+  "name": "StarkWare Industries",
   "description": "A blockchain technology that ensures data security through zero-knowledge proof.",
   "categoryId": 1,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://starkware.co/",
   "careersUrl": "https://starkware.co/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "starkware",
   "crunchbaseId": null,
   "finderId": "starkware-industries",
-  "xId": null,
+  "xId": "StarkWareLtd",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,7 @@
       "lat": 32.2846342,
       "lon": 34.8605173
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27137803
 }

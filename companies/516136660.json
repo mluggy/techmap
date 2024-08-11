@@ -1,10 +1,10 @@
 {
   "name": "Intellectum Systems",
-  "description": "An engine that comprehends and interprets both spoken and written language.",
-  "categoryId": 1,
+  "description": "Natural Language Understanding Engine for Speech and Text",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/intellectum_systems-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.intellectum.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "intellectum-systems",
@@ -19,5 +19,7 @@
       "lat": 32.0926331,
       "lon": 34.8109632
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72434740
 }

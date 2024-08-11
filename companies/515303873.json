@@ -1,5 +1,5 @@
 {
-  "name": "Algobrix",
+  "name": "AlgoBrix",
   "description": "A coding game for children that combines building robots with interactive programming through coding bricks.",
   "categoryId": 15,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "algobrix",
-  "xId": null,
+  "xId": "algobrix",
   "addresses": [
     {
       "street": "דמארי שושנה",
@@ -19,5 +19,8 @@
       "lat": 32.1867794,
       "lon": 34.8944845
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "algobrix",
+  "linkedinNum": 18147005
 }

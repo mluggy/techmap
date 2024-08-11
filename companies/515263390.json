@@ -1,10 +1,10 @@
 {
-  "name": "Caremotion 40",
-  "description": "Providing stress-free remote patient monitoring and chronic care services for patients and healthcare professionals.",
-  "categoryId": 12,
+  "name": "CarEmotion",
+  "description": "Alarm System for Children Left in Vehicles",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/caremotion_40-logo.webp",
-  "websiteUrl": "https://www.mycaremotion.com/",
+  "websiteUrl": "https://car-e-motion.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.59862,
       "lon": 35.0020556
     }
-  ]
+  ],
+  "isMultinational": false
 }

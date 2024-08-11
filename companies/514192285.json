@@ -1,5 +1,5 @@
 {
-  "name": "Sync Me",
+  "name": "Sync.me",
   "description": "An innovative app offering rich insights about your contacts and meetings.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sync-me",
-  "xId": null,
+  "xId": "syncme",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "syncmeapp ",
+  "linkedinNum": 2779103
 }

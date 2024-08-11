@@ -1,16 +1,16 @@
 {
-  "name": "Vidiplus",
-  "description": "Offering over 300 online courses, VISIPLUS Digital Learning specializes in distance education across various fields such as marketing, communication, digital, web development, real estate, human resources, management, commercial development, and customer relations.",
+  "name": "VidiPlus",
+  "description": "Virtual Presentation Software for Video Conferencing",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/vidiplus-logo.webp",
-  "websiteUrl": "https://www.visiplus-digital-learning.com/",
+  "websiteUrl": "https://vidiplus.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vidiplus",
-  "xId": null,
+  "xId": "VidiPlus",
   "addresses": [
     {
       "street": "הצמיחה",
@@ -19,5 +19,8 @@
       "lat": 32.668888,
       "lon": 35.107009
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VidiPlus-110758004157754",
+  "linkedinNum": 71822710
 }

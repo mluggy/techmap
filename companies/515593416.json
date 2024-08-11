@@ -1,10 +1,10 @@
 {
-  "name": "Chkp Food Innovation",
-  "description": "Offering nationwide interior landscaping services, Planterra specializes in office plant rentals, living walls, and holiday décor for commercial spaces.",
-  "categoryId": 9,
+  "name": "CHKP",
+  "description": "Dairy Alternative Products",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/chkp_food_innovation-logo.webp",
-  "websiteUrl": "https://planterra.com/",
+  "websiteUrl": "https://www.chkpfoods.com/",
   "careersUrl": "https://planterra.com/company/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0473666,
       "lon": 34.8739723
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71544910
 }

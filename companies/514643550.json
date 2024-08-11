@@ -1,10 +1,10 @@
 {
-  "name": "Microsert",
-  "description": "Empowering students with practical MS Office skills and Microsoft MOS certification for a successful future.",
-  "categoryId": 14,
+  "name": "MicroSert",
+  "description": "Intraocular Implant for Sustained Drug Release",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/microsert-logo.webp",
-  "websiteUrl": "https://www.microcert.in/",
+  "websiteUrl": "https://microsert.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7694573,
       "lon": 35.0351795
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18613602
 }

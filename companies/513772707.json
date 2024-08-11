@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.panaya.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "panaya",
   "crunchbaseId": null,
   "finderId": "panaya",
-  "xId": null,
+  "xId": "panaya",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,9 @@
       "lat": 32.13264635,
       "lon": 34.89857182559817
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mypanaya",
+  "linkedinNum": 35280,
+  "comeetId": "panaya/61.00C"
 }

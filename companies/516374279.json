@@ -1,16 +1,16 @@
 {
-  "name": "Reality Debt General Partner",
-  "description": "Display technology for virtual and augmented reality headsets.",
-  "categoryId": 4,
+  "name": "Reality+",
+  "description": "Near Eye Display for Virtual and Augmented Reality Glasses",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/reality_debt_general_partner-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.reality-plus.co",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "reality",
-  "xId": null,
+  "xId": "TheRealityPlus",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.109636,
       "lon": 34.837396
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Reality-519903908435300",
+  "linkedinNum": 12610820
 }

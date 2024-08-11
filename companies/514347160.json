@@ -7,10 +7,10 @@
   "websiteUrl": "https://highcon.net/",
   "careersUrl": "https://www.highcon.net/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "highcon",
   "crunchbaseId": null,
   "finderId": "highcon",
-  "xId": null,
+  "xId": "HighconDart",
   "addresses": [
     {
       "street": "פארן",
@@ -19,5 +19,8 @@
       "lat": 31.8939898,
       "lon": 34.7347034
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Highcon.Euclid",
+  "linkedinNum": 643789
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Zengo",
+  "name": "ZenGo",
   "description": "Experience robust, multi-chain crypto security with an MPC wallet, safeguarding your assets across 120+ cryptoassets and providing 24/7 support.",
   "categoryId": 10,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://zengo.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zengo",
   "crunchbaseId": null,
   "finderId": "kzen-networks",
-  "xId": null,
+  "xId": "zengo",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070693,
       "lon": 34.785176
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZenGoWallet",
+  "linkedinNum": 11805115
 }

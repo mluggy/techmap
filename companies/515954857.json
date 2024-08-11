@@ -1,10 +1,10 @@
 {
-  "name": "Nina Medical",
-  "description": "Technologies for Noninvasive Surgery Guided by Imaging.",
+  "name": "NINA Medical",
+  "description": "Image-guided Noninvasive Surgery Technologies",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/nina_medical-logo.webp",
-  "websiteUrl": "https://ebtmedical.com/",
+  "websiteUrl": "https://ninamed.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "nina-medical",
@@ -19,5 +19,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68198543
 }

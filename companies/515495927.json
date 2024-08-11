@@ -1,10 +1,10 @@
 {
-  "name": "Quartix Finance",
-  "description": "Top provider of vehicle tracking solutions for commercial fleets, with over 600,000 units installed since 2001.",
-  "categoryId": 5,
+  "name": "Quartix",
+  "description": "Cloud-based Solutions for Supply Chain Management",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/quartix_finance-logo.webp",
-  "websiteUrl": "https://www.quartix.com/",
+  "websiteUrl": "https://www.goquartix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0819653,
       "lon": 34.8166806
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 22331461
 }

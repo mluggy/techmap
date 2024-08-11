@@ -1,10 +1,10 @@
 {
   "name": "Gigantic",
-  "description": "Games for mobile devices with an arcade style.",
-  "categoryId": 11,
+  "description": "Mobile Arcade Games",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/gigantic-logo.webp",
-  "websiteUrl": "https://www.gogigantic.com/",
+  "websiteUrl": "https://clawee.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0916612,
       "lon": 34.8571892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ClaweeIsAwesome",
+  "linkedinNum": 18355183
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Planck Resolution",
+  "name": "Planck",
   "description": "A data platform powered by AI designed for the commercial insurance industry.",
   "categoryId": 1,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.planckdata.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "planckdata",
   "crunchbaseId": null,
   "finderId": "planck-re",
-  "xId": null,
+  "xId": "Planckdata",
   "addresses": [
     {
       "street": "ארניה אסוולדו",
@@ -19,5 +19,8 @@
       "lat": 32.0693445,
       "lon": 34.7860947
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "planckresolution",
+  "linkedinNum": 18250977
 }

@@ -1,13 +1,13 @@
 {
   "name": "Vetric Technology",
-  "description": "System for Gathering Data.",
-  "categoryId": 13,
+  "description": "Data Collection Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/vetric_technology-logo.webp",
-  "websiteUrl": "https://www.vectric.com/",
+  "websiteUrl": "https://vetric.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": "vectric-ltd",
+  "linkedinId": "vetric",
   "crunchbaseId": null,
   "finderId": "vetric-technology",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.062837,
       "lon": 34.804812
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 80661971
 }

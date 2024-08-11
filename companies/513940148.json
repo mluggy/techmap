@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "wi-charge",
-  "xId": null,
+  "xId": "wichargeltd",
   "addresses": [
     {
       "street": "פקריס",
@@ -19,5 +19,8 @@
       "lat": 31.9119094,
       "lon": 34.804801
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WiCharge",
+  "linkedinNum": 10459221
 }

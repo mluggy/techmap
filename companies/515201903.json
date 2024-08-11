@@ -1,5 +1,5 @@
 {
-  "name": "Spotinst",
+  "name": "Spot",
   "description": "Empowering operations teams with automation and optimization technology to enhance performance, reduce complexity, and manage cloud costs efficiently.",
   "categoryId": 6,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://spot.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "spothq",
   "crunchbaseId": null,
   "finderId": "spotinst",
-  "xId": null,
+  "xId": "spot_hq",
   "addresses": [
     {
       "street": "אחד העם",
@@ -19,5 +19,8 @@
       "lat": 32.06378,
       "lon": 34.769659
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "spothq",
+  "linkedinNum": 30083623
 }

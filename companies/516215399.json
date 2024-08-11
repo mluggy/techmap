@@ -1,5 +1,5 @@
 {
-  "name": "Jit Security",
+  "name": "JIT Security",
   "description": "Offering rapid, comprehensive security plans that integrate CI/CD tools and vulnerability monitoring for seamless application and cloud protection.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "jit-security",
-  "xId": null,
+  "xId": "jit_io",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070524,
       "lon": 34.786887
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "thejitcompany",
+  "linkedinNum": 76113252
 }

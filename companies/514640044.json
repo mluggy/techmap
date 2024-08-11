@@ -1,5 +1,5 @@
 {
-  "name": "Spivitech",
+  "name": "SpiviTech",
   "description": "Our website enhances user experience by remembering preferences, ensuring functionality and security, personalizing your visit, and analyzing traffic.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "spivitech",
-  "xId": null,
+  "xId": "spivitech",
   "addresses": [
     {
       "street": "השקמה",
@@ -19,5 +19,8 @@
       "lat": 32.0320199,
       "lon": 34.7973339
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "spivitech",
+  "linkedinNum": 720922
 }

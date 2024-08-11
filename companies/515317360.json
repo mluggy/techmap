@@ -10,7 +10,7 @@
   "linkedinId": "bringoz",
   "crunchbaseId": "bringoz",
   "finderId": "bringoz-technologies",
-  "xId": null,
+  "xId": "bringoz_app",
   "addresses": [
     {
       "street": "ילין מור נתן",
@@ -19,5 +19,8 @@
       "lat": 32.06902338218648,
       "lon": 34.791230491362704
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bringoz",
+  "linkedinNum": 10061386
 }

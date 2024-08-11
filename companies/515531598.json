@@ -1,10 +1,10 @@
 {
-  "name": "Virucure Therapeutics",
-  "description": "A technology platform utilizing oncolytic viruses for cancer treatment.",
+  "name": "ViruCure Therapeutics",
+  "description": "Oncolytic Virus-based Technology Platform for Treating Cancer",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/virucure_therapeutics-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.ViruCure.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "virucure-therapeutics",
@@ -19,5 +19,7 @@
       "lat": 32.1727607,
       "lon": 34.8930781
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27225236
 }

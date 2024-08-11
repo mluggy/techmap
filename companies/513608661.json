@@ -1,5 +1,5 @@
 {
-  "name": "Pipl Search",
+  "name": "Pipl",
   "description": "Providing top-notch identity information to organizations to ensure reliability and trustworthiness.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "pipl",
-  "xId": null,
+  "xId": "pipl_com",
   "addresses": [
     {
       "street": "ברט אהרון",
@@ -19,5 +19,7 @@
       "lat": 32.101395,
       "lon": 34.8613485
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1315565
 }

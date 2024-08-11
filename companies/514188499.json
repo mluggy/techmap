@@ -1,5 +1,5 @@
 {
-  "name": "Emaze Visual Software Systems",
+  "name": "Emaze",
   "description": "Generate stunning visuals and presentations with AI-powered templates for diverse content creation needs.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "emaze",
-  "xId": null,
+  "xId": "emaze_tweets",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.109818,
       "lon": 34.841254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "emazepresentations",
+  "linkedinNum": 3148773
 }

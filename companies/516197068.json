@@ -1,10 +1,10 @@
 {
-  "name": "Event Place",
-  "description": "This premier Manila venue elevates any occasion with versatile event spaces for 30 to 250 guests.",
-  "categoryId": 9,
+  "name": "EventPlace",
+  "description": "Online Events Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/event_place-logo.webp",
-  "websiteUrl": "https://www.55eventsplace.com/",
+  "websiteUrl": "https://www.eventplace.gnss-lp.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.784739,
       "lon": 35.0048583
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EventPlace.tech",
+  "linkedinNum": 42407157
 }

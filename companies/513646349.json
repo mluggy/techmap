@@ -1,10 +1,10 @@
 {
   "name": "Velocity",
-  "description": "Offering complimentary membership, this frequent flyer program lets members earn and redeem points and status credits through an extensive network of partners and Virgin Australia flights.",
-  "categoryId": 3,
+  "description": "Developer Environment Tools",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/velocity-logo.webp",
-  "websiteUrl": "https://www.velocityfrequentflyer.com/",
+  "websiteUrl": "https://velocity.tech",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1836157,
       "lon": 34.8870355
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "increasevelocity",
+  "linkedinNum": 70392839
 }

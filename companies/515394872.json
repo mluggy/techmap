@@ -1,5 +1,5 @@
 {
-  "name": "Outsense Diagnostics",
+  "name": "OutSense Diagnostics",
   "description": "OutSense Diagnostics is an Israeli start-up that uses IoT technology to detect health issues early by analyzing human waste in toilets, alerting caregivers to deviations.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.107261,
       "lon": 34.835765
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67880845
 }

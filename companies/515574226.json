@@ -1,10 +1,10 @@
 {
-  "name": "Opa Consulting Investment",
-  "description": "A cozy Greek mini-chain offering a lively atmosphere with traditional dishes like gyros, souvlaki, and moussaka.",
-  "categoryId": 9,
+  "name": "OPA",
+  "description": "Mobile Platform for Reusable Food Packaging",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/opa_consulting_investment-logo.webp",
-  "websiteUrl": "http://www.opaauthenticgreek.com/",
+  "websiteUrl": "https://www.opaglobal.io/en/home",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7676494,
       "lon": 35.2070188
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OPA.ISR"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Reblaze Technologies",
+  "name": "Reblaze",
   "description": "A comprehensive and quick-to-deploy cloud-native solution for web application and API protection.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "reblaze",
-  "xId": null,
+  "xId": "reblaze",
   "addresses": [
     {
       "street": "גלגלי הפלדה",
@@ -19,5 +19,8 @@
       "lat": 32.1726475,
       "lon": 34.8071901
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "reblazetech",
+  "linkedinNum": 2622803
 }

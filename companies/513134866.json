@@ -1,10 +1,10 @@
 {
   "name": "Easy Line",
-  "description": "Focused on unique food items and health supplements.",
-  "categoryId": 9,
+  "description": "Specialized Food Products and Nutritional Supplements",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/easy_line-logo.webp",
-  "websiteUrl": "https://www.easylineapp.com/",
+  "websiteUrl": "https://easyline.co.il/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.4857297,
       "lon": 34.9462968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "%D7%97%D7%91%D7%A8%D7%AA-%D7%90%D7%99%D7%96%D7%99-%D7%9C%D7%99%D7%99%D7%9F-142210735963234"
 }

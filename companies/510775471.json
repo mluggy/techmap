@@ -1,10 +1,10 @@
 {
-  "name": "Ispra By E I",
-  "description": "Join school PR professionals and the ISPRA board for the 2024 Spring Conference in Clive, Iowa.",
-  "categoryId": 14,
+  "name": "ISPRA",
+  "description": "Non-lethal Devices for Crowd Management",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/ispra_by_e_i-logo.webp",
-  "websiteUrl": "https://ispra.org/",
+  "websiteUrl": "https://www.ispraltd.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.5691337,
       "lon": 34.9601594
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1653418
 }

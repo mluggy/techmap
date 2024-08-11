@@ -1,5 +1,5 @@
 {
-  "name": "Tipalti Solutions",
+  "name": "Tipalti",
   "description": "Tipalti offers fully automated payables solutions that streamline and enhance business efficiency at scale.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "tipalti",
   "crunchbaseId": null,
   "finderId": "tipalti",
-  "xId": null,
+  "xId": "tipalti",
   "addresses": [
     {
       "street": "רוזן פנחס",
@@ -19,5 +19,9 @@
       "lat": 32.1072592,
       "lon": 34.8273286
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Tipalti",
+  "linkedinNum": 1770643,
+  "greenhouseId": "tipaltisolutions"
 }

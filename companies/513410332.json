@@ -1,10 +1,10 @@
 {
-  "name": "Tethys Medical Devices",
-  "description": "A forward-thinking solar energy company in Reading known for its dynamic team of friendly professionals.",
+  "name": "Tethys Solar Desalination",
+  "description": "Solar-powered Desalination and Water Treatment Plants",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/tethys_medical_devices-logo.webp",
-  "websiteUrl": "https://www.tethys-energy.com/",
+  "websiteUrl": "https://tethysdesal.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "tsd-desalonation",
@@ -19,5 +19,8 @@
       "lat": 31.2297179,
       "lon": 34.7945363
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tsddesalination",
+  "linkedinNum": 5894756
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Littleone Care",
+  "name": "LittleOne.Care",
   "description": "A top-rated 2023 baby monitor using AI to deliver 24/7 real-time alerts and parenting tips for your child's safety and happiness.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "littleone-care",
-  "xId": null,
+  "xId": "littleonecare",
   "addresses": [
     {
       "street": "שד' בן ציון",
@@ -19,5 +19,8 @@
       "lat": 32.073701,
       "lon": 34.776519
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "little1care",
+  "linkedinNum": 20555634
 }

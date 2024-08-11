@@ -1,5 +1,5 @@
 {
-  "name": "Cybeready Learning Solutions",
+  "name": "CybeReady",
   "description": "Providing the fastest and most effective security awareness training trusted by top organizations worldwide.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "cybeready",
   "crunchbaseId": "cybeready",
   "finderId": "cybeready",
-  "xId": null,
+  "xId": "cybeready",
   "addresses": [
     {
       "street": "רב אשי",
@@ -19,5 +19,8 @@
       "lat": 32.121132,
       "lon": 34.79758
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AutonomousTraining",
+  "linkedinNum": 5307429
 }

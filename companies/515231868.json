@@ -1,15 +1,18 @@
 {
-  "name": "Funzing International",
-  "description": "A platform for exploring, sharing, and creating unique local experiences and activities in your city.",
+  "name": "Funzing",
+  "description": "Community Marketplace to Share Creativity",
   "categoryId": 9,
   "size": "s",
   "logoFile": "logos/funzing_international-logo.webp",
-  "websiteUrl": "https://www.funzing.com/",
+  "websiteUrl": "https://il.funzing.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "funzing",
-  "xId": null,
-  "addresses": []
+  "xId": "iFunzing",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "Funzing",
+  "linkedinNum": 3338342
 }

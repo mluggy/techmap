@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "imagindairy",
-  "xId": null,
+  "xId": "imagindairy",
   "addresses": [
     {
       "street": "חת נחום",
@@ -19,5 +19,7 @@
       "lat": 32.7845356,
       "lon": 34.9577195
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68846529
 }

@@ -10,7 +10,7 @@
   "linkedinId": "tagado",
   "crunchbaseId": null,
   "finderId": "tagado",
-  "xId": null,
+  "xId": "TagadoTeam",
   "addresses": [
     {
       "street": "דרך השלום",
@@ -19,5 +19,8 @@
       "lat": 32.072245,
       "lon": 34.796049
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100068971369092",
+  "linkedinNum": 43329384
 }

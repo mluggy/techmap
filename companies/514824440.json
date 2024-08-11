@@ -1,0 +1,25 @@
+{
+  "name": "Aero Sentinel",
+  "description": "UAV Systems for Military and Police Applications",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/aero-sentinel.webp",
+  "websiteUrl": "https://www.aero-sentinel.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 7951242,
+  "crunchbaseId": null,
+  "finderId": "aero-sentinel",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "מודיעין",
+      "houseNumber": 16,
+      "city": "פתח תקווה",
+      "lat": 32.10951108260134,
+      "lon": 34.896356653312274
+    }
+  ],
+  "isMultinational": false
+}

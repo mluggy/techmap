@@ -1,16 +1,16 @@
 {
   "name": "Base",
-  "description": "A leading academic search engine encompassing over 340 million scientific documents from more than 11,000 content providers.",
+  "description": "Self-service Marketing and Advertising Tools for B2B Businesses",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/base-logo.webp",
-  "websiteUrl": "https://www.base-search.net/",
+  "websiteUrl": "https://base.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "crowdvocate",
-  "xId": null,
+  "xId": "base_CLG",
   "addresses": [
     {
       "street": "הטחנה",
@@ -19,5 +19,8 @@
       "lat": 32.1727607,
       "lon": 34.8930781
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "crowdvocate",
+  "linkedinNum": 18013482
 }

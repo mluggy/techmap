@@ -1,5 +1,5 @@
 {
-  "name": "Vilog",
+  "name": "ViLOG",
   "description": "Providing a seamless and intelligent solution for automotive logistics, this company streamlines vehicle tracking and supply chain optimization without the need for complex setups or training.",
   "categoryId": 5,
   "size": "s",
@@ -19,5 +19,6 @@
       "lat": 32.0707597,
       "lon": 34.7892768
     }
-  ]
+  ],
+  "isMultinational": false
 }

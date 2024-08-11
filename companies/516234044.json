@@ -1,5 +1,5 @@
 {
-  "name": "Incrmntal",
+  "name": "INCRMNTAL",
   "description": "This platform leverages Causal AI to help advertisers accurately measure and optimize the impact of any marketing channel while ensuring user privacy.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "incrmntal",
   "crunchbaseId": "incrmntal",
   "finderId": "incrmntal",
-  "xId": null,
+  "xId": "incrmntal",
   "addresses": [
     {
       "street": "הערמונים",
@@ -19,5 +19,8 @@
       "lat": 32.09211235305837,
       "lon": 34.81226337303619
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "incrmntal",
+  "linkedinNum": 67150299
 }

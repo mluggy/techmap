@@ -1,10 +1,10 @@
 {
-  "name": "Circuit Bio",
-  "description": "A synthetic biology firm advancing gene circuit technology for targeted cancer immunotherapy, leveraging a platform that enables the production of immune-stimulating proteins.",
+  "name": "Circuit-Bio",
+  "description": "Platform of Logical Gene Circuits for Cancer Immunotherapy",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/circuit_bio-logo.webp",
-  "websiteUrl": "https://circuitbiotech.com/",
+  "websiteUrl": "https://www.futurx.co.il/portfolio/circuit-bio/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.9177299,
       "lon": 34.80439671200948
     }
-  ]
+  ],
+  "isMultinational": false
 }

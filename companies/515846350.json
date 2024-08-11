@@ -1,15 +1,17 @@
 {
   "name": "Hypnos Surgical",
-  "description": "Device designed to treat obstructive sleep apnea.",
+  "description": "Implant for Treating Obstructive Sleep Apnea",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/hypnos_surgical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://hypnos-surgical.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "hypnos-surgical",
   "finderId": "hypnos-surgical",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "linkedinNum": 28644762
 }

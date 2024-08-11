@@ -1,5 +1,5 @@
 {
-  "name": "Tipranks",
+  "name": "TipRanks",
   "description": "A platform for evaluating the reliability and performance of stock market analysts and bloggers.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tipranks",
-  "xId": null,
+  "xId": "TipRanks",
   "addresses": [
     {
       "street": "ויצמן",
@@ -19,5 +19,8 @@
       "lat": 32.0776132,
       "lon": 34.7891243
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TipRanks",
+  "linkedinNum": 2858966
 }

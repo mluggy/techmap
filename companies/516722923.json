@@ -1,10 +1,10 @@
 {
   "name": "Pelanor",
-  "description": "We develop Web3 technologies aimed at enhancing global prosperity and well-being through innovative solutions and research.",
-  "categoryId": 10,
+  "description": "Cloud Cost Management",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/pelanor-logo.webp",
-  "websiteUrl": "https://www.pelanor.org/",
+  "websiteUrl": "https://pelanor.io/",
   "careersUrl": "https://www.pelanor.org/jobs",
   "isHiring": true,
   "linkedinId": "pelanor",
@@ -19,5 +19,7 @@
       "lat": 32.064654,
       "lon": 34.785584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 88433461
 }

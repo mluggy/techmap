@@ -1,10 +1,10 @@
 {
-  "name": "Appush Technologies",
-  "description": "Linking advertisers with creators of mobile games.",
-  "categoryId": 2,
+  "name": "Appush",
+  "description": "Connecting Advertisers with Mobile Game Publishers",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/appush_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://appush.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.064462,
       "lon": 34.773844
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27162365
 }

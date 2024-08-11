@@ -1,16 +1,16 @@
 {
   "name": "Seller Snap",
-  "description": "Manage and grow your online business with seamless order processing, scheduling, and quick payment solutions through our seller platform and mobile app, reaching millions across India.",
-  "categoryId": 9,
+  "description": "AI-based Amazon Repricer",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/seller_snap-logo.webp",
-  "websiteUrl": "https://seller.snapdeal.com/",
+  "websiteUrl": "https://sellersnap.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "seller-snap",
-  "xId": null,
+  "xId": "sellersnap_io",
   "addresses": [
     {
       "street": "פדויים",
@@ -19,5 +19,8 @@
       "lat": 32.156284,
       "lon": 34.9022055
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sellersnap.io",
+  "linkedinNum": 16158118
 }

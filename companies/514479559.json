@@ -1,10 +1,10 @@
 {
-  "name": "Unfo Med",
-  "description": "Provides innovative braces for newborns to treat inward deviation of the metatarsal bone, certified by the FDA and CE.",
+  "name": "UNFO Med",
+  "description": "Neonatal Foot Orthotics",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/unfo_med-logo.webp",
-  "websiteUrl": "https://unfo-med.co.il/",
+  "websiteUrl": "https://www.unfo-med.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0209631,
       "lon": 34.7718765
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "UNFOMed",
+  "linkedinNum": 18357876
 }

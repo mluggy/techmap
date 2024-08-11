@@ -1,5 +1,5 @@
 {
-  "name": "Red Hat Israel",
+  "name": "Red Hat",
   "description": "Red Hat is a leading provider of open-source enterprise software solutions, including Linux, cloud, container, and Kubernetes technologies.",
   "categoryId": 6,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "red-hat",
   "crunchbaseId": null,
   "finderId": "red-hat",
-  "xId": null,
+  "xId": "RedHat",
   "addresses": [
     {
       "street": "הפנינה",
@@ -19,5 +19,8 @@
       "lat": 32.1760349,
       "lon": 34.8903837
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "redhat.il",
+  "linkedinNum": 3545
 }

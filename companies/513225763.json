@@ -1,0 +1,26 @@
+{
+  "name": "Faye",
+  "description": "Whole-trip Travel Insurance",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "logos/faye.webp",
+  "websiteUrl": "https://www.withfaye.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 48184157,
+  "crunchbaseId": null,
+  "finderId": "faye",
+  "xId": "FayeTravel",
+  "facebookId": "FayeTravelInsurance",
+  "addresses": [
+    {
+      "street": "דודו דותן",
+      "houseNumber": 4,
+      "city": "נתניה",
+      "lat": 32.2760320582231,
+      "lon": 34.842743705493284
+    }
+  ],
+  "isMultinational": false,
+  "linkedinId": "fayetravelinsurance"
+}

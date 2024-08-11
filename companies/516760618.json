@@ -1,5 +1,5 @@
 {
-  "name": "Chiefy Technologies",
+  "name": "Chiefy",
   "description": "A cloud-based platform facilitating seamless collaboration among surgical teams and healthcare professionals.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "chiefyteam",
   "crunchbaseId": null,
   "finderId": "chiefy",
-  "xId": null,
+  "xId": "Chiefyteam",
   "addresses": [
     {
       "street": "עמיר",
@@ -19,5 +19,7 @@
       "lat": 32.1561973,
       "lon": 34.8510007
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 70416831
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Coretigo",
+  "name": "CoreTigo",
   "description": "Providing advanced wireless control solutions to enhance operational efficiency and production optimization across diverse industries.",
   "categoryId": 13,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "coretigo",
   "crunchbaseId": null,
   "finderId": "coretigo",
-  "xId": null,
+  "xId": "coretigo",
   "addresses": [
     {
       "street": "גיבורי ישראל",
@@ -19,5 +19,8 @@
       "lat": 32.280749,
       "lon": 34.8607191
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Coretigo",
+  "linkedinNum": 18096648
 }

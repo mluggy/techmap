@@ -1,5 +1,5 @@
 {
-  "name": "Rspct Basketball Technologies",
+  "name": "RSPCT Basketball Technologies",
   "description": "A system that leverages an optical sensor on the backboard to provide comprehensive basketball shooting analytics, including origin, arc, accuracy, and more.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rspct-basketball-technologies",
-  "xId": null,
+  "xId": "rspctbasketball",
   "addresses": [
     {
       "street": "סנהדרין",
@@ -19,5 +19,8 @@
       "lat": 32.09721,
       "lon": 34.796858
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rspctbasketball",
+  "linkedinNum": 18142098
 }

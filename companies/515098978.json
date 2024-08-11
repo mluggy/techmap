@@ -1,16 +1,16 @@
 {
-  "name": "Clickspree Performance",
-  "description": "Intelligent Video Analysis Platform.",
-  "categoryId": 1,
+  "name": "ClickSpree",
+  "description": "Video Analytics Solution",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/clickspree_performance-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://clickspree.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "clickspree",
   "crunchbaseId": "clickspree",
   "finderId": "clickspree",
-  "xId": null,
+  "xId": "GoClickSpree",
   "addresses": [
     {
       "street": "ציפמן",
@@ -19,5 +19,7 @@
       "lat": 32.1859111,
       "lon": 34.8816712
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 6397983
 }

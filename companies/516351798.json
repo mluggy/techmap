@@ -10,7 +10,7 @@
   "linkedinId": "spinflex-instruments-ltd",
   "crunchbaseId": null,
   "finderId": "spinflex-instruments",
-  "xId": null,
+  "xId": "spinflex",
   "addresses": [
     {
       "street": "צה\"ל",
@@ -19,5 +19,7 @@
       "lat": 31.6650517,
       "lon": 34.5890747
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2279770394
 }

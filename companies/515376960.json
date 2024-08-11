@@ -1,5 +1,5 @@
 {
-  "name": "Cassit Orthopedics",
+  "name": "Cassit",
   "description": "A comprehensive platform offering information, team insights, products, training, and regulatory details.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.057708,
       "lon": 34.764336
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CassitIsrael",
+  "linkedinNum": 14063237
 }

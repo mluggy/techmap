@@ -1,5 +1,5 @@
 {
-  "name": "Wolt Enterprises Israel",
+  "name": "Wolt",
   "description": "An Apple-awarded delivery app offering selections from over 40,000 restaurants and numerous stores across 20+ countries.",
   "categoryId": 9,
   "size": "xl",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://wolt.com/",
   "careersUrl": "https://careers.wolt.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "wolt-oy",
   "crunchbaseId": null,
   "finderId": "wolt",
-  "xId": null,
+  "xId": "woltapp",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.066331,
       "lon": 34.786433
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Wolt-100511894917083",
+  "linkedinNum": 3995846
 }

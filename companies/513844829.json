@@ -1,10 +1,10 @@
 {
-  "name": "Go Smart",
-  "description": "Enjoy free delivery within Hong Kong on orders over HKD$400 from GoSmart's online store.",
-  "categoryId": 9,
+  "name": "GoSmart",
+  "description": "AI-based Aquaculture Management",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/go_smart-logo.webp",
-  "websiteUrl": "https://gosmarthk.com/",
+  "websiteUrl": "https://www.gosmartfarming.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2692936,
       "lon": 34.8909431
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64624006
 }

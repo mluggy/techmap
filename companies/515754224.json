@@ -1,5 +1,5 @@
 {
-  "name": "Autofleet Systems",
+  "name": "AutoFleet",
   "description": "A comprehensive software solution enhancing transportation service efficiency, dependability, and sustainability for fleet and mobility providers.",
   "categoryId": 5,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "autofleet",
   "crunchbaseId": "autofleet-tel-aviv-israel",
   "finderId": "autofleet",
-  "xId": null,
+  "xId": "autofleet_io",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.066645,
       "lon": 34.78582
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "autofleet.io",
+  "linkedinNum": 11456468
 }

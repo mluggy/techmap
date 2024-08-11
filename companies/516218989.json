@@ -1,5 +1,5 @@
 {
-  "name": "Userway",
+  "name": "UserWay",
   "description": "Offers an AI-powered tool for automatically identifying and fixing code errors to ensure web accessibility and compliance with ADA and WCAG standards, suitable for any budget and user needs.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "userway",
-  "xId": null,
+  "xId": "UserWayOrg",
   "addresses": [
     {
       "street": "בני בנימין",
@@ -19,5 +19,8 @@
       "lat": 32.2677732,
       "lon": 34.8861844
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "UserWay",
+  "linkedinNum": 11024774
 }

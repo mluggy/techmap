@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "toonimo",
-  "xId": null,
+  "xId": "toonimo",
   "addresses": [
     {
       "street": "דרך השלום",
@@ -19,5 +19,8 @@
       "lat": 32.072245,
       "lon": 34.796049
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "toonimoanimation",
+  "linkedinNum": 3305762
 }

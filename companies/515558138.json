@@ -1,5 +1,5 @@
 {
-  "name": "Sayata Labs",
+  "name": "Sayata",
   "description": "Sayata streamlines the process of placing SMB risks with an intuitive platform for discovering, presenting, and binding coverage efficiently.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "sayatainsurance",
   "crunchbaseId": "sayata-labs",
   "finderId": "sayata-labs",
-  "xId": null,
+  "xId": "sayatalabs",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,7 @@
       "lat": 32.074132,
       "lon": 34.782006
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27037694
 }

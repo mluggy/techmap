@@ -1,10 +1,10 @@
 {
   "name": "Conqum Systems",
-  "description": "A cutting-edge technology firm specializing in innovative systems solutions.",
-  "categoryId": 5,
+  "description": "Construction Quality Management System",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/conqum_systems-logo.webp",
-  "websiteUrl": "https://conqum.co.il/",
+  "websiteUrl": "https://conqum-ltd.com/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "conqum-systems-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.8307517,
       "lon": 35.0812287
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "conqum",
+  "linkedinNum": 72615744
 }

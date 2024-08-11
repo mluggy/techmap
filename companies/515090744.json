@@ -1,10 +1,10 @@
 {
-  "name": "With Love Internet",
-  "description": "Help businesses acquire desired properties swiftly and confidentially with expert assistance.",
-  "categoryId": 9,
+  "name": "with",
+  "description": "Management Platform for Online Communities",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/with_love_internet-logo.webp",
-  "websiteUrl": "https://with.co/",
+  "websiteUrl": "https://bewith.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "withco",
@@ -19,5 +19,7 @@
       "lat": 31.7861729,
       "lon": 35.2055856
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 49129969
 }

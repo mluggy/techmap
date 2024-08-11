@@ -1,16 +1,16 @@
 {
-  "name": "Pilltracker 2015",
+  "name": "PillTracker",
   "description": "We facilitate patient adherence to medication schedules through notifications and connect them to their healthcare network.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/pilltracker_2015-logo.webp",
-  "websiteUrl": "http://www.pilltracker.com/",
+  "websiteUrl": "https://www.pilltracker.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "pilltrackerltd",
   "crunchbaseId": "pilltracker-ltd",
   "finderId": "pilltracker",
-  "xId": null,
+  "xId": "Pilltracker",
   "addresses": [
     {
       "street": "הפלך",
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PillTrackerLtd",
+  "linkedinNum": 10967337
 }

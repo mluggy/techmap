@@ -1,5 +1,5 @@
 {
-  "name": "Ptvisor",
+  "name": "PTvisor",
   "description": "Explore our website to discover everything we offer and feel free to reach out to us.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.97702429971282,
       "lon": 35.33565325619027
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PTvisor",
+  "linkedinNum": 69745445
 }

@@ -4,7 +4,7 @@
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/biskits_technologies-logo.webp",
-  "websiteUrl": "https://biskits.co.il/?lang=en",
+  "websiteUrl": "https://biskits.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "biskits",
@@ -19,5 +19,8 @@
       "lat": 32.0589616,
       "lon": 34.86052815253146
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BiskitsTech",
+  "linkedinNum": 19210020
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Bmc Software Israel",
+  "name": "BMC Software",
   "description": "Boosting businesses through integrated AI-driven solutions for seamless service and operations.",
   "categoryId": 1,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "bmc-software",
   "crunchbaseId": null,
   "finderId": "bmc-software",
-  "xId": null,
+  "xId": "BMCSoftware",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.107131,
       "lon": 34.837026
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "BMC.Software.Israel",
+  "linkedinNum": 1597
 }

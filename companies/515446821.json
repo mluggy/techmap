@@ -1,5 +1,5 @@
 {
-  "name": "Sunbit Payment Software",
+  "name": "Sunbit",
   "description": "This technology enables thousands daily to manage unexpected expenses by offering flexible, pay-over-time solutions with a high approval rate.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "sunbit",
   "crunchbaseId": null,
   "finderId": "sunbit",
-  "xId": null,
+  "xId": "sunbit_fintech",
   "addresses": [
     {
       "street": "המלאכה",
@@ -26,5 +26,8 @@
       "lat": 32.0542088,
       "lon": 34.7916411
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sunbitfintech",
+  "linkedinNum": 7932639
 }

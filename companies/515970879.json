@@ -1,5 +1,5 @@
 {
-  "name": "N T Tao",
+  "name": "nT-Tao",
   "description": "Developing a scalable, compact fusion reactor to provide 10-20 MW of clean, affordable energy, suitable for diverse power applications.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nt-tao",
-  "xId": null,
+  "xId": "nTtaoFusion",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,7 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 91681294
 }

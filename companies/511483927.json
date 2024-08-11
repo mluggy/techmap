@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "medoc",
-  "xId": null,
+  "xId": "MedocMedicalSys",
   "addresses": [
     {
       "street": "הדקל",
@@ -19,5 +19,8 @@
       "lat": 32.7061453,
       "lon": 35.1728937
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Medoc-Ltd-1606885802869196",
+  "linkedinNum": 132371
 }

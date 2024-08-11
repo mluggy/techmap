@@ -1,5 +1,5 @@
 {
-  "name": "Slauth Io",
+  "name": "Slauth.io",
   "description": "This IAM Policy Copilot automates secure policy generation for new micro-services based on their activity, offering rapid, PR-based implementation and Terraform support.",
   "categoryId": 7,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.086149,
       "lon": 34.778728
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 83017967
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Weezmo Technologies",
+  "name": "Weezmo",
   "description": "Providing a comprehensive omnichannel retail solution with connectivity to over 400 POS systems and enhanced post-purchase engagement.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "weezmo",
   "crunchbaseId": "weezmo",
   "finderId": "weezmo",
-  "xId": null,
+  "xId": "officialweezmo",
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -19,5 +19,8 @@
       "lat": 32.1630763,
       "lon": 34.8150141
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "weezmo.com.ua",
+  "linkedinNum": 17893675
 }

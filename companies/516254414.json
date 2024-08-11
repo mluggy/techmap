@@ -1,5 +1,5 @@
 {
-  "name": "Sightfull Insights",
+  "name": "Sightfull.",
   "description": "This platform enables SaaS companies to swiftly analyze and optimize revenue flows by fully harnessing their business data.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "sightfull",
   "crunchbaseId": "sightfull",
   "finderId": "sightfull",
-  "xId": null,
+  "xId": "SightfullCo",
   "addresses": [
     {
       "street": "קפלן",
@@ -19,5 +19,7 @@
       "lat": 32.073213,
       "lon": 34.783298
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76506865
 }

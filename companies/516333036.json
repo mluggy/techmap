@@ -1,10 +1,10 @@
 {
   "name": "Head Habitat",
-  "description": "Evaluation of Data in Mental Health Services.",
-  "categoryId": 12,
+  "description": "Mental Healthcare Data Analysis",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/head_habitat-logo.webp",
-  "websiteUrl": "https://www.lowcountryhabitat.org/",
+  "websiteUrl": "https://headhabitat.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0884919,
       "lon": 34.8097739
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74368354
 }

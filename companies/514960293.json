@@ -1,10 +1,10 @@
 {
-  "name": "Technoso Control Systems",
-  "description": "System for Managing Parking.",
-  "categoryId": 13,
+  "name": "Technoso",
+  "description": "Parking Management System",
+  "categoryId": 5,
   "size": "s",
   "logoFile": "logos/technoso_control_systems-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://technoso.co.il/en/home-en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "technoso",
@@ -19,5 +19,8 @@
       "lat": 31.8863191,
       "lon": 34.73453
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "technoso.co.il",
+  "linkedinNum": 52077456
 }

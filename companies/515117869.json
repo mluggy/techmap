@@ -1,10 +1,10 @@
 {
-  "name": "Tradegel",
-  "description": "Solution for Skin Protection Against Bacteria.",
+  "name": "TradeGel",
+  "description": "Antibacterial Skin Protection Solution",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/tradegel-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://hetromistin.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0839116,
       "lon": 34.85842
     }
-  ]
+  ],
+  "isMultinational": false
 }

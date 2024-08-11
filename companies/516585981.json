@@ -1,10 +1,10 @@
 {
-  "name": "Inreal Io",
-  "description": "Bridging the Gap Between Brands and Web3 Technology.",
-  "categoryId": 4,
+  "name": "Inreal.IO",
+  "description": "Connecting Brands to Web3",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/inreal_io-logo.webp",
-  "websiteUrl": "https://www.realeye.io/",
+  "websiteUrl": "https://inreal.io/",
   "careersUrl": "https://imply.io/careers/",
   "isHiring": true,
   "linkedinId": "inreal-technologies-gmbh",
@@ -19,5 +19,6 @@
       "lat": 32.072032,
       "lon": 34.781101
     }
-  ]
+  ],
+  "isMultinational": false
 }

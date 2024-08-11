@@ -1,0 +1,25 @@
+{
+  "name": "Procter & Gamble",
+  "description": null,
+  "categoryId": 9,
+  "size": "xl",
+  "logoFile": "logos/procter-gamble.webp",
+  "websiteUrl": "https://www.pgisrael.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 1116,
+  "crunchbaseId": null,
+  "finderId": "procter-gamble",
+  "xId": "proctergamble",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.109925104797036,
+      "lon": 34.839271894868304
+    }
+  ],
+  "isMultinational": true
+}

@@ -10,7 +10,7 @@
   "linkedinId": "naval-dome",
   "crunchbaseId": "naval-dome",
   "finderId": "naval-dome",
-  "xId": null,
+  "xId": "DomeNaval",
   "addresses": [
     {
       "street": "התדהר",
@@ -19,5 +19,7 @@
       "lat": 32.19630935,
       "lon": 34.88423473965118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27146023
 }

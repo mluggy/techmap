@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "perflow-medical",
-  "xId": null,
+  "xId": "PerflowM",
   "addresses": [
     {
       "street": "הצורן",
@@ -19,5 +19,8 @@
       "lat": 32.2863673,
       "lon": 34.8653462
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "perflowmedical",
+  "linkedinNum": 18872166
 }

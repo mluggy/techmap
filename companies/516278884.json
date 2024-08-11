@@ -1,5 +1,5 @@
 {
-  "name": "Liquid 360",
+  "name": "Liquid360",
   "description": "Leveraging elite Israeli security expertise, our team designs and supervises advanced security systems for high-risk environments.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "liquid-360",
   "finderId": "liquid360",
-  "xId": null,
+  "xId": "360Liquid",
   "addresses": [
     {
       "street": "הסיבים",
@@ -19,5 +19,7 @@
       "lat": 32.0916612,
       "lon": 34.8571892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 53419814
 }

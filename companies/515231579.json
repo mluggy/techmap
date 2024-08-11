@@ -1,16 +1,16 @@
 {
-  "name": "Solomoto Il",
-  "description": "Offering a premium selection of motorcycle gear and protective equipment for riders, including clothing and helmets.",
-  "categoryId": 9,
+  "name": "Solomoto",
+  "description": "SaaS Platform for SMBs",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/solomoto_il-logo.webp",
-  "websiteUrl": "https://solomotoparts.com/",
+  "websiteUrl": "https://www.solomoto.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "solomoto",
-  "xId": null,
+  "xId": "SolomotoGlobal",
   "addresses": [
     {
       "street": "דרך האגמים",
@@ -19,5 +19,8 @@
       "lat": 32.0630352,
       "lon": 34.869824
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "solomotoglobal",
+  "linkedinNum": 3691792
 }

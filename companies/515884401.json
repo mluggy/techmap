@@ -1,5 +1,5 @@
 {
-  "name": "Lynx Md",
+  "name": "Lynx.MD",
   "description": "Enabling seamless access to real-world patient data, this company accelerates medical innovations, enhances care, and reduces costs for practices, medtech, and life science organizations.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,8 @@
   "linkedinId": "lynx-md",
   "crunchbaseId": null,
   "finderId": "lynx-md",
-  "xId": null,
+  "xId": "lynx_md",
+  "breezyId": "lynx-md",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +20,7 @@
       "lat": 32.0693611,
       "lon": 34.7836244
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 33520400
 }

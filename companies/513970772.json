@@ -1,5 +1,5 @@
 {
-  "name": "Eyecue Vision Technologies",
+  "name": "EyeCue Vision Technologies",
   "description": "EyeCue specializes in creating affordable vision recognition technology tailored for toys and games.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "eyecue",
-  "xId": null,
+  "xId": "intent",
   "addresses": [
     {
       "street": "הצמיחה",
@@ -19,5 +19,8 @@
       "lat": 32.668888,
       "lon": 35.107009
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "QloneApp",
+  "linkedinNum": 2197886
 }

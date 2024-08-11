@@ -1,16 +1,16 @@
 {
-  "name": "Maapilim 4 6 Ashdod",
-  "description": "Authentic Mediterranean Personal Care Products.",
-  "categoryId": 9,
+  "name": "Maapilim",
+  "description": "Natural Mediterranean Grooming Products",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/maapilim_4_6_ashdod-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://maapilim.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "maapilim",
-  "xId": null,
+  "xId": "maapilim",
   "addresses": [
     {
       "street": "הגדוד העברי",
@@ -19,5 +19,8 @@
       "lat": 31.7919633,
       "lon": 34.6394279
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "maapilim",
+  "linkedinNum": 30151802
 }

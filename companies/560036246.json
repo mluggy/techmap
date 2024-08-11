@@ -1,5 +1,5 @@
 {
-  "name": "Coti",
+  "name": "COTI",
   "description": "A next-generation fintech platform enabling decentralized payment solutions and digital currency transactions.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "coti",
-  "xId": null,
+  "xId": "COTInetwork",
   "addresses": [
     {
       "street": "הירקון",
@@ -19,5 +19,8 @@
       "lat": 32.0955017,
       "lon": 34.8234431
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "COTInetwork",
+  "linkedinNum": 25171228
 }

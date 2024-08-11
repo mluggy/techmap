@@ -1,10 +1,10 @@
 {
   "name": "Neox",
-  "description": "A comprehensive range of skincare products catering to all ages, skin types, and conditions, ensuring significant and real results.",
+  "description": "Early Detection of Deterioration in Preterm Neonates",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/neox-logo.webp",
-  "websiteUrl": "https://neox-dermacare.co.il/",
+  "websiteUrl": "https://neox-med.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.62484,
       "lon": 35.3306464
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,10 +1,10 @@
 {
   "name": "Ophthalmic Sciences",
-  "description": "An online open access journal dedicated to publishing advancements in pre-clinical development, early-phase clinical trials, laboratory research, ophthalmology informatics, and clinical science.",
+  "description": "Intraocular Pressure Measurement Device",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ophthalmic_sciences-logo.webp",
-  "websiteUrl": "https://www.ophthalmologyscience.org/",
+  "websiteUrl": "https://op-sci.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.063117,
       "lon": 34.762003
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67906741
 }

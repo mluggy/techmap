@@ -1,16 +1,16 @@
 {
-  "name": "Omegamore",
-  "description": "Providing Omega-3 fatty acids sourced from algae, the market is expected to grow to USD 2.67 million by 2028, driven by a CAGR of 4.7%.",
-  "categoryId": 9,
+  "name": "OmegaMore",
+  "description": "Biotech Products for Chronic Cognitive Diseases",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/omegamore-logo.webp",
-  "websiteUrl": "https://omega3.biz/",
+  "websiteUrl": "https://omegamore.vp4.me/home",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "omegamore",
   "crunchbaseId": null,
   "finderId": "omegamore",
-  "xId": null,
+  "xId": "MoreOmega",
   "addresses": [
     {
       "street": "ההדרים",
@@ -19,5 +19,8 @@
       "lat": 31.9642156,
       "lon": 34.7941323
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "omegamore18",
+  "linkedinNum": 11828676
 }

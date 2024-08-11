@@ -3,11 +3,11 @@
   "description": "Transforms webinar and podcast footage into multiple, platform-ready clips automatically on the same day.",
   "categoryId": 1,
   "size": "s",
-  "logoFile": null,
+  "logoFile": "logos/glossai.webp",
   "websiteUrl": "https://glossai.co/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "glossai",
   "crunchbaseId": "glossai",
   "finderId": "glossai",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.128611,
       "lon": 34.794594
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "glossai.co",
+  "linkedinNum": 74569361
 }

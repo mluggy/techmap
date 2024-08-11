@@ -1,10 +1,10 @@
 {
-  "name": "Psyga Bio",
-  "description": "A pioneering drug discovery firm harnessing natural compounds for revolutionary therapeutics, spearheaded by renowned researcher Prof. Dedi Meiri from the Technion.",
+  "name": "PsygaBio",
+  "description": "Drugs Derived from Natural Compounds",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/psyga_bio-logo.webp",
-  "websiteUrl": "http://www.psygabio.com/",
+  "websiteUrl": "https://cannasoul.co.il/psyga-bio/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "psygabio",
@@ -19,5 +19,7 @@
       "lat": 32.4879599,
       "lon": 34.9040366
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 86858667
 }

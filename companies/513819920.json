@@ -1,16 +1,16 @@
 {
-  "name": "Combtas",
-  "description": "Provides secure password recovery services via email notifications.",
-  "categoryId": 7,
+  "name": "ComBtas",
+  "description": "Business Travel Management System",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/combtas-logo.webp",
-  "websiteUrl": "https://teoco.combtas.com/",
+  "websiteUrl": "https://www.combtas.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "combtas",
-  "xId": null,
+  "xId": "tas_combtas",
   "addresses": [
     {
       "street": "אחוה",
@@ -19,5 +19,8 @@
       "lat": 32.16167009758706,
       "lon": 34.89955469143268
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ComBTAS-Travel-management-solution-%D7%A7%D7%95%D7%9E%D7%91%D7%99%D7%98%D7%A1-%D7%9E%D7%97%D7%A9%D7%95%D7%91-%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%A2%D7%A1%D7%A7%D7%99%D7%95%D7%AA-127922820659713",
+  "linkedinNum": 2418568
 }

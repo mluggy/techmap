@@ -1,10 +1,10 @@
 {
-  "name": "Brain 1",
-  "description": "A gadget that syncs your brainwaves.",
-  "categoryId": 4,
+  "name": "Brain1",
+  "description": "Brainwave Entrainment Device",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/brain_1-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.brain1world.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.078902347695156,
       "lon": 34.80448446317157
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12958721
 }

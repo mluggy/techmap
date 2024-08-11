@@ -1,5 +1,5 @@
 {
-  "name": "Way 2 Vat",
+  "name": "Way2Vat",
   "description": "A groundbreaking AI-driven system that automates VAT/GST recovery across 50+ countries with advanced technology and patented image processing.",
   "categoryId": 10,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.0900013,
       "lon": 34.8601803
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "way2vat",
+  "linkedinNum": 10456022
 }

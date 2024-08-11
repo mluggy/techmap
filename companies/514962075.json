@@ -1,16 +1,16 @@
 {
-  "name": "Agat Software Development",
-  "description": "Provide customizable communication control, blocking interactions between specific users across various channels.",
+  "name": "AGAT Software",
+  "description": "Security and Governance for Generative AI",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/agat_software_development-logo.webp",
-  "websiteUrl": "https://agatsoftware.com/",
+  "websiteUrl": "https://agatsoftware.ai",
   "careersUrl": "https://agatsoftware.com/careers/",
   "isHiring": true,
   "linkedinId": "agat-software",
   "crunchbaseId": "agat-software",
   "finderId": "agat-software",
-  "xId": null,
+  "xId": "AGATSoftware",
   "addresses": [
     {
       "street": "הגפן",
@@ -19,5 +19,8 @@
       "lat": 31.8271259,
       "lon": 34.7499416
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AGATSoftware",
+  "linkedinNum": 2450350
 }

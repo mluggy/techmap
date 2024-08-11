@@ -1,5 +1,5 @@
 {
-  "name": "Zepa Financial Technology",
+  "name": "zepa",
   "description": "Algorithmic and social-based pension consulting.",
   "categoryId": 10,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.1937023,
       "lon": 34.8496561
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myzepa",
+  "linkedinNum": 18948503
 }

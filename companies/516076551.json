@@ -1,16 +1,16 @@
 {
-  "name": "Justt Fintech",
-  "description": "Passionate about eggs, we craft plant-based alternatives that are delicious.",
+  "name": "Justt",
+  "description": "Chargeback Management Solution for Merchants",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/justt_fintech-logo.webp",
-  "websiteUrl": "https://www.ju.st/",
+  "websiteUrl": "https://justt.ai",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "justt-ai",
   "crunchbaseId": null,
   "finderId": "justt",
-  "xId": null,
+  "xId": "justt_ai",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,9 @@
       "lat": 32.072306,
       "lon": 34.782064
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "we.are.justt",
+  "linkedinNum": 28481748,
+  "comeetId": "justt/36.001"
 }

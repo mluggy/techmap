@@ -1,5 +1,5 @@
 {
-  "name": "Epsilor Electric Fuel",
+  "name": "Epsilor-Electric Fuel",
   "description": "Providing top-tier military batteries and chargers with unmatched energy density.",
   "categoryId": 15,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "epsilor-electric-fuel",
   "crunchbaseId": null,
   "finderId": "epsilor",
-  "xId": null,
+  "xId": "electric_fuel",
   "addresses": [
     {
       "street": "הסוללה",
@@ -19,5 +19,7 @@
       "lat": 31.7336358,
       "lon": 34.9597796
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 7943022
 }

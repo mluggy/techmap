@@ -1,13 +1,13 @@
 {
   "name": "Bria AI",
-  "description": "An AI-powered platform that enhances creative workflows by generating and optimizing visual content for various industries and applications.",
-  "categoryId": 1,
+  "description": "Visual Generative AI Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/bria_ai-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://bria.ai/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "briaai",
   "crunchbaseId": null,
   "finderId": "bria-ai",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.074473,
       "lon": 34.795669
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 69230901
 }

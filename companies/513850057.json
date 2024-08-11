@@ -1,5 +1,5 @@
 {
-  "name": "Edwards Lifesciences Innovation Israel",
+  "name": "Edwards Lifesciences",
   "description": "Leading innovator in patient-centered solutions for structural heart disease, critical care, and surgical needs globally.",
   "categoryId": 12,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "edwards-lifesciences",
   "crunchbaseId": null,
   "finderId": "edwards-lifesciences",
-  "xId": null,
+  "xId": "edwardslifesci",
   "addresses": [
     {
       "street": "הטוחן",
@@ -19,5 +19,8 @@
       "lat": 32.4857297,
       "lon": 34.9462968
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Edwardslifesciences",
+  "linkedinNum": 163578
 }

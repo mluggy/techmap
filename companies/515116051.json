@@ -1,5 +1,5 @@
 {
-  "name": "Qualityline Production Technologies",
+  "name": "QualityLine",
   "description": "This company specializes in advanced production technologies and operates internationally with offices in the US, France, Germany, Israel, and Taiwan.",
   "categoryId": 15,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "qualityline-production-technologies-ltd-",
   "crunchbaseId": null,
   "finderId": "qualityline-production-technologies",
-  "xId": null,
+  "xId": "quality_line",
   "addresses": [
     {
       "street": "מרגלית",
@@ -19,5 +19,8 @@
       "lat": 31.993484,
       "lon": 34.9385708
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "infoqualityline",
+  "linkedinNum": 10251548
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Proxymity Tlv",
+  "name": "Proxymity",
   "description": "Providing real-time connections for issuers, intermediaries, and investors with unmatched transparency, efficiency, and accuracy.",
   "categoryId": 10,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.proxymity.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "proxymityic",
   "crunchbaseId": null,
   "finderId": "proxymity",
-  "xId": null,
+  "xId": "ProxymityIC",
   "addresses": [
     {
       "street": "תע\"ש",
@@ -19,5 +19,8 @@
       "lat": 32.0889179,
       "lon": 34.8015247
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ProxymityIC",
+  "linkedinNum": 65494091
 }

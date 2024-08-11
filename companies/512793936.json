@@ -1,5 +1,5 @@
 {
-  "name": "Planium Software",
+  "name": "Planium",
   "description": "They create cutting-edge financial modeling and business planning software tools for professionals.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "planium",
-  "xId": null,
+  "xId": "planium",
   "addresses": [
     {
       "street": "טבת",
@@ -19,5 +19,6 @@
       "lat": 31.9157297,
       "lon": 35.0079671
     }
-  ]
+  ],
+  "isMultinational": false
 }

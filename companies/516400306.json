@@ -1,5 +1,5 @@
 {
-  "name": "Watairgy",
+  "name": "WatAirGy",
   "description": "Harvesting energy through water absorption from the air.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.9474314,
       "lon": 34.812364
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Zoomin Software",
+  "name": "Zoomin",
   "description": "They provide AI-driven solutions for efficient knowledge management and personalized user experiences.",
   "categoryId": 1,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.zoominsoftware.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zoomin-software",
   "crunchbaseId": null,
   "finderId": "zoomin",
-  "xId": null,
+  "xId": "ZoominSoftware",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,8 @@
       "lat": 32.0869162,
       "lon": 34.7822126
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZoominSoftware",
+  "linkedinNum": 10490599
 }

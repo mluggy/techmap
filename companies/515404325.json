@@ -1,5 +1,5 @@
 {
-  "name": "Webz Io",
+  "name": "Webz.io",
   "description": "The company offers a platform that collects, structures, and enriches vast amounts of web data for immediate use.",
   "categoryId": 1,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://webz.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "webz-io-official",
   "crunchbaseId": null,
   "finderId": "webhose-io",
-  "xId": null,
+  "xId": "webz_io",
   "addresses": [
     {
       "street": "מצדה",
@@ -19,5 +19,8 @@
       "lat": 32.0935847,
       "lon": 34.8251159
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "webz.io",
+  "linkedinNum": 4849734
 }

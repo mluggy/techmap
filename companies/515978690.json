@@ -1,10 +1,10 @@
 {
-  "name": "Better Alternatives Io",
-  "description": "A direct lender offering fast, transparent digital mortgages with exceptional customer support.",
-  "categoryId": 10,
+  "name": "Better",
+  "description": "Medical-grade Cannabis",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/better_alternatives_io-logo.webp",
-  "websiteUrl": "https://better.com/",
+  "websiteUrl": "https://www.better-global.com/en/",
   "careersUrl": "https://better.com/about-us/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.160213,
       "lon": 34.8812953
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bettermedicine",
+  "linkedinNum": 69318818
 }

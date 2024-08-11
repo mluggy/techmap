@@ -1,5 +1,5 @@
 {
-  "name": "Playgem Technologies",
+  "name": "PlayGem",
   "description": "Offering 24/7 backgammon tournaments with certified random dice, authentic graphics, and cross-platform play on iOS and Android.",
   "categoryId": 11,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.8192826,
       "lon": 34.99932
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PlayGemBackgammonFree",
+  "linkedinNum": 5037699
 }

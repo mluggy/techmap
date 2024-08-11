@@ -1,5 +1,5 @@
 {
-  "name": "Myinterview",
+  "name": "myInterview",
   "description": "A platform that streamlines application processes and enhances diversity by providing equitable and insightful candidate evaluations.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "myinterview",
-  "xId": null,
+  "xId": "myinterview_com",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myinterview.social",
+  "linkedinNum": 3586093
 }

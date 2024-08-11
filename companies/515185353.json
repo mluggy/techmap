@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "weebit-nano",
-  "xId": null,
+  "xId": "weebit_nano",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,7 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27170606
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Sedric Artificial Intelligence Labs",
+  "name": "Sedric",
   "description": "An AI-driven compliance platform providing real-time monitoring, detection, and analysis for fintech companies.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sedric",
-  "xId": null,
+  "xId": "SedricAI",
   "addresses": [
     {
       "street": "רפידים",
@@ -19,5 +19,7 @@
       "lat": 32.11004,
       "lon": 34.812969
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 65322617
 }

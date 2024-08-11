@@ -1,5 +1,5 @@
 {
-  "name": "Cemax Software",
+  "name": "CEMax.ai",
   "description": "A premium platform enhancing customer engagement with advanced technology for elevated interactions.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "cemaxai",
   "crunchbaseId": "cemax-software",
   "finderId": "cemax",
-  "xId": null,
+  "xId": "Cemax_US",
   "addresses": [
     {
       "street": "צ'רצ'יל",
@@ -19,5 +19,8 @@
       "lat": 32.3433843,
       "lon": 34.8628637
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cemaxil",
+  "linkedinNum": 2138543
 }

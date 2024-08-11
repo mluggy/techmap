@@ -1,16 +1,16 @@
 {
-  "name": "Ironvest Israel",
-  "description": "Offering comprehensive protection against online threats from login to logout by securing access and preventing fraud.",
+  "name": "IronVest",
+  "description": "Digital Security and Privacy",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/ironvest_israel-logo.webp",
-  "websiteUrl": "https://ironvest.com/",
+  "websiteUrl": "https://www.ironvest.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ironvest",
-  "xId": null,
+  "xId": "ironvesthq",
   "addresses": [
     {
       "street": "קורנית צור יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.21691734882471,
       "lon": 34.99540990294748
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ironvestHQ",
+  "linkedinNum": 80978403
 }

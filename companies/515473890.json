@@ -7,10 +7,10 @@
   "websiteUrl": "https://cymulate.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cymulate",
   "crunchbaseId": null,
   "finderId": "cymulate",
-  "xId": null,
+  "xId": "CymulateLtd",
   "addresses": [
     {
       "street": "שד ירושלים",
@@ -19,5 +19,8 @@
       "lat": 32.0093521,
       "lon": 34.795678
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cymulate",
+  "linkedinNum": 10868396
 }

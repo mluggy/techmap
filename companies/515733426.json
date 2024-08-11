@@ -1,10 +1,10 @@
 {
-  "name": "Ipipe",
-  "description": "System for Inspecting Water Pipelines.",
-  "categoryId": 13,
+  "name": "iPIPE",
+  "description": "Water Pipelines Inspection System",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ipipe-logo.webp",
-  "websiteUrl": "https://www.ipmpipe.org/",
+  "websiteUrl": "https://www.ipipe-tec.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7877386,
       "lon": 35.211845
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 30147401
 }

@@ -1,16 +1,16 @@
 {
   "name": "Nuvo Group",
-  "description": "The company offers FDA-cleared remote pregnancy monitoring and management through its INVU™ platform, facilitating non-stress tests and heart rate monitoring for expectant mothers and fetuses.",
+  "description": "Remote Prenatal Monitoring Platform",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/nuvo_group-logo.webp",
-  "websiteUrl": "https://investors.nuvocares.com/",
+  "websiteUrl": "https://www.nuvocares.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nuvo-group",
-  "xId": null,
+  "xId": "nuvocares",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nuvocares",
+  "linkedinNum": 3145382
 }

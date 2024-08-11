@@ -1,10 +1,10 @@
 {
-  "name": "Academe Data",
-  "description": "A newly opened 14-story residential community designed for professional and graduate students offers state-of-the-art living facilities.",
-  "categoryId": 9,
+  "name": "AcadeME",
+  "description": "Career Development and Job Placement Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/academe_data-logo.webp",
-  "websiteUrl": "https://academe198sf.com/",
+  "websiteUrl": "https://acade-me.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.107529,
       "lon": 34.827772
     }
-  ]
+  ],
+  "isMultinational": false
 }

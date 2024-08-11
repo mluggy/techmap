@@ -1,10 +1,10 @@
 {
-  "name": "Sphereo Sound",
-  "description": "A top provider of interactive robotics and STEM education kits that teach kids to code both at home and in classrooms.",
-  "categoryId": 15,
+  "name": "SPHEREO",
+  "description": "Sound Customization Technology for Mobile Devices",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/sphereo_sound-logo.webp",
-  "websiteUrl": "https://sphero.com/",
+  "websiteUrl": "https://www.sphereo.co",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "sphereo",
@@ -19,5 +19,8 @@
       "lat": 32.086903649999996,
       "lon": 34.801949
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mixitsound",
+  "linkedinNum": 18729300
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Jiga 3 D",
+  "name": "Jiga",
   "description": "Jiga streamlines the process of sourcing parts from optimal suppliers efficiently and affordably across various manufacturing methods.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "jiga",
-  "xId": null,
+  "xId": "jiga3d",
   "addresses": [
     {
       "street": "שץ גגה גרשון",
@@ -19,5 +19,7 @@
       "lat": 32.069057,
       "lon": 34.788076
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "jiga3d"
 }

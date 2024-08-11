@@ -1,5 +1,5 @@
 {
-  "name": "Codefresh Israel",
+  "name": "Codefresh",
   "description": "Delivering scalable, user-friendly pipelines and superior deployment solutions for cloud-native applications.",
   "categoryId": 6,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "codefresh",
-  "xId": null,
+  "xId": "codefresh",
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -19,5 +19,8 @@
       "lat": 32.0862661,
       "lon": 34.800174909775976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "codefresh.io",
+  "linkedinNum": 3671000
 }

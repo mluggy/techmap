@@ -1,5 +1,5 @@
 {
-  "name": "Toka Smart Solutions",
+  "name": "Toka",
   "description": "They provide advanced digital forensics, intelligence, and security solutions to bolster government agency operations.",
   "categoryId": 7,
   "size": "m",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.tokagroup.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tokagroup",
   "crunchbaseId": null,
   "finderId": "toka",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.28496405944088,
       "lon": 34.87209196015313
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11701565,
+  "comeetId": "toka/46.00D"
 }

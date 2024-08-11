@@ -1,5 +1,5 @@
 {
-  "name": "Applied Materials Israel",
+  "name": "Applied Materials",
   "description": "Leading provider of materials engineering solutions for global chip and advanced display production.",
   "categoryId": 16,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "applied-materials",
   "crunchbaseId": null,
   "finderId": "applied-materials",
-  "xId": null,
+  "xId": "applied_il",
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -19,5 +19,8 @@
       "lat": 31.9111651,
       "lon": 34.8080738
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "appliedmaterialsisrael",
+  "linkedinNum": 36103307
 }

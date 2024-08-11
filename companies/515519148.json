@@ -1,10 +1,10 @@
 {
-  "name": "Fmr Operation Services",
-  "description": "A leading provider of investment advisory services for individuals and workplaces.",
+  "name": "FMR",
+  "description": "Software for Brokers and Investment Houses",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/fmr_operation_services-logo.webp",
-  "websiteUrl": "https://www.fidelity.com/",
+  "websiteUrl": "https://www.fmr.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0657345,
       "lon": 34.7857836
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Liquidapps",
+  "name": "LiquidApps",
   "description": "This company offers a universal middleware platform enabling developers to streamline deployment, accelerate development, and deliver functional solutions across multiple blockchains.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "liquidapp",
-  "xId": null,
+  "xId": "LiquidAppsIO",
   "addresses": [
     {
       "street": "עמק ברכה",
@@ -19,5 +19,7 @@
       "lat": 32.07702,
       "lon": 34.795463
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13007933
 }

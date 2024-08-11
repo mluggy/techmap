@@ -1,5 +1,5 @@
 {
-  "name": "Roojoom Web Experiences",
+  "name": "Roojoom",
   "description": "Offering AI-powered customer journey models, this solution helps marketers achieve business objectives efficiently.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "roojoom",
   "crunchbaseId": "roojoom",
   "finderId": "roojoom",
-  "xId": null,
+  "xId": "roojoom",
   "addresses": [
     {
       "street": "החילזון",
@@ -19,5 +19,8 @@
       "lat": 32.0861321,
       "lon": 34.8040698
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Roojoom",
+  "linkedinNum": 2742214
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "alpha-tau-medical",
-  "xId": null,
+  "xId": "AlphaTauMedical",
   "addresses": [
     {
       "street": "קרית מדע",
@@ -19,5 +19,8 @@
       "lat": 31.8015023,
       "lon": 35.2103559
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AlphaTauMedical",
+  "linkedinNum": 10538741
 }

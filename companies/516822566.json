@@ -1,0 +1,25 @@
+{
+  "name": "MyShops",
+  "description": "Marketplace for Local Shopping",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/myshops.webp",
+  "websiteUrl": "https://myshops.town/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 90953827,
+  "crunchbaseId": null,
+  "finderId": "myshops",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "הלויים",
+      "houseNumber": 22,
+      "city": "הוד השרון",
+      "lat": 32.15244712870147,
+      "lon": 34.889486801675154
+    }
+  ],
+  "isMultinational": false
+}

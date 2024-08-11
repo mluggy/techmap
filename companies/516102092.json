@@ -1,10 +1,10 @@
 {
-  "name": "Litebc",
-  "description": "A device for blood count analysis that doesn't require invasive procedures.",
+  "name": "LiteBC",
+  "description": "Noninvasive Blood Count Analyzer",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/litebc-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.litebc.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "litebc",
@@ -19,5 +19,7 @@
       "lat": 32.6611393,
       "lon": 35.1063611
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75042724
 }

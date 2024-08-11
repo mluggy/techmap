@@ -1,10 +1,10 @@
 {
-  "name": "Finally Financial Control",
-  "description": "Provides businesses with effortless management of bookkeeping, accounting, and financial tasks.",
-  "categoryId": 10,
+  "name": "Finally",
+  "description": "Autonomous Piece Picking for Online Grocery Orders",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/finally_financial_control-logo.webp",
-  "websiteUrl": "https://finally.com/",
+  "websiteUrl": "https://www.finallyrobotic.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.109676,
       "lon": 34.815595
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71271664
 }

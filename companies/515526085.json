@@ -1,5 +1,5 @@
 {
-  "name": "Amenity Analytics Il",
+  "name": "Amenity Analytics",
   "description": "Providing NLP text analytics and sentiment analysis solutions tailored for the finance sector spanning various sizes and industries.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "amenity-analytics",
   "crunchbaseId": null,
   "finderId": "amenity-analytics",
-  "xId": null,
+  "xId": "AmenityNLP",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AmenityAnalytics",
+  "linkedinNum": 7960094
 }

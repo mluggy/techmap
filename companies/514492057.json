@@ -10,7 +10,7 @@
   "linkedinId": "gimmonix",
   "crunchbaseId": null,
   "finderId": "gimmonix",
-  "xId": null,
+  "xId": "gimmonix",
   "addresses": [
     {
       "street": "חרוץ",
@@ -19,5 +19,8 @@
       "lat": 32.063167479540034,
       "lon": 34.78915664745618
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "gimmonix",
+  "linkedinNum": 17979067
 }

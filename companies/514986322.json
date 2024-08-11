@@ -1,5 +1,5 @@
 {
-  "name": "Curalife",
+  "name": "CuraLife",
   "description": "This company enhances glucose management through clinically validated, natural supplements and delectable recipes, addressing weight issues with a focus on hormonal balance and lifestyle adjustments.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "curalife",
-  "xId": null,
+  "xId": "CuraLife",
   "addresses": [
     {
       "street": "עין גנים",
@@ -19,5 +19,8 @@
       "lat": 32.062983,
       "lon": 34.768536
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "curalife",
+  "linkedinNum": 5344384
 }

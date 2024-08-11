@@ -1,16 +1,16 @@
 {
   "name": "Fuse Labs",
-  "description": "An EVM-compatible blockchain offering scalable, speedy, and cost-effective infrastructure for Web3 applications with high transaction volumes, security, and decentralization.",
+  "description": "Open-source Platform for Connecting Payments to the Blockchain",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/fuse_labs-logo.webp",
-  "websiteUrl": "https://docs.fuse.io/",
+  "websiteUrl": "https://fuse.io",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fuseio",
   "crunchbaseId": null,
   "finderId": "fuse-network",
-  "xId": null,
+  "xId": "fuse_network",
   "addresses": [
     {
       "street": "התעשיה",
@@ -19,5 +19,7 @@
       "lat": 32.0670683,
       "lon": 34.7856051
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 20491948
 }

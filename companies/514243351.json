@@ -1,10 +1,10 @@
 {
-  "name": "Novomic",
-  "description": "Lice Removal Services.",
+  "name": "NovoMic",
+  "description": "Dry Lice Treatment",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/novomic-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://novokid.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.10759415,
       "lon": 34.97134494812779
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Novokid"
 }

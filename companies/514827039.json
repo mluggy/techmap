@@ -1,5 +1,5 @@
 {
-  "name": "Urecsys Urban Ecology Systems Indoor Air Quality Management",
+  "name": "Urecsys",
   "description": "Providing intelligent air purification solutions to shield workspaces from harmful pollution.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "urecsys",
   "crunchbaseId": null,
   "finderId": "urecys",
-  "xId": null,
+  "xId": "urecsys",
   "addresses": [
     {
       "street": "פרופ רקח",
@@ -19,5 +19,8 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "urecsys",
+  "linkedinNum": 13022845
 }

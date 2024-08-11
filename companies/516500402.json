@@ -1,10 +1,10 @@
 {
-  "name": "Ddance",
-  "description": "An internet art project by fuzzyw offering an optimal experience on desktop, mobile, and VR platforms.",
-  "categoryId": 4,
+  "name": "DDance",
+  "description": "Dancing App",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/ddance-logo.webp",
-  "websiteUrl": "https://dddance.party/",
+  "websiteUrl": "https://ddance.app",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.28964636374139,
       "lon": 34.84996037484107
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75071585
 }

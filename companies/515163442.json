@@ -1,5 +1,5 @@
 {
-  "name": "Neteera Technologies",
+  "name": "Neteera",
   "description": "A contactless RPM platform enhancing patient care through precise monitoring of heart rate, respiratory rate, and behaviors.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "neteera",
   "crunchbaseId": null,
   "finderId": "neteera",
-  "xId": null,
+  "xId": "neteeratech",
   "addresses": [
     {
       "street": "פרופ רקח",
@@ -19,5 +19,8 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Neteera-Technologies-Ltd-1504531596241656",
+  "linkedinNum": 10579488
 }

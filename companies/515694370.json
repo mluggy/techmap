@@ -1,16 +1,16 @@
 {
-  "name": "Deel E O R Israel",
-  "description": "Facilitating global hiring and compliance, Deel caters to organizations of all sizes, from small teams to large enterprises.",
-  "categoryId": 9,
+  "name": "DEEL",
+  "description": "Payroll and Compliance for International Teams",
+  "categoryId": 10,
   "size": "l",
   "logoFile": "logos/deel_e_o_r_israel-logo.webp",
-  "websiteUrl": "https://www.deel.com/",
+  "websiteUrl": "https://www.letsdeel.com/",
   "careersUrl": "https://www.deel.com/careers",
   "isHiring": true,
   "linkedinId": "deel",
   "crunchbaseId": null,
   "finderId": "deel",
-  "xId": null,
+  "xId": "deel",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.0702921,
       "lon": 34.7853047
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GetDeel",
+  "linkedinNum": 18922914
 }

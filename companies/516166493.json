@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "amplication",
-  "xId": null,
+  "xId": "amplication",
   "addresses": [
     {
       "street": "יצחק שדה",
@@ -19,5 +19,8 @@
       "lat": 32.065253,
       "lon": 34.785664
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "amplicationcom",
+  "linkedinNum": 67730467
 }

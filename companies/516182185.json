@@ -1,10 +1,10 @@
 {
-  "name": "Activeaging Analytics",
-  "description": "Dedicated to improving the lives of seniors in Crawford County since 1974.",
+  "name": "ActiveAging",
+  "description": "AI-driven, Proactive Benefits Optimization and ManagementPlatform for Health Payers",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/activeaging_analytics-logo.webp",
-  "websiteUrl": "https://activeaging.org/",
+  "websiteUrl": "https://www.activeaging.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1976788,
       "lon": 34.8811941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 87238655
 }

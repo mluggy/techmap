@@ -1,10 +1,10 @@
 {
-  "name": "Avian Software Solutions",
-  "description": "Providing specialized gear and apparel for backcountry skiing and snowboarding adventures.",
-  "categoryId": 9,
+  "name": "wndr",
+  "description": "Travel Platform for Content Creators, Consumers, and Suppliers",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/avian_software_solutions-logo.webp",
-  "websiteUrl": "https://wndr-alpine.com/",
+  "websiteUrl": "https://www.justwndr.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.093266,
       "lon": 34.778599
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "justwndrcom",
+  "linkedinNum": 18877901
 }

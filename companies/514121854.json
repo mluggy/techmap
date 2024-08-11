@@ -1,5 +1,5 @@
 {
-  "name": "Genesys Labs",
+  "name": "Genesys",
   "description": "A global leader providing comprehensive omnichannel customer experience and contact center solutions.",
   "categoryId": 14,
   "size": "xl",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.genesys.com/",
   "careersUrl": "https://www.genesys.com/company/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "genesys",
   "crunchbaseId": null,
   "finderId": "genesys",
-  "xId": null,
+  "xId": "genesys",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Genesys",
+  "linkedinNum": 601919
 }

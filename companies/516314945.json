@@ -1,5 +1,5 @@
 {
-  "name": "Dispersebio",
+  "name": "DisperseBio",
   "description": "A natural remedy for preventing biofilm formation and biofouling.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.11174,
       "lon": 34.820605
     }
-  ]
+  ],
+  "isMultinational": false
 }

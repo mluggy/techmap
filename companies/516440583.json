@@ -1,10 +1,10 @@
 {
-  "name": "Neuronix Ai Labs",
-  "description": "AI technology leveraging computer vision.",
-  "categoryId": 1,
+  "name": "Neuronix AI Labs",
+  "description": "Computer Vision-based Artificial Intelligence",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/neuronix_ai_labs-logo.webp",
-  "websiteUrl": "http://www.neuronix.com/",
+  "websiteUrl": "https://www.neuronix.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "neuronixai",
@@ -19,5 +19,7 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67759642
 }

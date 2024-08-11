@@ -1,5 +1,5 @@
 {
-  "name": "Fitto",
+  "name": "fitto",
   "description": "Offering a convenient and luxurious vanilla-flavored whey protein kit with a shaker and capsules, designed for easy preparation with milk or substitutes.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.065214,
       "lon": 34.780785
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fittoworld",
+  "linkedinNum": 12896200
 }

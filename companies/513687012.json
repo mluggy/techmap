@@ -1,5 +1,5 @@
 {
-  "name": "Intu View",
+  "name": "IntuView",
   "description": "Specializing in real-time semantic text analytics, this company employs proprietary NLP engines and domain-specific ontologies to extract implicit meanings from text.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "intuview",
   "crunchbaseId": null,
   "finderId": "intuview",
-  "xId": null,
+  "xId": "Intuview",
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +19,7 @@
       "lat": 32.1663299,
       "lon": 34.8124346
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 406759
 }

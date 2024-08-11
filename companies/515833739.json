@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "coinmama",
-  "xId": null,
+  "xId": "coinmama",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.0845733,
       "lon": 34.8009733
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Coinmama",
+  "linkedinNum": 9372758
 }

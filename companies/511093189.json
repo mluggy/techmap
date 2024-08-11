@@ -1,16 +1,16 @@
 {
   "name": "Meditrac",
-  "description": "Devices for non-surgical, on-the-go treatment of spinal issues.",
+  "description": "Medical Devices for Ambulatory, Nonsurgical Treatment of Spinal Disorders",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/meditrac-logo.webp",
-  "websiteUrl": "https://meditrac.us/",
+  "websiteUrl": "https://www.meditrac.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "meditrac-ltd",
   "crunchbaseId": null,
   "finderId": "meditrac-medical-equipment",
-  "xId": null,
+  "xId": "meditrac_ltd",
   "addresses": [
     {
       "street": "פנקס",
@@ -19,5 +19,8 @@
       "lat": 32.091201,
       "lon": 34.790131
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Meditrac.Medical.Equipment",
+  "linkedinNum": 2242803
 }

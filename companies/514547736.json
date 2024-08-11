@@ -1,23 +1,26 @@
 {
-  "name": "Paradox Engineering",
-  "description": "Design house & engineering support from component level up to complete assembly.",
-  "categoryId": 16,
-  "size": "l",
-  "logoFile": "logos/paradox_engineering-logo.webp",
-  "websiteUrl": "https://www.paradox-elec.com/",
+  "name": "Paradox",
+  "description": null,
+  "categoryId": 14,
+  "size": "xl",
+  "logoFile": "logos/paradox1.webp",
+  "websiteUrl": "https://www.paradox.ai/",
   "careersUrl": "https://careers.paradox.ai/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "paradoxolivia",
+  "linkedinNum": 10804989,
   "crunchbaseId": null,
-  "finderId": "paradox",
+  "finderId": "paradox1",
   "xId": null,
+  "facebookId": null,
   "addresses": [
     {
       "street": "טבנקין יצחק",
       "houseNumber": 12,
       "city": "רעננה",
-      "lat": 32.187621246242855,
-      "lon": 34.860401133648935
+      "lat": 32.187594320483946,
+      "lon": 34.86041438856084
     }
-  ]
+  ],
+  "isMultinational": true
 }

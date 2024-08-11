@@ -1,5 +1,5 @@
 {
-  "name": "Identiq Protocol",
+  "name": "Identiq",
   "description": "Our innovative protocol technology generates a trust score within a private network, ensuring data remains confidential during validation.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "identiq-protocol",
-  "xId": null,
+  "xId": "identiqprotocol",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "identiqprotocol",
+  "linkedinNum": 19077299
 }

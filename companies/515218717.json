@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "twine-solution",
-  "xId": null,
+  "xId": "twine_solutions",
   "addresses": [
     {
       "street": "התנופה",
@@ -19,5 +19,8 @@
       "lat": 32.099682,
       "lon": 34.8569061
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TwineSolutions",
+  "linkedinNum": 10061217
 }

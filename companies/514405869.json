@@ -1,23 +1,25 @@
 {
   "name": "Aquanity Living Water Tech",
-  "description": "We offer a straightforward solution to restore water to its natural frequency.",
+  "description": "Water-revitalizing Technology",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/aquanity_living_water_tech-logo.webp",
+  "logoFile": "logos/aquanity-living-water-tech.webp",
   "websiteUrl": "https://aquanity.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinNum": 958143,
   "crunchbaseId": null,
-  "finderId": "aquanity",
-  "xId": null,
+  "finderId": "aquanity-living-water-tech",
+  "xId": "Aquanity",
+  "facebookId": "aquanity18",
   "addresses": [
     {
       "street": "הנצח",
       "houseNumber": 10,
       "city": "רמת השרון",
-      "lat": 32.138202,
-      "lon": 34.8443424
+      "lat": 32.13817494697451,
+      "lon": 34.84409208960284
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Sap Port Business Solutions",
+  "name": "SAP",
   "description": "Streamlining travel, expense, and invoice processes for enhanced oversight and control.",
-  "categoryId": 14,
   "size": "xl",
+  "categoryId": 14,
   "logoFile": "logos/sap_port_business_solutions-logo.webp",
-  "websiteUrl": "https://www.concur.com/",
+  "websiteUrl": "https://www.sap.com/",
   "careersUrl": "https://jobs.sap.com/",
   "isHiring": true,
   "linkedinId": "sap",
   "crunchbaseId": null,
   "finderId": "sap",
-  "xId": null,
+  "xId": "sap_labs_israel",
   "addresses": [
     {
       "street": "שד הרכס",
@@ -19,5 +19,8 @@
       "lat": 31.9228472,
       "lon": 34.9906948
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SAPLabsIsrael",
+  "linkedinNum": 1115
 }

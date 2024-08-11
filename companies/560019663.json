@@ -1,16 +1,16 @@
 {
   "name": "Samsung Electronics",
   "description": "A company specializing in advanced semiconductors and electronics, using cookies to gather data for enhancing website performance.",
-  "categoryId": 16,
   "size": "l",
+  "categoryId": 16,
   "logoFile": "logos/samsung_electronics-logo.webp",
-  "websiteUrl": "https://semiconductor.samsung.com/",
+  "websiteUrl": "https://www.samsung.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "samsung-israel-r-d-center-sirc",
   "crunchbaseId": null,
   "finderId": "samsung",
-  "xId": null,
+  "xId": "SamsungUS",
   "addresses": [
     {
       "street": "המשכית",
@@ -19,5 +19,8 @@
       "lat": 32.16403862294503,
       "lon": 34.810517776892965
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SamsungIsraelRDCenter",
+  "linkedinNum": 15835403
 }

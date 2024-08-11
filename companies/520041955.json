@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "steakholder-foods",
-  "xId": null,
+  "xId": "stkhfoods",
   "addresses": [
     {
       "street": "פייקס דוד",
@@ -19,5 +19,8 @@
       "lat": 31.9159391,
       "lon": 34.8103557
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SteakholderFoods",
+  "linkedinNum": 28824633
 }

@@ -1,0 +1,25 @@
+{
+  "name": "VISS",
+  "description": "Accident Prevention Alert System",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/viss.webp",
+  "websiteUrl": "https://viss-sys.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 92524526,
+  "crunchbaseId": null,
+  "finderId": "viss",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "אלמוגן",
+      "houseNumber": 26,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.901688172815984,
+      "lon": 35.01074915373309
+    }
+  ],
+  "isMultinational": false
+}

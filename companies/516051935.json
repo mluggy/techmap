@@ -1,16 +1,16 @@
 {
-  "name": "Albe Information",
-  "description": "A leading global BMX shop run by riders that offers top brands and quality gear.",
-  "categoryId": 9,
+  "name": "Albe",
+  "description": "AI-based Credit Application Assessment",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/albe_information-logo.webp",
-  "websiteUrl": "https://www.albes.com/",
+  "websiteUrl": "https://www.albe.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "albe",
-  "xId": null,
+  "xId": "AlbeCredit",
   "addresses": [
     {
       "street": "קרן קימת לישראל",
@@ -19,5 +19,7 @@
       "lat": 32.0744107,
       "lon": 34.806475
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 26486706
 }

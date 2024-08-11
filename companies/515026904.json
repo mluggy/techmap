@@ -1,5 +1,5 @@
 {
-  "name": "Display Io",
+  "name": "display.io",
   "description": "A platform for running advertising campaigns.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "display-io",
-  "xId": null,
+  "xId": "display_io",
   "addresses": [
     {
       "street": "אחד העם",
@@ -19,5 +19,8 @@
       "lat": 32.06378,
       "lon": 34.769659
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "displayio",
+  "linkedinNum": 10302421
 }

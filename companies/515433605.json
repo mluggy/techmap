@@ -1,16 +1,16 @@
 {
-  "name": "Ada Karmi Melamede Architects",
+  "name": "ada",
   "description": "Advocating for civil rights, this organization ensures legal protections for individuals with disabilities across various public domains.",
-  "categoryId": 12,
   "size": "l",
+  "categoryId": 14,
   "logoFile": "logos/ada_karmi_melamede_architects-logo.webp",
-  "websiteUrl": "https://www.ada.gov/",
+  "websiteUrl": "https://www.ada.cx/",
   "careersUrl": "https://www.ada.org/jobs-at-the-ada",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ada",
-  "xId": null,
+  "xId": "ada_cx",
   "addresses": [
     {
       "street": "קפלן",
@@ -19,5 +19,8 @@
       "lat": 32.073729,
       "lon": 34.784469
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "getadasupport",
+  "linkedinNum": 16194366
 }

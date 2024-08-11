@@ -1,5 +1,5 @@
 {
-  "name": "Icecure Medical",
+  "name": "IceCure Medical",
   "description": "The FDA-cleared, CE-marked ProSense Cryoablation System offers patients and providers a minimally invasive tumor treatment using ultra-cold liquid nitrogen to freeze and destroy benign and malignant tumors.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "icecure-medical",
-  "xId": null,
+  "xId": "IceCureMedical",
   "addresses": [
     {
       "street": "האשל",
@@ -19,5 +19,8 @@
       "lat": 32.4728942,
       "lon": 34.940184
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "IceCure-Medical-1076690015791424",
+  "linkedinNum": 461122
 }

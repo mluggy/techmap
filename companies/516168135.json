@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.remilk.com/",
   "careersUrl": "https://www.remilk.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "remilk",
   "crunchbaseId": null,
   "finderId": "remilk",
-  "xId": null,
+  "xId": "Remilk_Foods",
   "addresses": [
     {
       "street": "רמון אילן",
@@ -19,5 +19,8 @@
       "lat": 31.9174928,
       "lon": 34.8063292
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "remilkfoods",
+  "linkedinNum": 42351653
 }

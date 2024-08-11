@@ -1,16 +1,16 @@
 {
   "name": "Silkim Pharma",
-  "description": "Innovative Medications Aimed at Treating Inflammatory Diseases.",
+  "description": "Novel Drugs Targeting Inflammatory Pathologies",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/silkim_pharma-logo.webp",
-  "websiteUrl": "https://www.concenterbiopharma.com/",
+  "websiteUrl": "https://www.silkim.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "silkim-pharma",
   "crunchbaseId": "silkim-pharma",
   "finderId": "silkim-pharma",
-  "xId": null,
+  "xId": "SilkimP",
   "addresses": [
     {
       "street": "היהלום",
@@ -19,5 +19,8 @@
       "lat": 32.2498825,
       "lon": 34.9095651
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SilkimPharma",
+  "linkedinNum": 35704086
 }

@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.olive.earth/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "olive-diagnostics",
   "crunchbaseId": null,
   "finderId": "olive-diagnostics",
-  "xId": null,
+  "xId": "OliveDiagnostic",
   "addresses": [
     {
       "street": "אלמליח אברהם",
@@ -19,5 +19,8 @@
       "lat": 31.7524478,
       "lon": 35.1930935
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Olive-Diagnostics-115178040353124",
+  "linkedinNum": 68119319
 }

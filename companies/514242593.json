@@ -1,16 +1,16 @@
 {
-  "name": "Digigage",
+  "name": "DigiGage",
   "description": "Provides a cloud-based platform for building managers to effortlessly customize and control digital content from any device.",
   "categoryId": 6,
   "size": "xs",
   "logoFile": "logos/digigage-logo.webp",
-  "websiteUrl": "http://digigage.com/",
+  "websiteUrl": "https://digigage.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "digigage",
-  "xId": null,
+  "xId": "digigage_corp",
   "addresses": [
     {
       "street": "נחלת בנימין",
@@ -19,5 +19,8 @@
       "lat": 32.063335,
       "lon": 34.771519
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "digigageCorp",
+  "linkedinNum": 947525
 }

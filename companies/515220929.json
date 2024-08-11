@@ -1,5 +1,5 @@
 {
-  "name": "Neotx Therapeutics",
+  "name": "NeoTX",
   "description": "Revolutionizing cancer treatment through innovative immunotherapy approaches.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "neotx-therapeutics-ltd",
   "crunchbaseId": null,
   "finderId": "neotx",
-  "xId": null,
+  "xId": "NeoTXThera",
   "addresses": [
     {
       "street": "פקריס",
@@ -19,5 +19,7 @@
       "lat": 31.9106415,
       "lon": 34.8055972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27245756
 }

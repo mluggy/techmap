@@ -1,10 +1,10 @@
 {
   "name": "Tectona",
-  "description": "Designers of exquisite outdoor furniture including sofas, low armchairs, tables, parasols, and loungers.",
-  "categoryId": 9,
+  "description": "Online Platform for Creating, Trading, and Investing in Digital Assets",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/tectona-logo.webp",
-  "websiteUrl": "https://www.tectona.net/",
+  "websiteUrl": "https://www.tectona.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.08566465,
       "lon": 34.799904568972636
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78456007
 }

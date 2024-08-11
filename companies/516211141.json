@@ -1,10 +1,10 @@
 {
   "name": "Revium Recovery",
-  "description": "Our company specializes in providing healthcare solutions.",
+  "description": "Healthcare",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/revium_recovery-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.reviumrecovery.com ",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1732974,
       "lon": 34.8910865
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 70892814
 }

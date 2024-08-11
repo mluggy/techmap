@@ -1,5 +1,5 @@
 {
-  "name": "Mediwound",
+  "name": "MediWound",
   "description": "Pioneering the use of biologics for faster, more effective debridement of chronic and hard-to-heal wounds.",
   "categoryId": 12,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.mediwound.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mediwound",
   "crunchbaseId": null,
   "finderId": "mediwound",
-  "xId": null,
+  "xId": "MediWound_Ltd",
   "addresses": [
     {
       "street": "הירקון",
@@ -19,5 +19,8 @@
       "lat": 31.9001464,
       "lon": 34.7406922
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 1644054
 }

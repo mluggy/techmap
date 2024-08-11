@@ -1,10 +1,10 @@
 {
   "name": "Anyroutes",
-  "description": "A software service that facilitates teamwork in managing deliveries.",
-  "categoryId": 14,
+  "description": "SaaS Platform for Collaborative Deliveries",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/anyroutes-logo.webp",
-  "websiteUrl": "https://www.anyroute.cloud/",
+  "websiteUrl": "https://www.anyroutes.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "anyroutes",
@@ -19,5 +19,7 @@
       "lat": 32.089304049999996,
       "lon": 34.80792195196072
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 42333419
 }

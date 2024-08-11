@@ -1,5 +1,5 @@
 {
-  "name": "Lahakx",
+  "name": "LahakX",
   "description": "An agri-robotics tech firm providing modular, autonomous drones for precise and cost-effective spraying solutions.",
   "categoryId": 15,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "lahakx",
   "crunchbaseId": null,
   "finderId": "skyx",
-  "xId": null,
+  "xId": "skyx_agri_swarm",
   "addresses": [
     {
       "street": "כ\"ט בנובמבר",
@@ -19,5 +19,7 @@
       "lat": 32.1459388,
       "lon": 34.8416515
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12952246
 }

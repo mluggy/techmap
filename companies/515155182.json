@@ -1,16 +1,16 @@
 {
   "name": "Neos Tech",
-  "description": "Online Workspace Designed for Legal Professionals.",
+  "description": "Digital Workstation for the Legal Market",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/neos_tech-logo.webp",
-  "websiteUrl": "https://www.neostech.si/",
+  "websiteUrl": "https://dox.expert/",
   "careersUrl": "https://www.neotech.com/about-neo-tech/careers/",
   "isHiring": true,
   "linkedinId": "neos-technologies-inc",
   "crunchbaseId": null,
   "finderId": "neos-tech",
-  "xId": null,
+  "xId": "gic_law",
   "addresses": [
     {
       "street": "הכנסת הגדולה",
@@ -19,5 +19,7 @@
       "lat": 32.097776,
       "lon": 34.799429
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lawgic.il"
 }

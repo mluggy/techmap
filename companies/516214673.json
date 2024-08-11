@@ -1,10 +1,10 @@
 {
-  "name": "Balcar Report",
-  "description": "Virtual Inspection Service for Used Cars Before Purchase.",
-  "categoryId": 5,
+  "name": "BalCar",
+  "description": "Online Pre-Purchase Used Car Inspection",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/balcar_report-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.balcar.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1053566,
       "lon": 34.811018495092924
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BALCARcheck",
+  "linkedinNum": 79811583
 }

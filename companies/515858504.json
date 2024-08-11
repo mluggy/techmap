@@ -1,10 +1,10 @@
 {
-  "name": "Litigate",
-  "description": "Litigation Platform Enhanced by Artificial Intelligence.",
-  "categoryId": 1,
+  "name": "LitiGate",
+  "description": "AI-powered Litigation Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/litigate-logo.webp",
-  "websiteUrl": "https://www.legalquestions.help/",
+  "websiteUrl": "https://litigate.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "litigate",
@@ -19,5 +19,7 @@
       "lat": 32.0639619,
       "lon": 34.7738712
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17962450
 }

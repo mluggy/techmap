@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "medivizor",
-  "xId": null,
+  "xId": "medivizor",
   "addresses": [
     {
       "street": "אהליאב",
@@ -19,5 +19,8 @@
       "lat": 32.08769233337585,
       "lon": 34.8022060856916
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "medivizor ",
+  "linkedinNum": 2802514
 }

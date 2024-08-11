@@ -1,5 +1,5 @@
 {
-  "name": "Icobots",
+  "name": "iCobots",
   "description": "חלוצה בשוק הישראלי, החברה מתמחה ביישום רובוטים שיתופיים במגוון תעשיות כגון רפואי, מזון, ומתכת.",
   "categoryId": 15,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "icobots",
+  "linkedinNum": 10379637
 }

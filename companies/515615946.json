@@ -1,16 +1,16 @@
 {
-  "name": "Bemedia Communities",
-  "description": "Providing world-class audio, visual, and SFX lighting systems to enhance experiences globally.",
-  "categoryId": 2,
+  "name": "Guruz",
+  "description": "Community-centric Content Creation Platform",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/bemedia_communities-logo.webp",
-  "websiteUrl": "https://www.bemedia.com/",
+  "websiteUrl": "https://www.guruz.zone/en/welcome-publishers2/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "digital-guruz",
   "crunchbaseId": null,
   "finderId": "bemedia",
-  "xId": null,
+  "xId": "newguruz",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.070889,
       "lon": 34.8163338
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Guruznet",
+  "linkedinNum": 10675792
 }

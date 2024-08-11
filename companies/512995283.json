@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "notal-vision",
-  "xId": null,
+  "xId": "NotalVision",
   "addresses": [
     {
       "street": "דרויאנוב",
@@ -19,5 +19,7 @@
       "lat": 32.076978,
       "lon": 34.771767
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 52831
 }

@@ -1,10 +1,10 @@
 {
   "name": "Novetide",
-  "description": "Specializing in the creation and production of peptides.",
+  "description": "Peptide Development and Manufacture",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/novetide-logo.webp",
-  "websiteUrl": "https://novetide.lookchem.com/",
+  "websiteUrl": "https://www.novetide.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "novetide-ltd.",
@@ -19,5 +19,7 @@
       "lat": 32.113469,
       "lon": 34.841716
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1228122
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Nation E",
-  "description": "Security Solutions for Essential Infrastructure.",
+  "name": "Nation-E",
+  "description": "Cyber Protection for Critical Infrastructure",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/nation_e-logo.webp",
-  "websiteUrl": "https://epaper.nation.africa/",
+  "websiteUrl": "https://nation-e.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "nation-e-ag",
   "crunchbaseId": "nation-e",
   "finderId": "nation-e",
-  "xId": null,
+  "xId": "Nation_E_",
   "addresses": [
     {
       "street": "מדינת היהודים",
@@ -19,5 +19,8 @@
       "lat": 32.1664377,
       "lon": 34.8105544
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Nation-E-291216450906761",
+  "linkedinNum": 1222849
 }

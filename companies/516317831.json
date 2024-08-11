@@ -1,10 +1,10 @@
 {
-  "name": "Alma Technologies",
-  "description": "Inertial Sensor-Based Localization Technology.",
-  "categoryId": 13,
+  "name": "ALMA Technologies",
+  "description": "Localization Technology Based on Inertial Sensors",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/alma_technologies-logo.webp",
-  "websiteUrl": "https://www.alma-technologies.com/",
+  "websiteUrl": "https://www.almatechnologies.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "alma-technologies",
@@ -19,5 +19,7 @@
       "lat": 32.7668032,
       "lon": 35.0163919
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71188539
 }

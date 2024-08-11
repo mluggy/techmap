@@ -1,16 +1,16 @@
 {
-  "name": "Quana Ways",
-  "description": "A platform providing guidance for medical cannabis decisions.",
+  "name": "Quana",
+  "description": "Decision Support Platform for Medical Cannabis",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/quana_ways-logo.webp",
-  "websiteUrl": "https://simplyquana.com/",
+  "websiteUrl": "https://www.quana.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "quana",
-  "xId": null,
+  "xId": "QUANA60195401",
   "addresses": [
     {
       "street": "העוגן",
@@ -19,5 +19,8 @@
       "lat": 32.8290463,
       "lon": 34.9636582
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Quana.Israel",
+  "linkedinNum": 35650496
 }

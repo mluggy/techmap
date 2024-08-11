@@ -1,10 +1,10 @@
 {
-  "name": "Getruck",
-  "description": "Providing comprehensive vehicle procurement services to businesses since 2008, specializing in trucks, delivery vehicles, and trailers.",
+  "name": "GeTruck",
+  "description": "Online Platform for Finding Available Freight Trucks",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/getruck-logo.webp",
-  "websiteUrl": "https://www.getruck.eu/",
+  "websiteUrl": "https://www.getruck.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GetruckIL",
+  "linkedinNum": 69688764
 }

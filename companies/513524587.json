@@ -1,5 +1,5 @@
 {
-  "name": "Greenroad Driving Technologies",
+  "name": "GreenRoad Technologies",
   "description": "Pioneering real-time driver behavior management solutions for enhanced safety and performance.",
   "categoryId": 5,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "greenroad",
   "crunchbaseId": "greenroad-technologies",
   "finderId": "greenroad",
-  "xId": null,
+  "xId": "GreenRoadNews",
   "addresses": [
     {
       "street": "הרוקמים",
@@ -19,5 +19,8 @@
       "lat": 32.0077054,
       "lon": 34.80060304320986
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GreenRoadTechnologies",
+  "linkedinNum": 400001
 }

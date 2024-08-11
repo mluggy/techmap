@@ -1,10 +1,10 @@
 {
   "name": "Mashik Procurement Technologies",
-  "description": "Management of sourcing and logistics operations.",
-  "categoryId": 9,
+  "description": "Procurement and Supply Chain Management",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/mashik_procurement_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.mashik.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "mashik-procurement-technologies",
@@ -19,5 +19,8 @@
       "lat": 32.1630041,
       "lon": 34.808744
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Mashik-We-Procure-Your-Success-150308501690473",
+  "linkedinNum": 131713
 }

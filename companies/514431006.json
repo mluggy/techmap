@@ -1,0 +1,26 @@
+{
+  "name": "TEOCO",
+  "description": null,
+  "categoryId": 18,
+  "size": "xl",
+  "logoFile": "logos/teoco.webp",
+  "websiteUrl": "https://www.teoco.com/",
+  "careersUrl": "https://www.teoco.com/company/careers/",
+  "isHiring": true,
+  "linkedinId": "teoco",
+  "linkedinNum": 12486,
+  "crunchbaseId": null,
+  "finderId": "teoco",
+  "xId": "teoco_corp",
+  "facebookId": "teococorporation",
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 12,
+      "city": "ראש העין",
+      "lat": 32.106828711204095,
+      "lon": 34.96756379890979
+    }
+  ],
+  "isMultinational": true
+}

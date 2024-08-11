@@ -1,5 +1,5 @@
 {
-  "name": "Nsure Ai Payment Assurance",
+  "name": "nSure.ai",
   "description": "They offer custom AI models to tackle fraud in high-risk digital transactions.",
   "categoryId": 10,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.nsure.ai/",
   "careersUrl": "https://www.nsure.ai/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "nsureai",
   "crunchbaseId": "nsure-ai-payment-assurance",
   "finderId": "nsure",
-  "xId": null,
+  "xId": "nSure_ai",
   "addresses": [
     {
       "street": "יבנה",
@@ -19,5 +19,8 @@
       "lat": 32.063565,
       "lon": 34.774039
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nsureai",
+  "linkedinNum": 30160132
 }

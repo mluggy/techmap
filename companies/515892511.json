@@ -1,10 +1,10 @@
 {
-  "name": "Syncath Neuroscience",
-  "description": "Brain Support Device for Intensive Neurological Care.",
+  "name": "SynCath NeuroScience",
+  "description": "Cerebral Assist Device for Neurointensive Care",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/syncath_neuroscience-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.syncath.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "syncath-neuroscience",
@@ -19,5 +19,7 @@
       "lat": 32.1671248,
       "lon": 34.8589132
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 91486577
 }

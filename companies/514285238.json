@@ -1,16 +1,16 @@
 {
   "name": "Enigmai",
-  "description": "Employee Management Tools.",
+  "description": "Workforce Management Solutions",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/enigmai-logo.webp",
-  "websiteUrl": "http://www.enigmaicavaliers.co.uk/",
+  "websiteUrl": "https://www.enigmai.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "enigmai",
   "crunchbaseId": "enigmai",
   "finderId": "enigmai",
-  "xId": null,
+  "xId": "enigmai",
   "addresses": [
     {
       "street": "אהוד מנור",
@@ -19,5 +19,8 @@
       "lat": 32.3224107,
       "lon": 34.9378512
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "enigmai",
+  "linkedinNum": 376555
 }

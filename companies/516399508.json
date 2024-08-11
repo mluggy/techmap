@@ -1,5 +1,5 @@
 {
-  "name": "Superfruiter",
+  "name": "SuperFruiter",
   "description": "Innovatively cultivating seven diverse melon varieties and a new edible-rind Cherry Melon with unique patterns and seedless traits.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.1604703,
       "lon": 34.809883
     }
-  ]
+  ],
+  "isMultinational": false
 }

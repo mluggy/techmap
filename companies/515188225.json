@@ -1,15 +1,17 @@
 {
   "name": "Aqwind Solutions",
-  "description": "Using Microalgae for Wastewater Treatment.",
-  "categoryId": 17,
+  "description": "Wastewater Treatment with Microalgae",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/aqwind_solutions-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://aquanos.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "aqwind-solutions",
   "finderId": "aquanos",
-  "xId": null,
-  "addresses": []
+  "xId": "AquanosWater",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "aqwind.solutions"
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Granalix Bio Technologies",
-  "description": "A biotech firm based in Jerusalem specializing in innovative solutions with dedicated sales and support services.",
+  "name": "Granalix BioTechnologies",
+  "description": "Natural Antioxidant Products to Support Brain Health",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/granalix_bio_technologies-logo.webp",
-  "websiteUrl": "https://int.granalix.com/",
+  "websiteUrl": "https://granalix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "granalix-bio-technologies-ltd",
   "crunchbaseId": null,
   "finderId": "granalix",
-  "xId": null,
+  "xId": "granalix",
   "addresses": [
     {
       "street": "יד חרוצים",
@@ -19,5 +19,8 @@
       "lat": 31.7544321,
       "lon": 35.2168529
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Granalix-331240673885848",
+  "linkedinNum": 17933204
 }

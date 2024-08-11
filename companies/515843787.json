@@ -1,5 +1,5 @@
 {
-  "name": "Bny Mellon Tel Aviv",
+  "name": "BNY Mellon",
   "description": "This company provides undisclosed services or products, encouraging visitors to learn more.",
   "categoryId": 10,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "bny-mellon",
   "crunchbaseId": null,
   "finderId": "bny-mellon",
-  "xId": null,
+  "xId": "BNYMellon",
   "addresses": [
     {
       "street": "שץ גגה גרשון",
@@ -19,5 +19,8 @@
       "lat": 32.069126,
       "lon": 34.789123
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "bnymellon",
+  "linkedinNum": 162750
 }

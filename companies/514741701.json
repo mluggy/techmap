@@ -1,5 +1,5 @@
 {
-  "name": "Cardio Scale",
+  "name": "CardioScale",
   "description": "This company developed CVRI™ technology, demonstrating a perfect prediction rate for patient deterioration in a 2015 hemorrhage study.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cardioscale",
-  "xId": null,
+  "xId": "CardioScale",
   "addresses": [
     {
       "street": "פארן",
@@ -19,5 +19,7 @@
       "lat": 31.8939898,
       "lon": 34.7347034
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10418766
 }

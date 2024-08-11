@@ -1,10 +1,10 @@
 {
   "name": "Trailze",
-  "description": "Micromobility Navigation Software Development Kit.",
-  "categoryId": 1,
+  "description": "Navigation SDK for Micromobility",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/trailze-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.trailze.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "trailze",
@@ -19,5 +19,8 @@
       "lat": 31.8873138,
       "lon": 35.0052455
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "trailze",
+  "linkedinNum": 6555575
 }

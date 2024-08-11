@@ -1,5 +1,5 @@
 {
-  "name": "Nuvoton Technology Israel",
+  "name": "Nuvoton",
   "description": "A prominent semiconductor company specializing in 8051 and ARM Cortex microcontrollers.",
   "categoryId": 16,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.nuvoton.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nuvoton-technology-israel-ltd",
   "crunchbaseId": null,
   "finderId": "nuvoton",
-  "xId": null,
+  "xId": "nuvoton",
   "addresses": [
     {
       "street": "הסדנאות",
@@ -19,5 +19,8 @@
       "lat": 32.1616353,
       "lon": 34.8064697
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "NuvotonIsrael",
+  "linkedinNum": 411045
 }

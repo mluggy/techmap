@@ -1,5 +1,5 @@
 {
-  "name": "Openlm",
+  "name": "OpenLM",
   "description": "Offering swift, installation-free license management, our cloud solution ensures top-notch support and streamlined monitoring.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "openlm",
-  "xId": null,
+  "xId": "OpenLM",
   "addresses": [
     {
       "street": "השלדג",
@@ -19,5 +19,8 @@
       "lat": 32.4040862,
       "lon": 34.921539
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "openlm",
+  "linkedinNum": 602180
 }

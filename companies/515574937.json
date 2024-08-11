@@ -1,5 +1,5 @@
 {
-  "name": "Dustphotonics",
+  "name": "DustPhotonics",
   "description": "Offering advanced technology for integrating lasers on Silicon to enhance product performance, reduce costs, and enable scalable high-volume production.",
   "categoryId": 16,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dust-photonics",
-  "xId": null,
+  "xId": "DustPhotonics",
   "addresses": [
     {
       "street": "צלע ההר",
@@ -19,5 +19,8 @@
       "lat": 31.9161844,
       "lon": 34.9690754
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dustphotonics",
+  "linkedinNum": 27219735
 }

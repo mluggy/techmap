@@ -1,5 +1,5 @@
 {
-  "name": "Roundrack",
+  "name": "RoundRack",
   "description": "Their collaborative platform accelerates next-gen materials and dyes from design to launch while unifying project management and feedback.",
   "categoryId": 14,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 31.91169765,
       "lon": 35.00057234884738
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "roundrack",
+  "linkedinNum": 65696433
 }

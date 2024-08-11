@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "curatronic",
-  "xId": null,
+  "xId": "curatronic",
   "addresses": [
     {
       "street": "דרך חברון",
@@ -19,5 +19,8 @@
       "lat": 31.754855,
       "lon": 35.2216657
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PEMFT",
+  "linkedinNum": 51902956
 }

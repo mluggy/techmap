@@ -1,5 +1,5 @@
 {
-  "name": "Clew Medical",
+  "name": "CLEW",
   "description": "Using AI-driven, FDA-cleared predictive analytics to improve high-acuity care.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "clewmed",
   "crunchbaseId": null,
   "finderId": "clew",
-  "xId": null,
+  "xId": "CLEWMedical",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2773544,
       "lon": 34.8584354
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Intensix-1835587049784781",
+  "linkedinNum": 5393940
 }

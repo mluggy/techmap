@@ -1,5 +1,5 @@
 {
-  "name": "Hexa Grid",
+  "name": "Hexa",
   "description": "Elevating eCommerce, Hexa provides a comprehensive 3D tech stack for creating, managing, analyzing, and distributing 3D commerce assets.",
   "categoryId": 9,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fitix",
-  "xId": null,
+  "xId": "hexa3d",
   "addresses": [
     {
       "street": "מבטחים",
@@ -19,5 +19,8 @@
       "lat": 32.087326,
       "lon": 34.8543625
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hexa3d.io",
+  "linkedinNum": 10098278
 }

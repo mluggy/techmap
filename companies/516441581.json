@@ -1,10 +1,10 @@
 {
-  "name": "Altman Digital",
-  "description": "Providing 24/7 aggressive representation for personal injury cases, with free consultations available.",
+  "name": "Altman Health",
+  "description": "Nutritional Supplements",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/altman_digital-logo.webp",
-  "websiteUrl": "https://www.altmanllp.com/",
+  "websiteUrl": "https://www.altman.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "altman-health",
@@ -19,5 +19,8 @@
       "lat": 31.517269499999998,
       "lon": 34.92250738240337
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "altman.il",
+  "linkedinNum": 10115950
 }

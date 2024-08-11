@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "frontegg",
-  "xId": null,
+  "xId": "FronteggForSaaS",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0835543,
       "lon": 34.8042074
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "frontegg",
+  "linkedinNum": 29365766
 }

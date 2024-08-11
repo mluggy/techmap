@@ -1,5 +1,5 @@
 {
-  "name": "24 Me",
+  "name": "24me",
   "description": "This app enhances life quality globally by intuitively generating reminders, organizing schedules, and auto-completing tasks.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "24me",
-  "xId": null,
+  "xId": "my24me",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,8 @@
       "lat": 32.0592087,
       "lon": 34.8819389
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "my24me",
+  "linkedinNum": 2563670
 }

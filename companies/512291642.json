@@ -1,5 +1,5 @@
 {
-  "name": "Cyberark Software",
+  "name": "CyberArk",
   "description": "Ensures seamless identity security across all access points and infrastructures, including hybrid, SaaS, and multi-cloud environments.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "cyber-ark-software",
   "crunchbaseId": null,
   "finderId": "cyberark",
-  "xId": null,
+  "xId": "CyberArk",
   "addresses": [
     {
       "street": "הפסגות",
@@ -19,5 +19,8 @@
       "lat": 32.097946,
       "lon": 34.8551804
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CyberArk",
+  "linkedinNum": 26630
 }

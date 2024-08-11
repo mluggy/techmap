@@ -1,5 +1,5 @@
 {
-  "name": "Bsp Medical",
+  "name": "BSP Medical",
   "description": "A pioneering biomedical technology firm, revolutionizing non-invasive cardiac diagnostics with FDA cleared, CE marked HyperQ technology and innovative wearable devices.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.0835543,
       "lon": 34.8042074
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 26257096
 }

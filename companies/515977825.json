@@ -1,23 +1,25 @@
 {
   "name": "Ludus Technologies",
-  "description": "Revolutionizing sports, gaming, and health through cutting-edge machine learning technology that enhances cognitive and physical training and delivers accessible eSports experiences.",
-  "categoryId": 1,
+  "description": "Interactive Tool for Alleviating Test Anxiety in Students",
+  "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/ludus_technologies-logo.webp",
-  "websiteUrl": "https://www.ludus-technologies.com/",
+  "logoFile": "logos/ludus1.webp",
+  "websiteUrl": "https://ludus.ac/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": "ludus-alliance",
-  "crunchbaseId": "ludus-materials",
-  "finderId": "ludus-technologies",
+  "linkedinNum": 18451285,
+  "crunchbaseId": null,
+  "finderId": "ludus1",
   "xId": null,
+  "facebookId": null,
   "addresses": [
     {
       "street": "חובבי ציון",
       "houseNumber": 63,
       "city": "תל אביב - יפו",
-      "lat": 32.078681,
-      "lon": 34.771671
+      "lat": 32.07888963620082,
+      "lon": 34.77175017358546
     }
-  ]
+  ],
+  "isMultinational": false
 }

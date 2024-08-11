@@ -1,5 +1,5 @@
 {
-  "name": "Team Cymru Israel",
+  "name": "Team Cymru",
   "description": "Leading the way in cyber threat intelligence, empowering global organizations with advanced business risk and threat intelligence solutions.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "team-cymru",
   "finderId": "cymru",
-  "xId": null,
+  "xId": "teamcymru",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0835543,
       "lon": 34.8042074
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "teamcymru",
+  "linkedinNum": 3231546
 }

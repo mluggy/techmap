@@ -1,5 +1,5 @@
 {
-  "name": "Taboola.com",
+  "name": "Taboola",
   "description": "The leading native advertising platform enabling reach to 600M daily users and scalable conversions.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "taboola",
   "crunchbaseId": null,
   "finderId": "taboola",
-  "xId": null,
+  "xId": "taboola",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,9 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "taboola",
+  "linkedinNum": 128707,
+  "greenhouseId": "taboola"
 }

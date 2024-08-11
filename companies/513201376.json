@@ -10,7 +10,7 @@
   "linkedinId": "imperva",
   "crunchbaseId": null,
   "finderId": "imperva",
-  "xId": null,
+  "xId": "imperva",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0730925,
       "lon": 34.7893649
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "imperva",
+  "linkedinNum": 14312
 }

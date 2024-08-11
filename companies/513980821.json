@@ -1,16 +1,16 @@
 {
-  "name": "Tomax Technologies",
-  "description": "With over 30 years of experience, we are industry leaders known for our commitment to safe and high-quality products.",
-  "categoryId": 15,
+  "name": "Tomax",
+  "description": "Document Scanning and Management Solutions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tomax_technologies-logo.webp",
-  "websiteUrl": "https://www.tomaxusa.com/",
+  "websiteUrl": "https://tomaxltd.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tomax-think-academy",
   "crunchbaseId": null,
   "finderId": "tomax",
-  "xId": null,
+  "xId": "TomaxThink",
   "addresses": [
     {
       "street": "דרך הפרחים",
@@ -19,5 +19,7 @@
       "lat": 32.3466524,
       "lon": 34.9139454
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27022526
 }

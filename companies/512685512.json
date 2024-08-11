@@ -1,5 +1,5 @@
 {
-  "name": "Simigon",
+  "name": "SimiGon",
   "description": "A rapidly expanding, licensed provider of expert modeling, simulation, and training solutions.",
   "categoryId": 3,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "simigon",
   "crunchbaseId": null,
   "finderId": "simigon",
-  "xId": null,
+  "xId": "SimiGonGroup",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,8 @@
       "lat": 32.0900013,
       "lon": 34.8601803
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "kory.edwards.1297",
+  "linkedinNum": 30847
 }

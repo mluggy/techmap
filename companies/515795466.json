@@ -1,16 +1,16 @@
 {
-  "name": "Nym Health",
-  "description": "They offer privacy solutions to make online traffic patterns invisible to observers, enhancing digital security even with encrypted content.",
-  "categoryId": 7,
+  "name": "Nym",
+  "description": "Natural Language Understanding for Automated Healthcare Coding",
+  "categoryId": 12,
   "size": "l",
   "logoFile": "logos/nym_health-logo.webp",
-  "websiteUrl": "https://nymtech.net/",
+  "websiteUrl": "https://www.nym.health/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nym",
-  "xId": null,
+  "xId": "NymHealth",
   "addresses": [
     {
       "street": "סעדיה גאון",
@@ -19,5 +19,8 @@
       "lat": 32.068118,
       "lon": 34.782365
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nym.health",
+  "linkedinNum": 28601233
 }

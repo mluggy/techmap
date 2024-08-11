@@ -1,5 +1,5 @@
 {
-  "name": "Altair Engineering Israel",
+  "name": "Altair",
   "description": "We tackle the toughest challenges, drive innovation, and enable better decision-making with a forward-looking approach.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "altair1",
-  "xId": null,
+  "xId": "altair_inc",
   "addresses": [
     {
       "street": "הצמיחה",
@@ -19,5 +19,9 @@
       "lat": 32.668888,
       "lon": 35.107009
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "altairengineering",
+  "linkedinNum": 8323,
+  "comeetId": "altair-semi/88.003"
 }

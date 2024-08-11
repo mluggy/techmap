@@ -1,16 +1,16 @@
 {
-  "name": "Ping Identity",
-  "description": "Best-in-class user registration, onboarding, sign-in, profile management, account recovery, and anything identity easy.",
-  "categoryId": 7,
+  "name": "Spike",
+  "description": "Email-based Message Platform for Work Environments",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/ping_identity-logo.webp",
-  "websiteUrl": "https://www.pingidentity.com/",
+  "websiteUrl": "https://www.spikenow.com",
   "careersUrl": "https://www.pingidentity.com/en/company/careers/careers-listings.html",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ping",
-  "xId": null,
+  "xId": "SpikeNowHQ",
   "addresses": [
     {
       "street": "אפעל",
@@ -19,5 +19,8 @@
       "lat": 32.09584395,
       "lon": 34.846930395423286
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Spike",
+  "linkedinNum": 3240452
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Rescue Dose",
+  "name": "RescueDose",
   "description": "Developing compact robotic devices, this company automates liquid medication dispensing to enhance safety and accuracy for patients and medical staff.",
   "categoryId": 15,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rescuedose",
-  "xId": null,
+  "xId": "RescueDose",
   "addresses": [
     {
       "street": "התנופה",
@@ -19,5 +19,7 @@
       "lat": 32.66791475,
       "lon": 35.10722320481222
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5027261
 }

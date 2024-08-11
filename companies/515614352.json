@@ -1,10 +1,10 @@
 {
   "name": "Croptimal",
-  "description": "A laboratory that conducts tests directly on-site.",
-  "categoryId": 12,
+  "description": "In-field Testing Laboratory",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/croptimal-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.croptimal.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "croptimal-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.688657,
       "lon": 35.2479729
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "croptimal",
+  "linkedinNum": 18036388
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Comsigntrust",
-  "description": "Providing organizations with automation and control solutions to enhance efficiency and save costs.",
-  "categoryId": 15,
+  "name": "ComSignTrust",
+  "description": "Esigning Solutions",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/comsigntrust-logo.webp",
-  "websiteUrl": "https://www.comsign.co.il/",
+  "websiteUrl": "https://www.comsigntrust.com",
   "careersUrl": "https://www.comsign.co.il/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "comsigntrust",
-  "xId": null,
+  "xId": "comsigntrust",
   "addresses": [
     {
       "street": "דבורה הנביאה",
@@ -19,5 +19,8 @@
       "lat": 32.113296,
       "lon": 34.842221
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ComSignTrust-292253184195971",
+  "linkedinNum": 2756887
 }

@@ -1,16 +1,16 @@
 {
-  "name": "2 Breathe Technologies",
-  "description": "Breath Technologies provides technology to help you breathe better with respiratory professionals. This includes a platform, point solutions, ...",
+  "name": "2breathe Technologies",
+  "description": "Smart Device and Mobile App to Induce Sleep",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/2_breathe_technologies-logo.webp",
-  "websiteUrl": "https://breathtechnologies.com/",
+  "websiteUrl": "https://www.resperate.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "breathetech",
   "crunchbaseId": "breathe-technologies",
   "finderId": "2breathe-technologies",
-  "xId": null,
+  "xId": "resperate",
   "addresses": [
     {
       "street": "התדהר",
@@ -19,5 +19,8 @@
       "lat": 32.1985331,
       "lon": 34.8842596
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "resperate",
+  "linkedinNum": 132572
 }

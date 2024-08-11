@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "brainlab",
-  "xId": null,
+  "xId": "brainlab",
   "addresses": [
     {
       "street": "אפעל",
@@ -19,5 +19,8 @@
       "lat": 32.09830575,
       "lon": 34.84795202515514
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "brainlabcorporate",
+  "linkedinNum": 9355
 }

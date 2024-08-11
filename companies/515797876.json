@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vulcan-cyber",
-  "xId": null,
+  "xId": "VulcanCyber",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0605137,
       "lon": 34.7759853
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VulcanCyber",
+  "linkedinNum": 18660237
 }

@@ -1,16 +1,16 @@
 {
   "name": "Sealights Technologies",
-  "description": "A platform for enhancing and monitoring software quality.",
+  "description": "Software Quality Intelligence Platform",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/sealights_technologies-logo.webp",
-  "websiteUrl": "https://sealighttech.com/",
+  "websiteUrl": "https://www.sealights.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "sealights-technologies-ltd",
   "crunchbaseId": "sealights",
   "finderId": "sealights",
-  "xId": null,
+  "xId": "sealights_io",
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -19,5 +19,9 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LifeatSeaLights",
+  "linkedinNum": 10865318,
+  "comeetId": "sealights/C5.008"
 }

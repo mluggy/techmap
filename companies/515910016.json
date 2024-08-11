@@ -1,10 +1,10 @@
 {
-  "name": "Mcfly Aviation Technologies",
-  "description": "Special edition set featuring collectible cassette tapes of Tom, Danny, Harry, and Dougie, plus a signed postcard.",
+  "name": "McFly",
+  "description": "Portable Heavy-lifter Drones",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/mcfly_aviation_technologies-logo.webp",
-  "websiteUrl": "https://www.mcfly.com/",
+  "websiteUrl": "https://www.mcflyhigh.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0729375,
       "lon": 34.8622846
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13048927
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "livecycle",
-  "xId": null,
+  "xId": "get_livecycle",
   "addresses": [
     {
       "street": "הורוביץ",
@@ -19,5 +19,7 @@
       "lat": 31.959958450000002,
       "lon": 34.7990496774503
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76680340
 }

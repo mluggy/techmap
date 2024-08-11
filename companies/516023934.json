@@ -1,5 +1,5 @@
 {
-  "name": "Axon Pulse",
+  "name": "AxonPulse",
   "description": "Leveraging deep learning, this company enhances radar perception by extracting hidden features from radar signals, surpassing traditional algorithms.",
   "categoryId": 1,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.0605137,
       "lon": 34.7759853
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 65802791
 }

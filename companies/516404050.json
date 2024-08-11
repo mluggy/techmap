@@ -1,10 +1,10 @@
 {
   "name": "Castify",
-  "description": "We create eco-friendly, durable phone cases and tech accessories for the latest iPhone models.",
-  "categoryId": 9,
+  "description": "Video Content Distribution Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/castify-logo.webp",
-  "websiteUrl": "https://www.casetify.com/",
+  "websiteUrl": "https://castify.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1675106,
       "lon": 34.8116118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 42295297
 }

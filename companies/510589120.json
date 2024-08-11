@@ -1,0 +1,25 @@
+{
+  "name": "Elpam Electronics",
+  "description": "Homeland Security Systems",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/elpam.webp",
+  "websiteUrl": "https://www.elpam.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 5240465,
+  "crunchbaseId": null,
+  "finderId": "elpam",
+  "xId": "elapme",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "אביב משה",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.022074677082145,
+      "lon": 34.861041817480356
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,10 +1,10 @@
 {
-  "name": "Arhimotion",
+  "name": "ARHIMOTION",
   "description": null,
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/arhimotion-logo.webp",
-  "websiteUrl": "http://armotion.es/",
+  "websiteUrl": "https://armotion.es/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.8993726,
       "lon": 34.823157
     }
-  ]
+  ],
+  "isMultinational": false
 }

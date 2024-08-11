@@ -1,10 +1,10 @@
 {
-  "name": "Cortisense",
-  "description": "A lifestyle device that analyzes small saliva samples for cortisol levels, offering detailed insights and visualizations through an easy-to-use app to track and monitor stress patterns throughout the day.",
-  "categoryId": 12,
+  "name": "CortiSense",
+  "description": "Fully Automated Predictive Maintenance Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/cortisense-logo.webp",
-  "websiteUrl": "https://www.corti-sense.com/",
+  "websiteUrl": "https://www.cortisense.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1723529,
       "lon": 34.8682781
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67875999
 }

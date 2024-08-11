@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mapme",
-  "xId": null,
+  "xId": "mapmeapp",
   "addresses": [
     {
       "street": "הנביאים",
@@ -19,5 +19,8 @@
       "lat": 31.783554,
       "lon": 35.2223102
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mappedly",
+  "linkedinNum": 9199493
 }

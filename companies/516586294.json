@@ -1,10 +1,10 @@
 {
   "name": "Quantum Art",
-  "description": "Check out Quantum-Art's art on DeviantArt. Browse the user profile and get inspired.",
-  "categoryId": 8,
+  "description": "Ion Trap Quantum Computers",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/quantum_art-logo.webp",
-  "websiteUrl": "https://quantum-art.deviantart.com/",
+  "websiteUrl": "https://www.quantum-art.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "quantum-art-tech",
@@ -19,5 +19,7 @@
       "lat": 31.9147813,
       "lon": 34.8067343
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 88394173
 }

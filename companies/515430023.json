@@ -1,5 +1,5 @@
 {
-  "name": "Trapica Labs",
+  "name": "Trapica",
   "description": "A unified AI-driven platform that streamlines campaign management and delivers actionable market intelligence for brands and agencies.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "trapica-labs",
-  "xId": null,
+  "xId": "Trapica_labs",
   "addresses": [
     {
       "street": "אלקלעי",
@@ -19,5 +19,8 @@
       "lat": 32.090949,
       "lon": 34.779722
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TrapicaAI",
+  "linkedinNum": 13179762
 }

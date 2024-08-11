@@ -1,16 +1,16 @@
 {
   "name": "Reachix",
-  "description": "Advanced AI solutions for social media marketing and online sales.",
-  "categoryId": 1,
+  "description": "AI-powered Social Marketing and Commerce",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/reachix-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.reachix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "reachix",
   "crunchbaseId": "reachix",
   "finderId": "reachix",
-  "xId": null,
+  "xId": "ReachixCom",
   "addresses": [
     {
       "street": "דנקנר מאיר",
@@ -19,5 +19,8 @@
       "lat": 32.0914268,
       "lon": 34.8713571
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "reachix",
+  "linkedinNum": 28136960
 }

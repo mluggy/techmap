@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "uppler",
-  "xId": null,
+  "xId": "_Uppler",
   "addresses": [
     {
       "street": "הוז דב",
@@ -19,5 +19,8 @@
       "lat": 32.081719,
       "lon": 34.772595
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "upplernetwork",
+  "linkedinNum": 5255842
 }

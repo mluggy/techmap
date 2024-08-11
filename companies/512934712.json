@@ -1,5 +1,5 @@
 {
-  "name": "Nuvei Consulting Services Israel",
+  "name": "Nuvei",
   "description": "Enabling business growth through innovative, future-proof payment solutions.",
   "categoryId": 10,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "nuvei",
   "crunchbaseId": null,
   "finderId": "nuvei",
-  "xId": null,
+  "xId": "NuveiTech",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "NuveiTech",
+  "linkedinNum": 18869693
 }

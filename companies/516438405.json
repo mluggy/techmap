@@ -1,10 +1,10 @@
 {
-  "name": "Sion Land Survying",
-  "description": "Effortlessly track and manage travel commissions with a platform that simplifies splits and provides real-time booking data.",
-  "categoryId": 14,
+  "name": "SION",
+  "description": "Artificial Insemination and Breeding of Dairy Cows",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/sion_land_survying-logo.webp",
-  "websiteUrl": "https://www.sioncentral.com/",
+  "websiteUrl": "https://www.sion-israel.com/english/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.7311356,
       "lon": 34.737589
     }
-  ]
+  ],
+  "isMultinational": false
 }

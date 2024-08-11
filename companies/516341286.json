@@ -1,10 +1,10 @@
 {
-  "name": "Deboost",
-  "description": "Deboost is a platform designed to enhance employee motivation and engagement.",
+  "name": "deboost",
+  "description": "Employee Engagement & Motivation Platform",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/deboost-logo.webp",
-  "websiteUrl": "https://www.boost.com/",
+  "websiteUrl": "https://www.deboost.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1691856,
       "lon": 34.8580241
     }
-  ]
+  ],
+  "isMultinational": false
 }

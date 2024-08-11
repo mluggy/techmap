@@ -1,5 +1,5 @@
 {
-  "name": "Neurotrax Israel",
+  "name": "NeuroTrax",
   "description": "A new computerized testing solution promotes brain wellness after stroke and traumatic brain injury.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "neurotrax",
-  "xId": null,
+  "xId": "NeuroTrax",
   "addresses": [
     {
       "street": "השדרה המרכזית",
@@ -19,5 +19,8 @@
       "lat": 31.92407985211603,
       "lon": 34.96626110394324
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NeuroTrax",
+  "linkedinNum": 120360
 }

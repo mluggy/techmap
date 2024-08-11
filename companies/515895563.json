@@ -1,5 +1,5 @@
 {
-  "name": "Asensus Surgical Israel",
+  "name": "Asensus",
   "description": "Pioneering cutting-edge robotic-assisted surgical technology, revolutionizing the field by eliminating traditional barriers.",
   "categoryId": 15,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "asensus-surgical-inc",
   "crunchbaseId": null,
   "finderId": "asensus",
-  "xId": null,
+  "xId": "TransEnterix",
   "addresses": [
     {
       "street": "הקידמה",
@@ -19,5 +19,7 @@
       "lat": 32.6719622,
       "lon": 35.107023
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 486080
 }

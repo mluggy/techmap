@@ -1,5 +1,5 @@
 {
-  "name": "Tigo Energy Israel",
+  "name": "Tigo Energy",
   "description": "A global leader in Flex MLPE, this company designs cutting-edge solar power conversion and storage solutions.",
   "categoryId": 17,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "tigo-energy",
   "crunchbaseId": null,
   "finderId": "tigo-energy",
-  "xId": null,
+  "xId": "TigoEnergy",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1932202,
       "lon": 34.8827706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TigoEnergy",
+  "linkedinNum": 507150
 }

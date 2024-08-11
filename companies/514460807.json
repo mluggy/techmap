@@ -1,5 +1,5 @@
 {
-  "name": "Gili Ocean Technology",
+  "name": "GiliOcean Technology",
   "description": "A pioneer in third-generation marine aquaculture, this hi-tech company leads innovative sustainable fish farming with the largest offshore single-array fish farm.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "gili-ocean-technology-ltd.-subflex-netcages-",
   "crunchbaseId": null,
   "finderId": "subflex",
-  "xId": null,
+  "xId": "giliocean",
   "addresses": [
     {
       "street": "גלבוע",
@@ -19,5 +19,8 @@
       "lat": 32.2610178,
       "lon": 34.8982557
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SubFlex",
+  "linkedinNum": 681490
 }

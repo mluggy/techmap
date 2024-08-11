@@ -1,5 +1,5 @@
 {
-  "name": "8 Alert",
+  "name": "8Alert",
   "description": "A provider of innovative, customizable AI-driven financial technology solutions tailored for brokers, affiliates, trading schools, and hedge funds.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tradereye",
-  "xId": null,
+  "xId": "8alertsignals",
   "addresses": [
     {
       "street": "יגיע כפיים",
@@ -19,5 +19,8 @@
       "lat": 32.0615505,
       "lon": 34.7821108
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "8alert",
+  "linkedinNum": 18237752
 }

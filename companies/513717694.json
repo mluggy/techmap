@@ -10,7 +10,7 @@
   "linkedinId": "agritask",
   "crunchbaseId": null,
   "finderId": "agritask",
-  "xId": null,
+  "xId": "agritask",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0631601,
       "lon": 34.7803411
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Agritask",
+  "linkedinNum": 7942218
 }

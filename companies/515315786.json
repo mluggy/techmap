@@ -1,5 +1,5 @@
 {
-  "name": "Sayvu Technologies",
+  "name": "SayVU Technologies",
   "description": "They provide a leading platform that enables rapid, effective emergency response by delivering real-time situational awareness.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "sayvu",
   "crunchbaseId": null,
   "finderId": "sayvu-technologies",
-  "xId": null,
+  "xId": "SayvUtech",
   "addresses": [
     {
       "street": "קשאני אליעזר",
@@ -19,5 +19,7 @@
       "lat": 32.126904,
       "lon": 34.80504
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SayVUtech"
 }

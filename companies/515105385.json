@@ -1,5 +1,5 @@
 {
-  "name": "Pfizer Pfe Pharmaceuticals Israel",
+  "name": "Pfizer",
   "description": "We develop groundbreaking treatments to enhance and prolong the lives of those affected by various diseases, including cancer, inflammation, and immunological disorders.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "pfizer",
   "crunchbaseId": null,
   "finderId": "pfizer",
-  "xId": null,
+  "xId": "Pfizer",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.1589166,
       "lon": 34.8088984
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Pfizer",
+  "linkedinNum": 1185
 }

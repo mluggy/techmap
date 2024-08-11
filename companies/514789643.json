@@ -1,5 +1,5 @@
 {
-  "name": "Luckyfish Games",
+  "name": "LuckyFish Games",
   "description": "A leading developer of an innovative gaming platform specializing in social network-based casual casino games and the top provider of free online slots.",
   "categoryId": 11,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "luckyfish-games",
-  "xId": null,
+  "xId": "OMG_Fortune",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.0848946,
       "lon": 34.8028513
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OMGfortune",
+  "linkedinNum": 5216484
 }

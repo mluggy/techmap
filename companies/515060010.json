@@ -1,10 +1,10 @@
 {
-  "name": "Newrocket",
-  "description": "Gain insights on elevating your enterprise's transformation journey with expert guidance from a leading full-service ServiceNow partner.",
-  "categoryId": 14,
+  "name": "NewRocket",
+  "description": "Environmentally Friendly Gel-propellant Rocket Engines",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/newrocket-logo.webp",
-  "websiteUrl": "https://www.newrocket.com/",
+  "websiteUrl": "https://www.newrocket.co.il/",
   "careersUrl": "https://www.newrocket.com/careers",
   "isHiring": true,
   "linkedinId": "newrocket-gobeyond",
@@ -19,5 +19,7 @@
       "lat": 31.263266,
       "lon": 34.8105466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10385790
 }

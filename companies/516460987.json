@@ -1,5 +1,5 @@
 {
-  "name": "Kahoona Labs",
+  "name": "Kahoona",
   "description": "Enhance your actionable audience data with our scalable, precise, AI-driven enrichment solution ensuring online anonymity.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "kahoonaio",
   "crunchbaseId": "kahoona",
   "finderId": "kahoona",
-  "xId": null,
+  "xId": "kahoona_io",
   "addresses": [
     {
       "street": "דרך השלום",
@@ -19,5 +19,7 @@
       "lat": 32.072245,
       "lon": 34.796049
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79947197
 }

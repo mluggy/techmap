@@ -1,5 +1,5 @@
 {
-  "name": "Bio Tip",
+  "name": "BioTip",
   "description": "Offering real-time, accurate monitoring of food freshness independent of expiration dates, suitable for scalable application across various products and formats.",
   "categoryId": 13,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 31.513912506165372,
       "lon": 34.59481463151246
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82414642
 }

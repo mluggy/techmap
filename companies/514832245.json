@@ -1,16 +1,16 @@
 {
-  "name": "Eko H Mediterranean",
-  "description": "Enhancing cardiovascular disease detection through advanced stethoscope technology, sophisticated software, and AI analysis.",
-  "categoryId": 12,
+  "name": "Eko",
+  "description": "Interactive Video Solutions",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/eko_h_mediterranean-logo.webp",
-  "websiteUrl": "https://www.ekohealth.com/",
+  "websiteUrl": "https://eko.com/",
   "careersUrl": "https://eko.com/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "interlude",
-  "xId": null,
+  "xId": "ekovideo",
   "addresses": [
     {
       "street": "ראש פינה",
@@ -19,5 +19,8 @@
       "lat": 32.10465,
       "lon": 34.872969
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "helloeko",
+  "linkedinNum": 1027016
 }

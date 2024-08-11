@@ -10,7 +10,7 @@
   "linkedinId": "rivery",
   "crunchbaseId": null,
   "finderId": "rivery",
-  "xId": null,
+  "xId": "RiveryData",
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -19,5 +19,8 @@
       "lat": 32.0862661,
       "lon": 34.800174909775976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rivery.io",
+  "linkedinNum": 10688010
 }

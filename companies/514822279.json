@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.matific.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "slate-science",
   "crunchbaseId": null,
   "finderId": "matific",
-  "xId": null,
+  "xId": "matific",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,9 @@
       "lat": 32.0835579,
       "lon": 34.8040988
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SlateScience",
+  "linkedinNum": 2760492,
+  "comeetId": "matific/62.000"
 }

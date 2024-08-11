@@ -1,5 +1,5 @@
 {
-  "name": "Finn Partners Israel",
+  "name": "FINN Partners",
   "description": "A leading global marketing agency providing comprehensive integrated services to diverse industries.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "finn-partners",
   "crunchbaseId": null,
   "finderId": "finn-partners",
-  "xId": null,
+  "xId": "fpipr",
   "addresses": [
     {
       "street": "הרטום",
@@ -19,5 +19,7 @@
       "lat": 31.80289,
       "lon": 35.2133925
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 3093173
 }

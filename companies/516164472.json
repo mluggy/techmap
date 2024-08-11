@@ -1,16 +1,16 @@
 {
-  "name": "Yow Hr",
-  "description": "Specializing in high-quality surfskates, this company offers a range of models catering to various preferences and styles.",
-  "categoryId": 9,
+  "name": "YOW HR",
+  "description": "Human Resources Engagement and Optimization Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/yow_hr-logo.webp",
-  "websiteUrl": "https://yowsurf.com/",
+  "websiteUrl": "https://yowkrs.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "yow",
-  "xId": null,
+  "xId": "yow_hr",
   "addresses": [
     {
       "street": "ארלוזורוב",
@@ -19,5 +19,8 @@
       "lat": 32.08599,
       "lon": 34.778159
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "yowhr",
+  "linkedinNum": 65272732
 }

@@ -1,10 +1,10 @@
 {
-  "name": "0 10 Of A Second",
-  "description": "Intelligent Signals for Networked Vehicles.",
+  "name": "0.10 of a Second",
+  "description": "Smart Indicators for Connected Vehicles",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/0_10_of_a_second-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://0-10s.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0684176,
       "lon": 34.8366328
     }
-  ]
+  ],
+  "isMultinational": false
 }

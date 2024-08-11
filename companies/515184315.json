@@ -1,5 +1,5 @@
 {
-  "name": "Sharegain Israel",
+  "name": "Sharegain",
   "description": "Streamlining front and back-office functions into a holistic, automated solution for seamless operations.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "sharegain",
   "crunchbaseId": "sharegain",
   "finderId": "sharegain",
-  "xId": null,
+  "xId": "sharegain",
   "addresses": [
     {
       "street": "לסקוב חיים",
@@ -19,5 +19,8 @@
       "lat": 32.2723399,
       "lon": 34.8445525
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Sharegain-1397238733640754",
+  "linkedinNum": 10677528
 }

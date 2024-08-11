@@ -1,10 +1,10 @@
 {
-  "name": "Cordiguide",
-  "description": "Advanced AI solutions for guiding catheters during heart and brain procedures.",
+  "name": "CORDiguide",
+  "description": "AI Technology for Navigating the Catheter in Cardiological and Cerebral Interventions",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cordiguide-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://cordiguide.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cordiguide",
@@ -19,5 +19,6 @@
       "lat": 32.7807063,
       "lon": 35.0231835
     }
-  ]
+  ],
+  "isMultinational": false
 }

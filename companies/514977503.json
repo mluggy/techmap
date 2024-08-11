@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "elastifile",
-  "xId": null,
+  "xId": "elastifile",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,8 @@
       "lat": 32.1610214,
       "lon": 34.8089615
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Elastifile",
+  "linkedinNum": 5022402
 }

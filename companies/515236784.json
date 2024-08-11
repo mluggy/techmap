@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "omnix-medical",
-  "xId": null,
+  "xId": "MedicalOmnix",
   "addresses": [
     {
       "street": "פרופ רקח",
@@ -19,5 +19,8 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Omnix-Medical-Ltd-998177340289318",
+  "linkedinNum": 13179766
 }

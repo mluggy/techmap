@@ -1,5 +1,5 @@
 {
-  "name": "Anyclip",
+  "name": "AnyClip",
   "description": "Unlocking video content intelligence for real-time access and action, optimizing global ad partnerships with a superior platform for monetization.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "anyclip",
-  "xId": null,
+  "xId": "AnyClip",
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +19,8 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AnyClip",
+  "linkedinNum": 515737
 }

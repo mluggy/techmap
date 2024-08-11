@@ -1,5 +1,5 @@
 {
-  "name": "Proyoli Gaming",
+  "name": "Funatix Club",
   "description": "Leading the way in digital sports engagement, they connect and empower fans across multiple platforms, fostering strong loyalty and interaction.",
   "categoryId": 11,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "funatix-club",
   "finderId": "proyoli-gaming",
-  "xId": null,
+  "xId": "FunatixClub",
   "addresses": [
     {
       "street": "דקל",
@@ -19,5 +19,8 @@
       "lat": 31.2737857,
       "lon": 34.8549213
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "funatixclub",
+  "linkedinNum": 11792098
 }

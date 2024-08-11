@@ -7,10 +7,10 @@
   "websiteUrl": "https://teramount.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "teramount",
   "crunchbaseId": null,
   "finderId": "teramount",
-  "xId": null,
+  "xId": "TeramountLTD",
   "addresses": [
     {
       "street": "הרטום",
@@ -19,5 +19,7 @@
       "lat": 31.8026517,
       "lon": 35.2132381
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3235135
 }

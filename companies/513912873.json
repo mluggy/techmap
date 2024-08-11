@@ -1,10 +1,10 @@
 {
-  "name": "Motel Software Solutions",
-  "description": "We offer a comprehensive cloud-based hotel management system used by over 1,400 properties in 70 countries, featuring free demos and exclusive promotions.",
-  "categoryId": 6,
+  "name": "MiniHotel",
+  "description": "Comprehensive Hotel Management Solution",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/motel_software_solutions-logo.webp",
-  "websiteUrl": "https://minihotel.us/",
+  "websiteUrl": "https://www.minihotelpms.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0817371,
       "lon": 34.8835306
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MiniHotelSoft",
+  "linkedinNum": 64760338
 }

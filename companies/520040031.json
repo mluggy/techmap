@@ -1,16 +1,16 @@
 {
-  "name": "Thales Dis Israel",
+  "name": "Thales",
   "description": "They ensure the security and access of your most sensitive data and software globally.",
-  "categoryId": 7,
   "size": "m",
+  "categoryId": 7,
   "logoFile": "logos/thales_dis_israel-logo.webp",
-  "websiteUrl": "https://cpl.thalesgroup.com/",
+  "websiteUrl": "https://www.thalesgroup.com",
   "careersUrl": "https://careers.thalesgroup.com/global/en/home",
   "isHiring": true,
   "linkedinId": "thales",
   "crunchbaseId": null,
   "finderId": "thales",
-  "xId": null,
+  "xId": "thalesusa",
   "addresses": [
     {
       "street": "אפעל",
@@ -19,5 +19,8 @@
       "lat": 32.09830575,
       "lon": 34.84795202515514
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "thalesgroup",
+  "linkedinNum": 1951
 }

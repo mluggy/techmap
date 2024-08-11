@@ -1,0 +1,25 @@
+{
+  "name": "Amphy",
+  "description": "Marketplace for Live Online Classes",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/amphy.webp",
+  "websiteUrl": "https://www.amphy.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 50372972,
+  "crunchbaseId": null,
+  "finderId": "amphy",
+  "xId": "AmphyLive",
+  "facebookId": "AmphyLive",
+  "addresses": [
+    {
+      "street": "נמל תל אביב",
+      "houseNumber": 1,
+      "city": "תל אביב - יפו",
+      "lat": 32.09741457030004,
+      "lon": 34.77378586934762
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,0 +1,25 @@
+{
+  "name": "DairyX",
+  "description": "Yeast Milk Proteins",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/dairyx.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "dairyx",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "נתניהו יהונתן",
+      "houseNumber": 6,
+      "city": "אור יהודה",
+      "lat": 32.02257405241165,
+      "lon": 34.85988021292844
+    }
+  ],
+  "isMultinational": false
+}

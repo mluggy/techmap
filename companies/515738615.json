@@ -1,13 +1,13 @@
 {
-  "name": "Neuroblade",
-  "description": "A cutting-edge SQL processing technology that boosts data analytics performance by 30x, enabling faster decision-making and optimized computing.",
-  "categoryId": 1,
+  "name": "NeuroBlade",
+  "description": "High-performance Chip Solution for Data Analytics Workloads",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/neuroblade-logo.webp",
-  "websiteUrl": "https://www.neuroblade.com/",
+  "websiteUrl": "https://www.neuroblade.ai/",
   "careersUrl": "https://www.neuroblade.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "neuroblade",
   "crunchbaseId": null,
   "finderId": "neuroblade",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1114482,
       "lon": 34.8390358
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18675568
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Zuzu Motoric Tourism",
-  "description": "Since 2002, a warm and social ambiance invites guests to savor Spanish-inspired dishes and regional Northern California flavors.",
-  "categoryId": 9,
+  "name": "Zuzu",
+  "description": "Battery Swap Platform",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/zuzu_motoric_tourism-logo.webp",
-  "websiteUrl": "https://www.zuzunapa.com/",
+  "websiteUrl": "https://www.proximo.studio/zuzu",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7657956,
       "lon": 35.2138588
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 43325098
 }

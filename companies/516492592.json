@@ -1,10 +1,10 @@
 {
   "name": "Yehonatan Medical",
-  "description": "Healthcare Solutions.",
+  "description": "Medical Solutions",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/yehonatan_medical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://yehonatanmedical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "yehonatan-medical",
@@ -19,5 +19,8 @@
       "lat": 31.65152204314153,
       "lon": 35.114346306996445
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Yehonatan-Medical-888388234699736",
+  "linkedinNum": 12584975
 }

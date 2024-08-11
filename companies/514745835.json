@@ -1,5 +1,5 @@
 {
-  "name": "Agrosolar",
+  "name": "AgroSolar",
   "description": "Irrigation Solutions Powered by Solar Energy.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.078703,
       "lon": 34.7870616
     }
-  ]
+  ],
+  "isMultinational": false
 }

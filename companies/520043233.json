@@ -1,5 +1,5 @@
 {
-  "name": "Marvell Israel M I S L",
+  "name": "Marvell",
   "description": "Offering advanced data infrastructure technology, this company powers the enterprises and clouds of tomorrow.",
   "categoryId": 16,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.marvell.com/",
   "careersUrl": "https://www.marvell.com/company/careers.html",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "marvell-israel-ltd",
   "crunchbaseId": null,
   "finderId": "marvell",
-  "xId": null,
+  "xId": "marvellsemi",
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +19,8 @@
       "lat": 32.65837915,
       "lon": 35.10048197115782
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "MarvellIsrael",
+  "linkedinNum": 1509977
 }

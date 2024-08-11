@@ -1,16 +1,16 @@
 {
   "name": "Eximo Medical",
-  "description": "Dual-function catheters designed for minimally invasive treatments.",
+  "description": "Hybrid Catheters for Interventional Procedures",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/eximo_medical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.auryon-pad.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "eximo-medical",
   "crunchbaseId": "eximo-medical",
   "finderId": "eximo-medical",
-  "xId": null,
+  "xId": "AuryonPad",
   "addresses": [
     {
       "street": "פקריס",
@@ -19,5 +19,8 @@
       "lat": 31.9119094,
       "lon": 34.804801
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "angiodynamics",
+  "linkedinNum": 35466312
 }

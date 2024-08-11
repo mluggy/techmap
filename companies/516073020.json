@@ -1,10 +1,10 @@
 {
-  "name": "Mypips",
-  "description": "Access our booking system here.",
-  "categoryId": 9,
+  "name": "MyPips",
+  "description": "Online Ordering Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/mypips-logo.webp",
-  "websiteUrl": "https://mypips.app/",
+  "websiteUrl": "https://www.mypips.info/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.050538,
       "lon": 34.766862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mypipsapp",
+  "linkedinNum": 40919293
 }

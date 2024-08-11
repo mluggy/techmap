@@ -1,5 +1,5 @@
 {
-  "name": "Revealsecurity",
+  "name": "RevealSecurity",
   "description": "Providing advanced behavior-based user analytics, this solution excels in detecting modern security threats without relying on traditional rule-based methods.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "trackerdetect",
-  "xId": null,
+  "xId": "TrackerIq",
   "addresses": [
     {
       "street": "יעקב רוזן",
@@ -19,5 +19,7 @@
       "lat": 32.05713037084251,
       "lon": 34.81505358926541
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72435797
 }

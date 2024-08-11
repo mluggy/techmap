@@ -1,5 +1,5 @@
 {
-  "name": "Rst Cleantech",
+  "name": "RST Cleantech",
   "description": "A leading provider of automated cleaning solutions, maintaining over 2 million solar panels for optimal performance in various sectors.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rst-cleantech",
-  "xId": null,
+  "xId": "RSTCleanTech",
   "addresses": [
     {
       "street": "שטריקר",
@@ -19,5 +19,8 @@
       "lat": 32.091558,
       "lon": 34.788068
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RSTCleanTech",
+  "linkedinNum": 5258526
 }

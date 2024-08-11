@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.playtika.com/",
   "careersUrl": "https://www.playtika.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "playtika",
   "crunchbaseId": null,
   "finderId": "playtika",
-  "xId": null,
+  "xId": "Playtika_Ltd",
   "addresses": [
     {
       "street": "החושלים",
@@ -19,5 +19,8 @@
       "lat": 32.15946205,
       "lon": 34.80604434428052
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Playtika",
+  "linkedinNum": 1919232
 }

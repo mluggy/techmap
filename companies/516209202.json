@@ -1,5 +1,5 @@
 {
-  "name": "Nurexone Biologic",
+  "name": "NurExone Biologic",
   "description": "A drug platform using extracellular vesicles to treat central nervous system damage.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "nurexone-biologic",
   "crunchbaseId": null,
   "finderId": "nurexone-biologic",
-  "xId": null,
+  "xId": "NBiologic",
   "addresses": [
     {
       "street": "פארק תעשיה גוטווירט הטכניון",
@@ -19,5 +19,8 @@
       "lat": 32.77582237483092,
       "lon": 35.02148860086692
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NurExone",
+  "linkedinNum": 72446905
 }

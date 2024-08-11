@@ -1,16 +1,16 @@
 {
   "name": "Oversee Travel",
-  "description": "A travel company providing overseas adventures with a focus on enhancing customer experiences through website analytics.",
-  "categoryId": 2,
+  "description": "Maximizing Post-booking Airfare Savings",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/oversee_travel-logo.webp",
-  "websiteUrl": "https://www.oattravel.com/",
+  "websiteUrl": "https://oversee.biz/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "oversee-biz",
   "crunchbaseId": null,
   "finderId": "oversee-travel",
-  "xId": null,
+  "xId": "oversee_biz",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5253772
 }

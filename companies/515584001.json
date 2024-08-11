@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "poptin",
-  "xId": null,
+  "xId": "poptins",
   "addresses": [
     {
       "street": "שד ירושלים",
@@ -19,5 +19,8 @@
       "lat": 31.7887034,
       "lon": 34.6587003
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "www.popt.in",
+  "linkedinNum": 15144567
 }

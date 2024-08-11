@@ -1,5 +1,5 @@
 {
-  "name": "Carebox Solutions",
+  "name": "Carebox",
   "description": "A platform seamlessly integrated across digital health networks to connect patients and doctors for informed treatment decisions.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "carebox",
-  "xId": null,
+  "xId": "CareboxHealth",
   "addresses": [
     {
       "street": "דיין משה",
@@ -19,5 +19,8 @@
       "lat": 32.0734355,
       "lon": 34.8560365
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 4838408
 }

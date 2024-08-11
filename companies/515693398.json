@@ -1,5 +1,5 @@
 {
-  "name": "Mayple Marketplace",
+  "name": "Mayple",
   "description": "Specializing in connecting businesses with thoroughly vetted marketing experts, ensuring exceptional service and outstanding results.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "perfpie",
-  "xId": null,
+  "xId": "mayple_com",
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +19,8 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Mayplers",
+  "linkedinNum": 18124335
 }

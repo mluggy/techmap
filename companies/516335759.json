@@ -1,13 +1,13 @@
 {
   "name": "Hyperspace",
-  "description": "An interactive platform fostering information exchange and collaboration in general relativity and gravitation, overseen by Luciano Rezzolla at Goethe University.",
-  "categoryId": 4,
+  "description": "High-Performance Search Database",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/hyperspace-logo.webp",
-  "websiteUrl": "https://hyperspace.uni-frankfurt.de/",
+  "websiteUrl": "https://hyper-space.io/",
   "careersUrl": "https://hyperspace.uni-frankfurt.de/post_jobs/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "hyperspace-db",
   "crunchbaseId": null,
   "finderId": "hyperspace",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 31.263266,
       "lon": 34.8105466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71482810
 }

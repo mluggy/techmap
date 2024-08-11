@@ -1,5 +1,5 @@
 {
-  "name": "Forescout Technologies Israel",
+  "name": "Forescout Technologies",
   "description": "An automated cybersecurity firm focused on continuous identification, protection, and compliance for all IT, IoT, and IoMT assets.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "forescout-technologies",
   "crunchbaseId": null,
   "finderId": "forescout-technologies",
-  "xId": null,
+  "xId": "ForeScout",
   "addresses": [
     {
       "street": "מוטה גור",
@@ -19,5 +19,8 @@
       "lat": 32.0920729,
       "lon": 34.8646062
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ForeScoutTechnologies",
+  "linkedinNum": 28895
 }

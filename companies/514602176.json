@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "scoompa",
-  "xId": null,
+  "xId": "scoompafun",
   "addresses": [
     {
       "street": "אביצור שמואל",
@@ -19,5 +19,8 @@
       "lat": 32.051249,
       "lon": 34.755022
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "scoompa.mobile",
+  "linkedinNum": 2221391
 }

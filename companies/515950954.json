@@ -1,5 +1,5 @@
 {
-  "name": "Salto Labs",
+  "name": "Salto",
   "description": "Apply the power of DevOps to your business applications' configuration to automate your change management process, and improve efficiency and speed.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "salto-io",
   "crunchbaseId": "salto-labs",
   "finderId": "salto-labs",
-  "xId": null,
+  "xId": "salto_io",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,7 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18967753
 }

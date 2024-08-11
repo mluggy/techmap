@@ -1,5 +1,5 @@
 {
-  "name": "Shrewd Things",
+  "name": "Shrewd:Things",
   "description": "We provide real-time data acquisition and decision support as-a-service, enabling precise and timely business decisions that allow you to make a difference.",
   "categoryId": 13,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.285599079614144,
       "lon": 34.94551181527746
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10011958
 }

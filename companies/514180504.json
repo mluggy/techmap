@@ -1,9 +1,9 @@
 {
-  "name": "Vpsign",
+  "name": "VPSign",
   "description": "An Israeli firm unveiled its updated electronic signature technology at CeBit 2013, following the grant of a US patent earlier that year.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": null,
+  "logoFile": "logos/vpsign.webp",
   "websiteUrl": "https://www.vpsign.com/",
   "careersUrl": null,
   "isHiring": false,
@@ -11,5 +11,7 @@
   "crunchbaseId": null,
   "finderId": "vpsign",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "linkedinNum": 2944441
 }

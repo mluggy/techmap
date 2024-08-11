@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.kamada.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kamada",
   "crunchbaseId": null,
   "finderId": "kamada",
-  "xId": null,
+  "xId": "kamada_pharma",
   "addresses": [
     {
       "street": "הולצמן חיים",
@@ -19,5 +19,7 @@
       "lat": 31.915662249999997,
       "lon": 34.807746809143225
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 117855
 }

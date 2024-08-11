@@ -1,5 +1,5 @@
 {
-  "name": "Parallel Wireless Israel",
+  "name": "Parallel Wireless",
   "description": "Providing affordable, high-performance cloud-native Open RAN solutions for macro, Massive MIMO, and small cell network densification.",
   "categoryId": 18,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "parallel-wireless-inc",
   "crunchbaseId": "parallel-wireless",
   "finderId": "parallel-wireless",
-  "xId": null,
+  "xId": "Parallel_tw",
   "addresses": [
     {
       "street": "צור צור יגאל",
@@ -19,5 +19,9 @@
       "lat": 32.2149108,
       "lon": 34.9891577
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "ParallelWireless",
+  "linkedinNum": 2875687,
+  "leverId": "parallelwireless"
 }

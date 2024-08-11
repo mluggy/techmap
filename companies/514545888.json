@@ -1,5 +1,5 @@
 {
-  "name": "Tyto Care",
+  "name": "TytoCare",
   "description": "Introducing an FDA-cleared, AI-powered feature for detecting wheezes during remote lung exams, revolutionizing respiratory condition diagnostics.",
   "categoryId": 12,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.tytocare.com/",
   "careersUrl": "https://www.tytocare.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "tytocare-ltd",
   "crunchbaseId": null,
   "finderId": "tytocare",
-  "xId": null,
+  "xId": "TytoCare",
   "addresses": [
     {
       "street": "גאון בני",
@@ -19,5 +19,8 @@
       "lat": 32.2759247,
       "lon": 34.8623182
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TytoCare",
+  "linkedinNum": 3259539
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Hobiz App",
+  "name": "Hobiz",
   "description": "An app that showcases and ranks users based on their unique and interesting hobbies.",
   "categoryId": 8,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hobizapp",
-  "xId": null,
+  "xId": "hobizapp",
   "addresses": [
     {
       "street": "סוקולוב",
@@ -19,5 +19,8 @@
       "lat": 31.9595458,
       "lon": 34.80646802629154
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pg",
+  "linkedinNum": 76357883
 }

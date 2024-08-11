@@ -1,5 +1,5 @@
 {
-  "name": "Bioprotect",
+  "name": "BioProtect",
   "description": "Eco-friendly balloons designed for safer radiation treatments.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "bioprotect-ltd",
   "crunchbaseId": null,
   "finderId": "bioprotect",
-  "xId": null,
+  "xId": "BioprotectS",
   "addresses": [
     {
       "street": "צור צור יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.2149108,
       "lon": 34.9891577
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BioProtectSpacers",
+  "linkedinNum": 439364
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Scouting 4 U",
+  "name": "Scouting4U",
   "description": "A platform enhancing basketball player scouting and recruitment through advanced analytics and data-driven insights.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "scouting4u",
-  "xId": null,
+  "xId": "S4UPro",
   "addresses": [
     {
       "street": "מוריה",
@@ -19,5 +19,8 @@
       "lat": 32.7984429,
       "lon": 34.984797176475794
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "s4upro",
+  "linkedinNum": 4173589
 }

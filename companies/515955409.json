@@ -1,16 +1,16 @@
 {
   "name": "Voiceable",
-  "description": "Utilizing advanced speech science and Deep Learning, this technology provides instant feedback on voice performance and tracks progress over time.",
-  "categoryId": 1,
+  "description": "Real-time Customer Assistance for Online Businesses",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/voiceable-logo.webp",
-  "websiteUrl": "https://voiceable.ai/",
+  "websiteUrl": "https://www.voiceable.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "voiceable",
-  "xId": null,
+  "xId": "Voiceable1",
   "addresses": [
     {
       "street": "רות",
@@ -19,5 +19,8 @@
       "lat": 32.4557181,
       "lon": 35.0622832
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Voiceable-283025162317591",
+  "linkedinNum": 18381681
 }

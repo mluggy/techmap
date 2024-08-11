@@ -1,16 +1,16 @@
 {
-  "name": "Biosense Webster Israel",
-  "description": "A medical device designed for treating persistent atrial fibrillation unresponsive to drug therapy.",
+  "name": "Biosense Webster",
+  "description": "Diagnosis and Treatment of Cardiac Arrhythmias",
   "categoryId": 12,
   "size": "l",
   "logoFile": "logos/biosense_webster_israel_ltd-logo.webp",
-  "websiteUrl": "https://www.biosensewebsterlogin.com/",
+  "websiteUrl": "https://www.biosensewebster.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "biosensewebster",
   "crunchbaseId": null,
   "finderId": "biosense-webster",
-  "xId": null,
+  "xId": "biosensewebster",
   "addresses": [
     {
       "street": "התנופה",
@@ -19,5 +19,8 @@
       "lat": 32.66791475,
       "lon": 35.10722320481222
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "biosensewebsterjnj",
+  "linkedinNum": 1194
 }

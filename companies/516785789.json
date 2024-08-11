@@ -1,10 +1,10 @@
 {
-  "name": "Trough AI",
+  "name": "Trough.AI",
   "description": "An AI-driven platform that provides data insights for healthier livestock, increased efficiency, and higher profits for farmers of all experience levels.",
   "categoryId": 1,
   "size": "xs",
   "logoFile": "logos/trough_ai-logo.webp",
-  "websiteUrl": "http://trough.ai/",
+  "websiteUrl": "https://trough.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0901926,
       "lon": 34.8036997
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90353520
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Yahoo! Israel",
+  "name": "Yahoo!",
   "description": "Web services provider known for its search engine, email service, and expansive digital content, now partially Verizon Media Group.",
   "categoryId": 8,
   "size": "xl",
@@ -19,5 +19,8 @@
       "lat": 32.08264076234969,
       "lon": 34.80136522885679
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "YahooIL",
+  "linkedinNum": 1288
 }

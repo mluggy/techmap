@@ -10,7 +10,7 @@
   "linkedinId": "on-track-innovations-ltd",
   "crunchbaseId": "on-track-innovations",
   "finderId": "on-track-innovations-oti",
-  "xId": null,
+  "xId": "otiGlobal",
   "addresses": [
     {
       "street": "התנופה",
@@ -19,5 +19,8 @@
       "lat": 32.6672039,
       "lon": 35.1083867
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "otiGlobal",
+  "linkedinNum": 165360
 }

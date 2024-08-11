@@ -10,7 +10,7 @@
   "linkedinId": "pepticom-ltd.",
   "crunchbaseId": null,
   "finderId": "pepticom",
-  "xId": null,
+  "xId": "pepticom",
   "addresses": [
     {
       "street": "כפר ההיטק גבעת רם",
@@ -19,5 +19,7 @@
       "lat": 31.802518854898775,
       "lon": 35.20962861330094
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13182242
 }

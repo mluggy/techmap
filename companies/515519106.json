@@ -1,16 +1,16 @@
 {
-  "name": "Bites Learning",
-  "description": "An Asian restaurant and cocktail bar in Lakeview, Chicago, renowned for its Original General Tso GOOD Chicken Sandwich.",
-  "categoryId": 9,
+  "name": "Bites",
+  "description": "Training and Communication Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/bites_learning-logo.webp",
-  "websiteUrl": "https://biteskitchen.com/",
+  "websiteUrl": "https://www.mybites.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bites",
-  "xId": null,
+  "xId": "MyBites3",
   "addresses": [
     {
       "street": "רציף הרברט סמואל",
@@ -19,5 +19,8 @@
       "lat": 32.07219851113049,
       "lon": 34.76460924593028
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bites.io",
+  "linkedinNum": 10687132
 }

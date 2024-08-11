@@ -1,10 +1,10 @@
 {
-  "name": "Deutsche Telekom Business Development Venturing",
+  "name": "Deutsche Telekom",
   "description": "Deutsche Telekom is a leading global telecommunications provider, offering a wide range of services including fixed-network, mobile communications, internet, and IPTV for consumers, business customers, and corporate clients.",
-  "categoryId": 18,
   "size": "s",
+  "categoryId": 18,
   "logoFile": "logos/deutsche_telekom_business_development_venturing-logo.webp",
-  "websiteUrl": "https://www.telekom.com/",
+  "websiteUrl": "https://www.dtisrael.com/",
   "careersUrl": "https://www.telekom.com/en/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 1593
 }

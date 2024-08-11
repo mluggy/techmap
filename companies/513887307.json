@@ -1,10 +1,10 @@
 {
   "name": "Eternix",
-  "description": "Ensures the secure handling and restricts unauthorized processing of personal data in outsourced tasks through comprehensive contracts and safety measures.",
-  "categoryId": 7,
+  "description": "Geospatial Visualization Products and Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/eternix-logo.webp",
-  "websiteUrl": "https://www.sketernix.com/",
+  "websiteUrl": "https://eternix.co.il",
   "careersUrl": "https://eternix.co.il/careers",
   "isHiring": true,
   "linkedinId": "eternix-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.0730257,
       "lon": 34.7925411
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 18563422
 }

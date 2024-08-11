@@ -1,5 +1,5 @@
 {
-  "name": "Superfy Technologies",
+  "name": "Superfy",
   "description": "A social chat platform leveraging advanced AI to pair users with the ideal person for answers, advice, and recommendations.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "superfy",
   "crunchbaseId": null,
   "finderId": "chatyo",
-  "xId": null,
+  "xId": "Superfyapp",
   "addresses": [
     {
       "street": "אלוני ניסים",
@@ -19,5 +19,8 @@
       "lat": 32.08956,
       "lon": 34.79661
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "superfyapp",
+  "linkedinNum": 28625099
 }

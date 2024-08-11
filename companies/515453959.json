@@ -1,10 +1,10 @@
 {
-  "name": "Cubic Wealth Management",
-  "description": "Providing innovative technology solutions for transportation and defense to simplify daily journeys and enhance security.",
-  "categoryId": 3,
+  "name": "Cubic",
+  "description": "Digital Supply Chain Solutions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/cubic_wealth_management-logo.webp",
-  "websiteUrl": "https://www.cubic.com/",
+  "websiteUrl": "https://www.gocubic.io/",
   "careersUrl": "https://www.cubic.com/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.14153047593507,
       "lon": 34.84240219248671
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82137446
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Bepro Travel",
+  "name": "BePro Travel",
   "description": "Specializing in web-based booking engines, we lead Israel's travel technology sector with tailored B2B solutions for tour operators and travel agencies.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.063593,
       "lon": 34.763472
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "beprotravel",
+  "linkedinNum": 10046445
 }

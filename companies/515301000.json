@@ -1,5 +1,5 @@
 {
-  "name": "Tonkean Israel",
+  "name": "Tonkean",
   "description": "An Intelligent Process Orchestration Platform that seamlessly integrates with existing policies and systems to enhance internal team efficiency.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "tonkean",
   "crunchbaseId": "tonkean",
   "finderId": "tonkean",
-  "xId": null,
+  "xId": "tonkean",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.0633815,
       "lon": 34.7730301
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "tonkeancom",
+  "linkedinNum": 6430355
 }

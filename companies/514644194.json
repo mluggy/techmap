@@ -1,5 +1,5 @@
 {
-  "name": "Gsi Technology Israel",
+  "name": "GSI Technology",
   "description": "Leading innovators in semiconductor technology, advancing AI and beyond with cutting-edge solutions.",
   "categoryId": 16,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://gsitechnology.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gsi-technology",
   "crunchbaseId": null,
   "finderId": "gsi-technology",
-  "xId": null,
+  "xId": "gsitechnology",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,7 @@
       "lat": 32.109636,
       "lon": 34.837396
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 49148
 }

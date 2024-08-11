@@ -1,10 +1,10 @@
 {
-  "name": "Infime Underwear",
-  "description": "An e-commerce brand that helps customers find the right fit and appearance for underwear and bras, addressing key challenges in online lingerie sales.",
-  "categoryId": 9,
+  "name": "Infime",
+  "description": "3D Try-on for Intimate Apparel and Swimwear",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/infime_underwear-logo.webp",
-  "websiteUrl": "https://api.infime.co.il/",
+  "websiteUrl": "https://infime.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.80665765,
       "lon": 35.1505955
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "infime",
+  "linkedinNum": 10566973
 }

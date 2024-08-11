@@ -1,10 +1,10 @@
 {
-  "name": "Cast Tv",
-  "description": "Services for streaming via OTT and IPTV platforms.",
+  "name": "Cast-TV",
+  "description": "Solutions for OTT and IPTV Streaming",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/cast_tv-logo.webp",
-  "websiteUrl": "https://video-tv-cast.com/",
+  "websiteUrl": "https://cast-tv.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.327877970641346,
       "lon": 34.89053797433484
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 4850214
 }

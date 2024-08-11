@@ -1,10 +1,10 @@
 {
-  "name": "Eventgo",
+  "name": "EventGo",
   "description": "פועלת בינלאומית ומתמחה בפתרונות תוכנה לניהול עבור חברות בתחום ארגון תערוכות וחנויות.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/eventgo-logo.webp",
-  "websiteUrl": "http://eventgo.co.il/",
+  "websiteUrl": "https://eventgo.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0861321,
       "lon": 34.8040698
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EventgoLtd",
+  "linkedinNum": 3264988
 }

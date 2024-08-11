@@ -1,10 +1,10 @@
 {
-  "name": "Gingerbit",
+  "name": "GINGER",
   "description": "Comprehensive insurance and management solutions for both business and personal travel.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/gingerbit-logo.webp",
-  "websiteUrl": "https://www.gingerbit.co.il/?lang=en",
+  "websiteUrl": "https://www.gingerbit.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.081313,
       "lon": 34.781527
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Ginger.insurance",
+  "linkedinNum": 19099383
 }

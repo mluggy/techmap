@@ -1,5 +1,5 @@
 {
-  "name": "Snapland",
+  "name": "snapland",
   "description": "פלטפורמה לאיסוף נתונים נדל\"ניים במקום אחד לצורך קבלת החלטות מהירה ויעילה.",
   "categoryId": 9,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 31.786083,
       "lon": 35.209279
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "snapland-246408235864332",
+  "linkedinNum": 18845250
 }

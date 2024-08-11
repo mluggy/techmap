@@ -1,0 +1,25 @@
+{
+  "name": "Linok",
+  "description": "Maternal Health Companion",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/linok.webp",
+  "websiteUrl": "https://www.linoktech.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "linok",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "ביס חקלאי תיכון",
+      "houseNumber": 61,
+      "city": "נהלל",
+      "lat": 32.69405904646232,
+      "lon": 35.20396039904289
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Water Io",
+  "name": "impacX",
   "description": "An IoT platform delivering a seamless connected experience through smart packaging solutions.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "water-io",
   "finderId": "water-io",
-  "xId": null,
+  "xId": "water_io",
   "addresses": [
     {
       "street": "פקריס",
@@ -19,5 +19,8 @@
       "lat": 31.9119094,
       "lon": 34.804801
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "impacX.io",
+  "linkedinNum": 10350539
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Cinema 2 Go",
+  "name": "Cinema2Go",
   "description": "Founded in 2015, this company enhances life for the visually impaired by offering top-tier near-eye display solutions and cutting-edge visual entertainment products, with ongoing advancements in VR and AR technologies.",
   "categoryId": 4,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cinema2go",
-  "xId": null,
+  "xId": "C2G_MoGo",
   "addresses": [
     {
       "street": "ירדן",
@@ -19,5 +19,8 @@
       "lat": 32.641726,
       "lon": 35.0892701
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cinema2Go",
+  "linkedinNum": 10555372
 }

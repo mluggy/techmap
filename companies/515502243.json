@@ -1,5 +1,5 @@
 {
-  "name": "Truconnect Wifi",
+  "name": "TruConnect",
   "description": "A wireless service providing high-speed data, unlimited talk and text, plus a free Android™ smartphone to eligible users.",
   "categoryId": 18,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "truconnect",
-  "xId": null,
+  "xId": "TruConnect",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.05865,
       "lon": 34.784414
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "TruConnect",
+  "linkedinNum": 3158134
 }

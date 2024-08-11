@@ -1,10 +1,10 @@
 {
-  "name": "Geshem Tov",
-  "description": "A platform for managing farm operations.",
-  "categoryId": 13,
+  "name": "GESHEM",
+  "description": "Farm Management Platform",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/geshem_tov-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.geshem-ag.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.8823599,
       "lon": 34.9978258
     }
-  ]
+  ],
+  "isMultinational": false
 }

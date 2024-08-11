@@ -1,5 +1,5 @@
 {
-  "name": "Oncehub",
+  "name": "OnceHub",
   "description": "Revolutionize client interactions and service delivery with a powerful online scheduling and engagement platform offering AI-integrated, no-code solutions.",
   "categoryId": 14,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "scheduleonce",
-  "xId": null,
+  "xId": "oncehub",
   "addresses": [
     {
       "street": "יחד",
@@ -19,5 +19,8 @@
       "lat": 32.84582644258172,
       "lon": 35.3674255264235
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OnceHub",
+  "linkedinNum": 2277459
 }

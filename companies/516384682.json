@@ -1,5 +1,5 @@
 {
-  "name": "Payzen Israel",
+  "name": "PayZen",
   "description": "Simplifying payments for patients and collections for providers with customized plans and AI solutions, trusted by healthcare entities.",
   "categoryId": 10,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "payzen",
   "crunchbaseId": "payzen-6da3",
   "finderId": "payzen",
-  "xId": null,
+  "xId": "payzencare",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PayZen-105833744121330",
+  "linkedinNum": 26541365
 }

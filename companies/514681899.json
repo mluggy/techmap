@@ -1,5 +1,5 @@
 {
-  "name": "Apx Ophthalmology",
+  "name": "APX Ophthalmology",
   "description": "Innovative ophthalmology firm specializing in advanced pupil expanders for cataract surgery.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "apx-ophthalmology",
-  "xId": null,
+  "xId": "ApxExpander",
   "addresses": [
     {
       "street": "יפה נוף",
@@ -19,5 +19,7 @@
       "lat": 32.81452675,
       "lon": 34.98179426655291
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18633827
 }

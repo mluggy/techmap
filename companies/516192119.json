@@ -1,5 +1,5 @@
 {
-  "name": "Radarv",
+  "name": "RadarV",
   "description": "A cutting-edge airborne radar system automates detection and avoidance for drones, ensuring safe Beyond Visual Line of Sight operation by preventing collisions with manned aircraft.",
   "categoryId": 3,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.0592087,
       "lon": 34.8819389
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 53101821
 }

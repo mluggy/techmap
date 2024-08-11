@@ -1,10 +1,10 @@
 {
-  "name": "Healthwatch",
-  "description": "A new campaign promotes public input to address health inequalities in England's health and social care services.",
+  "name": "HealthWatch",
+  "description": "Garments with Sensors for Monitoring Vital Signs",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/healthwatch-logo.webp",
-  "websiteUrl": "https://www.healthwatch.co.uk/",
+  "websiteUrl": "https://healthwatchtech.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.078703,
       "lon": 34.7870616
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12899343
 }

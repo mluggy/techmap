@@ -1,5 +1,5 @@
 {
-  "name": "Cybonet Security Technologies",
+  "name": "CYBONET",
   "description": "Defend your business by intercepting and neutralizing email threats at your network's edge.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "cybonetpineapp",
   "crunchbaseId": "cybonet-security-technologies",
   "finderId": "cybonet",
-  "xId": null,
+  "xId": "Cybonet1",
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -19,5 +19,8 @@
       "lat": 32.7897925,
       "lon": 34.9593655
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cybonetltd",
+  "linkedinNum": 64711
 }

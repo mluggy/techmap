@@ -1,10 +1,10 @@
 {
-  "name": "B L Advanced Ground Support Systems",
-  "description": "A leading Israeli news website providing updates, reports, and analyses across numerous content channels.",
-  "categoryId": 8,
+  "name": "B.L. Advanced Ground Support Systems",
+  "description": "Specialized Military Vehicles and Missile Launchers",
+  "categoryId": 3,
   "size": "s",
   "logoFile": "logos/b_l_advanced_ground_support_systems-logo.webp",
-  "websiteUrl": "https://www.walla.co.il/",
+  "websiteUrl": "https://www.bl-il.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.21456531797494,
       "lon": 34.99228305853814
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 846500
 }

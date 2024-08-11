@@ -1,16 +1,16 @@
 {
-  "name": "Nest Health Tech",
-  "description": "Comprehensive family healthcare delivered at home and online, encompassing primary care, pediatrics, mental health, social resources, and education.",
+  "name": "Nest Health",
+  "description": "Genomics Software Solutions for Health Systems",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/nest_health_tech-logo.webp",
-  "websiteUrl": "https://www.nesthealth.com/",
+  "websiteUrl": "https://www.nestgenomics.com/",
   "careersUrl": "https://www.nesthealth.com/careers",
   "isHiring": true,
   "linkedinId": "nestwholefamilyhealth",
   "crunchbaseId": null,
   "finderId": "nest-health",
-  "xId": null,
+  "xId": "nestgenomics",
   "addresses": [
     {
       "street": "הערבה",
@@ -19,5 +19,7 @@
       "lat": 32.07003,
       "lon": 34.786371
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78312740
 }

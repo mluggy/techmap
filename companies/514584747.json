@@ -1,5 +1,5 @@
 {
-  "name": "Apifix",
+  "name": "ApiFix",
   "description": "Offering an innovative, non-fusion treatment for pediatric scoliosis, this company provides an alternative to spinal fusion surgery, giving patients new hope.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "apifix",
-  "xId": null,
+  "xId": "ApiFix",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,8 @@
       "lat": 32.662423450000006,
       "lon": 35.104844443125
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ApiFix",
+  "linkedinNum": 5069168
 }

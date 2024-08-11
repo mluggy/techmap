@@ -1,5 +1,5 @@
 {
-  "name": "Healthy Io",
+  "name": "Healthy.io",
   "description": "Offering convenient, home-based medical testing with smartphone integration for clinical-grade results and easy communication with healthcare providers.",
   "categoryId": 12,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://healthy.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "www-healthy-io",
   "crunchbaseId": null,
   "finderId": "healthy-io",
-  "xId": null,
+  "xId": "healthyio1",
   "addresses": [
     {
       "street": "יצחק שדה",
@@ -19,5 +19,8 @@
       "lat": 32.065253,
       "lon": 34.785664
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "healthy.ioLTD",
+  "linkedinNum": 10088862
 }

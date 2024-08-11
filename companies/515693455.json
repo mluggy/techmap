@@ -1,16 +1,16 @@
 {
   "name": "Delivrd",
-  "description": "We offer brands bespoke, high-quality last-mile delivery solutions, ensuring timely, professional services through advanced driver-partner matching technology.",
-  "categoryId": 9,
+  "description": "Inventory and Order Management for Cloud Networks",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/delivrd-logo.webp",
-  "websiteUrl": "https://www.dlivrd.io/",
+  "websiteUrl": "https://www.delivrd.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "delivrd",
-  "xId": null,
+  "xId": "delivrdapp",
   "addresses": [
     {
       "street": "העליה",
@@ -19,5 +19,7 @@
       "lat": 33.0116608,
       "lon": 35.0908568
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27038416
 }

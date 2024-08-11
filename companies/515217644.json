@@ -1,5 +1,5 @@
 {
-  "name": "Gap 600",
+  "name": "GAP600",
   "description": "Offering rapid, near-instant payment and deposit processing to save valuable time for users.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "gap600",
   "crunchbaseId": null,
   "finderId": "gap600",
-  "xId": null,
+  "xId": "bgap600",
   "addresses": [
     {
       "street": "הכרכום",
@@ -19,5 +19,8 @@
       "lat": 32.2256791,
       "lon": 35.0042018
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Gap600-101627861229673",
+  "linkedinNum": 10523872
 }

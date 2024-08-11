@@ -1,16 +1,16 @@
 {
-  "name": "Orcam Technologies",
-  "description": "Technology to aid individuals with visual impairments or reading challenges.",
+  "name": "OrCam Technologies",
+  "description": "Assistive Technology for People with Vision Impairment or Reading Disabilities",
   "categoryId": 12,
   "size": "l",
   "logoFile": "logos/orcam_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.orcam.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "orcam-technologies",
-  "xId": null,
+  "xId": "orcam",
   "addresses": [
     {
       "street": "קרית מדע",
@@ -19,5 +19,8 @@
       "lat": 31.8008466,
       "lon": 35.2107974
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "orcamtech",
+  "linkedinNum": 1548125
 }

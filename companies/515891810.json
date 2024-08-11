@@ -1,16 +1,16 @@
 {
-  "name": "Novos Gg",
-  "description": "Offering a scientifically backed solution to combat aging, this company blends rigorous research into a patent-pending formula.",
-  "categoryId": 12,
+  "name": "NOVOS",
+  "description": "Training Platform for Gamers",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/novos_gg-logo.webp",
-  "websiteUrl": "https://novoslabs.com/",
+  "websiteUrl": "https://novos.gg/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "novos",
-  "xId": null,
+  "xId": "novosgg",
   "addresses": [
     {
       "street": "שוידלסון",
@@ -19,5 +19,8 @@
       "lat": 32.161140634959864,
       "lon": 34.84316158866636
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "novos.gg",
+  "linkedinNum": 18469335
 }

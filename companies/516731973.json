@@ -1,10 +1,10 @@
 {
   "name": "Noxon",
-  "description": "We specialize in designing, manufacturing, and installing efficient dewatering systems while partnering closely with customers to maximize cost savings and reduce environmental impact.",
-  "categoryId": 17,
+  "description": "Drug Development for Fibrotic Lung Diseases",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/noxon-logo.webp",
-  "websiteUrl": "https://noxon.com/",
+  "websiteUrl": "https://ngt-healthcare2.com/noxon/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Move Cooperative Transportation And Travelling",
-  "description": "Experience unparalleled comfort and support with our high-performance insoles designed for enhanced movement and protection.",
-  "categoryId": 5,
+  "name": "Move",
+  "description": "AI-based Vacation Package Platform",
+  "categoryId": 9,
   "size": "s",
   "logoFile": "logos/move_cooperative_transportation_and_travelling-logo.webp",
-  "websiteUrl": "https://move.one/",
+  "websiteUrl": "https://www.wearemove.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2754966,
       "lon": 34.9222268
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75000143
 }

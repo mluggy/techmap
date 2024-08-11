@@ -1,16 +1,16 @@
 {
-  "name": "Inspire M D",
-  "description": "Technology for Stent Systems Aimed at Preventing Embolization.",
+  "name": "InspireMD",
+  "description": "Stent System Technology for Preventing Embolization",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/inspire_m_d-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.inspiremd.com/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "inspiremd",
   "crunchbaseId": null,
   "finderId": "inspiremd",
-  "xId": null,
+  "xId": "InspireMD",
   "addresses": [
     {
       "street": "מנורת המאור",
@@ -19,5 +19,8 @@
       "lat": 32.074576,
       "lon": 34.796218
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "InspireMD-Inc-1495734044064407",
+  "linkedinNum": 2504112
 }

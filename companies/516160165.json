@@ -1,5 +1,5 @@
 {
-  "name": "Anecdotes A I",
+  "name": "Anecdotes",
   "description": "Provides an integrated platform for automating, managing, and advancing governance, risk, and compliance programs.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "anecdotes-ai",
   "crunchbaseId": null,
   "finderId": "revv-ai-technologies",
-  "xId": null,
+  "xId": "anecdotes_ai",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.066645,
       "lon": 34.78582
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "anecdotes-101975475216702",
+  "linkedinNum": 30684170
 }

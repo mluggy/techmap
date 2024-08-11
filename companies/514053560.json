@@ -1,16 +1,16 @@
 {
-  "name": "Parx",
-  "description": "A fashion retailer offering men's stylish skinny cropped fit dobby cotton blend jeans at discounted prices.",
-  "categoryId": 9,
+  "name": "PARX",
+  "description": "Parking Management Solutions",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/parx-logo.webp",
-  "websiteUrl": "https://myraymond.com/",
+  "websiteUrl": "https://www.parxglobal.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "parx",
-  "xId": null,
+  "xId": "parxsps",
   "addresses": [
     {
       "street": "אזור תעשייה",
@@ -19,5 +19,7 @@
       "lat": 32.9706257,
       "lon": 35.5647537
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2447731
 }

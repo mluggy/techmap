@@ -1,16 +1,16 @@
 {
-  "name": "Prodrops",
-  "description": "Download the free PC app to complete in-game challenges and earn rewards while gaming.",
-  "categoryId": 11,
+  "name": "ProDrops",
+  "description": "Gaming Influencers Trading Card Game",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/prodrops-logo.webp",
-  "websiteUrl": "https://www.prodrops.gg/",
+  "websiteUrl": "https://prodropsgame.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "prodrops",
-  "xId": null,
+  "xId": "ProDropsGame",
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -19,5 +19,7 @@
       "lat": 32.0852442,
       "lon": 34.8003868
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77738506
 }

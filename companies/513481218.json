@@ -1,10 +1,10 @@
 {
-  "name": "Point Of View Software",
-  "description": "Analytics and Insights Software.",
-  "categoryId": 1,
+  "name": "Point of View Software",
+  "description": "Business Intelligence Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/point_of_view_software-logo.webp",
-  "websiteUrl": "https://www.viewpoint.com/",
+  "websiteUrl": "https://www.povsw.com",
   "careersUrl": "https://www.viewpoint.com/company/careers",
   "isHiring": true,
   "linkedinId": "point-of-view-software",
@@ -19,5 +19,8 @@
       "lat": 32.1621433,
       "lon": 34.8094255
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 850250
 }

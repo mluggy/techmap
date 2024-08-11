@@ -1,5 +1,5 @@
 {
-  "name": "Shopic Technologies",
+  "name": "Shopic",
   "description": "Checkout via Mobile Device.",
   "categoryId": 9,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "shopic",
   "crunchbaseId": null,
   "finderId": "shopic",
-  "xId": null,
+  "xId": "UseShopic",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ShopicAI",
+  "linkedinNum": 6383009,
+  "comeetId": "shopic/E6.002"
 }

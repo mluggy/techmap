@@ -1,16 +1,16 @@
 {
   "name": "Arbox",
-  "description": "Simplifying business management with seamless scheduling, online payments, invoicing, and a unique customer app.",
+  "description": "Management Platform for Fitness, Wellness, Teaching, and Courses",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/arbox-logo.webp",
-  "websiteUrl": "https://www.arbox.co.il/",
+  "websiteUrl": "https://arboxapp.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "arbox",
-  "xId": null,
+  "xId": "Arbox_app",
   "addresses": [
     {
       "street": "אליוט ג'ורג'",
@@ -19,5 +19,8 @@
       "lat": 32.06826,
       "lon": 34.775061
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "arboxapp",
+  "linkedinNum": 10970964
 }

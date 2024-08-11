@@ -1,5 +1,5 @@
 {
-  "name": "Pixcell Medical Technologies",
+  "name": "PixCell Medical",
   "description": "Revolutionizing blood testing by enabling complex diagnostics through an easy-to-use, portable platform.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "pixcell-medical",
   "crunchbaseId": null,
   "finderId": "pixcell-medical",
-  "xId": null,
+  "xId": "PixCellMedical",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,7 @@
       "lat": 32.659574899999996,
       "lon": 35.0987182394682
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1534575
 }

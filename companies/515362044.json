@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.mixtiles.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mixtiles",
   "crunchbaseId": null,
   "finderId": "mixtiles",
-  "xId": null,
+  "xId": "mixtiles",
   "addresses": [
     {
       "street": "אחד העם",
@@ -19,5 +19,9 @@
       "lat": 32.064594,
       "lon": 34.774322
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mixtiles",
+  "linkedinNum": 18244925,
+  "greenhouseId": "mixtiles"
 }

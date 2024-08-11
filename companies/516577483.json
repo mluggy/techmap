@@ -1,5 +1,5 @@
 {
-  "name": "Statement Technologies",
+  "name": "Statement",
   "description": "Enabling businesses with real-time financial visibility and accurate cash positions across various banks, accounts, locations, and currencies.",
   "categoryId": 10,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.065253,
       "lon": 34.785664
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 83038692
 }

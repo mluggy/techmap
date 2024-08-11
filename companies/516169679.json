@@ -1,10 +1,10 @@
 {
   "name": "Byvalue",
-  "description": "Generate revenue from your code through an API service.",
-  "categoryId": 10,
+  "description": "Monetize Code via API",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/byvalue-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://byvalue.org/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.31610809111199,
       "lon": 34.896232876644646
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 38101082
 }

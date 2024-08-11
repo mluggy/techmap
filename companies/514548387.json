@@ -1,5 +1,5 @@
 {
-  "name": "Auraplayer",
+  "name": "AuraPlayer",
   "description": "Streamlining operations with Oracle-focused modernization tools, avoiding retraining and complex migrations to enhance efficiency and ROI.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "auraplayer",
-  "xId": null,
+  "xId": "auraplayer",
   "addresses": [
     {
       "street": "קהילת ז'יטומיר",
@@ -19,5 +19,8 @@
       "lat": 32.115648,
       "lon": 34.821181
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "auraplayer",
+  "linkedinNum": 607144
 }

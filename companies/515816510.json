@@ -1,10 +1,10 @@
 {
-  "name": "Replace System",
-  "description": "Using data analysis to choose optimal locations for solar and wind energy installations.",
+  "name": "REplace",
+  "description": "Data-Driven Site Selection for Solar and Wind Energy Projects",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/replace_system-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://renewableenergy.place",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.4306486,
       "lon": 34.9525821
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 92790048
 }

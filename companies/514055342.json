@@ -1,5 +1,5 @@
 {
-  "name": "Dot Compliance",
+  "name": "DOT Compliance",
   "description": "Provides an efficient, pre-configured Quality Management Solution on the Salesforce.com platform for highly regulated industries.",
   "categoryId": 12,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.dotcompliance.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dot-compliance",
   "crunchbaseId": "dot-compliance-israel",
   "finderId": "dot-compliance",
-  "xId": null,
+  "xId": "Dotcompliance_",
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -19,5 +19,8 @@
       "lat": 31.9137859,
       "lon": 34.8024773
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100066867279108",
+  "linkedinNum": 10474061
 }

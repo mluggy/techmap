@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "galmed-pharmaceuticals",
-  "xId": null,
+  "xId": "GalmedPharma",
   "addresses": [
     {
       "street": "טיומקין",
@@ -19,5 +19,8 @@
       "lat": 32.063888,
       "lon": 34.779221
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Galmed-Pharmaceuticals-Ltd-822556341133446",
+  "linkedinNum": 895646
 }

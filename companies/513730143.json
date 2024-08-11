@@ -1,16 +1,16 @@
 {
   "name": "Enabley",
-  "description": "מציעה קורסי הייטק ומחשבים מקיפים עם מיטב המרצים, מספקת השמה וליווי אישי לאורך כל הדרך.",
+  "description": "Digital Training Platform",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/enabley-logo.webp",
-  "websiteUrl": "https://www.johnbryce.co.il/",
+  "websiteUrl": "https://enabley.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "time-to-know-t2k",
-  "xId": null,
+  "xId": "TimeToKnow",
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -19,5 +19,8 @@
       "lat": 32.0862661,
       "lon": 34.800174909775976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "enabley",
+  "linkedinNum": 71444
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "astrix-security",
-  "xId": null,
+  "xId": "AstrixSecurity",
   "addresses": [
     {
       "street": "הזוהר",
@@ -19,5 +19,8 @@
       "lat": 32.09643,
       "lon": 34.79478
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AstrixSec",
+  "linkedinNum": 78319864
 }

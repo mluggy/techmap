@@ -1,5 +1,5 @@
 {
-  "name": "Custodia Israel",
+  "name": "Custodia",
   "description": "An innovative AI-powered platform enabling businesses to manage expenses and achieve scalable digital finance solutions.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "custodia",
-  "xId": null,
+  "xId": "custodiatweets",
   "addresses": [
     {
       "street": "גלעד",
@@ -19,5 +19,7 @@
       "lat": 32.1446024,
       "lon": 34.9844233
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27118426
 }

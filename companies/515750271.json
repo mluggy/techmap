@@ -1,5 +1,5 @@
 {
-  "name": "Fastbreak Medical",
+  "name": "FastBreak Medical",
   "description": "Patch for Identifying Strokes.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.9137791,
       "lon": 34.7886826
     }
-  ]
+  ],
+  "isMultinational": false
 }

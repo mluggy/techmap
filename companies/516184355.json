@@ -1,5 +1,5 @@
 {
-  "name": "Remotemdr",
+  "name": "remotEMDR",
   "description": "The premier online platform for remote EMDR therapy with integrated video chat and real-time BLS control.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "remotemdr",
-  "xId": null,
+  "xId": "remotemdr",
   "addresses": [
     {
       "street": "הערבה",
@@ -19,5 +19,8 @@
       "lat": 32.84352717800809,
       "lon": 35.42274616774586
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100063562781830",
+  "linkedinNum": 51680835
 }

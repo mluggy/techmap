@@ -1,10 +1,10 @@
 {
-  "name": "Aptucure Bio",
-  "description": "Customized Medical Treatments.",
+  "name": "AptuCure Bio",
+  "description": "Personalized Therapeutics",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/aptucure_bio-logo.webp",
-  "websiteUrl": "https://bio-therapeutic.com/",
+  "websiteUrl": "https://aptucure.wixsite.com/aptucure-bio",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.8995241,
       "lon": 34.8235201
     }
-  ]
+  ],
+  "isMultinational": false
 }

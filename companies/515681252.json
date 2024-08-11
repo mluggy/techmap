@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "aleph-farms",
-  "xId": null,
+  "xId": "AlephFarms",
   "addresses": [
     {
       "street": "הולצמן חיים",
@@ -19,5 +19,8 @@
       "lat": 31.913727,
       "lon": 34.8081797
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AlephFarms",
+  "linkedinNum": 18542901
 }

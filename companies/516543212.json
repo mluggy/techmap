@@ -1,16 +1,16 @@
 {
-  "name": "Open Finance",
-  "description": "Provides a secure, all-in-one open banking solution for seamless financial management through advanced API and SDK integration.",
+  "name": "Open-Finance.ai",
+  "description": "Financial Technology Tools",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/open_finance-logo.webp",
-  "websiteUrl": "https://www.open-finance.co.il/",
+  "websiteUrl": "https://www.open-finance.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "open-finance",
-  "xId": null,
+  "xId": "openfinanceai",
   "addresses": [
     {
       "street": "גלילי ישראל",
@@ -19,5 +19,8 @@
       "lat": 31.9698255,
       "lon": 34.7816945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "openfinance",
+  "linkedinNum": 77163961
 }

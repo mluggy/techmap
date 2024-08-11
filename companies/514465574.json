@@ -10,7 +10,7 @@
   "linkedinId": "ongage",
   "crunchbaseId": null,
   "finderId": "ongage",
-  "xId": null,
+  "xId": "OngageConnect",
   "addresses": [
     {
       "street": "הנחושת",
@@ -19,5 +19,8 @@
       "lat": 32.10981,
       "lon": 34.838876
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Ongage",
+  "linkedinNum": 2501312
 }

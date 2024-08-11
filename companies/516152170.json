@@ -1,13 +1,13 @@
 {
-  "name": "Agwa Farm",
-  "description": "A global NGO dedicated to climate change adaptation and sustainable water resource management.",
+  "name": "Agwa",
+  "description": "Autonomous AI-driven Home Vegetable Grower",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/agwa_farm-logo.webp",
-  "websiteUrl": "https://www.alliance4water.org/",
+  "websiteUrl": "https://www.agwafarm.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "agwafarm",
   "crunchbaseId": null,
   "finderId": "agwa",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.90561775,
       "lon": 35.193001605491105
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "agwafarm.virtual.agronomist",
+  "linkedinNum": 34877400
 }

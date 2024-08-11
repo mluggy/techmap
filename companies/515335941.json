@@ -1,5 +1,5 @@
 {
-  "name": "Armis Security",
+  "name": "Armis",
   "description": "A prominent ASM platform leveraging a dual-method strategy for asset discovery and management.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "armis-security",
   "crunchbaseId": null,
   "finderId": "armis",
-  "xId": null,
+  "xId": "ArmisSecurity",
   "addresses": [
     {
       "street": "ארניה אסוולדו",
@@ -19,5 +19,8 @@
       "lat": 32.0693445,
       "lon": 34.7860947
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ArmisInc",
+  "linkedinNum": 17905260
 }

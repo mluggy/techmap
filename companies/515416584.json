@@ -1,5 +1,5 @@
 {
-  "name": "Greeneum Net Israel",
+  "name": "Greeneum",
   "description": "A decentralized platform and marketplace enabling renewable energy management and fostering energy independence.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "greeneum-network",
   "finderId": "greeneum",
-  "xId": null,
+  "xId": "GreeneumNet",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,8 @@
       "lat": 32.07777,
       "lon": 34.781103
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Greeneum",
+  "linkedinNum": 18425849
 }

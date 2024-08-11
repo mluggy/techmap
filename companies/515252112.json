@@ -1,5 +1,5 @@
 {
-  "name": "Viisights Solutions",
+  "name": "viisights",
   "description": "Utilizing behavioral recognition, this technology converts video streams into real-time actionable insights for enhanced situational awareness.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "viisights",
   "crunchbaseId": "viisights",
   "finderId": "viisights",
-  "xId": null,
+  "xId": "viisights",
   "addresses": [
     {
       "street": "הנחושת",
@@ -19,5 +19,8 @@
       "lat": 32.10981,
       "lon": 34.838876
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "viisights",
+  "linkedinNum": 9483843
 }

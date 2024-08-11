@@ -1,16 +1,16 @@
 {
   "name": "Feature Forward",
-  "description": "A platform for automated video advertising.",
-  "categoryId": 2,
+  "description": "Programmatic Advertising Video Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/feature_forward-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.featureforward.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "feature-forward",
   "crunchbaseId": null,
   "finderId": "feature-forward",
-  "xId": null,
+  "xId": "featureforward",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.0705297,
       "lon": 34.7872761
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FeatureForward",
+  "linkedinNum": 10231052
 }

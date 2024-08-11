@@ -1,5 +1,5 @@
 {
-  "name": "Playstream",
+  "name": "PlayStream",
   "description": "An A.I. platform offering automated challenge tracking and completion for popular games like Warzone, Fortnite, Apex, and Fall Guys.",
   "categoryId": 11,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "playstream",
-  "xId": null,
+  "xId": "CAbyPlaystream",
   "addresses": [
     {
       "street": "נחל נטפים",
@@ -19,5 +19,7 @@
       "lat": 31.8955158,
       "lon": 35.0241228
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Playstream.GG"
 }

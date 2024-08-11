@@ -1,10 +1,10 @@
 {
-  "name": "Arbel Electrical Engineering",
-  "description": "I am a designer, electrical engineer and musician. I'm currently a research associate at the Industrial Design program at the Faculty of Architecture and Town ...",
-  "categoryId": 15,
+  "name": "Arbel",
+  "description": "Food Processing and Packing Machines",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/arbel_electrical_engineering-logo.webp",
-  "websiteUrl": "https://www.liorarbel.com/",
+  "websiteUrl": "https://www.arbel.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "arbel-electrical-engineering",
@@ -19,5 +19,7 @@
       "lat": 32.0992884,
       "lon": 34.8836578950812
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Arbelmilkprocessing"
 }

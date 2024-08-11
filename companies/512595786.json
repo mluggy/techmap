@@ -1,16 +1,16 @@
 {
-  "name": "Redmatch International",
+  "name": "RedMatch",
   "description": "Founded in 2000, they provide a top-tier HR recruiting and applicant tracking software.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/redmatch_international-logo.webp",
-  "websiteUrl": "http://www.redmatch.com/",
+  "websiteUrl": "https://www.redmatch.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "redmatch",
-  "xId": null,
+  "xId": "REDMATCH_",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.108278,
       "lon": 34.9652441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 77135
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Infinidat",
-  "description": "We provide advanced solutions for managing and storing data in the cloud for enterprises.",
-  "categoryId": 6,
+  "name": "INFINIDAT",
+  "description": "Enterprise Data and Cloud Storage Solutions",
+  "categoryId": 14,
   "size": "l",
   "logoFile": "logos/infinidat-logo.webp",
-  "websiteUrl": "https://infinidatfederal.com/",
+  "websiteUrl": "https://www.infinidat.com/en",
   "careersUrl": "https://www.infinidat.com/en/careers",
   "isHiring": true,
   "linkedinId": "infinidat",
   "crunchbaseId": null,
   "finderId": "infinidat",
-  "xId": null,
+  "xId": "INFINIDAT",
   "addresses": [
     {
       "street": "המנופים",
@@ -19,5 +19,8 @@
       "lat": 32.1598405,
       "lon": 34.8083843
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "infinidat",
+  "linkedinNum": 2565801
 }

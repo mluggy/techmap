@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "eco-wave-power",
-  "xId": null,
+  "xId": "EcoWavePower",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0634798,
       "lon": 34.7802841
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ecowavepowerltd",
+  "linkedinNum": 5399685
 }

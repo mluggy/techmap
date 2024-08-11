@@ -7,9 +7,19 @@
   "websiteUrl": "https://biobetter.bio/",
   "careersUrl": "https://biobetter.bio/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "biobetter",
   "crunchbaseId": null,
   "finderId": "biobetter",
   "xId": null,
-  "addresses": []
+  "addresses": [
+    {
+      "street": "גן תעשייה",
+      "houseNumber": null,
+      "city": "תל חי",
+      "lat": 33.236547896715905,
+      "lon": 35.583145131724606
+    }
+  ],
+  "isMultinational": false,
+  "linkedinNum": 53427282
 }

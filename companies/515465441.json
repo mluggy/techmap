@@ -1,10 +1,10 @@
 {
-  "name": "Go Heja",
-  "description": "A free app streamlining team communication and management for sports teams, connecting coaches, managers, parents, and players.",
+  "name": "Go Heja!",
+  "description": "Training and Management Solution for Endurance Sports Clubs",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/go_heja-logo.webp",
-  "websiteUrl": "https://heja.io/",
+  "websiteUrl": "https://www.goheja.site/",
   "careersUrl": "https://jobs.heja.io/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.12611,
       "lon": 34.828828
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "goheja",
+  "linkedinNum": 10560891
 }

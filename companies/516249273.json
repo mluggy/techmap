@@ -1,5 +1,5 @@
 {
-  "name": "Gable R D",
+  "name": "Gable",
   "description": "Provide remote workers with flexible access to premium coworking spaces, meeting rooms, and private offices globally, with a pay-as-you-go model.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "gable",
-  "xId": null,
+  "xId": "gable_inc",
   "addresses": [
     {
       "street": "יערי מאיר",
@@ -19,5 +19,8 @@
       "lat": 32.099396,
       "lon": 34.784823
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "gable.inc",
+  "linkedinNum": 68662367
 }

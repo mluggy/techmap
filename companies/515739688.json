@@ -1,10 +1,10 @@
 {
-  "name": "Vootto Air Purifier",
-  "description": "Air Purification Solutions for Indoor Spaces and Vehicles.",
-  "categoryId": 12,
+  "name": "Vootto",
+  "description": "Indoor and Automotive Air Purification",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/vootto_air_purifier-logo.webp",
-  "websiteUrl": "https://www.vootto.com/",
+  "websiteUrl": "https://vootto.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.071544,
       "lon": 34.790344
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VoottoSafeAir",
+  "linkedinNum": 14797244
 }

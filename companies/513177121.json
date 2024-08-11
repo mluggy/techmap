@@ -1,16 +1,16 @@
 {
-  "name": "Karma Metals Import And Recycling",
-  "description": "An East Village art gallery in New York representing a diverse array of contemporary artists.",
-  "categoryId": 8,
+  "name": "Karma",
+  "description": "Smart Online Shopping Assistant",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/karma_metals_import_and_recycling-logo.webp",
-  "websiteUrl": "https://karmakarma.org/",
+  "websiteUrl": "https://www.karmanow.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "karma-assistant",
   "crunchbaseId": null,
   "finderId": "karma",
-  "xId": null,
+  "xId": "shopwithkarma",
   "addresses": [
     {
       "street": "הנשיא",
@@ -19,5 +19,8 @@
       "lat": 32.0826871,
       "lon": 34.8472107
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "shopwithkarma",
+  "linkedinNum": 5013178
 }

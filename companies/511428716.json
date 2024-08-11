@@ -1,16 +1,16 @@
 {
-  "name": "Grin Mendel And Sons",
-  "description": "Experience AI-driven influencer marketing and seamless payment solutions through our advanced software.",
-  "categoryId": 2,
+  "name": "Grin",
+  "description": "Teledental Platform for Connecting Patients with Orthodontists",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/grin_mendel_and_sons-logo.webp",
-  "websiteUrl": "https://grin.co/",
-  "careersUrl": "https://grin.co/careers/",
+  "websiteUrl": "https://get-grin.com/",
+  "careersUrl": "https://www.get-grin.com/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "grin",
-  "xId": null,
+  "xId": "get_grin",
   "addresses": [
     {
       "street": "האורג",
@@ -19,5 +19,8 @@
       "lat": 32.3188664,
       "lon": 34.8717241
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getgrinortho",
+  "linkedinNum": 64879643
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Trekace Technologies",
+  "name": "TrekAce Technologies",
   "description": "Pioneering in navigation and communication technologies, this company excels in providing advanced situational awareness and command solutions.",
   "categoryId": 18,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "trekace",
   "crunchbaseId": null,
   "finderId": "trekace-technologies",
-  "xId": null,
+  "xId": "TrekAceGlobal",
   "addresses": [
     {
       "street": "עמק עירון",
@@ -19,5 +19,8 @@
       "lat": 32.1779503,
       "lon": 34.9352401
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TrekAce",
+  "linkedinNum": 30225613
 }

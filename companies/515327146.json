@@ -1,5 +1,5 @@
 {
-  "name": "SKF AI",
+  "name": "SKF Group",
   "description": "SKF Group is a leading global provider of bearings, seals, lubrication systems, condition monitoring, and engineering services for a wide range of industries.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "skf",
   "crunchbaseId": null,
   "finderId": "skf",
-  "xId": null,
+  "xId": "skfgroup",
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -19,5 +19,8 @@
       "lat": 32.7941088,
       "lon": 34.9579664
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SKFGroup",
+  "linkedinNum": 4592
 }

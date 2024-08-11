@@ -1,5 +1,5 @@
 {
-  "name": "Optomechanic Cube",
+  "name": "3DOptix",
   "description": "We offer cutting-edge software for designing, simulating, and assembling digital twins of optical systems using extensive cross-vendor product catalogs.",
   "categoryId": 3,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "optomechanic-cube",
-  "xId": null,
+  "xId": "Doptix3",
   "addresses": [
     {
       "street": "פלאוט מנחם",
@@ -19,5 +19,8 @@
       "lat": 31.9123672,
       "lon": 34.8067898
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "3doptix",
+  "linkedinNum": 18406718
 }

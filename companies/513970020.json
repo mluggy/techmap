@@ -1,16 +1,16 @@
 {
-  "name": "Sekindo",
-  "description": "A transparent, flexible financial service offering comprehensive personal and business banking solutions with no hidden fees.",
-  "categoryId": 10,
+  "name": "Primis",
+  "description": "Video Discovery Platform",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/sekindo-logo.webp",
-  "websiteUrl": "https://primisbank.com/",
+  "websiteUrl": "https://www.primis.tech/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "primis-um",
   "crunchbaseId": "sekindo",
   "finderId": "sekindo",
-  "xId": null,
+  "xId": "PrimisLtd",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.107413,
       "lon": 34.828148
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "primisum",
+  "linkedinNum": 9761678
 }

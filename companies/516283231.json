@@ -1,10 +1,10 @@
 {
   "name": "Novoaid",
   "description": "A Dhaka-based airline offering domestic and international flights with a fleet of ATR 72-500 aircrafts.",
-  "categoryId": 3,
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/novoaid-logo.webp",
-  "websiteUrl": "https://www.flynovoair.com/",
+  "websiteUrl": "https://www.novoaid.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.8045681,
       "lon": 35.1054269
     }
-  ]
+  ],
+  "isMultinational": false
 }

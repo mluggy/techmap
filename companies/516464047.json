@@ -1,16 +1,16 @@
 {
   "name": "Lavaa",
-  "description": "Offering top-notch subwoofers, audio accessories, internet cables, PCs, and DVRs to elevate your audio experience.",
-  "categoryId": 9,
+  "description": "Preventive Care Engine Platform",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/lavaa-logo.webp",
-  "websiteUrl": "https://lavaaa.com/",
+  "websiteUrl": "https://www.lavaa.health/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "lavaa",
-  "xId": null,
+  "xId": "LAVAALABS",
   "addresses": [
     {
       "street": "שומשום",
@@ -19,5 +19,7 @@
       "lat": 32.276492,
       "lon": 34.8915466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LAVAALABS"
 }

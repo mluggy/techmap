@@ -1,0 +1,25 @@
+{
+  "name": "Shuffll",
+  "description": "Creation Platform and Marketplace",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/shuffll.webp",
+  "websiteUrl": "https://shuffll.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "shuffll",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "דרך הגבורה",
+      "houseNumber": 31,
+      "city": "תל אביב - יפו",
+      "lat": 32.06635942241938,
+      "lon": 34.802435924802936
+    }
+  ],
+  "isMultinational": false
+}

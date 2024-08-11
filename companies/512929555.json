@@ -1,5 +1,5 @@
 {
-  "name": "Deep Optics",
+  "name": "DeepOptics",
   "description": "This company offers lightweight, natural-looking adaptive sunglasses featuring innovative patented technology.",
   "categoryId": 4,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "deep-optics",
   "crunchbaseId": null,
   "finderId": "deepoptics",
-  "xId": null,
+  "xId": "32onSunglasses",
   "addresses": [
     {
       "street": "אזור התעשיה",
@@ -19,5 +19,8 @@
       "lat": 32.979171,
       "lon": 35.271973
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "32Neyewear",
+  "linkedinNum": 3824365
 }

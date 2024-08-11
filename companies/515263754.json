@@ -1,10 +1,10 @@
 {
-  "name": "Vim Marketplace",
-  "description": "A versatile text editor designed for efficient text creation and modification, widely available on UNIX systems.",
-  "categoryId": 14,
+  "name": "Vim",
+  "description": "Point-of-care Health Care Connection Platform",
+  "categoryId": 12,
   "size": "m",
   "logoFile": "logos/vim_marketplace-logo.webp",
-  "websiteUrl": "https://www.vim.org/",
+  "websiteUrl": "https://getvim.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.071909,
       "lon": 34.795576
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getvim"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Panorama Software Israel 2002",
+  "name": "Panorama Software",
   "description": "The global leader in pre-built analytical solutions tailored for diverse business sectors, accelerating data-driven decision making.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "panorama-software",
-  "xId": null,
+  "xId": "panoramasw",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.107529,
       "lon": 34.827772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PanoramaSw",
+  "linkedinNum": 13163
 }

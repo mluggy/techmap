@@ -1,5 +1,5 @@
 {
-  "name": "Aseptoray",
+  "name": "AseptoRay",
   "description": "AseptoRay offers a revolutionary UV light-based cold pasteurization platform for liquids and beverages, providing an alternative to traditional and High Pressure Processing (HPP) methods.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "aseptoray",
-  "xId": null,
+  "xId": "AseptoRay1",
   "addresses": [
     {
       "street": "איזור התעשיה",
@@ -19,5 +19,8 @@
       "lat": 33.01961313485721,
       "lon": 35.28311517340943
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AseptoRay-116288289743863",
+  "linkedinNum": 10175078
 }

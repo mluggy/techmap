@@ -1,5 +1,5 @@
 {
-  "name": "Salesforce Com Israel",
+  "name": "SalesForce",
   "description": "Leading in AI CRM, the company empowers businesses to engage with clients through an integrated platform of CRM, AI, data, and trust.",
   "categoryId": 1,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "salesforce",
   "crunchbaseId": null,
   "finderId": "salesforce-com",
-  "xId": null,
+  "xId": "salesforceil",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SalesforceIsraelRD",
+  "linkedinNum": 3185
 }

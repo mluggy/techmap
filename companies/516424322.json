@@ -1,0 +1,25 @@
+{
+  "name": "SeeMetrics",
+  "description": "Cybersecurity Performance Management",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/seemetrics.webp",
+  "websiteUrl": "https://seemetrics.co",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "seemetrics",
+  "xId": "seemetrics",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "דרך בגין מנחם",
+      "houseNumber": 11,
+      "city": "רמת גן",
+      "lat": 32.086608544045085,
+      "lon": 34.80049185374316
+    }
+  ],
+  "isMultinational": false
+}

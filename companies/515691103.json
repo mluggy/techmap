@@ -1,16 +1,16 @@
 {
-  "name": "Becton Dickinson Israel",
+  "name": "Becton Dickinson",
   "description": "Becton Dickinson is a global medical technology company specializing in the development, manufacture, and sale of medical devices, laboratory equipment, and diagnostic products.",
-  "categoryId": 12,
   "size": "m",
+  "categoryId": 12,
   "logoFile": "logos/becton_dickinson_israel-logo.webp",
-  "websiteUrl": "https://jobs.bd.com/",
+  "websiteUrl": "https://www.bd.com/",
   "careersUrl": "https://jobs.bd.com/israel",
   "isHiring": true,
   "linkedinId": "bd1",
   "crunchbaseId": null,
   "finderId": "becton-dickinson",
-  "xId": null,
+  "xId": "BDandCo",
   "addresses": [
     {
       "street": "השיטה",
@@ -19,5 +19,8 @@
       "lat": 32.4760963,
       "lon": 34.9429075
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "BectonDickinsonandCo",
+  "linkedinNum": 3102
 }

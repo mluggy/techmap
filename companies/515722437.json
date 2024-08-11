@@ -1,16 +1,16 @@
 {
-  "name": "Stoa Fund",
-  "description": "Online Service for Property Investment Enthusiasts.",
+  "name": "Stoa",
+  "description": "Web Platform for Real Estate Investors",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/stoa_fund-logo.webp",
-  "websiteUrl": "https://stoacapitalpartners.com/",
+  "websiteUrl": "https://betterwithstoa.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "stoa-fund",
-  "xId": null,
+  "xId": "BetterWithStoa",
   "addresses": [
     {
       "street": "אחד העם",
@@ -19,5 +19,8 @@
       "lat": 32.06378,
       "lon": 34.769659
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BetterWithStoa",
+  "linkedinNum": 18769884
 }

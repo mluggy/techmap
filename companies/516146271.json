@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.wiz.io/",
   "careersUrl": "https://www.wiz.io/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "wizsecurity",
   "crunchbaseId": null,
   "finderId": "wiz",
-  "xId": null,
+  "xId": "wiz_io",
   "addresses": [
     {
       "street": "דניאל פריש",
@@ -19,5 +19,8 @@
       "lat": 32.0745855,
       "lon": 34.7832649
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "wiz.io.sec",
+  "linkedinNum": 64890982
 }

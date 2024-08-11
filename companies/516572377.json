@@ -1,0 +1,25 @@
+{
+  "name": "SWOUND",
+  "description": "Music Creation Platform",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/swound.webp",
+  "websiteUrl": "https://swound.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 77112559,
+  "crunchbaseId": null,
+  "finderId": "swound",
+  "xId": "Swound_io",
+  "facebookId": "swound.io",
+  "addresses": [
+    {
+      "street": "ירמיהו",
+      "houseNumber": 14,
+      "city": "תל אביב - יפו",
+      "lat": 32.095028762038744,
+      "lon": 34.77493421683388
+    }
+  ],
+  "isMultinational": false
+}

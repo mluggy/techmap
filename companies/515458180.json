@@ -1,16 +1,16 @@
 {
   "name": "Sharon Personal Care",
-  "description": "A global provider of advanced ingredient solutions for diverse personal care products, specializing in trending market segments with a portfolio of unique preservative and delivery systems, green chemistries, and natural active ingredients.",
+  "description": "Ingredient Solutions for Personal Care Products",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/sharon_personal_care-logo.webp",
-  "websiteUrl": "https://www.sharonpc.com/",
+  "websiteUrl": "https://www.sharon-labs.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "sharon-personal-care",
   "crunchbaseId": null,
   "finderId": "sharon-personal-care",
-  "xId": null,
+  "xId": "Sharon_Labs",
   "addresses": [
     {
       "street": "גשר עד הלום",
@@ -19,5 +19,8 @@
       "lat": 31.8011939,
       "lon": 34.6612522
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sharonpersonalcare",
+  "linkedinNum": 1006955
 }

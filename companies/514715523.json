@@ -1,16 +1,16 @@
 {
-  "name": "Klear.com",
-  "description": "Platform for connecting brands with social media influencers.",
-  "categoryId": 2,
+  "name": "Klear",
+  "description": "Influencer Marketing Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/klear_com-logo.webp",
-  "websiteUrl": "https://klearcom.com/",
+  "websiteUrl": "https://klear.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "klearinfluencer",
   "crunchbaseId": "twtrland",
   "finderId": "twtrland",
-  "xId": null,
+  "xId": "klear_com",
   "addresses": [
     {
       "street": "יותם",
@@ -19,5 +19,8 @@
       "lat": 32.7929549,
       "lon": 34.9873496
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "twtrland",
+  "linkedinNum": 3005734
 }

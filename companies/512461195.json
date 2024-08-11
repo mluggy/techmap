@@ -1,10 +1,10 @@
 {
-  "name": "Expander",
-  "description": "An eCommerce platform powered by data insights.",
-  "categoryId": 9,
+  "name": "Expander Digital",
+  "description": "Data-driven eCommerce Platform",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/expander-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://expander.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0843582,
       "lon": 34.8032287
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 71486674
 }

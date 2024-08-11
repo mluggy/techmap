@@ -1,5 +1,5 @@
 {
-  "name": "Meteo Logic",
+  "name": "Meteo-Logic",
   "description": "Leveraging advanced machine learning and weather data, this company creates a cutting-edge energy trading platform that enhances stability and predictability.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "meteo-logic",
   "crunchbaseId": null,
   "finderId": "meteo-logic",
-  "xId": null,
+  "xId": "MeteoLogic",
   "addresses": [
     {
       "street": "התדהר",
@@ -19,5 +19,8 @@
       "lat": 32.19630935,
       "lon": 34.88423473965118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Meteo-Logic-291806974206965",
+  "linkedinNum": 2477913
 }

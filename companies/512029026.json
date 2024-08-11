@@ -1,10 +1,10 @@
 {
-  "name": "Ambrosia Supherb",
-  "description": "The top Israeli leader in the Vitamins, Minerals, and Supplements sector, renowned for nutritional supplements.",
+  "name": "Ambrosia SupHerb",
+  "description": "Vitamins and Dietary Supplements",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/ambrosia_supherb_ltd-logo.webp",
-  "websiteUrl": "https://supherbshop.com/",
+  "websiteUrl": "https://supherbgroup.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ambrosia-supherb-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.0955017,
       "lon": 34.8234431
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "israel.supherb",
+  "linkedinNum": 2340918
 }

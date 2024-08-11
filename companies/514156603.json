@@ -1,5 +1,5 @@
 {
-  "name": "Cyrus Capital",
+  "name": "Cyrus",
   "description": "Cyrus provides comprehensive credit monitoring, instant transaction alerts, and swift ID theft support.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "cyrus-security",
   "crunchbaseId": null,
   "finderId": "cyrus-security",
-  "xId": null,
+  "xId": "safe_with_cyrus",
   "addresses": [
     {
       "street": "הילדסהיימר",
@@ -19,5 +19,8 @@
       "lat": 32.093499,
       "lon": 34.791937
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cyruslabsusa",
+  "linkedinNum": 30664194
 }

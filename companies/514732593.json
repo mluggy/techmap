@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "segoma",
-  "xId": null,
+  "xId": "segoma1",
   "addresses": [
     {
       "street": "המנופים",
@@ -19,5 +19,8 @@
       "lat": 32.1598236,
       "lon": 34.8080456
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SegomaImaging",
+  "linkedinNum": 2351881
 }

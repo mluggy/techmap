@@ -1,16 +1,16 @@
 {
-  "name": "Artimedia Technologies",
-  "description": "A full-service digital marketing firm based in Syria offering global outsourcing solutions tailored to your business needs.",
-  "categoryId": 2,
+  "name": "Artimedia",
+  "description": "Video Advertising Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/artimedia_technologies-logo.webp",
-  "websiteUrl": "https://artimedia-pro.com/",
+  "websiteUrl": "https://arti-media.net/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "artimedia",
   "crunchbaseId": null,
   "finderId": "artimedia",
-  "xId": null,
+  "xId": "artimedia_",
   "addresses": [
     {
       "street": "העצמאות",
@@ -19,5 +19,8 @@
       "lat": 32.07426925,
       "lon": 34.88324393283237
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "artimediatechnologies",
+  "linkedinNum": 2577714
 }

@@ -1,13 +1,13 @@
 {
   "name": "Omnisys",
-  "description": "A premier provider of medical billing and patient engagement software, empowering pharmacies to enhance patient health, accessibility, and business growth.",
-  "categoryId": 12,
+  "description": "Real-time Decision Support System",
+  "categoryId": 3,
   "size": "m",
   "logoFile": "logos/omnisys-logo.webp",
-  "websiteUrl": "https://www.omnisys.com/",
+  "websiteUrl": "https://www.omnisys.co.il",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "omnisys",
   "crunchbaseId": null,
   "finderId": "omnisys",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.09668,
       "lon": 34.9066455
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Omnisys",
+  "linkedinNum": 24621
 }

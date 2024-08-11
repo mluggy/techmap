@@ -1,5 +1,5 @@
 {
-  "name": "Zebra Crm",
+  "name": "ZebraCRM",
   "description": "פתרון CRM מתקדם בעברית לניהול לקוחות, מכירות ולידים, נגיש מכל התקן מחובר לאינטרנט.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "zebra-crm",
-  "xId": null,
+  "xId": "ZebraCRM",
   "addresses": [
     {
       "street": "בן גוריון",
@@ -19,5 +19,8 @@
       "lat": 32.0758527,
       "lon": 34.84585
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZebraCRM",
+  "linkedinNum": 2318420
 }

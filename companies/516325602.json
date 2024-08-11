@@ -10,7 +10,7 @@
   "linkedinId": "lin-health",
   "crunchbaseId": null,
   "finderId": "lin-health",
-  "xId": null,
+  "xId": "wearelinhealth",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Lin.Health.Official",
+  "linkedinNum": 76100929
 }

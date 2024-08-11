@@ -1,5 +1,5 @@
 {
-  "name": "Globokids Games 2015",
+  "name": "Globokids Games",
   "description": "A safe digital playground for children to explore, play, and embark on adventures across various devices.",
   "categoryId": 11,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.0693338,
       "lon": 34.8501728
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pg",
+  "linkedinNum": 10518993
 }

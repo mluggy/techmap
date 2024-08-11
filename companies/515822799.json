@@ -1,5 +1,5 @@
 {
-  "name": "Bidgemmer",
+  "name": "BidGemmer",
   "description": "An AI-powered software solution streamlining auctions, inventory management, and ERP for the diamond and colored gemstone industry.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "bidgemmer",
   "crunchbaseId": null,
   "finderId": "bidgemmer",
-  "xId": null,
+  "xId": "BidGemmer",
   "addresses": [
     {
       "street": "האגדה",
@@ -19,5 +19,8 @@
       "lat": 32.0750484,
       "lon": 34.8264844
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bidgemmer",
+  "linkedinNum": 25070734
 }

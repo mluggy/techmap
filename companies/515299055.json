@@ -1,16 +1,16 @@
 {
-  "name": "Fido Solutions Israel",
-  "description": "A coalition dedicated to creating open authentication standards to lessen global dependence on passwords.",
-  "categoryId": 7,
+  "name": "FIDO",
+  "description": "Short-term Loans for Underserved Markets",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/fido_solutions_israel-logo.webp",
-  "websiteUrl": "https://fidoalliance.org/",
+  "websiteUrl": "https://www.fido.money",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fido-money-lending-ltd",
   "crunchbaseId": null,
   "finderId": "fido",
-  "xId": null,
+  "xId": "fidocredit",
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +19,8 @@
       "lat": 32.074132,
       "lon": 34.782006
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fidocredit",
+  "linkedinNum": 5283549
 }

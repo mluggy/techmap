@@ -1,10 +1,10 @@
 {
-  "name": "M E A Testing Systems",
-  "description": "Devices for Assessing Motor Performance.",
-  "categoryId": 15,
+  "name": "M.E.A. Testing Systems",
+  "description": "Dynamometers for Motor Testing",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/m_e_a_testing_systems-logo.webp",
-  "websiteUrl": "https://motomea.com/",
+  "websiteUrl": "https://meatesting.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "motomea",
@@ -19,5 +19,8 @@
       "lat": 32.2888467,
       "lon": 34.8637969
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MEAmotortesting",
+  "linkedinNum": 17994625
 }

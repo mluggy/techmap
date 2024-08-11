@@ -1,16 +1,16 @@
 {
   "name": "Nanomedic Technologies",
-  "description": "Mobile Wound Care Device.",
+  "description": "Portable Wound Treatment System",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/nanomedic_technologies-logo.webp",
-  "websiteUrl": "https://spincare.com/",
+  "websiteUrl": "https://nanomedic.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "nanomedic-technologies-ltd",
   "crunchbaseId": null,
   "finderId": "nanomedic-technologies",
-  "xId": null,
+  "xId": "NanomedicL",
   "addresses": [
     {
       "street": "יודפת",
@@ -19,5 +19,8 @@
       "lat": 31.9614502,
       "lon": 34.8993993
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nanomedic",
+  "linkedinNum": 19098236
 }

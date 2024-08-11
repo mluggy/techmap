@@ -1,5 +1,5 @@
 {
-  "name": "Virtuality Fashion",
+  "name": "virtuality.fashion",
   "description": "Harnessing AI and 3D tech to create realistic virtual fashion models, this platform streamlines marketing and champions sustainability.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "virtuality-fashion",
-  "xId": null,
+  "xId": "virtualityfash",
   "addresses": [
     {
       "street": "הפודים",
@@ -19,5 +19,8 @@
       "lat": 32.09312065,
       "lon": 34.821226300000006
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "virtuality.fashion",
+  "linkedinNum": 10459377
 }

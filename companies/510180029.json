@@ -1,5 +1,5 @@
 {
-  "name": "Motorola Solutions Israel",
+  "name": "Motorola Solutions",
   "description": "Motorola Solutions provides mission-critical communications and analytics solutions for public safety and enterprise security.",
   "categoryId": 18,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "motorolasolutions",
   "crunchbaseId": null,
   "finderId": "motorola-solutions",
-  "xId": null,
+  "xId": "MotoSolutions",
   "addresses": [
     {
       "street": "דרך השלום",
@@ -19,5 +19,8 @@
       "lat": 32.0716565,
       "lon": 34.7974224
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "MotorolaSolutionsIsrael",
+  "linkedinNum": 1771432
 }

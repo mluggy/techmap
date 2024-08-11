@@ -1,5 +1,5 @@
 {
-  "name": "Cyolo Security",
+  "name": "Cyolo",
   "description": "Specializing in secure remote access, the company facilitates safe connections for operating critical infrastructure by employees, contractors, and OEMs.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cyolo",
   "crunchbaseId": null,
   "finderId": "cyolo",
-  "xId": null,
+  "xId": "cyolo_security",
   "addresses": [
     {
       "street": "בן יהודה",
@@ -19,5 +19,8 @@
       "lat": 32.081912,
       "lon": 34.77113
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cyolo-104079641260872",
+  "linkedinNum": 26244228
 }

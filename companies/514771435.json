@@ -1,5 +1,5 @@
 {
-  "name": "Alphamet",
+  "name": "AlphaMet",
   "description": "A medical device company specializing in FDA-cleared, innovative orthopedic implants and instruments for minimally invasive Hallux Valgus correction surgeries.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.5957797,
       "lon": 35.0042944
     }
-  ]
+  ],
+  "isMultinational": false
 }

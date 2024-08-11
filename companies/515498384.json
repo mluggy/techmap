@@ -1,10 +1,10 @@
 {
-  "name": "Clara Mind",
-  "description": "Specializing in mitigating the severe disorientation caused by Alzheimer's disease across physical, temporal, and social dimensions.",
+  "name": "Shomerosh",
+  "description": "App for Detecting Preclinical Alzheimers Disease",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/clara_mind-logo.webp",
-  "websiteUrl": "https://www.shomerosh.com/",
+  "websiteUrl": "https://www.claramind.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.070106,
       "lon": 34.797387
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82344308
 }

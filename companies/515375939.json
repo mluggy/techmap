@@ -1,5 +1,5 @@
 {
-  "name": "Skillinn Technologies",
+  "name": "Skillinn",
   "description": "A platform for showcasing skills, finding needed talents, and connecting with potential employers on YouTube.",
   "categoryId": 8,
   "size": "xs",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://skillinn.com/",
   "careersUrl": "https://skillinn.com/jobseeker/search",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "joblee-israel",
   "crunchbaseId": "skillinn-technologies",
   "finderId": "skillinn",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1624473,
       "lon": 34.842019629406224
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Skillinn",
+  "linkedinNum": 18229567
 }

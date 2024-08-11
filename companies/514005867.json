@@ -1,10 +1,10 @@
 {
-  "name": "Alice Estate Investment",
-  "description": "A mobile platform that enables hotel staff to provide exceptional service by streamlining guest engagement and request management.",
-  "categoryId": 14,
+  "name": "Alice",
+  "description": "Search Engine for Cheap Airline Tickets",
+  "categoryId": 9,
   "size": "s",
   "logoFile": "logos/alice_estate_investment-logo.webp",
-  "websiteUrl": "https://www.aliceapp.com/",
+  "websiteUrl": "https://www.alice.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.108034265749346,
       "lon": 34.83800200344961
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "alice.flights.search",
+  "linkedinNum": 29013736
 }

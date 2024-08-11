@@ -1,10 +1,10 @@
 {
   "name": "Triso",
-  "description": "Automated Analysis and Evaluation of Anatomical Images.",
-  "categoryId": 1,
+  "description": "Automatic Anatomic Image Analysis and Evaluation",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/triso-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://triso.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.704154,
       "lon": 34.9778942
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77282114
 }

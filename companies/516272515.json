@@ -1,16 +1,16 @@
 {
-  "name": "Via Diamonds",
-  "description": "Offering an all-in-one solution for keyboard configuration, testing, and design.",
-  "categoryId": 14,
+  "name": "Via",
+  "description": "Urban Transportation Optimization Platform",
+  "categoryId": 5,
   "size": "l",
   "logoFile": "logos/via_diamonds-logo.webp",
-  "websiteUrl": "https://caniusevia.com/",
+  "websiteUrl": "https://www.ridewithvia.com",
   "careersUrl": "https://ridewithvia.com/careers/jobs",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "ridewithvia",
   "crunchbaseId": null,
   "finderId": "via",
-  "xId": null,
+  "xId": "ridewithvia",
   "addresses": [
     {
       "street": "יעקב רוזן",
@@ -19,5 +19,8 @@
       "lat": 32.05713037084251,
       "lon": 34.81505358926541
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ridewithvia?fref=nf",
+  "linkedinNum": 2770100
 }

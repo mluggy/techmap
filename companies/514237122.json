@@ -7,10 +7,10 @@
   "websiteUrl": "https://eitanmedical.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eitan-medical",
   "crunchbaseId": null,
   "finderId": "eitan-medical",
-  "xId": null,
+  "xId": "eitanmedical",
   "addresses": [
     {
       "street": "יד חרוצים",
@@ -19,5 +19,8 @@
       "lat": 32.2834756,
       "lon": 34.8651339
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13020842,
+  "comeetId": "eitanmedical/C6.00F"
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Votis Subdermal Imaging Technologies",
-  "description": "Apparatus for Evaluating Blood Flow in the Feet of Individuals with Peripheral Artery Disease.",
+  "name": "VOTIS Subdermal Imaging Technologies",
+  "description": "Device for Assessing Foot Patency in People with Peripheral Artery Disease",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/votis_subdermal_imaging_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://votis.net",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "votis-subdermal-imaging-technologies-ltd",
@@ -19,5 +19,8 @@
       "lat": 31.75029,
       "lon": 35.2136606
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Votis.Subdermal.Imaging",
+  "linkedinNum": 69203351
 }

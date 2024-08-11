@@ -1,5 +1,5 @@
 {
-  "name": "Turbogen",
+  "name": "TurboGen",
   "description": "Founded in 2014 and publicly traded since 2021, this company specializes in advanced micro-turbines utilizing aviation technology for efficient power and heat generation.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "turbogenchp",
   "crunchbaseId": null,
   "finderId": "turbogen",
-  "xId": null,
+  "xId": "TurboGen4",
   "addresses": [
     {
       "street": "אפעל",
@@ -19,5 +19,7 @@
       "lat": 32.0960867,
       "lon": 34.8478079
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13014951
 }

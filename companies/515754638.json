@@ -1,16 +1,16 @@
 {
-  "name": "Island O B Holdings",
-  "description": "Providing families with day and night entertainment, including the standout 200-foot-high Smoky Mountain Wheel observation ride.",
-  "categoryId": 8,
+  "name": "Island",
+  "description": "Enterprise Browser",
+  "categoryId": 7,
   "size": "l",
   "logoFile": "logos/island_o_b_holdings-logo.webp",
-  "websiteUrl": "https://islandinpigeonforge.com/",
+  "websiteUrl": "https://island.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "island-io",
   "crunchbaseId": null,
   "finderId": "island",
-  "xId": null,
+  "xId": "islanddotio",
   "addresses": [
     {
       "street": "קפטן סטיב",
@@ -19,5 +19,9 @@
       "lat": 32.8168839,
       "lon": 35.0028437
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Islandio-103033632127708",
+  "linkedinNum": 68023390,
+  "comeetId": "island/09.00A"
 }

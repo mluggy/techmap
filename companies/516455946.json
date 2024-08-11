@@ -1,10 +1,10 @@
 {
-  "name": "Trackimed",
-  "description": "Platform for AI-assisted Operating Room Management.",
+  "name": "TrackiMed",
+  "description": "Hospital Operating Room's Silent Champion The First-of-a-Kind Tailored AI Virtual Assistant Nurse",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/trackimed-logo.webp",
-  "websiteUrl": "https://www.trackmedium.com/",
+  "websiteUrl": "https://www.trackimed.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "trackimed",
@@ -19,5 +19,7 @@
       "lat": 32.2499457,
       "lon": 34.9087449
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 101297824
 }

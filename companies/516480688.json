@@ -1,10 +1,10 @@
 {
   "name": "Bounce Pay",
-  "description": "Operating in Confidential Mode.",
+  "description": "Stealth Mode",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/bounce_pay-logo.webp",
-  "websiteUrl": "https://www.bounceup.io/",
+  "websiteUrl": "https://www.bouncepay.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "bounce-pay?trk=similar-pages",
@@ -19,5 +19,7 @@
       "lat": 32.086696,
       "lon": 34.77701
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 97859120
 }

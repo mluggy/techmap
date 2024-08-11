@@ -1,5 +1,5 @@
 {
-  "name": "Rayven Iot",
+  "name": "Rayven IOT",
   "description": "Specializing in ultra-interoperable middleware, they provide seamless integration of data and systems for creating real-time industrial technology ecosystems.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rayven-iot",
-  "xId": null,
+  "xId": "rayveniot",
   "addresses": [
     {
       "street": "קרן היסוד",
@@ -19,5 +19,7 @@
       "lat": 32.1859632,
       "lon": 34.8716408
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12176697
 }

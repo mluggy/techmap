@@ -1,5 +1,5 @@
 {
-  "name": "Linear B",
+  "name": "LinearB",
   "description": "A top platform enhancing software engineering efficiency and aligning R&D with business objectives, recognized in Gartner's Market Guide for Software Engineering Intelligence Platforms.",
   "categoryId": 14,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://linearb.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "linearb",
   "crunchbaseId": null,
   "finderId": "linear-b",
-  "xId": null,
+  "xId": "LinearB_Inc",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "linearbinc",
+  "linkedinNum": 18740176
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Appendad",
+  "name": "FirstImpression",
   "description": "This company offers a straightforward solution that quickly enhances revenue by identifying and monetizing new opportunities.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "appendad",
-  "xId": null,
+  "xId": "firstimptech",
   "addresses": [
     {
       "street": "אלוף מגן קלמן",
@@ -19,5 +19,8 @@
       "lat": 32.07110345,
       "lon": 34.78706174292169
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "firstimpression.io",
+  "linkedinNum": 4803096
 }

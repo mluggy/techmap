@@ -1,5 +1,5 @@
 {
-  "name": "Imagine Machine Israel",
+  "name": "iMagine Machine",
   "description": "An interactive educational game that teaches children geometric concepts and shape classification through engaging, experiential learning.",
   "categoryId": 11,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "imagine-machine",
-  "xId": null,
+  "xId": "imaginemachine",
   "addresses": [
     {
       "street": "אמזלג",
@@ -19,5 +19,8 @@
       "lat": 32.060115,
       "lon": 34.765568
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "iMaginemachine",
+  "linkedinNum": 1604413
 }

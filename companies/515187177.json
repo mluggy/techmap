@@ -1,5 +1,5 @@
 {
-  "name": "Legalup",
+  "name": "LegalUp",
   "description": "Revolutionizing legal document creation with automated smart wizards tailored to your firm's expertise.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "legalup-automation",
   "crunchbaseId": null,
   "finderId": "legalup",
-  "xId": null,
+  "xId": "LegalUpIL",
   "addresses": [
     {
       "street": "בארי",
@@ -19,5 +19,8 @@
       "lat": 32.082946,
       "lon": 34.788002
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "legaluptech",
+  "linkedinNum": 11559567
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Qwilt Technologies",
+  "name": "Qwilt",
   "description": "Providing superior, scalable, and cost-effective content delivery solutions for media and applications.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "qwilt",
   "crunchbaseId": "qwilt",
   "finderId": "qwilt",
-  "xId": null,
+  "xId": "qwilt",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.13264635,
       "lon": 34.89857182559817
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Qwilt.Inc",
+  "linkedinNum": 1387152
 }

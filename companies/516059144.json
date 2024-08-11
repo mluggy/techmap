@@ -1,5 +1,5 @@
 {
-  "name": "Othereality",
+  "name": "OtheReality",
   "description": "A social impact startup utilizes Virtual Reality in high-school classes to eliminate prejudice by allowing students to experience life from diverse perspectives.",
   "categoryId": 4,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "othereality",
-  "xId": null,
+  "xId": "othereality_",
   "addresses": [
     {
       "street": "רבי בנימין",
@@ -19,5 +19,8 @@
       "lat": 31.7819119,
       "lon": 35.1955598
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OtheReality.startup",
+  "linkedinNum": 64505048
 }

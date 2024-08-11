@@ -1,10 +1,10 @@
 {
   "name": "Sun Effect",
-  "description": "Automated Solutions for Cleaning Solar Panels.",
-  "categoryId": 15,
+  "description": "Robotic Cleaning Systems for Solar Panels",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/sun_effect-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.suneffect.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.9330405,
       "lon": 34.7987064
     }
-  ]
+  ],
+  "isMultinational": false
 }

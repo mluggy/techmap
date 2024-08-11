@@ -1,16 +1,16 @@
 {
-  "name": "Cwt Digital",
+  "name": "CWT",
   "description": "They streamline corporate travel using advanced technology for optimized business travel programs and events.",
-  "categoryId": 14,
   "size": "m",
+  "categoryId": 9,
   "logoFile": "logos/cwt_digital-logo.webp",
-  "websiteUrl": "https://www.mycwt.com/",
+  "websiteUrl": "https://www.carlsonwagonlit.com",
   "careersUrl": "https://careers.mycwt.com/",
   "isHiring": true,
   "linkedinId": "mycwt",
   "crunchbaseId": null,
   "finderId": "cwt",
-  "xId": null,
+  "xId": "my_CWT",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "myCWT",
+  "linkedinNum": 2366
 }

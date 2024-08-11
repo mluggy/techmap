@@ -1,16 +1,16 @@
 {
   "name": "2bPrecise",
-  "description": "Bringing test results and insights to the point of care, within any EHR.",
+  "description": "Precision Medicine Solution",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/2_b_precise-logo.webp",
-  "websiteUrl": "https://www.2bprecise.com/",
+  "websiteUrl": "https://www.2bPreciseHealth.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "2bprecise",
   "crunchbaseId": "2bprecise",
   "finderId": "2bprecise",
-  "xId": null,
+  "xId": "2bprecise",
   "addresses": [
     {
       "street": "תורת היחסות",
@@ -19,5 +19,8 @@
       "lat": 31.263868,
       "lon": 34.8132653
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "2bPrecise",
+  "linkedinNum": 15143212
 }

@@ -1,16 +1,16 @@
 {
   "name": "Beyond Virtual",
-  "description": "Providing the latest CDC updates and information on COVID-19.",
-  "categoryId": 4,
+  "description": "A platform for building AI-based virtual humans - for educational use cases and more.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/beyond_virtual-logo.webp",
-  "websiteUrl": "https://beyond-en.sheba.co.il/",
+  "websiteUrl": "https://beyondvirtual.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "beyond-virtual",
-  "xId": null,
+  "xId": "beyondvirtualai",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,7 @@
       "lat": 32.161430249999995,
       "lon": 34.808588229913795
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "beyondvirtualai"
 }

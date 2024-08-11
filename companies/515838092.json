@@ -1,5 +1,5 @@
 {
-  "name": "Activefence",
+  "name": "ActiveFence",
   "description": "Leading provider of Trust & Safety solutions that safeguard online platforms and users from a wide range of malicious behaviors and content.",
   "categoryId": 7,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.activefence.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "activefence",
   "crunchbaseId": null,
   "finderId": "activefence",
-  "xId": null,
+  "xId": "ActiveFence",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.083369250000004,
       "lon": 34.80252937066078
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11682234,
+  "comeetId": "activefence/D5.005"
 }

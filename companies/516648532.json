@@ -1,16 +1,16 @@
 {
-  "name": "Dailyrobotics",
-  "description": "Pioneering AI-powered robotic arms that enhance farming efficiency through advanced plant observation and decision-making capabilities.",
-  "categoryId": 15,
+  "name": "DailyRobotics",
+  "description": "Advanced Robotics for Agriculture",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/dailyrobotics-logo.webp",
-  "websiteUrl": "https://www.dailyrobotics.com/",
+  "websiteUrl": "https://www.dailyrobotics.xyz/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dailyrobotics",
-  "xId": null,
+  "xId": "goodrobots",
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -19,5 +19,8 @@
       "lat": 32.823617,
       "lon": 34.9928356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dailyrobotics",
+  "linkedinNum": 85607849
 }

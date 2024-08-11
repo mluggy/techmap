@@ -1,5 +1,5 @@
 {
-  "name": "Econcrete Tech",
+  "name": "ECOncrete",
   "description": "The patented solution enhances marine ecosystems by promoting biological growth, boosting carbon capture, and improving water quality.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "econcrete",
   "crunchbaseId": null,
   "finderId": "econcrete",
-  "xId": null,
+  "xId": "econcretel",
   "addresses": [
     {
       "street": "טברסקי",
@@ -19,5 +19,8 @@
       "lat": 32.065748,
       "lon": 34.789165
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ECOncreteTech",
+  "linkedinNum": 4983873
 }

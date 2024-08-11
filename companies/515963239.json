@@ -1,5 +1,5 @@
 {
-  "name": "Payem Card",
+  "name": "PayEm",
   "description": "This platform streamlines worldwide finance and procurement by automating processes from initial request to final reconciliation.",
   "categoryId": 10,
   "size": "m",
@@ -19,5 +19,8 @@
       "lat": 32.063834,
       "lon": 34.780027
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100076573278338",
+  "linkedinNum": 13982455
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Unifabrix",
+  "name": "UniFabriX",
   "description": "Pioneering the first software-defined memory pool, UnifabriX MAX offers on-demand, advanced-performance smart memory with up to 32TB DDR5 in a compact 2U form using CXL standards.",
   "categoryId": 16,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "unifabrix",
   "crunchbaseId": null,
   "finderId": "unifabrix",
-  "xId": null,
+  "xId": "unifabrix",
   "addresses": [
     {
       "street": "דרך יפו",
@@ -19,5 +19,7 @@
       "lat": 32.8276768,
       "lon": 34.9851308
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 54290165
 }

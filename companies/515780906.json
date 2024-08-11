@@ -1,10 +1,10 @@
 {
-  "name": "Geocloud",
-  "description": "An online platform for storing, converting, visualizing, and sharing GIS data in various formats and coordinate systems.",
-  "categoryId": 6,
+  "name": "GeoCloud",
+  "description": "Cloud-powered Geoinformation Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/geocloud-logo.webp",
-  "websiteUrl": "https://mygeodata.cloud/",
+  "websiteUrl": "https://www.geocloud.work/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1592344,
       "lon": 34.8999979
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GeoCloud-1410733988991482",
+  "linkedinNum": 28184692
 }

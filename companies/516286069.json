@@ -1,10 +1,10 @@
 {
-  "name": "Marvin Technology Ventures",
-  "description": "Specializing in windows and doors, this company offers products designed to enhance new construction, remodeling, or replacement projects.",
-  "categoryId": 9,
+  "name": "Marvin",
+  "description": "All-In-One Platform to a Sustainable Economy",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/marvin_technology_ventures-logo.webp",
-  "websiteUrl": "https://www.marvin.com/",
+  "websiteUrl": "https://www.marvinblue.earth/",
   "careersUrl": "https://www.marvin.com/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.6075668,
       "lon": 34.9230461
     }
-  ]
+  ],
+  "isMultinational": false
 }

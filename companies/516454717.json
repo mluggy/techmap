@@ -1,10 +1,10 @@
 {
-  "name": "Go 4 A",
-  "description": "A company currently operating in stealth mode.",
-  "categoryId": 14,
+  "name": "Go4A",
+  "description": "Stealth Mode Company",
+  "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/go_4_a-logo.webp",
-  "websiteUrl": "https://www.go4schools.com/",
+  "websiteUrl": "https://go4a.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.63791066861783,
       "lon": 35.445143074609945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75068365
 }

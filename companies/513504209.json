@@ -1,10 +1,10 @@
 {
-  "name": "Fluentech",
-  "description": "A company offering a scalable, customizable distribution engine with advanced risk management and behavioral prevention controls for all markets.",
-  "categoryId": 7,
+  "name": "FluenTech",
+  "description": "PC-based Therapy Solution for Stuttering",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/fluentech-logo.webp",
-  "websiteUrl": "https://fluenttech.net/",
+  "websiteUrl": "https://www.drfluency.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.77226743885515,
       "lon": 35.24111740727622
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Dr.Fluency.Stuttering.and.Disfluency.Treatment"
 }

@@ -1,13 +1,13 @@
 {
-  "name": "Sciplay Games Israel",
+  "name": "SciPlay",
   "description": "We ignite daily enthusiasm for gaming through innovative social casino and casual games.",
   "categoryId": 11,
   "size": "l",
   "logoFile": "logos/sciplay_games_israel-logo.webp",
   "websiteUrl": "https://www.sciplay.com/",
-  "careersUrl": "https://www.scientificgames.com/careers/",
+  "careersUrl": "https://www.sciplay.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "sciplaygames",
   "crunchbaseId": null,
   "finderId": "scientific-games",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SciPlay.Games",
+  "linkedinNum": 35710155
 }

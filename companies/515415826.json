@@ -1,10 +1,10 @@
 {
   "name": "Consis Medical",
-  "description": "Disposable, self-powered endoscopes.",
+  "description": "Single-use and Self-propelled Endoscopes",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/consis_medical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://consis-medical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "consis-medical-ltd.",
@@ -19,5 +19,7 @@
       "lat": 31.218095,
       "lon": 34.811077
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17997931
 }

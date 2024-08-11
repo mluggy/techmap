@@ -1,5 +1,5 @@
 {
-  "name": "Otorio",
+  "name": "OTORIO",
   "description": "Offering expert-defined playbooks, they significantly enhance detection and response times for OT security by guiding teams through vulnerability and compliance mitigation.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "otorio",
   "crunchbaseId": null,
   "finderId": "otorio",
-  "xId": null,
+  "xId": "OTORIO_Cyber",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,8 @@
       "lat": 32.0658477,
       "lon": 34.7859941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OTORIO.CYBER",
+  "linkedinNum": 19059899
 }

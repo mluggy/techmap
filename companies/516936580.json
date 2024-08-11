@@ -1,10 +1,10 @@
 {
-  "name": "Geely Habanim Eilat",
+  "name": "Geely",
   "description": "A prominent Hangzhou-based car maker established in 1997 under Zhejiang Geely Holding Group.",
-  "categoryId": 5,
   "size": "l",
   "logoFile": "logos/geely_habanim_eilat-logo.webp",
-  "websiteUrl": "https://global.geely.com/",
+  "categoryId": 5,
+  "websiteUrl": "https://www.cevt.se/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 29.5697199,
       "lon": 34.9590641
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "CEVTAB",
+  "linkedinNum": 5178222
 }

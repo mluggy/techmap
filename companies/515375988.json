@@ -1,5 +1,5 @@
 {
-  "name": "Wetrip",
+  "name": "WeTrip",
   "description": "Discover and customize your ideal winter ski holiday with endless options and convenience.",
   "categoryId": 9,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.weski.co.il/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "weski",
   "crunchbaseId": null,
   "finderId": "weski",
-  "xId": null,
+  "xId": "WeSkiTravel",
   "addresses": [
     {
       "street": "המנופים",
@@ -19,5 +19,9 @@
       "lat": 32.1598236,
       "lon": 34.8080456
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "WeSkiOfficialPage",
+  "linkedinNum": 10695873,
+  "comeetId": "weski/F8.00C"
 }

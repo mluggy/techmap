@@ -1,5 +1,5 @@
 {
-  "name": "Stuff That Works",
+  "name": "StuffThatWorks",
   "description": "Empowering life science and health organizations to enhance drug development and clinical trials through patient engagement and remote treatment monitoring.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "stuffthatworks",
   "crunchbaseId": null,
   "finderId": "stuffthatworks",
-  "xId": null,
+  "xId": "StuffThatWorks1",
   "addresses": [
     {
       "street": null,
@@ -19,5 +19,8 @@
       "lat": 32.2288879,
       "lon": 34.8234798
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "StuffThatWorks1",
+  "linkedinNum": 26223918
 }

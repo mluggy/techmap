@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "intlock",
-  "xId": null,
+  "xId": "cardiolog",
   "addresses": [
     {
       "street": "בית שמאי",
@@ -19,5 +19,8 @@
       "lat": 32.069473,
       "lon": 34.789021
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Intlock",
+  "linkedinNum": 133137
 }

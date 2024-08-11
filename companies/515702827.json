@@ -1,5 +1,5 @@
 {
-  "name": "Next Silicon",
+  "name": "NextSilicon",
   "description": "A deep tech startup innovating dynamic runtime hardware reconfiguration for advanced HPC solutions, with offices in Tel Aviv, Europe, and the US.",
   "categoryId": 16,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.nextsilicon.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nextsilicon",
   "crunchbaseId": "next-silicon",
   "finderId": "nextsilicon",
-  "xId": null,
+  "xId": "NextSilicon",
   "addresses": [
     {
       "street": "דרך יצחק רבין",
@@ -19,5 +19,9 @@
       "lat": 32.0661187,
       "lon": 34.8047208
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nextsilicon",
+  "linkedinNum": 23745478,
+  "comeetId": "nextsilicon/18.007"
 }

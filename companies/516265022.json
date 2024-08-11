@@ -1,5 +1,5 @@
 {
-  "name": "Appwrite Code",
+  "name": "Appwrite",
   "description": "An open-source framework for developing scalable applications with your choice of programming languages and tools.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "appwrite",
-  "xId": null,
+  "xId": "appwrite_io",
   "addresses": [
     {
       "street": "השיזף",
@@ -19,5 +19,8 @@
       "lat": 32.1919424,
       "lon": 34.8855377
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "appwrite.io",
+  "linkedinNum": 17945528
 }

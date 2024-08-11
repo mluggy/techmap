@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "gamida-cell",
-  "xId": null,
+  "xId": "GamidaCellTx",
   "addresses": [
     {
       "street": "לשם",
@@ -19,5 +19,8 @@
       "lat": 31.5961366,
       "lon": 34.7949189
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GamidaCellLtd",
+  "linkedinNum": 8310772
 }

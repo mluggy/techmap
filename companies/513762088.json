@@ -1,5 +1,5 @@
 {
-  "name": "Asmedic",
+  "name": "AsMedic",
   "description": "Founded in 2005, this company specializes in pioneering respiratory delivery and diagnostic systems, funded by its founders, a pharmaceutical partnership, and the Israel Innovative Authority.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.7902481,
       "lon": 35.0160846
     }
-  ]
+  ],
+  "isMultinational": false
 }

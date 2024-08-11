@@ -1,16 +1,16 @@
 {
-  "name": "Moneytor How Much Are You Worth",
-  "description": "A digital-first platform facilitating multilingual and multichannel communication between lenders and borrowers.",
+  "name": "Moneytor",
+  "description": "Smart Personal Finance Management Platform",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/moneytor_how_much_are_you_worth-logo.webp",
-  "websiteUrl": "https://moneytor.in/",
+  "websiteUrl": "https://www.moneytor.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "moneytor",
   "finderId": "moneytor",
-  "xId": null,
+  "xId": "Moneytor_",
   "addresses": [
     {
       "street": "רש\"י",
@@ -19,5 +19,8 @@
       "lat": 31.9667906,
       "lon": 34.8138504
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Moneytor.it",
+  "linkedinNum": 42886970
 }

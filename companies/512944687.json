@@ -1,0 +1,25 @@
+{
+  "name": "Vert",
+  "description": "Emissions Reduction Solution for Organizations and Suppliers",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/vert.webp",
+  "websiteUrl": "https://www.vert.earth/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 83496884,
+  "crunchbaseId": null,
+  "finderId": "vert",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב - יפו",
+      "lat": 32.07030852610844,
+      "lon": 34.78645815173317
+    }
+  ],
+  "isMultinational": false
+}

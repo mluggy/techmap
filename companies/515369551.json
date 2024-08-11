@@ -1,10 +1,10 @@
 {
   "name": "Innosphere",
-  "description": "A 501(c)(3) nonprofit that fosters close relationships with long-term, dedicated financial supporters, often involving them in board leadership roles.",
+  "description": "AI-based Brain Stimulation Device for Treatment of ADHD",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/innosphere-logo.webp",
-  "websiteUrl": "https://innosphereventures.org/",
+  "websiteUrl": "https://www.inno-sphere.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "innosphereventures",
@@ -19,5 +19,7 @@
       "lat": 31.9511367,
       "lon": 34.80980600256321
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13194209
 }

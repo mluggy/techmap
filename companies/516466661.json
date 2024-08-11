@@ -1,5 +1,5 @@
 {
-  "name": "Oncodecipher",
+  "name": "OncoDecipher",
   "description": "We offer a diagnostic panel that identifies key genetic alterations in lung cancer to guide treatment and prognosis.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.1976788,
       "lon": 34.8811941
     }
-  ]
+  ],
+  "isMultinational": false
 }

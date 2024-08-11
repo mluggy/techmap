@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.nayax.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nayax",
   "crunchbaseId": null,
   "finderId": "nayax",
-  "xId": null,
+  "xId": "NayaxGlobal",
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -19,5 +19,8 @@
       "lat": 32.1640314,
       "lon": 34.8154209
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NayaxOfficial",
+  "linkedinNum": 2214630
 }

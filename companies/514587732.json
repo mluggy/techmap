@@ -1,10 +1,10 @@
 {
   "name": "Sea Dream Fisheries",
-  "description": "Sea Dream offers a very spacious climate-controlled salon for your fishing and riding comfort. We have a private head (restroom), sink, microwave and plenty of ...",
-  "categoryId": 9,
+  "description": "Land-based Fish Farming",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/sea_dream_fisheries-logo.webp",
-  "websiteUrl": "https://www.seadreamfishing.com/",
+  "websiteUrl": "https://www.seadreamfish.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "sea-dream-fisheries-ltd",
@@ -19,5 +19,7 @@
       "lat": 30.6045111,
       "lon": 34.7938513
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18476704
 }

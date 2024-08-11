@@ -1,10 +1,10 @@
 {
-  "name": "Aclim Intelligence",
-  "description": "Evaluating Climate-Related Risks for Investment Managers.",
-  "categoryId": 17,
+  "name": "ACLIM Intelligence",
+  "description": "Climate Risk Assessments for Asset Managers",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/aclim_intelligence-logo.webp",
-  "websiteUrl": "https://www.aclima.io/",
+  "websiteUrl": "https://www.aclimintelligence.com/",
   "careersUrl": "https://www.aclima.io/careers",
   "isHiring": true,
   "linkedinId": "aclim-intelligence",
@@ -19,5 +19,7 @@
       "lat": 32.1840085,
       "lon": 34.9336129
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75017403
 }

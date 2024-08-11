@@ -1,5 +1,5 @@
 {
-  "name": "Fluence Water Israel",
+  "name": "Fluence",
   "description": "With decades of experience, the company provides innovative and affordable water treatment and reuse solutions globally.",
   "categoryId": 17,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fluence-corporation",
-  "xId": null,
+  "xId": "fluencecorp",
   "addresses": [
     {
       "street": "הנפח",
@@ -19,5 +19,8 @@
       "lat": 32.9223178,
       "lon": 35.3225045
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FluenceCorporation",
+  "linkedinNum": 18150486
 }

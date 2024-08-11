@@ -1,16 +1,16 @@
 {
   "name": "Coral Smart Pool",
-  "description": "Innovative leaders in AI-driven pool monitoring technology, transforming residential pool safety and experience.",
-  "categoryId": 1,
+  "description": "Video-based Drowning Detection System",
+  "categoryId": 7,
   "size": "s",
   "logoFile": "logos/coral_smart_pool-logo.webp",
-  "websiteUrl": "https://coralsmartpool.com/",
+  "websiteUrl": "https://coraldrowningdetection.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "coral",
-  "xId": null,
+  "xId": "systemscoral",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.5128454,
       "lon": 34.9484798
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CoralSmartPool",
+  "linkedinNum": 35699295
 }

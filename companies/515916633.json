@@ -1,10 +1,10 @@
 {
-  "name": "Divo 26",
-  "description": "Celebrating their 20th anniversary, this band offers new music, merchandise, and tour dates beginning May 23, 2024.",
+  "name": "Divo",
+  "description": "Tradable VR Content",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/divo_26-logo.webp",
-  "websiteUrl": "https://ildivo.com/",
+  "websiteUrl": "https://divoentertainment.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.9906118,
       "lon": 34.7727011
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DivoVR360",
+  "linkedinNum": 78443390
 }

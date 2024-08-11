@@ -1,10 +1,10 @@
 {
-  "name": "Heka Solutions",
-  "description": "A leading destination for premium cannabis products offering a unique experience.",
-  "categoryId": 9,
+  "name": "Heka",
+  "description": "Data-enabled Solutions for Non-performing Assets",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/heka_solutions-logo.webp",
-  "websiteUrl": "https://www.hekainc.com/",
+  "websiteUrl": "https://www.hekaglobal.com/",
   "careersUrl": "https://www.hekainc.com/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0626915,
       "lon": 34.7796374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 70379840
 }

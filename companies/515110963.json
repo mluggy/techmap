@@ -1,5 +1,5 @@
 {
-  "name": "Ezbra Advanced Wound Care",
+  "name": "EZbra Advanced Wound Care",
   "description": "Provides sterile, single-use post-op bras addressing the unmet need for post-breast surgery care.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ezbra",
-  "xId": null,
+  "xId": "ezbra_net",
   "addresses": [
     {
       "street": "ברנר",
@@ -19,5 +19,8 @@
       "lat": 32.069278,
       "lon": 34.771274
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ezbra.usa",
+  "linkedinNum": 17947356
 }

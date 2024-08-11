@@ -1,5 +1,5 @@
 {
-  "name": "Ni Na Labs",
+  "name": "NINA",
   "description": "Smart Drink Dispensing Device.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "nina-iot",
   "crunchbaseId": "nina",
   "finderId": "ni-na-labs",
-  "xId": null,
+  "xId": "drinknina",
   "addresses": [
     {
       "street": "העבודה",
@@ -19,5 +19,8 @@
       "lat": 32.5206592,
       "lon": 34.9560446
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "drinknina",
+  "linkedinNum": 18965771
 }

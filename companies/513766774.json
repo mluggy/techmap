@@ -1,5 +1,5 @@
 {
-  "name": "Broadcom Semiconductors Israel",
+  "name": "Broadcom",
   "description": "A global leader in technology, providing innovative semiconductor, enterprise software, and security solutions.",
   "categoryId": 16,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.broadcom.com/",
   "careersUrl": "https://www.broadcom.com/company/careers",
   "isHiring": true,
-  "linkedinId": "broadcomsoftware",
+  "linkedinId": "broadcom",
   "crunchbaseId": null,
   "finderId": "broadcom",
-  "xId": null,
+  "xId": "Broadcom",
   "addresses": [
     {
       "street": "וייז ג'ורג'",
@@ -19,5 +19,8 @@
       "lat": 32.1102771,
       "lon": 34.807223
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Broadcom",
+  "linkedinNum": 3072
 }

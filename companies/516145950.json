@@ -1,5 +1,5 @@
 {
-  "name": "Skill Real",
+  "name": "SkillReal",
   "description": "This company offers advanced Digital Twin technologies to enhance productivity, quality, and production speed for global manufacturers across various industries.",
   "categoryId": 4,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.0952767,
       "lon": 34.8214828
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27204106
 }

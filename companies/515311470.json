@@ -1,5 +1,5 @@
 {
-  "name": "Fre Skincare",
+  "name": "FRE Skincare",
   "description": "Offering science-backed, antioxidant-rich suncare products designed to protect, treat, and enhance skin health.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fre-skincare",
-  "xId": null,
+  "xId": "freskincare",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.107465,
       "lon": 34.827939
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "freskincare",
+  "linkedinNum": 10692214
 }

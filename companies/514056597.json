@@ -1,5 +1,5 @@
 {
-  "name": "Painreform",
+  "name": "PainReform",
   "description": "This pharmaceutical firm develops extended-release drug delivery systems for post-surgical pain relief to decrease the reliance on opiates.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.065766,
       "lon": 34.792307
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 689691
 }

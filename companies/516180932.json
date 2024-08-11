@@ -1,5 +1,5 @@
 {
-  "name": "Dagshub",
+  "name": "DAGsHub",
   "description": "A platform for managing and collaborating on data versions.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "dagshub",
   "crunchbaseId": "dagshub",
   "finderId": "dagshub",
-  "xId": null,
+  "xId": "TheRealDAGsHub",
   "addresses": [
     {
       "street": "שץ גגה גרשון",
@@ -19,5 +19,8 @@
       "lat": 32.068791,
       "lon": 34.791638
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DAGsHub",
+  "linkedinNum": 13986265
 }

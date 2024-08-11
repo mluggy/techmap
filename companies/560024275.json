@@ -1,16 +1,16 @@
 {
-  "name": "Arm",
+  "name": "ARM",
   "description": "A leading provider of semiconductor technology, utilized in the majority of smartphones globally, with over 287 billion chips shipped.",
-  "categoryId": 16,
   "size": "m",
+  "categoryId": 16,
   "logoFile": "logos/arm-logo.webp",
-  "websiteUrl": "https://investors.arm.com/",
+  "websiteUrl": "https://www.arm.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "arm",
   "crunchbaseId": null,
   "finderId": "arm-holdings",
-  "xId": null,
+  "xId": "Arm",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1932202,
       "lon": 34.8827706
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Arm",
+  "linkedinNum": 4472
 }

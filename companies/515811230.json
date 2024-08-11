@@ -1,16 +1,16 @@
 {
-  "name": "Road Protect Israel",
-  "description": "Specializing in reimbursing expenses for damages to tyres, mags, and rims caused by potholes.",
-  "categoryId": 5,
+  "name": "Road Protect",
+  "description": "Administrative Management Solutions",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/road_protect_israel-logo.webp",
-  "websiteUrl": "https://www.roadprotect.co.za/",
+  "websiteUrl": "https://www.roadprotect.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "habatlan",
-  "xId": null,
+  "xId": "IsraelFines",
   "addresses": [
     {
       "street": "ניל\"י",
@@ -19,5 +19,8 @@
       "lat": 31.9667257,
       "lon": 34.8013188
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "roadprotectisrael",
+  "linkedinNum": 10493659
 }

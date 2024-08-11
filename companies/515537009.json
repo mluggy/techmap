@@ -1,10 +1,10 @@
 {
-  "name": "Mttech Interactive Multimedia Systems",
-  "description": "A trailblazing software and hardware firm offering revolutionary smart solutions, notably through its innovative smart table and smart kitchen products.",
-  "categoryId": 13,
+  "name": "MTtech",
+  "description": "Smart Kitchen and Office Systems",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/mttech_interactive_multimedia_systems-logo.webp",
-  "websiteUrl": "https://www.mttechs.co.il/",
+  "websiteUrl": "https://www.mttechs.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.9016469,
       "lon": 34.8141438
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mttechIL",
+  "linkedinNum": 13275635
 }

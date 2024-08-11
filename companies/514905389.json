@@ -1,5 +1,5 @@
 {
-  "name": "Angel Sense",
+  "name": "AngelSense",
   "description": "Enhancing safety, independence, and well-being with a comprehensive GPS device featuring real-time monitoring, assistive communication, and proactive alerts.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "angelsense",
-  "xId": null,
+  "xId": "AngelSenseGPS",
   "addresses": [
     {
       "street": "מבוא אתרוג",
@@ -19,5 +19,8 @@
       "lat": 32.0354335,
       "lon": 34.8821282
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AngelSenseProtectingChildren",
+  "linkedinNum": 5252017
 }

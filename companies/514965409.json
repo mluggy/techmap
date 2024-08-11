@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "simbla",
-  "xId": null,
+  "xId": "simblaofficial",
   "addresses": [
     {
       "street": "מוטה גור",
@@ -19,5 +19,8 @@
       "lat": 32.0938214,
       "lon": 34.8648016
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TheSimbla",
+  "linkedinNum": 6641123
 }

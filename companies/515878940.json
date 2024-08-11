@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "phytolon",
-  "xId": null,
+  "xId": "phytolon",
   "addresses": [
     {
       "street": "הצמיחה",
@@ -19,5 +19,8 @@
       "lat": 32.668888,
       "lon": 35.107009
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Phytolon-158564361751391",
+  "linkedinNum": 33263959
 }

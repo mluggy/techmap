@@ -10,7 +10,7 @@
   "linkedinId": "atera-networks",
   "crunchbaseId": "atera-networks-ltd",
   "finderId": "atera-networks",
-  "xId": null,
+  "xId": "ateracloud",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,9 @@
       "lat": 32.064232399999995,
       "lon": 34.77442479088546
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AteraCloud",
+  "linkedinNum": 98739,
+  "comeetId": "atera/63.00B"
 }

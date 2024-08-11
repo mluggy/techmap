@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "my-single-point-msp",
-  "xId": null,
+  "xId": "My_Single_Point",
   "addresses": [
     {
       "street": "עמיחי יהודה",
@@ -19,5 +19,8 @@
       "lat": 32.109696,
       "lon": 34.787393
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MySinglePoint",
+  "linkedinNum": 205765
 }

@@ -1,10 +1,10 @@
 {
   "name": "Collega",
-  "description": "A creative hub in Copenhagen dedicated to the arts.",
-  "categoryId": 8,
+  "description": "Connects Young Professionals to Job Opportunities",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/collega_ltd-logo.webp",
-  "websiteUrl": "https://collega.dk/",
+  "websiteUrl": "https://colle.ga",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7490202,
       "lon": 35.2292361
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 92829368
 }

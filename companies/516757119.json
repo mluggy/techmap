@@ -1,10 +1,10 @@
 {
   "name": "Feminai",
-  "description": "מובילה בעיצוב ופיתוח פריטי הלבשה תחתונה מגוונים ואיכותיים, כולל חזיות, תחתונים ושאר אביזרים.",
-  "categoryId": 9,
+  "description": "Breast Cancer Screening Solutions",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/feminai-logo.webp",
-  "websiteUrl": "https://www.femina.co.il/",
+  "websiteUrl": "https://www.feminai.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "feminai",
@@ -19,5 +19,7 @@
       "lat": 32.04789165,
       "lon": 34.81756815
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82649615
 }

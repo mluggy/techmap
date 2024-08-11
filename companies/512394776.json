@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "allot",
-  "xId": null,
+  "xId": "allot_ltd",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,7 @@
       "lat": 32.12967605,
       "lon": 34.894563362577514
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AllotCommunications"
 }

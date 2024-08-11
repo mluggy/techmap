@@ -1,5 +1,5 @@
 {
-  "name": "Biobeat Technologies",
+  "name": "Biobeat",
   "description": "This platform offers real-time vital sign monitoring through wireless, non-invasive, medical-grade technology.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "biobeat",
-  "xId": null,
+  "xId": "BiobeatT",
   "addresses": [
     {
       "street": "אפעל",
@@ -19,5 +19,7 @@
       "lat": 32.0960867,
       "lon": 34.8478079
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17969237
 }

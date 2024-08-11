@@ -1,5 +1,5 @@
 {
-  "name": "Hub Cyber Security",
+  "name": "HUB Cyber Security",
   "description": "Providing global cybersecurity services for over 30 years, securing information and assets for diverse clientele including Fortune 500 companies, startups, and government agencies.",
   "categoryId": 7,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://hubsecurity.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hubsecurityio",
   "crunchbaseId": null,
   "finderId": "hub-cyber-security",
-  "xId": null,
+  "xId": "hubsecurityio",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,8 @@
       "lat": 32.062937,
       "lon": 34.785459
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "hubsecuresolutions",
+  "linkedinNum": 18444151
 }

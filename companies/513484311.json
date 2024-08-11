@@ -1,16 +1,16 @@
 {
   "name": "Velox",
-  "description": "Customer support service renowned for answering 95% of calls before they reach voicemail, ensuring prompt assistance.",
+  "description": "Direct-to-shape Digital Decoration",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/velox-logo.webp",
-  "websiteUrl": "https://login.veloximaging.net/",
+  "websiteUrl": "https://www.velox-digital.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "velox",
-  "xId": null,
+  "xId": "Velox_DigiPrint",
   "addresses": [
     {
       "street": "הגולן",
@@ -19,5 +19,7 @@
       "lat": 32.2675706,
       "lon": 34.8890845
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3147670
 }

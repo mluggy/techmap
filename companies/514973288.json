@@ -1,10 +1,10 @@
 {
-  "name": "Linkcaring",
-  "description": "האתר מספק להורים כלים דיגיטליים למעקב אחר התפתחות הילד וקישור לרופא בעת הצורך.",
+  "name": "LinkCaring",
+  "description": "Health Information Platform for Children's Health",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/linkcaring-logo.webp",
-  "websiteUrl": "https://www.heb.linkcaring.com/",
+  "websiteUrl": "https://www.eng.linkcaring.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.3673748,
       "lon": 34.8205578
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LinkCaring"
 }

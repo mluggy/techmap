@@ -1,5 +1,5 @@
 {
-  "name": "Biotic Circular Technologies",
+  "name": "Biotic",
   "description": "Polymers derived from bio-based PHBV materials.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "bio-circular-ltd",
   "finderId": "biotic",
-  "xId": null,
+  "xId": "bio_circular",
   "addresses": [
     {
       "street": "כצנלסון ברל",
@@ -19,5 +19,7 @@
       "lat": 32.1866523,
       "lon": 34.905647
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BioticCircularTechnologies"
 }

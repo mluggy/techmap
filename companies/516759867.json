@@ -1,5 +1,5 @@
 {
-  "name": "My Branda",
+  "name": "MyBranda",
   "description": "Leverage AI-driven creative solutions to craft a powerful brand image and online presence tailored to your personality, industry, and goals.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mybranda",
-  "xId": null,
+  "xId": "mybrenda",
   "addresses": [
     {
       "street": "משאבים",
@@ -19,5 +19,8 @@
       "lat": 32.1595182,
       "lon": 34.89029454929721
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myBranda.FB",
+  "linkedinNum": 81458505
 }

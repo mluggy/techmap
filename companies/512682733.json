@@ -1,16 +1,16 @@
 {
   "name": "Kamedis",
-  "description": "A clinically proven leave-on overnight cream that alleviates itchy, irritated, dry, or red scalp by addressing the root cause.",
+  "description": "Botanical Skin Care Products",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/kamedis_ltd-logo.webp",
-  "websiteUrl": "https://kamedis-usa.com/",
+  "websiteUrl": "https://kamedis.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "kamedis",
-  "xId": null,
+  "xId": "KamedisUSA",
   "addresses": [
     {
       "street": "יצחק שדה",
@@ -19,5 +19,8 @@
       "lat": 32.065253,
       "lon": 34.785664
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "kamedis",
+  "linkedinNum": 1198709
 }

@@ -1,13 +1,13 @@
 {
   "name": "Curve Tech",
-  "description": "A dynamic digital wallet consolidating multiple cards into a single debit card, offering up to 20% cashback from various brands and additional rewards on all purchases.",
-  "categoryId": 10,
+  "description": "Reduce Employee Attrition",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/curve_tech-logo.webp",
-  "websiteUrl": "https://www.curve.com/",
+  "websiteUrl": "https://curvetech.ai/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "curvetechai",
   "crunchbaseId": "curve-tech-israel",
   "finderId": "curve-tech",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1105162,
       "lon": 34.8376966
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CurveInsights",
+  "linkedinNum": 10411524
 }

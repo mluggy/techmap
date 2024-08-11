@@ -1,10 +1,10 @@
 {
-  "name": "Safe Zone",
-  "description": "After a ceasefire with Armenia, Azerbaijan reopened its airspace, yet most airlines opt for safer routes through Georgian airspace.",
-  "categoryId": 18,
+  "name": "Safe-Zone",
+  "description": "Export Management System",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/safe_zone-logo.webp",
-  "websiteUrl": "https://safeairspace.net/",
+  "websiteUrl": "https://www.szexportcontrol.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7704664,
       "lon": 35.0061008
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18473697
 }

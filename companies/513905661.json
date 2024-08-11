@@ -1,5 +1,5 @@
 {
-  "name": "Fibrotex Technologies",
+  "name": "Fibrotex",
   "description": "Providing global military forces with advanced concealment and protection against various sensor threats and enemy targeting.",
   "categoryId": 3,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.1658392,
       "lon": 34.8116146
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Labsuit Project",
+  "name": "LabSuit",
   "description": "An online platform designed to streamline inventory management and order tracking for life science research laboratories.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "labsuit",
   "crunchbaseId": null,
   "finderId": "labsuit",
-  "xId": null,
+  "xId": "labsuit",
   "addresses": [
     {
       "street": "נורדאו",
@@ -19,5 +19,8 @@
       "lat": 32.6063122,
       "lon": 35.2826601
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LabSuit",
+  "linkedinNum": 5310466
 }

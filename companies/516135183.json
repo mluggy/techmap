@@ -1,10 +1,10 @@
 {
-  "name": "Timeclock 365",
-  "description": "Our company efficiently meets stringent innovation authority reporting criteria with the user-friendly TimeClock 365 software.",
+  "name": "TimeClock 365",
+  "description": "Remote Employee Management Platform",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/timeclock_365-logo.webp",
-  "websiteUrl": "https://timeclock365.co.il/",
+  "websiteUrl": "https://timeclock365.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TimeClock-365-Time-Tracking-Platform-for-Employees-108500104327054",
+  "linkedinNum": 66224016
 }

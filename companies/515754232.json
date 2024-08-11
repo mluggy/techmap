@@ -1,5 +1,5 @@
 {
-  "name": "Trigo Vision",
+  "name": "Trigo",
   "description": "A system that automates retail operations.",
   "categoryId": 15,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "trigoretail",
   "crunchbaseId": null,
   "finderId": "trigo-vision",
-  "xId": null,
+  "xId": "tech_trigo",
   "addresses": [
     {
       "street": "זיסמן שלום",
@@ -19,5 +19,9 @@
       "lat": 32.084329,
       "lon": 34.7996389
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "trigovision",
+  "linkedinNum": 33188124,
+  "comeetId": "trigo/A6.005"
 }

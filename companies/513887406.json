@@ -1,13 +1,13 @@
 {
   "name": "Munch",
-  "description": "Egy platform, amelyen vendéglátóhelyek és boltok kedvezményesen értékesítik a megmaradt, jó minőségű ételeket a pazarlás csökkentése érdekében.",
-  "categoryId": 9,
+  "description": "AI-based Content Creation Platform",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/munch-logo.webp",
-  "websiteUrl": "https://munch.hu/",
+  "websiteUrl": "https://www.getmunch.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mnch",
   "crunchbaseId": null,
   "finderId": "munch",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.06198154,
       "lon": 34.81299012
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "groups",
+  "linkedinNum": 76155176
 }

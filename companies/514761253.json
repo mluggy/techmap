@@ -1,16 +1,16 @@
 {
-  "name": "User 1st",
-  "description": "Provides an automated application solution for fully accessible websites for the blind, visually impaired, and people with disabilities according to accessibility regulations.",
+  "name": "User1st",
+  "description": "Leading Web Accessibility Solutions for Organizations",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/user_1st-logo.webp",
-  "websiteUrl": "https://www.aisrael.org/?CategoryID=1340&ArticleID=47648",
+  "websiteUrl": "https://www.user1st.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "user1st",
-  "xId": null,
+  "xId": "user1st",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0835543,
       "lon": 34.8042074
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "user1st",
+  "linkedinNum": 2442573
 }

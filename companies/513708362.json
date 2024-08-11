@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "media-forest",
-  "xId": null,
+  "xId": "mf_israel",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2810117,
       "lon": 34.8596147
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mediaforestgroup",
+  "linkedinNum": 10274294
 }

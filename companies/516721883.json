@@ -1,5 +1,5 @@
 {
-  "name": "Mifold",
+  "name": "mifold",
   "description": "Offering globally regulated, highly adjustable highback boosters for children aged 4 and up, except in Australia and Taiwan.",
   "categoryId": 5,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mifold",
-  "xId": null,
+  "xId": "miFoldBooster",
   "addresses": [
     {
       "street": "גזית",
@@ -19,5 +19,8 @@
       "lat": 32.10446415,
       "lon": 34.89758699824296
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mifold",
+  "linkedinNum": 2993963
 }

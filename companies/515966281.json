@@ -1,10 +1,10 @@
 {
-  "name": "Enwize T W",
+  "name": "Enwize",
   "description": "They create cutting-edge AR and VR guidance software to support technical teams from day one.",
   "categoryId": 4,
   "size": "xs",
   "logoFile": "logos/enwize_t_w-logo.webp",
-  "websiteUrl": "http://www.enwize-tw.com/",
+  "websiteUrl": "https://www.enwize-tw.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "enwize",
@@ -19,5 +19,7 @@
       "lat": 32.0776132,
       "lon": 34.7891243
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19132120
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Aidoc Medical",
+  "name": "Aidoc",
   "description": "Utilizing an exclusive AI operating system, this company aids over 1,000 hospitals in enhancing physician decision-making across all care points.",
   "categoryId": 12,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.aidoc.com/",
   "careersUrl": "https://www.aidoc.com/about/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "aidoc",
   "crunchbaseId": null,
   "finderId": "tailormed",
-  "xId": null,
+  "xId": "aidocmed",
   "addresses": [
     {
       "street": "עמינדב",
@@ -19,5 +19,9 @@
       "lat": 32.065077,
       "lon": 34.793601
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "aidocmed",
+  "linkedinNum": 17885371,
+  "comeetId": "Aidoc/B4.007"
 }

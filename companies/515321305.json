@@ -1,5 +1,5 @@
 {
-  "name": "Homeconnex",
+  "name": "HomeConnex",
   "description": "מציעה פתרון מקוון חדשני לבחירת פריטים, מעקב תשלומים ובנייה עבור רוכשי דירות.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "home-connex",
-  "xId": null,
+  "xId": "homeconnexcom",
   "addresses": [
     {
       "street": "יפו",
@@ -19,5 +19,7 @@
       "lat": 31.7890021,
       "lon": 35.2053137
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HomeConnex.il"
 }

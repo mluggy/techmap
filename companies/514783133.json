@@ -1,5 +1,5 @@
 {
-  "name": "Commvault Systems Israel",
+  "name": "Commvault",
   "description": "Specializing in cybersecurity, this company excels in mitigating risks and minimizing downtime to protect against ransomware and other threats.",
   "categoryId": 7,
   "size": "s",
@@ -19,5 +19,6 @@
       "lat": 32.1015806,
       "lon": 34.8635276
     }
-  ]
+  ],
+  "isMultinational": true
 }

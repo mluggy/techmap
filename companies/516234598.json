@@ -1,5 +1,5 @@
 {
-  "name": "Balena",
+  "name": "Balena Science",
   "description": "Developing cutting-edge biopolymer materials, leveraging FlexTex3D technology and collaborating with innovators like Brigitte Kock.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "balenascience",
   "crunchbaseId": null,
   "finderId": "balena",
-  "xId": null,
+  "xId": "BalenaScience",
   "addresses": [
     {
       "street": "שוקן",
@@ -19,5 +19,8 @@
       "lat": 32.051553,
       "lon": 34.771982
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Balena.science",
+  "linkedinNum": 37055219
 }

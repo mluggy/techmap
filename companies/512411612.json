@@ -1,16 +1,16 @@
 {
-  "name": "Merck Sharp Dohme Israel 1996 Company",
+  "name": "Merck",
   "description": "Dedicated to addressing major health challenges through scientific innovation to improve lives.",
-  "categoryId": 12,
   "size": "l",
+  "categoryId": 12,
   "logoFile": "logos/merck_sharp_dohme_israel_1996_company_ltd-logo.webp",
-  "websiteUrl": "https://www.merck.com/",
+  "websiteUrl": "https://www.merckgroup.com/en/worldwide/merck-in-israel.html",
   "careersUrl": "https://jobs.merck.com/us/en",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "merck-group",
   "crunchbaseId": null,
   "finderId": "merck",
-  "xId": null,
+  "xId": "merckgroup",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.131484,
       "lon": 34.8937285
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "merckgroup",
+  "linkedinNum": 1485
 }

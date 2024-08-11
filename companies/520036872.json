@@ -1,5 +1,5 @@
 {
-  "name": "Nice",
+  "name": "NICE",
   "description": "Solutions for managing customer relationships and mitigating risks.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "nice-systems",
   "crunchbaseId": null,
   "finderId": "nice-systems",
-  "xId": null,
+  "xId": "NICELtd",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1976788,
       "lon": 34.8811941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OfficialNICELtd",
+  "linkedinNum": 4728
 }

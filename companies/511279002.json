@@ -1,0 +1,25 @@
+{
+  "name": "Silverbyte",
+  "description": "Hotel Management Software",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/silverbyte.webp",
+  "websiteUrl": "https://www.silverbyte.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 1900443,
+  "crunchbaseId": null,
+  "finderId": "silverbyte",
+  "xId": "Optimahms",
+  "facebookId": "OptimaPMS",
+  "addresses": [
+    {
+      "street": "דרך השלום",
+      "houseNumber": 17,
+      "city": "נשר",
+      "lat": 32.76959972768654,
+      "lon": 35.048145696548275
+    }
+  ],
+  "isMultinational": false
+}

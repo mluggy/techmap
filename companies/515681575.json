@@ -1,5 +1,5 @@
 {
-  "name": "Gaviti Akyl",
+  "name": "Gaviti",
   "description": "An automated platform that enhances cash flow and reduces Days Sales Outstanding by around 30%.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "gaviti",
   "crunchbaseId": "gaviti",
   "finderId": "gaviti",
-  "xId": null,
+  "xId": "gaviti_biz",
   "addresses": [
     {
       "street": "מוזס יהודה ונח",
@@ -19,5 +19,8 @@
       "lat": 32.075798,
       "lon": 34.794728
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "gavitii",
+  "linkedinNum": 10850993
 }

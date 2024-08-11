@@ -1,10 +1,10 @@
 {
-  "name": "Mycast Tv",
-  "description": "Users can discover their favorite stories and cast their ideal characters in personalized, virtual productions.",
-  "categoryId": 4,
+  "name": "MyCast",
+  "description": "Cross-platform TV Applications",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/mycast_tv-logo.webp",
-  "websiteUrl": "https://www.mycast.io/",
+  "websiteUrl": "https://www.my-cast.tv",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1691856,
       "lon": 34.8580241
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mycasttv",
+  "linkedinNum": 17967392
 }

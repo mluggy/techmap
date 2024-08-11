@@ -1,5 +1,5 @@
 {
-  "name": "Codemonkey Studios",
+  "name": "CodeMonkey Studios",
   "description": "An award-winning online platform teaching kids coding languages through engaging, game-like environments.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "codemonkey-studios",
-  "xId": null,
+  "xId": "codemonkeystu",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.07734524999999,
       "lon": 34.79332549438699
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CodeMonkeySTU",
+  "linkedinNum": 5101577
 }

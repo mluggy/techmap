@@ -1,16 +1,16 @@
 {
-  "name": "Naandanjain Irrigation",
-  "description": "Customizable Watering Solutions.",
+  "name": "NaanDanJain Irrigation",
+  "description": "Tailor-made Irrigation Systems",
   "categoryId": 17,
   "size": "m",
   "logoFile": "logos/naandanjain_irrigation-logo.webp",
-  "websiteUrl": "https://www.naandanjain.com.au/",
+  "websiteUrl": "https://www.naandanjain.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "naandanjain-irrigation",
-  "xId": null,
+  "xId": "Naandanjain",
   "addresses": [
     {
       "street": null,
@@ -19,5 +19,8 @@
       "lat": 31.8837553,
       "lon": 34.8570894
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NaanDanJain",
+  "linkedinNum": 869894
 }

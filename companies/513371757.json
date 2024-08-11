@@ -1,10 +1,10 @@
 {
-  "name": "Hish Yael",
-  "description": "Machines for processing, transporting, and storing food products.",
-  "categoryId": 15,
+  "name": "HISH Processing & Conveying Technology",
+  "description": "Food Processing, Conveying, and Storage Machines",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/hish_yael-logo.webp",
-  "websiteUrl": "https://hushandhush.com/",
+  "websiteUrl": "https://www.hishco.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.118182,
       "lon": 34.833728
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5166860
 }

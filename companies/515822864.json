@@ -1,5 +1,5 @@
 {
-  "name": "Civdrone",
+  "name": "Civ Robotics",
   "description": "Their advanced technology enables a single operator to lay out up to 3,000 points or 16 miles of line markings daily, dramatically increasing productivity compared to traditional surveying methods.",
   "categoryId": 15,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.070307,
       "lon": 34.790395
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CivRobotics",
+  "linkedinNum": 18511221
 }

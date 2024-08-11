@@ -1,5 +1,5 @@
 {
-  "name": "Harmonic Lightwaves Israel",
+  "name": "Harmonic",
   "description": "Industry leading solution for the transformation for video, cable and media companies, with smarter, faster, and simpler video streaming and broadband services.",
   "categoryId": 8,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.harmonicinc.com/",
   "careersUrl": "https://careers.harmonicinc.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "harmonic",
   "crunchbaseId": null,
   "finderId": "harmonic",
-  "xId": null,
+  "xId": "HarmonicInc",
   "addresses": [
     {
       "street": "אלון התבור",
@@ -19,5 +19,8 @@
       "lat": 32.4763255,
       "lon": 34.947278
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "harmonicisrael",
+  "linkedinNum": 5918
 }

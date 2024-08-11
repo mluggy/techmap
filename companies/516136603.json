@@ -1,5 +1,5 @@
 {
-  "name": "Haat Delivery",
+  "name": "HAAT Delivery",
   "description": "We revolutionize food delivery with an innovative, empathetic approach and a unique 3-way application model connecting users, restaurants, and drivers.",
   "categoryId": 9,
   "size": "m",
@@ -19,5 +19,8 @@
       "lat": 32.819776250000004,
       "lon": 34.9988252
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HAATAPP",
+  "linkedinNum": 71233862
 }

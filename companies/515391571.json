@@ -10,7 +10,7 @@
   "linkedinId": "otorizeapp",
   "crunchbaseId": null,
   "finderId": "otorize",
-  "xId": null,
+  "xId": "OtorizeApp",
   "addresses": [
     {
       "street": "פועלי צדק",
@@ -19,5 +19,8 @@
       "lat": 31.7531747,
       "lon": 35.2155482
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "otorizeapp",
+  "linkedinNum": 27048202
 }

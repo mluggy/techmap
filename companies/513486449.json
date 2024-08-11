@@ -1,16 +1,16 @@
 {
-  "name": "Skeeper Business Counseling",
-  "description": "Enhance customer engagement and refine your marketing strategy with our six innovative solutions.",
-  "categoryId": 2,
+  "name": "SKEEPER",
+  "description": "Virtual Queuing Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/skeeper_business_counseling-logo.webp",
-  "websiteUrl": "https://skeepers.io/",
+  "websiteUrl": "https://www.skeeperapp.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "t-saver",
   "crunchbaseId": null,
   "finderId": "t-saver",
-  "xId": null,
+  "xId": "skeeperapp",
   "addresses": [
     {
       "street": "הרמה",
@@ -19,5 +19,8 @@
       "lat": 32.0594418,
       "lon": 34.8694449
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SkeeperApp ",
+  "linkedinNum": 2766224
 }

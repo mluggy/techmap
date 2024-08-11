@@ -1,0 +1,25 @@
+{
+  "name": "Tecto",
+  "description": "Grading Machines",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/tecto.webp",
+  "websiteUrl": "https://www.tectoltd.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "tecto",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "אפרים",
+      "houseNumber": 63,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.88275050846921,
+      "lon": 35.0043786199937
+    }
+  ],
+  "isMultinational": false
+}

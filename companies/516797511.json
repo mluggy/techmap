@@ -1,0 +1,25 @@
+{
+  "name": "CapStack",
+  "description": "Banking OS for Cooperation",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/capstack.webp",
+  "websiteUrl": "https://www.capstack.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 91336470,
+  "crunchbaseId": null,
+  "finderId": "capstack",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 6,
+      "city": "תל אביב - יפו",
+      "lat": 32.06552516085366,
+      "lon": 34.784945604608176
+    }
+  ],
+  "isMultinational": false
+}

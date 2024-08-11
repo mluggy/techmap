@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "torii-4618",
   "finderId": "torii-labs",
-  "xId": null,
+  "xId": "torii_hq",
   "addresses": [
     {
       "street": "החרושת",
@@ -19,5 +19,8 @@
       "lat": 32.1953698,
       "lon": 34.8799621
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "toriiapp",
+  "linkedinNum": 11298659
 }

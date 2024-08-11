@@ -1,10 +1,10 @@
 {
-  "name": "Defensoft",
+  "name": "DefenSoft",
   "description": "Providing reliable and fast web hosting services in Israel along with domain registration, website building, virtual stores, and VPS on both Windows and Linux platforms.",
   "categoryId": 6,
   "size": "s",
   "logoFile": "logos/defensoft-logo.webp",
-  "websiteUrl": "http://defensoft.com/",
+  "websiteUrl": "https://defensoft.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "defensoft",
@@ -19,5 +19,7 @@
       "lat": 32.78401231234315,
       "lon": 35.24861591898735
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 143114
 }

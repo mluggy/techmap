@@ -1,16 +1,16 @@
 {
-  "name": "Totem Ahzakot",
-  "description": "Create and customize mobile-friendly membership forms for seamless new member registration.",
-  "categoryId": 14,
+  "name": "Totem",
+  "description": "Game Development Community",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/totem_ahzakot-logo.webp",
-  "websiteUrl": "https://jointotem.com/",
+  "websiteUrl": "https://totem.gdn/bin/view/Main/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "totem",
-  "xId": null,
+  "xId": "TotemGDN",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,7 @@
       "lat": 32.0693338,
       "lon": 34.8501728
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81628948
 }

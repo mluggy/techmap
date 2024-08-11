@@ -1,10 +1,10 @@
 {
-  "name": "Evolution Intelligence",
-  "description": "Solution for Managing Battery Power at the Cellular Level, Dynamically.",
-  "categoryId": 1,
+  "name": "EVolution",
+  "description": "Cell-level, Dynamic Battery Power Management Solution",
+  "categoryId": 5,
   "size": "s",
   "logoFile": "logos/evolution_intelligence-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.ev-olution.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false
 }

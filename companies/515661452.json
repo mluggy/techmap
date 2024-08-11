@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "eatsane",
-  "xId": null,
+  "xId": "EatsaneBread",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0693338,
       "lon": 34.8501728
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "eatsanebread",
+  "linkedinNum": 53250749
 }

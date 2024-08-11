@@ -4,7 +4,7 @@
   "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/screenpeaks-logo.webp",
-  "websiteUrl": "http://www.screenpeaks.com/",
+  "websiteUrl": "https://www.screenpeaks.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "screenpeaks",
@@ -19,5 +19,7 @@
       "lat": 32.2813201,
       "lon": 34.9057433
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 70562
 }

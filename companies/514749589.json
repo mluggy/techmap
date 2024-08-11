@@ -1,16 +1,16 @@
 {
   "name": "Via Surgical",
-  "description": "Suture Solutions for Soft-tissue Repair Through Transfascial Technique.",
+  "description": "Transfascial Suture Fixation for Soft-tissue Repair",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/via_surgical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.viasurgical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "via-surgical",
   "crunchbaseId": "via-surgical",
   "finderId": "via-surgical",
-  "xId": null,
+  "xId": "viasurgical",
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -19,5 +19,8 @@
       "lat": 32.7897925,
       "lon": 34.9593655
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Via-Surgical-Ltd-1407035382900555",
+  "linkedinNum": 18721846
 }

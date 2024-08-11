@@ -1,0 +1,25 @@
+{
+  "name": "MyQ",
+  "description": "Platform for Computational Thinking Skills",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/myq.webp",
+  "websiteUrl": "https://www.myqedu.com/en",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 37007851,
+  "crunchbaseId": null,
+  "finderId": "myq",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "אלאנדלוס",
+      "houseNumber": 0,
+      "city": "עראבה",
+      "lat": 32.85311998520918,
+      "lon": 35.33635197648043
+    }
+  ],
+  "isMultinational": false
+}

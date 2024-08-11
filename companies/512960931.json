@@ -7,10 +7,10 @@
   "websiteUrl": "https://connecteam.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "connecteam",
   "crunchbaseId": null,
   "finderId": "connecteam",
-  "xId": null,
+  "xId": "ConnecteamApp",
   "addresses": [
     {
       "street": "לוי משה",
@@ -19,5 +19,8 @@
       "lat": 31.9878825,
       "lon": 34.7733148
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ConnecteamIsrael",
+  "linkedinNum": 10591384
 }

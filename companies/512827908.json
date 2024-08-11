@@ -1,5 +1,5 @@
 {
-  "name": "Tivoni Clinic",
+  "name": "Tivoni",
   "description": "For over 20 years, this company has specialized in creating unique food supplements, natural food products, and natural cosmetics.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.0376815,
       "lon": 34.888153
     }
-  ]
+  ],
+  "isMultinational": false
 }

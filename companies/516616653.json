@@ -1,10 +1,10 @@
 {
   "name": "Driverly",
-  "description": "A flexible, subscription-based car insurance that offers price adjustments driven by your driving habits and market conditions, rewarding safe drivers.",
-  "categoryId": 10,
+  "description": "Digital Twin platform for Software-defined Vehicles",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/driverly-logo.webp",
-  "websiteUrl": "https://www.driverly.co.uk/",
+  "websiteUrl": "https://www.driverly.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0514533,
       "lon": 34.8763666
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 88425732
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Callapp Software",
+  "name": "CallApp Software",
   "description": "This mobile app offers free caller identification, call blocking, and call recording by leveraging an extensive phone number database.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "callapp",
-  "xId": null,
+  "xId": "GetCallApp",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CallApp",
+  "linkedinNum": 2263245
 }

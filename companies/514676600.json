@@ -1,5 +1,5 @@
 {
-  "name": "Twist Bioscience Israel",
+  "name": "Twist Bioscience",
   "description": "Pioneering high-quality silicon-based DNA synthesis and synthetic biology solutions.",
   "categoryId": 12,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "twist-bioscience",
   "crunchbaseId": null,
   "finderId": "twist-bioscience",
-  "xId": null,
+  "xId": "twistbioscience",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.048445,
       "lon": 34.752116
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "TwistBioscienceTLV",
+  "linkedinNum": 3508131
 }

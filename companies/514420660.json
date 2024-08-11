@@ -1,5 +1,5 @@
 {
-  "name": "Tipa Corp",
+  "name": "TIPA",
   "description": "Innovative packaging solutions that protect food and extend shelf life as effectively as conventional plastics.",
   "categoryId": 17,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://tipa-corp.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tipa",
   "crunchbaseId": null,
   "finderId": "tipa",
-  "xId": null,
+  "xId": "TIPACorp",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.13264635,
       "lon": 34.89857182559817
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TipaCorp",
+  "linkedinNum": 1495199
 }

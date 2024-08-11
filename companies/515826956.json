@@ -1,10 +1,10 @@
 {
   "name": "Travaxy",
-  "description": "Offers customizable cursor and screen zoom tools to enhance digital accessibility, backed by a comprehensive accessibility statement and support options.",
-  "categoryId": 12,
+  "description": "Travel and Booking Platform for Seniors and People with Disabilities",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/travaxy-logo.webp",
-  "websiteUrl": "https://data.travaxy.com/",
+  "websiteUrl": "https://www.travaxy.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.7040463,
       "lon": 35.1726166
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Travaxy-311924569211925",
+  "linkedinNum": 28552216
 }

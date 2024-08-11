@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sensibo",
-  "xId": null,
+  "xId": "sensibo",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,8 @@
       "lat": 32.085753749999995,
       "lon": 34.80240578198058
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sensibo",
+  "linkedinNum": 5168218
 }

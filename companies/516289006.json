@@ -1,10 +1,10 @@
 {
-  "name": "Cannbis B G",
-  "description": "A wellness-focused dispensary enhancing daily life through medical and recreational cannabis.",
-  "categoryId": 12,
+  "name": "Cannbis",
+  "description": "Marketplace for Medical Cannabis",
+  "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/cannbis_b_g-logo.webp",
-  "websiteUrl": "https://www.sunnyside.shop/",
+  "websiteUrl": "https://cannbis.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1827428,
       "lon": 34.8796022
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cannbis.co.il"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Medi Tate",
+  "name": "Medi-Tate",
   "description": "Providing care for urethral and prostate conditions.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.4472988,
       "lon": 34.9102145
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10291149
 }

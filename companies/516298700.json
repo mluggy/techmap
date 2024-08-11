@@ -1,5 +1,5 @@
 {
-  "name": "Storydoc Technologies",
+  "name": "Storydoc",
   "description": "An AI-powered platform that generates, refines, integrates, and tracks high-impact presentations to boost customer engagement and drive success.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "storydocltd",
   "crunchbaseId": null,
   "finderId": "storydoc",
-  "xId": null,
+  "xId": "Storydoc1",
   "addresses": [
     {
       "street": "פורצי הדרך",
@@ -19,5 +19,7 @@
       "lat": 32.1626088,
       "lon": 34.8632079
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 14804044
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Innosec",
-  "description": "Managing cybersecurity risks.",
+  "name": "InnoSec",
+  "description": "Cyber Risk Management",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/innosec-logo.webp",
-  "websiteUrl": "https://cs.innosec.co.il/",
+  "websiteUrl": "https://storm.innosec.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "innosec-ltd",
   "crunchbaseId": "innosec",
   "finderId": "innosec",
-  "xId": null,
+  "xId": "InnoSecCyRisk",
   "addresses": [
     {
       "street": "האורנים",
@@ -19,5 +19,7 @@
       "lat": 32.1528898,
       "lon": 34.8883029
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10391369
 }

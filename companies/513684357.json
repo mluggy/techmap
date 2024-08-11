@@ -1,5 +1,5 @@
 {
-  "name": "Keywee Software",
+  "name": "Anyword",
   "description": "Trusted by over a million marketers, this AI-powered platform excels at creating effective on-brand content to scale your marketing efforts.",
   "categoryId": 2,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://anyword.com/",
   "careersUrl": "https://keywee.co/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "getanyword",
   "crunchbaseId": "keywee",
   "finderId": "keywee",
-  "xId": null,
+  "xId": "getanyword",
   "addresses": [
     {
       "street": "סוקולוב",
@@ -19,5 +19,8 @@
       "lat": 32.16761615,
       "lon": 34.85034387438384
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getanyword",
+  "linkedinNum": 2704134
 }

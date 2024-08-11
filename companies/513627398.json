@@ -1,5 +1,5 @@
 {
-  "name": "Tufin Software Technologies",
+  "name": "Tufin",
   "description": "Automating and coordinating security policies across diverse IT environments to support digital business needs.",
   "categoryId": 7,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.tufin.com/",
   "careersUrl": "https://www.tufin.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "tufin-technologies",
   "crunchbaseId": null,
   "finderId": "tufin",
-  "xId": null,
+  "xId": "tufintech",
   "addresses": [
     {
       "street": "דרך השלום",
@@ -19,5 +19,8 @@
       "lat": 32.0724997,
       "lon": 34.7947481
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Tufintech",
+  "linkedinNum": 96233
 }

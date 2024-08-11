@@ -1,5 +1,5 @@
 {
-  "name": "Boards.com",
+  "name": "Boards",
   "description": "Centralize and organize all customer-facing resources including sales and marketing content, product catalogs, FAQs, and support materials.",
   "categoryId": 14,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.119632,
       "lon": 34.834658
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64989090
 }

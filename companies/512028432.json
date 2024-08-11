@@ -1,5 +1,5 @@
 {
-  "name": "Microchip Mchp Technology Israel",
+  "name": "Microchip",
   "description": "A leading supplier of microcontroller, mixed-signal, analog, and Flash-IP solutions with exceptional technical support.",
   "categoryId": 16,
   "size": "xl",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.microchip.com/",
   "careersUrl": "https://www.microchip.com/en-us/about/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "microchip-technology",
   "crunchbaseId": null,
   "finderId": "microchip",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 6481
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Verifresh",
+  "name": "VeriFresh",
   "description": "Utilizing a patented gum massager and all-natural gel, this product ensures easy and safe gum care.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "verifresh",
-  "xId": null,
+  "xId": "verifresnatural",
   "addresses": [
     {
       "street": "גיחון",
@@ -19,5 +19,8 @@
       "lat": 31.7633715,
       "lon": 35.2267809
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Verifresh",
+  "linkedinNum": 2945273
 }

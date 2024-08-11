@@ -1,0 +1,25 @@
+{
+  "name": "Weft",
+  "description": "Stealth Mode Startup",
+  "categoryId": 10,
+  "size": "xs",
+  "logoFile": "logos/weft.webp",
+  "websiteUrl": "https://www.weftfinance.co/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "weft",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "הפסגה",
+      "houseNumber": null,
+      "city": "גני תקווה",
+      "lat": 32.06239186790639,
+      "lon": 34.87384713256919
+    }
+  ],
+  "isMultinational": false
+}

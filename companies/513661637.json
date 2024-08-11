@@ -1,16 +1,16 @@
 {
   "name": "Galooli",
-  "description": "Provides multi-option, secure access solutions for user authentication.",
-  "categoryId": 7,
+  "description": "Remote Energy Monitoring and Management",
+  "categoryId": 17,
   "size": "l",
   "logoFile": "logos/galooli-logo.webp",
-  "websiteUrl": "https://login.galooli.com/",
+  "websiteUrl": "https://www.galooli.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "galooli",
   "crunchbaseId": null,
   "finderId": "galooli",
-  "xId": null,
+  "xId": "GalooliGroup",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0634798,
       "lon": 34.7802841
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GalooliGroup",
+  "linkedinNum": 2564705
 }

@@ -1,10 +1,10 @@
 {
   "name": "Avisco",
-  "description": "Since 1986, the organization has been facilitating audiovisual and photography workshops, guided film viewings, and collaborative projects with various institutions to foster creative and personal use of media technology.",
-  "categoryId": 8,
+  "description": "Biotechnology and Specialty Agriculture",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/avisco-logo.webp",
-  "websiteUrl": "https://www.avisco.org/",
+  "websiteUrl": "https://www.inulav.com/",
   "careersUrl": "https://www.aviso.ca/en/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.9584196,
       "lon": 35.491585411923296
     }
-  ]
+  ],
+  "isMultinational": false
 }

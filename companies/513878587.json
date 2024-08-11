@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "varcode",
-  "xId": null,
+  "xId": "varcode_global",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1932202,
       "lon": 34.8827706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VarcodeGlobal",
+  "linkedinNum": 5318602
 }

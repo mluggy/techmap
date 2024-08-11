@@ -1,16 +1,16 @@
 {
-  "name": "Tourbo Travel Ltd Online Travel Solutions",
-  "description": "The leading software for online tax preparation, known for its ease of use and guaranteed accuracy in filing federal and state returns.",
-  "categoryId": 9,
+  "name": "Tourbo",
+  "description": "Business Travel Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tourbo_travel_ltd_online_travel_solutions-logo.webp",
-  "websiteUrl": "https://turbotax.intuit.com/",
+  "websiteUrl": "https://tourbo.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tourbo",
-  "xId": null,
+  "xId": "tourbo_app",
   "addresses": [
     {
       "street": "דרך השמורה",
@@ -19,5 +19,8 @@
       "lat": 33.0592378,
       "lon": 35.6076045
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Tourboapp",
+  "linkedinNum": 18064449
 }

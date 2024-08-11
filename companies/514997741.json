@@ -1,16 +1,16 @@
 {
   "name": "Sonovia",
-  "description": "Innovative textiles by a certain company have transformed mask fabrics from passive barriers into actively protective materials, verified by external lab tests.",
-  "categoryId": 12,
+  "description": "Sustainable Technology for Ultrasonic Dyeing and Finishing",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/sonovia-logo.webp",
-  "websiteUrl": "https://sonoviastore.co.il/",
+  "websiteUrl": "https://sonoviatech.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sonovia-ltd",
   "crunchbaseId": null,
   "finderId": "sonovia",
-  "xId": null,
+  "xId": "sonovialtd",
   "addresses": [
     {
       "street": "שדה יצחק",
@@ -19,5 +19,8 @@
       "lat": 33.0227188,
       "lon": 35.1002083
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "sonovialtd",
+  "linkedinNum": 35663685
 }

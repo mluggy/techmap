@@ -1,5 +1,5 @@
 {
-  "name": "Ravin AI",
+  "name": "RAVIN.AI",
   "description": "Utilizing advanced computer vision, this company automates vehicle inspections to efficiently detect and classify damages, saving time and reducing costs.",
   "categoryId": 5,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ravin",
-  "xId": null,
+  "xId": "ai_ravin",
   "addresses": [
     {
       "street": "כיאט",
@@ -19,5 +19,7 @@
       "lat": 32.8191165,
       "lon": 34.9991822
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 14004766
 }

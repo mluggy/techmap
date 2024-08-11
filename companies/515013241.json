@@ -1,5 +1,5 @@
 {
-  "name": "Novo Dr",
+  "name": "NOVO DR",
   "description": "A top provider of portable digital X-ray inspection systems for various specialized and industrial applications, featuring super bright tablets ranging from 10\" to 21.5\".",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "novo-dr",
-  "xId": null,
+  "xId": "novo_dr",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.0926107,
       "lon": 34.8498332
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NOVODRltd",
+  "linkedinNum": 4862665
 }

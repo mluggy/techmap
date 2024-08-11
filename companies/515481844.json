@@ -1,10 +1,10 @@
 {
-  "name": "Iop Medical",
-  "description": "A sensor that can be implanted to allow individuals to monitor their own eye pressure.",
+  "name": "IOP Medical",
+  "description": "Implantable Sensor for Self-monitoring of Intraocular Pressure",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/iop_medical-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://iop-medical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.9825747,
       "lon": 34.7597188
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18198198
 }

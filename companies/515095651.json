@@ -1,5 +1,5 @@
 {
-  "name": "Morphisec Information Security 2014",
+  "name": "Morphisec",
   "description": "Offering advanced breach prevention and vulnerability visibility for Windows and Linux systems, this company is revolutionizing endpoint security.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "morphisec",
   "crunchbaseId": null,
   "finderId": "morphisec",
-  "xId": null,
+  "xId": "morphisec",
   "addresses": [
     {
       "street": "האנרגיה",
@@ -19,5 +19,8 @@
       "lat": 31.263266,
       "lon": 34.8105466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Morphisec",
+  "linkedinNum": 9434365
 }

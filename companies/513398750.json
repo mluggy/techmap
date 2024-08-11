@@ -1,5 +1,5 @@
 {
-  "name": "Bioline Rx",
+  "name": "BiolineRx",
   "description": "A company dedicated to advancing innovative therapeutics from concept through to market, addressing genuine patient needs.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "biolinerx",
-  "xId": null,
+  "xId": "biolinerx_ltd",
   "addresses": [
     {
       "street": "המעיין",
@@ -19,5 +19,8 @@
       "lat": 31.922288,
       "lon": 34.9688892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BioLineRx-786986118113858",
+  "linkedinNum": 112275
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Check Cap",
+  "name": "Check-Cap",
   "description": "A company dedicated to revolutionizing colorectal cancer screening and enhancing early detection and prevention by breaking down traditional barriers.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "check-cap-ltd-",
   "crunchbaseId": null,
   "finderId": "check-cap",
-  "xId": null,
+  "xId": "CheckCap_",
   "addresses": [
     {
       "street": "שד אבא חושי",
@@ -19,5 +19,8 @@
       "lat": 32.7294463,
       "lon": 35.0527308
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CheckCapLTD",
+  "linkedinNum": 10085721
 }

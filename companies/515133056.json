@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "makeree",
-  "xId": null,
+  "xId": "themakeree",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.158885,
       "lon": 34.8090779
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TheMakeree",
+  "linkedinNum": 10292124
 }

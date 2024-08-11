@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "robusta-dev",
-  "xId": null,
+  "xId": "robustadev",
   "addresses": [
     {
       "street": "לינקולן",
@@ -19,5 +19,7 @@
       "lat": 32.066035,
       "lon": 34.782959
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77652374
 }

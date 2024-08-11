@@ -1,5 +1,5 @@
 {
-  "name": "Seegnal Ehealth",
+  "name": "Seegnal eHealth",
   "description": "A real-time clinical decision support platform that resolves patient-specific drug-related problems efficiently with high accuracy and minimal alerts.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "seegnal-ehealth",
-  "xId": null,
+  "xId": "Seegnal_eHealth",
   "addresses": [
     {
       "street": "השקמה",
@@ -19,5 +19,7 @@
       "lat": 32.04923396044034,
       "lon": 34.875726316532486
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13028318
 }

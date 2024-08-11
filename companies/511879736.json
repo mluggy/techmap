@@ -1,10 +1,10 @@
 {
   "name": "Betaland Software Engineering",
-  "description": "An online platform providing professional educational services.",
-  "categoryId": 12,
+  "description": "Enterprise Software System Builder",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/betaland_software_engineering_ltd-logo.webp",
-  "websiteUrl": "https://nobel.live/",
+  "websiteUrl": "https://www.beta-land.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.8023945,
       "lon": 35.2132096
     }
-  ]
+  ],
+  "isMultinational": false
 }

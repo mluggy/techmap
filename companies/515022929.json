@@ -1,16 +1,16 @@
 {
-  "name": "Evolita",
-  "description": "Providing global business insights and data-driven answers through natural language queries.",
-  "categoryId": 1,
+  "name": "EVOLITA",
+  "description": "Data-driven Research",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/evolita-logo.webp",
-  "websiteUrl": "http://evolita.com/",
+  "websiteUrl": "https://beta.evolita.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "evolita",
-  "xId": null,
+  "xId": "Evolita_com",
   "addresses": [
     {
       "street": "חלמיש",
@@ -19,5 +19,8 @@
       "lat": 32.4870865,
       "lon": 34.9479977
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Evolitacom-320339874718155",
+  "linkedinNum": 2894852
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Dio Tree",
-  "description": "A free service that instantly translates text and web pages between English and over 100 languages.",
-  "categoryId": 1,
+  "name": "DIO TREE",
+  "description": "Molecule for the Treatment of Ovarian Cancer",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/dio_tree-logo.webp",
-  "websiteUrl": "https://translate.google.com/",
+  "websiteUrl": "https://www.dio-tree.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90779409
 }

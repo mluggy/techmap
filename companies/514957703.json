@@ -1,5 +1,5 @@
 {
-  "name": "Cheq Ai Technologies 2018",
+  "name": "CHEQ",
   "description": "Providing precise detection and defense solutions tailored for your go-to-market strategy.",
   "categoryId": 7,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://cheq.ai/",
   "careersUrl": "https://cheq.ai/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "cheq-ai",
   "crunchbaseId": null,
   "finderId": "cheq",
-  "xId": null,
+  "xId": "CHEQ_Inc",
   "addresses": [
     {
       "street": "יהודה הלוי",
@@ -19,5 +19,8 @@
       "lat": 32.061625,
       "lon": 34.772982
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "wearecheq",
+  "linkedinNum": 10041033
 }

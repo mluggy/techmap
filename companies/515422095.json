@@ -1,13 +1,13 @@
 {
-  "name": "Papaya Gaming",
-  "description": "A leading fashion retailer offering trendy styles and hot deals on a wide range of apparel including dresses and tops.",
-  "categoryId": 9,
+  "name": "Papaya",
+  "description": "Skill-based Gaming Platform",
+  "categoryId": 8,
   "size": "l",
   "logoFile": "logos/papaya_gaming-logo.webp",
-  "websiteUrl": "https://www.papayaclothing.com/",
+  "websiteUrl": "https://www.papaya.com/",
   "careersUrl": "https://www.papayaglobal.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "papayaltd",
   "crunchbaseId": null,
   "finderId": "papaya-1",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 32.064654,
       "lon": 34.785584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "papayagaming",
+  "linkedinNum": 24427744
 }

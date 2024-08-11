@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "orpheus-medical",
-  "xId": null,
+  "xId": "orpheusmedical",
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -19,5 +19,8 @@
       "lat": 32.7897925,
       "lon": 34.9593655
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OrpheusMedical",
+  "linkedinNum": 2089819
 }

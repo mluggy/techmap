@@ -1,0 +1,25 @@
+{
+  "name": "buzzr",
+  "description": "Home Delivery Service",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/buzzr.webp",
+  "websiteUrl": "https://www.buzzr.biz/en/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "buzzr",
+  "xId": null,
+  "facebookId": "pages",
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 132,
+      "city": "תל אביב - יפו",
+      "lat": 32.07459082519426,
+      "lon": 34.792195531858674
+    }
+  ],
+  "isMultinational": false
+}

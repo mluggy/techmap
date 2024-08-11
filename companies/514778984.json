@@ -1,5 +1,5 @@
 {
-  "name": "Omnisol Information Systems",
+  "name": "Omnisol",
   "description": "A cutting-edge data management platform integrates diverse algorithms and concepts, encompassing AI, Machine Learning, and Text Analytics.",
   "categoryId": 1,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.72215728632251,
       "lon": 35.12891206236021
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "omnisol.co.il",
+  "linkedinNum": 2607072
 }

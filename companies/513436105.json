@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "scinai-immunotherapeutics",
-  "xId": null,
+  "xId": "scinai_",
   "addresses": [
     {
       "street": "קרית הדסה בנין JBP",
@@ -19,5 +19,8 @@
       "lat": 31.76665964095171,
       "lon": 35.14751757376951
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ScinaiSCNI",
+  "linkedinNum": 725313
 }

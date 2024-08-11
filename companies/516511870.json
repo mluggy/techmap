@@ -1,10 +1,10 @@
 {
-  "name": "Solor Gs",
-  "description": "A paint that transforms sunlight into electrical power.",
+  "name": "SolOr",
+  "description": "Solar Paint that Converts Sunlight into Electricity",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/solor_gs-logo.webp",
-  "websiteUrl": "https://diysolarforum.com/",
+  "websiteUrl": "https://www.solor.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.8248149,
       "lon": 35.0754481
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79579765
 }

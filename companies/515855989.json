@@ -1,5 +1,5 @@
 {
-  "name": "Akeyless Security",
+  "name": "AKEYLESS",
   "description": "Offers fragmented encryption key technology ensuring secrets are protected without a single point of breach.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "akeyless",
   "crunchbaseId": null,
   "finderId": "akeyless-security1",
-  "xId": null,
+  "xId": "akeylessio",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0835579,
       "lon": 34.8040988
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Akeylessio",
+  "linkedinNum": 33238033
 }

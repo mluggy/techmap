@@ -1,16 +1,16 @@
 {
-  "name": "Solaredge Technologies",
-  "description": "With a strong belief in green energy and an innovative spirit, this company has become a global leader in its field.",
+  "name": "SolarEdge Technologies",
+  "description": "Renewable Energy Semiconductor Manufacturing",
   "categoryId": 17,
   "size": "l",
   "logoFile": "logos/solaredge_technologies-logo.webp",
-  "websiteUrl": "https://www.solaredge.co.il/",
+  "websiteUrl": "https://www.solaredge.com/en",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "solaredge",
   "crunchbaseId": null,
   "finderId": "solaredge-technologies",
-  "xId": null,
+  "xId": "SolarEdgePV",
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +19,9 @@
       "lat": 32.1665699,
       "lon": 34.8119315
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SolaredgePV",
+  "linkedinNum": 361424,
+  "comeetId": "SolarEdge/71.00A"
 }

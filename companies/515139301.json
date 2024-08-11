@@ -10,7 +10,7 @@
   "linkedinId": "fidmi-medical",
   "crunchbaseId": "fidmi-medical",
   "finderId": "fidmi-medical",
-  "xId": null,
+  "xId": "FidmiMedical",
   "addresses": [
     {
       "street": "האשל",
@@ -19,5 +19,8 @@
       "lat": 32.4774943,
       "lon": 34.9447996
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FidmiMedical",
+  "linkedinNum": 10093679
 }

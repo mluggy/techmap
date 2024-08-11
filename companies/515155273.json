@@ -1,10 +1,10 @@
 {
-  "name": "Produvia",
+  "name": "WeavingThings",
   "description": "An industrial IoT edge platform engineered for integrators, streamlining the implementation and reducing the development effort of IoT solutions for both new and existing deployments.",
   "categoryId": 13,
   "size": "xs",
   "logoFile": "logos/produvia-logo.webp",
-  "websiteUrl": "http://weavingthings.com/",
+  "websiteUrl": "https://weavingthings.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.2699982,
       "lon": 34.9169415
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5092901
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Bigvu",
+  "name": "BIGVU",
   "description": "An innovative app revolutionizing video production and storytelling with user-friendly features like a teleprompter for seamless script reading and eye contact.",
   "categoryId": 8,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bigvu",
-  "xId": null,
+  "xId": "videoinspire",
   "addresses": [
     {
       "street": "דרך אליהו נאוי",
@@ -19,5 +19,8 @@
       "lat": 31.2445535,
       "lon": 34.8053096
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "socialvideocreator",
+  "linkedinNum": 10500794
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Stellarnova",
+  "name": "StellarNova",
   "description": "StellarNova is a multimedia company creating science, technology, engineering and math (STEM) products for kids. Jet Car Collection products now available!.",
   "categoryId": 8,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "the-know-it-alls",
-  "xId": null,
+  "xId": "StellarNovaCO",
   "addresses": [
     {
       "street": "שד בן מימון",
@@ -19,5 +19,8 @@
       "lat": 31.773844167982816,
       "lon": 35.21388334692043
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "stellarnova.co",
+  "linkedinNum": 27096105
 }

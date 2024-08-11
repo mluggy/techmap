@@ -1,16 +1,16 @@
 {
-  "name": "Dsm Solutions",
-  "description": "Service for Managing Drop-Shipping Operations.",
-  "categoryId": 9,
+  "name": "DSM Solutions",
+  "description": "Drop-shipping Management Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/dsm_solutions-logo.webp",
-  "websiteUrl": "http://www.dsmsolutionswales.co.uk/",
+  "websiteUrl": "https://www.dsmtool.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "dsm-solutions",
   "crunchbaseId": null,
   "finderId": "dsm-solutions",
-  "xId": null,
+  "xId": "dsmtool",
   "addresses": [
     {
       "street": "הרקפת",
@@ -19,5 +19,8 @@
       "lat": 32.3046828,
       "lon": 34.911105
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dsmtool",
+  "linkedinNum": 11631677
 }

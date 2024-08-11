@@ -1,10 +1,10 @@
 {
   "name": "Yummi Home Food",
-  "description": "Menus are subject to change due to national food supply chain issues and can be accessed online.",
+  "description": "Marketplace for Homemade Food",
   "categoryId": 9,
   "size": "s",
   "logoFile": "logos/yummi_home_food-logo.webp",
-  "websiteUrl": "https://wps.yumyummi.com/",
+  "websiteUrl": "https://www.yummi.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.14262555155356,
       "lon": 34.903569733379015
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "yummi.il",
+  "linkedinNum": 5137932
 }

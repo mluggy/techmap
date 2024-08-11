@@ -1,5 +1,5 @@
 {
-  "name": "Perun Cloud",
+  "name": "Perun",
   "description": "A platform that automatically and effortlessly provides scalable environments as a service.",
   "categoryId": 6,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "perun-cloud",
   "crunchbaseId": "perun-cloud",
   "finderId": "perun",
-  "xId": null,
+  "xId": "PerunCloud",
   "addresses": [
     {
       "street": "בני אפרים",
@@ -19,5 +19,8 @@
       "lat": 32.122857,
       "lon": 34.823922
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Perun-Cloud-100576812368273",
+  "linkedinNum": 66877079
 }

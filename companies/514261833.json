@@ -1,5 +1,5 @@
 {
-  "name": "Net Spark",
+  "name": "NetSpark",
   "description": "A company dedicated to protecting internet users by filtering out inappropriate content in the vast, rapidly growing digital landscape.",
   "categoryId": 7,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.netspark.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "netspark-ltd",
   "crunchbaseId": null,
   "finderId": "netspark",
-  "xId": null,
+  "xId": "netsparktweets",
   "addresses": [
     {
       "street": "זאבי רחבעם(גנדי)",
@@ -19,5 +19,7 @@
       "lat": 32.078010910923766,
       "lon": 34.845816554199956
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1739475
 }

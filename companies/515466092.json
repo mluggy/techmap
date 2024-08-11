@@ -1,10 +1,10 @@
 {
-  "name": "Icapital Tech",
-  "description": "Provides qualified investors with curated private equity strategies throughout the investment lifecycle.",
+  "name": "iCapital",
+  "description": "Automated Solutions for the Finance Industry",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/icapital_tech-logo.webp",
-  "websiteUrl": "https://icapital.com/",
+  "websiteUrl": "https://www.icapital-tech.com/",
   "careersUrl": "https://icapital.com/careers/",
   "isHiring": true,
   "linkedinId": "icapital-network-inc",
@@ -19,5 +19,8 @@
       "lat": 32.0817371,
       "lon": 34.8835306
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "iCapitalTech",
+  "linkedinNum": 18391606
 }

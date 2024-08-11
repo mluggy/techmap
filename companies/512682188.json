@@ -1,5 +1,5 @@
 {
-  "name": "Optum Ies",
+  "name": "OPTUM-IES",
   "description": "A specialized industrial engineering firm focused on functional planning, efficiency improvement, logistics, supply chain, and project management.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.7726661,
       "lon": 34.9678575
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "optumies",
+  "linkedinNum": 154787
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "drupe-mobile",
-  "xId": null,
+  "xId": "getdrupe",
   "addresses": [
     {
       "street": "לוונברג",
@@ -19,5 +19,8 @@
       "lat": 32.19645825,
       "lon": 34.89471465
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "getdrupe",
+  "linkedinNum": 4859924
 }

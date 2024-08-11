@@ -1,10 +1,10 @@
 {
-  "name": "Heartbeat Technologies",
-  "description": "A mobile app designed to track cardiovascular health metrics.",
+  "name": "HeartBeat Technologies",
+  "description": "Mobile Application for Monitoring Hemodynamic Parameters",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/heartbeat_technologies-logo.webp",
-  "websiteUrl": "https://www.heartbeattechsc.com/",
+  "websiteUrl": "https://www.heartbeattec.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.6957365,
       "lon": 34.945175
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5111726
 }

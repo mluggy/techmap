@@ -1,0 +1,25 @@
+{
+  "name": "Coddy",
+  "description": "AI-enhanced, gamified and practice-driven code learning platform.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/coddy.webp",
+  "websiteUrl": "https://coddy.tech/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 76103215,
+  "crunchbaseId": null,
+  "finderId": "coddy",
+  "xId": "coddy_tech",
+  "facebookId": "coddylearn",
+  "addresses": [
+    {
+      "street": "הספורט",
+      "houseNumber": 4,
+      "city": "חיפה",
+      "lat": 32.79885068966161,
+      "lon": 34.985042774928395
+    }
+  ],
+  "isMultinational": false
+}

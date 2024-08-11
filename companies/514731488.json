@@ -1,10 +1,10 @@
 {
   "name": "Wandering",
-  "description": "Geography-Centered Educational Tool.",
+  "description": "Location-based Learning Platform",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/wandering-logo.webp",
-  "websiteUrl": "https://wonderingandwondering.wordpress.com/",
+  "websiteUrl": "https://experien.city/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0661104,
       "lon": 34.7838559
     }
-  ]
+  ],
+  "isMultinational": false
 }

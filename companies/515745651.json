@@ -1,16 +1,16 @@
 {
-  "name": "Daostack Technologies",
-  "description": "A platform designed to harness and integrate collective intelligence.",
-  "categoryId": 1,
+  "name": "DAOstack",
+  "description": "Operating System for Collective Intelligence",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/daostack_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://daostack.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "daostack",
   "finderId": "daostack",
-  "xId": null,
+  "xId": "daostack",
   "addresses": [
     {
       "street": "המעגל",
@@ -19,5 +19,8 @@
       "lat": 32.84061964609018,
       "lon": 35.27303260325422
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "daostack",
+  "linkedinNum": 18477013
 }

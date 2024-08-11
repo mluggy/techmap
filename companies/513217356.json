@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.skyboxsecurity.com/",
   "careersUrl": "https://www.skyboxsecurity.com/company/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "skybox-security",
   "crunchbaseId": null,
   "finderId": "skybox-security",
-  "xId": null,
+  "xId": "skyboxsecurity",
   "addresses": [
     {
       "street": "ספיר",
@@ -19,5 +19,8 @@
       "lat": 32.1646025,
       "lon": 34.8122231
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SkyboxInc",
+  "linkedinNum": 165996
 }

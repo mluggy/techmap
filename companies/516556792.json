@@ -1,16 +1,16 @@
 {
   "name": "Utila",
-  "description": "A trustworthy comprehensive resource for travel, lodging, activities, and events in Utila, Bay Islands, Honduras.",
-  "categoryId": 9,
+  "description": "Self-custody Wallet Platform",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/utila-logo.webp",
-  "websiteUrl": "https://www.utilaguide.com/",
+  "websiteUrl": "https://utila.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "utila-io",
   "crunchbaseId": null,
   "finderId": "utila",
-  "xId": null,
+  "xId": "utila_io",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,7 @@
       "lat": 32.064654,
       "lon": 34.785584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 91037437
 }

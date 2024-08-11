@@ -1,5 +1,5 @@
 {
-  "name": "Incredibuild Software",
+  "name": "Incredibuild",
   "description": "This company speeds up development processes both on-premises and in the cloud for quicker builds and improved products.",
   "categoryId": 14,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.incredibuild.com/",
   "careersUrl": "https://www.incredibuild.com/career",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "incredibuild",
   "crunchbaseId": null,
   "finderId": "incredibuild",
-  "xId": null,
+  "xId": "incredibuild",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "incredibuild",
+  "linkedinNum": 1266629
 }

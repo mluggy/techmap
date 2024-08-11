@@ -1,16 +1,16 @@
 {
-  "name": "Oorym Optics",
-  "description": "Displays designed for close-up viewing.",
-  "categoryId": 4,
+  "name": "Oorym",
+  "description": "Near-to-eye Displays",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/oorym_optics-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://oorym.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "oorym",
   "crunchbaseId": null,
   "finderId": "oorym",
-  "xId": null,
+  "xId": "OorymAR",
   "addresses": [
     {
       "street": "סירני",
@@ -19,5 +19,8 @@
       "lat": 31.8972192,
       "lon": 34.8209111
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "oorym",
+  "linkedinNum": 11507014
 }

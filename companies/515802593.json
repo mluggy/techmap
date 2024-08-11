@@ -1,10 +1,10 @@
 {
-  "name": "Hinoman Beeri Industries",
-  "description": "Meeting the global demand for secure and sustainable nutrition through an innovative, all-natural food source.",
-  "categoryId": 17,
+  "name": "Hinoman",
+  "description": "Mankai Cultivation",
   "size": "xs",
+  "categoryId": 17,
   "logoFile": "logos/hinoman_beeri_industries-logo.webp",
-  "websiteUrl": "https://www.hinoman.com/",
+  "websiteUrl": "https://eatmankai.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "mankai-by-hinoman",
@@ -19,5 +19,8 @@
       "lat": 31.419600384921672,
       "lon": 34.593776116710906
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EatMankaiUSA",
+  "linkedinNum": 40842951
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Smartflow Rws",
-  "description": "Specializes in providing solutions for critical mold cooling with extremely low flow channels, including bubblers and baffles.",
-  "categoryId": 13,
+  "name": "Smartflow",
+  "description": "Data-driven Rain Flood Control",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/smartflow_rws-logo.webp",
-  "websiteUrl": "https://www.smartflow-usa.com/",
+  "websiteUrl": "https://smartflow-rws.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1875239,
       "lon": 34.891729
     }
-  ]
+  ],
+  "isMultinational": false
 }

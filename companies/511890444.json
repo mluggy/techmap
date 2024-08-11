@@ -1,0 +1,25 @@
+{
+  "name": "ESP",
+  "description": "Electricity Faults Predicting",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/esp.webp",
+  "websiteUrl": "https://www.esp-protect.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 35701850,
+  "crunchbaseId": null,
+  "finderId": "esp",
+  "xId": null,
+  "facebookId": "ESP-Electrical-Systems-Protection-179355612999977",
+  "addresses": [
+    {
+      "street": "אודם",
+      "houseNumber": 4,
+      "city": "פתח תקווה",
+      "lat": 32.09046061535651,
+      "lon": 34.85758883710227
+    }
+  ],
+  "isMultinational": false
+}

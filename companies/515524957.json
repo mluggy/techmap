@@ -1,5 +1,5 @@
 {
-  "name": "Fast Applications",
+  "name": "FAST Applications",
   "description": "Online Logistics Management.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "fast-applications-ltd",
   "crunchbaseId": null,
   "finderId": "fast-applications",
-  "xId": null,
+  "xId": "Fast__Apps",
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -19,5 +19,8 @@
       "lat": 32.7897925,
       "lon": 34.9593655
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fastapps2018",
+  "linkedinNum": 15198778
 }

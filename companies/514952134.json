@@ -1,5 +1,5 @@
 {
-  "name": "Reignn Platform",
+  "name": "ReigNN",
   "description": "We integrate top-notch content and cutting-edge technology to deliver exceptional data-driven solutions.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "kumma1",
-  "xId": null,
+  "xId": "reignnplatform",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.0720324,
       "lon": 34.779107
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ReigNNPlatform",
+  "linkedinNum": 11813821
 }

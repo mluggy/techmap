@@ -1,10 +1,10 @@
 {
-  "name": "Deafinitely Communication",
-  "description": "A nonprofit organization dedicated to supporting Deaf, hard-of-hearing, deaf-blind, deaf-disabled, and hearing youth from diverse linguistic backgrounds.",
-  "categoryId": 12,
+  "name": "Deafinitely",
+  "description": "Sign Language Translation App",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/deafinitely_communication-logo.webp",
-  "websiteUrl": "https://www.deafinitelyinc.com/",
+  "websiteUrl": "https://deafinitely.co.il/#scroll-navigation-section9",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.272729,
       "lon": 34.8364357
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Deafinitelyapp",
+  "linkedinNum": 79013758
 }

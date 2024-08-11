@@ -10,7 +10,7 @@
   "linkedinId": "beach-bum-ltd",
   "crunchbaseId": null,
   "finderId": "beach-bum",
-  "xId": null,
+  "xId": "BeachBumLOB",
   "addresses": [
     {
       "street": "התדהר",
@@ -19,5 +19,7 @@
       "lat": 32.19630935,
       "lon": 34.88423473965118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10455226
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tonara",
-  "xId": null,
+  "xId": "tonara_app",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +19,8 @@
       "lat": 32.069629,
       "lon": 34.784178
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TonaraMusic",
+  "linkedinNum": 2436537
 }

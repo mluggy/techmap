@@ -1,5 +1,5 @@
 {
-  "name": "Biofoaming",
+  "name": "BioFoaming",
   "description": "Converting wastewater into construction materials using mobile technology.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.830208,
       "lon": 35.77083
     }
-  ]
+  ],
+  "isMultinational": false
 }

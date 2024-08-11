@@ -1,5 +1,5 @@
 {
-  "name": "Diversion Israel",
+  "name": "Diversion",
   "description": "Solution for managing code effectively.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "diversion-company-inc",
   "crunchbaseId": null,
   "finderId": "diversion",
-  "xId": null,
+  "xId": "diversion_hq",
   "addresses": [
     {
       "street": "מגידו",
@@ -19,5 +19,7 @@
       "lat": 32.080542,
       "lon": 34.778275
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79021186
 }

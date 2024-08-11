@@ -10,7 +10,7 @@
   "linkedinId": "kahun",
   "crunchbaseId": null,
   "finderId": "kahun-medical",
-  "xId": null,
+  "xId": "KahunMedical",
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +19,8 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Kahun.Med",
+  "linkedinNum": 35459526
 }

@@ -1,10 +1,10 @@
 {
   "name": "Compost Or",
-  "description": "Facilities for Recycling Organic Waste.",
+  "description": "Organic Waste Recycling Facilities",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/compost_or-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.compostor.co.il/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Compost-Or-Ltd-1531293860495664",
+  "linkedinNum": 12590765
 }

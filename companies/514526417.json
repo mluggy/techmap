@@ -1,5 +1,5 @@
 {
-  "name": "Insuranks",
+  "name": "Insuranks.com",
   "description": "They provide independent insurance comparison and educational content, supported by advertiser partnerships.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "insuranks",
   "finderId": "insuranks",
-  "xId": null,
+  "xId": "insuranks2",
   "addresses": [
     {
       "street": "יהודה הלוי",
@@ -19,5 +19,8 @@
       "lat": 31.8857453,
       "lon": 34.812791
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Insuranks",
+  "linkedinNum": 9444828
 }

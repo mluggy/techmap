@@ -1,16 +1,16 @@
 {
-  "name": "Intsite",
-  "description": "Automating heavy machinery using AI technology.",
-  "categoryId": 15,
+  "name": "INTSITE",
+  "description": "AI-powered Automation for Heavy Machinery",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/intsite-logo.webp",
-  "websiteUrl": "https://intsite-ai.com/",
+  "websiteUrl": "https://www.intsite.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "intsite",
   "crunchbaseId": "intsite",
   "finderId": "intsite",
-  "xId": null,
+  "xId": "IntsiteAI",
   "addresses": [
     {
       "street": "חלמיש",
@@ -19,5 +19,7 @@
       "lat": 32.773480649999996,
       "lon": 35.00862094232633
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17918618
 }

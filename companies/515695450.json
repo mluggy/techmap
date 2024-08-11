@@ -1,16 +1,16 @@
 {
   "name": "Sensorz",
-  "description": "Leading design engineers offer integrated sensing, processing, and connectivity solutions at North America's premier electronics event.",
-  "categoryId": 13,
+  "description": "Wireless Observability Platform (WOP) for Private 5G/LTE Networks",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/sensorz_ltd-logo.webp",
-  "websiteUrl": "https://www.sensorsconverge.com/",
+  "websiteUrl": "https://www.sensorz.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sensorz",
   "crunchbaseId": null,
   "finderId": "sensorz",
-  "xId": null,
+  "xId": "Sensorzio",
   "addresses": [
     {
       "street": "חיסין",
@@ -19,5 +19,8 @@
       "lat": 32.07423,
       "lon": 34.776756
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "people",
+  "linkedinNum": 80068994
 }

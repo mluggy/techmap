@@ -1,5 +1,5 @@
 {
-  "name": "Atmoscell",
+  "name": "ATMOSCELL",
   "description": "Specializing in weather software, they leverage technology and IoT data to create tailored forecasting solutions.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "atmoscell-labs",
   "crunchbaseId": null,
   "finderId": "atmoscell",
-  "xId": null,
+  "xId": "AtmosCell",
   "addresses": [
     {
       "street": "אילנות",
@@ -19,5 +19,8 @@
       "lat": 32.0684901,
       "lon": 34.8807918
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AtmosCell-109006967364678",
+  "linkedinNum": 42113025
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Dayzee Life",
-  "description": "A service that provides event organizers with tools for managing ticket sales.",
-  "categoryId": 9,
+  "name": "Dayzee",
+  "description": "Ticketing Service for Event Organizers",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/dayzee_life-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.dayzee.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "timenote",
-  "xId": null,
+  "xId": "gotimenote",
   "addresses": [
     {
       "street": "אילת",
@@ -19,5 +19,8 @@
       "lat": 32.0597437,
       "lon": 34.76674105273763
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "timenote.apps",
+  "linkedinNum": 10175409
 }

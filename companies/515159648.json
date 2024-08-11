@@ -1,5 +1,5 @@
 {
-  "name": "Yoobic R D Dev",
+  "name": "YOOBIC",
   "description": "A comprehensive platform enhancing communication, development, operations, and HR for frontline teams.",
   "categoryId": 14,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "yoobic",
   "crunchbaseId": null,
   "finderId": "yoobic",
-  "xId": null,
+  "xId": "yoobic",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,7 @@
       "lat": 32.1617757,
       "lon": 34.8081374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5143366
 }

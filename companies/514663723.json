@@ -1,5 +1,5 @@
 {
-  "name": "Appdome",
+  "name": "AppDome",
   "description": "A unique in-app attack intelligence framework, providing mobile brands with seamless, branded responses to various security threats on Android and iOS apps.",
   "categoryId": 7,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.appdome.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "appdome",
   "crunchbaseId": null,
   "finderId": "appdome",
-  "xId": null,
+  "xId": "appdome",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.0705297,
       "lon": 34.7872761
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AppDome",
+  "linkedinNum": 3112006
 }

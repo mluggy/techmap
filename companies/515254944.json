@@ -1,5 +1,5 @@
 {
-  "name": "Recipharm Israel",
+  "name": "Recipharm",
   "description": "A leading global CDMO that assists clients from early-stage development through to commercial manufacturing.",
   "categoryId": 12,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "recipharm",
   "crunchbaseId": null,
   "finderId": "recipharm",
-  "xId": null,
+  "xId": "recipharmab",
   "addresses": [
     {
       "street": "נחל שניר",
@@ -19,5 +19,8 @@
       "lat": 31.8991597,
       "lon": 34.7387194
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "recipharm",
+  "linkedinNum": 52937
 }

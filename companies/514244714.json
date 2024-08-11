@@ -1,5 +1,5 @@
 {
-  "name": "Similarweb",
+  "name": "SimilarWeb",
   "description": "The Similarweb TrafficMeter™ browser extension provides seamless access to objective web traffic data and insights, supported by over a decade of investment in their industry-leading DigitalRank™, trusted by major tech leaders.",
   "categoryId": 14,
   "size": "l",
@@ -19,5 +19,9 @@
       "lat": 32.07195720301997,
       "lon": 34.789002046060276
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SimilarWeb",
+  "linkedinNum": 429838,
+  "greenhouseId": "similarweb"
 }

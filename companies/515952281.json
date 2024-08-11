@@ -1,10 +1,10 @@
 {
-  "name": "Fugu Japan",
-  "description": "Offering a diverse range of beautifully designed note cards for any occasion.",
-  "categoryId": 9,
+  "name": "FUGU",
+  "description": "Post-purchase Payment Tracking",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/fugu_japan-logo.webp",
-  "websiteUrl": "https://www.fugufugupress.com/",
+  "websiteUrl": "https://fugu-it.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.065339,
       "lon": 34.767599
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 53142630
 }

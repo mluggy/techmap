@@ -1,5 +1,5 @@
 {
-  "name": "Akamai Technologies Israel",
+  "name": "Akamai Technologies",
   "description": "A globally distributed edge and cloud platform enhancing user experiences while maintaining security.",
   "categoryId": 6,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "akamai-technologies",
   "crunchbaseId": null,
   "finderId": "akamai-technologies",
-  "xId": null,
+  "xId": "akamai",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,8 @@
       "lat": 32.073003,
       "lon": 34.796789
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "akamaiisrael",
+  "linkedinNum": 3925
 }

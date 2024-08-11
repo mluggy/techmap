@@ -1,10 +1,10 @@
 {
-  "name": "Multikol B T",
-  "description": "Voice-activated security solutions using behavioral biometrics.",
+  "name": "MultiKol B.T",
+  "description": "Voice-based Behavioral Biometric Authentication Solutions",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/multikol_b_t-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.multikol.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "multikol",
@@ -19,5 +19,7 @@
       "lat": 32.8167554,
       "lon": 35.0000812
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 20498252
 }

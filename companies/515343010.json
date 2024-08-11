@@ -1,10 +1,10 @@
 {
-  "name": "Q 2 Pharma",
-  "description": "Combining cutting-edge science, collaborative partnerships, and innovative solutions, we tackle previously unsolvable problems in global clinical trial laboratory services.",
+  "name": "Q2Pharma",
+  "description": "Prevention of Multidrug-resistant Bacterial Infections",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/q_2_pharma-logo.webp",
-  "websiteUrl": "https://www.q2labsolutions.com/",
+  "websiteUrl": "https://www.q2pharma.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.7687293,
       "lon": 35.0028871
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Q2Pharma",
+  "linkedinNum": 33257948
 }

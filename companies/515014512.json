@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "assembrix",
-  "xId": null,
+  "xId": "assembrix",
   "addresses": [
     {
       "street": "דגל ראובן",
@@ -19,5 +19,7 @@
       "lat": 32.0820487,
       "lon": 34.875189742619355
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10112841
 }

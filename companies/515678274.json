@@ -1,5 +1,5 @@
 {
-  "name": "Grow Director",
+  "name": "GrowDirector",
   "description": "This app provides detailed control and analytics for managing all aspects of your growing operations, including lighting, sensors, and irrigation.",
   "categoryId": 13,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 31.9667928,
       "lon": 34.7994334
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GrowDirector-104727587572529",
+  "linkedinNum": 27101616
 }

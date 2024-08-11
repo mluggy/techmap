@@ -1,5 +1,5 @@
 {
-  "name": "Outbrain Israel",
+  "name": "Outbrain",
   "description": "They leverage AI to link businesses with attentive audiences, enhancing marketing and publishing outcomes.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "outbrain",
   "crunchbaseId": null,
   "finderId": "outbrain",
-  "xId": null,
+  "xId": "Outbrain",
   "addresses": [
     {
       "street": "רגב אריה",
@@ -19,5 +19,8 @@
       "lat": 32.281578,
       "lon": 34.863126
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Outbrain",
+  "linkedinNum": 147120
 }

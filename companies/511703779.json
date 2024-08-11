@@ -1,5 +1,5 @@
 {
-  "name": "Rad Biomed Accelerator",
+  "name": "RAD",
   "description": "They offer data communication and telecom access solutions for service providers and critical infrastructure networks, specializing in Carrier Ethernet access.",
   "categoryId": 18,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.rad.com/",
   "careersUrl": "https://radtech.ca/en/job/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "rad-data-communications",
   "crunchbaseId": null,
   "finderId": "rad-technologies",
-  "xId": null,
+  "xId": "raddatacomms",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.111205,
       "lon": 34.8388694
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RAD.Data.Communications",
+  "linkedinNum": 7369
 }

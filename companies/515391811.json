@@ -1,5 +1,5 @@
 {
-  "name": "Bigid",
+  "name": "BigID",
   "description": "Effortlessly identify, classify, and manage critical data across hybrid environments to enhance security, compliance, and privacy at petabyte scale.",
   "categoryId": 7,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://bigid.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bigid",
   "crunchbaseId": null,
   "finderId": "bigid",
-  "xId": null,
+  "xId": "bigidsecure",
   "addresses": [
     {
       "street": "מקוה ישראל",
@@ -19,5 +19,8 @@
       "lat": 32.062818,
       "lon": 34.776052
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bigidsecure",
+  "linkedinNum": 7594728
 }

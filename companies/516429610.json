@@ -1,16 +1,16 @@
 {
-  "name": "Openspec Software Labs",
-  "description": "Options for Gathering Website Data.",
-  "categoryId": 1,
+  "name": "OpenSpec",
+  "description": "Website Data Collection Preferences",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/openspec_software_labs-logo.webp",
-  "websiteUrl": "https://www.openspecimen.org/",
+  "websiteUrl": "https://about.openspec.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "openspec-io",
   "crunchbaseId": null,
   "finderId": "openspec",
-  "xId": null,
+  "xId": "openspecio",
   "addresses": [
     {
       "street": "אחד העם",
@@ -19,5 +19,8 @@
       "lat": 32.06378,
       "lon": 34.769659
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "openspec.io",
+  "linkedinNum": 79418518
 }

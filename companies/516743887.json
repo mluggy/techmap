@@ -1,5 +1,5 @@
 {
-  "name": "Eat Id",
+  "name": "EAT ID",
   "description": "Harnessing precise consumer food preference data, this company streamlines menu planning to reduce waste and boost customer satisfaction in commercial kitchens.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.100101,
       "lon": 34.783343
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90906284
 }

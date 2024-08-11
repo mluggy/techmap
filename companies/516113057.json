@@ -1,5 +1,5 @@
 {
-  "name": "Deepdub",
+  "name": "deepdub",
   "description": "A virtual AI studio enabling seamless, collaborative dubbing and voice-over creation for production teams.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "deepdub-ai",
   "crunchbaseId": null,
   "finderId": "deepdub",
-  "xId": null,
+  "xId": "deepdub_ai",
   "addresses": [
     {
       "street": "החשמונאים",
@@ -19,5 +19,8 @@
       "lat": 32.069753,
       "lon": 34.7830543
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "deepdub.ai.company",
+  "linkedinNum": 37251475
 }

@@ -4,7 +4,7 @@
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/spectralics-logo.webp",
-  "websiteUrl": "http://spectralics.com/",
+  "websiteUrl": "https://spectralics.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "spectralics",
@@ -19,5 +19,7 @@
       "lat": 32.061248,
       "lon": 34.783449
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72695135
 }

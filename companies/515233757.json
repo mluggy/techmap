@@ -1,5 +1,5 @@
 {
-  "name": "Secupi",
+  "name": "SecuPi",
   "description": "A robust Data Security Platform offering granular access control, activity monitoring, and data de-identification across diverse applications and environments.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "secupi",
-  "xId": null,
+  "xId": "Secu_Pi",
   "addresses": [
     {
       "street": "רקפת",
@@ -19,5 +19,8 @@
       "lat": 32.0956997,
       "lon": 34.8145188
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "secupi",
+  "linkedinNum": 6361829
 }

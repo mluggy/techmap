@@ -1,5 +1,5 @@
 {
-  "name": "Backbox Software",
+  "name": "BackBox",
   "description": "Their platform streamlines and secures network configuration management for teams.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "backbox",
-  "xId": null,
+  "xId": "Back_Box",
   "addresses": [
     {
       "street": "עמל",
@@ -19,5 +19,8 @@
       "lat": 32.1011543,
       "lon": 34.9196002
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BackBoxSoftware",
+  "linkedinNum": 2008462
 }

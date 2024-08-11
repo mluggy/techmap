@@ -1,10 +1,10 @@
 {
-  "name": "Phenofast",
-  "description": "PhenofAST delivers a cost-effective, physics-based technology that performs antibiotic susceptibility tests within four hours, applicable to a wide array of conditions.",
-  "categoryId": 12,
+  "name": "phenofAST",
+  "description": "phenofAST solution provides AST ( antibiotic susceptibility test) in 4 hours, for a wide range of indications, in a cost effective way, using a physics based technology analyzer.",
   "size": "xs",
+  "categoryId": 12,
   "logoFile": "logos/phenofast-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://phenofast.web2info.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "phenofast",
@@ -19,5 +19,6 @@
       "lat": 32.78785285,
       "lon": 34.96565267465318
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "365 Scores",
+  "name": "365Scores",
   "description": "Providing real-time sports scores, news, and updates to over 100 million global fans across major football leagues since 2012.",
   "categoryId": 8,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.365scores.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "365scores",
   "crunchbaseId": null,
   "finderId": "365scores",
-  "xId": null,
+  "xId": "365Scores",
   "addresses": [
     {
       "street": "נחלת יצחק",
@@ -19,5 +19,9 @@
       "lat": 32.07514,
       "lon": 34.796031
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "365Scores.Israel",
+  "linkedinNum": 2375321,
+  "comeetId": "365scores/B3.006"
 }

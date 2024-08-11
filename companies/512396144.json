@@ -1,5 +1,5 @@
 {
-  "name": "Cisco Systems Israel",
+  "name": "Cisco Systems",
   "description": "A global leader in technology driving an inclusive future through advanced software, networking, and security solutions.",
   "categoryId": 18,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "cisco",
   "crunchbaseId": null,
   "finderId": "cisco-systems",
-  "xId": null,
+  "xId": "Cisco",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.2846342,
       "lon": 34.8605173
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Cisco",
+  "linkedinNum": 1063
 }

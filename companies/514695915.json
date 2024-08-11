@@ -1,5 +1,5 @@
 {
-  "name": "Vayyar Imaging",
+  "name": "Vayyar",
   "description": "Providing real-time intelligence for access control, emergency response, and building optimization.",
   "categoryId": 13,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://vayyar.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vayyar",
   "crunchbaseId": null,
   "finderId": "vayyar",
-  "xId": null,
+  "xId": "VayyarInc",
   "addresses": [
     {
       "street": "שבזי",
@@ -19,5 +19,8 @@
       "lat": 32.0268448,
       "lon": 34.8936273
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VayyarLTD",
+  "linkedinNum": 5094711
 }

@@ -1,10 +1,10 @@
 {
   "name": "AC/DC_net",
-  "description": "Security solutions on the client side.",
+  "description": "Client-side Security",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/masterkey_digital-logo.webp",
-  "websiteUrl": "https://www.cyber-less.com/",
+  "websiteUrl": "https://masterkey-digital.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1937023,
       "lon": 34.8496561
     }
-  ]
+  ],
+  "isMultinational": false
 }

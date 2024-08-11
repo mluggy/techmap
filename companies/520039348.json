@@ -1,10 +1,10 @@
 {
   "name": "Together Pharma",
-  "description": "Medical Marijuana.",
+  "description": "Medical Cannabis",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/together_pharma-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://together-pharma.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "together-pharma",
@@ -19,5 +19,8 @@
       "lat": 31.620708096789013,
       "lon": 34.57644275117527
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Together-pharma-569559313506431",
+  "linkedinNum": 76087834
 }

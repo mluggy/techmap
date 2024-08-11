@@ -1,16 +1,16 @@
 {
-  "name": "Easysend",
-  "description": "ספק שירותי שיווק, דיוור אלקטרוני ומערכות מורכבות עם למעלה מ-15 שנות ניסיון.",
+  "name": "EasySend",
+  "description": "Platform for Creating and Optimizing Digital Customer Journeys",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/easysend-logo.webp",
-  "websiteUrl": "https://www.easysend.co.il/",
+  "websiteUrl": "https://easysend.io",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "easysend",
   "crunchbaseId": null,
   "finderId": "easysend",
-  "xId": null,
+  "xId": "easy_send",
   "addresses": [
     {
       "street": "קארו יוסף",
@@ -19,5 +19,8 @@
       "lat": 32.0705553,
       "lon": 34.7911589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EasySendSolutions",
+  "linkedinNum": 10195377
 }

@@ -1,10 +1,10 @@
 {
   "name": "Neolithics",
-  "description": "Fresh Produce Quality Assurance Services.",
-  "categoryId": 12,
+  "description": "Quality Control Solution for Fresh Produce",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/neolithics-logo.webp",
-  "websiteUrl": "https://www.neolithics.com/",
+  "websiteUrl": "https://www.neolithics.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "neolithics-ai",
@@ -19,5 +19,7 @@
       "lat": 32.0777377,
       "lon": 34.9235073
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 65422777
 }

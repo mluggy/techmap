@@ -1,5 +1,5 @@
 {
-  "name": "Sundaysky",
+  "name": "SundaySky",
   "description": "Innovative video creation platform reducing time and cost by nearly 90% while boosting personalized engagement for top brands and growing businesses.",
   "categoryId": 8,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sundaysky",
-  "xId": null,
+  "xId": "sundaysky",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.108224,
       "lon": 34.838086
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SundaySkyVideo",
+  "linkedinNum": 96089
 }

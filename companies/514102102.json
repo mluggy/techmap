@@ -1,5 +1,5 @@
 {
-  "name": "Formatk Systems",
+  "name": "FormaTK",
   "description": "An Israeli-based company dedicated to providing affordable, cutting-edge technology solutions.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "forma-tk",
-  "xId": null,
+  "xId": "formatk",
   "addresses": [
     {
       "street": "יוזמה",
@@ -19,5 +19,8 @@
       "lat": 32.7721677,
       "lon": 34.9656441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FormatkSystems",
+  "linkedinNum": 9178943
 }

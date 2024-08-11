@@ -1,16 +1,16 @@
 {
-  "name": "Breez Development",
-  "description": "Providing high-potency THC, CBD, and CBN-infused cannabis tablets, mints, and tinctures, available for order in California.",
-  "categoryId": 9,
+  "name": "Breez",
+  "description": "Peer-to-peer Payments",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/breez_development-logo.webp",
-  "websiteUrl": "https://findbreez.com/",
+  "websiteUrl": "https://breez.technology/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "breez",
-  "xId": null,
+  "xId": "breez_tech",
   "addresses": [
     {
       "street": "משמר הירדן",
@@ -19,5 +19,7 @@
       "lat": 32.114282,
       "lon": 34.832681
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11465258
 }

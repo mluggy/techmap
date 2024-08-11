@@ -1,5 +1,5 @@
 {
-  "name": "Swyft Aeronautical Technology",
+  "name": "SWYFT Aeronautical Technology",
   "description": "Transforming drone operation safety through advanced cockpit control, enabling regulatory relaxation and unlocking new market potential.",
   "categoryId": 3,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "swyft-aeronautical-technology-ltd",
   "crunchbaseId": null,
   "finderId": "swyft-aeronautical-technology",
-  "xId": null,
+  "xId": "SWYFTaerotech",
   "addresses": [
     {
       "street": "בן גוריון",
@@ -19,5 +19,8 @@
       "lat": 32.1599577,
       "lon": 34.84127679925861
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SWYFTaerotech",
+  "linkedinNum": 28635272
 }

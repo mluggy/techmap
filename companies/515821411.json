@@ -1,10 +1,10 @@
 {
-  "name": "Sbn Signature Biometrics",
-  "description": "Mobile Financial Services with Handwritten Signature Integration.",
-  "categoryId": 10,
+  "name": "SBN Signature Biometrics",
+  "description": "Handwritten Signature Solutions for Mobile Financial Processes",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/sbn_signature_biometrics-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.sig-n-buy.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.0329085,
       "lon": 34.8587535
     }
-  ]
+  ],
+  "isMultinational": false
 }

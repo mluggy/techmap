@@ -1,23 +1,25 @@
 {
-  "name": "Soltrex Automation",
-  "description": "Automation for Maximum Performing Solar Plants. Soltrex, a multi-row robotic platform covers your site daily. Maximize performance and minimize cost.",
-  "categoryId": 15,
+  "name": "Soltrex",
+  "description": "Autonomous Solar Panels Cleaning Robots",
+  "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/soltrex_automation-logo.webp",
+  "logoFile": "logos/soltrex.webp",
   "websiteUrl": "https://soltrex.webflow.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": "soltrex",
+  "linkedinNum": 80688926,
   "crunchbaseId": null,
-  "finderId": "soltrex-automation",
+  "finderId": "soltrex",
   "xId": null,
+  "facebookId": null,
   "addresses": [
     {
       "street": "השרון",
       "houseNumber": 14,
       "city": "יבנה",
-      "lat": 31.8824056,
-      "lon": 34.7300643
+      "lat": 31.882545836580324,
+      "lon": 34.729987753475505
     }
-  ]
+  ],
+  "isMultinational": false
 }

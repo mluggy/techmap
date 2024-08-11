@@ -1,10 +1,10 @@
 {
-  "name": "Roni Pal",
+  "name": "RoniPal",
   "description": "Revolutionizing cold-chain logistics with on-demand frozen gel packs to cut costs and streamline packaging.",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/roni_pal-logo.webp",
-  "websiteUrl": "http://www.ronipal.com/",
+  "websiteUrl": "https://www.ronipal.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.116343,
       "lon": 34.820443
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 2782766
 }

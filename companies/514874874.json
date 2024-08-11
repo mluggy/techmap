@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fundbox",
-  "xId": null,
+  "xId": "fundbox",
   "addresses": [
     {
       "street": "יהודה הלוי",
@@ -19,5 +19,8 @@
       "lat": 32.061625,
       "lon": 34.772982
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Fundbox",
+  "linkedinNum": 2933801
 }

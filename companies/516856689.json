@@ -1,0 +1,25 @@
+{
+  "name": "Samplead",
+  "description": "All-in-one Sales Engagement Optimization Solution",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/samplead.webp",
+  "websiteUrl": "https://www.samplead.co",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 69705747,
+  "crunchbaseId": null,
+  "finderId": "samplead",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "נחמני",
+      "houseNumber": null,
+      "city": "תל אביב - יפו",
+      "lat": 32.06548381099832,
+      "lon": 34.77693983398288
+    }
+  ],
+  "isMultinational": false
+}

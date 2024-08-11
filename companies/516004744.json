@@ -1,10 +1,10 @@
 {
-  "name": "Heroki",
-  "description": "A fully-managed platform enabling developers and businesses to efficiently deploy, manage, and scale apps from prototypes to critical products.",
-  "categoryId": 6,
+  "name": "HeroKi",
+  "description": "Wearable Protection for Post-transplant Kidney Recipients",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/heroki-logo.webp",
-  "websiteUrl": "https://www.heroku.com/",
+  "websiteUrl": "https://www.heroki.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0593936230639,
       "lon": 34.76847180383663
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HeroKi.co",
+  "linkedinNum": 13988181
 }

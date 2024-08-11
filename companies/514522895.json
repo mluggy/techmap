@@ -1,5 +1,5 @@
 {
-  "name": "Biocatch",
+  "name": "BioCatch",
   "description": "A synergistic suite of machine-learning, behavioral science, and visualization technologies, enhanced by extensive expert experience, offering 18 specialized fraud and AML solutions.",
   "categoryId": 7,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.biocatch.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "biocatch",
   "crunchbaseId": null,
   "finderId": "biocatch",
-  "xId": null,
+  "xId": "biocatch",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.0692922,
       "lon": 34.7877516
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "behvioral",
+  "linkedinNum": 2689103,
+  "comeetId": "biocatch/03.00E"
 }

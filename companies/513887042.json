@@ -1,5 +1,5 @@
 {
-  "name": "Valens Semiconductor",
+  "name": "Valens",
   "description": "Providing advanced connectivity solutions optimized for industrial automation and machine vision.",
   "categoryId": 16,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "valens",
-  "xId": null,
+  "xId": "ValensAuto",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,8 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ValensSemiconductor",
+  "linkedinNum": 109337
 }

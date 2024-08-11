@@ -10,7 +10,7 @@
   "linkedinId": "panorays",
   "crunchbaseId": null,
   "finderId": "panorays",
-  "xId": null,
+  "xId": "panorays",
   "addresses": [
     {
       "street": "בית עובד",
@@ -19,5 +19,8 @@
       "lat": 32.0641973,
       "lon": 34.7881157
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "panorays",
+  "linkedinNum": 18094287
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Ironsource",
+  "name": "ironSource",
   "description": "A leading creative management solution provider that enhances user acquisition and growth through data-driven insights and strategic partnership.",
   "categoryId": 2,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ironsource",
-  "xId": null,
+  "xId": "ironSource",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ironSource",
+  "linkedinNum": 2657359
 }

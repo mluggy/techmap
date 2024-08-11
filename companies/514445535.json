@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "feedbox",
-  "xId": null,
+  "xId": "feedboxcem",
   "addresses": [
     {
       "street": "כנרת",
@@ -19,5 +19,8 @@
       "lat": 32.094811034642056,
       "lon": 34.824258901531636
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Feedbox-CEM-211824062231162",
+  "linkedinNum": 2682627
 }

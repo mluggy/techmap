@@ -1,5 +1,5 @@
 {
-  "name": "Ubeya Technologies",
+  "name": "Ubeya",
   "description": "Leading software for workforce management, streamlining staff scheduling, onboarding, and payroll integration.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "ubeya",
   "finderId": "contacit",
-  "xId": null,
+  "xId": "Ubeya2",
   "addresses": [
     {
       "street": "קארו יוסף",
@@ -19,5 +19,8 @@
       "lat": 32.0705553,
       "lon": 34.7911589
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ubeya",
+  "linkedinNum": 5256906
 }

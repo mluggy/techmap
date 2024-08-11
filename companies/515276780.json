@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "noviopus1",
-  "xId": null,
+  "xId": "noviopus",
   "addresses": [
     {
       "street": "שיאון",
@@ -19,5 +19,8 @@
       "lat": 31.9812579,
       "lon": 34.7580667
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "noviopus",
+  "linkedinNum": 10156054
 }

@@ -10,7 +10,7 @@
   "linkedinId": "hudson-rock",
   "crunchbaseId": null,
   "finderId": "hudson-rock",
-  "xId": null,
+  "xId": "hrock",
   "addresses": [
     {
       "street": "וולמן יהודה",
@@ -19,5 +19,7 @@
       "lat": 32.114971365699695,
       "lon": 34.82694960526185
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 42905363
 }

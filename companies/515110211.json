@@ -10,7 +10,7 @@
   "linkedinId": "paygilant",
   "crunchbaseId": null,
   "finderId": "offla",
-  "xId": null,
+  "xId": "paygilant",
   "addresses": [
     {
       "street": "אבא הילל סילבר",
@@ -19,5 +19,7 @@
       "lat": 32.08478204139266,
       "lon": 34.8030359338795
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10941820
 }

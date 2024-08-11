@@ -1,16 +1,16 @@
 {
-  "name": "Inx",
-  "description": "Creating the ultimate ARK PvP experience with custom map changes, nerfed dinos, and enhanced gameplay mods.",
-  "categoryId": 11,
+  "name": "INX",
+  "description": "Blockchain Trading Platform",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/inx-logo.webp",
-  "websiteUrl": "https://inxserv.eu/",
+  "websiteUrl": "https://www.inx.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "inx",
-  "xId": null,
+  "xId": "INX_Group",
   "addresses": [
     {
       "street": "דרך הגנים",
@@ -19,5 +19,8 @@
       "lat": 32.1827587,
       "lon": 34.8192598
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "INXLtd",
+  "linkedinNum": 18438547
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Straterix Risk Management Technologies",
+  "name": "Straterix",
   "description": "Pioneering advanced scenario generation and optimization for strategic business planning and financial stress testing.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "straterix-inc.",
   "crunchbaseId": "straterix-risk-management-technologies-ltd",
   "finderId": "straterix",
-  "xId": null,
+  "xId": "straterix",
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -19,5 +19,7 @@
       "lat": 32.0862661,
       "lon": 34.800174909775976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17995768
 }

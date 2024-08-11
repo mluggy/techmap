@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.lemonade.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lemonade-inc-",
   "crunchbaseId": null,
   "finderId": "lemonade",
-  "xId": null,
+  "xId": "Lemonade_Inc",
   "addresses": [
     {
       "street": "דובנוב",
@@ -19,5 +19,8 @@
       "lat": 32.075065,
       "lon": 34.783164
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lemonadeinc",
+  "linkedinNum": 1201453
 }

@@ -1,10 +1,10 @@
 {
   "name": "Fusion Laser",
-  "description": "Creating dental crowns and bridges using 3D printing technology.",
+  "description": "3D Printing for Dental Crowns and Bridges",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/fusion_laser-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.fusion-laser.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.09689055,
       "lon": 34.8273955
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 2904283
 }

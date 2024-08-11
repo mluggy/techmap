@@ -1,10 +1,10 @@
 {
   "name": "Neragon Networks",
-  "description": "Providing mobile operators with innovative, flexible, and cost-effective wireless backhaul and fronthaul solutions for broadband service delivery.",
-  "categoryId": 18,
+  "description": "Compact Wireless Communication Devices",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ceragon_networks-logo.webp",
-  "websiteUrl": "https://www.ceragon.com/",
+  "websiteUrl": "https://www.neragon.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ceragon-networks",
@@ -19,5 +19,7 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68911440
 }

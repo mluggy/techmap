@@ -1,10 +1,10 @@
 {
-  "name": "Ariel Photonics Assembly",
-  "description": "Military-Grade Laser Technologies.",
+  "name": "ARIEL Photonics Assembly",
+  "description": "Laser Solutions for Defense",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/ariel_photonics_assembly-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.arielphotonicsinc.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ariel-photonics-assembly-ltd",
@@ -19,5 +19,7 @@
       "lat": 31.9173085,
       "lon": 34.9656521
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 35435975
 }

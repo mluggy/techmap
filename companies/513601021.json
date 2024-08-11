@@ -1,16 +1,16 @@
 {
-  "name": "Brainstorm Cell Therapeutics",
-  "description": "We leverage technology to empower individuals and drive organizational transformation for increased software adoption and positive change.",
+  "name": "BrainStorm",
+  "description": "Autologous Stem Cell Therapeutics for Neurodegenerative Disorders",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/brainstorm_cell_therapeutics-logo.webp",
-  "websiteUrl": "https://www.brainstorminc.com/",
+  "websiteUrl": "https://www.brainstorm-cell.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "brainstorm",
-  "xId": null,
+  "xId": "BrainStormCell",
   "addresses": [
     {
       "street": "בזל",
@@ -19,5 +19,8 @@
       "lat": 32.1004636,
       "lon": 34.8677361
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BrainStormCell",
+  "linkedinNum": 2665125
 }

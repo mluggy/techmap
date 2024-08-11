@@ -1,5 +1,5 @@
 {
-  "name": "Digital Turbine Il",
+  "name": "Digital Turbine",
   "description": "Providing an all-in-one solution for mobile advertising, user acquisition growth, and monetization.",
   "categoryId": 2,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "digital-turbine",
   "crunchbaseId": null,
   "finderId": "digital-turbine",
-  "xId": null,
+  "xId": "digitalturbine",
   "addresses": [
     {
       "street": "הפסגות",
@@ -19,5 +19,9 @@
       "lat": 32.0990037,
       "lon": 34.8552419
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "DigitalTurbineInc",
+  "linkedinNum": 611576,
+  "leverId": "digitalturbine"
 }

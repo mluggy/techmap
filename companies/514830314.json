@@ -1,5 +1,5 @@
 {
-  "name": "Mobileodt",
+  "name": "MobileODT",
   "description": "Offering an AI-powered, all-in-one visual inspection and treatment program for cervical cancer that aligns with WHO directives for elimination efforts.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mobileodt",
-  "xId": null,
+  "xId": "mobileodt",
   "addresses": [
     {
       "street": "בן אביגדור",
@@ -19,5 +19,8 @@
       "lat": 32.067242,
       "lon": 34.788291
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MobileODT",
+  "linkedinNum": 2817437
 }

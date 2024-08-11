@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nuance-hearing",
-  "xId": null,
+  "xId": "NuanceHearing",
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +19,8 @@
       "lat": 32.111205,
       "lon": 34.8388694
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NuanceHearing",
+  "linkedinNum": 18059676
 }

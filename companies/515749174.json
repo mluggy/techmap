@@ -1,10 +1,10 @@
 {
   "name": "Magical Snoreless",
-  "description": "Gadget designed to alleviate snoring and sleep apnea.",
+  "description": "Device for Treating Snoring and Sleep Apnea",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/magical_snoreless-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.magicalsnoreless.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.503280950000004,
       "lon": 35.048630971712285
     }
-  ]
+  ],
+  "isMultinational": false
 }

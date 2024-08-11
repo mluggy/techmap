@@ -1,5 +1,5 @@
 {
-  "name": "My Or Diagnostics",
+  "name": "MyOr Diagnostics",
   "description": "Providing scientifically-backed, personalized nutritional advice and allergen-conscious food guidance for your baby's unique health needs.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.5627273,
       "lon": 34.9413038986053
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MyOrDiagnostics"
 }

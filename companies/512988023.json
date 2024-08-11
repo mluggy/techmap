@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "urban-aeronautics",
-  "xId": null,
+  "xId": "realurbanaero",
   "addresses": [
     {
       "street": "נחל שניר",
@@ -19,5 +19,8 @@
       "lat": 31.8993354,
       "lon": 34.7385308
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RealUrbanAero",
+  "linkedinNum": 2101704
 }

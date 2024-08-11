@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tadbik",
-  "xId": null,
+  "xId": "tadbik",
   "addresses": [
     {
       "street": "בלטימור",
@@ -19,5 +19,8 @@
       "lat": 32.0963685,
       "lon": 34.8659345
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Tadbik1",
+  "linkedinNum": 148338
 }

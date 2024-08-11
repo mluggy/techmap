@@ -1,5 +1,5 @@
 {
-  "name": "Revenue Stream",
+  "name": "RevenueStream",
   "description": "A unified platform streamlining predictive fraud modeling and improving detection rates by automating model development processes for fraud experts and data science teams.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "revenuestream",
-  "xId": null,
+  "xId": "revnu_stream",
   "addresses": [
     {
       "street": "תרפ\"ב",
@@ -19,5 +19,7 @@
       "lat": 32.0796822,
       "lon": 34.8027192
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2755839
 }

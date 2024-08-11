@@ -1,16 +1,16 @@
 {
-  "name": "Moovit Pango Public Transport Payments",
-  "description": "Providing comprehensive public transit navigation with maps, schedules, and real-time arrivals.",
-  "categoryId": 9,
+  "name": "Moovit",
+  "description": "Live Transport App with Maps",
+  "categoryId": 5,
   "size": "l",
   "logoFile": "logos/moovit_pango_public_transport_payments-logo.webp",
-  "websiteUrl": "https://m.moovitapp.com/",
+  "websiteUrl": "https://moovit.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "moovit",
   "crunchbaseId": null,
   "finderId": "moovit",
-  "xId": null,
+  "xId": "moovit",
   "addresses": [
     {
       "street": "שחם",
@@ -19,5 +19,8 @@
       "lat": 32.083855,
       "lon": 34.8584889
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "moovit",
+  "linkedinNum": 2765592
 }

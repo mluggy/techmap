@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.finaloop.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "finaloop",
   "crunchbaseId": null,
   "finderId": "finaloop",
-  "xId": null,
+  "xId": "Finaloop1",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "FinaloopTeam",
+  "linkedinNum": 37898614
 }

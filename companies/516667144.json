@@ -1,5 +1,5 @@
 {
-  "name": "Fairmatic Services Israel",
+  "name": "Fairmatic",
   "description": "Leveraging data and AI, this company offers an innovative insurance solution that incentivizes fleet safety and enhances control.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "fairmatic",
   "crunchbaseId": "fairmatic",
   "finderId": "fairmatic",
-  "xId": null,
+  "xId": "fairmatic",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0861273,
       "lon": 34.8054589
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "fairmatic",
+  "linkedinNum": 19095924
 }

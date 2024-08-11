@@ -1,5 +1,5 @@
 {
-  "name": "Navin Services And Consulting",
+  "name": "Navin",
   "description": "Utilize patented technology to transform smartphones into real-time navigation and mapping devices for both indoor and outdoor locations.",
   "categoryId": 13,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "navin",
-  "xId": null,
+  "xId": "navin_app",
   "addresses": [
     {
       "street": "הכרמל",
@@ -19,5 +19,8 @@
       "lat": 31.930537535521644,
       "lon": 35.02304753258818
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "navinapp",
+  "linkedinNum": 3363155
 }

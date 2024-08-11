@@ -1,5 +1,5 @@
 {
-  "name": "Etribez Labs",
+  "name": "eTribez",
   "description": "They offer solutions for audience interaction, production management, and online voting tailored to broadcast and TV production companies.",
   "categoryId": 8,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "etribez",
   "crunchbaseId": "etribez",
   "finderId": "etribez",
-  "xId": null,
+  "xId": "etribez",
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -19,5 +19,8 @@
       "lat": 32.0862661,
       "lon": 34.800174909775976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "eTribez",
+  "linkedinNum": 2344123
 }

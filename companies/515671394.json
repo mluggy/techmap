@@ -1,5 +1,5 @@
 {
-  "name": "Heqa Security",
+  "name": "HEQA Security",
   "description": "Providing global customers with cost-effective, secure QKD solutions featuring seamless integration and industry-first combined QKD components.",
   "categoryId": 7,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "heqa-sec",
   "crunchbaseId": null,
   "finderId": "heqa-security",
-  "xId": null,
+  "xId": "heqasec",
   "addresses": [
     {
       "street": "המעיין",
@@ -19,5 +19,7 @@
       "lat": 31.922288,
       "lon": 34.9688892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18957097
 }

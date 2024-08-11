@@ -1,5 +1,5 @@
 {
-  "name": "Seatlabs",
+  "name": "SeatPick",
   "description": "An industry-leading ticket search engine offering the best deals on resale tickets for sports and music from trusted sites.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "seatlabs",
-  "xId": null,
+  "xId": "seatpick",
   "addresses": [
     {
       "street": "החרוב",
@@ -19,5 +19,8 @@
       "lat": 32.7028267,
       "lon": 35.2226203
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SeatPick",
+  "linkedinNum": 11750862
 }

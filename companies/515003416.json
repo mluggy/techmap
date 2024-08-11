@@ -1,10 +1,10 @@
 {
-  "name": "Milkit Israel",
-  "description": "Offering innovative solutions for simplified tubeless tire installation and sealant management.",
-  "categoryId": 5,
+  "name": "Milkit",
+  "description": "Milk Dispensing System for Restaurants",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/milkit_israel-logo.webp",
-  "websiteUrl": "https://milkit.bike/",
+  "websiteUrl": "https://www.milkit.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0782941,
       "lon": 34.7886936
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "milkitmilkontap",
+  "linkedinNum": 27244947
 }

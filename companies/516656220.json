@@ -1,5 +1,5 @@
 {
-  "name": "Tocon Io",
+  "name": "Tocon.io",
   "description": "Instantly establish and manage multiple digital wallets efficiently with secure one-time account setup and connection.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "tocon-io",
   "crunchbaseId": null,
   "finderId": "tocon-io",
-  "xId": null,
+  "xId": "OfficialTocon",
   "addresses": [
     {
       "street": "גדולי ישראל",
@@ -19,5 +19,7 @@
       "lat": 31.978683750000002,
       "lon": 34.772434845089194
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 82999857
 }

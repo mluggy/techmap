@@ -1,10 +1,10 @@
 {
   "name": "Axiv Materials",
-  "description": "arXiv is a free distribution service and an open ... Stay up to date with what is happening at arXiv on our blog. ... Materials Science; Mesoscale and Nanoscale ...",
-  "categoryId": 16,
+  "description": "Sustainable Fibers from Protein Waste",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/axiv_materials-logo.webp",
-  "websiteUrl": "https://arxiv.org/",
+  "websiteUrl": "https://axivmaterials.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "axiv-materials",
@@ -19,5 +19,7 @@
       "lat": 32.7031836,
       "lon": 34.949221
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 96018242
 }

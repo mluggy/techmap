@@ -10,7 +10,7 @@
   "linkedinId": "upstream-security",
   "crunchbaseId": "upstream-security",
   "finderId": "upstream-security",
-  "xId": null,
+  "xId": "upstreamauto",
   "addresses": [
     {
       "street": "ספיר",
@@ -19,5 +19,9 @@
       "lat": 32.1635565,
       "lon": 34.811999
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "upstream.auto",
+  "linkedinNum": 17950408,
+  "comeetId": "upstream/E4.003"
 }

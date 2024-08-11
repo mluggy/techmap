@@ -1,5 +1,5 @@
 {
-  "name": "Payosu",
+  "name": "PAYOSU",
   "description": "A billing and payment platform tailored for freelancers.",
   "categoryId": 10,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "payosu",
   "crunchbaseId": null,
   "finderId": "vala",
-  "xId": null,
+  "xId": "payosu",
   "addresses": [
     {
       "street": "בורלא יהודה",
@@ -19,5 +19,8 @@
       "lat": 32.1916005,
       "lon": 34.8647952
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "payosu",
+  "linkedinNum": 10555661
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Paragon Creations",
+  "name": "Paragon",
   "description": "Providing data management, safety, and recovery solutions for individuals, businesses, IT professionals, and OEMs.",
   "categoryId": 7,
   "size": "l",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.paragon-software.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "paragon-cyber",
   "crunchbaseId": null,
   "finderId": "paragon",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 31.5197605,
       "lon": 34.5941625
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 37572495
 }

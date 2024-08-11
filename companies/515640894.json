@@ -1,5 +1,5 @@
 {
-  "name": "D S Raider",
+  "name": "DSRaider",
   "description": "This all-terrain vehicle with powerful 9,000W motors and rear-wheel drive is designed to conquer sand, mud, rocks, and snow, setting a new standard for off-road mobility.",
   "categoryId": 5,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EZRaiderofficial",
+  "linkedinNum": 68548314
 }

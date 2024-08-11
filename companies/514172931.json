@@ -1,5 +1,5 @@
 {
-  "name": "Endospan",
+  "name": "EndoSpan",
   "description": "A CE-marked, investigational stent graft system designed for the aortic arch, based on an advanced endovascular branch technology.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "endospan",
   "crunchbaseId": null,
   "finderId": "endospan",
-  "xId": null,
+  "xId": "EndospanLtd",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,8 @@
       "lat": 32.1671717,
       "lon": 34.811599
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EndospanLtd",
+  "linkedinNum": 17988904
 }

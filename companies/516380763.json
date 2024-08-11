@@ -1,5 +1,5 @@
 {
-  "name": "Libi Diagnostics",
+  "name": "LIBI-Diagnostics",
   "description": "Libi-Diagnostics offers early cancer detection with minimal cell samples, helping to avoid aggressive treatments.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.819776250000004,
       "lon": 34.9988252
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages"
 }

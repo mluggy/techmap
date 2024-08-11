@@ -1,5 +1,5 @@
 {
-  "name": "Netnut",
+  "name": "NetNut",
   "description": "Offering a vast global IP pool and personalized support, their residential proxy network excels in data collection.",
   "categoryId": 2,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://netnut.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "netnut",
   "crunchbaseId": null,
   "finderId": "netnut",
-  "xId": null,
+  "xId": "netnut_io",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070031,
       "lon": 34.786856
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "NetNut.io",
+  "linkedinNum": 18014572
 }

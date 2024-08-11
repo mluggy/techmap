@@ -1,5 +1,5 @@
 {
-  "name": "Motionize Israel",
+  "name": "Playermaker",
   "description": "Empower young soccer players with tools for tracking progress, gaining insights, and enhancing skills.",
   "categoryId": 11,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.playermaker.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "playermaker",
   "crunchbaseId": null,
   "finderId": "motionize",
-  "xId": null,
+  "xId": "playermakertech",
   "addresses": [
     {
       "street": "שד' יהודית",
@@ -19,5 +19,8 @@
       "lat": 32.069976,
       "lon": 34.792175
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Playermaker-101432772170839",
+  "linkedinNum": 12621685
 }

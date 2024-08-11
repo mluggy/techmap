@@ -1,5 +1,5 @@
 {
-  "name": "Skysaver Rescue",
+  "name": "SkySaver",
   "description": "An innovative leader in portable emergency evacuation kits, featuring a patented Controlled Descend Device (CDD).",
   "categoryId": 15,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "skysaver",
-  "xId": null,
+  "xId": "SkySaverUSA",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.0919976,
       "lon": 34.8257445
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SkySaverUSA?fref=ts",
+  "linkedinNum": 11805288
 }

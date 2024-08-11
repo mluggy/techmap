@@ -1,16 +1,16 @@
 {
-  "name": "Plus 500",
-  "description": "A platform for trading multiple types of assets.",
+  "name": "Plus500",
+  "description": "Multi-asset Trading Platform",
   "categoryId": 10,
   "size": "l",
   "logoFile": "logos/plus_500-logo.webp",
-  "websiteUrl": "https://us.plus500.com/",
+  "websiteUrl": "https://www.plus500.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "plus500-official-page",
   "crunchbaseId": null,
   "finderId": "plus500",
-  "xId": null,
+  "xId": "plus500",
   "addresses": [
     {
       "street": "מת\"ם",
@@ -19,5 +19,9 @@
       "lat": 32.78885186136649,
       "lon": 34.959076941226385
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Plus500",
+  "linkedinNum": 2834215,
+  "comeetId": "plus500/A1.00F"
 }

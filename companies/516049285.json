@@ -1,16 +1,16 @@
 {
-  "name": "Nagish Li",
-  "description": "This app provides fast, private, and free real-time captioning for phone calls, enabling communication via text or voice.",
-  "categoryId": 12,
+  "name": "Nagish",
+  "description": "Text and Speech Conversion",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/nagish_li-logo.webp",
-  "websiteUrl": "https://nagish.com/",
+  "websiteUrl": "https://www.talknagish.com/",
   "careersUrl": "https://nagish.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "nagish",
   "crunchbaseId": null,
   "finderId": "nagish",
-  "xId": null,
+  "xId": "nagish_inc",
   "addresses": [
     {
       "street": "גדעון האוזנר",
@@ -19,5 +19,8 @@
       "lat": 32.16133265,
       "lon": 34.82768565
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "nagish.inc",
+  "linkedinNum": 20513730
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Rioglass Solar Systems",
+  "name": "Rioglass",
   "description": "Rioglass is a leading global manufacturer specializing in high-performance glass solutions for the solar energy and telecommunications industries.",
-  "categoryId": 17,
   "size": "l",
+  "categoryId": 17,
   "logoFile": "logos/rioglass_solar_systems-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.rioglass.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "rioglass-solar",
   "crunchbaseId": null,
   "finderId": "rioglass-solar",
-  "xId": null,
+  "xId": "rioglass",
   "addresses": [
     {
       "street": "שאול המלך",
@@ -19,5 +19,7 @@
       "lat": 32.05812675,
       "lon": 34.862564649999996
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 2515225
 }

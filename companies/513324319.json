@@ -4,13 +4,13 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/active_optical_systems-logo.webp",
-  "websiteUrl": "http://www.active2001.com/",
+  "websiteUrl": "https://www.active2001.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "active-optical-systems3",
-  "xId": null,
+  "xId": "activeoptical",
   "addresses": [
     {
       "street": "שוהם",
@@ -19,5 +19,8 @@
       "lat": 32.0905394,
       "lon": 34.8582979
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "people",
+  "linkedinNum": 65731783
 }

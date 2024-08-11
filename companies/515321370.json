@@ -1,5 +1,5 @@
 {
-  "name": "Beeeye I T Technologies",
+  "name": "BeeEye",
   "description": "Our innovative solution utilizes self-learning algorithms to continuously refine predictive models by integrating both internal and external data sources.",
   "categoryId": 10,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "beeeye",
   "crunchbaseId": "beeeye-b615",
   "finderId": "beeeye-it-technologies",
-  "xId": null,
+  "xId": "beeeyemodeling",
   "addresses": [
     {
       "street": "קציר אפריים",
@@ -19,5 +19,7 @@
       "lat": 32.167185849999996,
       "lon": 34.900009894588024
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 10252143
 }

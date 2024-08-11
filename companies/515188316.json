@@ -1,16 +1,16 @@
 {
-  "name": "Wonderlogics",
-  "description": "Located near Balsan Station in Seoul, this company can be contacted via phone or email for logistics services.",
-  "categoryId": 9,
+  "name": "WonderLogics",
+  "description": "Model-based Design for Industrial Control Systems",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/wonderlogics-logo.webp",
-  "websiteUrl": "http://www.wonderlogis.co.kr/",
+  "websiteUrl": "https://wonderlogics.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "wonderlogix",
-  "xId": null,
+  "xId": "wonderlogix",
   "addresses": [
     {
       "street": "התנופה",
@@ -19,5 +19,8 @@
       "lat": 32.66791475,
       "lon": 35.10722320481222
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "wonderlogics",
+  "linkedinNum": 9370574
 }

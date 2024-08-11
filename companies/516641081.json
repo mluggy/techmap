@@ -1,10 +1,10 @@
 {
   "name": "Partnext",
-  "description": "With extensive experience, we supply reliable, high-quality OEM auto spare parts globally.",
-  "categoryId": 5,
+  "description": "A Social Networking Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/partnext-logo.webp",
-  "websiteUrl": "https://www.partsnext.com/",
+  "websiteUrl": "https://part-next.com/en/index.html",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.334050149999996,
       "lon": 34.854120503729234
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81845316
 }

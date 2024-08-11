@@ -1,5 +1,5 @@
 {
-  "name": "Td Net",
+  "name": "TDNet",
   "description": "Providing library systems with solutions for managing electronic resources.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tdnet",
-  "xId": null,
+  "xId": "dnet_t",
   "addresses": [
     {
       "street": "דרך בן גוריון דוד",
@@ -19,5 +19,8 @@
       "lat": 32.0952767,
       "lon": 34.8214828
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 123417
 }

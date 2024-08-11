@@ -1,5 +1,5 @@
 {
-  "name": "Cynet Security",
+  "name": "Cynet",
   "description": "An end-to-end, automated XDR platform designed to empower lean IT security teams with comprehensive, effective protection.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "cynet-security",
   "crunchbaseId": null,
   "finderId": "cynet",
-  "xId": null,
+  "xId": "cynet360",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cynet360",
+  "linkedinNum": 9363621,
+  "comeetId": "cynet/33.00D"
 }

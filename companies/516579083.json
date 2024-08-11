@@ -1,10 +1,10 @@
 {
   "name": "Drimz Technologies",
-  "description": "A shared environment for building web applications together.",
+  "description": "Collaborative Platform for Web Application Development",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/drimz_technologies-logo.webp",
-  "websiteUrl": "https://www.drimzdigitalsolution.com/",
+  "websiteUrl": "https://www.drimz.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.075401,
       "lon": 34.771115
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76173208
 }

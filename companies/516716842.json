@@ -1,10 +1,10 @@
 {
-  "name": "Blockstock",
-  "description": "This hybrid blockchain platform offers a gold-backed token available in both original and ERC20 variants.",
+  "name": "BlockStock",
+  "description": "Real Estate Investment Platform",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/blockstock-logo.webp",
-  "websiteUrl": "https://www.blockben.com/",
+  "websiteUrl": "https://blockstock.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.082753,
       "lon": 34.770486
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81808068
 }

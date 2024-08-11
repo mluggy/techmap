@@ -1,16 +1,16 @@
 {
   "name": "Tasq Technologies",
-  "description": "Using advanced asset-specific models and tools, this company automates work assignment and prioritizes value by analyzing SCADA, daily, and text data.",
-  "categoryId": 15,
+  "description": "Labeling Solution for Visual Data",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tasq_technologies-logo.webp",
-  "websiteUrl": "https://www.tasq.io/",
+  "websiteUrl": "https://www.tasq.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": "tasq-ai",
   "finderId": "tasq-technologies",
-  "xId": null,
+  "xId": "tasq_ai",
   "addresses": [
     {
       "street": "הרכבת",
@@ -19,5 +19,7 @@
       "lat": 32.060334,
       "lon": 34.782124
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 14815425
 }

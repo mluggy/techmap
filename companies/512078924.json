@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "visimix",
-  "xId": null,
+  "xId": "VisiMixCompany",
   "addresses": [
     {
       "street": "המרפא",
@@ -19,5 +19,8 @@
       "lat": 31.8034689,
       "lon": 35.2100604
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 11018070
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Physimax Technologies",
-  "description": "A platform that uses artificial intelligence to evaluate and improve musculoskeletal health.",
+  "name": "PhysiMax Technologies",
+  "description": "AI-powered Musculoskeletal Self-assessment and Optimization Platform",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/physimax_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://pmax.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "physihome",
   "crunchbaseId": "physihome",
   "finderId": "physihome-technologies",
-  "xId": null,
+  "xId": "PhysiMaxTech",
   "addresses": [
     {
       "street": "רוחמה",
@@ -19,5 +19,8 @@
       "lat": 32.1571454,
       "lon": 34.8350486
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "physimax",
+  "linkedinNum": 5364764
 }

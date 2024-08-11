@@ -1,5 +1,5 @@
 {
-  "name": "Algahealth Ah",
+  "name": "AlgaHealth",
   "description": "An innovative Israeli biotech firm specializing in efficient, advanced microalgae applications for nutraceutical production.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.078703,
       "lon": 34.7870616
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 13000366
 }

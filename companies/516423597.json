@@ -1,5 +1,5 @@
 {
-  "name": "Layerx Security",
+  "name": "LayerX Security",
   "description": "A lightweight extension that monitors and analyzes browser activity to enforce secure access and prevent risky behavior.",
   "categoryId": 7,
   "size": "s",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://layerxsecurity.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "layerx-security",
   "crunchbaseId": null,
   "finderId": "layerx-security",
-  "xId": null,
+  "xId": "MiroviaS",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Mirovia-Security-102231821866120",
+  "linkedinNum": 70948613
 }

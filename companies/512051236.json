@@ -1,10 +1,10 @@
 {
   "name": "Optonol",
-  "description": "Small-scale surgical implants designed for glaucoma treatment.",
+  "description": "Miniature Surgical Implants for Glaucoma Patients",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/optonol-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://optonol.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "optonol",
@@ -19,5 +19,7 @@
       "lat": 31.787259,
       "lon": 35.1899655
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 146920
 }

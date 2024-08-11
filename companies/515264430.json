@@ -1,5 +1,5 @@
 {
-  "name": "Zencity Technologies",
+  "name": "Zencity",
   "description": "A robust platform empowering data-driven decision-making and instilling confidence in council members.",
   "categoryId": 1,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://zencity.io/",
   "careersUrl": "https://zencity.io/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "zencity",
   "crunchbaseId": null,
   "finderId": "zencity",
-  "xId": null,
+  "xId": "zencityio",
   "addresses": [
     {
       "street": "קרליבך",
@@ -19,5 +19,8 @@
       "lat": 32.070956,
       "lon": 34.782358
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZenCityOfficial",
+  "linkedinNum": 9180416
 }

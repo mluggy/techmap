@@ -1,16 +1,16 @@
 {
   "name": "Playform",
-  "description": "A leading no-code platform empowering creatives to harness AI for enhanced imagination and productivity.",
-  "categoryId": 1,
+  "description": "Mobile Training App for Youth Soccer Athletes",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/playform-logo.webp",
-  "websiteUrl": "https://www.playform.io/",
+  "websiteUrl": "https://www.playform.app/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "playform",
-  "xId": null,
+  "xId": "playform2",
   "addresses": [
     {
       "street": "האוזנר גדעון",
@@ -19,5 +19,8 @@
       "lat": 31.2876823,
       "lon": 34.8056597
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Playform-110966450760255",
+  "linkedinNum": 34645857
 }

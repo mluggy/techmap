@@ -1,5 +1,5 @@
 {
-  "name": "Urogen Pharma",
+  "name": "UroGen Pharma",
   "description": "Dedicated to empowering patients through groundbreaking treatments, UroGen Pharma continuously innovates and shares significant medical advancements and financial insights.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "UroGen-Pharma",
-  "xId": null,
+  "xId": "urogenpharma",
   "addresses": [
     {
       "street": "התעשיה",
@@ -19,5 +19,7 @@
       "lat": 32.1968348,
       "lon": 34.8843649
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11520884
 }

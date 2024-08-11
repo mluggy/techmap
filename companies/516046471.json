@@ -1,10 +1,10 @@
 {
-  "name": "Castor Engineering",
-  "description": "A unified platform offering comprehensive electronic solutions for clinical data management and decentralized trials.",
-  "categoryId": 12,
+  "name": "CASTOR",
+  "description": "Automatically Identify Suitable Parts for Additive Manufacturing",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/castor_engineering-logo.webp",
-  "websiteUrl": "https://www.castoredc.com/",
+  "websiteUrl": "https://www.3dcastor.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.19524362667152,
       "lon": 35.01118524050559
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "3DCastor",
+  "linkedinNum": 11301127
 }

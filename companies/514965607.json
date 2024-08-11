@@ -1,16 +1,16 @@
 {
-  "name": "Claydo Lab",
-  "description": "A platform for showcasing and distributing digital artwork.",
-  "categoryId": 8,
+  "name": "Niio",
+  "description": "Distribution and Display Platform for Digital Art",
+  "categoryId": 9,
   "size": "s",
   "logoFile": "logos/claydo_lab-logo.webp",
-  "websiteUrl": "https://claydo.app/",
+  "websiteUrl": "https://www.niio.com/",
   "careersUrl": "https://www.niio.com/site/jobs/",
   "isHiring": true,
   "linkedinId": "claydo-lab",
   "crunchbaseId": "claydo-lab-niio",
   "finderId": "claydo",
-  "xId": null,
+  "xId": "niioart",
   "addresses": [
     {
       "street": "התעשיה",
@@ -19,5 +19,8 @@
       "lat": 32.067271,
       "lon": 34.78668
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "niioart",
+  "linkedinNum": 10309517
 }

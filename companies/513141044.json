@@ -1,10 +1,10 @@
 {
-  "name": "M M A Tech",
-  "description": "A free service offering instant translation of words, phrases, and web pages in over 100 languages.",
-  "categoryId": 1,
+  "name": "M.M.A. Tech",
+  "description": "Wear-resistant Polymers for Load-bearing Implants",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/m_m_a_tech-logo.webp",
-  "websiteUrl": "https://translate.google.ru/",
+  "websiteUrl": "https://www.mma-tech.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 33.0061707,
       "lon": 35.097461
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MMA-Tech-Ltd-165659866864005",
+  "linkedinNum": 9044110
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "bluebird-aero-systems",
-  "xId": null,
+  "xId": "BluebirdAeroSys",
   "addresses": [
     {
       "street": "השיטה",
@@ -19,5 +19,8 @@
       "lat": 32.3289832,
       "lon": 34.8806989
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BluebirdUAV",
+  "linkedinNum": 3077622
 }

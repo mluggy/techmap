@@ -10,7 +10,7 @@
   "linkedinId": "nucleai-ai",
   "crunchbaseId": null,
   "finderId": "nucleai",
-  "xId": null,
+  "xId": "nucleai_ai",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,7 @@
       "lat": 32.072032,
       "lon": 34.788987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 25166605
 }

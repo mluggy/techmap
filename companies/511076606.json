@@ -1,16 +1,16 @@
 {
   "name": "Comda",
-  "description": "A leading cybersecurity firm providing advanced security solutions and consulting for businesses and organizations of all sizes.",
+  "description": "Security and Access Control Solutions for IT Systems",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/comda-logo.webp",
-  "websiteUrl": "https://www.comda.co.il/",
+  "websiteUrl": "https://en.comda.co.il/",
   "careersUrl": "https://www.comda.co.il/jobs/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "comda",
   "crunchbaseId": null,
   "finderId": "comda",
-  "xId": null,
+  "xId": "Comda_LTD",
   "addresses": [
     {
       "street": "דבורה הנביאה",
@@ -19,5 +19,8 @@
       "lat": 32.113296,
       "lon": 34.842221
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ComdaLTD",
+  "linkedinNum": 54722
 }

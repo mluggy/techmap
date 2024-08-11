@@ -1,16 +1,16 @@
 {
   "name": "Post Harvest Solutions",
-  "description": "Boxing and wrapping options for produce.",
+  "description": "Packaging Solution for Fruits and Vegetables",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/post_harvest_solutions-logo.webp",
-  "websiteUrl": "https://www.postharvest.co.nz/",
+  "websiteUrl": "https://zoepac.com",
   "careersUrl": "https://www.agrofresh.com/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "post-harvest-solutions",
-  "xId": null,
+  "xId": "zoepac",
   "addresses": [
     {
       "street": "סאלם",
@@ -19,5 +19,6 @@
       "lat": 32.545399564319176,
       "lon": 35.19864836490503
     }
-  ]
+  ],
+  "isMultinational": false
 }

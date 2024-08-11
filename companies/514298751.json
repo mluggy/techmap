@@ -7,10 +7,10 @@
   "websiteUrl": "https://votiro.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "votiro",
   "crunchbaseId": null,
   "finderId": "votiro-cybersec",
-  "xId": null,
+  "xId": "votiro",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.072575,
       "lon": 34.7898
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Votiro",
+  "linkedinNum": 5283630
 }

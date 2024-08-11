@@ -4,13 +4,13 @@
   "categoryId": 1,
   "size": "s",
   "logoFile": "logos/articoolo_research-logo.webp",
-  "websiteUrl": "http://articoolo.com/",
+  "websiteUrl": "https://articoolo.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "articoolo-research",
   "crunchbaseId": null,
   "finderId": "articoolo",
-  "xId": null,
+  "xId": "Articoolo_seo",
   "addresses": [
     {
       "street": "משמר הירדן",
@@ -19,5 +19,8 @@
       "lat": 31.93166545,
       "lon": 34.78847777926471
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Articoolo",
+  "linkedinNum": 10612108
 }

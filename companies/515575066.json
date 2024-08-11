@@ -1,5 +1,5 @@
 {
-  "name": "Safemode Mobility",
+  "name": "SafeMode Mobility",
   "description": "A rewards system designed specifically for the transportation sector.",
   "categoryId": 5,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "safemodemobility",
   "crunchbaseId": "safemode",
   "finderId": "safemode-mobility",
-  "xId": null,
+  "xId": "Safe__Mode",
   "addresses": [
     {
       "street": "דרך קרית עמל",
@@ -19,5 +19,8 @@
       "lat": 32.713332808649874,
       "lon": 35.10385814624113
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SafeModeMobility",
+  "linkedinNum": 18100184
 }

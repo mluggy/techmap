@@ -1,5 +1,5 @@
 {
-  "name": "Mdclone",
+  "name": "MDClone",
   "description": "Offering a groundbreaking platform for real-time, secure, and independent healthcare data exploration, fostering collaboration, research, and innovation.",
   "categoryId": 12,
   "size": "m",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://www.mdclone.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mdclone",
   "crunchbaseId": null,
   "finderId": "mdclone",
   "xId": null,
@@ -19,5 +19,8 @@
       "lat": 31.263266,
       "lon": 34.8105466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 28984150,
+  "comeetId": "mdclone/66.004"
 }

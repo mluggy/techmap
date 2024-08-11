@@ -1,16 +1,16 @@
 {
-  "name": "Liad Dado",
-  "description": "Leading innovator in single component gravimetric feeders for injection molding machines.",
-  "categoryId": 15,
+  "name": "LIAD",
+  "description": "Automatic Weighing and Control Equipment",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/liad_dado-logo.webp",
-  "websiteUrl": "https://liadsmart.com/",
+  "websiteUrl": "https://www.liad.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "liad-weighing-and-control-systems",
-  "xId": null,
+  "xId": "liadsystems",
   "addresses": [
     {
       "street": "ברבור",
@@ -19,5 +19,8 @@
       "lat": 32.817786360823476,
       "lon": 35.13766306237469
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "liadsystems",
+  "linkedinNum": 350548
 }

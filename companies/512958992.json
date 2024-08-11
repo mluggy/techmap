@@ -1,10 +1,10 @@
 {
-  "name": "H R Vision",
-  "description": "Attend this two-day event for groundbreaking insights and discussions on the future of work, digitization, and leadership in HR.",
+  "name": "HRVision",
+  "description": "Employee Recruitment Solutions",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/h_r_vision-logo.webp",
-  "websiteUrl": "https://www.hrvisionevent.com/",
+  "websiteUrl": "https://www.jobbing.co.il/about.asp",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.8034689,
       "lon": 35.2100604
     }
-  ]
+  ],
+  "isMultinational": false
 }

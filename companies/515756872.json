@@ -1,10 +1,10 @@
 {
   "name": "Moya Bio",
-  "description": "Agents for Modulating Tumor Immunity.",
+  "description": "Tumor Immune Conditioning Agents",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/moya_bio-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.futurx.co.il/portfolio/moya-bio/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.9177299,
       "lon": 34.80439671200948
     }
-  ]
+  ],
+  "isMultinational": false
 }

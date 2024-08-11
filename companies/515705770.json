@@ -1,10 +1,10 @@
 {
-  "name": "Fortephest",
+  "name": "FortePhest",
   "description": "Established in 2017, this biotech firm specializes in developing innovative, plant-inspired solutions for effective and resistant weed control in crops.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/fortephest-logo.webp",
-  "websiteUrl": "http://fortephest.com/",
+  "websiteUrl": "https://fortephest.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.9289715,
       "lon": 34.7882439
     }
-  ]
+  ],
+  "isMultinational": false
 }

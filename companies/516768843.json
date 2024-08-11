@@ -1,5 +1,5 @@
 {
-  "name": "Passportcard Cyber And It",
+  "name": "PassportCard",
   "description": "This company uniquely offers immediate travel insurance claim settlements, providing rapid assistance for medical needs abroad.",
   "categoryId": 12,
   "size": "l",
@@ -19,5 +19,8 @@
       "lat": 32.2863637,
       "lon": 34.8651707
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PassportCard",
+  "linkedinNum": 5383345
 }

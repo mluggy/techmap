@@ -1,5 +1,5 @@
 {
-  "name": "Materials Zone Technologies",
+  "name": "Materials Zone",
   "description": "Streamlining processes, connecting teams, and unifying data to achieve efficient, lean research and development.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "materials-zone",
   "crunchbaseId": null,
   "finderId": "materials-zone",
-  "xId": null,
+  "xId": "materials_zone",
   "addresses": [
     {
       "street": "הבונים",
@@ -19,5 +19,8 @@
       "lat": 32.7100652,
       "lon": 35.1301676
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Materials.Zone",
+  "linkedinNum": 18398299
 }

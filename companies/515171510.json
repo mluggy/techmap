@@ -1,23 +1,26 @@
 {
-  "name": "Venn 2014",
-  "description": "A top platform revolutionizing how property owners enhance resident experiences to boost net operating income.",
-  "categoryId": 9,
+  "name": "Venn",
+  "description": "Urban Neighborhood Development Platform",
+  "categoryId": 8,
   "size": "m",
-  "logoFile": "logos/venn_2014-logo.webp",
-  "websiteUrl": "https://www.venn.city/",
-  "careersUrl": "https://www.venn.city/careers-new",
-  "isHiring": true,
-  "linkedinId": null,
+  "logoFile": "logos/venn.webp",
+  "websiteUrl": "https://venn.city/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 11003678,
   "crunchbaseId": null,
-  "finderId": "venn-city",
+  "finderId": "venn",
   "xId": null,
+  "facebookId": "VennTelAviv",
   "addresses": [
     {
       "street": "בעל העקידה",
       "houseNumber": 50,
       "city": "תל אביב - יפו",
-      "lat": 32.0524563,
-      "lon": 34.7785742
+      "lat": 32.054099432565316,
+      "lon": 34.779094938145846
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinId": "venn-city"
 }

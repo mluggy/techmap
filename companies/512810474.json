@@ -1,23 +1,25 @@
 {
   "name": "Oneg Hakarmel",
-  "description": "Products for Orthopedic Care, Vascular Surgery, and Emergency Treatment.",
+  "description": "Orthopedic, Vascular Surgery, and Emergency Medicine Products",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/oneg_hakarmel-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/oneg-hakarmel.webp",
+  "websiteUrl": "https://www.hemaclear.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": "oneg.home",
+  "linkedinNum": 147009,
   "crunchbaseId": null,
   "finderId": "oneg-hakarmel",
-  "xId": null,
+  "xId": "HemaClear",
+  "facebookId": "HemaClear",
   "addresses": [
     {
       "street": "אתגר",
       "houseNumber": 4,
       "city": "טירת כרמל",
-      "lat": 32.7726661,
-      "lon": 34.9678575
+      "lat": 32.77289005304545,
+      "lon": 34.96840025057518
     }
-  ]
+  ],
+  "isMultinational": false
 }

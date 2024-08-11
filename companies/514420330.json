@@ -1,10 +1,10 @@
 {
-  "name": "Iplan",
-  "description": "Providing comprehensive urban planning and development services.",
-  "categoryId": 14,
+  "name": "iPlan",
+  "description": "Event Management Platform",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/iplan-logo.webp",
-  "websiteUrl": "https://mavat.iplan.gov.il/",
+  "websiteUrl": "https://iplan.co.il/en-US",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "iplan.co.il"
 }

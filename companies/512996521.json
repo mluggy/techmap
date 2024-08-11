@@ -4,13 +4,13 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/mediseb-logo.webp",
-  "websiteUrl": "http://mediseb.com/",
+  "websiteUrl": "https://mediseb.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mediseb",
-  "xId": null,
+  "xId": "medisebelfcare",
   "addresses": [
     {
       "street": "גלגלי הפלדה",
@@ -19,5 +19,7 @@
       "lat": 32.1630041,
       "lon": 34.808744
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3305994
 }

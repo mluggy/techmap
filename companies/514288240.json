@@ -1,5 +1,5 @@
 {
-  "name": "Speakingpal",
+  "name": "SpeakingPal",
   "description": "An online platform that restricts immediate access to detailed descriptions.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "speakingpal",
-  "xId": null,
+  "xId": "speakingpal",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.108224,
       "lon": 34.838086
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SpeakingPal",
+  "linkedinNum": 630723
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Engini AI",
-  "description": "Promoting tech entrepreneurship through economic studies, policy insights, and advocacy at local and national levels.",
-  "categoryId": 1,
+  "name": "Engini",
+  "description": "No-Code Workflow Automation Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/engini_ai-logo.webp",
-  "websiteUrl": "https://www.engine.is/",
+  "websiteUrl": "https://engini.io/",
   "careersUrl": "https://www.engine.is/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Engini.io",
+  "linkedinNum": 75430440
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Clear Cut Medical",
+  "name": "ClearCut Medical",
   "description": "Pioneering real-time intraoperative tumor margin detection through advanced magnetic resonance technology.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "clear-cut-medical",
   "crunchbaseId": null,
   "finderId": "clearcut-medical",
-  "xId": null,
+  "xId": "clearcutmedical",
   "addresses": [
     {
       "street": "פייקס דוד",
@@ -19,5 +19,7 @@
       "lat": 31.9159391,
       "lon": 34.8103557
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 73047096
 }

@@ -1,16 +1,16 @@
 {
   "name": "Visionix",
-  "description": "Touch-free 3D Optical Measurement Tools.",
+  "description": "Non-contact 3D Optical Measurement Systems",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/visionix_ltd-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://luneautech.com/visionix-accueil/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "visionix-usa",
   "crunchbaseId": null,
   "finderId": "visionix",
-  "xId": null,
+  "xId": "VisionixUSA",
   "addresses": [
     {
       "street": "הגן הטכנולוגי",
@@ -19,5 +19,8 @@
       "lat": 31.75025875,
       "lon": 35.18612507516873
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "visionixusa",
+  "linkedinNum": 78227
 }

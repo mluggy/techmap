@@ -1,5 +1,5 @@
 {
-  "name": "Inspekto A M V",
+  "name": "Inspekto",
   "description": "Offers a plug-and-play solution for automated visual inspection that's quick to implement and versatile for various applications.",
   "categoryId": 15,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "inspekto",
   "finderId": "inspekto",
-  "xId": null,
+  "xId": "Inspekto_amv",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,7 @@
       "lat": 32.0835579,
       "lon": 34.8040988
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18075724
 }

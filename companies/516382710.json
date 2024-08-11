@@ -1,10 +1,10 @@
 {
   "name": "Salvation Battery",
-  "description": "A platform providing comprehensive search capabilities and specialized tools to locate diverse types of information online.",
-  "categoryId": 14,
+  "description": "Lead-Acid Battery Technology with Carbon Nanotubes",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/salvation_battery-logo.webp",
-  "websiteUrl": "https://www.google.com.hk/",
+  "websiteUrl": "https://salvationbat.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "salvation-battery",
@@ -19,5 +19,7 @@
       "lat": 31.7575279,
       "lon": 35.2220676
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76986709
 }

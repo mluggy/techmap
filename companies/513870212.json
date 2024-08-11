@@ -1,5 +1,5 @@
 {
-  "name": "Centerity",
+  "name": "Centerity Systems",
   "description": "The company offers a comprehensive platform, Centerity CSM², designed to connect, secure, monitor, and manage distributed edge environments effectively.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "centerity-ltd-",
   "crunchbaseId": null,
   "finderId": "centerity",
-  "xId": null,
+  "xId": "centerity",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1932202,
       "lon": 34.8827706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "centerity",
+  "linkedinNum": 262469
 }

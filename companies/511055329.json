@@ -1,5 +1,5 @@
 {
-  "name": "Schneider Electric Israel",
+  "name": "Schneider Electric",
   "description": "Schneider Electric is a global leader in energy management and automation, providing solutions that optimize energy usage, improve efficiency, and ensure sustainability.",
   "categoryId": 17,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "schneider-electric",
   "crunchbaseId": null,
   "finderId": "schneider-electric",
-  "xId": null,
+  "xId": "SchneiderElec",
   "addresses": [
     {
       "street": "המעלית",
@@ -19,5 +19,8 @@
       "lat": 32.2745434,
       "lon": 34.9199989
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SchneiderElectric",
+  "linkedinNum": 2329
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Hopon Mobility",
+  "name": "HopOn",
   "description": "A revolutionary mobile solution offering comprehensive visitor management and ticketing with unparalleled real-time visibility and control.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hopon",
-  "xId": null,
+  "xId": "HopOn_App",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.0848946,
       "lon": 34.8028513
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "apphopon",
+  "linkedinNum": 10426792
 }

@@ -1,0 +1,25 @@
+{
+  "name": "NanoScout",
+  "description": "Nano-morphology Detection at Scale",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/nanoscout.webp",
+  "websiteUrl": "https://www.nanoscout.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 77000175,
+  "crunchbaseId": null,
+  "finderId": "nanoscout",
+  "xId": null,
+  "facebookId": "NanoScoutNM",
+  "addresses": [
+    {
+      "street": "אשכול לוי",
+      "houseNumber": 17,
+      "city": "תל אביב - יפו",
+      "lat": 32.101795786339416,
+      "lon": 34.788604484402036
+    }
+  ],
+  "isMultinational": false
+}

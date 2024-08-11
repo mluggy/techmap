@@ -1,5 +1,5 @@
 {
-  "name": "Cyberproof Israel",
+  "name": "CyberProof",
   "description": "They offer expert cyber threat management services for real-time detection, adaptation, and response.",
   "categoryId": 7,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "cyberproof-inc-",
   "crunchbaseId": "cyberproof",
   "finderId": "cyberproof",
-  "xId": null,
+  "xId": "cyberproofinc",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,9 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Cyberproof",
+  "linkedinNum": 17933267,
+  "comeetId": "cyberproof/75.00F"
 }

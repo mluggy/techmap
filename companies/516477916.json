@@ -1,5 +1,5 @@
 {
-  "name": "Sea 2 Cell",
+  "name": "Sea2Cell",
   "description": "Pioneering cellular agriculture, they create sustainable fish meat in tanks to combat overfishing and meet high demand.",
   "categoryId": 17,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 33.2115548,
       "lon": 35.5787624
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 78980831
 }

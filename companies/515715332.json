@@ -1,10 +1,10 @@
 {
-  "name": "Sol Del Medical",
-  "description": "Leading healthcare provider for the El Paso, TX area, delivering emergency care, full service hospitals, and over 200 medical specialists.",
+  "name": "Sol-Del Medical",
+  "description": "Medical PVA Soluble Delivery Platform",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/sol_del_medical-logo.webp",
-  "websiteUrl": "https://laspalmasdelsolhealthcare.com/",
+  "websiteUrl": "https://ma.soldel-medical.com/sol-del",
   "careersUrl": "https://careers.hcahealthcare.com/pages/del-sol-medical-center",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1789899,
       "lon": 34.9284423
     }
-  ]
+  ],
+  "isMultinational": false
 }

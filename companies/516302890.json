@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "flow-security",
-  "xId": null,
+  "xId": "flow_security",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,7 @@
       "lat": 32.064654,
       "lon": 34.785584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 77630378
 }

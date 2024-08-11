@@ -7,10 +7,10 @@
   "websiteUrl": "https://earnix.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "earnix",
   "crunchbaseId": null,
   "finderId": "earnix",
-  "xId": null,
+  "xId": "Earnix_Inc",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "earnix",
+  "linkedinNum": 68265
 }

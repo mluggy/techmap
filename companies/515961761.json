@@ -10,7 +10,7 @@
   "linkedinId": "orca-security",
   "crunchbaseId": null,
   "finderId": "orca-security",
-  "xId": null,
+  "xId": "OrcaSec",
   "addresses": [
     {
       "street": "תושיה",
@@ -19,5 +19,9 @@
       "lat": 32.0669119,
       "lon": 34.7881969
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lifeatorca",
+  "linkedinNum": 35573984,
+  "greenhouseId": "orcasecurity"
 }

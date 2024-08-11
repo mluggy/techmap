@@ -1,16 +1,16 @@
 {
   "name": "Altostra",
-  "description": "Advanced Tools for Building Cloud-Based Applications.",
-  "categoryId": 6,
+  "description": "Modern Cloud Application Development Tools",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/altostra-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.altostra.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "altostra",
   "crunchbaseId": "altostra",
   "finderId": "altostra",
-  "xId": null,
+  "xId": "altostrahq",
   "addresses": [
     {
       "street": "הוז דב",
@@ -19,5 +19,7 @@
       "lat": 32.08157,
       "lon": 34.772286
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18743418
 }

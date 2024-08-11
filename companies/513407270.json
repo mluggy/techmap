@@ -1,16 +1,16 @@
 {
   "name": "Hypermedia Systems",
-  "description": "Advanced SIM Technology for the Internet of Things (IoT).",
-  "categoryId": 13,
+  "description": "Next-Generation & IoT SIM Connectivity",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/hypermedia_systems-logo.webp",
-  "websiteUrl": "https://hypermedia.systems/",
+  "websiteUrl": "https://www.hyperms.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hypermedia-systems",
-  "xId": null,
+  "xId": "HypermediaS",
   "addresses": [
     {
       "street": "לטריס",
@@ -19,5 +19,7 @@
       "lat": 32.076923,
       "lon": 34.780783
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 668363
 }

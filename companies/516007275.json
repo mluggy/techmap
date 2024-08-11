@@ -1,10 +1,10 @@
 {
   "name": "Pyxis Diagnostics",
-  "description": "A pioneering computational biology platform forecasts patient responses to Immuno-Oncology treatments and discovers new drug combinations to overcome resistance.",
+  "description": "AI-powered Cancer Diagnostics Platform for Predicting Immuno-oncology Drug Response",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/pyxis_diagnostics-logo.webp",
-  "websiteUrl": "https://www.pyxisdiagnostics.com/",
+  "websiteUrl": "https://www.pyxisdx.com/",
   "careersUrl": "https://www.pyxisdiagnostics.com/careers",
   "isHiring": true,
   "linkedinId": "pyxis-dx",
@@ -19,5 +19,7 @@
       "lat": 31.7900201,
       "lon": 35.2241751
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 69532570
 }

@@ -1,15 +1,17 @@
 {
-  "name": "Neuroquest",
-  "description": "Blood tests using immune markers to detect Alzheimer's disease in its early stages.",
+  "name": "NeuroQuest",
+  "description": "Immuno-based Blood Tests for Early Detection of Alzheimer's Disease",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/neuroquest-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.trendlines.com/company/neuroquest/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "neuroquest12?trk=similar-pages",
   "crunchbaseId": null,
   "finderId": "neuroquest",
-  "xId": null,
-  "addresses": []
+  "xId": "NeuroQuestUS",
+  "addresses": [],
+  "isMultinational": false,
+  "linkedinNum": 3070353
 }

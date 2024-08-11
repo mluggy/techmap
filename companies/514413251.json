@@ -1,5 +1,5 @@
 {
-  "name": "Speak 2 Go",
+  "name": "Speak2Go",
   "description": "A comprehensive web app for schools that enhances spoken English skills through multimedia lessons, vocabulary, speech practice, and listening comprehension.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.13173731606259,
       "lon": 34.991718274821686
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "speak2go.english",
+  "linkedinNum": 18481291
 }

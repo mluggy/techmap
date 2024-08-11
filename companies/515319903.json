@@ -1,5 +1,5 @@
 {
-  "name": "Greenq",
+  "name": "GreenQ",
   "description": "This platform's recommendations engine enhances logistics with data-driven route optimization and provides user-friendly, comprehensive analytics accessible on any device.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "greenq1",
-  "xId": null,
+  "xId": "Greenq_media",
   "addresses": [
     {
       "street": "פרופ רקח",
@@ -19,5 +19,8 @@
       "lat": 31.7679937,
       "lon": 35.1973517
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GreenQ.IoG",
+  "linkedinNum": 10072024
 }

@@ -1,10 +1,10 @@
 {
   "name": "Firmus",
-  "description": "A leader in scaled immersion cooling technology, this company offers a platform that significantly reduces CO2 emissions, power consumption, and costs while supporting hyperscale high-performance computing.",
-  "categoryId": 17,
+  "description": "AI-driven Construction Analysis Solution",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/firmus-logo.webp",
-  "websiteUrl": "https://firmus.co/",
+  "websiteUrl": "https://www.firmus.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "firmusai",
@@ -19,5 +19,7 @@
       "lat": 32.064654,
       "lon": 34.785584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18582753
 }

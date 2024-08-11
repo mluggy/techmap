@@ -1,10 +1,10 @@
 {
-  "name": "Eva Board",
-  "description": "Offering a cutting-edge, user-friendly in-flight entertainment system with an extensive selection of audio and video content.",
-  "categoryId": 3,
+  "name": "EVA",
+  "description": "Supplementary Cementitious Material",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/eva_board-logo.webp",
-  "websiteUrl": "https://www.evaair.com/",
+  "websiteUrl": "https://www.evagreentech.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.069842,
       "lon": 34.780331
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 15855587
 }

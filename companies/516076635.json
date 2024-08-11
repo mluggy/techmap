@@ -1,5 +1,5 @@
 {
-  "name": "Lamu Tech",
+  "name": "Lamu",
   "description": "We are an Israeli foodtech company, on a mission to make natural beverages healthier and more accessible – for everyone.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.7762839,
       "lon": 35.0390043
     }
-  ]
+  ],
+  "isMultinational": false
 }

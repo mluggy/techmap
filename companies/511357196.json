@@ -1,5 +1,5 @@
 {
-  "name": "Nilit",
+  "name": "NILIT",
   "description": "A global provider of high-quality nylon production and technology solutions with locations in China, the USA, and Brazil.",
   "categoryId": 16,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "nilit",
-  "xId": null,
+  "xId": "nilit_fibers",
   "addresses": [
     {
       "street": "התעשיה",
@@ -19,5 +19,8 @@
       "lat": 32.6868052,
       "lon": 35.2465429
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Nilit.Fibers",
+  "linkedinNum": 49797
 }

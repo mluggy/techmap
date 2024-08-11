@@ -1,5 +1,5 @@
 {
-  "name": "Ultima Genomics Israel",
+  "name": "Ultima Genomics",
   "description": "Revolutionizing DNA sequencing, this company offers scalable solutions for achieving the $100 genome with their UG100 technology.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "ultimagenomics",
   "crunchbaseId": null,
   "finderId": "ultima-genomics",
-  "xId": null,
+  "xId": "ultimagenomics",
   "addresses": [
     {
       "street": "פקריס",
@@ -19,5 +19,7 @@
       "lat": 31.9119094,
       "lon": 34.804801
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81904307
 }

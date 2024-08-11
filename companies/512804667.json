@@ -1,10 +1,10 @@
 {
   "name": "Round Trip",
-  "description": "Streamline patient transportation with Roundtrip's digital solution connecting care coordinators to NEMT transportation providers nationwide.",
-  "categoryId": 12,
+  "description": "SaaS Travel Platform",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/round_trip-logo.webp",
-  "websiteUrl": "https://roundtriphealth.com/",
+  "websiteUrl": "https://www.roundtrip.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.085383,
       "lon": 34.791635
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 28979574
 }

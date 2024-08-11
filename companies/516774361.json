@@ -1,10 +1,10 @@
 {
-  "name": "Flow M N",
-  "description": "A decentralized blockchain platform enabling developers to build and scale Web3 applications for widespread use.",
-  "categoryId": 10,
+  "name": "Flow",
+  "description": "Autonomous Checkout Carts",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/flow_m_n-logo.webp",
-  "websiteUrl": "https://flow.com/",
+  "websiteUrl": "https://flow-retail.com/",
   "careersUrl": "https://flow-retail.com/careers/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.9951439,
       "lon": 34.770949
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Walkout-390397271824062",
+  "linkedinNum": 12627814
 }

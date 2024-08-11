@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "yitran-technologies",
   "finderId": "yitran-technologies-ltd",
-  "xId": null,
+  "xId": "yitrancom",
   "addresses": [
     {
       "street": "הגורן",
@@ -19,5 +19,7 @@
       "lat": 31.2750831,
       "lon": 34.8352352
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 126424
 }

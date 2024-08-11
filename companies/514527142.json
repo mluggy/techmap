@@ -7,10 +7,10 @@
   "websiteUrl": "https://vi.co/",
   "careersUrl": "https://vi.co/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "vi",
   "crunchbaseId": null,
   "finderId": "vi-labs",
-  "xId": null,
+  "xId": "vi_trainer",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070295,
       "lon": 34.784752
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LifeatVi",
+  "linkedinNum": 2361966
 }

@@ -10,7 +10,7 @@
   "linkedinId": "cityhiveinc",
   "crunchbaseId": null,
   "finderId": "city-hive",
-  "xId": null,
+  "xId": "CityHiveInc",
   "addresses": [
     {
       "street": "זית",
@@ -19,5 +19,8 @@
       "lat": 32.882470312901646,
       "lon": 35.360601571860755
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "City.Hive",
+  "linkedinNum": 9304159
 }

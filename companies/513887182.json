@@ -1,5 +1,5 @@
 {
-  "name": "Liveu",
+  "name": "LiveU",
   "description": "Pioneering 5G field production, they provide robust, reliable live broadcasting solutions over cellular and IP networks.",
   "categoryId": 18,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.liveu.tv/",
   "careersUrl": "https://www.liveu.tv/company/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "liveu",
   "crunchbaseId": null,
   "finderId": "liveu",
-  "xId": null,
+  "xId": "LiveU",
   "addresses": [
     {
       "street": "הגביש",
@@ -19,5 +19,9 @@
       "lat": 32.176795,
       "lon": 34.9299507
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "LiveU.Fans",
+  "linkedinNum": 352436,
+  "comeetId": "liveu/90.00C"
 }

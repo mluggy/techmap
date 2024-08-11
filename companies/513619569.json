@@ -10,7 +10,7 @@
   "linkedinId": "orcanos",
   "crunchbaseId": null,
   "finderId": "orcanos",
-  "xId": null,
+  "xId": "orcanos",
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +19,8 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "orcanos",
+  "linkedinNum": 105866
 }

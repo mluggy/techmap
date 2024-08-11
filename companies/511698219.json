@@ -1,0 +1,25 @@
+{
+  "name": "NESS",
+  "description": "Neuromuscular Electrical Stimulation Systems",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/ness.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "ness",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 27,
+      "city": "הרצליה",
+      "lat": 32.16339496307645,
+      "lon": 34.8108076493372
+    }
+  ],
+  "isMultinational": false
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Synvaccine",
+  "name": "SynVaccine",
   "description": "A cutting-edge biotech firm revolutionizing viral engineering for vaccines, gene therapy, and cancer immunotherapy through innovative design.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.9137859,
       "lon": 34.8024773
     }
-  ]
+  ],
+  "isMultinational": false
 }

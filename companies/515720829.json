@@ -1,10 +1,10 @@
 {
   "name": "Annabella Tech",
-  "description": "Intelligent Breast Milk Extractor.",
+  "description": "Smart Breast Milk Pump",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/annabella_tech-logo.webp",
-  "websiteUrl": "https://annabella-pump.com/",
+  "websiteUrl": "https://www.annabella-pump.co.il/en",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "annabella-pump",
@@ -19,5 +19,8 @@
       "lat": 32.1789899,
       "lon": 34.9284423
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Anabellamilk",
+  "linkedinNum": 86703248
 }

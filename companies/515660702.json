@@ -1,10 +1,10 @@
 {
-  "name": "Neurai",
-  "description": "Combining IoT devices, blockchain technology, and AI-driven algorithms, we bridge the physical and digital worlds to address emerging needs.",
-  "categoryId": 13,
+  "name": "NeuRai",
+  "description": "Anti-aging Cosmetic Products",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/neurai-logo.webp",
-  "websiteUrl": "https://neurai.org/",
+  "websiteUrl": "https://www.neu-rai.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.138242,
       "lon": 34.790435
     }
-  ]
+  ],
+  "isMultinational": false
 }

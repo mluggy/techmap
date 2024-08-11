@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "powerful-medical",
-  "xId": null,
+  "xId": "powerfulmedical",
   "addresses": [
     {
       "street": "שפרינצק",
@@ -19,5 +19,8 @@
       "lat": 32.070926,
       "lon": 34.782796
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "powerfulmedical",
+  "linkedinNum": 18157881
 }

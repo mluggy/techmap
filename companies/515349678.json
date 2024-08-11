@@ -1,5 +1,5 @@
 {
-  "name": "Supermeat The Essence Of Meat",
+  "name": "SuperMeat",
   "description": "We are dedicated to producing premium chicken meat sustainably and ethically through advanced cellular agriculture.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "supermeat",
-  "xId": null,
+  "xId": "_SuperMeat_",
   "addresses": [
     {
       "street": "יותם",
@@ -19,5 +19,8 @@
       "lat": 32.1702353,
       "lon": 34.8135369
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SuperMeat.co",
+  "linkedinNum": 10841889
 }

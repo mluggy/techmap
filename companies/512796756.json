@@ -1,5 +1,5 @@
 {
-  "name": "Liveperson",
+  "name": "LivePerson",
   "description": "Empowering brands with a leading Conversational AI platform for scalable and engaging digital customer interactions.",
   "categoryId": 1,
   "size": "xl",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.liveperson.com/",
   "careersUrl": "https://www.liveperson.com/company/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "liveperson",
   "crunchbaseId": null,
   "finderId": "liveperson",
-  "xId": null,
+  "xId": "LivePerson",
   "addresses": [
     {
       "street": "התדהר",
@@ -19,5 +19,8 @@
       "lat": 32.1994931,
       "lon": 34.8840703
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "liveperson",
+  "linkedinNum": 164748
 }

@@ -1,23 +1,25 @@
 {
   "name": "Ripples",
-  "description": "Custom Artistic Creations in Drink Foam.",
-  "categoryId": 13,
-  "size": "m",
-  "logoFile": "logos/ripples-logo.webp",
-  "websiteUrl": "https://www.drinkripples.com/",
+  "description": "Customer Feedback Analysis Platform",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/ripples.webp",
+  "websiteUrl": "https://weripples.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinNum": 81850427,
   "crunchbaseId": null,
-  "finderId": "steam-cc",
+  "finderId": "ripples",
   "xId": null,
+  "facebookId": null,
   "addresses": [
     {
       "street": "המפלסים",
       "houseNumber": 14,
       "city": "פתח תקווה",
-      "lat": 32.1011348,
-      "lon": 34.8634356816404
+      "lat": 32.101321498561234,
+      "lon": 34.86349076136962
     }
-  ]
+  ],
+  "isMultinational": false
 }

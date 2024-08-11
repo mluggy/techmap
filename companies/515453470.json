@@ -10,7 +10,7 @@
   "linkedinId": "deceptivebytes",
   "crunchbaseId": null,
   "finderId": "deceptive-bytes",
-  "xId": null,
+  "xId": "deceptivebytes",
   "addresses": [
     {
       "street": "קראוזה",
@@ -19,5 +19,7 @@
       "lat": 32.0217397,
       "lon": 34.7815078
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DeceptiveBytes"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Elastimed",
+  "name": "ElastiMed",
   "description": "Introducing the first robotic stocking specifically designed to address lymphatic and venous conditions.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.66993075,
       "lon": 35.10747075437456
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ElastiMed",
+  "linkedinNum": 5007908
 }

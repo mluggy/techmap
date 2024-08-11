@@ -1,5 +1,5 @@
 {
-  "name": "Bluegreen Water Technologies",
+  "name": "BlueGreen Water Technologies",
   "description": "Innovative technology combats climate change by eliminating CO2 through treatment of harmful algal blooms.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "bluegreen-water-tech",
   "crunchbaseId": null,
   "finderId": "bluegreen-water-technologies",
-  "xId": null,
+  "xId": "bluegreenwatert",
   "addresses": [
     {
       "street": "שד המקצועות",
@@ -19,5 +19,7 @@
       "lat": 31.8873435,
       "lon": 34.9633243
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bluegreenwatertechnologies"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Paretix Pareto",
+  "name": "Paretix",
   "description": "An AI-driven underwriting platform offering comprehensive credit recommendations and decision-making capabilities.",
   "categoryId": 10,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.063042,
       "lon": 34.774299
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "paretix",
+  "linkedinNum": 5249148
 }

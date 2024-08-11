@@ -1,0 +1,25 @@
+{
+  "name": "Landa",
+  "description": "Real Estate Investing App",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/landa1.webp",
+  "websiteUrl": "https://landa.app/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 10547267,
+  "crunchbaseId": null,
+  "finderId": "landa1",
+  "xId": "landa_app",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "גרונר דב",
+      "houseNumber": null,
+      "city": "תל אביב - יפו",
+      "lat": 32.12534796863394,
+      "lon": 34.80708584932029
+    }
+  ],
+  "isMultinational": false
+}

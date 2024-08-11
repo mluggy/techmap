@@ -1,10 +1,10 @@
 {
   "name": "Xplorer Globe Net",
-  "description": "A Network for Connecting Travelers.",
-  "categoryId": 18,
+  "description": "Social Travel Community Network",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/xplorer_globe_net-logo.webp",
-  "websiteUrl": "https://explorer.globe.engineer/",
+  "websiteUrl": "https://www.xplorer.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.9180848,
       "lon": 34.8066017
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "www.xplorer.co.il",
+  "linkedinNum": 3215894
 }

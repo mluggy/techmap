@@ -10,7 +10,7 @@
   "linkedinId": "pontera",
   "crunchbaseId": "pontera",
   "finderId": "feex",
-  "xId": null,
+  "xId": "FeeX",
   "addresses": [
     {
       "street": "שנקר",
@@ -19,5 +19,8 @@
       "lat": 32.1585145,
       "lon": 34.8085703
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Ponterasolutions",
+  "linkedinNum": 2711006
 }

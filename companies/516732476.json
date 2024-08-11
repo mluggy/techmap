@@ -1,10 +1,10 @@
 {
   "name": "Microsteer",
-  "description": "A supplementary tool for endoscopic procedures designed to remove polyps.",
+  "description": "Endoscopic Add-on Device for the Removal of Polyps",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/microsteer-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://ngt-healthcare2.com/microsteer/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false
 }

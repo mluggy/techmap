@@ -1,5 +1,5 @@
 {
-  "name": "Uni Diamonds",
+  "name": "Uni.Diamonds",
   "description": "Providing real-time analysis of over 1 million diamonds to enable informed business decisions based on market data.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "unidiamonds",
   "crunchbaseId": null,
   "finderId": "uni-diamonds",
-  "xId": null,
+  "xId": "diamonds_uni",
   "addresses": [
     {
       "street": "בצלאל",
@@ -19,5 +19,8 @@
       "lat": 32.0861425,
       "lon": 34.8007768
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Official.Uni.diamonds",
+  "linkedinNum": 18958092
 }

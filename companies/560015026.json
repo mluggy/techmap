@@ -1,0 +1,26 @@
+{
+  "name": "Johnson & Johnson",
+  "description": null,
+  "categoryId": 12,
+  "size": "xl",
+  "logoFile": "logos/johnson-johnson.webp",
+  "websiteUrl": "https://www.jnj.com/",
+  "careersUrl": "https://www.careers.jnj.com/",
+  "isHiring": true,
+  "linkedinId": "johnson-&-johnson",
+  "linkedinNum": 1207,
+  "crunchbaseId": null,
+  "finderId": "johnson-johnson",
+  "xId": "jnjinnovation",
+  "facebookId": "jnj",
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "שפיים",
+      "lat": 32.2216075594589,
+      "lon": 34.82802140000197
+    }
+  ],
+  "isMultinational": true
+}

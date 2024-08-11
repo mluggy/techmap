@@ -1,10 +1,10 @@
 {
   "name": "Redefine Technologies",
-  "description": "Offering tailor-made, data-centric consultancy services that transform business challenges into growth opportunities through expertise in Data Lakes, Data Lakehouses, Data Analytics, Machine Learning, and Cloud Computing.",
-  "categoryId": 1,
+  "description": "Risk Management for Decentralized Finance Investors",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/redefine_technologies-logo.webp",
-  "websiteUrl": "https://redefine.io/",
+  "websiteUrl": "https://redefine.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "redefine-io",
@@ -19,5 +19,7 @@
       "lat": 32.18580645,
       "lon": 34.854710060506534
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79830906
 }

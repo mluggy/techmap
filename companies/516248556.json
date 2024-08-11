@@ -1,5 +1,5 @@
 {
-  "name": "Zaapit As",
+  "name": "ZaapIT",
   "description": "Streamlining Salesforce efficiency for Sales & Service teams with enhanced data management and reduced click tasks.",
   "categoryId": 14,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "zaapit-software-technologies",
   "crunchbaseId": "zaapit-software-technologies",
   "finderId": "zaapit-as-ltd",
-  "xId": null,
+  "xId": "zaapit_apps",
   "addresses": [
     {
       "street": "ויצמן",
@@ -19,5 +19,7 @@
       "lat": 32.17599835,
       "lon": 34.906399223128275
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3498199
 }

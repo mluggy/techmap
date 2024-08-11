@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "resident",
-  "xId": null,
+  "xId": "homeresident",
   "addresses": [
     {
       "street": "דה וינצ'י לאונרדו",
@@ -19,5 +19,8 @@
       "lat": 32.0761833,
       "lon": 34.7843512
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pg",
+  "linkedinNum": 19147972
 }

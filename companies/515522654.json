@@ -1,16 +1,16 @@
 {
   "name": "Seedwiz",
-  "description": "A platform utilizing geographic information systems (GIS) and artificial intelligence (AI) for optimizing seed selection and facilitating trading.",
-  "categoryId": 1,
+  "description": "Geographical Information System and AI Platform for Seed Selection and Trading",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/seedwiz-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.seedwiz.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "seedwizcom",
   "crunchbaseId": null,
   "finderId": "seedwiz",
-  "xId": null,
+  "xId": "seedwiz",
   "addresses": [
     {
       "street": "סוקולוב",
@@ -19,5 +19,8 @@
       "lat": 32.14480425,
       "lon": 34.83777925661643
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Seedwiz-644127869113828",
+  "linkedinNum": 9499550
 }

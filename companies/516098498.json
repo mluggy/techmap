@@ -1,16 +1,16 @@
 {
-  "name": "Cts Cannabis",
-  "description": "This century-old Israeli firm excels in delivering top-tier pharmaceuticals and consumer healthcare solutions.",
+  "name": "CTS Chemical Industries",
+  "description": "Healthcare, Cosmetic, Agricultural, and Veterinary Products",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/cts_cannabis-logo.webp",
-  "websiteUrl": "https://ctspharma.com/",
+  "websiteUrl": "https://www.cts.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cts",
-  "xId": null,
+  "xId": "CTSpharma",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.1312727,
       "lon": 34.896831
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CTS.pharma",
+  "linkedinNum": 690276
 }

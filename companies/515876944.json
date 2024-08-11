@@ -1,5 +1,5 @@
 {
-  "name": "Fabric By Adi Lin Group",
+  "name": "Fabric",
   "description": "Optimize your supply chain to achieve same-day delivery, enhancing customer loyalty and boosting revenue.",
   "categoryId": 9,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://getfabric.com/",
   "careersUrl": "https://getfabric.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "fabriclogistics",
   "crunchbaseId": null,
   "finderId": "commonsense-robotics",
-  "xId": null,
+  "xId": "fabriclogistics",
   "addresses": [
     {
       "street": "מוהליבר",
@@ -19,5 +19,9 @@
       "lat": 32.065619,
       "lon": 34.768507
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "peopleoffabric",
+  "linkedinNum": 28445862,
+  "comeetId": "fabric/52.009"
 }

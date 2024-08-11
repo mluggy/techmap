@@ -1,16 +1,16 @@
 {
   "name": "Capitalise",
-  "description": "Automated tool for converting text to capitalized case by changing the starting letter of every word to upper case.",
-  "categoryId": 14,
+  "description": "Text-based Trading Analysis and Automation",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/capitalise-logo.webp",
-  "websiteUrl": "https://convertcase.net/",
+  "websiteUrl": "https://www.capitalise.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "capitalise",
-  "xId": null,
+  "xId": "Capitalise_ai",
   "addresses": [
     {
       "street": "אלנבי",
@@ -19,5 +19,8 @@
       "lat": 32.063907,
       "lon": 34.773007
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "capitalise",
+  "linkedinNum": 10496993
 }

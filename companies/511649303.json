@@ -1,10 +1,10 @@
 {
   "name": "Paradigma Systems",
-  "description": "Technology Solutions for Extended Care Institutions.",
+  "description": "Information Systems for Long-term Healthcare Facilities",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/paradigma_systems-logo.webp",
-  "websiteUrl": "https://www.paradigm-systems.us/",
+  "websiteUrl": "https://www.paradigmacare.com/eng",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "paradigm-systems-inc.",
@@ -19,5 +19,6 @@
       "lat": 32.2788892,
       "lon": 34.858196076704104
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,10 +1,10 @@
 {
-  "name": "We Can",
-  "description": "Cups that stir your drinks.",
-  "categoryId": 13,
+  "name": "We-Can",
+  "description": "Drink-stirring Cups",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/we_can-logo.webp",
-  "websiteUrl": "https://wecan.waspa.org/",
+  "websiteUrl": "https://www.hybrid-cup.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.034991,
       "lon": 34.751156
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18081468
 }

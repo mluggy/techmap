@@ -1,5 +1,5 @@
 {
-  "name": "Versatile Natures",
+  "name": "Versatile",
   "description": "Construction Site Process Management Solution.",
   "categoryId": 15,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.versatile.ai/",
   "careersUrl": "https://www.versatile.ai/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "versatileai",
   "crunchbaseId": "versatile-natures",
   "finderId": "versatile-natures",
-  "xId": null,
+  "xId": "versatileai",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,7 @@
       "lat": 32.06277815,
       "lon": 34.77165302176441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18261248
 }

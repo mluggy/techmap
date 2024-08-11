@@ -1,5 +1,5 @@
 {
-  "name": "Fitness 22",
+  "name": "Fitness22",
   "description": "A highly popular and efficient fitness app that provides users with comprehensive workout plans, tips, and videos.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.09045669913413,
       "lon": 34.861816528862335
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fitness22.apps",
+  "linkedinNum": 2672669
 }

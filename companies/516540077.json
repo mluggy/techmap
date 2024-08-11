@@ -1,5 +1,5 @@
 {
-  "name": "Novapulse",
+  "name": "NovaPulse",
   "description": "Providing free virtual fitness and wellness classes to promote health for everyone.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.0215775,
       "lon": 34.854526
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Anaplan Israel",
+  "name": "Anaplan",
   "description": "Drive business performance through integrated finance, supply chain, and sales strategies with a connected planning platform.",
   "categoryId": 14,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": "anaplan",
   "crunchbaseId": null,
   "finderId": "anaplan",
-  "xId": null,
+  "xId": "anaplan",
   "addresses": [
     {
       "street": "רפפורט",
@@ -19,5 +19,8 @@
       "lat": 32.191958,
       "lon": 34.8920687
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "anaplan",
+  "linkedinNum": 658814
 }

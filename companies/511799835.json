@@ -1,10 +1,10 @@
 {
   "name": "Univo Pharmaceuticals",
-  "description": "Offering an extensive catalog of over 600,000 chemical products, BLDpharm continually updates its selection with 1,000 new additions each month.",
+  "description": "Medical Cannabis Products",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/univo_pharmaceuticals-logo.webp",
-  "websiteUrl": "https://www.bldpharm.com/",
+  "websiteUrl": "https://univopharma.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.6364197,
       "lon": 34.5497579
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12614994
 }

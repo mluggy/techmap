@@ -1,10 +1,10 @@
 {
   "name": "Glyconia",
-  "description": "Solutions in Immunotherapy.",
+  "description": "Immunotherapy Solutions",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/glyconia-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.glyconia.sites.tau.ac.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.085105850000005,
       "lon": 34.976184021003306
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 89196836
 }

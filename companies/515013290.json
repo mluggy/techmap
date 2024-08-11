@@ -1,16 +1,16 @@
 {
-  "name": "Compoze Music Solutions",
-  "description": "A premier Minnesota-based software development firm excelling in bespoke AI, data engineering, and cloud solutions.",
-  "categoryId": 1,
+  "name": "Compoze",
+  "description": "Apps for Learning Music Theory and Composition",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/compoze_music_solutions-logo.webp",
-  "websiteUrl": "https://www.compozelabs.com/",
+  "websiteUrl": "https://www.scoreskills.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "compozelabs",
   "crunchbaseId": "compoze",
   "finderId": "compoze",
-  "xId": null,
+  "xId": "CompozeMusic",
   "addresses": [
     {
       "street": "אנטוקולסקי",
@@ -19,5 +19,7 @@
       "lat": 32.084306,
       "lon": 34.783304
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5132788
 }

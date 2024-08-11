@@ -1,5 +1,5 @@
 {
-  "name": "Project Map",
+  "name": "Proggio",
   "description": "A cutting-edge, cloud-based platform providing real-time insights and comprehensive visibility to enhance management decision-making processes.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "project-map",
-  "xId": null,
+  "xId": "proggiodotcom",
   "addresses": [
     {
       "street": "התע\"ש",
@@ -19,5 +19,8 @@
       "lat": 32.1731606,
       "lon": 34.9256256
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ProggioApp",
+  "linkedinNum": 17997454
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Bllink Systems",
-  "description": "Offering comprehensive home surveillance with HD smart security cameras accessible via a mobile app for real-time monitoring and communication.",
-  "categoryId": 7,
+  "name": "Bllink",
+  "description": "Payment Collection Platform for Property Managers",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/bllink_systems-logo.webp",
-  "websiteUrl": "https://blinkforhome.com/",
+  "websiteUrl": "https://www.bllink.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.061196,
       "lon": 34.782293
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Bllink.co",
+  "linkedinNum": 10677038
 }

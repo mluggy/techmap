@@ -1,16 +1,16 @@
 {
-  "name": "Selfly Camera",
+  "name": "SELFLY.Camera",
   "description": "A comprehensive camera kit featuring a dedicated phone case, pocket dock, extra propellers, propeller guards, USB-C cable, and two 500mAh batteries.",
   "categoryId": 15,
   "size": "xs",
   "logoFile": "logos/selfly_camera-logo.webp",
-  "websiteUrl": "http://www.selfly.camera/",
+  "websiteUrl": "https://www.selfly.camera/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "selfly-camera",
-  "xId": null,
+  "xId": "SELfly_Camera",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,7 @@
       "lat": 32.10759415,
       "lon": 34.97134494812779
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SelflyCameraOfficial"
 }

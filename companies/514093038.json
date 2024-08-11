@@ -1,5 +1,5 @@
 {
-  "name": "Cortex Dental Implants Industries",
+  "name": "Cortex Dental Implants",
   "description": "A highly versatile and reliable implant offering exceptional user-friendliness without compromising on functionality.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "cortex-dental-implants",
-  "xId": null,
+  "xId": "cortexdental",
   "addresses": [
     {
       "street": "שדרות יערית",
@@ -19,5 +19,8 @@
       "lat": 33.07866660987426,
       "lon": 35.13431894092553
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "cortexdental.europe",
+  "linkedinNum": 1142933
 }

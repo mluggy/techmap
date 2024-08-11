@@ -1,5 +1,5 @@
 {
-  "name": "Jethrodata",
+  "name": "Jethro Data",
   "description": "A cutting-edge engine enhancing big data query performance for BI tools by acting as an acceleration layer on Hadoop and other data sources.",
   "categoryId": 1,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "jethrodata",
-  "xId": null,
+  "xId": "JethroData",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1932202,
       "lon": 34.8827706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Jethrodata",
+  "linkedinNum": 2894649
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Multi For All",
-  "description": "A management system that optimizes parallel computing across Linux clusters and multi-cluster clouds.",
-  "categoryId": 6,
+  "name": "MULTI FOR ALL",
+  "description": "Child Language Assessment App with Guidance for Parents",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/multi_for_all-logo.webp",
-  "websiteUrl": "https://mosix.cs.huji.ac.il/",
+  "websiteUrl": "https://www.multi4all.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0714472,
       "lon": 34.8453435
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MuLTIforAll",
+  "linkedinNum": 31401138
 }

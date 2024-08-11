@@ -1,5 +1,5 @@
 {
-  "name": "Docauthority",
+  "name": "DocAuthority",
   "description": "Detection and safeguarding of confidential information.",
   "categoryId": 7,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "docauthority",
   "crunchbaseId": "docauthority",
   "finderId": "cloudauthority",
-  "xId": null,
+  "xId": "DocAuthority",
   "addresses": [
     {
       "street": "התדהר",
@@ -19,5 +19,8 @@
       "lat": 32.19630935,
       "lon": 34.88423473965118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DocAuthority",
+  "linkedinNum": 6382154
 }

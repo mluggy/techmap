@@ -1,10 +1,10 @@
 {
-  "name": "Efficacy Care R D",
-  "description": "Improving healthcare quality by delivering top-tier evidence on the benefits and risks of medical treatments and devices.",
+  "name": "Efficacy Care",
+  "description": "Prescriptive Health Analytics Platform",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/efficacy_care_r_d-logo.webp",
-  "websiteUrl": "https://effectivehealthcare.ahrq.gov/",
+  "websiteUrl": "https://www.efficacy.care",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "efficacycare",
@@ -19,5 +19,7 @@
       "lat": 31.7337371,
       "lon": 35.2089875
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18096034
 }

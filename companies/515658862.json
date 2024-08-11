@@ -1,5 +1,5 @@
 {
-  "name": "Cheetah Technologies",
+  "name": "Cheetah",
   "description": "App for Restaurant Supplies.",
   "categoryId": 9,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "gocheetah",
   "crunchbaseId": null,
   "finderId": "cheetah-technologies",
-  "xId": null,
+  "xId": "restcheetah",
   "addresses": [
     {
       "street": "בגין מנחם",
@@ -19,5 +19,8 @@
       "lat": 32.0736702,
       "lon": 34.8535056
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "gocheetah",
+  "linkedinNum": 10402752
 }

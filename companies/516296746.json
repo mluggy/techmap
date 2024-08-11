@@ -1,10 +1,10 @@
 {
-  "name": "Uci Technologies",
-  "description": "Providing IT leadership, services, and innovative solutions to support the research, education, and community service goals of UC Irvine.",
-  "categoryId": 14,
+  "name": "UCI Technologies",
+  "description": "CRF Technology for Search and Rescue, Navigation, and HLS",
+  "categoryId": 7,
   "size": "s",
   "logoFile": "logos/uci_technologies-logo.webp",
-  "websiteUrl": "https://www.oit.uci.edu/",
+  "websiteUrl": "https://www.ucitech.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.70471200694072,
       "lon": 35.12184109638711
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 87975048
 }

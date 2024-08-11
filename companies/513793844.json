@@ -1,16 +1,16 @@
 {
-  "name": "Xplace",
-  "description": "Providing transparent and fair rental agreements for accessible and well-equipped apartments across Prague and Central Bohemia.",
+  "name": "XPlace",
+  "description": "Marketplace for Freelance Professionals",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/xplace-logo.webp",
-  "websiteUrl": "https://www.xplace.cz/",
+  "websiteUrl": "https://www.xplace.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "xplace",
-  "xId": null,
+  "xId": "XPlaceFreelance",
   "addresses": [
     {
       "street": "זויתן",
@@ -19,5 +19,8 @@
       "lat": 32.2652185,
       "lon": 34.8919397
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "XPlace",
+  "linkedinNum": 263385
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Amza",
-  "description": "Offering natural, high-fiber spreads and barley-based products packed with protein, omega-3s, and lignans.",
-  "categoryId": 9,
+  "name": "Amza Technologies",
+  "description": "Industrial Surface Finishing and Cleaning",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/amza_ltd-logo.webp",
-  "websiteUrl": "https://amzasuperfoods.com/",
+  "websiteUrl": "https://www.amza-ltd.com/en",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "amza-ltd",
@@ -19,5 +19,7 @@
       "lat": 32.107158,
       "lon": 34.8961087
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 53452373
 }

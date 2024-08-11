@@ -1,16 +1,16 @@
 {
-  "name": "Siyata Mobile Israel",
+  "name": "Siyata Mobile",
   "description": "An all-in-one 4G/LTE vehicle fleet communication device offering crystal clear connectivity.",
-  "categoryId": 18,
   "size": "xs",
+  "categoryId": 18,
   "logoFile": "logos/siyata_mobile_israel-logo.webp",
-  "websiteUrl": "https://siyata.net/",
+  "websiteUrl": "https://www.siyatamobile.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "siyata-mobile",
   "crunchbaseId": null,
   "finderId": "siyata-mobile",
-  "xId": null,
+  "xId": "SiyataMobile",
   "addresses": [
     {
       "street": "שרון אריאל",
@@ -19,5 +19,8 @@
       "lat": 32.0219471,
       "lon": 34.8582471
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "SiyataMobile",
+  "linkedinNum": 6277987
 }

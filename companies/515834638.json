@@ -1,10 +1,10 @@
 {
   "name": "Transigo",
-  "description": "Financial Services for International Trade.",
+  "description": "Payment Solution for Importers and Exporters",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/transigo-logo.webp",
-  "websiteUrl": "https://www.transigosolutions.com/",
+  "websiteUrl": "https://www.transigo.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "transigo-io",
@@ -19,5 +19,8 @@
       "lat": 32.1666999,
       "lon": 34.8099066
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "transigo.io",
+  "linkedinNum": 28977161
 }

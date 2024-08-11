@@ -1,16 +1,16 @@
 {
   "name": "Inango",
-  "description": "A free online platform for managing rental properties efficiently.",
-  "categoryId": 9,
+  "description": "Communications Software",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/inango-logo.webp",
-  "websiteUrl": "https://innago.com/",
+  "websiteUrl": "https://inango.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "inango",
-  "xId": null,
+  "xId": "inango_systems",
   "addresses": [
     {
       "street": "ברקוביץ",
@@ -19,5 +19,8 @@
       "lat": 32.078703,
       "lon": 34.7870616
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "InangoSystems",
+  "linkedinNum": 508335
 }

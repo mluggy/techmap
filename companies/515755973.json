@@ -1,10 +1,10 @@
 {
-  "name": "Ladysense 2017",
-  "description": "Virtual Platform for Gynecological Exams.",
+  "name": "LadySense",
+  "description": "Remote Gynecological Examination Platform",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ladysense_2017-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.ladysense.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "ladysense",
@@ -19,5 +19,7 @@
       "lat": 32.0738282,
       "lon": 34.8282686
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 68571257
 }

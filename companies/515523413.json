@@ -1,5 +1,5 @@
 {
-  "name": "Touchwand",
+  "name": "TouchWand",
   "description": "Providing multilingual, faith-inclusive smart home solutions with comprehensive cloud support for system configurations and usage data analysis.",
   "categoryId": 13,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "touchwand",
-  "xId": null,
+  "xId": "Touch_Wand",
   "addresses": [
     {
       "street": "אימבר",
@@ -19,5 +19,8 @@
       "lat": 32.0990407,
       "lon": 34.8638604
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TouchWand",
+  "linkedinNum": 27098132
 }

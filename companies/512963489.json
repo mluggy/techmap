@@ -1,0 +1,25 @@
+{
+  "name": "10bis",
+  "description": "Food Delivery Service",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/10bis.webp",
+  "websiteUrl": "https://www.10bis.co.il/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 208480,
+  "crunchbaseId": null,
+  "finderId": "10bis",
+  "xId": null,
+  "facebookId": "10bis",
+  "addresses": [
+    {
+      "street": "דרך בגין",
+      "houseNumber": 144,
+      "city": "תל אביב - יפו",
+      "lat": 32.07831790973712,
+      "lon": 34.79392889574202
+    }
+  ],
+  "isMultinational": false
+}

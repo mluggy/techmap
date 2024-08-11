@@ -1,10 +1,10 @@
 {
-  "name": "Greazly Lubrication Monitoring",
-  "description": "Offering a variety of upcoming exhibitions and events, this company is set to host engaging and diverse art displays from March to June 2024.",
-  "categoryId": 13,
+  "name": "Greazly",
+  "description": "Real-Time Machine Greasing Monitoring to Prevent Downtime",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/greazly_lubrication_monitoring-logo.webp",
-  "websiteUrl": "https://www.grizzlygrizzly.com/",
+  "websiteUrl": "https://www.greazly.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.784761978704296,
       "lon": 35.00719498971034
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 79454771
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Smartcon Tec",
-  "description": "A premier platform for brands to lead in blockchain innovation and reach a global audience.",
-  "categoryId": 10,
+  "name": "SmartCon",
+  "description": "Building-integrated Photovoltaic Solutions",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/smartcon_tec-logo.webp",
-  "websiteUrl": "https://smartcon.chain.link/",
+  "websiteUrl": "https://smartcon.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.109636,
       "lon": 34.837396
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 86833498
 }

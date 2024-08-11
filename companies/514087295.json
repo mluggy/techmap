@@ -1,10 +1,10 @@
 {
   "name": "Sandigo",
-  "description": "A platform for embracing and implementing Web3.0 technologies.",
-  "categoryId": 9,
+  "description": "Web3.0 Digital Adoption Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/sandigo-logo.webp",
-  "websiteUrl": "https://www.sandiego.gov/",
+  "websiteUrl": "https://www.sandigo.xyz/",
   "careersUrl": "https://www.sandiego.edu/jobs/",
   "isHiring": true,
   "linkedinId": "sandigo-xyz",
@@ -19,5 +19,7 @@
       "lat": 32.0778913,
       "lon": 34.790694
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 90371745
 }

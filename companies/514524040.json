@@ -1,5 +1,5 @@
 {
-  "name": "Sale Freaks",
+  "name": "SaleFreaks",
   "description": "A leading dropshipping platform with over a decade of experience, offering an unparalleled VeRO database to safeguard your account by preventing the listing of problematic items.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.0887336,
       "lon": 34.8583998
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SaleFreaksOfficial",
+  "linkedinNum": 3518415
 }

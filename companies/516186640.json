@@ -1,5 +1,5 @@
 {
-  "name": "Calosense",
+  "name": "CaloSense Health",
   "description": "Offering professional, personalized healthcare with proactive follow-up plans, Calosense ensures optimal wellbeing through collaboration with top medical experts, benchmarks, and customizable alerts.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "calosense",
   "crunchbaseId": null,
   "finderId": "calosense",
-  "xId": null,
+  "xId": "CaloSense",
   "addresses": [
     {
       "street": "ברמן בני",
@@ -19,5 +19,7 @@
       "lat": 32.2828804,
       "lon": 34.8429756
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72188487
 }

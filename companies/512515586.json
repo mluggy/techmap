@@ -1,10 +1,10 @@
 {
   "name": "Agam Energy Systems",
-  "description": "Offering energy-efficient and eco-friendly climate control solutions utilized globally in over 10 countries.",
+  "description": "Waste Heat to Electricity",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/agam_energy_systems-logo.webp",
-  "websiteUrl": "http://agam-greenhouses.com/",
+  "websiteUrl": "https://agam-energy.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "agam-energy-systems",
@@ -19,5 +19,6 @@
       "lat": 32.1613689,
       "lon": 34.8824779
     }
-  ]
+  ],
+  "isMultinational": false
 }

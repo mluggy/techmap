@@ -1,5 +1,5 @@
 {
-  "name": "Borderfree Research And Development",
+  "name": "Borderfree",
   "description": "Worldwide online marketplace tailored for American businesses.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "borderfree",
-  "xId": null,
+  "xId": "shopborderfree",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.109707,
       "lon": 34.840481
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "borderfree",
+  "linkedinNum": 524954
 }

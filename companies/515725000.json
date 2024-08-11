@@ -1,10 +1,10 @@
 {
-  "name": "Therapin",
-  "description": "Medications Derived from Cannabis.",
+  "name": "THERAPiN",
+  "description": "Cannabis-based Drug Preparations",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/therapin-logo.webp",
-  "websiteUrl": "https://www.therapinhealth.com/",
+  "websiteUrl": "https://www.therapin.com/\t",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "therapin-ltd",
@@ -19,5 +19,8 @@
       "lat": 32.5984699,
       "lon": 35.0542315
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "therapin.Israel",
+  "linkedinNum": 72697842
 }

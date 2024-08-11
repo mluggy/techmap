@@ -1,16 +1,16 @@
 {
-  "name": "Resight",
-  "description": "Streamline property data management and enhance business growth with a hassle-free trial.",
-  "categoryId": 9,
+  "name": "ReSight",
+  "description": "AI-powered Spatial Indexing",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/resight-logo.webp",
-  "websiteUrl": "https://resights.dk/",
+  "websiteUrl": "https://resight.io",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "resight",
-  "xId": null,
+  "xId": "ReSight_MR",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.063157,
       "lon": 34.770193
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ReSight.io",
+  "linkedinNum": 27174821
 }

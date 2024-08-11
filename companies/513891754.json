@@ -7,10 +7,10 @@
   "websiteUrl": "https://mobilicom.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mobilicom",
   "crunchbaseId": null,
   "finderId": "mobilicom",
-  "xId": null,
+  "xId": "mobilicomasx",
   "addresses": [
     {
       "street": "רקפת",
@@ -19,5 +19,8 @@
       "lat": 32.01948610162985,
       "lon": 34.961390245419054
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mobilicom",
+  "linkedinNum": 269088
 }

@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vimmi",
-  "xId": null,
+  "xId": "Vimmi_tweets",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 31.7520136,
       "lon": 35.0000166
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "vimmicom",
+  "linkedinNum": 5083700
 }

@@ -1,16 +1,16 @@
 {
   "name": "Commugen",
-  "description": "An automated visualization tool that provides instant, up-to-date snapshots of a bank's status, saving hours of manual data collection and validation.",
-  "categoryId": 10,
+  "description": "No-code Cybersecurity GRC Solutions",
+  "categoryId": 7,
   "size": "s",
   "logoFile": "logos/commugen-logo.webp",
-  "websiteUrl": "https://www.cyber.commugen.com/",
+  "websiteUrl": "https://www.commugen.com/en/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "commugen",
   "crunchbaseId": null,
   "finderId": "commugen",
-  "xId": null,
+  "xId": "CommugenNews",
   "addresses": [
     {
       "street": "נחלת בנימין",
@@ -19,5 +19,8 @@
       "lat": 32.0649132,
       "lon": 34.7711251
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pages",
+  "linkedinNum": 141915
 }

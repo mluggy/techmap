@@ -1,5 +1,5 @@
 {
-  "name": "Respir Ai Medical",
+  "name": "RespirAI Medical",
   "description": "Developing wearable technology for continuous, passive health monitoring, detecting early-stage deviations and alerting care teams promptly.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.1581834,
       "lon": 34.8433826
     }
-  ]
+  ],
+  "isMultinational": false
 }

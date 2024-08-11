@@ -1,5 +1,5 @@
 {
-  "name": "X Trodes",
+  "name": "X-trodes",
   "description": "We're revolutionizing data collection with our medical-grade Smart Skin, enabling real-world electrophysiological monitoring.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "x-trodes1",
-  "xId": null,
+  "xId": "Xtrodes",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,7 @@
       "lat": 32.1671717,
       "lon": 34.811599
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 53434548
 }

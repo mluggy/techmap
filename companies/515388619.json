@@ -1,0 +1,25 @@
+{
+  "name": "BIZI",
+  "description": "Real-time City-level Information",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/bizi1.webp",
+  "websiteUrl": "https://bizi-tlv.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "bizi1",
+  "xId": null,
+  "facebookId": "BIZItlv",
+  "addresses": [
+    {
+      "street": "שדרובצקי שלמה",
+      "houseNumber": 21,
+      "city": "פתח תקווה",
+      "lat": 32.08110845069907,
+      "lon": 34.86108540955405
+    }
+  ],
+  "isMultinational": false
+}

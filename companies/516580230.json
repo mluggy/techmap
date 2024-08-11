@@ -1,5 +1,5 @@
 {
-  "name": "Flexor Technologies",
+  "name": "Flexor",
   "description": "Utilizes large language models to convert plain text into practical insights.",
   "categoryId": 1,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.070765,
       "lon": 34.791259
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 83542839
 }

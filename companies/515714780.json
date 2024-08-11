@@ -1,5 +1,5 @@
 {
-  "name": "Aleph Bot",
+  "name": "AlephBot",
   "description": "Revolutionizing healthcare with real-time data and automated procedure documentation for improved medical team efficiency.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.69318047406131,
       "lon": 34.9474915336941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 17876073
 }

@@ -1,10 +1,10 @@
 {
   "name": "Hortica",
-  "description": "Specializing in horticultural insurance, we ensure comprehensive coverage and reliable support for your business needs.",
-  "categoryId": 12,
+  "description": "Horticultural Technologies",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/hortica-logo.webp",
-  "websiteUrl": "https://www.hortica.com/",
+  "websiteUrl": "https://hortica.io/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "hortica-insurance",
@@ -19,5 +19,7 @@
       "lat": 32.0140654,
       "lon": 34.9333804
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 49126695
 }

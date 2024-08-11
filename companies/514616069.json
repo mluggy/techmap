@@ -1,5 +1,5 @@
 {
-  "name": "Rodradar",
+  "name": "RodRadar",
   "description": "A patented ground-penetrating radar platform offering real-time, automatic underground utility detection to ensure safe and reliable excavations.",
   "categoryId": 15,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rod-radar",
-  "xId": null,
+  "xId": "RodRadar",
   "addresses": [
     {
       "street": "הרימון",
@@ -19,5 +19,8 @@
       "lat": 32.044338932493076,
       "lon": 34.93225791803845
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rodradaraus",
+  "linkedinNum": 18268161
 }

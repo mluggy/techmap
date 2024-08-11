@@ -1,5 +1,5 @@
 {
-  "name": "Yarok Technology Transfer",
+  "name": "Yarok Microbio",
   "description": "Award-winning for its groundbreaking agribusiness technology, recognized globally by the United Nations in 2017.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "yarok-technology-transfer",
   "crunchbaseId": null,
   "finderId": "yarok-technology-transfer",
-  "xId": null,
+  "xId": "yaroktt",
   "addresses": [
     {
       "street": "ניל\"י",
@@ -19,5 +19,8 @@
       "lat": 31.7667716,
       "lon": 35.2078784
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "yarokmicrobio",
+  "linkedinNum": 10548998
 }

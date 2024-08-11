@@ -1,10 +1,10 @@
 {
-  "name": "Ics Security 2014",
-  "description": "A top security service provider ensuring the safety of businesses and individuals in the Maryland, DC, and Virginia areas.",
+  "name": "ICS Security",
+  "description": "Network Intrusion Detection System for Critical Infrastructure",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/ics_security_2014-logo.webp",
-  "websiteUrl": "https://www.icsprotection.com/",
+  "websiteUrl": "https://ics-security.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.2727059,
       "lon": 34.8411196
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "icsicsss",
+  "linkedinNum": 42089508
 }

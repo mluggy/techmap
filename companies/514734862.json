@@ -1,5 +1,5 @@
 {
-  "name": "Petpace",
+  "name": "PetPace",
   "description": "An advanced AI smart collar for continuous health and GPS monitoring, prioritizing your pet's well-being.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "petpace",
-  "xId": null,
+  "xId": "petpaceinc",
   "addresses": [
     {
       "street": "מרכז מסחרי חוצות שפיים",
@@ -19,5 +19,8 @@
       "lat": 32.2207402,
       "lon": 34.828342453262906
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "petpace",
+  "linkedinNum": 9965560
 }

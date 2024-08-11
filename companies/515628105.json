@@ -1,10 +1,10 @@
 {
-  "name": "Arshow",
+  "name": "ARShow",
   "description": "Pioneering augmented reality group experiences with expertise in live show productions and multimedia solutions.",
   "categoryId": 4,
   "size": "xs",
   "logoFile": "logos/arshow-logo.webp",
-  "websiteUrl": "http://www.arshowpro.com/",
+  "websiteUrl": "https://www.arshowpro.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.084416,
       "lon": 34.7826105
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ARShowStagingDream",
+  "linkedinNum": 18470526
 }

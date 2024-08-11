@@ -10,7 +10,7 @@
   "linkedinId": "beyond-oil",
   "crunchbaseId": null,
   "finderId": "beyond-oil",
-  "xId": null,
+  "xId": "oil_beyond",
   "addresses": [
     {
       "street": "דרך ראשית ההתיישבות",
@@ -19,5 +19,7 @@
       "lat": 32.67603203643473,
       "lon": 35.22876266489594
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 14050391
 }

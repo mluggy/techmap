@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "lycored",
-  "xId": null,
+  "xId": "Lycored",
   "addresses": [
     {
       "street": "דרך חברון",
@@ -19,5 +19,8 @@
       "lat": 31.2444598,
       "lon": 34.8061166
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Lycored",
+  "linkedinNum": 132386
 }

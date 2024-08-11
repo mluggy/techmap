@@ -1,5 +1,5 @@
 {
-  "name": "Uveye",
+  "name": "UVeye",
   "description": "This company specializes in automated vehicle inspections throughout the entire vehicle lifecycle, supported by industry giants like GM and Toyota.",
   "categoryId": 15,
   "size": "m",
@@ -19,5 +19,8 @@
       "lat": 32.064839,
       "lon": 34.795597
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "UVEye.Ltd",
+  "linkedinNum": 15160113
 }

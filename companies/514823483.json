@@ -1,5 +1,5 @@
 {
-  "name": "Mprest Electric",
+  "name": "mPrest",
   "description": "Provides comprehensive visibility and control over diverse sensors, devices, and systems by integrating and managing IT and OT applications.",
   "categoryId": 13,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://mprest.com/",
   "careersUrl": "https://mprest.com/mprest_careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "mprest",
   "crunchbaseId": "mprest",
   "finderId": "mprest",
-  "xId": null,
+  "xId": "mPrestTech",
   "addresses": [
     {
       "street": "דרך אם המושבות",
@@ -19,5 +19,9 @@
       "lat": 32.1005635,
       "lon": 34.8495503
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MPrest-systems-658160444214300",
+  "linkedinNum": 38371,
+  "comeetId": "mprest/38.005"
 }

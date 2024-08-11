@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "Magentiq-Eye",
-  "xId": null,
+  "xId": "magentiqeye",
   "addresses": [
     {
       "street": "שד בן גוריון",
@@ -19,5 +19,8 @@
       "lat": 32.58889115,
       "lon": 34.950383
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Magentiq.Eye",
+  "linkedinNum": 10118743
 }

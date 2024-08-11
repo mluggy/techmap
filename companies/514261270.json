@@ -1,5 +1,5 @@
 {
-  "name": "Powerplug",
+  "name": "PowerPlug",
   "description": "Their software simplifies energy management, reduces costs, and promotes sustainability through advanced power management features.",
   "categoryId": 17,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "powerplug",
-  "xId": null,
+  "xId": "PowerPlugLtd",
   "addresses": [
     {
       "street": "הארד",
@@ -19,5 +19,8 @@
       "lat": 32.111224,
       "lon": 34.840767
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PowerPlugLtd",
+  "linkedinNum": 494877
 }

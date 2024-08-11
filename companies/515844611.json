@@ -1,10 +1,10 @@
 {
   "name": "Seekwell",
-  "description": "A powerful analytics and visualization tool that integrates SQL with Google Sheets for effortless real-time dashboard creation.",
-  "categoryId": 14,
+  "description": "Cannabis-based Therapeutics",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/seekwell-logo.webp",
-  "websiteUrl": "https://www.seekwell.io/",
+  "websiteUrl": "https://seekwell.net/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.113198,
       "lon": 34.844295
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18979561
 }

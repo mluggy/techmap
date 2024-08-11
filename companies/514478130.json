@@ -1,10 +1,10 @@
 {
   "name": "Dentstorm",
-  "description": "A specialized professional store offering dental and dental technology products.",
+  "description": "Management Platform for Dental Practitioners",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/dentstorm-logo.webp",
-  "websiteUrl": "https://dentstore.bg/",
+  "websiteUrl": "https://www.dentstorm.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.121458000000004,
       "lon": 34.79956838004566
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2813202
 }

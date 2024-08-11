@@ -1,5 +1,5 @@
 {
-  "name": "Oddity Tech",
+  "name": "Oddity",
   "description": "A leading tech platform revolutionizing beauty and wellness by creating and scaling digital-first brands with AI.",
   "categoryId": 1,
   "size": "l",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://oddity.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "odditytech",
   "crunchbaseId": null,
   "finderId": "oddity",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.056097,
       "lon": 34.783691
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 80031667
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Kidoz",
+  "name": "KIDOZ",
   "description": "A leading COPPA and GDPR compliant mobile ad network, Kidoz connects brands, publishers, and over 350 million children, teens, and families monthly in a safe environment.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "kido-z",
-  "xId": null,
+  "xId": "kidoz",
   "addresses": [
     {
       "street": "האומנות",
@@ -19,5 +19,8 @@
       "lat": 32.2779166,
       "lon": 34.8600625
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "kidoz.net",
+  "linkedinNum": 850789
 }

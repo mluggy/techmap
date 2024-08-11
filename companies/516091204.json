@@ -1,10 +1,10 @@
 {
-  "name": "Canopy Immuno Therapeutics",
-  "description": "Offers cloud-based software for managing accounting practices, including CRM, document management, client portals, workflow, payments, and billing.",
+  "name": "Canopy",
+  "description": "Intelligent Care Platform for Oncology",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/canopy_immuno_therapeutics-logo.webp",
-  "websiteUrl": "https://www.getcanopy.com/",
+  "websiteUrl": "https://www.canopycare.us/",
   "careersUrl": "https://www.canopycare.us/careers",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7324707,
       "lon": 34.9569149
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 27230672
 }

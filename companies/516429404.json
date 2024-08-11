@@ -1,10 +1,10 @@
 {
-  "name": "Hypermode",
-  "description": "Weekly new items with same-day shipping for orders placed by 4 PM (Mon-Sat) and a shipping fee of €3.95.",
-  "categoryId": 9,
+  "name": "HyperMode",
+  "description": "Mobile Games Creator",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/hypermode-logo.webp",
-  "websiteUrl": "https://hypemode.nl/",
+  "websiteUrl": "https://hypermode.gg/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0147299,
       "lon": 34.8017626
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 74538963
 }

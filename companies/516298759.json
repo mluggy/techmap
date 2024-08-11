@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.grip.security/",
   "careersUrl": "https://www.grip.security/saas-security-careers-page",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "grip-security",
   "crunchbaseId": null,
   "finderId": "grip-security",
-  "xId": null,
+  "xId": "GripSecurity",
   "addresses": [
     {
       "street": "כצנלסון",
@@ -19,5 +19,8 @@
       "lat": 32.0751148,
       "lon": 34.8043949
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Grip-Security-100362122201071",
+  "linkedinNum": 72376695
 }

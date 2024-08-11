@@ -1,5 +1,5 @@
 {
-  "name": "Perfectscale",
+  "name": "PerfectScale",
   "description": "Automated optimization ensures low cloud costs and stable, resilient environments by continuously adapting to changing demands and configurations.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "perfectscale",
   "crunchbaseId": null,
   "finderId": "perfectscale",
-  "xId": null,
+  "xId": "PerfectScale_io",
   "addresses": [
     {
       "street": "בן צבי יצחק",
@@ -19,5 +19,6 @@
       "lat": 32.0732644,
       "lon": 34.8859129
     }
-  ]
+  ],
+  "isMultinational": false
 }

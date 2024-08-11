@@ -1,16 +1,16 @@
 {
-  "name": "Easy Education",
-  "description": "Offering syllabus-tailored video tutorials, we facilitate self-paced STEM learning with detailed breakdowns and ample practice to ensure thorough comprehension.",
-  "categoryId": 12,
+  "name": "Proprep",
+  "description": "STEM Video Tutorials and Study Guides",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/easy_education-logo.webp",
-  "websiteUrl": "https://www.proprep.com/",
+  "websiteUrl": "https://www.proprep.uk/",
   "careersUrl": "https://www.proprep.com/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "easy-education",
-  "xId": null,
+  "xId": "proprepUK",
   "addresses": [
     {
       "street": "בית הכרם",
@@ -19,5 +19,8 @@
       "lat": 32.27789832497225,
       "lon": 34.91107792201786
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "proprepeducation",
+  "linkedinNum": 10553852
 }

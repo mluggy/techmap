@@ -1,5 +1,5 @@
 {
-  "name": "Powtoon",
+  "name": "PowToon",
   "description": "Utilize expertly crafted templates and extensive resources to quickly produce impactful video and visual content, supported by a global community of over 40 million users.",
   "categoryId": 8,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.powtoon.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "powtoon-ltd",
   "crunchbaseId": null,
   "finderId": "powtoon",
-  "xId": null,
+  "xId": "powtoon",
   "addresses": [
     {
       "street": "הארבעה",
@@ -19,5 +19,8 @@
       "lat": 32.070501,
       "lon": 34.785145
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PowToon",
+  "linkedinNum": 2565844
 }

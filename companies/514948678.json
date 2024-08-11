@@ -1,5 +1,5 @@
 {
-  "name": "Otentik Smart Solutions",
+  "name": "Otentik",
   "description": "Offering beach tents that are effortlessly set up using fillable sand pockets and a pull-string closure.",
   "categoryId": 9,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "otentik",
-  "xId": null,
+  "xId": "OtentikUSA",
   "addresses": [
     {
       "street": "החרוב",
@@ -19,5 +19,7 @@
       "lat": 32.5199012,
       "lon": 34.9229464
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "OtentikOriginal"
 }

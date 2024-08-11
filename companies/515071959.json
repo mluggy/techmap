@@ -1,5 +1,5 @@
 {
-  "name": "Ffrobotics",
+  "name": "FFRobotics",
   "description": "An innovative harvesting platform that mimics human hand-picking for efficient, cost-effective, and bruise-free fruit collection, addressing labor challenges and reducing costs for farmers.",
   "categoryId": 15,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.29238722318367,
       "lon": 34.93609802228859
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5202999
 }

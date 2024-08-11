@@ -1,5 +1,5 @@
 {
-  "name": "Astroscale Israel",
+  "name": "Astroscale",
   "description": "Pioneering safe and sustainable space development for future generations.",
   "categoryId": 3,
   "size": "l",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://astroscale.com/",
   "careersUrl": "https://astroscale.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "astroscale",
   "crunchbaseId": null,
   "finderId": "astroscale",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": true,
+  "linkedinNum": 6404968
 }

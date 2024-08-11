@@ -10,7 +10,7 @@
   "linkedinId": "twik",
   "crunchbaseId": null,
   "finderId": "twik-technologies",
-  "xId": null,
+  "xId": "TwikPlatform",
   "addresses": [
     {
       "street": "שוקן",
@@ -19,5 +19,8 @@
       "lat": 32.053118,
       "lon": 34.772401
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "twik.io",
+  "linkedinNum": 17936857
 }

@@ -1,10 +1,10 @@
 {
   "name": "Hemisens Technologies",
-  "description": "Heart Health Imaging and Diagnostics.",
+  "description": "Cardiac Imaging and Diagnostics",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/hemisens_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://hemisens.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.2445535,
       "lon": 34.8053096
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 66593622
 }

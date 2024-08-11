@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "boardish",
-  "xId": null,
+  "xId": "SpeakBoardish",
   "addresses": [
     {
       "street": "אשכול לוי",
@@ -19,5 +19,8 @@
       "lat": 32.0993918,
       "lon": 34.7905652
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SpeakBoardish",
+  "linkedinNum": 47974687
 }

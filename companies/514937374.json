@@ -1,10 +1,10 @@
 {
-  "name": "Sumit Always On It",
-  "description": "Challenge your logic and math skills by filling in missing digits in puzzles to achieve valid sums and progress to higher levels.",
-  "categoryId": 11,
+  "name": "Sumit",
+  "description": "Accounting Software for Office Management",
+  "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/sumit_always_on_it-logo.webp",
-  "websiteUrl": "https://sumit.clontz.org/",
+  "websiteUrl": "https://www.sumit.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.7561738,
       "lon": 35.212465
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SUMIT.co.il",
+  "linkedinNum": 3536535
 }

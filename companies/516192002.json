@@ -1,10 +1,10 @@
 {
-  "name": "Vee Technologies Based A I",
-  "description": "A beloved local eatery offering fresh, seasonal dishes with unique wines and regional specialties since 2008.",
-  "categoryId": 1,
+  "name": "Vee",
+  "description": "AI Assistance for Non-Profit Support",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/vee_technologies_based_a_i-logo.webp",
-  "websiteUrl": "https://www.veeveejp.com/",
+  "websiteUrl": "https://www.vee.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "VeeApps",
+  "linkedinNum": 51645888
 }

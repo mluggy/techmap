@@ -1,10 +1,10 @@
 {
-  "name": "Grivo",
-  "description": "Platform for Home Charging Solutions.",
+  "name": "GRIVO",
+  "description": "Marketplace for Home Chargers",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/grivo-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.grivo.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.7214759,
       "lon": 35.2464756
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Grevo.Israel",
+  "linkedinNum": 79443368
 }

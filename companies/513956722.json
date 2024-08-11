@@ -10,7 +10,7 @@
   "linkedinId": "mobideo",
   "crunchbaseId": null,
   "finderId": "mobideo-technologies",
-  "xId": null,
+  "xId": "mobideo",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.108278,
       "lon": 34.9652441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pg",
+  "linkedinNum": 75813
 }

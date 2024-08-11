@@ -1,5 +1,5 @@
 {
-  "name": "Drygair Energies",
+  "name": "DryGair Energies",
   "description": "Specializing in humidity control and energy-saving solutions, this company offers expert consultations to enhance greenhouse climate conditions and disease prevention.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "drygair-energies-ltd-",
   "crunchbaseId": null,
   "finderId": "drygair",
-  "xId": null,
+  "xId": "drygairenergies",
   "addresses": [
     {
       "street": "היוצרים",
@@ -19,5 +19,8 @@
       "lat": 31.968658972687045,
       "lon": 34.891788418998765
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DryGair",
+  "linkedinNum": 5121264
 }

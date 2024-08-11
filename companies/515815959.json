@@ -1,16 +1,16 @@
 {
-  "name": "Iti Partners Management",
+  "name": "ITI",
   "description": "A comprehensive platform offering over 1,000 on-demand courses and an advanced learning management system for rigging and hoisting professionals.",
-  "categoryId": 14,
   "size": "l",
+  "categoryId": 14,
   "logoFile": "logos/iti_partners_management-logo.webp",
-  "websiteUrl": "https://www.iti.com/",
-  "careersUrl": "https://www.sheetmetal-iti.org/career-paths",
+  "websiteUrl": "https://www.iti-global.com/",
+  "careersUrl": "https://www.iti-global.com/careers",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "iti-transcendata",
   "crunchbaseId": null,
   "finderId": "iti",
-  "xId": null,
+  "xId": "ITI_Global",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.106882,
       "lon": 34.835564
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "InternationalTechneGroup",
+  "linkedinNum": 525622
 }

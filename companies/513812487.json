@@ -1,10 +1,10 @@
 {
-  "name": "Pulmone Advanced Medical Devices",
-  "description": "Offering a rich culinary journey with authentic street-style noodles and soul-warming dumplings.",
+  "name": "PulmOne",
+  "description": "Desktop Device for Pulmonary Function Testing",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/pulmone_advanced_medical_devices-logo.webp",
-  "websiteUrl": "https://www.pulmuonefoodsusa.com/",
+  "websiteUrl": "https://www.pulm-one.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.1977715,
       "lon": 34.8781522
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "PulmOnePFT",
+  "linkedinNum": 3167146
 }

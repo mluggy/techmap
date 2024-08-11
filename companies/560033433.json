@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.voyager-labs.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "voyager-analytics",
   "crunchbaseId": null,
   "finderId": "voyager-labs",
-  "xId": null,
+  "xId": "voyagerlabs",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,7 @@
       "lat": 32.13264635,
       "lon": 34.89857182559817
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 6426008
 }

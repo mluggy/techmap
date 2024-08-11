@@ -1,5 +1,5 @@
 {
-  "name": "Ourcart",
+  "name": "OurCart",
   "description": "We empower consumer brands to understand and engage shoppers using patented technology and market insights.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "ourcart",
   "crunchbaseId": "ourcart",
   "finderId": "ourcart",
-  "xId": null,
+  "xId": "ourcartapp",
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -19,5 +19,8 @@
       "lat": 32.1640314,
       "lon": 34.8154209
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ourcartapp",
+  "linkedinNum": 10175170
 }

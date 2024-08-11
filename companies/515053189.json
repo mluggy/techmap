@@ -1,5 +1,5 @@
 {
-  "name": "Minereye",
+  "name": "MinerEye",
   "description": "A groundbreaking AI technology that efficiently tracks and monitors an organization's sensitive and critical data.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "minereyefindsdata",
   "crunchbaseId": null,
   "finderId": "minereye",
-  "xId": null,
+  "xId": "MinereyeLTD",
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +19,8 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MinerEyeDataTracker",
+  "linkedinNum": 5255831
 }

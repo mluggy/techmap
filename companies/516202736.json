@@ -1,10 +1,10 @@
 {
   "name": "Propdo",
-  "description": "פלטפורמה יחידה במינה בישראל לשיווק וקניית נדל\"ן בשיתוף לשכת המתווכים הארצית.",
-  "categoryId": 9,
+  "description": "AI Predictions for Real Estate",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/propdo-logo.webp",
-  "websiteUrl": "https://propdo.co.il/",
+  "websiteUrl": "https://propdo.ai",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0861321,
       "lon": 34.8040698
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19019226
 }

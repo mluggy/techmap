@@ -10,7 +10,7 @@
   "linkedinId": "deepchecks",
   "crunchbaseId": null,
   "finderId": "deepchecks",
-  "xId": null,
+  "xId": "deepchecks",
   "addresses": [
     {
       "street": "בורלא יהודה",
@@ -19,5 +19,8 @@
       "lat": 32.1067367,
       "lon": 34.7905159
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "deepchecks",
+  "linkedinNum": 36123084
 }

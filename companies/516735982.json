@@ -1,5 +1,5 @@
 {
-  "name": "Motus Tech",
+  "name": "Motus-Tech",
   "description": "Software for simulating urban environments using agent-based modeling.",
   "categoryId": 1,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.8018407,
       "lon": 35.0113343
     }
-  ]
+  ],
+  "isMultinational": false
 }

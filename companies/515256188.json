@@ -1,5 +1,5 @@
 {
-  "name": "Techsee Augmented Vision",
+  "name": "TechSee Augmented Vision",
   "description": "A Smart Visual Support System for Customers.",
   "categoryId": 4,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://techsee.me/",
   "careersUrl": "https://techsee.me/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "techsee",
   "crunchbaseId": "techsee",
   "finderId": "techsee-augmented-vision",
-  "xId": null,
+  "xId": "techsee_me",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.1604703,
       "lon": 34.809883
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TechSee-786286871505772",
+  "linkedinNum": 10024226
 }

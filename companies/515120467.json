@@ -1,5 +1,5 @@
 {
-  "name": "Namogoo Technologies",
+  "name": "Namogoo",
   "description": "We eliminate disruptions in the customer journey and utilize distinctive data to provide personalized experiences.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "namogoo",
-  "xId": null,
+  "xId": "Namogoo",
   "addresses": [
     {
       "street": "הסדנאות",
@@ -19,5 +19,8 @@
       "lat": 32.1616353,
       "lon": 34.8064697
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "namogoo",
+  "linkedinNum": 9247866
 }

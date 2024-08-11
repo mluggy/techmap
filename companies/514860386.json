@@ -1,16 +1,16 @@
 {
-  "name": "Balance Ultimate",
-  "description": "Track and enhance your meditation practice with concrete, measurable skills and time monitoring.",
-  "categoryId": 12,
+  "name": "Balance",
+  "description": "B2B Digital Checkout Platform",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/balance_ultimate-logo.webp",
-  "websiteUrl": "https://balanceapp.com/",
+  "websiteUrl": "https://www.getbalance.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "balance",
-  "xId": null,
+  "xId": "GetBalanceHQ",
   "addresses": [
     {
       "street": "שבזי",
@@ -19,5 +19,7 @@
       "lat": 32.17304,
       "lon": 34.8345165
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 72263384
 }

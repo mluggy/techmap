@@ -1,10 +1,10 @@
 {
-  "name": "Sitehood Interent Communications",
-  "description": "Offering a wide array of plush, vegan faux fur coats and bomber jackets with over 25,000 five-star reviews.",
-  "categoryId": 9,
+  "name": "Sitehood",
+  "description": "Instant Chat for Increased Conversions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/sitehood_interent_communications-logo.webp",
-  "websiteUrl": "https://www.spirithoods.com/",
+  "websiteUrl": "https://www.sitehood.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "sitehood",
@@ -19,5 +19,8 @@
       "lat": 31.7611275,
       "lon": 35.215327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SiteHood",
+  "linkedinNum": 1508700
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Imagry Israel",
-  "description": "Self-Driving Technology Without the Need for Maps.",
+  "name": "Imagry",
+  "description": "Mapless Autonomous Driving",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/imagry_israel-logo.webp",
-  "websiteUrl": "https://www.imagerywinery.com/",
+  "websiteUrl": "https://www.imagry.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "imagry",
-  "xId": null,
+  "xId": "imagryco",
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -19,5 +19,7 @@
       "lat": 32.8228261,
       "lon": 34.9943882
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3235709
 }

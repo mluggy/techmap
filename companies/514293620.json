@@ -10,7 +10,7 @@
   "linkedinId": "songo-media",
   "crunchbaseId": "say-media-group",
   "finderId": "say-media1",
-  "xId": null,
+  "xId": "SongoMedia",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,8 @@
       "lat": 32.1066986,
       "lon": 34.8348566
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SongoMedia",
+  "linkedinNum": 1889863
 }

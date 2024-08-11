@@ -1,5 +1,5 @@
 {
-  "name": "Syneron Medical",
+  "name": "Candela",
   "description": "A versatile laser system provides hair removal and various treatments for all skin and hair types using dual wavelengths.",
   "categoryId": 12,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "syneron-medical",
-  "xId": null,
+  "xId": "CandelaMedical",
   "addresses": [
     {
       "street": "הקידמה",
@@ -19,5 +19,8 @@
       "lat": 32.6651531,
       "lon": 35.10516992921238
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "candelamedical",
+  "linkedinNum": 28628504
 }

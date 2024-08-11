@@ -1,16 +1,16 @@
 {
-  "name": "Tarya Credit",
-  "description": "Providing comprehensive financial solutions, including loans, risk management, and earned wage access, all in one place.",
+  "name": "Tarya",
+  "description": "Peer-to-peer Lending Platform",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/tarya_credit-logo.webp",
-  "websiteUrl": "https://www.taryafintech.com/",
+  "websiteUrl": "https://www.tarya.co.il",
   "careersUrl": "https://www.taryafintech.com/careers/",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": "tarya",
   "finderId": "tarya",
-  "xId": null,
+  "xId": "TaryaFintech",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.108278,
       "lon": 34.9652441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "taryap2p",
+  "linkedinNum": 5243255
 }

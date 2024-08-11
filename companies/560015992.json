@@ -1,0 +1,25 @@
+{
+  "name": "BNP Paribas",
+  "description": null,
+  "categoryId": 10,
+  "size": "xl",
+  "logoFile": "logos/bnp-paribas.webp",
+  "websiteUrl": "https://group.bnpparibas/en/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 1508,
+  "crunchbaseId": null,
+  "finderId": "bnp-paribas",
+  "xId": "BNPParibas",
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "ברקוביץ",
+      "houseNumber": 4,
+      "city": "תל אביב - יפו",
+      "lat": 32.078671208359026,
+      "lon": 34.786972402979785
+    }
+  ],
+  "isMultinational": true
+}

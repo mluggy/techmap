@@ -1,15 +1,18 @@
 {
-  "name": "Sueapp",
-  "description": "Provides a simple, cost-effective solution for filing legal claims directly to the court without needing a lawyer.",
-  "categoryId": 10,
+  "name": "SueApp",
+  "description": "Application for Small-claims Filing",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/sueapp-logo.webp",
-  "websiteUrl": "https://www.sue-app.com/",
+  "websiteUrl": "https://www.sueapp.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sueapp",
   "xId": null,
-  "addresses": []
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "sueapp.co.il",
+  "linkedinNum": 77096440
 }

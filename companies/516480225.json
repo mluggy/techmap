@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "hypeindex",
-  "xId": null,
+  "xId": "IndexHype",
   "addresses": [
     {
       "street": "עטרות",
@@ -19,5 +19,8 @@
       "lat": 32.0741566,
       "lon": 34.8198988
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "HypeIndextool",
+  "linkedinNum": 81454517
 }

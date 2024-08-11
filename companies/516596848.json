@@ -1,10 +1,10 @@
 {
-  "name": "Netagenomix",
-  "description": "Transforming the Field of Plant Genetics.",
-  "categoryId": 12,
+  "name": "NetaGenomiX",
+  "description": "Revolutionizing Plant Genetics",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/netagenomix-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://netagenomix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "netagenomix",
@@ -19,5 +19,7 @@
       "lat": 32.02931658707364,
       "lon": 34.780903191517965
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 100164472
 }

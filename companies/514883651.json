@@ -1,5 +1,5 @@
 {
-  "name": "Cybergym Control",
+  "name": "CyberGym",
   "description": "Providing innovative cyber defense solutions through our newly launched website.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cybergymiec",
   "crunchbaseId": "cybergym",
   "finderId": "cybergym",
-  "xId": null,
+  "xId": "CyberGymArena",
   "addresses": [
     {
       "street": "ברקת-פארק התעשייה",
@@ -19,5 +19,7 @@
       "lat": 32.4812838,
       "lon": 34.9463717
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 3526356
 }

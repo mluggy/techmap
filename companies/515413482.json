@@ -1,5 +1,5 @@
 {
-  "name": "Binah AI",
+  "name": "Binah.ai",
   "description": "Their AI-driven software platform enables health and wellness monitoring via video on any smart device, with continuous check capabilities using raw PPG signals.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "binah-ai",
-  "xId": null,
+  "xId": "binah_ai",
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +19,8 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "100064013439216",
+  "linkedinNum": 11093931
 }

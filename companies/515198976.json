@@ -1,5 +1,5 @@
 {
-  "name": "Skypath",
+  "name": "SkyPath",
   "description": "Skypath enhances pilot navigation through turbulence, optimizing dispatch routing, fuel decisions, and in-flight adjustments for cost efficiency and safety.",
   "categoryId": 3,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "skypath1",
   "crunchbaseId": null,
   "finderId": "yamasee",
-  "xId": null,
+  "xId": "SkyPath_io",
   "addresses": [
     {
       "street": "גלעד",
@@ -19,5 +19,7 @@
       "lat": 32.4736128,
       "lon": 34.9767188
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 18076042
 }

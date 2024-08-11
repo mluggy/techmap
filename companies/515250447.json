@@ -1,5 +1,5 @@
 {
-  "name": "Syte Visual Conception",
+  "name": "Syte",
   "description": "A platform leveraging visual AI to enhance eCommerce with visual search, personalization, and automated product tagging.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "syte-ai",
   "crunchbaseId": "syte-visual-conception",
   "finderId": "syte",
-  "xId": null,
+  "xId": "SyteAI",
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +19,8 @@
       "lat": 32.05865,
       "lon": 34.784414
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SyteVisualAI",
+  "linkedinNum": 9490547
 }

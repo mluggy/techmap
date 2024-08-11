@@ -1,5 +1,5 @@
 {
-  "name": "Gentagel Lr",
+  "name": "GentaGel",
   "description": "A local injectable treatment that provides slow-release antibiotics for up to 60 days.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 31.7569837,
       "lon": 35.1704217
     }
-  ]
+  ],
+  "isMultinational": false
 }

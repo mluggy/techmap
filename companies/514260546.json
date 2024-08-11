@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "fooducate",
-  "xId": null,
+  "xId": "Fooducate",
   "addresses": [
     {
       "street": "ביאליק",
@@ -19,5 +19,8 @@
       "lat": 32.1611065,
       "lon": 34.887705
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "fooducate",
+  "linkedinNum": 1138138
 }

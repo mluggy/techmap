@@ -1,10 +1,10 @@
 {
-  "name": "Onsight A P",
-  "description": "A suite of mobile apps boosting productivity for manufacturers', wholesalers', and distributors' outside sales teams.",
+  "name": "OnSight",
+  "description": "3D Technology for the Surveying and Mapping Industries",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/onsight_a_p-logo.webp",
-  "websiteUrl": "https://www.onsightapp.com/",
+  "websiteUrl": "https://onsight.tech/",
   "careersUrl": "https://onsightindustries.com/career-opportunities/",
   "isHiring": true,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.7726661,
       "lon": 34.9678575
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19052317
 }

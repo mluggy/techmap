@@ -1,10 +1,10 @@
 {
-  "name": "Vfr Incubator",
-  "description": "Marketing Content Designed for Smart TVs.",
-  "categoryId": 2,
+  "name": "VFR",
+  "description": "Content Marketing Solution for Connected TV",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/vfr_incubator-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://vfr.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 75064035
 }

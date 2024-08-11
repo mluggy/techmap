@@ -1,5 +1,5 @@
 {
-  "name": "Bringg Delivery Technologies",
+  "name": "Bringg",
   "description": "A platform that streamlines and enhances last-mile delivery for efficient planning, optimization, and scaling.",
   "categoryId": 9,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "bringg",
   "crunchbaseId": "bringg",
   "finderId": "bringg",
-  "xId": null,
+  "xId": "bringg",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bringgapp",
+  "linkedinNum": 3276916
 }

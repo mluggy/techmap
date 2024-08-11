@@ -1,16 +1,16 @@
 {
   "name": "Overwolf",
-  "description": "A leading platform offering free, user-friendly apps for millions of PC gamers worldwide.",
-  "categoryId": 11,
+  "description": "In-Game Creators' Guild",
+  "categoryId": 8,
   "size": "m",
   "logoFile": "logos/overwolf-logo.webp",
-  "websiteUrl": "https://go.overwolf.com/",
+  "websiteUrl": "https://www.overwolf.com",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "overwolf.com",
   "crunchbaseId": null,
   "finderId": "overwolf",
-  "xId": null,
+  "xId": "theoverwolf",
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +19,8 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Overwolf",
+  "linkedinNum": 519584
 }

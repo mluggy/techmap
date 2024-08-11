@@ -1,5 +1,5 @@
 {
-  "name": "Monday.com",
+  "name": "monday.com",
   "description": "A collaborative platform for team task and project management.",
   "categoryId": 14,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "mondaydotcom",
   "crunchbaseId": null,
   "finderId": "dapulse",
-  "xId": null,
+  "xId": "mondaydotcom",
   "addresses": [
     {
       "street": "יצחק שדה",
@@ -19,5 +19,8 @@
       "lat": 32.06518925,
       "lon": 34.78521533912037
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "mondaydotcom",
+  "linkedinNum": 2525169
 }

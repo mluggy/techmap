@@ -1,10 +1,10 @@
 {
   "name": "Jastok",
-  "description": "Mobile Calls with Video.",
-  "categoryId": 18,
+  "description": "Video-enabled Mobile Calls",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/jastok-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.jastok.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.0946695,
       "lon": 34.8735904
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67725605
 }

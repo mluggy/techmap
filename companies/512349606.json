@@ -1,10 +1,10 @@
 {
-  "name": "Green Vision Systems",
+  "name": "GreenVision Systems",
   "description": "Specializing in innovative, real-time pollution monitoring and product authentication services to enhance environmental safety and health.",
   "categoryId": 17,
   "size": "m",
   "logoFile": "logos/green_vision_systems-logo.webp",
-  "websiteUrl": "http://www.greenvs.com/",
+  "websiteUrl": "https://www.greenvs.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.113198,
       "lon": 34.844295
     }
-  ]
+  ],
+  "isMultinational": false
 }

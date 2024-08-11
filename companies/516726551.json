@@ -1,0 +1,25 @@
+{
+  "name": "Muzli",
+  "description": "Chrome Extension for Tech Inspiration",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/muzli.webp",
+  "websiteUrl": "https://muz.li/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 10291534,
+  "crunchbaseId": null,
+  "finderId": "muzli",
+  "xId": null,
+  "facebookId": "usemuzli",
+  "addresses": [
+    {
+      "street": "רש\"י",
+      "houseNumber": 23,
+      "city": "תל אביב - יפו",
+      "lat": 32.07163121342047,
+      "lon": 34.77376426395568
+    }
+  ],
+  "isMultinational": false
+}

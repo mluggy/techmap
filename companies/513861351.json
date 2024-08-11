@@ -1,5 +1,5 @@
 {
-  "name": "Vaxil Biotherapeutics",
+  "name": "Vaxil BioTherapeutics",
   "description": "Creating vaccines to combat Cancer and Tuberculosis.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "vaxil-bio-ltd.",
   "crunchbaseId": "vaxil-biotherapeutics",
   "finderId": "vaxil-biotherapeutics",
-  "xId": null,
+  "xId": "vaxilbio",
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -19,5 +19,8 @@
       "lat": 31.9150204,
       "lon": 34.8038753
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Vxlbio",
+  "linkedinNum": 10579659
 }

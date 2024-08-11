@@ -1,0 +1,25 @@
+{
+  "name": "Joshu",
+  "description": "Digital Platform for Insurance Professionals",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/joshu.webp",
+  "websiteUrl": "https://joshuins.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 67560087,
+  "crunchbaseId": null,
+  "finderId": "joshu",
+  "xId": "JoinJoshu",
+  "facebookId": "100077134941648",
+  "addresses": [
+    {
+      "street": "ז'בוטינסקי",
+      "houseNumber": 50,
+      "city": "גבעת שמואל",
+      "lat": 32.069393903712566,
+      "lon": 34.84954330252248
+    }
+  ],
+  "isMultinational": false
+}

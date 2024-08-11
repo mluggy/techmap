@@ -1,0 +1,25 @@
+{
+  "name": "Dynamacs",
+  "description": "Last-mile Delivery Optimization Solution",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/dynamacs.webp",
+  "websiteUrl": "https://www.dynamacsiot.com/",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 81427774,
+  "crunchbaseId": null,
+  "finderId": "dynamacs",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "שבטה",
+      "houseNumber": 10,
+      "city": "מיתר",
+      "lat": 31.32503068542039,
+      "lon": 34.94301110680244
+    }
+  ],
+  "isMultinational": false
+}

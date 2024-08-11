@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "docomotion",
-  "xId": null,
+  "xId": "docomotion",
   "addresses": [
     {
       "street": "יד חרוצים",
@@ -19,5 +19,8 @@
       "lat": 32.2797087,
       "lon": 34.8638687
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "DocomotionLTD",
+  "linkedinNum": 4856770
 }

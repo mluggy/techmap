@@ -4,7 +4,7 @@
   "categoryId": 13,
   "size": "xs",
   "logoFile": "logos/crops_guard-logo.webp",
-  "websiteUrl": "http://www.cropsguard.com/",
+  "websiteUrl": "https://www.cropsguard.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 31.77293975,
       "lon": 35.197994954152726
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,16 +1,16 @@
 {
   "name": "Gliding Deer",
-  "description": "A free service that instantly translates words, phrases, and web pages from English to over 100 languages.",
-  "categoryId": 14,
+  "description": "Social Bingo Games",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/gliding_deer-logo.webp",
-  "websiteUrl": "https://translate.google.co.il/",
+  "websiteUrl": "https://www.glidingdeer.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "gliding-deer",
-  "xId": null,
+  "xId": "bingodrive",
   "addresses": [
     {
       "street": "בן יהודה",
@@ -19,5 +19,8 @@
       "lat": 32.079757,
       "lon": 34.769876
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bingodrive",
+  "linkedinNum": 9498388
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Book A Space",
+  "name": "Book a Space",
   "description": "An all-in-one platform for booking and managing spaces, meeting rooms, events, and venues for hoteliers, co-working spaces, and property owners.",
   "categoryId": 9,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.1595075,
       "lon": 34.848501
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 76997457
 }

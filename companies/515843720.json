@@ -1,5 +1,5 @@
 {
-  "name": "Elgan Pharma",
+  "name": "ELGAN Pharma",
   "description": "A late-stage biotech firm focused on safe, non-invasive therapies for unmet medical needs in preterm infants.",
   "categoryId": 12,
   "size": "s",
@@ -7,7 +7,7 @@
   "websiteUrl": "https://elganpharma.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "elgan-pharma",
   "crunchbaseId": null,
   "finderId": "elgan-pharma",
   "xId": null,
@@ -19,5 +19,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67923556
 }

@@ -1,15 +1,17 @@
 {
-  "name": "Dr Dabour",
-  "description": "יצרנית קוסמטיקה טבעית המבוססת בכפר דרוזי בגליל.",
+  "name": "Dr. Dabour Laboratories",
+  "description": "All-natural Creams, Oils, and Soaps",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/dr_dabour-logo.webp",
-  "websiteUrl": "https://drdabour.co.il/",
+  "websiteUrl": "https://www.drdabour.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "dr-dabour",
-  "xId": null,
-  "addresses": []
+  "xId": "drdabour1",
+  "addresses": [],
+  "isMultinational": false,
+  "facebookId": "drDabour"
 }

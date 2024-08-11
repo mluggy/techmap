@@ -1,5 +1,5 @@
 {
-  "name": "Solidcam",
+  "name": "SolidCAM",
   "description": "The latest version empowers makers, hobbyists, and students with comprehensive CAM capabilities integrated in SOLIDWORKS or Autodesk Inventor for free personal project manufacturing.",
   "categoryId": 14,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "solidcam",
-  "xId": null,
+  "xId": "solidcam",
   "addresses": [
     {
       "street": "נתניהו יהונתן",
@@ -19,5 +19,8 @@
       "lat": 32.0219296,
       "lon": 34.8566055
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SolidCAM",
+  "linkedinNum": 760481
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Guardz Cyber",
+  "name": "Guardz",
   "description": "Guardz offers a comprehensive cybersecurity solution that integrates email, browsing, perimeter security, and awareness training to combat the majority of cyber attacks originating from phishing.",
   "categoryId": 7,
   "size": "s",
@@ -19,5 +19,8 @@
       "lat": 32.07101720526315,
       "lon": 34.805179542105265
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "guardzcom",
+  "linkedinNum": 81856039
 }

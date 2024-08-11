@@ -1,5 +1,5 @@
 {
-  "name": "Cycognito",
+  "name": "CyCognito",
   "description": "Leveraging expertise from national intelligence veterans, this Palo Alto firm helps large enterprises and Fortune 500 companies like Colgate-Palmolive and Tesco defend against cyber threats by identifying and mitigating hidden vulnerabilities.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "cycognito",
   "crunchbaseId": null,
   "finderId": "cycognito",
-  "xId": null,
+  "xId": "cycognito",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,8 @@
       "lat": 32.06412,
       "lon": 34.785929
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CyCognito",
+  "linkedinNum": 22298209
 }

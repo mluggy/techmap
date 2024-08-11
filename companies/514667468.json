@@ -1,16 +1,16 @@
 {
-  "name": "Gbooking",
-  "description": "A 3-star airport hotel offering air-conditioned rooms with WiFi, a restaurant, a bar, a café, and parking from 59 EUR per night.",
-  "categoryId": 9,
+  "name": "GBooking",
+  "description": "Appointment-scheduling Software",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/gbooking-logo.webp",
-  "websiteUrl": "https://www.ebooking.com/",
+  "websiteUrl": "https://gbooking.biz",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "gbooking",
-  "xId": null,
+  "xId": "gbooking_com",
   "addresses": [
     {
       "street": "דובנוב",
@@ -19,5 +19,8 @@
       "lat": 32.7766692,
       "lon": 35.0103338
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "GBookingLtd",
+  "linkedinNum": 2688516
 }

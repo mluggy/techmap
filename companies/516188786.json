@@ -1,5 +1,5 @@
 {
-  "name": "Rootie Robot",
+  "name": "Rootie",
   "description": "We provide autonomous robotic solutions for inspections, data collection, and maintenance, enhancing operational efficiency for facility managers and businesses.",
   "categoryId": 15,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "rootie",
-  "xId": null,
+  "xId": "rootiebot",
   "addresses": [
     {
       "street": "עמרי",
@@ -19,5 +19,7 @@
       "lat": 32.1145886,
       "lon": 34.8153179
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 42957633
 }

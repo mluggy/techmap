@@ -1,10 +1,10 @@
 {
-  "name": "Oddin Software Services 1994",
-  "description": "Provider of industry-leading uptime and extensive live markets in esports live odds, offering B2B data APIs to boost volume and profit.",
-  "categoryId": 11,
+  "name": "oddin",
+  "description": "Web3 User Acquisition Platform",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/oddin_software_services_1994_ltd-logo.webp",
-  "websiteUrl": "https://oddin.gg/",
+  "websiteUrl": "https://oddin.ai/",
   "careersUrl": "https://oddin.gg/careers/",
   "isHiring": true,
   "linkedinId": "oddin-design",
@@ -19,5 +19,7 @@
       "lat": 32.1646025,
       "lon": 34.8122231
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 81648399
 }

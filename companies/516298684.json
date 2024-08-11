@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sighteer",
-  "xId": null,
+  "xId": "sighteerus",
   "addresses": [
     {
       "street": "זמיר",
@@ -19,5 +19,7 @@
       "lat": 32.5285154,
       "lon": 34.9094882
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64708226
 }

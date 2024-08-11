@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ofil",
-  "xId": null,
+  "xId": "ofil",
   "addresses": [
     {
       "street": "אינשטיין",
@@ -19,5 +19,7 @@
       "lat": 31.9155629,
       "lon": 34.8062323
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 714927
 }

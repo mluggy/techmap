@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.finout.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "finout-io",
   "crunchbaseId": null,
   "finderId": "finout",
-  "xId": null,
+  "xId": "finout_io",
   "addresses": [
     {
       "street": "המסגר",
@@ -19,5 +19,8 @@
       "lat": 32.064654,
       "lon": 34.785584
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "finout.io",
+  "linkedinNum": 71690614
 }

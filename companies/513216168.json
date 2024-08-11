@@ -1,5 +1,5 @@
 {
-  "name": "Trace Span Communications",
+  "name": "TraceSpan Communications",
   "description": "Providing non-intrusive broadband access network analysis and protocol monitoring solutions.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tracespan-communications",
-  "xId": null,
+  "xId": "TraceSpan",
   "addresses": [
     {
       "street": "הסדנא",
@@ -19,5 +19,7 @@
       "lat": 32.1951246,
       "lon": 34.8787131
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 126867
 }

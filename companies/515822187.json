@@ -1,10 +1,10 @@
 {
-  "name": "Alpha Bond Sabag Consulting",
-  "description": "We provide self-guided training resources to enhance your Alpha program's effectiveness and success.",
-  "categoryId": 14,
+  "name": "Alpha",
+  "description": "Online Dating for Academics",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/alpha_bond_sabag_consulting-logo.webp",
-  "websiteUrl": "https://alphausa.org/",
+  "websiteUrl": "https://www.alpha.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.085442,
       "lon": 34.774737
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "alphapeoplelikeyou",
+  "linkedinNum": 14821894
 }

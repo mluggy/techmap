@@ -1,10 +1,10 @@
 {
   "name": "Bareket Astro",
-  "description": "Leading stargazing experiences and online astronomical education featuring live broadcasts and a comprehensive Astro-Net portal.",
+  "description": "Digital Planetarium Systems and Precision Optics for Space Observatories",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/bareket_astro-logo.webp",
-  "websiteUrl": "https://www.bareket-astro.com/",
+  "websiteUrl": "https://emerald-planetariums.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.9228472,
       "lon": 34.9906948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "EmeraldPlanetariums"
 }

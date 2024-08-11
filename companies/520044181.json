@@ -1,0 +1,25 @@
+{
+  "name": "Cyren",
+  "description": "Cloud-based Cybersecurity",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/cyren.webp",
+  "websiteUrl": "https://www.cyren.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 5025637,
+  "crunchbaseId": null,
+  "finderId": "cyren",
+  "xId": "CYRENInc",
+  "facebookId": "CyrenWeb",
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.15973641076455,
+      "lon": 34.808364139120165
+    }
+  ],
+  "isMultinational": false
+}

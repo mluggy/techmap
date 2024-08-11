@@ -1,10 +1,10 @@
 {
-  "name": "Mailfixer",
-  "description": "An AI-driven tool offering customizable modes to enhance and rephrase text for improved writing fluency.",
-  "categoryId": 1,
+  "name": "Rephraser.ai",
+  "description": "Real-time Rephrasing Solution for Native English Business Writing",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/mailfixer-logo.webp",
-  "websiteUrl": "https://quillbot.com/",
+  "websiteUrl": "https://www.rephraser.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.068182,
       "lon": 34.785354
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "rephraser",
+  "linkedinNum": 14797088
 }

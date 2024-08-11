@@ -1,10 +1,10 @@
 {
   "name": "Metaform",
-  "description": "A research studio blending hardware, software, arts, and theory to create innovative solutions.",
-  "categoryId": 4,
+  "description": "ID Enrollment Solutions",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/metaform_ltd-logo.webp",
-  "websiteUrl": "https://metaform.com/",
+  "websiteUrl": "https://www.metaform-ltd.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1011543,
       "lon": 34.9196002
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 83700
 }

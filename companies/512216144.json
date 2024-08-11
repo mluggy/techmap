@@ -1,10 +1,10 @@
 {
-  "name": "Elad Technologies L S",
+  "name": "Elad Technologies",
   "description": "They offer automated plating, finishing, and wastewater treatment solutions for the surface finishing, electronics, PWB, and aviation industries.",
   "categoryId": 15,
   "size": "s",
   "logoFile": "logos/elad_technologies_l_s-logo.webp",
-  "websiteUrl": "https://www.eladtech.co.il/?lang=en",
+  "websiteUrl": "https://www.eladtech.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "elad-technologies",
@@ -19,5 +19,7 @@
       "lat": 32.1062449,
       "lon": 34.8942081
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 52067789
 }

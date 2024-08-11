@@ -1,5 +1,5 @@
 {
-  "name": "Apiiro",
+  "name": "apiiro",
   "description": "Specializing in simplifying software security, this company helps streamline codebase management and enforce regulatory compliance efficiently.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "apiiro",
   "crunchbaseId": null,
   "finderId": "apiiro",
-  "xId": null,
+  "xId": "apiiroSecurity",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.072746,
       "lon": 34.794968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Apiiro",
+  "linkedinNum": 13057840
 }

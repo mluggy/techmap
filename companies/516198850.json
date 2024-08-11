@@ -1,5 +1,5 @@
 {
-  "name": "Daily Dev",
+  "name": "Daily.Dev",
   "description": "A platform where developers connect to learn, collaborate, and stay updated on industry trends.",
   "categoryId": 14,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "daily-dev",
-  "xId": null,
+  "xId": "dailydotdev",
   "addresses": [
     {
       "street": "דרך התקווה",
@@ -19,5 +19,8 @@
       "lat": 32.0669598,
       "lon": 34.8715965
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "dailydotdev",
+  "linkedinNum": 67213033
 }

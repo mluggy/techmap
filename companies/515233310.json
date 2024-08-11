@@ -1,5 +1,5 @@
 {
-  "name": "Lishtot Detection",
+  "name": "Lishtot",
   "description": "Their technology uniquely measures Total Contaminant Levels in water using a sensor and advanced algorithm.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "lishtot",
-  "xId": null,
+  "xId": "lishtot",
   "addresses": [
     {
       "street": "אוסישקין",
@@ -19,5 +19,8 @@
       "lat": 31.7795875,
       "lon": 35.2122172
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Lishtot",
+  "linkedinNum": 10160770
 }

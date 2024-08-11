@@ -1,5 +1,5 @@
 {
-  "name": "Ipulse Medical",
+  "name": "Livia",
   "description": "A drug-free, clinically proven device providing instant relief from menstrual cramps by stimulating nerves to block pain.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ipulse-medical",
-  "xId": null,
+  "xId": "mylivia_",
   "addresses": [
     {
       "street": "רחל",
@@ -19,5 +19,8 @@
       "lat": 32.7952739,
       "lon": 35.5303941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MyLiviaOfficial",
+  "linkedinNum": 18854081
 }

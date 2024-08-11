@@ -1,10 +1,10 @@
 {
   "name": "Softwear Suit",
-  "description": "Providing premium report and analysis application development, this company ensures top-tier software quality.",
+  "description": "Analytical Software for Machine-generated Data",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/softwear_suit-logo.webp",
-  "websiteUrl": "http://softwear.co.il/",
+  "websiteUrl": "https://subdomain.softwear.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.1789899,
       "lon": 34.9284423
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 618049
 }

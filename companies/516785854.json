@@ -1,16 +1,16 @@
 {
-  "name": "Genielabs",
-  "description": "Offering extensive data for AI learning and evaluation, they empower users to develop customized AI services with versatile AI APIs.",
-  "categoryId": 1,
+  "name": "GenieLabs",
+  "description": "GenieLabs empowers games with end-to-end customization using GenAI UGC technologies, enabling players to create anything from style-consistent skins to full mods without prior skills.",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/genielabs-logo.webp",
-  "websiteUrl": "https://genielabs.ai/",
+  "websiteUrl": "https://www.genielabs.tech/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "genielabsai",
   "crunchbaseId": null,
   "finderId": "genielabs",
-  "xId": null,
+  "xId": "genielabs_ai",
   "addresses": [
     {
       "street": "הורד",
@@ -19,5 +19,6 @@
       "lat": 31.737939363518635,
       "lon": 34.67246271825849
     }
-  ]
+  ],
+  "isMultinational": false
 }

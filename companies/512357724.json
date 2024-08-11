@@ -1,16 +1,16 @@
 {
-  "name": "Beam And Stone",
-  "description": "Providing straightforward, comprehensive employee benefits including dental, vision, life, disability, and supplemental health plans.",
-  "categoryId": 12,
+  "name": "Beam",
+  "description": "Confidential Cryptocurrency and Decentralized Finance Platform",
+  "categoryId": 10,
   "size": "s",
   "logoFile": "logos/beam_and_stone-logo.webp",
-  "websiteUrl": "https://www.beambenefits.com/",
+  "websiteUrl": "https://www.beam.mw/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "beam",
-  "xId": null,
+  "xId": "beamprivacy",
   "addresses": [
     {
       "street": "ואדי חמיד",
@@ -19,5 +19,7 @@
       "lat": 32.94157712184111,
       "lon": 35.351591733486764
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 11804811
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Full Dna",
+  "name": "FullDNA",
   "description": "We offer comprehensive genetic reports covering over 3,000 medical conditions to provide actionable insights for your physician.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,7 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 40676776
 }

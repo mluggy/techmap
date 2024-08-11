@@ -1,5 +1,5 @@
 {
-  "name": "Cartiheal 2009",
+  "name": "CartiHeal",
   "description": "An FDA-approved medical device for addressing joint surface lesions in the knee.",
   "categoryId": 12,
   "size": "s",
@@ -19,5 +19,7 @@
       "lat": 32.1666204,
       "lon": 34.9281644
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1031481
 }

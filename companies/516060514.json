@@ -1,10 +1,10 @@
 {
-  "name": "Imoovo Technologies",
-  "description": "A platform that uses artificial intelligence to maximize cargo space efficiency.",
-  "categoryId": 1,
+  "name": "imoovo",
+  "description": "AI-based Cargo Space Optimization Platform",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/imoovo_technologies-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.imoovo.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "imoovo",
@@ -19,5 +19,8 @@
       "lat": 31.9300404,
       "lon": 34.8270624
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ImoovoZambia",
+  "linkedinNum": 30160815
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Ziv Systems For Construction Management Msd South",
-  "description": "Innovative power system solutions provider specializing in high, medium, and low voltage smart grid technologies with in-house developed products.",
-  "categoryId": 13,
+  "name": "ZIV Systems",
+  "description": "ERP Solutions for Construction and Real Estate Management",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/ziv_systems_for_construction_management_msd_south_ltd-logo.webp",
-  "websiteUrl": "https://www.zivautomation.com/",
+  "websiteUrl": "https://www.ziv.co.il",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ziv-systems",
-  "xId": null,
+  "xId": "ZIVSystems",
   "addresses": [
     {
       "street": "הרטום",
@@ -19,5 +19,8 @@
       "lat": 31.8041398,
       "lon": 35.2105915
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ZivSystems",
+  "linkedinNum": 562933
 }

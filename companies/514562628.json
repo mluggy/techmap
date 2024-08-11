@@ -1,5 +1,5 @@
 {
-  "name": "Carbofix Orthopedics",
+  "name": "CarboFix Orthopedics",
   "description": "Manufacturer specializing in carbon fiber orthopedic implants.",
   "categoryId": 12,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.carbo-fix.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "carbofix",
   "crunchbaseId": null,
   "finderId": "carbofix-orthopedics-inc",
-  "xId": null,
+  "xId": "CarboFix",
   "addresses": [
     {
       "street": "החושלים",
@@ -19,5 +19,8 @@
       "lat": 32.1594359,
       "lon": 34.804874
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CarboFix",
+  "linkedinNum": 7968774
 }

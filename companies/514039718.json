@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "voicenter-cloud",
-  "xId": null,
+  "xId": "voicentercloud",
   "addresses": [
     {
       "street": "החילזון",
@@ -19,5 +19,8 @@
       "lat": 32.0861321,
       "lon": 34.8040698
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "voicenter",
+  "linkedinNum": 2877986
 }

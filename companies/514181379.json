@@ -1,5 +1,5 @@
 {
-  "name": "Pi Cardia",
+  "name": "Pi-Cardia",
   "description": "Revolutionizing structural heart disease treatment with innovative, non-implant-based catheter solutions.",
   "categoryId": 12,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.pi-cardia.net/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pi-cardia",
   "crunchbaseId": null,
   "finderId": "pi-cardia",
-  "xId": null,
+  "xId": "Pi_Cardia",
   "addresses": [
     {
       "street": "פייקס דוד",
@@ -19,5 +19,7 @@
       "lat": 31.9159391,
       "lon": 34.8103557
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5079787
 }

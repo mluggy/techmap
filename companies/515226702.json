@@ -1,10 +1,10 @@
 {
-  "name": "Ophrx",
-  "description": "Technology for delivering medication to the eyes without invasive procedures.",
+  "name": "OphRx",
+  "description": "Noninvasive Drug-delivery Technology for Ocular Use",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ophrx-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://bio-light.co.il/ophrx-2/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.08472355,
       "lon": 34.80419494318181
     }
-  ]
+  ],
+  "isMultinational": false
 }

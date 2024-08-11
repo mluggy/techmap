@@ -7,10 +7,10 @@
   "websiteUrl": "https://gloat.com/",
   "careersUrl": "https://gloat.com/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "gloat",
   "crunchbaseId": null,
   "finderId": "workey",
-  "xId": null,
+  "xId": "gloat_com",
   "addresses": [
     {
       "street": "דה וינצ'י לאונרדו",
@@ -19,5 +19,9 @@
       "lat": 32.07418525,
       "lon": 34.78524499360144
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Workey",
+  "linkedinNum": 5322109,
+  "comeetId": "gloat/E5.000"
 }

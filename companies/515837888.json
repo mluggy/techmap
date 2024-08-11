@@ -1,16 +1,16 @@
 {
-  "name": "Mastercard Israel Subsidiary",
+  "name": "Mastercard",
   "description": "Provides Mastercard cardholders with unique experiences and valuable deals in various cities.",
-  "categoryId": 10,
   "size": "s",
+  "categoryId": 9,
   "logoFile": "logos/mastercard_israel_subsidiary-logo.webp",
-  "websiteUrl": "https://www.priceless.com/",
+  "websiteUrl": "https://www.mastercardservices.com/",
   "careersUrl": "https://careers.mastercard.com/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "mastercard",
   "crunchbaseId": null,
   "finderId": "mastercard",
-  "xId": null,
+  "xId": "Mastercard",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0884232,
       "lon": 34.8074677
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "Mastercard.Israel",
+  "linkedinNum": 3015
 }

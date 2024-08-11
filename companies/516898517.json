@@ -1,0 +1,25 @@
+{
+  "name": "SPS",
+  "description": "Real-time Business Navigation Platform",
+  "categoryId": 5,
+  "size": "xs",
+  "logoFile": "logos/sps.webp",
+  "websiteUrl": "https://sps-app.com",
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 28382100,
+  "crunchbaseId": null,
+  "finderId": "sps",
+  "xId": null,
+  "facebookId": "SPSAPP",
+  "addresses": [
+    {
+      "street": "אסתר המלכה",
+      "houseNumber": 34,
+      "city": "מודיעין-מכבים-רעות",
+      "lat": 31.883208552409474,
+      "lon": 35.00936159495536
+    }
+  ],
+  "isMultinational": false
+}

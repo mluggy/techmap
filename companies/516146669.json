@@ -1,10 +1,10 @@
 {
-  "name": "Cargozone",
-  "description": "A leading freight logistics company based in Carson, CA specializing in efficient transportation solutions.",
-  "categoryId": 9,
+  "name": "CargoZone Workspace",
+  "description": "Procurement and Shipping Solutions",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/cargozone-logo.webp",
-  "websiteUrl": "http://cfs.cargozoneinc.com/",
+  "websiteUrl": "https://cargozone.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.110225481652925,
       "lon": 35.10601074625503
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "wherefreighthappens",
+  "linkedinNum": 37813797
 }

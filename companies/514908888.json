@@ -10,7 +10,7 @@
   "linkedinId": "raft-technologies",
   "crunchbaseId": "raft-technologies",
   "finderId": "raft-technologies",
-  "xId": null,
+  "xId": "RaftTechnology",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,7 @@
       "lat": 32.1116915,
       "lon": 34.8423394
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 25066237
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Myndyou International Holdings",
+  "name": "MyndYou",
   "description": "Leveraging home-based member engagement, this company assists large Midwestern health plans in reducing utilization through predictive support.",
   "categoryId": 12,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "myndyou",
   "crunchbaseId": "myndyou",
   "finderId": "myndyou",
-  "xId": null,
+  "xId": "myndyou_",
   "addresses": [
     {
       "street": "הזרם",
@@ -19,5 +19,8 @@
       "lat": 32.050485,
       "lon": 34.766372
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myndyou",
+  "linkedinNum": 17916347
 }

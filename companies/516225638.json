@@ -1,5 +1,5 @@
 {
-  "name": "Appnext Technologies",
+  "name": "Appnext",
   "description": "A premier mobile discovery platform connecting 750 million users to the most relevant apps exactly when they need them.",
   "categoryId": 2,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "appnext",
   "crunchbaseId": "appnext",
   "finderId": "appnext",
-  "xId": null,
+  "xId": "appnext_updates",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.074196,
       "lon": 34.7921772
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Appnext",
+  "linkedinNum": 2651924
 }

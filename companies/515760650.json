@@ -1,16 +1,16 @@
 {
-  "name": "E S I Novel",
-  "description": "An Intelligent System for Revitalizing Skin.",
+  "name": "E.S.I Novel",
+  "description": "Smart Skin-rejuvenation System",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/e_s_i_novel-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.joli-360.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "e-s-i-novel?trk=ppro_cprof",
   "crunchbaseId": null,
   "finderId": "j-li360",
-  "xId": null,
+  "xId": "Joli_360",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -19,5 +19,8 @@
       "lat": 32.1617757,
       "lon": 34.8081374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "esinovelbyessence",
+  "linkedinNum": 37775886
 }

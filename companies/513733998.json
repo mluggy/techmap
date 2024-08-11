@@ -1,0 +1,25 @@
+{
+  "name": "SDE",
+  "description": "Sea Wave Power Plants",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/sde.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "finderId": "sde",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "אריק איינשטיין",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.162981902916705,
+      "lon": 34.81487292877049
+    }
+  ],
+  "isMultinational": false
+}

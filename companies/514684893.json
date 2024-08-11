@@ -1,5 +1,5 @@
 {
-  "name": "Apple Israel",
+  "name": "Apple",
   "description": "A leading global company specializing in innovative technology products and retail services.",
   "categoryId": 9,
   "size": "l",
@@ -19,5 +19,7 @@
       "lat": 32.16552705,
       "lon": 34.81043178834902
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "pages"
 }

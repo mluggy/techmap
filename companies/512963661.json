@@ -1,16 +1,16 @@
 {
-  "name": "Infodraw Israel R D",
+  "name": "Infodraw",
   "description": "A leading Israeli firm specializing in advanced R&D and innovative solutions.",
   "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/infodraw_israel_r_d-logo.webp",
-  "websiteUrl": "http://www.infodraw.com/",
+  "websiteUrl": "https://www.infodraw.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "infodraw",
   "crunchbaseId": "infodraw",
   "finderId": "infodraw",
-  "xId": null,
+  "xId": "Infodraw",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -19,5 +19,8 @@
       "lat": 32.0857115,
       "lon": 34.8050057
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Infodraw",
+  "linkedinNum": 663942
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Protalix",
+  "name": "Protalix BioTherapeutics",
   "description": "Specializing in recombinant therapeutic proteins, this company leverages its proprietary plant-based platform, ProCellEx®, to develop enhanced clinical treatments.",
   "categoryId": 12,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://protalix.com/",
   "careersUrl": "https://protalix.com/about/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "protalix-biotherapiutics",
   "crunchbaseId": null,
   "finderId": "protalix",
-  "xId": null,
+  "xId": "protalix_bio",
   "addresses": [
     {
       "street": "סנונית",
@@ -19,5 +19,8 @@
       "lat": 32.9181058,
       "lon": 35.2833819
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "ProtalixBio",
+  "linkedinNum": 739969
 }

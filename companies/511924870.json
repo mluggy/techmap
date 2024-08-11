@@ -1,5 +1,5 @@
 {
-  "name": "Texas Instruments Israel",
+  "name": "Texas Instruments",
   "description": "A leading global semiconductor firm specializing in the design, manufacturing, testing, and sales of analog components.",
   "categoryId": 16,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "texas-instruments",
   "crunchbaseId": null,
   "finderId": "texas-instruments",
-  "xId": null,
+  "xId": "txinstruments",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +19,8 @@
       "lat": 32.1932304,
       "lon": 34.8826915
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "texasinstruments",
+  "linkedinNum": 1397
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Bar Magen",
+  "name": "Bar-Magen",
   "description": "Provides advanced solutions for agricultural and environmental protection challenges.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "bar-magen-animal-health-nutrition-feed-technology",
   "crunchbaseId": null,
   "finderId": "bar-magen",
-  "xId": null,
+  "xId": "agrobarmagen",
   "addresses": [
     {
       "street": "צבי הנחל",
@@ -19,5 +19,7 @@
       "lat": 32.4027248,
       "lon": 34.8969808
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AGRO-Bar-Magen-Nigeria-Limited-1795547597338860"
 }

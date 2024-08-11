@@ -1,10 +1,10 @@
 {
   "name": "Hallura",
-  "description": "Cosmetic treatments using hyaluronic acid-based dermal fillers.",
+  "description": "Hyaluronic Acid Dermal Fillers for Aesthetic Medicine",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/hallura-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.hallura.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "hallura",
@@ -19,5 +19,7 @@
       "lat": 32.6578027,
       "lon": 35.1002987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 29329136
 }

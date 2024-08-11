@@ -1,23 +1,25 @@
 {
-  "name": "Ggtude",
-  "description": "Founded in 2019, this research-driven company offers a vast range of modular tools to assist with mental health challenges, backed by extensive studies and publications.",
+  "name": "GGtude",
+  "description": "Digital Mental-health Solutions",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/ggtude-logo.webp",
+  "logoFile": "logos/ggtude.webp",
   "websiteUrl": "https://ggtude.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinNum": 26191959,
   "crunchbaseId": null,
-  "finderId": "gg-apps",
+  "finderId": "ggtude",
   "xId": null,
+  "facebookId": "ggtude",
   "addresses": [
     {
       "street": "הוז דב",
       "houseNumber": 11,
       "city": "תל אביב - יפו",
-      "lat": 32.08027,
-      "lon": 34.772166
+      "lat": 32.08043276316371,
+      "lon": 34.772172189406746
     }
-  ]
+  ],
+  "isMultinational": false
 }

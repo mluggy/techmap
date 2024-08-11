@@ -1,16 +1,16 @@
 {
   "name": "Digital Clues",
-  "description": "Smart Digital Solutions.",
-  "categoryId": 7,
+  "description": "Digital Intelligence Solutions",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/digital_clues-logo.webp",
-  "websiteUrl": "https://www.digitalcluesgroup.com/",
+  "websiteUrl": "https://www.digitalclues.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "digitalclues",
   "crunchbaseId": "DigitalClues",
   "finderId": "3i-mind",
-  "xId": null,
+  "xId": "DigitalCluesAG",
   "addresses": [
     {
       "street": "ברקוביץ",
@@ -19,5 +19,8 @@
       "lat": 32.078703,
       "lon": 34.7870616
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "digitalcluesag",
+  "linkedinNum": 1002903
 }

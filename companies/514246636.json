@@ -1,16 +1,16 @@
 {
   "name": "Venus Concept",
-  "description": "A global leader in medical aesthetic technologies, specializing in minimally invasive and non-invasive solutions for aesthetics and hair restoration, available in over 60 countries.",
+  "description": "RF-based Technology for the Medical Aesthetics Market",
   "categoryId": 12,
   "size": "l",
   "logoFile": "logos/venus_concept-logo.webp",
-  "websiteUrl": "https://ir.venusconcept.com/",
+  "websiteUrl": "https://www.venusconcept.com/en-us/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "venus-concept",
-  "xId": null,
+  "xId": "VenusConcept",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,8 @@
       "lat": 32.6611393,
       "lon": 35.1063611
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "venusconcept",
+  "linkedinNum": 1912115
 }

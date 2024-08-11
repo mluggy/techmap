@@ -1,5 +1,5 @@
 {
-  "name": "Tailormed Medical",
+  "name": "TailorMed",
   "description": "A comprehensive technology suite enabling financial assistance for prescriptions, interfacing seamlessly with any EMR, pharmacy, or practice management system.",
   "categoryId": 12,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tailormed-medical",
-  "xId": null,
+  "xId": "tailormedtweet",
   "addresses": [
     {
       "street": "מוזס יהודה ונח",
@@ -19,5 +19,8 @@
       "lat": 32.075798,
       "lon": 34.794728
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TailorMed.co",
+  "linkedinNum": 17884412
 }

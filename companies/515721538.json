@@ -1,16 +1,16 @@
 {
-  "name": "Cyber Armor",
-  "description": "We take care of cyber security through innovative technologies to protect you from zero-day in IT and OT domain · Advanced threat response · Security Management.",
+  "name": "ARMO",
+  "description": "Open-source Kubernetes Security Platform",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/cyber_armor-logo.webp",
-  "websiteUrl": "https://cyberarmor.ch/",
+  "websiteUrl": "https://www.armosec.io/",
   "careersUrl": "https://cyberarmor.ch/careers.html",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": "cyber-armor",
   "finderId": "cyber-armor",
-  "xId": null,
+  "xId": "RealCyberArmor",
   "addresses": [
     {
       "street": "מיטב",
@@ -19,5 +19,8 @@
       "lat": 32.065561,
       "lon": 34.795362
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CyberArmor-Ltd-302808823641334",
+  "linkedinNum": 18384257
 }

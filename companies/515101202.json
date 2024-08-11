@@ -1,16 +1,16 @@
 {
-  "name": "Empow Cyber Security",
-  "description": "Our studio offers fun, hands-on STEM education for kids ages 7-15, including coding, robotics, and animation.",
+  "name": "empow",
+  "description": "Security Information and Event Management Platform",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/empow_cyber_security-logo.webp",
-  "websiteUrl": "https://empow.me/",
+  "websiteUrl": "https://empow.co/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "empow",
-  "xId": null,
+  "xId": "empowcyber",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.0848749,
       "lon": 34.8030899
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "empowcyber",
+  "linkedinNum": 4835499
 }

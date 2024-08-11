@@ -1,0 +1,25 @@
+{
+  "name": "E.ON",
+  "description": null,
+  "categoryId": 17,
+  "size": "xl",
+  "logoFile": "logos/e-on.webp",
+  "websiteUrl": "https://www.eon.com/",
+  "careersUrl": "https://jobs.eon.com/en",
+  "isHiring": false,
+  "linkedinNum": 4383,
+  "crunchbaseId": null,
+  "finderId": "e-on",
+  "xId": null,
+  "facebookId": null,
+  "addresses": [
+    {
+      "street": "שנקר אריה",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.16089962737288,
+      "lon": 34.81009920690045
+    }
+  ],
+  "isMultinational": true
+}

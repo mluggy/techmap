@@ -1,16 +1,16 @@
 {
-  "name": "Ni Shi Lagoon",
+  "name": "NI",
   "description": "NI (National Instruments) is a solutions provider specializing in automated test and measurement systems to accelerate product development and innovation across industries.",
-  "categoryId": 15,
   "size": "xl",
+  "categoryId": 16,
   "logoFile": "logos/ni_shi_lagoon-logo.webp",
-  "websiteUrl": "https://en.nishi.co.il/",
+  "websiteUrl": "https://www.ni.com/",
   "careersUrl": "https://www.ni.com/en/about-ni/careers.html",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "ni",
-  "xId": null,
+  "xId": "NIglobal",
   "addresses": [
     {
       "street": "הזמיר",
@@ -19,5 +19,8 @@
       "lat": 32.1426574,
       "lon": 34.8274602
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "NationalInstruments",
+  "linkedinNum": 3433
 }

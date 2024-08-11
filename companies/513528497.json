@@ -1,5 +1,5 @@
 {
-  "name": "Tonoguard",
+  "name": "TonoGuard",
   "description": "Devices for Self-Measurement of Intraocular Parameters.",
   "categoryId": 12,
   "size": "xs",
@@ -19,5 +19,6 @@
       "lat": 32.083489,
       "lon": 34.785679
     }
-  ]
+  ],
+  "isMultinational": false
 }

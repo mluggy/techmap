@@ -1,10 +1,10 @@
 {
   "name": "Lyra Medical",
-  "description": "Lyra provides personalized mental health care through various formats, including in-person, virtual, and text, supported by a 24/7 concierge team.",
+  "description": "Long-term Solution for Pelvic Floor Repair",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/lyra_medical-logo.webp",
-  "websiteUrl": "https://www.lyrahealth.com/",
+  "websiteUrl": "https://lyramedical.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "lyra-medical",
@@ -19,5 +19,7 @@
       "lat": 32.5128454,
       "lon": 34.9484798
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 64523066
 }

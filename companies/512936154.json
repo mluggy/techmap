@@ -1,16 +1,16 @@
 {
-  "name": "Blue Dot",
-  "description": "Offering elegant and contemporary home furnishings crafted in Minneapolis for everyday enjoyment.",
-  "categoryId": 9,
+  "name": "Blue dot",
+  "description": "Automated VAT Recovery and Governance",
+  "categoryId": 10,
   "size": "m",
   "logoFile": "logos/blue_dot-logo.webp",
-  "websiteUrl": "https://www.bludot.com/",
+  "websiteUrl": "https://www.bluedotcorp.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "vatbox",
-  "xId": null,
+  "xId": "vatbox",
   "addresses": [
     {
       "street": "גולומב",
@@ -19,5 +19,7 @@
       "lat": 32.1445152,
       "lon": 34.8397398
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5003406
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Curapipe System",
+  "name": "Curapipe",
   "description": "A company specializing in pipeline maintenance using self-detecting technology to repair leaks and cracks efficiently.",
   "categoryId": 15,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": "curapipe",
   "finderId": "curapipe",
-  "xId": null,
+  "xId": "curapipe",
   "addresses": [
     {
       "street": "שד התעשיה",
@@ -19,5 +19,8 @@
       "lat": 31.6673606,
       "lon": 34.598164
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "curapipe",
+  "linkedinNum": 586431
 }

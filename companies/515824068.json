@@ -1,10 +1,10 @@
 {
-  "name": "Jama Dayan",
-  "description": "A freely accessible platform showcasing cutting-edge research on hypertension, diabetes, stroke, dementia, and machine learning.",
-  "categoryId": 1,
+  "name": "Jama",
+  "description": "Mobile App Marketplace Solution for Daily Problems Parents Experience",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/jama_dayan-logo.webp",
-  "websiteUrl": "https://jamanetwork.com/",
+  "websiteUrl": "https://jama.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.091568,
       "lon": 34.782198
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "jamaapp"
 }

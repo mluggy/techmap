@@ -1,5 +1,5 @@
 {
-  "name": "Sizer Technologies",
+  "name": "Sizer",
   "description": "This company provides precise body measurement analysis to offer highly accurate sizing recommendations for customers.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "sizer-body-pass",
-  "xId": null,
+  "xId": "sizer_me",
   "addresses": [
     {
       "street": "משכית",
@@ -19,5 +19,8 @@
       "lat": 32.1631522,
       "lon": 34.81108964172513
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "MySizer",
+  "linkedinNum": 9338698
 }

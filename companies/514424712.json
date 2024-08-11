@@ -1,10 +1,10 @@
 {
   "name": "Stem Cell Medicine",
-  "description": "Technology for Treating Diseases with Stem Cells.",
+  "description": "Stem Cell Therapeutic Technology",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/stem_cell_medicine-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.stemcell-medicine.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.8015023,
       "lon": 35.2103559
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 5224442
 }

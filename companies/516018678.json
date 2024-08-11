@@ -1,5 +1,5 @@
 {
-  "name": "Concenter Biopharma",
+  "name": "Concenter BioPharma",
   "description": "Specializing in Type 2 Diabetes treatment, the company leverages a drug with three synergistic mechanisms confirmed by extensive animal testing.",
   "categoryId": 12,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": "concenter-biopharma",
   "crunchbaseId": null,
   "finderId": "concenter-biopharma-silkim-ltd",
-  "xId": null,
+  "xId": "ConcenterBioPha",
   "addresses": [
     {
       "street": "היהלום",
@@ -19,5 +19,8 @@
       "lat": 32.2498825,
       "lon": 34.9095651
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "concenterbiopharma",
+  "linkedinNum": 9496898
 }

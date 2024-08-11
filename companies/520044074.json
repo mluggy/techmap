@@ -1,5 +1,5 @@
 {
-  "name": "Supercom",
+  "name": "SuperCom",
   "description": "Providing secure technology solutions with over 26 years of global deployment experience across government and consumer sectors.",
   "categoryId": 7,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.supercom.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "supercom",
   "crunchbaseId": null,
   "finderId": "supercom",
-  "xId": null,
+  "xId": "supercomgroup",
   "addresses": [
     {
       "street": "שדרות רוטשילד",
@@ -19,5 +19,8 @@
       "lat": 32.0720324,
       "lon": 34.779107
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "SuperCom.group",
+  "linkedinNum": 2989525
 }

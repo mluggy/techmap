@@ -1,16 +1,16 @@
 {
-  "name": "Keep Kontakt",
-  "description": "A platform offering private sign-in through Guest mode, allowing personal and professional account creation.",
+  "name": "Keep",
+  "description": "Open-Source Alerts Management and Automation Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/keep_kontakt_ltd-logo.webp",
-  "websiteUrl": "https://keep.google.com/",
+  "websiteUrl": "https://www.keephq.dev/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "keepalerting",
   "crunchbaseId": null,
   "finderId": "keep",
-  "xId": null,
+  "xId": "keepalerting",
   "addresses": [
     {
       "street": "גלילי ישראל",
@@ -19,5 +19,7 @@
       "lat": 32.10096,
       "lon": 34.784826
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 88418678
 }

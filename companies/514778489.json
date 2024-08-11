@@ -1,10 +1,10 @@
 {
-  "name": "Tastepals",
-  "description": "Delivering accessible and cost-effective AI-driven marketing reports for small e-commerce businesses.",
-  "categoryId": 1,
+  "name": "Affective Markets",
+  "description": "Data-driven Emotional Analysis",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/tastepals-logo.webp",
-  "websiteUrl": "https://us.affectivemarkets.com/",
+  "websiteUrl": "https://www.affectivemarkets.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "affective-markets",
@@ -19,5 +19,8 @@
       "lat": 32.7049059,
       "lon": 35.1564706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "AffectiveMarkets",
+  "linkedinNum": 10458191
 }

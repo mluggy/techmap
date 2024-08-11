@@ -1,5 +1,5 @@
 {
-  "name": "My Route Online",
+  "name": "MyRouteOnline",
   "description": "This easy-to-use tool optimizes routes by time or distance, supports multiple file formats, and allows users to navigate via GPS, smartphone, or printed maps.",
   "categoryId": 5,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "myrouteonline",
-  "xId": null,
+  "xId": "MyRouteOnline",
   "addresses": [
     {
       "street": "רבין יצחק",
@@ -19,5 +19,8 @@
       "lat": 32.0647098,
       "lon": 34.8649952
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "myrouteonline",
+  "linkedinNum": 1504350
 }

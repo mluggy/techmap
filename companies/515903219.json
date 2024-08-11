@@ -1,5 +1,5 @@
 {
-  "name": "Change Healthcare Innovation Israel",
+  "name": "Change Healthcare",
   "description": "A healthcare tech firm leveraging insights and innovation to expedite the transformation of the U.S. healthcare system.",
   "categoryId": 12,
   "size": "xl",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "mckesson",
-  "xId": null,
+  "xId": "Change_HC",
   "addresses": [
     {
       "street": "הרוקמים",
@@ -19,5 +19,8 @@
       "lat": 32.0077054,
       "lon": 34.80060304320986
     }
-  ]
+  ],
+  "isMultinational": true,
+  "facebookId": "changehealthcare",
+  "linkedinNum": 960104
 }

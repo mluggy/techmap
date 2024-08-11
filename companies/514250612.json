@@ -1,5 +1,5 @@
 {
-  "name": "Centrical Software",
+  "name": "Centrical",
   "description": "Empower your team's performance through a dynamic gamification platform that engages, motivates, and inspires with creative challenges.",
   "categoryId": 14,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://centrical.com/",
   "careersUrl": "https://centrical.com/company/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "centrical",
   "crunchbaseId": null,
   "finderId": "gameffective",
-  "xId": null,
+  "xId": "centrical",
   "addresses": [
     {
       "street": "יהודה הנשיא",
@@ -19,5 +19,8 @@
       "lat": 32.1171605,
       "lon": 34.7947893
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Centrical",
+  "linkedinNum": 26272300
 }

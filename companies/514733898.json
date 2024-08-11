@@ -1,10 +1,10 @@
 {
-  "name": "Wizdome Trading Algorithms",
-  "description": "A unique, handcrafted wooden gazebo designed to complement diverse spaces.",
-  "categoryId": 10,
+  "name": "wizdome",
+  "description": "Critical Risk Management",
+  "categoryId": 7,
   "size": "s",
   "logoFile": "logos/wizdome_trading_algorithms-logo.webp",
-  "websiteUrl": "https://www.wizdome.eu/",
+  "websiteUrl": "https://www.wizdome.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "wizdome",
@@ -19,5 +19,6 @@
       "lat": 32.0503785,
       "lon": 34.8793624
     }
-  ]
+  ],
+  "isMultinational": false
 }

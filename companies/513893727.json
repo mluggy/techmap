@@ -1,5 +1,5 @@
 {
-  "name": "Edge 226",
+  "name": "Edge226",
   "description": "Delivering innovative and creative solutions to enhance services and outcomes.",
   "categoryId": 2,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "edge-226",
   "crunchbaseId": null,
   "finderId": "plymedia",
-  "xId": null,
+  "xId": "edge_226",
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -19,5 +19,8 @@
       "lat": 31.9137859,
       "lon": 34.8024773
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "edge226",
+  "linkedinNum": 17937106
 }

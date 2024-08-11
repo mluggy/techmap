@@ -1,10 +1,10 @@
 {
-  "name": "Trail Access",
-  "description": "Empowering people with disabilities to access and enjoy trails through personalized assistance and adaptive equipment.",
-  "categoryId": 12,
+  "name": "TrailAccess",
+  "description": "Mulitpurpose All-terrain Vehicle for People with Limited Mobility",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/trail_access-logo.webp",
-  "websiteUrl": "http://www.trailaccessproject.org/",
+  "websiteUrl": "https://trailaccess1.wixsite.com/website",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 32.9502044,
       "lon": 35.3099761
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "trailaccess"
 }

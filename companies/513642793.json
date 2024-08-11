@@ -1,16 +1,16 @@
 {
-  "name": "Eyeclick",
-  "description": "Engage in thrilling, interactive projector games featuring action-packed adventures where players defend scientists from alien invasions.",
-  "categoryId": 11,
+  "name": "EyeClick",
+  "description": "Interactive Entertainment Platform for Kids",
+  "categoryId": 8,
   "size": "m",
   "logoFile": "logos/eyeclick-logo.webp",
-  "websiteUrl": "https://www.eyeclick.com/",
+  "websiteUrl": "https://joinbeam.com/",
   "careersUrl": "https://www.eyeclick.com/about-us/careers",
   "isHiring": true,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "eyeclick",
-  "xId": null,
+  "xId": "BEAMbyEyeClick",
   "addresses": [
     {
       "street": "האחים בז'רנו",
@@ -19,5 +19,8 @@
       "lat": 32.0876478,
       "lon": 34.8045658
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "BEAMbyEyeClick",
+  "linkedinNum": 89878
 }

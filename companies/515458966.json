@@ -7,10 +7,10 @@
   "websiteUrl": "https://www.vicarius.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vicarius",
   "crunchbaseId": null,
   "finderId": "vicarius",
-  "xId": null,
+  "xId": "vicariusltd",
   "addresses": [
     {
       "street": "דרך בגין",
@@ -19,5 +19,8 @@
       "lat": 32.0797181,
       "lon": 34.7957816
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "vicariusltd",
+  "linkedinNum": 10597848
 }

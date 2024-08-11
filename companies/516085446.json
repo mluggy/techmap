@@ -10,7 +10,7 @@
   "linkedinId": "yonalink",
   "crunchbaseId": null,
   "finderId": "yonalink",
-  "xId": null,
+  "xId": "YonaLink_",
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -19,5 +19,6 @@
       "lat": 32.073249,
       "lon": 34.796032
     }
-  ]
+  ],
+  "isMultinational": false
 }

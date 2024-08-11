@@ -4,7 +4,7 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/prudentix_ltd-logo.webp",
-  "websiteUrl": "http://www.prudentix.com/",
+  "websiteUrl": "https://www.prudentix.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "prudentix",
@@ -19,5 +19,7 @@
       "lat": 31.9530326,
       "lon": 34.88971251534439
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 12950821
 }

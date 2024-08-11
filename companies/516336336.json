@@ -1,10 +1,10 @@
 {
   "name": "Session 42",
-  "description": "The course's program covers an extensive array of music production aspects, from lyrics, through musical staging. we'll get your heart and mind beating, your ...",
-  "categoryId": 11,
+  "description": "Digital Native Music Platform",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/session_42-logo.webp",
-  "websiteUrl": "https://session-42.com/",
+  "websiteUrl": "https://www.session42.ai/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 32.052837,
       "lon": 34.773448
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Session42.music",
+  "linkedinNum": 81458912
 }

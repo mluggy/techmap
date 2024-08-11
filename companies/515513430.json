@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "anima-app",
-  "xId": null,
+  "xId": "AnimaApp",
   "addresses": [
     {
       "street": "ברלין אליהו",
@@ -19,5 +19,8 @@
       "lat": 32.123928,
       "lon": 34.7925715
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "animaapp",
+  "linkedinNum": 17912357
 }

@@ -4,7 +4,7 @@
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/aqua_solutions-logo.webp",
-  "websiteUrl": "http://aquasolutions.co.il/",
+  "websiteUrl": "https://aquasolutions.co.il/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.2830455,
       "lon": 34.8612558
     }
-  ]
+  ],
+  "isMultinational": false
 }

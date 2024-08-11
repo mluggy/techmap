@@ -1,5 +1,5 @@
 {
-  "name": "Kenshoo",
+  "name": "Skai",
   "description": "Their platform offers brands and agencies scalable, data-driven marketing intelligence and integrated media and measurement solutions.",
   "categoryId": 2,
   "size": "l",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://skai.io/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "skaicommerce",
   "crunchbaseId": null,
   "finderId": "kenshoo",
-  "xId": null,
+  "xId": "skaicommerce",
   "addresses": [
     {
       "street": "הברזל",
@@ -19,5 +19,9 @@
       "lat": 32.109818,
       "lon": 34.841254
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "skaicommerce",
+  "linkedinNum": 167470,
+  "comeetId": "skai/22.00A"
 }

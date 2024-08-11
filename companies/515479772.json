@@ -1,23 +1,25 @@
 {
-  "name": "Rekor",
-  "description": "Leader in developing and implementing state-of-the-art roadway intelligence systems using AI-enabled computer vision and machine learning.",
-  "categoryId": 1,
-  "size": "m",
-  "logoFile": "logos/rekor-logo.webp",
-  "websiteUrl": "https://www.rekor.ai/",
-  "careersUrl": "https://www.rekor.ai/careers",
-  "isHiring": true,
-  "linkedinId": "rekor",
+  "name": "Waycare",
+  "description": "AI-driven Mobility Platform for Smart Cities",
+  "categoryId": 5,
+  "size": "s",
+  "logoFile": "logos/waycare.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "isHiring": false,
+  "linkedinNum": 10583114,
   "crunchbaseId": null,
-  "finderId": null,
-  "xId": null,
+  "finderId": "waycare",
+  "xId": "WayCareTech",
+  "facebookId": "waycaretech",
   "addresses": [
     {
-      "street": "יגאל אלון",
-      "houseNumber": "55",
+      "street": "אלון יגאל",
+      "houseNumber": 55,
       "city": "תל אביב - יפו",
-      "lat": 32.06268292391645,
-      "lon": 34.791823499992034
+      "lat": 32.062605491970025,
+      "lon": 34.79184135906221
     }
-  ]
+  ],
+  "isMultinational": false
 }

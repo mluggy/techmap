@@ -7,10 +7,10 @@
   "websiteUrl": "https://argus-sec.com/",
   "careersUrl": "https://argus-sec.com/company/careers/",
   "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "argus-cyber-security",
   "crunchbaseId": null,
   "finderId": "argus-cyber-security",
-  "xId": null,
+  "xId": "ArgusSec",
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +19,8 @@
       "lat": 32.0848749,
       "lon": 34.8030899
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "argussec",
+  "linkedinNum": 5200367
 }

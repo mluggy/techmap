@@ -1,10 +1,10 @@
 {
-  "name": "Vcomm Smart Transportation",
-  "description": "A leading wireless engineering consulting firm with over 26 years of expertise in broadband networks, public safety systems, and DAS solutions.",
-  "categoryId": 18,
+  "name": "VComm",
+  "description": "AI-based Predictive Decisions Platform for Connected Vehicles",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/vcomm_smart_transportation-logo.webp",
-  "websiteUrl": "https://www.vcomm-eng.com/",
+  "websiteUrl": "https://www.vcomm.tech/",
   "careersUrl": "https://www.vcomm-eng.com/careers/",
   "isHiring": true,
   "linkedinId": "vcomm-eng",
@@ -19,5 +19,6 @@
       "lat": 32.90259369018698,
       "lon": 35.2417013176341
     }
-  ]
+  ],
+  "isMultinational": false
 }

@@ -1,10 +1,10 @@
 {
   "name": "Cuyari",
-  "description": "Analytics solutions for Amazon vendors.",
-  "categoryId": 9,
+  "description": "Business Intelligence for Amazon Sellers",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/cuyari-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://cuyari.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "cuyari",
@@ -19,5 +19,8 @@
       "lat": 31.7883312,
       "lon": 35.1714423
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Cuyari.LTD",
+  "linkedinNum": 77626745
 }

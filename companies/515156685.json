@@ -1,5 +1,5 @@
 {
-  "name": "Iguazio (acquired by McKinsey)",
+  "name": "Iguazio",
   "description": "A platform that enables development, deployment and management of AI and Gen AI projects at scale to generate real business impact in the enterprise.",
   "categoryId": 1,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "iguazio",
   "crunchbaseId": "iguaz-io",
   "finderId": "iguaz-io",
-  "xId": null,
+  "xId": "iguazio",
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +19,8 @@
       "lat": 32.15840617317243,
       "lon": 34.807898748600344
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "iguazio",
+  "linkedinNum": 5351633
 }

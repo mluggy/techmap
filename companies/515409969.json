@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "capricia-productions",
-  "xId": null,
+  "xId": "CapriciaProduct",
   "addresses": [
     {
       "street": "החוצב",
@@ -19,5 +19,8 @@
       "lat": 31.775392101581176,
       "lon": 35.192133361719605
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CapriciaMusic",
+  "linkedinNum": 5314368
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Collplant",
+  "name": "CollPlant",
   "description": "A pioneering company in regenerative medicine, advancing tissue regeneration and organ manufacturing with innovative collagen technology.",
   "categoryId": 12,
   "size": "m",
@@ -7,10 +7,10 @@
   "websiteUrl": "https://collplant.com/",
   "careersUrl": null,
   "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "collplant",
   "crunchbaseId": null,
   "finderId": "collplant",
-  "xId": null,
+  "xId": "CollplantBio",
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -19,5 +19,8 @@
       "lat": 31.9104321,
       "lon": 34.8058374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "CollPlantBio",
+  "linkedinNum": 2369898
 }

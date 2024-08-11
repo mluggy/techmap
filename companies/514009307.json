@@ -1,10 +1,10 @@
 {
   "name": "Agrosif",
-  "description": "Machinery for harvesting fruit.",
-  "categoryId": 15,
+  "description": "Fruit-harvesting Machinery",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/agrosif-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.agrosif.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.6765744,
       "lon": 35.2413237
     }
-  ]
+  ],
+  "isMultinational": false
 }

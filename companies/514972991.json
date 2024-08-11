@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "tami-flour",
-  "xId": null,
+  "xId": "TamiFlour",
   "addresses": [
     {
       "street": "בית אל",
@@ -19,5 +19,7 @@
       "lat": 32.2255454,
       "lon": 34.9952069
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "TamiFlour"
 }

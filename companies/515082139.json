@@ -1,5 +1,5 @@
 {
-  "name": "Cgs Tower Networks",
+  "name": "CGS Tower Networks",
   "description": "A cutting-edge solution enabling scalable and evolving network visibility.",
   "categoryId": 18,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "cgs-tower-networks-ltd",
   "crunchbaseId": null,
   "finderId": "cgs-tower-networks",
-  "xId": null,
+  "xId": "cgstower",
   "addresses": [
     {
       "street": "המלאכה",
@@ -19,5 +19,7 @@
       "lat": 32.108278,
       "lon": 34.9652441
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 4852598
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Docontrol",
+  "name": "DoControl",
   "description": "A comprehensive SaaS security solution that protects data, identities, and configurations while preventing sensitive data exposure and insider threats.",
   "categoryId": 7,
   "size": "m",
@@ -10,7 +10,7 @@
   "linkedinId": "do-control",
   "crunchbaseId": null,
   "finderId": "docontrol",
-  "xId": null,
+  "xId": "do_control",
   "addresses": [
     {
       "street": "נהר הירדן",
@@ -19,5 +19,8 @@
       "lat": 32.049532,
       "lon": 34.8594551
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 67174083,
+  "comeetId": "docontrol/07.003"
 }

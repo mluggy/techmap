@@ -1,10 +1,10 @@
 {
-  "name": "Stratos Systems",
-  "description": "A decentralized infrastructure delivering scalable, reliable storage, AI computation, and database networking solutions.",
-  "categoryId": 6,
+  "name": "Stratos",
+  "description": "Automated Kubernetes System Creation and Migration Solution",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/stratos_systems-logo.webp",
-  "websiteUrl": "https://www.thestratos.org/",
+  "websiteUrl": "https://www.stratos.ltd",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.1196117,
       "lon": 34.826267
     }
-  ]
+  ],
+  "isMultinational": false
 }

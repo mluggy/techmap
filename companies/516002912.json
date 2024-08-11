@@ -1,10 +1,10 @@
 {
   "name": "Canonic",
-  "description": "Established in early 2019 as a subsidiary of Evogene, this company aims to innovate and apply advanced scientific methods to the medical cannabis industry.",
-  "categoryId": 12,
+  "description": "Medical-grade Cannabis Products",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/canonic-logo.webp",
-  "websiteUrl": "https://canonic.co.il/",
+  "websiteUrl": "https://www.canonicbio.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.8999536,
       "lon": 34.79146377703995
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 19105593
 }

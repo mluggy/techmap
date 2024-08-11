@@ -1,16 +1,16 @@
 {
   "name": "Moringa Arava Global",
-  "description": "Offering a range of health and wellness products derived from Moringa Oleifera, cultivated in the Arava region.",
+  "description": "Natural Health Products Derived from Moringa Oleifera",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/moringa_arava_global-logo.webp",
-  "websiteUrl": "https://www.moringa-arava.net/",
+  "websiteUrl": "https://www.moringa-arava.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "moringa-arava",
-  "xId": null,
+  "xId": "moringaarava",
   "addresses": [
     {
       "street": "האורנים",
@@ -19,5 +19,7 @@
       "lat": 32.1528898,
       "lon": 34.8883029
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "moringaarava"
 }

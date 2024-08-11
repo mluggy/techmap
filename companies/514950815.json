@@ -1,5 +1,5 @@
 {
-  "name": "Bluevine Capital",
+  "name": "Bluevine",
   "description": "A robust banking platform designed to meet your current and future business needs with lower fees and seamless money management.",
   "categoryId": 10,
   "size": "l",
@@ -10,7 +10,7 @@
   "linkedinId": "bluevine",
   "crunchbaseId": null,
   "finderId": "bluevine",
-  "xId": null,
+  "xId": "bluevine",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "bluevinecapital",
+  "linkedinNum": 4989275
 }

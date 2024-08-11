@@ -1,5 +1,5 @@
 {
-  "name": "Arch Intelligence",
+  "name": "Arch-Intelligence",
   "description": "Empowering industry professionals with advanced tools for seamless BIM transitions in landscape architecture and site design through specialized Revit® plugins.",
   "categoryId": 1,
   "size": "xs",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "arch-intelligence",
-  "xId": null,
+  "xId": "Arch_Intell",
   "addresses": [
     {
       "street": "התשבי",
@@ -19,5 +19,8 @@
       "lat": 32.8152057,
       "lon": 34.97687839067437
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "Environment.for.revit",
+  "linkedinNum": 75739339
 }

@@ -1,10 +1,10 @@
 {
-  "name": "Israzion",
-  "description": "Turning Waste into Useful Resources.",
-  "categoryId": 17,
+  "name": "IsraZion",
+  "description": "Transforming Waste into Valuable Materials",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/israzion-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.israzion.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,6 @@
       "lat": 32.8180906,
       "lon": 35.0557756
     }
-  ]
+  ],
+  "isMultinational": false
 }

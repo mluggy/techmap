@@ -1,5 +1,5 @@
 {
-  "name": "Pumba Parking",
+  "name": "Pumba",
   "description": "A neighborhood-focused street parking system designed for city drivers.",
   "categoryId": 13,
   "size": "xs",
@@ -19,5 +19,8 @@
       "lat": 32.0827759,
       "lon": 34.7806588
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "pumbaparking",
+  "linkedinNum": 72690177
 }

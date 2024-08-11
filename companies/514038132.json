@@ -1,10 +1,10 @@
 {
-  "name": "Cryptocodex",
-  "description": "A trusted platform since 2013, offering real-time cryptocurrency prices, market cap data, and easy trading options via mobile app and card payments.",
-  "categoryId": 10,
+  "name": "CryptoCodeX",
+  "description": "Counterfeit Detection Systems",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/cryptocodex-logo.webp",
-  "websiteUrl": "https://coincodex.com/",
+  "websiteUrl": "https://www.cryptocodex.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,7 @@
       "lat": 31.7691584,
       "lon": 35.2007843
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 2429144
 }

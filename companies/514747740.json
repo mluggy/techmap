@@ -1,5 +1,5 @@
 {
-  "name": "Moovingon",
+  "name": "MoovingON",
   "description": "Specializing in round-the-clock cloud production reliability, we proactively monitor, manage, and resolve issues using advanced technology and expert insights.",
   "categoryId": 6,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "moovingon",
   "crunchbaseId": null,
   "finderId": "moovingon",
-  "xId": null,
+  "xId": "MoovingON_NOC",
   "addresses": [
     {
       "street": "הבנים",
@@ -19,5 +19,7 @@
       "lat": 32.5622362,
       "lon": 34.952165925376505
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "moovingon"
 }

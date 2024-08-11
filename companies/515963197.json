@@ -1,10 +1,10 @@
 {
-  "name": "Katif Tech",
-  "description": "Dedicated to informing visitors about their mission and activities, this organization welcomes you to explore their online presence.",
-  "categoryId": 8,
+  "name": "Katif",
+  "description": "Autonomous Robotic Farming Technologies",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/katif_tech-logo.webp",
-  "websiteUrl": "https://www.elkatif.org/",
+  "websiteUrl": "https://www.katif.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
@@ -19,5 +19,8 @@
       "lat": 31.7640993,
       "lon": 35.2105929
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "KatifTech",
+  "linkedinNum": 35630047
 }

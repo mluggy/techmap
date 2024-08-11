@@ -10,7 +10,7 @@
   "linkedinId": "one-submit",
   "crunchbaseId": null,
   "finderId": "one-submit",
-  "xId": null,
+  "xId": "one_submit",
   "addresses": [
     {
       "street": "הבשמים",
@@ -19,5 +19,8 @@
       "lat": 32.06530815,
       "lon": 34.87973805
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "One-Submit-100501992116412",
+  "linkedinNum": 76502695
 }

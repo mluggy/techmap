@@ -1,10 +1,10 @@
 {
-  "name": "Toxsorb",
-  "description": "Targeted Elimination of Contaminants from Water and Wastewater Systems.",
+  "name": "ToxSorb",
+  "description": "Selective Removal of Pollutants from Water and Wastewater",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/toxsorb-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://wfi-water.com/group/toxsorb/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "wfi-toxsorb",
@@ -19,5 +19,7 @@
       "lat": 33.216204748595175,
       "lon": 35.588078597996116
     }
-  ]
+  ],
+  "isMultinational": false,
+  "linkedinNum": 1411067
 }

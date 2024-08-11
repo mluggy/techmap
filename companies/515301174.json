@@ -1,5 +1,5 @@
 {
-  "name": "Lisuto Israel",
+  "name": "Lisuto",
   "description": "A leader in ecommerce data tagging, optimizing traffic, sales, and cost efficiency for marketplaces and sellers.",
   "categoryId": 9,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": "lisuto-ai",
   "crunchbaseId": "lisuto-ai",
   "finderId": "lisuto",
-  "xId": null,
+  "xId": "lisuto_ai",
   "addresses": [
     {
       "street": "איסרליש",
@@ -19,5 +19,8 @@
       "lat": 32.07103585,
       "lon": 34.79219333800788
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "lisuto",
+  "linkedinNum": 10259204
 }

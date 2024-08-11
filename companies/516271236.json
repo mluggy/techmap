@@ -1,5 +1,5 @@
 {
-  "name": "Oshi Elmaliah Law Firm",
+  "name": "Oshi",
   "description": "Dedicated to ending sea pollution and overfishing, this company creates premium plant-based seafood fillets.",
   "categoryId": 17,
   "size": "s",
@@ -10,7 +10,7 @@
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "oshi",
-  "xId": null,
+  "xId": "oshiseafood",
   "addresses": [
     {
       "street": "החילזון",
@@ -19,5 +19,8 @@
       "lat": 32.0861321,
       "lon": 34.8040698
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "weareoshi",
+  "linkedinNum": 72379998
 }

@@ -1,16 +1,16 @@
 {
-  "name": "Project Ray",
-  "description": "Enhances scalability, reduces latency, and boosts cost-efficiency for large-scale workloads through advanced solutions.",
-  "categoryId": 1,
+  "name": "Project RAY",
+  "description": "Eye-free User Interface and Mobile Devices",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/project_ray-logo.webp",
-  "websiteUrl": "https://www.ray.io/",
+  "websiteUrl": "https://www.project-ray.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": null,
   "crunchbaseId": null,
   "finderId": "project-ray",
-  "xId": null,
+  "xId": "ProjRAY",
   "addresses": [
     {
       "street": "יהודה הנשיא",
@@ -19,5 +19,8 @@
       "lat": 32.1323863,
       "lon": 34.854098
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "RayProj",
+  "linkedinNum": 2446323
 }

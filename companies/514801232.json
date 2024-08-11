@@ -1,16 +1,16 @@
 {
-  "name": "S Park Parking Technologies",
-  "description": "A free service providing instant translation of text and web content in over 100 languages.",
-  "categoryId": 14,
+  "name": "sPARK Parking Technologies",
+  "description": "Urban Parking Solutions",
+  "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/s_park_parking_technologies-logo.webp",
-  "websiteUrl": "https://translate.google.com/",
+  "websiteUrl": "https://www.parking-polly.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "spark-parking-technology",
   "crunchbaseId": "spark-parking-technologies",
   "finderId": "spark_parking",
-  "xId": null,
+  "xId": "sPARK_Parking",
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -19,5 +19,8 @@
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "polly.parkingfairy",
+  "linkedinNum": 2876069
 }

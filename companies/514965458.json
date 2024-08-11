@@ -1,16 +1,16 @@
 {
-  "name": "Aaron High Tech",
-  "description": "A programming language that works across different operating systems.",
+  "name": "8th",
+  "description": "Cross-platform Programming Language",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/aaron_high_tech-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://8th-dev.com",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "aaron-high-tech-ltd-",
   "crunchbaseId": "aaron-high-tech",
   "finderId": "aaron-high-tech",
-  "xId": null,
+  "xId": "8th_Dev",
   "addresses": [
     {
       "street": "השמינית",
@@ -19,5 +19,8 @@
       "lat": 31.77816549757059,
       "lon": 35.29349707504028
     }
-  ]
+  ],
+  "isMultinational": false,
+  "facebookId": "8th.dev",
+  "linkedinNum": 4866687
 }

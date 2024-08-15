@@ -1,26 +1,35 @@
 {
-  "name": "Fullpath",
-  "description": "Specializing in the automotive sector, we offer a platform that organizes and utilizes dealership data to enhance targeted digital marketing efforts.",
-  "categoryId": 2,
-  "size": "m",
+  "name": "FullPath",
+  "description": "Digital Marketing & Customer Data for Auto Dealerships",
+  "categoryId": 5,
+  "size": "l",
   "logoFile": "logos/fullpath-logo.webp",
-  "websiteUrl": "https://www.fullpath.com/",
-  "careersUrl": null,
-  "isHiring": false,
+  "websiteUrl": "https://www.fullpath.com",
+  "careersUrl": "https://www.fullpath.com/careers",
+  "isHiring": true,
   "linkedinId": "fullpathcdxp",
-  "crunchbaseId": null,
+  "linkedinNum": 10677106,
+  "xId": "FullpathCDXP",
+  "facebookId": "fullpathcdxp",
+  "crunchbaseId": "autoleadstar",
   "finderId": "fullpath",
-  "xId": null,
   "addresses": [
     {
-      "street": "יוסי בן יועזר",
-      "houseNumber": 34,
+      "street": "פועלי צדק",
+      "houseNumber": "3",
       "city": "ירושלים",
-      "lat": 31.7530017,
-      "lon": 35.2060028
+      "lat": 31.7535133,
+      "lon": 35.2129975
+    },
+    {
+      "street": "יגאל אלון",
+      "houseNumber": "94",
+      "city": "תל אביב - יפו",
+      "lat": 32.0684862,
+      "lon": 34.7915705
     }
   ],
-  "isMultinational": false,
-  "linkedinNum": 10677106,
-  "comeetId": "fullpath/54.002"
+  "comeetId": "fullpath/54.002",
+  "glassdoorId": "EI_IE2257168.11,19",
+  "isMultinational": true
 }

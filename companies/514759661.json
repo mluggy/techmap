@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "tabit",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "גרין וורק",
+      "houseNumber": null,
+      "city": "יקום",
+      "lat": 32.24486128431638,
+      "lon": 34.843482968528775
+    }
+  ],
   "isMultinational": false,
   "facebookId": "tabit.cloud",
   "linkedinNum": 7949054

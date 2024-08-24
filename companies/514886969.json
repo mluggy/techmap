@@ -5,10 +5,10 @@
   "size": "l",
   "logoFile": "logos/forter-logo.webp",
   "websiteUrl": "https://www.forter.com/",
-  "careersUrl": null,
-  "isHiring": false,
+  "careersUrl": "https://www.forter.com/careers/",
+  "isHiring": true,
   "linkedinId": "forter",
-  "crunchbaseId": null,
+  "crunchbaseId": "forter",
   "finderId": "forter",
   "xId": "ForterGlobal",
   "addresses": [
@@ -21,6 +21,7 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
+  "greenhouseId": "forter",
+  "facebookId": "globalforter",
   "linkedinNum": 5071248
 }

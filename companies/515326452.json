@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "hoopo",
   "xId": "hoopoIOT",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "גליל ים",
+      "lat": 32.159843291521064,
+      "lon": 34.83156858433876
+    }
+  ],
   "isMultinational": false,
   "facebookId": "hoopoSystems",
   "linkedinNum": 10501427

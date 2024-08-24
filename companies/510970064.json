@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "orpak-systems",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "גרין וורק",
+      "houseNumber": "בניין E",
+      "city": "יקום",
+      "lat": 32.24494729707674,
+      "lon": 34.842503615639934
+    }
+  ],
   "isMultinational": false,
   "facebookId": "orpaksys",
   "linkedinNum": 39516,

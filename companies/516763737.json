@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "efi",
   "xId": "EFIPrint",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 14,
+      "city": "ראש העין",
+      "lat": 32.10680987943586,
+      "lon": 34.967654999988504
+    }
+  ],
   "isMultinational": true,
   "facebookId": "EFIPrint",
   "linkedinNum": 4303

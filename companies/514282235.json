@@ -13,14 +13,15 @@
   "xId": "ZoomInfo",
   "addresses": [
     {
-      "street":"הפנינה"
+      "street": "הפנינה",
       "houseNumber": 8,
       "city": "רעננה",
-      "lat": 32.1747214, 
+      "lat": 32.1747214,
       "lon": 34.8881297
     }
   ],
   "isMultinational": true,
+  "greenhouseId": "zoominfo",
   "facebookId": "ZoomInformation",
   "linkedinNum": 16272
 }

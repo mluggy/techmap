@@ -5,13 +5,21 @@
   "size": "s",
   "logoFile": "logos/air_consolidators_israel_agencies_2004-logo.webp",
   "websiteUrl": "https://www.airev.aero/",
-  "careersUrl": null,
-  "isHiring": false,
+  "careersUrl": "https://www.airev.aero/careers",
+  "isHiring": true,
   "linkedinId": "air-ev",
   "crunchbaseId": null,
   "finderId": "air1",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "סביון",
+      "houseNumber": 2,
+      "city": "פרדס חנה - כרכור",
+      "lat": 32.490873466116135,
+      "lon": 34.97495942885981
+    }
+  ],
   "isMultinational": false,
   "facebookId": "airevtol",
   "linkedinNum": 74980268

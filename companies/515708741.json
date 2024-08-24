@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "magnus-metal",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "הר טוב B",
+      "houseNumber": null,
+      "city": "צרעה",
+      "lat": 31.770752255079824,
+      "lon": 34.98985319569834
+    }
+  ],
   "isMultinational": false,
   "linkedinNum": 30111630
 }

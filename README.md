@@ -49,8 +49,8 @@ Contribute to this project by adding, updating, or deleting any company informat
          "lon": 34.77373112886606
        }
      ],
-     "comeetId": "acme",
-     "glassdoorId": "acme",
+     "comeetId": "acme/AF.100",
+     "greenhouseId": "acme",
      "breezyId": "acme",
      "leverId": "acme",
      "isMultinational": false
@@ -67,7 +67,7 @@ Contribute to this project by adding, updating, or deleting any company informat
 - **isHiring:** Should be true only if you're actively hiring.
 - **linkedinId, crunchbaseId, finderId and xId:** The company IDs (not full URLs) from <a href="https://www.linkedin.com/" target="_blank">LinkedIn,</a> <a href="https://www.crunchbase.com/" target="_blank">Crunchbase,</a> <a href="https://finder.startupnationcentral.org/" target="_blank">Startup Finder</a> and <a href="https://x.com" target="_blank">X/Twitter.</a>
 - **linkedinNum:** The company numerical ID from <a href="https://www.linkedin.com/" target="_blank">LinkedIn.</a> This is NOT your Linkedin ID. Used to scrape your Linkedin jobs.
-- **comeetId, glassdoorId, breezyId and/or leverId:** The company IDs (not full URLs) of your ATS platform. Used to scrape your ATS jobs.
+- **comeetId, greenhouseId, breezyId and/or leverId:** The company IDs (not full URLs) of your ATS platform. Used to scrape your ATS jobs.
 - **addresses:** An array specifying one or more physical locations. Each object should contain at least city and preferably street and houseNumber. The map will do the geocoding automatically, or you can specify your own latitude and longitude.
 - **isMultinational:** True/False if company is a multi-national company.
 

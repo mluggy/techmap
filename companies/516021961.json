@@ -5,13 +5,21 @@
   "size": "s",
   "logoFile": "logos/insidepacket-logo.webp",
   "websiteUrl": "https://www.insidepacket.com/",
-  "careersUrl": null,
-  "isHiring": false,
+  "careersUrl": "https://www.insidepacket.com/company-careers/",
+  "isHiring": true,
   "linkedinId": "insidepacket",
   "crunchbaseId": "insidepacket",
   "finderId": "insidepacket",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "גרין וורק",
+      "houseNumber": null,
+      "city": "יקום",
+      "lat": 32.244983594049,
+      "lon": 34.84250361568705
+    }
+  ],
   "isMultinational": false,
   "linkedinNum": 19259741
 }

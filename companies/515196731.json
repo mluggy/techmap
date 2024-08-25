@@ -5,13 +5,21 @@
   "size": "s",
   "logoFile": "logos/copyleaks_technologies-logo.webp",
   "websiteUrl": "https://copyleaks.com/",
-  "careersUrl": null,
+  "careersUrl": "https://copyleaks.com/careers  ",
   "isHiring": false,
   "linkedinId": "copyleaks",
   "crunchbaseId": "copyleaks-plagiarism-checker",
   "finderId": "copyleaks",
   "xId": "CopyLeaks",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "תל חי",
+      "houseNumber": 77,
+      "city": "קרית שמונה",
+      "lat": 33.21847846674527,
+      "lon": 35.57106800254759
+    }
+  ],
   "isMultinational": false,
   "facebookId": "CopyLeaks",
   "linkedinNum": 4989573

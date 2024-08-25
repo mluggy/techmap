@@ -11,7 +11,15 @@
   "crunchbaseId": "makhteshim-agan-industries-ltd",
   "finderId": "adama-agricultural-solutions",
   "xId": "adamaagri",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "מפעל מכתשים",
+      "houseNumber": null,
+      "city": "באר שבע",
+      "lat": 31.247066669435164,
+      "lon": 34.81874506867614
+    }
+  ],
   "isMultinational": false,
   "facebookId": "adamaagri",
   "linkedinNum": 5092316

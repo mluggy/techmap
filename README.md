@@ -33,7 +33,6 @@ Contribute to this project by adding, updating, or deleting any company informat
      "logoFile": "logos/acme-logo.webp",
      "websiteUrl": "https://www.example.com/",
      "careersUrl": "https://www.example.com/careers",
-     "isHiring": true,
      "linkedinId": "acme",
      "linkedinNum": 12345678,
      "crunchbaseId": "acme",
@@ -64,7 +63,6 @@ Contribute to this project by adding, updating, or deleting any company informat
 - **logoFile:** Should point to a 200x200 png, gif, jpg, or webp file uploaded to the [logos/](logos/) folder.
 - **websiteUrl:** The company's homepage address.
 - **careersUrl:** The company's careers/job page address.
-- **isHiring:** Should be true only if you're actively hiring.
 - **linkedinId, crunchbaseId, finderId and xId:** The company IDs (not full URLs) from <a href="https://www.linkedin.com/" target="_blank">LinkedIn,</a> <a href="https://www.crunchbase.com/" target="_blank">Crunchbase,</a> <a href="https://finder.startupnationcentral.org/" target="_blank">Startup Finder</a> and <a href="https://x.com" target="_blank">X/Twitter.</a>
 - **linkedinNum:** The company numerical ID from <a href="https://www.linkedin.com/" target="_blank">LinkedIn.</a> This is NOT your Linkedin ID. Used to scrape your Linkedin jobs.
 - **comeetId, greenhouseId, breezyId and/or leverId:** The company IDs (not full URLs) of your ATS platform. Used to scrape your ATS jobs.

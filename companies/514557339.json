@@ -5,13 +5,21 @@
   "size": "l",
   "logoFile": "logos/ree_automotive-logo.webp",
   "websiteUrl": "https://ree.auto/",
-  "careersUrl": null,
+  "careersUrl": "https://ree.auto/about/career/",
   "isHiring": false,
   "linkedinId": "reeautoofficial",
   "crunchbaseId": null,
   "finderId": "ree",
   "xId": "ReeAutoOfficial",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "גליל ים",
+      "lat": 32.159843291521064,
+      "lon": 34.83156858433876
+    }
+  ],
   "isMultinational": false,
   "facebookId": "ReeAutoOfficial",
   "linkedinNum": 19211633,

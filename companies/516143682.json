@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "hexagon-manufacturing-intelligence",
   "xId": "hexagonmi",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 15,
+      "city": "רעננה",
+      "lat": 32.19666974083607,
+      "lon": 34.88389164228251
+    }
+  ],
   "isMultinational": true,
   "facebookId": "HexagonMI",
   "linkedinNum": 17142,

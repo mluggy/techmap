@@ -5,13 +5,21 @@
   "size": "m",
   "logoFile": "logos/aspect_imaging-logo.webp",
   "websiteUrl": "https://aspectimaging.com/",
-  "careersUrl": null,
+  "careersUrl": "https://aspectimaging.com/about-us/careers/",
   "isHiring": false,
   "linkedinId": "aspect-imaging",
   "crunchbaseId": null,
   "finderId": "aspect-imaging",
   "xId": "Aspect_imaging",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "שקד",
+      "houseNumber": 27,
+      "city": "שוהם",
+      "lat": 32.01017562431263,
+      "lon": 34.95525360000648
+    }
+  ],
   "isMultinational": false,
   "facebookId": "aspectimaging",
   "linkedinNum": 2186068

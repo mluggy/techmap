@@ -5,12 +5,13 @@
   "size": "l",
   "logoFile": "logos/coronet_logo.webp",
   "websiteUrl": "https://coro.net",
-  "careersUrl": "https://www.coro.net/careers?coref=1.10.sED_152",
-  "isHiring": true,
+  "careersUrl": "https://www.coro.net/careers",
   "linkedinId": "corocyber",
+  "linkedinNum": 3574843,
   "crunchbaseId": "coronet",
   "finderId": "coro",
-  "xId": null,
+  "xId": "coro_cyber",
+  "facebookId": "corocyber",
   "addresses": [
     {
       "street": "רוטשילד",
@@ -20,5 +21,6 @@
       "lon": 34.768998704793404
     }
   ],
+  "comeetId": "coro/08.00A",
   "isMultinational": true
 }

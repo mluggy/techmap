@@ -1,23 +1,23 @@
 {
   "name": "Daisy",
-  "description": "Property Management Solutions",
+  "description": "Tech-driven, full service condo and co-op management company",
   "categoryId": 10,
   "size": "m",
-  "logoFile": "logos/daisy_investments-logo.webp",
+  "logoFile": "logos/Daisy-logo.webp",
   "websiteUrl": "https://www.joindaisy.com/",
-  "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "careersUrl": "https://www.joindaisy.com/careers",
+  "isHiring": true,
+  "linkedinId": "joindaisy",
   "crunchbaseId": null,
   "finderId": "daisy",
   "xId": null,
   "addresses": [
     {
-      "street": "וינהויז זאב",
-      "houseNumber": 3,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0294773,
-      "lon": 34.8885912
+      "street": "בן אביגדור",
+      "houseNumber": 19,
+      "city": "תל אביב - יפו",
+      "lat": 32.066983,
+      "lon": 34.790784
     }
   ],
   "isMultinational": false,

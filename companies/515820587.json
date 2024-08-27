@@ -3,7 +3,7 @@
   "description": "Tech-driven, full service condo and co-op management company",
   "categoryId": 10,
   "size": "m",
-  "logoFile": "https://i.ibb.co/HCmwr6c/Daisy-Logo-Color-3x.png",
+  "logoFile": "logos/Daisy-logo.webp",
   "websiteUrl": "https://www.joindaisy.com/",
   "careersUrl": "https://www.joindaisy.com/careers",
   "isHiring": true,
@@ -16,8 +16,8 @@
       "street": "בן אביגדור",
       "houseNumber": 19,
       "city": "תל אביב - יפו",
-      "lat": 32.067030,
-      "lon": 34.790970
+      "lat": 32.066983,
+      "lon": 34.790784
     }
   ],
   "isMultinational": false,

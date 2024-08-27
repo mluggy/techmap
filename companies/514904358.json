@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "bumpyard",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "גליל ים",
+      "lat": 32.15944189431455,
+      "lon": 34.83270211567907
+    }
+  ],
   "isMultinational": false,
   "facebookId": "commboxisrael",
   "linkedinNum": 19145004

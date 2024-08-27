@@ -5,13 +5,56 @@
   "size": "l",
   "logoFile": "logos/israel_aerospace_industries_ltd-logo.webp",
   "websiteUrl": "https://www.iai.co.il/",
-  "careersUrl": null,
-  "isHiring": false,
+  "careersUrl": "https://www.iai.co.il/about/working-at-iai",
+  "isHiring": true,
   "linkedinId": "iai",
   "crunchbaseId": null,
   "finderId": "IAI",
   "xId": "ilaerospaceiai",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "שדרות רשות שדות התעופה",
+      "houseNumber": 2,
+      "city": "לוד",
+      "lat": 32.00558737287395,
+      "lon": 34.90331053124274
+    },
+    {
+      "street": "אלטלף",
+      "houseNumber": 2,
+      "city": "יהוד-מונסון",
+      "lat": 32.02602647293728,
+      "lon": 34.89876971763155
+    },
+    {
+      "street": "יצחק הנשיא",
+      "houseNumber": 100,
+      "city": "אשדוד",
+      "lat": 31.79683571137955,
+      "lon": 34.665985146924506
+    },
+    {
+      "street": "יצחק נפחא",
+      "houseNumber": 1,
+      "city": "באר שבע",
+      "lat": 31.252337666231057,
+      "lon": 34.813697937549485
+    },
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "באר יעקב",
+      "lat": 31.93011758830995,
+      "lon": 34.83306176499484
+    },
+    {
+      "street": "עטרות",
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.85499716617613,
+      "lon": 35.21709126862645
+    }
+  ],
   "isMultinational": false,
   "facebookId": "iai.official",
   "linkedinNum": 10057737

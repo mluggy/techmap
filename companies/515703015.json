@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "skyline-robotics",
   "xId": "roboticskyline",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "גרין וורק",
+      "houseNumber": null,
+      "city": "יקום",
+      "lat": 32.244983594049,
+      "lon": 34.84250361568705
+    }
+  ],
   "isMultinational": false,
   "facebookId": "SkylineRobotics",
   "linkedinNum": 27175068

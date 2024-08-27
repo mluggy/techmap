@@ -1,26 +1,26 @@
 {
   "name": "Guardz",
-  "description": "Guardz offers a comprehensive cybersecurity solution that integrates email, browsing, perimeter security, and awareness training to combat the majority of cyber attacks originating from phishing.",
+  "description": "Guardz provides MSPs and IT professionals with an AI-driven cybersecurity platform designed to secure and insure small businesses against cyberattacks. Our unified detection and response platform safeguards users, emails, devices, cloud directories, and data.",
   "categoryId": 7,
-  "size": "s",
+  "size": "m",
   "logoFile": "logos/guardz_cyber-logo.webp",
   "websiteUrl": "https://guardz.com/",
-  "careersUrl": null,
-  "isHiring": false,
+  "careersUrl": "https://guardz.com/careers/",
+  "isHiring": true,
   "linkedinId": "guardz",
-  "crunchbaseId": null,
+  "crunchbaseId": "guardz",
   "finderId": "guardz",
   "xId": null,
   "addresses": [
     {
-      "street": "גנסין",
-      "houseNumber": 9,
-      "city": "גבעתיים",
-      "lat": 32.07101720526315,
-      "lon": 34.805179542105265
+      "street": "אלון יגאל",
+      "houseNumber": 94,
+      "city": "תל אביב - יפו",
+      "lat": 32.06876684124388,
+      "lon": 34.7937473454111
     }
   ],
-  "isMultinational": false,
+  "isMultinational": true,
   "facebookId": "guardzcom",
   "linkedinNum": 81856039
 }

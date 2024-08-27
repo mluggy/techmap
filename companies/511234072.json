@@ -5,13 +5,21 @@
   "size": "l",
   "logoFile": "logos/hazera_1939_ltd-logo.webp",
   "websiteUrl": "https://www.hazera.com/",
-  "careersUrl": null,
+  "careersUrl": "https://career.hazera.com/",
   "isHiring": false,
   "linkedinId": "hazera-seeds",
   "crunchbaseId": null,
   "finderId": "hazera",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "ברורים",
+      "houseNumber": 1,
+      "city": "ברורים",
+      "lat": 31.76886723599583,
+      "lon": 34.7808910471617
+    }
+  ],
   "isMultinational": false,
   "facebookId": "hazeracorp",
   "linkedinNum": 115473

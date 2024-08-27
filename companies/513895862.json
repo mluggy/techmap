@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "innovid",
   "xId": "innovid",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "תל אביב - יפו",
+      "lat": 32.07001936568212,
+      "lon": 34.79641456521569
+    }
+  ],
   "isMultinational": false,
   "facebookId": "innovid",
   "linkedinNum": 733622

@@ -1,0 +1,26 @@
+{
+  "name": "Agora",
+  "description": "Agora is an all-in-one real estate investment management software that accelerates fundraising, fosters investor relations, and optimizes efficiency.",
+  "categoryId": 10,
+  "size": "m",
+  "logoFile": "/logos/Agora-blue-label-1.png",
+  "websiteUrl": "https://agorareal.com/",
+  "careersUrl": "https://agorareal.com/careers/",
+  "isHiring": true,
+  "linkedinId": "agora-re",
+  "crunchbaseId": "agora-real-estate-technologies",
+  "finderId": "agora",
+  "xId": "agora_re",
+  "addresses": [
+    {
+      "street": "קלישר",
+      "houseNumber": 30,
+      "city": "תל אביב",
+      "lat": 32.065983440486754,
+      "lon": 34.76884104232979
+    }
+  ],
+  "isMultinational": true,
+  "facebookId": "AgoraRE",
+  "linkedinNum": null
+}

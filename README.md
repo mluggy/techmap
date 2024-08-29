@@ -1,20 +1,22 @@
 # Israeli Tech Companies Map
 
-Welcome! This project aims to help Israelis find hi-tech jobs near their homes, minimizing commute and wasted time. Both the <a href="https://maphub.net/mluggy/techmap" target="_blank">Companies Map</a> and the <a href="https://maphub.net/mluggy" target="_blank">Job Maps</a> are updated using this repo data.
+Welcome! This project helps Israelis find hi-tech jobs near their homes, minimizing commute and wasted time.
+
+Both the <a href="https://maphub.net/mluggy/techmap" target="_blank">companies map</a> and <a href="https://maphub.net/mluggy" target="_blank">job maps</a> are updated using data from this repo and <a href="https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8" target="_blank">רשם החברות.</a>
+
+Please provide the current company number (ח.פ) whenever adding, updating or deleting your company. Only active, locally registered and non-violating companies are included in the final maps.
 
 ![Techmap](techmap.gif)
 
-**New: [Donate here](https://mrng.to/0UqeX19y8t) to get your company listed/updated ASAP** (you can also follow the instructions below to do it yourself).
+## Adding or updating your company
 
-## Project Overview
+### 🚀 Express Service
 
-The main point-of-truth for this project is <a href="https://ica.justice.gov.il/GenericCorporarionInfo/SearchCorporation?unit=8" target="_blank">Rasham Havarot / רשם החברות.</a> Please provide the current company number (ח.פ) whenever adding, updating or deleting your company. Note: only locally registered, non-violating companies are included in the final map.
+<a href="https://mrng.to/0UqeX19y8t" target="_blank">For a small donation,</a> I'll handle the process for you quickly and efficiently.
 
-## Adding, Updating, or Deleting Your Company
+### Self-Service
 
-Contribute to this project by adding, updating, or deleting any company information.
-
-### Method 1: Fork and Clone (Recommended)
+If you prefer, you can follow the technical instructions to submit the changes yourself at no cost.
 
 1. **Fork the repository**
 2. **Clone your forked repository:**
@@ -86,14 +88,6 @@ git push origin add-company
 
 7. **Create a pull request**
 
-### Method 2: Submit an Issue
-
-You can also request an addition, update, or deletion through the repository's [Issues page.](https://github.com/mluggy/techmap/issues) Enter as many details as possible, and someone will pick it up for you, eventually.
-
-### Method 3: Donate
-
-If you would like your listing to be added or updated promptly, I offer an express (paid) option for your convenience. <a href="https://mrng.to/0UqeX19y8t" target="_blank">After a small contribution,</a> I will personally reach out to you via email to confirm the details.
-
 ## License
 
 This project is licensed under the <a href="https://opendatacommons.org/licenses/odbl/1-0/" target="_blank">Open Database License (ODbL) v1.0.</a> You are free to:
@@ -105,7 +99,7 @@ However, you must attribute the original creator by crediting Michael Lugassy an
 
 ## Acknowledgements
 
-Thank you to everyone who updates the map and helps with this project. Special thanks to those who provided comments and suggestions. I hope this tool proves useful for both job seekers and companies listed.
+Thank you to everyone who updates the map and helps with this project. Special thanks to those who provided comments and suggestions. I hope this tool proves useful for both job seekers and companies alike.
 
 Happy job hunting! ❤️
 

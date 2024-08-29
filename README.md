@@ -1,8 +1,10 @@
 # Israeli Tech Companies Map
 
-Welcome! This project aims to help Israelis find hi-tech jobs near their homes, minimizing commute and wasted time. The map is hosted at <a href="https://maphub.net/mluggy/techmap" target="_blank">(https://maphub.net/mluggy/techmap)</a> and updates itself daily using this repo data.
+Welcome! This project aims to help Israelis find hi-tech jobs near their homes, minimizing commute and wasted time. Both the <a href="https://maphub.net/mluggy/techmap" target="_blank">Companies Map</a> and the <a href="https://maphub.net/mluggy" target="_blank">Job Maps</a> are updated using this repo data.
 
 ![Techmap](techmap.gif)
+
+**New: [Donate here](https://mrng.to/0UqeX19y8t) to get your company listed/updated ASAP** (you can also follow the instructions below to do it yourself).
 
 ## Project Overview
 

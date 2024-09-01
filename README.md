@@ -1,4 +1,4 @@
-# Israeli Tech Companies Map
+# Israeli Tech Map
 
 Welcome! This project helps Israelis find hi-tech jobs near their homes, minimizing commute and wasted time.
 

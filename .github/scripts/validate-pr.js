@@ -22,7 +22,10 @@ const schema = {
       pattern: "^logos/.*\\.(webp|gif|jpe?g|png)$",
     },
     websiteUrl: { type: "string", format: "uri" },
-    careersUrl: { type: "string", format: "uri" },
+    careersUrl: {
+      type: ["string", "null"],
+      format: "uri",
+    },
     linkedinId: { type: "string", pattern: "^[a-zA-Z0-9\\-_\\.,]+$" },
     linkedinNum: { type: "number" },
     crunchbaseId: { type: "string", pattern: "^[a-zA-Z0-9\\-_\\.,]+$" },

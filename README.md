@@ -10,11 +10,11 @@ Please provide the current company number (ח.פ) whenever adding, updating or d
 
 ## Adding or updating your company
 
-### 🚀 Express Service
+### Express Service 🚀
 
 <a href="https://mrng.to/0UqeX19y8t" target="_blank">For a small donation,</a> I'll handle the process for you quickly and efficiently.
 
-### Self-Service
+### Self Service
 
 If you prefer, you can follow the technical instructions to submit the changes yourself at no cost.
 

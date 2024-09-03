@@ -5,21 +5,21 @@
   "size": "s",
   "logoFile": "logos/laguna_health-logo.webp",
   "websiteUrl": "https://lagunahealth.com/",
-  "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "careersUrl": "https://www.lagunahealth.com/our-team#open-positions-section",
+  "isHiring": true,
+  "linkedinId": "lagunahealth",
   "crunchbaseId": null,
   "finderId": "laguna-health",
   "xId": "laguna_health",
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "street": "היצירה",
+      "houseNumber": 31,
+      "city": "רמת גן",
+      "lat": 32.087758,
+      "lon": 34.802004
     }
   ],
-  "isMultinational": false,
+  "isMultinational": true,
   "linkedinNum": 66893616
 }

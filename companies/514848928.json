@@ -1,0 +1,27 @@
+{
+  "name": "ScyllaDB",
+  "description": "ScyllaDB, including its Scylla Cloud offering, provides and develops a highly scalable, low-latency NoSQL database as a managed service, designed for handling large volumes of data with high performance.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/scylladb-logo.webp",
+  "websiteUrl": "https://www.scylladb.com/",
+  "careersUrl": "https://www.scylladb.com/company/careers/",
+  "isHiring": true,
+  "linkedinId": "scylladb",
+  "crunchbaseId": "scylladb",
+  "finderId": "cloudius-systems",
+  "xId": "ScyllaDB",
+  "facebookId": "scylladb",
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 4,
+      "city": "הרצליה",
+      "lat": 32.1671717,
+      "lon": 34.811599
+    }
+  ],
+  "comeetId" : "scylladb/E4.006",
+  "isMultinational": true,
+  "linkedinNum": 10201068
+}

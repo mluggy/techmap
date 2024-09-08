@@ -6,12 +6,19 @@
   "logoFile": "logos/gevasol_control_systems-logo.webp",
   "websiteUrl": "https://www.gevasol.com/",
   "careersUrl": "https://www.gevasol.com/gevasol-careers/",
-  "isHiring": true,
   "linkedinId": "geva-sol-bv",
-  "crunchbaseId": null,
+  "crunchbaseId": "gevasol",
   "finderId": "gevasol",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "שביט",
+      "houseNumber": 8,
+      "city": "נס ציונה",
+      "lat": 31.91969111958036,
+      "lon": 34.79317813839073
+    }
+  ],
   "isMultinational": false,
   "facebookId": "gevasol",
   "linkedinNum": 3289837

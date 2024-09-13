@@ -179,9 +179,9 @@ async function validateLogo(jsonFilePath, logosFolderPath) {
     process.exit(1);
   }
 
-  if (!["webp", "jpeg", "jpg", "gif"].includes(metadata.format)) {
+  if (!["webp", "jpeg", "jpg", "gif", "png"].includes(metadata.format)) {
     console.error(
-      `Logo file ${logoFile} is not in a valid format (webp, jpeg, jpg, or gif)`
+      `Logo file ${logoFile} is not in a valid format (webp, jpeg, jpg, png, or gif):`
     );
     process.exit(1);
   }

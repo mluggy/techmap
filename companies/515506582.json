@@ -1,36 +1,36 @@
 {
-    "name": "meckano",
-    "description": "Meckano is a market-leading cloud-based SaaS time and attendance management system for tracking working hours online with a built-in approval system, real-time analytics and focus on ease of use. Meckano develops time and attendance solutions for employee labor tracking, providing solutions that range from Enterprise class and public-sector organizations with thousands of employees, to mid-sized businesses, all the way down to small businesses with only 5 or 10 employees. Using high-quality, digital time clocks and robust, cloud-based software, Meckano records real-time employee attendance information that can be accessed online from anywhere there is an Internet connection. Employees can punch in using a physical time clock, an online account, a telephone and even a smartphone application. We provide innovative time and attendance solutions that help businesses and organizations save money, streamline workforce processes and increase productivity. The solution is affordable, flexible and convenient for owners, staff and managers alike. We value the connections made with our customers and look to provide the highest levels of customer satisfaction at all times. Our passion for results can be found in everything we do, from research and development to service and support of our solutions and products. We believe that through our combined efforts we will help revolutionize how Time and Attendance is seen around the world today. Meckano currently offers a variety of clock models including fingerprint and facial recognition time clocks, RFID cards/chips and mobile applications. All of our plans come with a 15 day free trial, no credit card required. For more information, contact us at info@meckano.co.il, visit www.meckano.co.il or call (+972)73-7969270.",
-    "categoryId": 6,
-    "size": "m",
-    "logoFile": "logos/meckano_200x200.png",
-    "websiteUrl": "https://www.meckano.co.il/",
-    "careersUrl": "https://www.meckano.co.il/%D7%A7%D7%A8%D7%99%D7%99%D7%A8%D7%94-%7Cfwsa%7C-%D7%9E%D7%A9%D7%A8%D7%95%D7%AA-%D7%A4%D7%AA%D7%95%D7%97%D7%95%D7%AA",
-    "linkedinId": "meckano",
-    "linkedinNum": 14803350,
-    "crunchbaseId": "",
-    "finderId": "",
-    "xId": "",
-    "facebookId": "Meckano",
-    "addresses": [
-        {
-            "street": "שדרות ההסתדרות",
-            "houseNumber": "251",
-            "city": "חיפה",
-            "lat": 32.8095427,
-            "lon": 35.0667341
-        },
-        {
-            "street": "תוצרת הארץ",
-            "houseNumber": "3",
-            "city": "פתח תקווה",
-            "lat": 32.0906586,
-            "lon": 34.8589112
-        }
-    ],
-    "comeetId": "",
-    "greenhouseId": "",
-    "breezyId": "",
-    "leverId": "",
-    "isMultinational": false
-  }
+  "name": "meckano",
+  "description": "Cloud-based SaaS time and attendance management system for tracking working hours online with a built-in approval system and real-time analytics.",
+  "categoryId": 6,
+  "size": "m",
+  "logoFile": "logos/meckano_200x200.png",
+  "websiteUrl": "https://www.meckano.co.il/",
+  "careersUrl": "https://www.meckano.co.il/%D7%A7%D7%A8%D7%99%D7%99%D7%A8%D7%94-%7Cfwsa%7C-%D7%9E%D7%A9%D7%A8%D7%95%D7%AA-%D7%A4%D7%AA%D7%95%D7%97%D7%95%D7%AA",
+  "linkedinId": "meckano",
+  "linkedinNum": 14803350,
+  "crunchbaseId": "",
+  "finderId": "",
+  "xId": "",
+  "facebookId": "Meckano",
+  "addresses": [
+    {
+      "street": "שדרות ההסתדרות",
+      "houseNumber": "251",
+      "city": "חיפה",
+      "lat": 32.8095427,
+      "lon": 35.0667341
+    },
+    {
+      "street": "תוצרת הארץ",
+      "houseNumber": "3",
+      "city": "פתח תקווה",
+      "lat": 32.0906586,
+      "lon": 34.8589112
+    }
+  ],
+  "comeetId": "",
+  "greenhouseId": "",
+  "breezyId": "",
+  "leverId": "",
+  "isMultinational": false
+}

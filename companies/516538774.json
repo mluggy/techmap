@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "polopo",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "פנחס ספיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.914696187308618,
+      "lon": 34.803250113439226
+    }
+  ],
   "isMultinational": false,
   "linkedinNum": 82132603
 }

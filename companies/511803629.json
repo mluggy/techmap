@@ -4,14 +4,22 @@
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/sling-logo.webp",
-  "websiteUrl": "https://www.sling.insure/",
+  "websiteUrl": "https://www.slingscore.com/",
   "careersUrl": null,
   "isHiring": false,
   "linkedinId": "sling-score",
   "crunchbaseId": null,
   "finderId": "sling-1",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 52,
+      "city": "תל אביב - יפו",
+      "lat": 32.063947383479075,
+      "lon": 34.78155562886322
+    }
+  ],
   "isMultinational": false,
   "linkedinNum": 74986121
 }

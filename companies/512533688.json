@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "dolav",
   "xId": "dolavuk",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "דולב",
+      "houseNumber": null,
+      "city": "דביר",
+      "lat": 31.409344559356356,
+      "lon": 34.82415245781882
+    }
+  ],
   "isMultinational": false,
   "facebookId": "dolavplasticproducts",
   "linkedinNum": 6036677

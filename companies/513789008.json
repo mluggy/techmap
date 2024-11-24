@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "habonim-industrial-valves-actuators",
   "xId": "habonimvalves",
-  "addresses": [],
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "כפר הנשיא",
+      "lat": 32.97516369045405,
+      "lon": 35.600518814798676
+    }
+  ],
   "isMultinational": false,
   "facebookId": "Habonimvalve",
   "linkedinNum": 817728

@@ -11,7 +11,15 @@
   "crunchbaseId": null,
   "finderId": "radomatics",
   "xId": null,
-  "addresses": [],
+  "addresses": [
+    {
+      "street": "החרושת",
+      "houseNumber": 25,
+      "city": "רעננה",
+      "lat": 32.19620864407136,
+      "lon": 34.8799813719515
+    }
+  ],
   "isMultinational": false,
   "facebookId": "radomatics",
   "linkedinNum": 18358675

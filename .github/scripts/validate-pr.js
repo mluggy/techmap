@@ -32,19 +32,23 @@ const schema = {
       type: ["string", "null"],
       pattern: "^[a-zA-Z0-9\\-_\\.,]+$",
     },
+    ivcId: { type: ["string", "null"], pattern: "^[A-Z0-9]+$" },
     finderId: { type: ["string", "null"], pattern: "^[a-zA-Z0-9\\-_\\.,]+$" },
     xId: { type: ["string", "null"], pattern: "^[a-zA-Z0-9\\-_\\.,]+$" },
-    facebookId: { type: ["string", "null"], pattern: "^[a-zA-Z0-9\\-_\\.,]+$" },
-    greenhouseId: {
+    facebookId: {
       type: ["string", "null"],
-      pattern: "^[a-zA-Z0-9\\-_\\.,]+$",
+      pattern: "^[a-zA-Z0-9\\-_\\.,%]+$",
     },
     breezyId: { type: ["string", "null"], pattern: "^[a-zA-Z0-9\\-_\\.,]+$" },
-    leverId: { type: ["string", "null"], pattern: "^[a-zA-Z0-9\\-_\\.,]+$" },
     comeetId: {
       type: ["string", "null"],
       pattern: "^[a-zA-Z0-9\\-_\\.,]+/[a-zA-Z0-9\\-_\\.,]+$",
     },
+    greenhouseId: {
+      type: ["string", "null"],
+      pattern: "^[a-zA-Z0-9\\-_\\.,]+$",
+    },
+    leverId: { type: ["string", "null"], pattern: "^[a-zA-Z0-9\\-_\\.,]+$" },
     addresses: {
       type: "array",
       minItems: 1,
@@ -61,6 +65,7 @@ const schema = {
       },
     },
     isMultinational: { type: "boolean" },
+    isActive: { type: "boolean" },
   },
   additionalProperties: false,
 };

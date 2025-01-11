@@ -1,25 +1,31 @@
 {
   "name": "WonderNet",
-  "description": "Electronic Signature Solutions",
+  "description": "Electronic Signature Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/wondernet_ltd-logo.webp",
   "websiteUrl": "https://www.wondernet.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wondernet.co.il",
+  "linkedinNum": 18076636,
   "crunchbaseId": null,
+  "ivcId": "A1000000007520",
   "finderId": "wondernet",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "למרחב",
-      "houseNumber": 40,
-      "city": "רמת השרון",
-      "lat": 32.1436003,
-      "lon": 34.8300977
+      "street": "שדרות אריאל שרון",
+      "houseNumber": 8,
+      "city": "אור יהודה",
+      "lat": 32.0217949,
+      "lon": 34.8571773
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18076636
+  "isActive": true
 }

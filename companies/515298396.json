@@ -6,21 +6,26 @@
   "logoFile": "logos/flexitech_avia-logo.webp",
   "websiteUrl": "https://flexitech.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "flexitech-avia",
+  "linkedinNum": 10694251,
   "crunchbaseId": null,
+  "ivcId": "A1000000230953",
   "finderId": "flexitech-avia",
   "xId": null,
+  "facebookId": "Flexitech-Avia-1719950368107796",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בהרב יקותיאל",
-      "houseNumber": 37,
-      "city": "חיפה",
-      "lat": 32.8197088,
-      "lon": 35.060382
+      "street": "תנופה",
+      "houseNumber": 6,
+      "city": "טירת כרמל",
+      "lat": 32.7701121,
+      "lon": 34.9720291
     }
   ],
   "isMultinational": false,
-  "facebookId": "Flexitech-Avia-1719950368107796",
-  "linkedinNum": 10694251
+  "isActive": true
 }

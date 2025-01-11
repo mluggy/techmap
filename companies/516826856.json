@@ -1,25 +1,31 @@
 {
   "name": "Nuel Advanced Technologies",
-  "description": "Green fuels",
+  "description": "Green fuels.",
   "categoryId": 5,
   "size": "xs",
-  "logoFile": "logos/nuel_advanced_technologies-logo.webp",
+  "logoFile": "logos/nuel-advanced-technologies-logo.webp",
   "websiteUrl": "https://nuel.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nuel-advanced-technologies-ltd",
+  "linkedinNum": 100046157,
   "crunchbaseId": "nuel",
+  "ivcId": "A1000000418597",
   "finderId": "nuel-advanced-technologies",
   "xId": null,
+  "facebookId": "Nueladvancedtech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הזמיר",
-      "houseNumber": 6,
+      "street": "ילדי טהרן",
+      "houseNumber": 8,
       "city": "ראשון לציון",
-      "lat": 31.9529814,
-      "lon": 34.8263216
+      "lat": 31.9854726,
+      "lon": 34.7698158
     }
   ],
   "isMultinational": false,
-  "facebookId": "Nueladvancedtech"
+  "isActive": true
 }

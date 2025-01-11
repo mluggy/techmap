@@ -6,21 +6,26 @@
   "logoFile": "logos/nsknox_technologies-logo.webp",
   "websiteUrl": "https://nsknox.net/",
   "careersUrl": "https://nsknox.net/career/",
-  "isHiring": true,
   "linkedinId": "nsknox-technologies-ltd.",
+  "linkedinNum": 7972484,
   "crunchbaseId": "nsknox",
+  "ivcId": "A1000000203192",
   "finderId": "nsknox",
   "xId": "nsKnoxTech",
+  "facebookId": "nsKnoxTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "street": "דרך מנחם בגין",
+      "houseNumber": 134,
+      "city": "תל אביב-יפו",
+      "lat": 32.0750015,
+      "lon": 34.7919276
     }
   ],
   "isMultinational": false,
-  "facebookId": "nsKnoxTechnologies",
-  "linkedinNum": 7972484
+  "isActive": true
 }

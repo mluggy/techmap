@@ -6,11 +6,17 @@
   "logoFile": "logos/fertilai-logo.webp",
   "websiteUrl": "https://fertilai.com/",
   "careersUrl": "https://fertilai.com/our-careers/",
-  "isHiring": true,
   "linkedinId": "fertilai",
+  "linkedinNum": 74549314,
   "crunchbaseId": null,
+  "ivcId": "A1000000359263",
   "finderId": "fertilai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארגמן רמת אפעל",
@@ -20,5 +26,6 @@
       "lon": 34.837772161228514
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

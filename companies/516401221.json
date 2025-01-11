@@ -6,11 +6,17 @@
   "logoFile": "logos/ntt_innovation_laboratory_israel-logo.webp",
   "websiteUrl": "https://global.ntt/",
   "careersUrl": "https://www.nttdata.com/global/en/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 74520414,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ntt",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטחנה",
@@ -20,6 +26,6 @@
       "lon": 34.8910865
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 74520414
+  "isMultinational": false,
+  "isActive": true
 }

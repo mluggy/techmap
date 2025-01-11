@@ -1,16 +1,22 @@
 {
   "name": "eBay",
   "description": "A leading global marketplace for diverse products with top brands, competitive prices, and free shipping on numerous items.",
-  "size": "l",
   "categoryId": 9,
+  "size": "l",
   "logoFile": "logos/ebay_israel_holding-logo.webp",
   "websiteUrl": "https://ebay.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 27176272,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ebay",
   "xId": "eBay",
+  "facebookId": "ebayRnDil",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגביש",
@@ -20,7 +26,6 @@
       "lon": 34.863091527006965
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ebayRnDil",
-  "linkedinNum": 27176272
+  "isMultinational": false,
+  "isActive": true
 }

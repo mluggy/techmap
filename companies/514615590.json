@@ -3,16 +3,29 @@
   "description": "A modular, lightweight remote-controlled weapon station designed for safe and rapid elimination of both ground and aerial targets.",
   "categoryId": 15,
   "size": "m",
-  "logoFile": "logos/smart_shooter-logo.webp",
+  "logoFile": "logos/smart-shooter-logo.webp",
   "websiteUrl": "https://www.smart-shooter.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "smart-shooter",
+  "linkedinNum": 18504831,
   "crunchbaseId": null,
+  "ivcId": "A1000000204445",
   "finderId": "smartshooter",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "SMASHbySMARTSHOOTER",
-  "linkedinNum": 18504831
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "כביש ההר הירוק",
+      "houseNumber": null,
+      "city": "חיפה",
+      "lat": 32.738654508418314,
+      "lon": 35.08091028305014
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

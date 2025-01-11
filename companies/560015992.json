@@ -6,20 +6,26 @@
   "logoFile": "logos/bnp-paribas.webp",
   "websiteUrl": "https://group.bnpparibas/en/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "bnp-paribas",
   "linkedinNum": 1508,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bnp-paribas",
   "xId": "BNPParibas",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקוביץ",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.078671208359026,
       "lon": 34.786972402979785
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

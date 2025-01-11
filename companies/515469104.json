@@ -1,0 +1,31 @@
+{
+  "name": "DSG",
+  "description": "DSG provides a suite of Enterprise AI offerings to proactively manage the risk and uncertainty associated with typical AI implementation and ensure AI systems continue to work over time, providing ongoing, long-term business impact.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/dsg-logo.webp",
+  "websiteUrl": "https://dsg.ai",
+  "careersUrl": "https://dsg.ai/careers",
+  "linkedinId": "datascience.co.il",
+  "linkedinNum": 18039254,
+  "crunchbaseId": null,
+  "ivcId": "A1000000336786",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701722,
+      "lon": 34.7865614
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

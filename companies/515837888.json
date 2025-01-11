@@ -1,16 +1,22 @@
 {
   "name": "Mastercard",
   "description": "Provides Mastercard cardholders with unique experiences and valuable deals in various cities.",
-  "size": "s",
   "categoryId": 9,
+  "size": "s",
   "logoFile": "logos/mastercard_israel_subsidiary-logo.webp",
   "websiteUrl": "https://www.mastercardservices.com/",
   "careersUrl": "https://careers.mastercard.com/",
-  "isHiring": true,
   "linkedinId": "mastercard",
+  "linkedinNum": 3015,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mastercard",
   "xId": "Mastercard",
+  "facebookId": "Mastercard.Israel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,7 +26,6 @@
       "lon": 34.8074677
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Mastercard.Israel",
-  "linkedinNum": 3015
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Playscape Group",
+  "description": "Playscape Group specializes in communication solutions for organizations.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/playscape-group-logo.webp",
+  "websiteUrl": "https://playscape.co.il",
+  "careersUrl": "mailto:info@playscape.co.il?subject=Playscape%20Jobs",
+  "linkedinId": "playscape---learn-different",
+  "linkedinNum": 3112630,
+  "crunchbaseId": null,
+  "ivcId": "A1000000417198",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות יהודית",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0700704,
+      "lon": 34.7895198
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

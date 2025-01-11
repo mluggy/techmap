@@ -6,11 +6,17 @@
   "logoFile": "logos/padagis_israel_agencies-logo.webp",
   "websiteUrl": "https://www.padagis.com/",
   "careersUrl": "https://www.padagis.com/careers/",
-  "isHiring": true,
   "linkedinId": "padagis-llc",
+  "linkedinNum": 74292118,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "padagis",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רקפת",
@@ -20,6 +26,6 @@
       "lon": 34.961390245419054
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 74292118
+  "isMultinational": false,
+  "isActive": true
 }

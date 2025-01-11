@@ -6,21 +6,26 @@
   "logoFile": "logos/dcoya-logo.webp",
   "websiteUrl": "https://dcoya.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dcoya",
+  "linkedinNum": 10233928,
   "crunchbaseId": null,
+  "ivcId": "A1000000206699",
   "finderId": "dcoya",
   "xId": "Dcoya360",
+  "facebookId": "dcoya360",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנגר",
-      "houseNumber": 22,
-      "city": "הוד השרון",
-      "lat": 32.12967605,
-      "lon": 34.894563362577514
+      "street": "ההגנה",
+      "houseNumber": 10,
+      "city": "אור יהודה",
+      "lat": 32.0331715,
+      "lon": 34.8482849
     }
   ],
   "isMultinational": false,
-  "facebookId": "dcoya360",
-  "linkedinNum": 10233928
+  "isActive": true
 }

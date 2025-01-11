@@ -6,11 +6,17 @@
   "logoFile": "logos/kai_ai-logo.webp",
   "websiteUrl": "https://kai.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 42296108,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kai-ai",
   "xId": null,
+  "facebookId": "kai.ai.coach",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "kai.ai.coach",
-  "linkedinNum": 42296108
+  "isActive": true
 }

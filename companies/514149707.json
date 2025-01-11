@@ -6,11 +6,17 @@
   "logoFile": "logos/doubleverify-logo.webp",
   "websiteUrl": "https://doubleverify.com/",
   "careersUrl": "https://doubleverify.com/careers/",
-  "isHiring": true,
   "linkedinId": "doubleverify-inc",
+  "linkedinNum": 745720,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "doubleverify",
   "xId": "doubleverify",
+  "facebookId": "DoubleVerify",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגאל אלון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "DoubleVerify",
-  "linkedinNum": 745720
+  "isActive": true
 }

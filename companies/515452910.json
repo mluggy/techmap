@@ -1,25 +1,31 @@
 {
   "name": "Toky",
-  "description": "Wearable Device for Interactive Toys",
+  "description": "Wearable Device for Interactive Toys.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/toky_toy-logo.webp",
   "websiteUrl": "https://tokytoy.com",
   "careersUrl": "https://toky.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000208465",
   "finderId": "toky",
   "xId": null,
+  "facebookId": "Tokytoy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרצל",
-      "houseNumber": 59,
-      "city": "טירת כרמל",
-      "lat": 32.7694663,
-      "lon": 34.9662432
+      "street": "נחלת בנימין",
+      "houseNumber": 52,
+      "city": "תל אביב-יפו",
+      "lat": 32.0634108,
+      "lon": 34.7715568
     }
   ],
   "isMultinational": false,
-  "facebookId": "Tokytoy"
+  "isActive": true
 }

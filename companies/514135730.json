@@ -6,21 +6,26 @@
   "logoFile": "logos/maris_tech-logo.webp",
   "websiteUrl": "https://www.maris-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "maris-tech",
+  "linkedinNum": 81650179,
   "crunchbaseId": null,
+  "ivcId": "A1000000356048",
   "finderId": "maris-technologies-marketing",
   "xId": "MarisTech",
+  "facebookId": "MarisTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מודעי יצחק",
-      "houseNumber": 2,
-      "city": "רחובות",
-      "lat": 31.8997571,
-      "lon": 34.7877012
+      "street": "גולדה מאיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.9141017,
+      "lon": 34.8023446
     }
   ],
   "isMultinational": false,
-  "facebookId": "MarisTech",
-  "linkedinNum": 81650179
+  "isActive": true
 }

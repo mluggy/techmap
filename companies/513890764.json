@@ -6,11 +6,17 @@
   "logoFile": "logos/brainsway-logo.webp",
   "websiteUrl": "https://www.brainsway.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "brainsway",
+  "linkedinNum": 3253269,
   "crunchbaseId": null,
+  "ivcId": "A1000000005301",
   "finderId": "brainsway",
   "xId": "Brainsway",
+  "facebookId": "BrainswayDeepTMS",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרטום",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BrainswayDeepTMS",
-  "linkedinNum": 3253269
+  "isActive": true
 }

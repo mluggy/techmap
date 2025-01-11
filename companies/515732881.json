@@ -6,21 +6,26 @@
   "logoFile": "logos/innocan_pharma-logo.webp",
   "websiteUrl": "https://innocanpharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "innocanpharma",
+  "linkedinNum": 28636009,
   "crunchbaseId": null,
+  "ivcId": "A1000000260468",
   "finderId": "innocan-pharma",
   "xId": "innocanp",
+  "facebookId": "Innocanpharma",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריק איינשטיין",
-      "houseNumber": 3,
+      "street": "המנופים",
+      "houseNumber": 10,
       "city": "הרצליה",
-      "lat": 32.1630763,
-      "lon": 34.8150141
+      "lat": 32.1595829,
+      "lon": 34.8083893
     }
   ],
   "isMultinational": false,
-  "facebookId": "Innocanpharma",
-  "linkedinNum": 28636009
+  "isActive": true
 }

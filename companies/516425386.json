@@ -6,22 +6,26 @@
   "logoFile": "logos/chargeflow-logo.webp",
   "websiteUrl": "https://www.chargeflow.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "chargeflowhq",
+  "linkedinNum": 74563948,
   "crunchbaseId": null,
+  "ivcId": "A1000000379744",
   "finderId": "chargeflow",
   "xId": "ChargeflowHQ",
+  "facebookId": "chargeflow",
+  "breezyId": null,
+  "comeetId": "chargeflow/29.001",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דם המכבים",
-      "houseNumber": 38,
-      "city": "מודיעין",
-      "lat": 31.904019091672815,
-      "lon": 35.006649115410234
+      "street": "שד' המכבים",
+      "houseNumber": null,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8884913,
+      "lon": 35.0298492
     }
   ],
   "isMultinational": false,
-  "facebookId": "chargeflow",
-  "linkedinNum": 74563948,
-  "comeetId": "chargeflow/29.001"
+  "isActive": true
 }

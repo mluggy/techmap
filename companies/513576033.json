@@ -6,21 +6,26 @@
   "logoFile": "logos/inmatrix-logo.webp",
   "websiteUrl": "https://www.inmatrix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "inmatrix-ltd",
+  "linkedinNum": 3335524,
   "crunchbaseId": null,
+  "ivcId": "A1000000001499",
   "finderId": "inmatrix",
   "xId": "zoomplayer",
+  "facebookId": "zoomplayer",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגפן",
       "houseNumber": 1,
       "city": "חיפה",
-      "lat": 32.5734151,
-      "lon": 34.9465414
+      "lat": 32.8158982,
+      "lon": 34.9918092
     }
   ],
   "isMultinational": false,
-  "facebookId": "zoomplayer",
-  "linkedinNum": 3335524
+  "isActive": true
 }

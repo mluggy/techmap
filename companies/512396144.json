@@ -6,11 +6,17 @@
   "logoFile": "logos/cisco_systems_israel-logo.webp",
   "websiteUrl": "https://www.cisco.com/",
   "careersUrl": "https://www.cisco.com/c/en/us/about/careers.html",
-  "isHiring": true,
   "linkedinId": "cisco",
+  "linkedinNum": 1063,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cisco-systems",
   "xId": "Cisco",
+  "facebookId": "Cisco",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,7 +26,6 @@
       "lon": 34.8605173
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Cisco",
-  "linkedinNum": 1063
+  "isMultinational": false,
+  "isActive": true
 }

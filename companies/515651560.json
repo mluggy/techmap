@@ -6,20 +6,26 @@
   "logoFile": "logos/kovrr_risk_modeling-logo.webp",
   "websiteUrl": "https://www.kovrr.com/",
   "careersUrl": "https://www.kovrr.com/careers",
-  "isHiring": true,
   "linkedinId": "kovrr",
+  "linkedinNum": 11570750,
   "crunchbaseId": null,
+  "ivcId": "A1000000252576",
   "finderId": "mydro",
   "xId": "kovrrIns",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תושיה",
-      "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.066746,
-      "lon": 34.7889
+      "street": "יגאל אלון",
+      "houseNumber": 82,
+      "city": "תל אביב-יפו",
+      "lat": 32.0662181,
+      "lon": 34.7928935
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11570750
+  "isActive": true
 }

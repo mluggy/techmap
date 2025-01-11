@@ -6,21 +6,26 @@
   "logoFile": "logos/nuance_hearing-logo.webp",
   "websiteUrl": "https://nuancehear.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18059676,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nuance-hearing",
   "xId": "NuanceHearing",
+  "facebookId": "NuanceHearing",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.111205,
       "lon": 34.8388694
     }
   ],
   "isMultinational": false,
-  "facebookId": "NuanceHearing",
-  "linkedinNum": 18059676
+  "isActive": true
 }

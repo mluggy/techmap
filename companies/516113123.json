@@ -6,20 +6,26 @@
   "logoFile": "logos/blings_io-logo.webp",
   "websiteUrl": "https://blings.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "blings-io",
+  "linkedinNum": 20127892,
   "crunchbaseId": null,
+  "ivcId": "A1000000316313",
   "finderId": "blings-io",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "וורמיזה",
-      "houseNumber": 15,
-      "city": "תל אביב - יפו",
-      "lat": 32.088101064435065,
-      "lon": 34.779548890914654
+      "street": "קרליבך",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0699421,
+      "lon": 34.7829489
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 20127892
+  "isActive": true
 }

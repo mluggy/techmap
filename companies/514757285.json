@@ -6,11 +6,17 @@
   "logoFile": "logos/proffimat_s_r-logo.webp",
   "websiteUrl": "https://www.proffimat.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "proffimat-sr",
+  "ivcId": null,
   "finderId": "proffimat-s-r",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -20,5 +26,6 @@
       "lon": 35.010185
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

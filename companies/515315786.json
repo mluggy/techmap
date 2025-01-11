@@ -3,23 +3,29 @@
   "description": "They provide a leading platform that enables rapid, effective emergency response by delivering real-time situational awareness.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/sayvu_technologies-logo.webp",
+  "logoFile": "logos/sayvu-technologies-logo.webp",
   "websiteUrl": "https://www.sayvu.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sayvu",
+  "linkedinNum": 10686005,
   "crunchbaseId": null,
+  "ivcId": "A1000000198846",
   "finderId": "sayvu-technologies",
   "xId": "SayvUtech",
+  "facebookId": "SayVUtech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קשאני אליעזר",
+      "street": "אליעזר קשאני",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.126904,
-      "lon": 34.80504
+      "city": "תל אביב-יפו",
+      "lat": 32.1270413,
+      "lon": 34.8051419
     }
   ],
   "isMultinational": false,
-  "facebookId": "SayVUtech"
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "GreenDays",
-  "description": "Digital Purchasing Advisor for Solar PV and Energy Storage",
+  "description": "GreenDays develops a system that allows the users to get an assessment of the feasibility of installing a solar system and a forecast of how much all this is going to cost.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/greendays.webp",
-  "websiteUrl": "https://greendays.co.il",
+  "websiteUrl": "https://www.greendaysenergy.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "greendays-energy",
   "linkedinNum": 82144708,
   "crunchbaseId": null,
+  "ivcId": "A1000000417477",
   "finderId": "greendays",
   "xId": null,
   "facebookId": "GreenDaySolar",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחל נטפים",
       "houseNumber": 20,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.8954901784028,
-      "lon": 35.02351725785882
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8955159,
+      "lon": 35.0239476
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

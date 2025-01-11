@@ -1,17 +1,22 @@
 {
   "name": "Rplace",
-  "description": "Monitoring, Reporting, and Verification Solutions for Natural Wastewater Treatment",
+  "description": "Monitoring, Reporting, and Verification Solutions for Natural Wastewater Treatment.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/rplace.webp",
   "websiteUrl": "https://www.rplace.world/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "r-place",
   "linkedinNum": 89776552,
   "crunchbaseId": null,
+  "ivcId": "A1000000389731",
   "finderId": "rplace",
   "xId": null,
   "facebookId": "100087155127463",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שונית",
@@ -21,5 +26,6 @@
       "lon": 34.86936686995414
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

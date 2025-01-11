@@ -1,0 +1,31 @@
+{
+  "name": "OnlinePianist",
+  "description": "OnlinePianist is a tutorial application which enables its users to fully control their learning experience.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/onlinepianist-logo.webp",
+  "websiteUrl": "https://www.onlinepianist.com",
+  "careersUrl": null,
+  "linkedinId": "onlinepianist",
+  "linkedinNum": 1558285,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023419",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ראול ולנברג",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.1112424,
+      "lon": 34.8389386
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

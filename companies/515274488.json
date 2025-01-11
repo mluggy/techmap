@@ -1,26 +1,31 @@
 {
   "name": "I Know First",
-  "description": "AI-based Investment Solution",
+  "description": "AI-based Investment Solution.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/i_know_first-logo.webp",
   "websiteUrl": "https://iknowfirst.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 740465,
   "crunchbaseId": null,
+  "ivcId": "A1000000001325",
   "finderId": "i-know-first",
   "xId": "i_Know_First",
+  "facebookId": "IKnowFirst.stock.market.forecast",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כ\"ג יורדי הסירה",
+      "street": "יורדי הסירה",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.0962824,
-      "lon": 34.7750041
+      "city": "פתח תקווה",
+      "lat": 32.074322,
+      "lon": 34.8602826
     }
   ],
   "isMultinational": false,
-  "facebookId": "IKnowFirst.stock.market.forecast",
-  "linkedinNum": 740465
+  "isActive": true
 }

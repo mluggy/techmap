@@ -1,16 +1,22 @@
 {
   "name": "CIMS",
   "description": "Microelectronics inspection.",
-  "size": "l",
   "categoryId": 14,
+  "size": "l",
   "logoFile": "logos/cims_software_systems_ltd-logo.webp",
   "websiteUrl": "https://www.cims.com",
   "careersUrl": "https://www.cims.com/careers-2209/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 3297637,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cims",
   "xId": null,
+  "facebookId": "CIMSTechnology",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרכבה",
@@ -20,7 +26,6 @@
       "lon": 35.3154519
     }
   ],
-  "isMultinational": true,
-  "facebookId": "CIMSTechnology",
-  "linkedinNum": 3297637
+  "isMultinational": false,
+  "isActive": true
 }

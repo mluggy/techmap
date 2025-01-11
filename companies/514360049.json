@@ -1,26 +1,31 @@
 {
   "name": "Visa",
   "description": "A global leader in digital payments technology that empowers people, enterprises, and economies to prosper.",
-  "size": "s",
   "categoryId": 10,
+  "size": "s",
   "logoFile": "logos/visa_facilities_center-logo.webp",
   "websiteUrl": "https://www.visa.co.il/visa-everywhere/innovation-centers/tel-aviv.html",
   "careersUrl": "https://corporate.visa.com/en/careers.html",
-  "isHiring": true,
   "linkedinId": "visa",
+  "linkedinNum": 2190,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "visa",
   "xId": "Visa",
+  "facebookId": "Visa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07734524999999,
       "lon": 34.79332549438699
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Visa",
-  "linkedinNum": 2190
+  "isMultinational": false,
+  "isActive": true
 }

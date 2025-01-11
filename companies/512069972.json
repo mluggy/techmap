@@ -6,12 +6,26 @@
   "logoFile": "logos/raanan_fish_feed-logo.webp",
   "websiteUrl": "https://www.raanan-fishfeed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000186348",
   "finderId": "raanan-fish-feed",
   "xId": "raanan_fishfeed",
-  "addresses": [],
+  "facebookId": "raananfishfeed.wa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "מילואות",
+      "lat": 32.88592204206549,
+      "lon": 35.09945082302092
+    }
+  ],
   "isMultinational": false,
-  "facebookId": "raananfishfeed.wa"
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "FluenTech",
-  "description": "PC-based Therapy Solution for Stuttering",
+  "description": "PC-based Therapy Solution for Stuttering.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/fluentech-logo.webp",
   "websiteUrl": "https://www.drfluency.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "fluentech",
+  "ivcId": "A1000000004540",
   "finderId": "fluentech",
   "xId": null,
+  "facebookId": "Dr.Fluency.Stuttering.and.Disfluency.Treatment",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מעלה זיתים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Dr.Fluency.Stuttering.and.Disfluency.Treatment"
+  "isActive": true
 }

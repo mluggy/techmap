@@ -1,25 +1,31 @@
 {
   "name": "P2W",
-  "description": "Chemical-free Method of Water Treatment for the Mining Industry",
+  "description": "Chemical-free Method of Water Treatment for the Mining Industry.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/p_2_w-logo.webp",
   "websiteUrl": "https://www.p2w.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "p2w",
+  "linkedinNum": 296885,
   "crunchbaseId": null,
+  "ivcId": "A1000000008787",
   "finderId": "p2w",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך המכבים",
-      "houseNumber": 46,
+      "street": null,
+      "houseNumber": null,
       "city": "ראשון לציון",
-      "lat": 31.9807108,
-      "lon": 34.81008134645805
+      "lat": 31.95908129999999,
+      "lon": 34.8020886
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 296885
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Leminda",
-  "description": "All-in-one Academic Learning Platform",
+  "description": "All-in-one Academic Learning Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/leminda.webp",
   "websiteUrl": "https://leminda.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "leminda",
   "linkedinNum": 76558714,
   "crunchbaseId": null,
+  "ivcId": "A1000000424179",
   "finderId": "leminda",
   "xId": "Leminda2022",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נחלת ז'בוטינסקי",
-      "houseNumber": 24,
-      "city": "בנימינה",
-      "lat": 32.524680103554985,
-      "lon": 34.95047677632464
+      "street": null,
+      "houseNumber": null,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.523534,
+      "lon": 34.950669
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

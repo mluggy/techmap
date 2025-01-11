@@ -1,25 +1,31 @@
 {
   "name": "Tal-Ya",
-  "description": "Irrigation Tray",
+  "description": "Irrigation Tray.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/tal-ya.webp",
   "websiteUrl": "https://www.tal-ya.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "tal-ya",
   "linkedinNum": 3274379,
   "crunchbaseId": null,
+  "ivcId": "A1000000008811",
   "finderId": "tal-ya",
   "xId": "MickeyCTalYa",
   "facebookId": "TalYaAgricultureSolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קבוץ גלויות",
-      "houseNumber": 34,
-      "city": "תל אביב - יפו",
-      "lat": 32.05159997851568,
-      "lon": 34.76893103276933
+      "street": null,
+      "houseNumber": null,
+      "city": "גן יאשיה",
+      "lat": 32.349487,
+      "lon": 34.996245
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

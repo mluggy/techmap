@@ -6,11 +6,17 @@
   "logoFile": "logos/white_smoke-logo.webp",
   "websiteUrl": "https://www.whitesmoke.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "whitesmoke",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנוחין אוריאל",
@@ -19,5 +25,7 @@
       "lat": 31.8870325,
       "lon": 34.829613
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

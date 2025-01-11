@@ -6,11 +6,17 @@
   "logoFile": "logos/exaware_routing-logo.webp",
   "websiteUrl": "https://exaware.com/",
   "careersUrl": "https://exaware.com/careers/",
-  "isHiring": true,
   "linkedinId": "exaware",
+  "linkedinNum": 12892794,
   "crunchbaseId": "exaware",
+  "ivcId": "A1000000465461",
   "finderId": "compass-eos",
   "xId": null,
+  "facebookId": "Compass.EOS",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Compass.EOS",
-  "linkedinNum": 12892794
+  "isActive": true
 }

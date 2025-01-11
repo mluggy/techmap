@@ -6,20 +6,26 @@
   "logoFile": "logos/dentaray-logo.webp",
   "websiteUrl": "https://dentaray-systems.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000002874",
   "finderId": "dentaray",
   "xId": null,
+  "facebookId": "lightinstrumentslasers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התנופה",
-      "houseNumber": 4,
-      "city": "יקנעם עילית",
-      "lat": 32.66791475,
-      "lon": 35.10722320481222
+      "street": null,
+      "houseNumber": null,
+      "city": "יוקנעם עילית",
+      "lat": 32.6641952,
+      "lon": 35.1040303
     }
   ],
   "isMultinational": false,
-  "facebookId": "lightinstrumentslasers"
+  "isActive": true
 }

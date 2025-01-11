@@ -1,17 +1,22 @@
 {
   "name": "Da-Li",
-  "description": "Interactive Science Education Games",
+  "description": "Interactive Science Education Games.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/da-li.webp",
   "websiteUrl": "https://da-li.co.il/login/?next=/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000209450",
   "finderId": "da-li",
   "xId": null,
   "facebookId": "dali.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "וולך",
@@ -21,5 +26,6 @@
       "lon": 34.854878667524964
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

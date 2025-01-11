@@ -6,21 +6,26 @@
   "logoFile": "logos/appdome-logo.webp",
   "websiteUrl": "https://www.appdome.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "appdome",
+  "linkedinNum": 3112006,
   "crunchbaseId": null,
+  "ivcId": "A1000000001398",
   "finderId": "appdome",
   "xId": "appdome",
+  "facebookId": "AppDome",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הארבעה",
-      "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.0705297,
-      "lon": 34.7872761
+      "street": "אליעזר קפלן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0733456,
+      "lon": 34.78202479999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "AppDome",
-  "linkedinNum": 3112006
+  "isActive": true
 }

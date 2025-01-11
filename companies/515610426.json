@@ -6,21 +6,26 @@
   "logoFile": "logos/five_sigma-logo.webp",
   "websiteUrl": "https://fivesigmalabs.com/",
   "careersUrl": "https://fivesigmalabs.com/careers/",
-  "isHiring": true,
   "linkedinId": "five-sigma",
+  "linkedinNum": 18332447,
   "crunchbaseId": null,
+  "ivcId": "A1000000254040",
   "finderId": "five-sigma",
   "xId": "FiveSigmaClaims",
+  "facebookId": "FiveSigmaSolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.070501,
-      "lon": 34.785145
+      "houseNumber": 28,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
   "isMultinational": false,
-  "facebookId": "FiveSigmaSolutions",
-  "linkedinNum": 18332447
+  "isActive": true
 }

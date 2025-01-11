@@ -1,0 +1,31 @@
+{
+  "name": "MIS 26",
+  "description": "MIS 26 provides a holistic technological solution for waste collection that sees the needs of all parties in the chain: the local authority, the eviction contractor and the resident.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/mis-26-logo.webp",
+  "websiteUrl": "https://mis26.co.il",
+  "careersUrl": null,
+  "linkedinId": "mis26",
+  "linkedinNum": 81635000,
+  "crunchbaseId": null,
+  "ivcId": "A1000000429844",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בני עקיבא",
+      "houseNumber": 5,
+      "city": "כפר הרא\"ה",
+      "lat": 32.390395,
+      "lon": 34.91214
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,22 +6,26 @@
   "logoFile": "logos/tastewise_technologies-logo.webp",
   "websiteUrl": "https://tastewise.io/",
   "careersUrl": "https://tastewise.io/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "tastewise",
+  "linkedinNum": 27022057,
   "crunchbaseId": "tastewise",
+  "ivcId": "A1000000253295",
   "finderId": "fooddos",
   "xId": "tastewiseai",
+  "facebookId": "tastewiseAI",
+  "breezyId": null,
+  "comeetId": "tastewise/F8.000",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.066035,
-      "lon": 34.782959
+      "city": "תל אביב-יפו",
+      "lat": 32.0658042,
+      "lon": 34.7829381
     }
   ],
   "isMultinational": false,
-  "facebookId": "tastewiseAI",
-  "linkedinNum": 27022057,
-  "comeetId": "tastewise/F8.000"
+  "isActive": true
 }

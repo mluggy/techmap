@@ -1,0 +1,31 @@
+{
+  "name": "OG Data Network",
+  "description": "Phantom.Me is a new company in the field of Online Advertising, currently in stealth mode.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/og_data_network-logo.webp",
+  "websiteUrl": "http://www.phantom.me",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000209451",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

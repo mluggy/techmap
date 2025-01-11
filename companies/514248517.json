@@ -1,0 +1,31 @@
+{
+  "name": "FocalPursuit",
+  "description": "FocalPursuit is developing a semi-supervised, ontology guided crawling system applied for domain specific knowledge.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/focalpursuit-logo.webp",
+  "websiteUrl": "http://www.focalpursuit.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000002702",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שמחה ארליך",
+      "houseNumber": 2,
+      "city": "נתניה",
+      "lat": 32.2999452,
+      "lon": 34.8460491
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

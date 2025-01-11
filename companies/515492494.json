@@ -6,21 +6,26 @@
   "logoFile": "logos/reflectiz-logo.webp",
   "websiteUrl": "https://www.reflectiz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "reflectiz",
+  "linkedinNum": 18238787,
   "crunchbaseId": null,
+  "ivcId": "A1000000226933",
   "finderId": "reflectiz",
   "xId": "_Reflectiz_",
+  "facebookId": "Reflectiz.Cyber",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "street": "בצלאל",
+      "houseNumber": 1,
+      "city": "רמת גן",
+      "lat": 32.0870457,
+      "lon": 34.8018767
     }
   ],
   "isMultinational": false,
-  "facebookId": "Reflectiz.Cyber",
-  "linkedinNum": 18238787
+  "isActive": true
 }

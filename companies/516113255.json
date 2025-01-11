@@ -6,21 +6,26 @@
   "logoFile": "logos/corsight_ai-logo.webp",
   "websiteUrl": "https://www.corsight.ai/",
   "careersUrl": "https://www.corsight.ai/careers/",
-  "isHiring": true,
   "linkedinId": "corsight",
+  "linkedinNum": 37782022,
   "crunchbaseId": null,
+  "ivcId": "A1000000313309",
   "finderId": "corsight",
   "xId": null,
+  "facebookId": "Corsight-AI-113467260354333",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
+      "street": "רחוב ז'בוטינסקי",
       "houseNumber": 35,
-      "city": "רמת גן",
-      "lat": 32.0839585,
-      "lon": 34.8064497
+      "city": "גבעתיים",
+      "lat": 32.0731889,
+      "lon": 34.812581
     }
   ],
   "isMultinational": false,
-  "facebookId": "Corsight-AI-113467260354333",
-  "linkedinNum": 37782022
+  "isActive": true
 }

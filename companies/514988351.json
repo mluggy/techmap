@@ -6,11 +6,17 @@
   "logoFile": "logos/senecio-logo.webp",
   "websiteUrl": "https://www.senecio-robotics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "senecios",
+  "linkedinNum": 35597871,
   "crunchbaseId": null,
+  "ivcId": "A1000000024682",
   "finderId": "senecio",
   "xId": "seneciorobotics",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שער פלמר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35597871
+  "isActive": true
 }

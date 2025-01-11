@@ -6,20 +6,26 @@
   "logoFile": "logos/polyfos_3_d-logo.webp",
   "websiteUrl": "https://polyfos.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "polyfos-3d",
+  "linkedinNum": 83044701,
   "crunchbaseId": null,
+  "ivcId": "A1000000351349",
   "finderId": "polyfos-3d",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מבוא קידה",
-      "houseNumber": 8,
-      "city": "ירושלים",
-      "lat": 31.7384701,
-      "lon": 35.1872439
+      "street": "היוזמה",
+      "houseNumber": 6,
+      "city": "יוקנעם עילית",
+      "lat": 32.6697941,
+      "lon": 35.1057561
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 83044701
+  "isActive": true
 }

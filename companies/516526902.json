@@ -1,0 +1,31 @@
+{
+  "name": "Oligo",
+  "description": "Oligo Security is a leading open-source cybersecurity platform pioneering the next wave of application security with a runtime solution that is proactive, effective, and frictionless.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/oligo-logo.webp",
+  "websiteUrl": "https://www.oligo.security",
+  "careersUrl": "https://www.oligo.security/company/careers",
+  "linkedinId": "oligo-security",
+  "linkedinNum": 88008463,
+  "crunchbaseId": null,
+  "ivcId": "A1000000384972",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

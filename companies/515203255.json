@@ -6,19 +6,26 @@
   "logoFile": "logos/intraposition-logo.webp",
   "websiteUrl": "https://www.intraposition.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "intraposition",
+  "linkedinNum": 17994864,
   "crunchbaseId": null,
+  "ivcId": "A1000000201373",
   "finderId": "intraposition",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטחנה",
-      "houseNumber": 40,
-      "city": "בנימינה",
-      "lat": 32.5115576,
-      "lon": 34.949588
+      "houseNumber": 42,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5140386,
+      "lon": 34.9489059
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

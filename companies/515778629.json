@@ -6,21 +6,26 @@
   "logoFile": "logos/masterschool-logo.webp",
   "websiteUrl": "https://www.masterschool.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 75721942,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "masterschool",
   "xId": "Masterschoolhq",
+  "facebookId": "JoinMasterschool",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066035,
       "lon": 34.782959
     }
   ],
   "isMultinational": false,
-  "facebookId": "JoinMasterschool",
-  "linkedinNum": 75721942
+  "isActive": true
 }

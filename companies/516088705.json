@@ -6,21 +6,26 @@
   "logoFile": "logos/satori_cyber-logo.webp",
   "websiteUrl": "https://satoricyber.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "satoricyber",
+  "linkedinNum": 34691936,
   "crunchbaseId": null,
+  "ivcId": "A1000000303563",
   "finderId": "satori-cyber",
   "xId": "SatoriCyber",
+  "facebookId": "SatoriCyber",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פקריס",
-      "houseNumber": 3,
-      "city": "רחובות",
-      "lat": 31.9119094,
-      "lon": 34.804801
+      "street": "שדרות נים",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.95017679999999,
+      "lon": 34.8029427
     }
   ],
   "isMultinational": false,
-  "facebookId": "SatoriCyber",
-  "linkedinNum": 34691936
+  "isActive": true
 }

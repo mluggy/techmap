@@ -6,11 +6,17 @@
   "logoFile": "logos/gigaroo-logo.webp",
   "websiteUrl": "https://gigarooapp.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 81632798,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gigaroo",
   "xId": "gigarooapp",
+  "facebookId": "100090860119379",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן חור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "100090860119379",
-  "linkedinNum": 81632798
+  "isActive": true
 }

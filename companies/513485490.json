@@ -1,16 +1,22 @@
 {
   "name": "Post Harvest Solutions",
-  "description": "Packaging Solution for Fruits and Vegetables",
+  "description": "Packaging Solution for Fruits and Vegetables.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/post_harvest_solutions-logo.webp",
+  "logoFile": "logos/post-harvest-solutions-logo.webp",
   "websiteUrl": "https://zoepac.com",
   "careersUrl": "https://www.agrofresh.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "zoepac-post-harvest-solutions-ltd",
+  "linkedinNum": 67934329,
   "crunchbaseId": null,
+  "ivcId": "A1000000253664",
   "finderId": "post-harvest-solutions",
   "xId": "zoepac",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סאלם",
@@ -20,5 +26,6 @@
       "lon": 35.19864836490503
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

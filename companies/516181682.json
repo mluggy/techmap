@@ -6,20 +6,26 @@
   "logoFile": "logos/nilus_ai-logo.webp",
   "websiteUrl": "https://www.nilus.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nilus-finance",
+  "linkedinNum": 82589199,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nilus-1",
   "xId": "Nilus_finance",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סגל שמוליק",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.123816,
       "lon": 34.826518
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82589199
+  "isActive": true
 }

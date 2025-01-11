@@ -6,21 +6,26 @@
   "logoFile": "logos/wisdo-logo.webp",
   "websiteUrl": "https://www.wisdo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wisdo",
+  "linkedinNum": 10505011,
   "crunchbaseId": null,
+  "ivcId": "A1000000022527",
   "finderId": "wisdo",
   "xId": "WeAreWisdo",
+  "facebookId": "wearewisdo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אהליאב",
-      "houseNumber": 10,
-      "city": "רמת גן",
-      "lat": 32.08769233337585,
-      "lon": 34.8022060856916
+      "street": "גלגלי הפלדה",
+      "houseNumber": 11,
+      "city": "הרצליה",
+      "lat": 32.1636039,
+      "lon": 34.808457
     }
   ],
   "isMultinational": false,
-  "facebookId": "wearewisdo",
-  "linkedinNum": 10505011
+  "isActive": true
 }

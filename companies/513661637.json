@@ -1,26 +1,31 @@
 {
   "name": "Galooli",
-  "description": "Remote Energy Monitoring and Management",
+  "description": "Remote Energy Monitoring and Management.",
   "categoryId": 17,
   "size": "l",
   "logoFile": "logos/galooli-logo.webp",
   "websiteUrl": "https://www.galooli.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "galooli",
+  "linkedinNum": 2564705,
   "crunchbaseId": null,
+  "ivcId": "A1000000004646",
   "finderId": "galooli",
   "xId": "GalooliGroup",
+  "facebookId": "GalooliGroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 52,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0634798,
       "lon": 34.7802841
     }
   ],
   "isMultinational": false,
-  "facebookId": "GalooliGroup",
-  "linkedinNum": 2564705
+  "isActive": true
 }

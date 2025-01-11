@@ -6,20 +6,26 @@
   "logoFile": "logos/entro_security-logo.webp",
   "websiteUrl": "https://entro.security/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "entro-security",
+  "linkedinNum": 94227659,
   "crunchbaseId": null,
+  "ivcId": "A1000000413874",
   "finderId": "entro-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרליבך",
       "houseNumber": 12,
-      "city": "תל אביב - יפו",
-      "lat": 32.069986,
-      "lon": 34.782879
+      "city": "תל אביב-יפו",
+      "lat": 32.0699421,
+      "lon": 34.7829489
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 94227659
+  "isActive": true
 }

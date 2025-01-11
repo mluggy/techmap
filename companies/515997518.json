@@ -6,20 +6,26 @@
   "logoFile": "logos/hoopsai_technologies-logo.webp",
   "websiteUrl": "https://www.hoopsai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hoopsai",
+  "linkedinNum": 18888909,
   "crunchbaseId": "hoopsai",
+  "ivcId": "A1000000274172",
   "finderId": "hoopsai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלחריזי",
-      "houseNumber": 17,
-      "city": "תל אביב - יפו",
-      "lat": 32.084831,
-      "lon": 34.78115
+      "street": "דרך אבא הלל",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0844574,
+      "lon": 34.803052
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18888909
+  "isActive": true
 }

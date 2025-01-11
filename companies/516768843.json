@@ -3,14 +3,20 @@
   "description": "This company uniquely offers immediate travel insurance claim settlements, providing rapid assistance for medical needs abroad.",
   "categoryId": 12,
   "size": "l",
-  "logoFile": "logos/passportcard_cyber_and_it-logo.webp",
+  "logoFile": "logos/passportcard-logo.webp",
   "websiteUrl": "https://www.passportcard.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "passportcardd",
+  "linkedinNum": 114986,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "passportcard",
   "xId": null,
+  "facebookId": "PassportCard",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצורן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "PassportCard",
-  "linkedinNum": 5383345
+  "isActive": true
 }

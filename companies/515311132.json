@@ -1,16 +1,22 @@
 {
   "name": "Mobicar",
-  "description": "Road Services App",
+  "description": "Road Services App.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/mobicar_app-logo.webp",
   "websiteUrl": "https://www.mobicar.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mobicar-co",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000024085",
   "finderId": "mobicar",
   "xId": null,
+  "facebookId": "mobicar.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עין שמש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "mobicar.co.il"
+  "isActive": true
 }

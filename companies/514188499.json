@@ -6,21 +6,26 @@
   "logoFile": "logos/emaze_visual_software_systems-logo.webp",
   "websiteUrl": "https://www.emaze.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3148773,
   "crunchbaseId": null,
+  "ivcId": "A1000000010592",
   "finderId": "emaze",
   "xId": "emaze_tweets",
+  "facebookId": "emazepresentations",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הברזל",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.109818,
-      "lon": 34.841254
+      "street": "הנחושת",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.1097786,
+      "lon": 34.8392628
     }
   ],
   "isMultinational": false,
-  "facebookId": "emazepresentations",
-  "linkedinNum": 3148773
+  "isActive": true
 }

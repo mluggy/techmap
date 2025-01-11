@@ -6,22 +6,26 @@
   "logoFile": "logos/playstudios_international_israel-logo.webp",
   "websiteUrl": "https://www.playstudios.com/",
   "careersUrl": "https://www.playstudios.com/careers/",
-  "isHiring": true,
   "linkedinId": "playstudios",
+  "linkedinNum": 3163838,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "playstudios",
   "xId": "playstudios",
+  "facebookId": "PlaystudiosIL",
+  "breezyId": null,
+  "comeetId": "playstudios/E2.00B",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלפסי",
       "houseNumber": 36,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.052557,
       "lon": 34.769008
     }
   ],
-  "isMultinational": true,
-  "facebookId": "PlaystudiosIL",
-  "linkedinNum": 3163838,
-  "comeetId": "playstudios/E2.00B"
+  "isMultinational": false,
+  "isActive": true
 }

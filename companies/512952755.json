@@ -6,21 +6,26 @@
   "logoFile": "logos/sagiv_golan-logo.webp",
   "websiteUrl": "https://www.sagiv.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 909412,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sagiv",
   "xId": null,
+  "facebookId": "sagiv.valves",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חרוץ",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06280574091065,
       "lon": 34.78965710319137
     }
   ],
   "isMultinational": false,
-  "facebookId": "sagiv.valves",
-  "linkedinNum": 909412
+  "isActive": false
 }

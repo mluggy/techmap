@@ -3,21 +3,29 @@
   "description": "Host stunning, branded events effortlessly with interactive activities and intuitive meeting design.",
   "categoryId": 14,
   "size": "s",
-  "logoFile": "logos/gloww_video-logo.webp",
+  "logoFile": "logos/gloww-video-logo.webp",
   "websiteUrl": "https://gloww.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "glowwvideo",
+  "linkedinNum": 81298583,
   "crunchbaseId": "gloww",
+  "ivcId": "A1000000384339",
   "finderId": "gloww",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מבוא לולב",
-      "houseNumber": 11,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0368248,
-      "lon": 34.8829291
+      "street": "אריאל שרון",
+      "houseNumber": 8,
+      "city": "גבעתיים",
+      "lat": 32.0799227,
+      "lon": 34.8008861
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/40_seas-logo.webp",
   "websiteUrl": "https://www.40seas.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "40seas",
+  "linkedinNum": 86825187,
   "crunchbaseId": null,
+  "ivcId": "A1000000417710",
   "finderId": "40seas",
   "xId": "40seasinc",
+  "facebookId": "40seas",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.073172,
-      "lon": 34.797489
+      "city": "תל אביב-יפו",
+      "lat": 32.0732734,
+      "lon": 34.7970061
     }
   ],
   "isMultinational": false,
-  "facebookId": "40seas",
-  "linkedinNum": 86825187
+  "isActive": true
 }

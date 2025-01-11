@@ -6,20 +6,26 @@
   "logoFile": "logos/safer_place-logo.webp",
   "websiteUrl": "https://saferplace.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "safer-place-ltd-",
+  "linkedinNum": 10283102,
   "crunchbaseId": null,
+  "ivcId": "A1000000021526",
   "finderId": "safer-place",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גלבוע אמיר",
+      "street": "אמיר גלבוע",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.117087,
-      "lon": 34.787506
+      "city": "תל אביב-יפו",
+      "lat": 32.1173598,
+      "lon": 34.787493
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10283102
+  "isActive": true
 }

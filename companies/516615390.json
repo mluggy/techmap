@@ -1,25 +1,31 @@
 {
   "name": "Carbonade",
-  "description": "Electro-chemical CO2 Utilization Solution",
+  "description": "Electro-chemical CO2 Utilization Solution.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/carbonade-logo.webp",
   "websiteUrl": "https://www.carbonade.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "carbonade",
+  "linkedinNum": 79036541,
   "crunchbaseId": null,
+  "ivcId": "A1000000388352",
   "finderId": "carbonade",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השקמה",
+      "street": "השיקמה",
       "houseNumber": 15,
       "city": "עשרת",
-      "lat": 32.9717221,
-      "lon": 35.1553291
+      "lat": 31.827083,
+      "lon": 34.7481471
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79036541
+  "isActive": true
 }

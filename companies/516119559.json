@@ -6,21 +6,26 @@
   "logoFile": "logos/magnilearn-logo.webp",
   "websiteUrl": "https://www.magnilearn.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "magnilearn",
+  "linkedinNum": 64289417,
   "crunchbaseId": null,
+  "ivcId": "A1000000306617",
   "finderId": "magnilearn",
   "xId": null,
+  "facebookId": "MagnilearnEdTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך חברון",
       "houseNumber": 24,
       "city": "ירושלים",
-      "lat": 31.7316961,
-      "lon": 35.2057465
+      "lat": 31.7670343,
+      "lon": 35.2258017
     }
   ],
   "isMultinational": false,
-  "facebookId": "MagnilearnEdTech",
-  "linkedinNum": 64289417
+  "isActive": true
 }

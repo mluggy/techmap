@@ -6,11 +6,17 @@
   "logoFile": "logos/otm_technologies-logo.webp",
   "websiteUrl": "https://otmtech.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "otm-technologies-ltd",
+  "linkedinNum": 8267693,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "otm-technologies",
   "xId": "phreestyl",
+  "facebookId": "gophree",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרצל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "gophree",
-  "linkedinNum": 8267693
+  "isActive": true
 }

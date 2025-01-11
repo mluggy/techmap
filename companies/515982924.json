@@ -6,21 +6,26 @@
   "logoFile": "logos/sency_interactive-logo.webp",
   "websiteUrl": "https://www.sency.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sencyai",
+  "linkedinNum": 18984805,
   "crunchbaseId": "fitv-ai",
+  "ivcId": "A1000000361095",
   "finderId": "fitv",
   "xId": null,
+  "facebookId": "WODProofapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בצלאל",
-      "houseNumber": 3,
+      "street": null,
+      "houseNumber": null,
       "city": "רמת גן",
-      "lat": 32.086609249999995,
-      "lon": 34.80170756975005
+      "lat": 32.068424,
+      "lon": 34.824785
     }
   ],
   "isMultinational": false,
-  "facebookId": "WODProofapp",
-  "linkedinNum": 18984805
+  "isActive": true
 }

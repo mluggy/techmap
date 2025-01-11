@@ -1,16 +1,22 @@
 {
   "name": "Focal Medical Technology",
-  "description": "A system for precisely targeting and treating prostate cancer using minimally invasive techniques.",
+  "description": "Focal Medical develops a device for the focal treatment of prostate cancer.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/focal_medical_technology-logo.webp",
-  "websiteUrl": "https://focalhealthcare.com/",
+  "websiteUrl": "https://focalmd.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "focal-medical",
+  "linkedinNum": 88638234,
   "crunchbaseId": null,
+  "ivcId": "A1000000400762",
   "finderId": "focal-medical-technology",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתניהו יהונתן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 88638234
+  "isActive": true
 }

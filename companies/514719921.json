@@ -1,26 +1,31 @@
 {
   "name": "Bllink",
-  "description": "Payment Collection Platform for Property Managers",
+  "description": "Payment Collection Platform for Property Managers.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/bllink_systems-logo.webp",
   "websiteUrl": "https://www.bllink.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bllink",
+  "linkedinNum": 10677038,
   "crunchbaseId": null,
+  "ivcId": "A1000000316230",
   "finderId": "bllink",
   "xId": null,
+  "facebookId": "Bllink.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יגיע כפיים",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.061196,
-      "lon": 34.782293
+      "street": "כביש 2",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.1447983,
+      "lon": 34.8025752
     }
   ],
   "isMultinational": false,
-  "facebookId": "Bllink.co",
-  "linkedinNum": 10677038
+  "isActive": true
 }

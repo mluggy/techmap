@@ -6,11 +6,17 @@
   "logoFile": "logos/eviation_aircraft-logo.webp",
   "websiteUrl": "https://www.eviation.com/",
   "careersUrl": "https://www.eviation.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "eviation-aircraft",
+  "linkedinNum": 18036326,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "eviation",
   "xId": "eviationaero",
+  "facebookId": "EviationAircraft",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האופה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "EviationAircraft",
-  "linkedinNum": 18036326
+  "isActive": true
 }

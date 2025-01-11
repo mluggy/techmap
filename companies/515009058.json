@@ -6,11 +6,17 @@
   "logoFile": "logos/mymiggo_group-logo.webp",
   "websiteUrl": "https://www.pictarworld.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mymiggo-group",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגנן",
@@ -19,5 +25,7 @@
       "lat": 31.8873272,
       "lon": 34.9649811
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/cymphony_security-logo.webp",
   "websiteUrl": "https://symfony.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cymphony-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -19,5 +25,7 @@
       "lat": 32.08005635,
       "lon": 34.799938614641945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

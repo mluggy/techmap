@@ -6,11 +6,17 @@
   "logoFile": "logos/altman_digital-logo.webp",
   "websiteUrl": "https://www.altman.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "altman-health",
+  "linkedinNum": 10115950,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "altman",
   "xId": null,
+  "facebookId": "altman.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כיסופים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "altman.il",
-  "linkedinNum": 10115950
+  "isActive": true
 }

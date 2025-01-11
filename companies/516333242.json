@@ -1,16 +1,23 @@
 {
   "name": "Bright Agtech",
-  "description": "Precision Treatment Solution for Field Crops",
+  "description": "Precision Treatment Solution for Field Crops.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/bright_agtech-logo.webp",
+  "logoFile": "logos/bright-agtech-logo.webp",
   "websiteUrl": "https://bright.ag",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bright-agrotech",
+  "linkedinNum": 2721966,
   "crunchbaseId": null,
+  "ivcId": "A1000000268537",
   "finderId": "bright-agtech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

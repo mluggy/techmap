@@ -6,11 +6,17 @@
   "logoFile": "logos/phytech-logo.webp",
   "websiteUrl": "https://www.phytech.com/",
   "careersUrl": "https://www.phytech.com/careers",
-  "isHiring": true,
   "linkedinId": "phytech-ltd",
+  "linkedinNum": 476356,
   "crunchbaseId": null,
+  "ivcId": "A1000000004383",
   "finderId": "phytech",
   "xId": "phytechusa",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 476356
+  "isActive": true
 }

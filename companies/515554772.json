@@ -6,11 +6,17 @@
   "logoFile": "logos/wiliot_ltd-logo.webp",
   "websiteUrl": "https://www.wiliot.com/",
   "careersUrl": "https://www.wiliot.com/careers",
-  "isHiring": true,
   "linkedinId": "wiliot",
+  "linkedinNum": 17943955,
   "crunchbaseId": "wiliot",
+  "ivcId": null,
   "finderId": "wiliot",
   "xId": "wiliothq",
+  "facebookId": "WiliotHQ",
+  "breezyId": null,
+  "comeetId": "wiliot/F6.003",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטוחן",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WiliotHQ",
-  "linkedinNum": 17943955,
-  "comeetId": "wiliot/F6.003"
+  "isActive": true
 }

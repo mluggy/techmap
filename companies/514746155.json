@@ -3,23 +3,29 @@
   "description": "Revolutionizing manufacturing with AI-driven solutions for enhanced capacity, predictability, and sustainability.",
   "categoryId": 15,
   "size": "l",
-  "logoFile": "logos/augury_systems-logo.webp",
+  "logoFile": "logos/augury-logo.webp",
   "websiteUrl": "https://www.augury.com/",
   "careersUrl": "https://www.augury.com/careers/",
-  "isHiring": true,
   "linkedinId": "augury-systems",
+  "linkedinNum": 2665061,
   "crunchbaseId": null,
+  "ivcId": "A1000000010165",
   "finderId": "augury",
   "xId": "augurysys",
+  "facebookId": "augurysys",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 39,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.823617,
-      "lon": 34.9928356
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
   "isMultinational": false,
-  "facebookId": "augurysys"
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/greeneum_net_israel-logo.webp",
   "websiteUrl": "https://www.greeneum.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "greeneum-network",
+  "linkedinNum": 18425849,
   "crunchbaseId": "greeneum-network",
+  "ivcId": "A1000000246973",
   "finderId": "greeneum",
   "xId": "GreeneumNet",
+  "facebookId": "Greeneum",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
+      "street": "שלמה אבן גבירול",
       "houseNumber": 55,
-      "city": "תל אביב - יפו",
-      "lat": 32.07777,
-      "lon": 34.781103
+      "city": "תל אביב-יפו",
+      "lat": 32.0777599,
+      "lon": 34.7811469
     }
   ],
   "isMultinational": false,
-  "facebookId": "Greeneum",
-  "linkedinNum": 18425849
+  "isActive": true
 }

@@ -6,13 +6,26 @@
   "logoFile": "logos/stepahead-logo.webp",
   "websiteUrl": "https://step-ahead.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "stepaheadtech",
+  "linkedinNum": 11358571,
   "crunchbaseId": null,
+  "ivcId": "A1000000191029",
   "finderId": "stepahead",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "stepahead.on",
-  "linkedinNum": 11358571
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "רמת השרון",
+      "lat": 32.135172,
+      "lon": 34.829305
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,22 +6,26 @@
   "logoFile": "logos/lumenis_ltd-logo.webp",
   "websiteUrl": "https://lumenis.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lumenis",
+  "linkedinNum": 11124,
   "crunchbaseId": null,
+  "ivcId": "A1000000006933",
   "finderId": "lumenis",
   "xId": "lumenisinc",
+  "facebookId": "lumenis",
+  "breezyId": null,
+  "comeetId": "lumenis/A1.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקידמה",
       "houseNumber": 6,
-      "city": "יקנעם עילית",
-      "lat": 32.66998785,
-      "lon": 35.1055212
+      "city": "יוקנעם עילית",
+      "lat": 32.669918,
+      "lon": 35.106708
     }
   ],
   "isMultinational": false,
-  "facebookId": "lumenis",
-  "linkedinNum": 11124,
-  "comeetId": "lumenis/A1.00C"
+  "isActive": true
 }

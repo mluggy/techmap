@@ -1,0 +1,31 @@
+{
+  "name": "Innstant",
+  "description": "Innstant provides leading online reservation technology offering 200,000 hotels and apartments worldwide.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/innstant-logo.webp",
+  "websiteUrl": "http://www.innstantgroup.com",
+  "careersUrl": "http://innstantgroup.com/careers/",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001553",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גרניט",
+      "houseNumber": 8,
+      "city": "פתח תקווה",
+      "lat": 32.1012426,
+      "lon": 34.8650752
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

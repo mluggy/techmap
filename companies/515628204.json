@@ -6,21 +6,26 @@
   "logoFile": "logos/depoint_management_solutions-logo.webp",
   "websiteUrl": "https://depoint.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "depoint",
+  "linkedinNum": 13223483,
   "crunchbaseId": "depoint-solutions-ltd",
+  "ivcId": "A1000000223126",
   "finderId": "depoint",
   "xId": null,
+  "facebookId": "getdepoint",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היהלומים",
-      "houseNumber": 19,
+      "street": "הטיילת",
+      "houseNumber": 20,
       "city": "אשדוד",
-      "lat": 31.81647435,
-      "lon": 34.659967991985226
+      "lat": 31.8111122,
+      "lon": 34.6391336
     }
   ],
   "isMultinational": false,
-  "facebookId": "getdepoint",
-  "linkedinNum": 13223483
+  "isActive": true
 }

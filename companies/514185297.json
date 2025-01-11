@@ -6,21 +6,26 @@
   "logoFile": "logos/autotalks-logo.webp",
   "websiteUrl": "https://auto-talks.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "autotalks",
+  "linkedinNum": 1576565,
   "crunchbaseId": null,
+  "ivcId": "A1000000009394",
   "finderId": "autotalks",
   "xId": "Autotalks",
+  "facebookId": "Autotalks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האלון",
       "houseNumber": 4,
       "city": "כפר נטר",
-      "lat": 32.2681043,
-      "lon": 34.8644968
+      "lat": 32.2847655,
+      "lon": 34.872183
     }
   ],
   "isMultinational": false,
-  "facebookId": "Autotalks",
-  "linkedinNum": 1576565
+  "isActive": true
 }

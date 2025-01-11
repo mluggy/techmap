@@ -6,11 +6,17 @@
   "logoFile": "logos/dialogic_networks_israel_ltd-logo.webp",
   "websiteUrl": "https://www.dialogic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dialogic",
+  "linkedinNum": 5736,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dialogic",
   "xId": "Dialogic",
+  "facebookId": "DialogicInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיבים",
@@ -20,7 +26,6 @@
       "lon": 34.8571892
     }
   ],
-  "isMultinational": true,
-  "facebookId": "DialogicInc",
-  "linkedinNum": 5736
+  "isMultinational": false,
+  "isActive": true
 }

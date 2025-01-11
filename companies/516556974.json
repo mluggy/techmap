@@ -1,16 +1,22 @@
 {
   "name": "NoWaste",
-  "description": "Agricultural Waste Recycling Platform",
+  "description": "Agricultural Waste Recycling Platform.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/nowaste-logo.webp",
   "websiteUrl": "https://nowaste.eco/welcome/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000365392",
   "finderId": "nowaste4s",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נרקיסים",
@@ -20,5 +26,6 @@
       "lon": 35.1392411
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

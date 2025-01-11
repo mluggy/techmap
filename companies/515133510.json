@@ -6,21 +6,26 @@
   "logoFile": "logos/source_defense-logo.webp",
   "websiteUrl": "https://sourcedefense.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "source-defense",
+  "linkedinNum": 2447123,
   "crunchbaseId": null,
+  "ivcId": "A1000000221829",
   "finderId": "source-defense",
   "xId": "SourceDefense",
+  "facebookId": "sourcedefense",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
-      "houseNumber": 12,
-      "city": "ראש העין",
-      "lat": 32.09668,
-      "lon": 34.9066455
+      "street": "האנרגיה",
+      "houseNumber": 77,
+      "city": "באר שבע",
+      "lat": 31.2632577,
+      "lon": 34.8108598
     }
   ],
   "isMultinational": false,
-  "facebookId": "sourcedefense",
-  "linkedinNum": 2447123
+  "isActive": true
 }

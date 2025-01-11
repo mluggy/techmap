@@ -1,0 +1,31 @@
+{
+  "name": "Midrag",
+  "description": "Midrag is dedicated to consumer-review and consumer-rating of construction service providers.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/midrag-logo.webp",
+  "websiteUrl": "http://www.midrag.co.il",
+  "careersUrl": null,
+  "linkedinId": "midrag",
+  "linkedinNum": 10410267,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009120",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "כנפי נשרים",
+      "houseNumber": 15,
+      "city": "ירושלים",
+      "lat": 31.78729689999999,
+      "lon": 35.1840598
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

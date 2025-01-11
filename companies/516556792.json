@@ -1,25 +1,31 @@
 {
   "name": "Utila",
-  "description": "Self-custody Wallet Platform",
+  "description": "Self-custody Wallet Platform.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/utila-logo.webp",
   "websiteUrl": "https://utila.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "utila-io",
+  "linkedinNum": 91037437,
   "crunchbaseId": null,
+  "ivcId": "A1000000413370",
   "finderId": "utila",
   "xId": "utila_io",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
-      "lat": 32.064654,
-      "lon": 34.785584
+      "city": "תל אביב-יפו",
+      "lat": 32.0646001,
+      "lon": 34.7853961
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 91037437
+  "isActive": true
 }

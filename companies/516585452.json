@@ -1,25 +1,31 @@
 {
   "name": "CryptoHub",
-  "description": "A Real-time Trading Platform with Analysis and Research Tools",
+  "description": "A Real-time Trading Platform with Analysis and Research Tools.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/cryptohub-logo.webp",
   "websiteUrl": "https://www.coinscan.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cryptohubltd",
+  "linkedinNum": 77738894,
   "crunchbaseId": null,
+  "ivcId": "A1000000430320",
   "finderId": "cryptohub",
   "xId": "CoinScanDeFi",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הירקון",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.068102,
-      "lon": 34.76418
+      "street": "פרופסור יחזקאל קויפמן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0630953,
+      "lon": 34.7622538
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77738894
+  "isActive": true
 }

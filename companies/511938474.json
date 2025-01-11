@@ -6,20 +6,26 @@
   "logoFile": "logos/sivron_information_technologies_ltd-logo.webp",
   "websiteUrl": "https://sivron.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sivron",
+  "linkedinNum": 1344516,
   "crunchbaseId": "sivron-information-technologies",
+  "ivcId": "A1000000004206",
   "finderId": "sivron",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השלושה",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617382,
-      "lon": 34.7882304
+      "street": "רוטשילד",
+      "houseNumber": 3,
+      "city": "קרית אונו",
+      "lat": 32.0610577,
+      "lon": 34.85812689999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1344516
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/sensepass-logo.webp",
   "websiteUrl": "https://sensepass.com/",
   "careersUrl": "https://sensepass.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "sensepass",
+  "linkedinNum": 27108093,
   "crunchbaseId": null,
+  "ivcId": "A1000000269577",
   "finderId": "sensepass",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בני בנימין",
-      "houseNumber": 33,
-      "city": "נס ציונה",
-      "lat": 31.9128286,
-      "lon": 34.7940787
+      "street": "דרך מנחם בגין",
+      "houseNumber": 144,
+      "city": "תל אביב-יפו",
+      "lat": 32.077331,
+      "lon": 34.7932911
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27108093
+  "isActive": true
 }

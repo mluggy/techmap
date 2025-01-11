@@ -6,21 +6,26 @@
   "logoFile": "logos/pronto_diagnostics-logo.webp",
   "websiteUrl": "https://www.prontodiagnostics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pronto-diagnostics",
+  "linkedinNum": 18156492,
   "crunchbaseId": null,
+  "ivcId": "A1000000008740",
   "finderId": "pronto-diagnostics",
   "xId": null,
+  "facebookId": "prontodiagnostics1",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רח 2233",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.0376994,
-      "lon": 34.7489382
+      "street": "רחוב אריה שנקר",
+      "houseNumber": 16,
+      "city": "הרצליה",
+      "lat": 32.1582877,
+      "lon": 34.8083147
     }
   ],
   "isMultinational": false,
-  "facebookId": "prontodiagnostics1",
-  "linkedinNum": 18156492
+  "isActive": true
 }

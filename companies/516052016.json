@@ -6,20 +6,26 @@
   "logoFile": "logos/driftsense-logo.webp",
   "websiteUrl": "https://drift-sense.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "driftsense",
+  "linkedinNum": 14775361,
   "crunchbaseId": null,
+  "ivcId": "A1000000289846",
   "finderId": "driftsense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מקס ואנה ווב",
-      "houseNumber": 1,
+      "street": null,
+      "houseNumber": null,
       "city": "רמת גן",
-      "lat": 32.0702221,
-      "lon": 34.8495665
+      "lat": 32.0691989,
+      "lon": 34.8430876
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14775361
+  "isActive": true
 }

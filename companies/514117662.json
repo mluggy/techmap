@@ -6,11 +6,17 @@
   "logoFile": "logos/empathy_group-logo.webp",
   "websiteUrl": "https://www.empathy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "empathy-com",
+  "linkedinNum": 68774537,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "empathy",
   "xId": "empathy_app",
+  "facebookId": "empathyforfamilies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האגס גבעת עדה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "empathyforfamilies",
-  "linkedinNum": 68774537
+  "isActive": true
 }

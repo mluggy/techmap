@@ -1,17 +1,22 @@
 {
   "name": "Lipo",
-  "description": "Micro-mobility Vehicles in the Urban Public Space",
+  "description": "Micro-mobility Vehicles in the Urban Public Space.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/lipo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "lipogen",
   "linkedinNum": 77632856,
   "crunchbaseId": null,
+  "ivcId": "A1000000007181",
   "finderId": "lipo",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יפה נוף",
@@ -21,5 +26,6 @@
       "lon": 34.98297585727803
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

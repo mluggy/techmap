@@ -6,11 +6,17 @@
   "logoFile": "logos/backbox_software-logo.webp",
   "websiteUrl": "https://backbox.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2008462,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "backbox",
   "xId": "Back_Box",
+  "facebookId": "BackBoxSoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BackBoxSoftware",
-  "linkedinNum": 2008462
+  "isActive": true
 }

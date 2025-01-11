@@ -6,19 +6,26 @@
   "logoFile": "logos/amobee-logo.webp",
   "websiteUrl": "https://www.amobee.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "amobee",
+  "linkedinNum": 167080,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "amobee",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "nexxen",
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 82,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066186,
       "lon": 34.792954
     }
   ],
-  "greenhouseId": "nexxen"
+  "isMultinational": false,
+  "isActive": true
 }

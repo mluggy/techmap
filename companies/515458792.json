@@ -1,26 +1,31 @@
 {
   "name": "Cybear Networks",
-  "description": "SOC Virtual Cyber Analyst",
+  "description": "Cybear introduced the 1st Autonomous Cyber Security Analyst – RoboSOC.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/cybear_networks-logo.webp",
-  "websiteUrl": "https://www.cybear.co/",
+  "websiteUrl": "https://www.robosoc.co",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cybear-networks",
+  "linkedinNum": 17880332,
   "crunchbaseId": "cybear-networks",
+  "ivcId": "A1000000213488",
   "finderId": "cybear-networks",
   "xId": null,
+  "facebookId": "CybearNetworks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
     }
   ],
   "isMultinational": false,
-  "facebookId": "CybearNetworks",
-  "linkedinNum": 17880332
+  "isActive": true
 }

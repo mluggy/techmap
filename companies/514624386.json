@@ -6,21 +6,26 @@
   "logoFile": "logos/palo_alto_networks_israel-logo.webp",
   "websiteUrl": "https://www.paloaltonetworks.com/",
   "careersUrl": "https://jobs.paloaltonetworks.com/en/",
-  "isHiring": true,
   "linkedinId": "palo-alto-networks",
+  "linkedinNum": 30086,
   "crunchbaseId": "palo-alto-networks",
+  "ivcId": null,
   "finderId": "palo-alto-networks",
   "xId": "PaloAltoNtwks",
+  "facebookId": "PaloAltoNetworksIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.068346,
       "lon": 34.793507
     }
   ],
-  "isMultinational": true,
-  "facebookId": "PaloAltoNetworksIsrael",
-  "linkedinNum": 30086
+  "isMultinational": false,
+  "isActive": true
 }

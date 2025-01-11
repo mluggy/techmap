@@ -1,17 +1,22 @@
 {
   "name": "ReGEV Bio",
-  "description": "Regulating Gen Expression Volume in Planta",
+  "description": "Regev utilizes naturally occurring genetic mechanisms within plants to unlock the genetic code for specific traits.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/regev-bio.webp",
-  "websiteUrl": "https://agchimedes.com/regev-bio/",
+  "websiteUrl": "http://www.regevbio.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000409795",
   "finderId": "regev-bio",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אהבת ישראל",
@@ -21,5 +26,6 @@
       "lon": 34.59262414578083
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

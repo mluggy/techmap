@@ -1,0 +1,31 @@
+{
+  "name": "LuGo",
+  "description": "LuGo a unique technical skill testing service to optimize the users' company's recruitment and selection process, enabling them to screen and process their candidates faster and more effectively.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/lugo-logo.webp",
+  "websiteUrl": "http://www.lugo-test.com",
+  "careersUrl": null,
+  "linkedinId": "lugo-test",
+  "linkedinNum": 1913961,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010636",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ישה חפץ",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.116308,
+      "lon": 34.788082
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

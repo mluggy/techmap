@@ -1,16 +1,22 @@
 {
   "name": "Via",
-  "description": "Urban Transportation Optimization Platform",
+  "description": "Urban Transportation Optimization Platform.",
   "categoryId": 5,
   "size": "l",
   "logoFile": "logos/via_diamonds-logo.webp",
   "websiteUrl": "https://www.ridewithvia.com",
   "careersUrl": "https://ridewithvia.com/careers/jobs",
-  "isHiring": true,
   "linkedinId": "ridewithvia",
+  "linkedinNum": 2770100,
   "crunchbaseId": null,
+  "ivcId": "A1000000021961",
   "finderId": "via",
   "xId": "ridewithvia",
+  "facebookId": "ridewithvia?fref=nf",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יעקב רוזן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ridewithvia?fref=nf",
-  "linkedinNum": 2770100
+  "isActive": true
 }

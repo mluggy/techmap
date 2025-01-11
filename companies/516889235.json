@@ -6,20 +6,26 @@
   "logoFile": "logos/mndl_bio-logo.webp",
   "websiteUrl": "https://mndl.bio/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mndl-bio",
+  "linkedinNum": 96395398,
   "crunchbaseId": null,
+  "ivcId": "A1000000434982",
   "finderId": "mndl-bio-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ויינשל",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.118403,
-      "lon": 34.824378
+      "city": "תל אביב-יפו",
+      "lat": 32.1183322,
+      "lon": 34.8243892
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 96395398
+  "isActive": true
 }

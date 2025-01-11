@@ -7,20 +7,25 @@
   "websiteUrl": "https://www.joindaisy.com/",
   "careersUrl": "https://www.joindaisy.com/careers",
   "linkedinId": "joindaisy",
+  "linkedinNum": 42885770,
   "crunchbaseId": "daisy-living-ltd",
+  "ivcId": null,
   "finderId": "daisy",
   "xId": null,
+  "facebookId": "LiveWithDaisy",
+  "breezyId": null,
+  "comeetId": "daisy/67.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן אביגדור",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066983,
       "lon": 34.790784
     }
   ],
   "isMultinational": false,
-  "facebookId": "LiveWithDaisy",
-  "linkedinNum": 42885770,
-  "comeetId": "daisy/67.002"
+  "isActive": true
 }

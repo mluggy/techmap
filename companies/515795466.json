@@ -6,21 +6,26 @@
   "logoFile": "logos/nym_health-logo.webp",
   "websiteUrl": "https://www.nym.health/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 28601233,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nym",
   "xId": "NymHealth",
+  "facebookId": "nym.health",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סעדיה גאון",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.068118,
       "lon": 34.782365
     }
   ],
   "isMultinational": false,
-  "facebookId": "nym.health",
-  "linkedinNum": 28601233
+  "isActive": true
 }

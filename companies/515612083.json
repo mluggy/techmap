@@ -6,20 +6,26 @@
   "logoFile": "logos/zohar_clean_tech-logo.webp",
   "websiteUrl": "https://www.zohartech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zohar-cleantech-ltd",
+  "linkedinNum": 27133967,
   "crunchbaseId": null,
+  "ivcId": "A1000000270356",
   "finderId": "zohar-cleantech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החילזון",
       "houseNumber": 6,
-      "city": "רמת גן",
-      "lat": 32.0861321,
-      "lon": 34.8040698
+      "city": "בני ברק",
+      "lat": 32.086929,
+      "lon": 34.804449
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27133967
+  "isActive": true
 }

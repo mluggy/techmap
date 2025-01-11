@@ -1,0 +1,31 @@
+{
+  "name": "Grarnet",
+  "description": "Grarnet is a mobile phone application for towing services through a single click, allowing to follow in real time on a map, the location of the service provider and the estimated time of arrival.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/grarnet-logo.webp",
+  "websiteUrl": "http://www.grarnet.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000214085",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שלוש",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.060739,
+      "lon": 34.765093
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

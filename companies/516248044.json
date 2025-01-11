@@ -6,21 +6,26 @@
   "logoFile": "logos/engageli_technologies_israel-logo.webp",
   "websiteUrl": "https://www.engageli.com/",
   "careersUrl": "https://www.engageli.com/careers",
-  "isHiring": true,
   "linkedinId": "engageli",
+  "linkedinNum": 66705032,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "engageli",
   "xId": "engageli",
+  "facebookId": "engageli",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.05865,
       "lon": 34.784414
     }
   ],
   "isMultinational": false,
-  "facebookId": "engageli",
-  "linkedinNum": 66705032
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "ValCare",
+  "description": "Valcare Medical is dedicated to providing innovative minimally-invasive technologies for the treatment of mitral and tricuspid regurgitation.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/valcare-logo.webp",
+  "websiteUrl": "http://valcaremedical.com",
+  "careersUrl": null,
+  "linkedinId": "valcare-medical",
+  "linkedinNum": 18263093,
+  "crunchbaseId": null,
+  "ivcId": "A1000000021502",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1674785,
+      "lon": 34.8117389
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

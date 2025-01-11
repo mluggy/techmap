@@ -6,21 +6,26 @@
   "logoFile": "logos/arbe_robotics-logo.webp",
   "websiteUrl": "https://arberobotics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "arbe-robotics",
+  "linkedinNum": 12960415,
   "crunchbaseId": null,
+  "ivcId": "A1000000216818",
   "finderId": "arbe-robotics",
   "xId": "Arbe_Robotics",
+  "facebookId": "arberobotics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 107,
-      "city": "תל אביב - יפו",
-      "lat": 32.06959,
-      "lon": 34.784878
+      "city": "תל אביב-יפו",
+      "lat": 32.0695666,
+      "lon": 34.7849943
     }
   ],
   "isMultinational": false,
-  "facebookId": "arberobotics",
-  "linkedinNum": 12960415
+  "isActive": true
 }

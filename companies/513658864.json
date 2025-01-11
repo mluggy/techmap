@@ -6,21 +6,26 @@
   "logoFile": "logos/preton-logo.webp",
   "websiteUrl": "https://www.preton.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "preton-ltd",
+  "linkedinNum": 582128,
   "crunchbaseId": null,
+  "ivcId": "A1000000006663",
   "finderId": "preton",
   "xId": "pretonsaver",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קלונימוס",
-      "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.087415,
-      "lon": 34.780496
+      "street": "שלמה אבן גבירול",
+      "houseNumber": 68,
+      "city": "תל אביב-יפו",
+      "lat": 32.0799634,
+      "lon": 34.7815659
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 582128
+  "isActive": true
 }

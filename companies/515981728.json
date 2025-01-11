@@ -6,22 +6,26 @@
   "logoFile": "logos/one_zero_digital_bank-logo.webp",
   "websiteUrl": "https://www.onezerobank.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "one-zero-digital-private-bank",
+  "linkedinNum": 34618315,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "one-zero-digital-bank",
   "xId": "ONEZEROBANK",
+  "facebookId": "ONEZEROBANK",
+  "breezyId": null,
+  "comeetId": "onezerobank/36.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית עובד",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064485,
       "lon": 34.786883
     }
   ],
   "isMultinational": false,
-  "facebookId": "ONEZEROBANK",
-  "linkedinNum": 34618315,
-  "comeetId": "onezerobank/36.00A"
+  "isActive": true
 }

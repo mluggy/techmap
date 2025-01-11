@@ -6,18 +6,26 @@
   "logoFile": "logos/magnisity-logo.webp",
   "websiteUrl": "https://www.magnisity.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "magnisity",
+  "linkedinNum": 80713787,
   "crunchbaseId": "magnisity",
+  "ivcId": "A1000000326833",
   "finderId": "magnisity",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לוטם",
-      "houseNumber": 16,
-      "city": "הוד השרון",
-      "lat": 32.155348,
-      "lon": 34.8744012
+      "street": "יוני נתניהו",
+      "houseNumber": 5,
+      "city": "אור יהודה",
+      "lat": 32.0230699,
+      "lon": 34.8593451
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

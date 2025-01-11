@@ -6,21 +6,26 @@
   "logoFile": "logos/tomgrow-logo.webp",
   "websiteUrl": "https://tomgrow.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tomgrow",
+  "linkedinNum": 18653866,
   "crunchbaseId": null,
+  "ivcId": "A1000000311415",
   "finderId": "tomgrow",
   "xId": null,
+  "facebookId": "SelfgrowIndependentPlants",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התחיה",
+      "street": "התחייה",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
-      "lat": 32.050123,
-      "lon": 34.762934
+      "city": "תל אביב-יפו",
+      "lat": 32.0501268,
+      "lon": 34.7629443
     }
   ],
   "isMultinational": false,
-  "facebookId": "SelfgrowIndependentPlants",
-  "linkedinNum": 18653866
+  "isActive": true
 }

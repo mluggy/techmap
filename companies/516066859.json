@@ -6,21 +6,26 @@
   "logoFile": "logos/perimom-logo.webp",
   "websiteUrl": "https://www.perimom.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "perimom",
+  "linkedinNum": 71690550,
   "crunchbaseId": null,
+  "ivcId": "A1000000430106",
   "finderId": "perimom-ltd",
   "xId": null,
+  "facebookId": "Perimom-Perineal-Massager-106145434850798",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 67,
-      "city": "תל אביב - יפו",
-      "lat": 32.0661455,
-      "lon": 34.7923103
+      "city": "תל אביב-יפו",
+      "lat": 32.0661271,
+      "lon": 34.7924588
     }
   ],
   "isMultinational": false,
-  "facebookId": "Perimom-Perineal-Massager-106145434850798",
-  "linkedinNum": 71690550
+  "isActive": true
 }

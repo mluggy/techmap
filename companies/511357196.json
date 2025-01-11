@@ -6,21 +6,26 @@
   "logoFile": "logos/nilit-logo.webp",
   "websiteUrl": "https://www.nilit.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nilit-fibers",
+  "linkedinNum": 49797,
   "crunchbaseId": null,
+  "ivcId": "A1000000000080",
   "finderId": "nilit",
   "xId": "nilit_fibers",
+  "facebookId": "Nilit.Fibers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התעשיה",
+      "street": "מאוריציו לוי",
       "houseNumber": null,
       "city": "מגדל העמק",
-      "lat": 32.6868052,
-      "lon": 35.2465429
+      "lat": 32.6882729,
+      "lon": 35.2546998
     }
   ],
   "isMultinational": false,
-  "facebookId": "Nilit.Fibers",
-  "linkedinNum": 49797
+  "isActive": true
 }

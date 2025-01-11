@@ -3,21 +3,29 @@
   "description": "Platform Uses AI to Oversee API Security.",
   "categoryId": 1,
   "size": "s",
-  "logoFile": "logos/vorlon_technologies-logo.webp",
+  "logoFile": "logos/vorlon-technologies-logo.webp",
   "websiteUrl": "https://vorlonsecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vorlon",
+  "linkedinNum": 93649070,
   "crunchbaseId": "vorlon",
+  "ivcId": null,
   "finderId": "vorlon-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נהרדעא",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.082586,
       "lon": 34.786693
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

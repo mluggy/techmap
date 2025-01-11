@@ -1,0 +1,31 @@
+{
+  "name": "SkyGini",
+  "description": "SkyGini is specializing in providing a seamless booking experience for flights, vacation packages and hotels.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/skygini-logo.webp",
+  "websiteUrl": "https://www.skygini.com",
+  "careersUrl": null,
+  "linkedinId": "skygini",
+  "linkedinNum": 105151622,
+  "crunchbaseId": null,
+  "ivcId": "A1000000492488",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 82,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322717
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

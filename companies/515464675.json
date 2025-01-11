@@ -6,11 +6,17 @@
   "logoFile": "logos/cardioset_medical-logo.webp",
   "websiteUrl": "https://www.cardioset.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "cardioset-medical",
+  "ivcId": null,
   "finderId": "cardioset-medical",
   "xId": "cardioset",
+  "facebookId": "Heartfailurehelp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חבצלת",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Heartfailurehelp"
+  "isActive": true
 }

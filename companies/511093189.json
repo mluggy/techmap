@@ -1,26 +1,31 @@
 {
   "name": "Meditrac",
-  "description": "Medical Devices for Ambulatory, Nonsurgical Treatment of Spinal Disorders",
+  "description": "Medical Devices for Ambulatory, Nonsurgical Treatment of Spinal Disorders.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/meditrac-logo.webp",
   "websiteUrl": "https://www.meditrac.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "meditrac-ltd",
+  "linkedinNum": 2242803,
   "crunchbaseId": null,
+  "ivcId": "A1000000006772",
   "finderId": "meditrac-medical-equipment",
   "xId": "meditrac_ltd",
+  "facebookId": "Meditrac.Medical.Equipment",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פנקס",
       "houseNumber": 53,
-      "city": "תל אביב - יפו",
-      "lat": 32.091201,
-      "lon": 34.790131
+      "city": "תל אביב-יפו",
+      "lat": 32.0911905,
+      "lon": 34.7901978
     }
   ],
   "isMultinational": false,
-  "facebookId": "Meditrac.Medical.Equipment",
-  "linkedinNum": 2242803
+  "isActive": true
 }

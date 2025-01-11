@@ -6,11 +6,17 @@
   "logoFile": "logos/orchid_green-logo.webp",
   "websiteUrl": "https://www.orchidgreens.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "orchid-green",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +25,7 @@
       "lat": 32.3223163,
       "lon": 34.8490207
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

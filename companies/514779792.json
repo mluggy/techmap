@@ -6,20 +6,26 @@
   "logoFile": "logos/javelin_medical-logo.webp",
   "websiteUrl": "https://www.javelinmed.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "javelin-medical",
+  "linkedinNum": 8473397,
   "crunchbaseId": null,
+  "ivcId": "A1000000207021",
   "finderId": "javelin-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקידמה",
       "houseNumber": 27,
-      "city": "יקנעם עילית",
-      "lat": 32.6646924,
-      "lon": 35.1060551
+      "city": "יוקנעם עילית",
+      "lat": 32.6648243,
+      "lon": 35.1057506
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 8473397
+  "isActive": true
 }

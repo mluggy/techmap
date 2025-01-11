@@ -1,23 +1,31 @@
 {
   "name": "Noma Security",
-  "description": "A company operating in stealth mode.",
+  "description": "Noma launches a security platform for application development that encompasses all data and artificial intelligence phases - from the development phases to production.",
   "categoryId": 7,
-  "size": "xs",
-  "logoFile": "logos/noma_security-logo.webp",
-  "websiteUrl": "https://nomasolutionsllc.com/",
+  "size": "s",
+  "logoFile": "logos/noma-security-logo.webp",
+  "websiteUrl": "https://www.nomasec.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "noma-security",
+  "linkedinNum": 104066798,
   "crunchbaseId": null,
+  "ivcId": "A1000000462549",
   "finderId": "noma-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הבשן",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.091123,
-      "lon": 34.781694
+      "street": "שונצינו",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.0667621,
+      "lon": 34.787449
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

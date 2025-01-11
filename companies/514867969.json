@@ -1,16 +1,22 @@
 {
   "name": "OmegaMore",
-  "description": "Biotech Products for Chronic Cognitive Diseases",
+  "description": "OmegaMore specializes in the development and production of unique omega-3 food supplements based strictly on algae that helps treat and prevent chronic cognitive illness.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/omegamore-logo.webp",
-  "websiteUrl": "https://omegamore.vp4.me/home",
+  "websiteUrl": "http://www.omegamoretech.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "omegamore",
+  "linkedinNum": 11828676,
   "crunchbaseId": null,
+  "ivcId": "A1000000275335",
   "finderId": "omegamore",
   "xId": "MoreOmega",
+  "facebookId": "omegamore18",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההדרים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "omegamore18",
-  "linkedinNum": 11828676
+  "isActive": true
 }

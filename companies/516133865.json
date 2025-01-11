@@ -1,0 +1,31 @@
+{
+  "name": "B.Protocol",
+  "description": "B-Protocol, a decentralized backstop liquidity protocol, where backstop liquidity providers (BLP) buy their right to liquidate under-collateralized loans and share their profits with the users of the platform.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/b-protocol-logo.webp",
+  "websiteUrl": "https://www.bprotocol.org",
+  "careersUrl": null,
+  "linkedinId": "b-protocol",
+  "linkedinNum": 67182876,
+  "crunchbaseId": null,
+  "ivcId": "A1000000382634",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות מנחם בגין",
+      "houseNumber": 121,
+      "city": "אור יהודה",
+      "lat": 32.0278299,
+      "lon": 34.85833
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

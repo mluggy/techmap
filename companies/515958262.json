@@ -6,22 +6,26 @@
   "logoFile": "logos/superplay-logo.webp",
   "websiteUrl": "https://www.superplay.co/",
   "careersUrl": "https://superdev.co.il/jobs/8789687561-product-manager-superplay",
-  "isHiring": true,
   "linkedinId": "superplay",
+  "linkedinNum": 70924854,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "superplay",
   "xId": null,
+  "facebookId": "DiceDreams",
+  "breezyId": null,
+  "comeetId": "superplay/28.003",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063834,
       "lon": 34.780027
     }
   ],
   "isMultinational": false,
-  "facebookId": "DiceDreams",
-  "linkedinNum": 70924854,
-  "comeetId": "superplay/28.003"
+  "isActive": true
 }

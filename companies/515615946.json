@@ -6,11 +6,17 @@
   "logoFile": "logos/bemedia_communities-logo.webp",
   "websiteUrl": "https://www.guruz.zone/en/welcome-publishers2/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "digital-guruz",
+  "linkedinNum": 10675792,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bemedia",
   "xId": "newguruz",
+  "facebookId": "Guruznet",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Guruznet",
-  "linkedinNum": 10675792
+  "isActive": true
 }

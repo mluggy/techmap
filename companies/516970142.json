@@ -1,23 +1,31 @@
 {
   "name": "Modelyo Technologies",
-  "description": "Ensuring the Safe Implementation of SaaS-based Generative AI.",
-  "categoryId": 1,
+  "description": "Modelyo develops a platform that helps GenAI customers to protect their business from data leakage, based on security features..",
+  "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/modelyo_technologies-logo.webp",
+  "logoFile": "logos/modelyo-technologies-logo.webp",
   "websiteUrl": "https://modelyo.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "studywise-ai",
+  "linkedinNum": 101561249,
   "crunchbaseId": null,
+  "ivcId": "A1000000481193",
   "finderId": "modelyo-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מעלה הגבעה",
-      "houseNumber": 36,
-      "city": "כפר ראש הנקרה",
-      "lat": 33.087764360502845,
-      "lon": 35.11578305662656
+      "street": "מרדכי אנילביץ'",
+      "houseNumber": 21,
+      "city": "תל אביב-יפו",
+      "lat": 32.0581211,
+      "lon": 34.7871187
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/offsight_solutions-logo.webp",
   "websiteUrl": "https://www.offsite.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "offsight-ltd",
+  "linkedinNum": 71195965,
   "crunchbaseId": null,
+  "ivcId": "A1000000367992",
   "finderId": "offsight",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צל הגבעה",
-      "houseNumber": 8,
-      "city": "רמת גן",
-      "lat": 32.0779034,
-      "lon": 34.8232405
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71195965
+  "isActive": true
 }

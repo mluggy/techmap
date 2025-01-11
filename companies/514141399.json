@@ -6,21 +6,26 @@
   "logoFile": "logos/pointgrab-logo.webp",
   "websiteUrl": "https://www.pointgrab.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pointgrab",
+  "linkedinNum": 452517,
   "crunchbaseId": null,
+  "ivcId": "A1000000009971",
   "finderId": "pointgrab",
   "xId": "pointgrab",
+  "facebookId": "PointGrab",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
+      "street": "עתיר ידע",
       "houseNumber": 20,
       "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "lat": 32.1611685,
+      "lon": 34.9354517
     }
   ],
   "isMultinational": false,
-  "facebookId": "PointGrab",
-  "linkedinNum": 452517
+  "isActive": true
 }

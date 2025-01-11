@@ -6,11 +6,17 @@
   "logoFile": "logos/medoc_ltd-logo.webp",
   "websiteUrl": "https://www.medoc-web.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "medoc",
+  "linkedinNum": 132371,
   "crunchbaseId": null,
+  "ivcId": "A1000000007505",
   "finderId": "medoc",
   "xId": "MedocMedicalSys",
+  "facebookId": "Medoc-Ltd-1606885802869196",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדקל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Medoc-Ltd-1606885802869196",
-  "linkedinNum": 132371
+  "isActive": true
 }

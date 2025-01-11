@@ -6,21 +6,26 @@
   "logoFile": "logos/binah_ai-logo.webp",
   "websiteUrl": "https://www.binah.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "binah.ai",
+  "linkedinNum": 11093931,
   "crunchbaseId": null,
+  "ivcId": "A1000000233286",
   "finderId": "binah-ai",
   "xId": "binah_ai",
+  "facebookId": "100064013439216",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
+      "street": "Ze'ev Jabotinsky Road",
       "houseNumber": 2,
-      "city": "רמת גן",
-      "lat": 32.08254365,
-      "lon": 34.801384906098356
+      "city": "Ramat Gan",
+      "lat": 32.0826829,
+      "lon": 34.8014967
     }
   ],
   "isMultinational": false,
-  "facebookId": "100064013439216",
-  "linkedinNum": 11093931
+  "isActive": true
 }

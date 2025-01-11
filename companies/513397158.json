@@ -6,11 +6,17 @@
   "logoFile": "logos/coronis_neurosciences-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "coronis-neurosciences",
+  "ivcId": null,
   "finderId": "coronis-neurosciences",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שרעבי יעקב סעדיה",
@@ -19,5 +25,7 @@
       "lat": 31.8811472,
       "lon": 34.8031277
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

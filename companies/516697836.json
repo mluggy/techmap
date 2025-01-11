@@ -6,11 +6,17 @@
   "logoFile": "logos/gutsy_io-logo.webp",
   "websiteUrl": "https://gutsy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gutsy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קורן",
@@ -19,5 +25,7 @@
       "lat": 32.176267,
       "lon": 34.8465642
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

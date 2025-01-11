@@ -6,21 +6,26 @@
   "logoFile": "logos/toonimo-logo.webp",
   "websiteUrl": "https://www.toonimo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3305762,
   "crunchbaseId": null,
+  "ivcId": "A1000000021233",
   "finderId": "toonimo",
   "xId": "toonimo",
+  "facebookId": "toonimoanimation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השלום",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.072245,
-      "lon": 34.796049
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "toonimoanimation",
-  "linkedinNum": 3305762
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/momentis_surgical-logo.webp",
   "websiteUrl": "https://www.momentissurgical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "momentis-surgical",
+  "linkedinNum": 51962065,
   "crunchbaseId": null,
+  "ivcId": "A1000000022608",
   "finderId": "memic-innovative-surgery",
   "xId": "MomentisSurg",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נתניהו יהונתן",
+      "street": "יונתן נתניהו",
       "houseNumber": 6,
-      "city": "אור יהודה",
-      "lat": 32.0219296,
-      "lon": 34.8566055
+      "city": "יהוד מונוסון",
+      "lat": 32.0373627,
+      "lon": 34.8938522
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 51962065
+  "isActive": true
 }

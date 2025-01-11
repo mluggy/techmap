@@ -6,21 +6,26 @@
   "logoFile": "logos/ezbra_advanced_wound_care-logo.webp",
   "websiteUrl": "https://ezbra.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ezbra",
+  "linkedinNum": 17947356,
   "crunchbaseId": null,
+  "ivcId": "A1000000200179",
   "finderId": "ezbra",
   "xId": "ezbra_net",
+  "facebookId": "ezbra.usa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברנר",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.069278,
-      "lon": 34.771274
+      "city": "תל אביב-יפו",
+      "lat": 32.0692149,
+      "lon": 34.7712593
     }
   ],
   "isMultinational": false,
-  "facebookId": "ezbra.usa",
-  "linkedinNum": 17947356
+  "isActive": true
 }

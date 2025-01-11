@@ -3,14 +3,20 @@
   "description": "Provides a streamlined authentication solution using Google credentials for secure and easy access.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/3_bears_ai-logo.webp",
+  "logoFile": "logos/3-bears-ai-logo.webp",
   "websiteUrl": "https://app.3bears.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "3bears-ai",
+  "linkedinNum": 89822545,
   "crunchbaseId": "3bears-ai",
+  "ivcId": null,
   "finderId": "3bears-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לשם",
@@ -19,5 +25,7 @@
       "lat": 32.63767005809438,
       "lon": 35.446220634626464
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

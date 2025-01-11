@@ -1,0 +1,31 @@
+{
+  "name": "Lead.im",
+  "description": "Lead.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/lead_im-logo.webp",
+  "websiteUrl": "https://www.lead.im",
+  "careersUrl": null,
+  "linkedinId": "lead-im",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000220556",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מוטה גור",
+      "houseNumber": 5,
+      "city": "פתח תקווה",
+      "lat": 32.0936829,
+      "lon": 34.864529
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

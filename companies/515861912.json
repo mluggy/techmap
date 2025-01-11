@@ -6,12 +6,17 @@
   "logoFile": "logos/maprix.webp",
   "websiteUrl": "https://www.maprix.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 102920567,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "maprix",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוחמי הגיטאות",
@@ -21,5 +26,6 @@
       "lon": 34.89567312415044
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

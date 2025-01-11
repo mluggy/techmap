@@ -6,21 +6,26 @@
   "logoFile": "logos/go_out-logo.webp",
   "websiteUrl": "https://www.go-out.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nights-app",
+  "linkedinNum": 37811246,
   "crunchbaseId": null,
+  "ivcId": "A1000000317093",
   "finderId": "go-out",
   "xId": null,
+  "facebookId": "NightsMobileApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגלעד",
-      "houseNumber": 1,
-      "city": "נתניה",
-      "lat": 32.3101061,
-      "lon": 34.8724037
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "NightsMobileApp",
-  "linkedinNum": 37811246
+  "isActive": true
 }

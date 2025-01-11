@@ -6,11 +6,17 @@
   "logoFile": "logos/sick_sensors-logo.webp",
   "websiteUrl": "https://www.sick.com/",
   "careersUrl": "https://www.sick.com/us/en/company/careers-at-sick/w/careers-listings/",
-  "isHiring": true,
   "linkedinId": "sicksensorintelligence",
+  "linkedinNum": 12346,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sick",
   "xId": "solutionstour",
+  "facebookId": "sicksensorintelligence",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בזלת צור יגאל",
@@ -20,7 +26,6 @@
       "lon": 34.9827171
     }
   ],
-  "isMultinational": true,
-  "facebookId": "sicksensorintelligence",
-  "linkedinNum": 12346
+  "isMultinational": false,
+  "isActive": true
 }

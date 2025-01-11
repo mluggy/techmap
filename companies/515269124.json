@@ -6,21 +6,26 @@
   "logoFile": "logos/lead_spotting-logo.webp",
   "websiteUrl": "https://www.leadspotting.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "leadspotting",
+  "linkedinNum": 714641,
   "crunchbaseId": null,
+  "ivcId": "A1000000198225",
   "finderId": "leadspotting",
   "xId": "leadSpotting",
+  "facebookId": "LeadSpotting",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצורף",
-      "houseNumber": 5,
-      "city": "חולון",
-      "lat": 32.0160501,
-      "lon": 34.8033077
+      "street": "שדרות הפלי\"ם",
+      "houseNumber": 2,
+      "city": "חיפה",
+      "lat": 32.8167795,
+      "lon": 35.0001092
     }
   ],
   "isMultinational": false,
-  "facebookId": "LeadSpotting",
-  "linkedinNum": 714641
+  "isActive": true
 }

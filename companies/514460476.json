@@ -1,16 +1,22 @@
 {
   "name": "Precise Implant Systems",
-  "description": "Dental Implants and Prosthetics",
+  "description": "Dental Implants and Prosthetics.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/precise_implant_systems_e_s-logo.webp",
+  "logoFile": "logos/precise-implant-systems-logo.webp",
   "websiteUrl": "https://precise-is.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "precise-implant-systems-e-s-ltd",
+  "linkedinNum": 13052607,
   "crunchbaseId": null,
+  "ivcId": "A1000000257109",
   "finderId": "precise-implant-systems",
   "xId": null,
+  "facebookId": "Precise-Implant-Systems-1558739584395822",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האילן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Precise-Implant-Systems-1558739584395822"
+  "isActive": true
 }

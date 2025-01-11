@@ -6,11 +6,17 @@
   "logoFile": "logos/redash_i_o-logo.webp",
   "websiteUrl": "https://redash.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10676275,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "redash",
   "xId": "getredash",
+  "facebookId": "getredash",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "getredash",
-  "linkedinNum": 10676275
+  "isActive": true
 }

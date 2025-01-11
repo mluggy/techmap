@@ -1,16 +1,22 @@
 {
   "name": "Pharmocann",
-  "description": "Medical Cannabis Cultivation and R&D",
-  "categoryId": 12,
+  "description": "‏Pharmocann Global has been pioneering Pharma-Grade medical cannabis for more than 14 years, demonstrating significant expertise across the entire value  and supply chain from research, cultivation, and processing, to product development and advanced clinical trials pipeline initiation.",
+  "categoryId": 17,
   "size": "s",
   "logoFile": "logos/pharmocann-logo.webp",
-  "websiteUrl": "https://pharmocann.com/",
+  "websiteUrl": "https://pharmocann.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pharmocann",
+  "linkedinNum": 18450262,
   "crunchbaseId": null,
+  "ivcId": "A1000000245543",
   "finderId": "pharmocan",
   "xId": null,
+  "facebookId": "pharmocann",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חורש האלונים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pharmocann",
-  "linkedinNum": 18450262
+  "isActive": true
 }

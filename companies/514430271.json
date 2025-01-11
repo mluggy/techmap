@@ -6,21 +6,26 @@
   "logoFile": "logos/digital_clues-logo.webp",
   "websiteUrl": "https://www.digitalclues.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "digitalclues",
+  "linkedinNum": 1002903,
   "crunchbaseId": "DigitalClues",
+  "ivcId": null,
   "finderId": "3i-mind",
   "xId": "DigitalCluesAG",
+  "facebookId": "digitalcluesag",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקוביץ",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.078703,
       "lon": 34.7870616
     }
   ],
   "isMultinational": false,
-  "facebookId": "digitalcluesag",
-  "linkedinNum": 1002903
+  "isActive": true
 }

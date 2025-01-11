@@ -6,21 +6,26 @@
   "logoFile": "logos/way_2_vat-logo.webp",
   "websiteUrl": "https://way2vat.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "way2vat",
+  "linkedinNum": 10456022,
   "crunchbaseId": null,
+  "ivcId": "A1000000208764",
   "finderId": "way2vat",
   "xId": null,
+  "facebookId": "way2vat",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
-      "houseNumber": 3,
-      "city": "פתח תקווה",
-      "lat": 32.0900013,
-      "lon": 34.8601803
+      "street": "הברזל",
+      "houseNumber": 34,
+      "city": "תל אביב-יפו",
+      "lat": 32.1091364,
+      "lon": 34.8408152
     }
   ],
   "isMultinational": false,
-  "facebookId": "way2vat",
-  "linkedinNum": 10456022
+  "isActive": true
 }

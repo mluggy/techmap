@@ -6,21 +6,26 @@
   "logoFile": "logos/siteaware_systems-logo.webp",
   "websiteUrl": "https://www.siteaware.com/",
   "careersUrl": "https://www.siteaware.com/careers/",
-  "isHiring": true,
   "linkedinId": "siteawareinc",
+  "linkedinNum": 10265066,
   "crunchbaseId": "dronomy",
+  "ivcId": "A1000000197131",
   "finderId": "dronomy",
   "xId": "SiteAware",
+  "facebookId": "SiteAware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 82,
-      "city": "תל אביב - יפו",
-      "lat": 32.067605,
-      "lon": 34.785948
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322717
     }
   ],
   "isMultinational": false,
-  "facebookId": "SiteAware",
-  "linkedinNum": 10265066
+  "isActive": true
 }

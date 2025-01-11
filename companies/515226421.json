@@ -1,26 +1,31 @@
 {
   "name": "Zipy",
-  "description": "eCommerce Platform for Shopping Abroad",
+  "description": "eCommerce Platform for Shopping Abroad.",
   "categoryId": 9,
   "size": "s",
   "logoFile": "logos/zipy_holdings-logo.webp",
   "websiteUrl": "https://www.zipy.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 9305796,
   "crunchbaseId": "zipy",
+  "ivcId": "A1000000024673",
   "finderId": "zipy",
   "xId": "zipyisrael",
+  "facebookId": "zipy.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סדן דב",
-      "houseNumber": 9,
-      "city": "באר שבע",
-      "lat": 31.2689745,
-      "lon": 34.8054734
+      "street": "נחום הנביא",
+      "houseNumber": 12,
+      "city": "אשדוד",
+      "lat": 31.7824978,
+      "lon": 34.64433870000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "zipy.co.il",
-  "linkedinNum": 9305796
+  "isActive": true
 }

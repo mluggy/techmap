@@ -1,24 +1,31 @@
 {
   "name": "Psybits",
-  "description": "Digital Mental Wellness",
+  "description": "Digital Mental Wellness.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/psybits-logo.webp",
   "websiteUrl": "https://www.psybits.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "psybits",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000429953",
   "finderId": "psybits-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחוזה",
       "houseNumber": 11,
-      "city": "פרדס חנה-כרכור",
-      "lat": 32.4722457,
-      "lon": 34.9929782
+      "city": "פרדס חנה כרכור",
+      "lat": 32.4724,
+      "lon": 34.984499
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/tensera_networks-logo.webp",
   "websiteUrl": "https://tensera.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tensera",
+  "linkedinNum": 28644217,
   "crunchbaseId": "tensera-networks",
+  "ivcId": "A1000000172721",
   "finderId": "tensera-networks",
   "xId": null,
+  "facebookId": "tensera.net",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך הכפר",
-      "houseNumber": 10,
+      "houseNumber": null,
       "city": "עדנים",
-      "lat": 32.13946732952435,
-      "lon": 34.90336203901848
+      "lat": 32.140644,
+      "lon": 34.905722
     }
   ],
   "isMultinational": false,
-  "facebookId": "tensera.net",
-  "linkedinNum": 28644217
+  "isActive": true
 }

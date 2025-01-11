@@ -6,11 +6,17 @@
   "logoFile": "logos/juganu-logo.webp",
   "websiteUrl": "https://juganu.com/",
   "careersUrl": "https://juganu.com/careers/",
-  "isHiring": true,
   "linkedinId": "juganu",
+  "linkedinNum": 13195842,
   "crunchbaseId": null,
+  "ivcId": "A1000000020481",
   "finderId": "juganu",
   "xId": "JuganuLive",
+  "facebookId": "juganultd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהדות קנדה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "juganultd",
-  "linkedinNum": 13195842
+  "isActive": true
 }

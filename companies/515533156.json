@@ -6,21 +6,26 @@
   "logoFile": "logos/aciist_smart_networks-logo.webp",
   "websiteUrl": "https://www.aciist.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aciist",
+  "linkedinNum": 11388311,
   "crunchbaseId": null,
+  "ivcId": "A1000000234053",
   "finderId": "aciist-smart-networks",
   "xId": null,
+  "facebookId": "aciist",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הממשיכים",
-      "houseNumber": 119,
-      "city": "כפר ורבורג",
-      "lat": 31.7199643,
-      "lon": 34.7234577
+      "street": "העלייה השנייה",
+      "houseNumber": 43,
+      "city": "אזור",
+      "lat": 32.0248609,
+      "lon": 34.8028162
     }
   ],
   "isMultinational": false,
-  "facebookId": "aciist",
-  "linkedinNum": 11388311
+  "isActive": true
 }

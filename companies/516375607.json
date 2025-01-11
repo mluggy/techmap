@@ -1,16 +1,22 @@
 {
   "name": "Delight",
-  "description": "A specialized curriculum crafted to facilitate college women in discovering Jesus during their academic journey.",
+  "description": "Delight empowers members with metabolic syndrome and overweight to improve their health and achieve lifelong body transformation.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/delight_method-logo.webp",
-  "websiteUrl": "https://www.delightministries.com/",
+  "websiteUrl": "https://www.delight-method.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000472865",
   "finderId": "delight",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
@@ -20,5 +26,6 @@
       "lon": 34.913719
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

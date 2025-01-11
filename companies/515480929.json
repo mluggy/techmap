@@ -1,0 +1,31 @@
+{
+  "name": "ScootAir",
+  "description": "ScootAir, the only electric scooter manufacturer in Israel, began its journey by two entrepreneurs, Oded and Itzik, who connected through the world of motorcycle design and construction, and acquired knowledge in Israel and abroad.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/scootair-logo.webp",
+  "websiteUrl": "https://www.scootair.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000256593",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 17,
+      "city": "תל אביב-יפו",
+      "lat": 32.0630236,
+      "lon": 34.7850866
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,18 +1,31 @@
 {
   "name": "MyMilk Labs",
-  "description": "A platform for monitoring and analyzing breastfeeding habits.",
+  "description": "MyMilk is a consumer-centered healthcare and wellness company for new mothers and their babies.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/mymilk_laboratories-logo.webp",
-  "websiteUrl": "https://www.mymilklab.com/",
+  "websiteUrl": "https://www.mymilk.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mymilk-labs",
+  "linkedinNum": 9362048,
   "crunchbaseId": "mymilk-labs",
+  "ivcId": "A1000000193412",
   "finderId": "mymilk-laboratories",
   "xId": "mymilklabs",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "mymilkisrael",
-  "linkedinNum": 9362048
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השרון",
+      "houseNumber": null,
+      "city": "הרצליה",
+      "lat": 32.1653367,
+      "lon": 34.8394911
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

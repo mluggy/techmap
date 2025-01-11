@@ -6,20 +6,26 @@
   "logoFile": "logos/kardome_technology-logo.webp",
   "websiteUrl": "https://www.kardome.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kardome",
+  "linkedinNum": 18466718,
   "crunchbaseId": null,
+  "ivcId": "A1000000288990",
   "finderId": "kardome-technology",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ב\"ק ישראל",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.068744,
-      "lon": 34.788052
+      "street": "הגפן",
+      "houseNumber": 30,
+      "city": "מזור",
+      "lat": 32.0530357,
+      "lon": 34.9330874
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18466718
+  "isActive": true
 }

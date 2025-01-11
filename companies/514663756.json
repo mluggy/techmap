@@ -6,11 +6,17 @@
   "logoFile": "logos/finastra_israel_holdco-logo.webp",
   "websiteUrl": "https://www.finastra.com/",
   "careersUrl": "https://careers.finastra.com/jobs",
-  "isHiring": true,
   "linkedinId": "finastra",
+  "linkedinNum": 11153805,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "finastra",
   "xId": "FinastraFS",
+  "facebookId": "FinastraCareers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -20,7 +26,6 @@
       "lon": 34.9281644
     }
   ],
-  "isMultinational": true,
-  "facebookId": "FinastraCareers",
-  "linkedinNum": 11153805
+  "isMultinational": false,
+  "isActive": true
 }

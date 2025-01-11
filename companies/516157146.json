@@ -3,14 +3,20 @@
   "description": "Cloud Security Platform",
   "categoryId": 7,
   "size": "m",
-  "logoFile": "logos/lightspin_technologies-logo.webp",
+  "logoFile": "logos/lightspin-logo.webp",
   "websiteUrl": "https://www.lightspin.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lightspin",
+  "linkedinNum": 68578938,
   "crunchbaseId": "lightspin-technologies-ltd",
+  "ivcId": null,
   "finderId": "lightspin",
   "xId": "LightspinTech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,5 +26,6 @@
       "lon": 34.8605173
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

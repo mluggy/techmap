@@ -1,0 +1,31 @@
+{
+  "name": "Philosoft",
+  "description": "Philosoft's app allows to identify transport stations by GPS location and reads to the passenger the lines that pass through the station and the expected arrival time.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/philosoft-logo.webp",
+  "websiteUrl": "http://blind-mobile.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000299463",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7856258,
+      "lon": 35.2071761
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

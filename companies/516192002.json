@@ -1,26 +1,31 @@
 {
   "name": "Vee",
-  "description": "AI Assistance for Non-Profit Support",
+  "description": "AI Assistance for Non-Profit Support.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/vee_technologies_based_a_i-logo.webp",
   "websiteUrl": "https://www.vee.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "veeapps",
+  "linkedinNum": 51645888,
   "crunchbaseId": null,
+  "ivcId": "A1000000321157",
   "finderId": "vee",
   "xId": null,
+  "facebookId": "VeeApps",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 146,
-      "city": "תל אביב - יפו",
-      "lat": 32.0778351,
-      "lon": 34.794439538025976
+      "city": "תל אביב-יפו",
+      "lat": 32.0930893,
+      "lon": 34.8322702
     }
   ],
   "isMultinational": false,
-  "facebookId": "VeeApps",
-  "linkedinNum": 51645888
+  "isActive": true
 }

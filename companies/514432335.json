@@ -6,11 +6,17 @@
   "logoFile": "logos/a_i_type-logo.webp",
   "websiteUrl": "https://typeset.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "a-i-type",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יונה הנביא",
@@ -19,5 +25,7 @@
       "lat": 31.9103216,
       "lon": 35.0114425
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

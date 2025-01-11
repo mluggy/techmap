@@ -6,21 +6,26 @@
   "logoFile": "logos/aka_foods-logo.webp",
   "websiteUrl": "https://www.aka-food.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "aka-foods",
+  "linkedinNum": 86213116,
   "crunchbaseId": "aka-foods",
+  "ivcId": "A1000000398459",
   "finderId": "aka-foods",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "aka_food/79.00D",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יפו",
-      "houseNumber": 145,
-      "city": "חיפה",
-      "lat": 32.8276768,
-      "lon": 34.9851308
+      "street": "ריב\"ל",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.0624355,
+      "lon": 34.7837482
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86213116,
-  "comeetId": "aka_food/79.00D"
+  "isActive": true
 }

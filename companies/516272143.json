@@ -1,16 +1,22 @@
 {
   "name": "Belle AI",
-  "description": "Forecasting Technology for Retailers",
+  "description": "Forecasting Technology for Retailers.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/belle_ai-logo.webp",
   "websiteUrl": "https://belle-ai.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "belle-ai",
+  "linkedinNum": 80325888,
   "crunchbaseId": null,
+  "ivcId": "A1000000261227",
   "finderId": "belle-ai",
   "xId": null,
+  "facebookId": "fashionbelleai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "fashionbelleai",
-  "linkedinNum": 80325888
+  "isActive": true
 }

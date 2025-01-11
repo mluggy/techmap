@@ -1,17 +1,22 @@
 {
   "name": "Medyx.ai",
-  "description": "Cloud-based Digital Health Services for Businesses and Healthcare Organizations",
+  "description": "Cloud-based Digital Health Services for Businesses and Healthcare Organizations.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/medyx-ai-inc.webp",
   "websiteUrl": "https://www.medyx.ai",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 65839754,
   "crunchbaseId": null,
+  "ivcId": "A1000000326328",
   "finderId": "medyx-ai-inc",
   "xId": "medyx_ai",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סלעית",
@@ -21,5 +26,6 @@
       "lon": 35.00896111936235
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

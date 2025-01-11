@@ -1,17 +1,23 @@
 {
   "name": "Via Cool",
-  "description": "AI-based Food Safety Platform for Fresh Produce",
+  "description": "AI-based Food Safety Platform for Fresh Produce.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/via_cool-logo.webp",
+  "logoFile": "logos/via-cool-logo.webp",
   "websiteUrl": "https://www.via-cool.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "via-cool",
+  "linkedinNum": 76487714,
   "crunchbaseId": "via-cool",
+  "ivcId": "A1000000352110",
   "finderId": "via-cool",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [],
   "isMultinational": false,
-  "linkedinNum": 76487714
+  "isActive": true
 }

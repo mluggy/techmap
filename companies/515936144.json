@@ -6,11 +6,17 @@
   "logoFile": "logos/caps_medical-logo.webp",
   "websiteUrl": "https://www.capsmedical.com/",
   "careersUrl": "https://www.capsmedical.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "capsmedical",
+  "linkedinNum": 12664432,
   "crunchbaseId": null,
+  "ivcId": "A1000000268052",
   "finderId": "caps-medical1",
   "xId": null,
+  "facebookId": "100063696213117",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "100063696213117",
-  "linkedinNum": 12664432
+  "isActive": true
 }

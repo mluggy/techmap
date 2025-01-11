@@ -1,0 +1,31 @@
+{
+  "name": "Urban Digital",
+  "description": "Urban Digital is laying the foundations for a smart city and its urban space, using digital platforms designed to help improve residents sense of orientation while reducing the city’s operational costs and resources.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/urban_digital-logo.webp",
+  "websiteUrl": "https://urban-digital.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000234123",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הירמוך",
+      "houseNumber": 1,
+      "city": "יבנה",
+      "lat": 31.8878398,
+      "lon": 34.7312938
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

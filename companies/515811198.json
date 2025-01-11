@@ -6,11 +6,17 @@
   "logoFile": "logos/buff_technologies-logo.webp",
   "websiteUrl": "https://www.buff.game/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "buff-game",
+  "linkedinNum": 18554759,
   "crunchbaseId": null,
+  "ivcId": "A1000000271101",
   "finderId": "buff",
   "xId": "BUFF_Team",
+  "facebookId": "buff.game",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנוטע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "buff.game",
-  "linkedinNum": 18554759
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Helfy",
+  "description": "Helfy aims to improve the wellness and lifestyle of others through better healthcare services.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/helfy-logo.webp",
+  "websiteUrl": "https://helfy.co",
+  "careersUrl": "https://helfy.co/#career-section",
+  "linkedinId": "helfy-online",
+  "linkedinNum": 77044459,
+  "crunchbaseId": null,
+  "ivcId": "A1000000404160",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יהודה המכבי",
+      "houseNumber": 16,
+      "city": "הרצליה",
+      "lat": 32.1693688,
+      "lon": 34.8013278
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

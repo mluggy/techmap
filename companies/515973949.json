@@ -6,20 +6,26 @@
   "logoFile": "logos/genufeed-logo.webp",
   "websiteUrl": "https://www.genufeed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "genufeed",
+  "linkedinNum": 18936042,
   "crunchbaseId": null,
+  "ivcId": "A1000000400233",
   "finderId": "genufeed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 1,
-      "city": "רמת גן",
-      "lat": 32.0828111,
-      "lon": 34.799941
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 92,
+      "city": "בני ברק",
+      "lat": 32.0914156,
+      "lon": 34.8313182
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18936042
+  "isActive": true
 }

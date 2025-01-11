@@ -6,21 +6,26 @@
   "logoFile": "logos/cogniteam-logo.webp",
   "websiteUrl": "https://cogniteam.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cogniteam",
+  "linkedinNum": 5085458,
   "crunchbaseId": null,
+  "ivcId": "A1000000206028",
   "finderId": "cogniteam",
   "xId": "Cogniteam_IL",
+  "facebookId": "Cogniteam-524785197595456",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השחר",
-      "houseNumber": 31,
-      "city": "כפר סבא",
-      "lat": 32.1807675,
-      "lon": 34.90979
+      "street": "הסיבים",
+      "houseNumber": 18,
+      "city": "פתח תקווה",
+      "lat": 32.0884756,
+      "lon": 34.8565391
     }
   ],
   "isMultinational": false,
-  "facebookId": "Cogniteam-524785197595456",
-  "linkedinNum": 5085458
+  "isActive": true
 }

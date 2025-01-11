@@ -6,20 +6,26 @@
   "logoFile": "logos/valfix_medical-logo.webp",
   "websiteUrl": "https://www.valfixmed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "valfix-medical",
+  "linkedinNum": 27175846,
   "crunchbaseId": null,
+  "ivcId": "A1000000297311",
   "finderId": "valfix-medical",
   "xId": "Valfixmed",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 126,
-      "city": "תל אביב - יפו",
-      "lat": 32.074473,
-      "lon": 34.795669
+      "street": "מנורת המאור",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0745134,
+      "lon": 34.7965828
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27175846
+  "isActive": true
 }

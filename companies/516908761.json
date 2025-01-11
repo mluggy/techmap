@@ -1,0 +1,31 @@
+{
+  "name": "Mylo AI",
+  "description": "Mylo AI develops a dating app that tracks the suitable result for the users, using its AI-powered algorithm to find the ones that match with their taste and connect between them.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/mylo_ai-logo.webp",
+  "websiteUrl": "https://www.mylo.dating",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000490559",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "צ'לנוב",
+      "houseNumber": 22,
+      "city": "תל אביב-יפו",
+      "lat": 32.0575362,
+      "lon": 34.7747852
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,23 +1,31 @@
 {
   "name": "Osti Systems",
-  "description": "A primary search engine for Department of Energy science and technology information.",
-  "categoryId": 6,
-  "size": "xs",
-  "logoFile": "logos/osti_systems-logo.webp",
-  "websiteUrl": "https://www.osti.gov/",
+  "description": "OSTI enables any manufacturer, contractor, or OEM through its integrated hardware solution, “The Cerebro” and its operating system (MissionCoreOS), the ability to transform any aerial platform into an autonomous device, allowing seamless integration to a variety of AI applications and payload integration, “off the shelf”.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/osti-systems-logo.webp",
+  "websiteUrl": "https://www.osti.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "osti-ltd",
+  "linkedinNum": 76263083,
   "crunchbaseId": null,
+  "ivcId": "A1000000470403",
   "finderId": "osti",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 34,
-      "city": "תל אביב - יפו",
-      "lat": 32.11006275,
-      "lon": 34.84225851145355
+      "city": "תל אביב-יפו",
+      "lat": 32.1091364,
+      "lon": 34.8408152
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,18 +1,31 @@
 {
   "name": "Metabolic Robots Feeding Solutions",
-  "description": "AI-powered Autonomous Farming Systems",
+  "description": "AI-powered Autonomous Farming Systems.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/metabolic_robots_feeding_solutions-logo.webp",
   "websiteUrl": "https://metabolic-robots.business.site/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "metabolic-robots",
+  "linkedinNum": 3037057,
   "crunchbaseId": "metabolic-robots",
+  "ivcId": "A1000000021186",
   "finderId": "metabolic-robots",
   "xId": "metabolicrobots",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "MetabolicRobots",
-  "linkedinNum": 3037057
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברושים",
+      "houseNumber": null,
+      "city": "זכרון יעקב",
+      "lat": 32.5750154,
+      "lon": 34.9507955
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

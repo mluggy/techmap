@@ -1,16 +1,22 @@
 {
   "name": "SolarEdge Technologies",
-  "description": "Renewable Energy Semiconductor Manufacturing",
+  "description": "Renewable Energy Semiconductor Manufacturing.",
   "categoryId": 17,
   "size": "l",
   "logoFile": "logos/solaredge_technologies-logo.webp",
   "websiteUrl": "https://www.solaredge.com/en",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "solaredge",
+  "linkedinNum": 361424,
   "crunchbaseId": null,
+  "ivcId": "A1000000008161",
   "finderId": "solaredge-technologies",
   "xId": "SolarEdgePV",
+  "facebookId": "SolaredgePV",
+  "breezyId": null,
+  "comeetId": "SolarEdge/71.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SolaredgePV",
-  "linkedinNum": 361424,
-  "comeetId": "SolarEdge/71.00A"
+  "isActive": true
 }

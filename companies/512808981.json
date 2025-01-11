@@ -1,0 +1,31 @@
+{
+  "name": "Mifram",
+  "description": "Mifram is one of Israel's leading multidisciplinary firms which successfully combines industrial and civil engineering projects.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/mifram-logo.webp",
+  "websiteUrl": "https://www.mifram.com/en/",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000219859",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חיים",
+      "houseNumber": 22,
+      "city": "קריית ביאליק",
+      "lat": 32.852422,
+      "lon": 35.099049
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

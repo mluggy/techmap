@@ -6,11 +6,17 @@
   "logoFile": "logos/innovopro-logo.webp",
   "websiteUrl": "https://innovopro.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "innovopro",
+  "linkedinNum": 18428905,
   "crunchbaseId": null,
+  "ivcId": "A1000000010465",
   "finderId": "innovopro",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השיזף",
@@ -20,5 +26,6 @@
       "lon": 34.8855377
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

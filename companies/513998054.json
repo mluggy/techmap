@@ -6,11 +6,17 @@
   "logoFile": "logos/innodata_israel-logo.webp",
   "websiteUrl": "https://innodata.com/",
   "careersUrl": "https://innodata.com/career/",
-  "isHiring": true,
   "linkedinId": "innodata-inc-",
+  "linkedinNum": 10827,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "innodata",
   "xId": "innodata",
+  "facebookId": "IsraelInnodata",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרית מדע",
@@ -20,7 +26,6 @@
       "lon": 35.2107974
     }
   ],
-  "isMultinational": true,
-  "facebookId": "IsraelInnodata",
-  "linkedinNum": 10827
+  "isMultinational": false,
+  "isActive": true
 }

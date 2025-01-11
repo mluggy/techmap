@@ -6,21 +6,26 @@
   "logoFile": "logos/pulsenmore-logo.webp",
   "websiteUrl": "https://pulsenmore.com/",
   "careersUrl": "https://pulsenmore.com/jobs/",
-  "isHiring": true,
   "linkedinId": "pulsenmore",
+  "linkedinNum": 73240861,
   "crunchbaseId": null,
+  "ivcId": "A1000000192213",
   "finderId": "pulsenmore",
   "xId": "pulsenmore",
+  "facebookId": "Pulsenmore",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עומרים",
       "houseNumber": 8,
       "city": "עומר",
-      "lat": 31.2712166,
-      "lon": 34.8421314
+      "lat": 31.2723374,
+      "lon": 34.8357073
     }
   ],
   "isMultinational": false,
-  "facebookId": "Pulsenmore",
-  "linkedinNum": 73240861
+  "isActive": true
 }

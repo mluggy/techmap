@@ -4,13 +4,19 @@
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/junimo-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.junimo.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "junimo-ltd",
+  "linkedinNum": 86777347,
   "crunchbaseId": null,
+  "ivcId": "A1000000477515",
   "finderId": "junimo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +25,7 @@
       "lat": 32.0839585,
       "lon": 34.8064497
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/qubex.webp",
   "websiteUrl": "https://www.qubex.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "qubex-ai",
   "linkedinNum": 93254650,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "qubex",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלוף מגן קלמן",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.048823200309535,
       "lon": 34.793068637176205
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/trainpain-logo.webp",
   "websiteUrl": "https://www.trainpain.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 73884013,
   "crunchbaseId": null,
+  "ivcId": "A1000000267442",
   "finderId": "trainpain",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קויפמן יחזקאל",
+      "street": "פרופסור יחזקאל קויפמן",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.063117,
-      "lon": 34.762003
+      "city": "תל אביב-יפו",
+      "lat": 32.0630953,
+      "lon": 34.7622538
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 73884013
+  "isActive": true
 }

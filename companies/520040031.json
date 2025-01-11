@@ -1,16 +1,22 @@
 {
   "name": "Thales",
   "description": "They ensure the security and access of your most sensitive data and software globally.",
-  "size": "m",
   "categoryId": 7,
+  "size": "m",
   "logoFile": "logos/thales_dis_israel-logo.webp",
   "websiteUrl": "https://www.thalesgroup.com",
   "careersUrl": "https://careers.thalesgroup.com/global/en/home",
-  "isHiring": true,
   "linkedinId": "thales",
+  "linkedinNum": 1951,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "thales",
   "xId": "thalesusa",
+  "facebookId": "thalesgroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אפעל",
@@ -20,7 +26,6 @@
       "lon": 34.84795202515514
     }
   ],
-  "isMultinational": true,
-  "facebookId": "thalesgroup",
-  "linkedinNum": 1951
+  "isMultinational": false,
+  "isActive": true
 }

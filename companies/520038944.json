@@ -1,16 +1,22 @@
 {
   "name": "Verifone",
   "description": "Contact sales for access to developer resources and APIs.",
-  "size": "l",
   "categoryId": 18,
+  "size": "l",
   "logoFile": "logos/verifone_israel-logo.webp",
   "websiteUrl": "https://verifone.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "verifone",
+  "linkedinNum": 5005,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "verifone",
   "xId": "Verifone?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+  "facebookId": "Verifone",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "verifone",
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -20,8 +26,6 @@
       "lon": 34.9105972
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Verifone",
-  "linkedinNum": 5005,
-  "greenhouseId": "verifone"
+  "isMultinational": false,
+  "isActive": true
 }

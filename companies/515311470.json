@@ -6,21 +6,26 @@
   "logoFile": "logos/fre_skincare-logo.webp",
   "websiteUrl": "https://www.freskincare.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "freskincare",
+  "linkedinNum": 10692214,
   "crunchbaseId": null,
+  "ivcId": "A1000000328968",
   "finderId": "fre-skincare",
   "xId": "freskincare",
+  "facebookId": "freskincare",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.107465,
-      "lon": 34.827939
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "freskincare",
-  "linkedinNum": 10692214
+  "isActive": true
 }

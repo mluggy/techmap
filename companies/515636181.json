@@ -1,0 +1,31 @@
+{
+  "name": "Fast Corporate",
+  "description": "Fast Corporate has various PC products, mainly:.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/fast_corporate-logo.webp",
+  "websiteUrl": "https://fastcorporate.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000368860",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנופר",
+      "houseNumber": 2,
+      "city": "רעננה",
+      "lat": 32.194183,
+      "lon": 34.8834307
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

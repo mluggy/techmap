@@ -1,18 +1,31 @@
 {
   "name": "Hisense",
-  "description": "Health Monitoring Technology",
+  "description": "Health Monitoring Technology.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/hisense_ltd-logo.webp",
   "websiteUrl": "https://www.hisense.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "babysense",
+  "linkedinNum": 7191970,
   "crunchbaseId": null,
+  "ivcId": "A1000000003634",
   "finderId": "hisense-medical",
   "xId": "BabySenseLLC",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "BabysenseMonitors",
-  "linkedinNum": 7191970
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שקד",
+      "houseNumber": 27,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8919557,
+      "lon": 35.0110905
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/delarix_i_d-logo.webp",
   "websiteUrl": "https://www.delarix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "delarix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תנופה",
@@ -20,5 +26,6 @@
       "lon": 34.972039831346116
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "PARX",
-  "description": "Parking Management Solutions",
+  "description": "Parking Management Solutions.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/parx-logo.webp",
   "websiteUrl": "https://www.parxglobal.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "parx-wise-parking-solutions",
+  "linkedinNum": 2447731,
   "crunchbaseId": null,
+  "ivcId": "A1000000009813",
   "finderId": "parx",
   "xId": "parxsps",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אזור תעשייה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2447731
+  "isActive": true
 }

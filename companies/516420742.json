@@ -6,11 +6,17 @@
   "logoFile": "logos/novvo_central-logo.webp",
   "websiteUrl": "https://www.novvo.ai/",
   "careersUrl": "https://www.novonordisk.com/careers.html",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 90942938,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "novvo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קדם",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90942938
+  "isActive": true
 }

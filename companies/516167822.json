@@ -3,22 +3,29 @@
   "description": "They are pioneers in advanced 3D-printing technology for custom silicone implants and diverse applications.",
   "categoryId": 15,
   "size": "xs",
-  "logoFile": "logos/3_d_sil-logo.webp",
+  "logoFile": "logos/3d-sil-logo.webp",
   "websiteUrl": "https://3dsil.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "3dsil",
+  "linkedinNum": 66606604,
   "crunchbaseId": null,
+  "ivcId": "A1000000370166",
   "finderId": "3d-sil",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 22,
       "city": "ראש העין",
-      "lat": 32.1088976,
-      "lon": 34.9653972
+      "lat": 32.1068957,
+      "lon": 34.9712257
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/hydrolite-logo.webp",
   "websiteUrl": "https://www.hydrolite-h2.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hydroliteh2",
+  "linkedinNum": 19025325,
   "crunchbaseId": null,
+  "ivcId": "A1000000336263",
   "finderId": "pocelltech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטוחן",
       "houseNumber": 2,
       "city": "קיסריה",
-      "lat": 32.4863102,
-      "lon": 34.9521262
+      "lat": 32.4850244,
+      "lon": 34.9455816
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 19025325
+  "isActive": true
 }

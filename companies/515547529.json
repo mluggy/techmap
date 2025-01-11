@@ -1,0 +1,31 @@
+{
+  "name": "Brainkos",
+  "description": "Brainkos is building a platform where students can learn and do their homework in an addictive gaming environment.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/brainkos-logo.webp",
+  "websiteUrl": "https://www.brainko.com",
+  "careersUrl": "https://www.brainko.com/careers",
+  "linkedinId": "brainkos",
+  "linkedinNum": 17888325,
+  "crunchbaseId": null,
+  "ivcId": "A1000000225272",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 28,
+      "city": "חיפה",
+      "lat": 32.8193048,
+      "lon": 35.0004499
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

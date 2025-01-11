@@ -1,25 +1,31 @@
 {
   "name": "Antic",
-  "description": "The Smart Checkout forShared Payments and Purchases",
+  "description": "The Smart Checkout forShared Payments and Purchases.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/multeez-logo.webp",
   "websiteUrl": "https://www.getantic.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "anticxyz",
+  "linkedinNum": 76513125,
   "crunchbaseId": null,
+  "ivcId": "A1000000369720",
   "finderId": "multeez",
   "xId": "Getantic",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבא הלל סילבר",
-      "houseNumber": 16,
-      "city": "רמת גן",
-      "lat": 32.0861273,
-      "lon": 34.8054589
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76513125
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/boon_today-logo.webp",
   "websiteUrl": "https://www.boon.today/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18047062,
   "crunchbaseId": "boon-today",
+  "ivcId": null,
   "finderId": "watch-and-give",
   "xId": "boontoday",
+  "facebookId": "boon.today.world",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בן גוריון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "boon.today.world",
-  "linkedinNum": 18047062
+  "isActive": true
 }

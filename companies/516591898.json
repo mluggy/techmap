@@ -6,20 +6,26 @@
   "logoFile": null,
   "websiteUrl": "https://miragedynamics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mirage-dynamics",
+  "linkedinNum": 80055856,
   "crunchbaseId": null,
+  "ivcId": "A1000000326917",
   "finderId": "mirage-dynamics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חלקיקי האור",
-      "houseNumber": 16,
-      "city": "באר שבע",
-      "lat": 31.2638117,
-      "lon": 34.8121724
+      "street": "דרך חברון",
+      "houseNumber": 28,
+      "city": "ירושלים",
+      "lat": 31.7665868,
+      "lon": 35.225192
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80055856
+  "isActive": true
 }

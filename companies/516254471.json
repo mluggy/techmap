@@ -1,16 +1,22 @@
 {
   "name": "Selene Therapeutics",
-  "description": "Epilepsy Therapy",
+  "description": "Selene Therapeutics is pioneering a new therapeutic strategy for treating refractory epilepsy – regulation of the neuronal activity set point by reduction of the  neuronal mean firing rate (MFR).",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/selene_therapeutics-logo.webp",
-  "websiteUrl": "https://www.futurx.co.il/portfolio/selene-therapeutics/",
+  "websiteUrl": "https://www.selenetx.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "selenetx",
+  "linkedinNum": 75889240,
   "crunchbaseId": null,
+  "ivcId": "A1000000336863",
   "finderId": "selene-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75889240
+  "isActive": true
 }

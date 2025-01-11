@@ -1,26 +1,31 @@
 {
   "name": "Fillip",
-  "description": "Crowdsourced Job Recruitment",
+  "description": "Crowdsourced Job Recruitment.",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/fillip_sharing_economy-logo.webp",
   "websiteUrl": "https://www.fillip.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fillip-co",
+  "linkedinNum": 9475029,
   "crunchbaseId": null,
+  "ivcId": "A1000000187251",
   "finderId": "fillip",
   "xId": "FillipApp",
+  "facebookId": "Fillip.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרעות",
-      "houseNumber": 29,
-      "city": "נווה אילן",
-      "lat": 31.806645913651433,
-      "lon": 35.08113696120877
+      "street": "דרך חברון",
+      "houseNumber": 24,
+      "city": "ירושלים",
+      "lat": 31.7670343,
+      "lon": 35.2258017
     }
   ],
   "isMultinational": false,
-  "facebookId": "Fillip.co",
-  "linkedinNum": 9475029
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/easy_line-logo.webp",
   "websiteUrl": "https://easyline.co.il/en/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "easy-line",
   "xId": null,
+  "facebookId": "%D7%97%D7%91%D7%A8%D7%AA-%D7%90%D7%99%D7%96%D7%99-%D7%9C%D7%99%D7%99%D7%9F-142210735963234",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטוחן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "%D7%97%D7%91%D7%A8%D7%AA-%D7%90%D7%99%D7%96%D7%99-%D7%9C%D7%99%D7%99%D7%9F-142210735963234"
+  "isActive": true
 }

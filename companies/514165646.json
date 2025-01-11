@@ -3,23 +3,29 @@
   "description": "This company offers an innovative product that combines a bike seat with a folding lock, available in two models and various colors.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/ino_vision-logo.webp",
+  "logoFile": "logos/ino-vision-logo.webp",
   "websiteUrl": "https://seatylock.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "seatylock-ino-vision-ltd",
+  "linkedinNum": 35678172,
   "crunchbaseId": null,
+  "ivcId": "A1000000203575",
   "finderId": "seatylock",
   "xId": null,
+  "facebookId": "Seatylock-431099920261863",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זכריה",
+      "street": "זכריה רצאבי",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.09511,
-      "lon": 34.777448
+      "city": "תל אביב-יפו",
+      "lat": 32.0469343,
+      "lon": 34.8022263
     }
   ],
   "isMultinational": false,
-  "facebookId": "Seatylock-431099920261863"
+  "isActive": true
 }

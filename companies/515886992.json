@@ -1,0 +1,31 @@
+{
+  "name": "Brain.Space",
+  "description": "Brain.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/brain-space-logo.webp",
+  "websiteUrl": "https://www.brain.space",
+  "careersUrl": "https://www.brain.space/careers/",
+  "linkedinId": "gobrainspace",
+  "linkedinNum": 67347972,
+  "crunchbaseId": null,
+  "ivcId": "A1000000380299",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.0703364,
+      "lon": 34.7831746
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

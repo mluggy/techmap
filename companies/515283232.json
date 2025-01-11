@@ -1,24 +1,31 @@
 {
   "name": "TrioxNano",
-  "description": "Programmable Medicine using synthetic DNA molecular machines",
-  "categoryId": 12,
+  "description": "TrioxBio Inc. is a clinical-stage biotech company specializing in the development of compounds to treat diseases and medical conditions related to the pathological overproduction of Nitric Oxide (NO).",
+  "categoryId": 16,
   "size": "xs",
   "logoFile": "logos/trioxnano-logo.webp",
-  "websiteUrl": "https://www.trioxnano.com",
+  "websiteUrl": "https://programedicine.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trioxnano-programmed-medicine",
+  "linkedinNum": 92835002,
   "crunchbaseId": null,
+  "ivcId": "A1000000213479",
   "finderId": "trioxnano",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גולדה מאיר",
-      "houseNumber": 3,
-      "city": "נס ציונה",
-      "lat": 31.9137859,
-      "lon": 34.8024773
+      "street": "Safra",
+      "houseNumber": null,
+      "city": "Jerusalem",
+      "lat": 31.7742708,
+      "lon": 35.2007044
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

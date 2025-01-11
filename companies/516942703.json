@@ -1,16 +1,22 @@
 {
   "name": "Liberty Pixel",
-  "description": "An advanced AI language model by OpenAI that creates human-like text based on contextual understanding.",
-  "categoryId": 1,
+  "description": "Liberty Pixel is a casual gaming company with a passion for creating fun and engaging games for players of all ages.",
+  "categoryId": 8,
   "size": "xs",
-  "logoFile": "logos/liberty_pixel-logo.webp",
-  "websiteUrl": "https://chat.openai.com/",
+  "logoFile": "logos/liberty-pixel-logo.webp",
+  "websiteUrl": "https://libertypixel.games",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "libertypixel",
+  "linkedinNum": 92812255,
   "crunchbaseId": null,
+  "ivcId": "A1000000471756",
   "finderId": "liberty-pixel",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -19,5 +25,7 @@
       "lat": 32.0920416,
       "lon": 34.8239345
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

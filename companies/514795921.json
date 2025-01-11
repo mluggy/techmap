@@ -6,21 +6,26 @@
   "logoFile": "logos/sound_radix-logo.webp",
   "websiteUrl": "https://www.soundradix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sound-radix",
+  "linkedinNum": 3264008,
   "crunchbaseId": null,
+  "ivcId": "A1000000290550",
   "finderId": "sound-radix",
   "xId": "soundradix",
+  "facebookId": "soundradix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 31,
-      "city": "תל אביב - יפו",
-      "lat": 32.063789,
-      "lon": 34.773213
+      "city": "תל אביב-יפו",
+      "lat": 32.063831,
+      "lon": 34.7731644
     }
   ],
   "isMultinational": false,
-  "facebookId": "soundradix",
-  "linkedinNum": 3264008
+  "isActive": true
 }

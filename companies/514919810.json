@@ -1,17 +1,22 @@
 {
   "name": "MASSIVit 3D Printing Technologies",
-  "description": "Rapid, High-volume 3D Printing Solutions",
+  "description": "Rapid, High-volume 3D Printing Solutions.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/massivit3d.webp",
   "websiteUrl": "https://www.massivit3d.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "massivit3d",
   "linkedinNum": 9383658,
   "crunchbaseId": null,
+  "ivcId": "A1000000175122",
   "finderId": "massivit3d",
   "xId": "massivit3d",
   "facebookId": "massivit3dprinting",
+  "breezyId": null,
+  "comeetId": "massivit/39.007",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לב פסח",
@@ -22,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinId": "massivit3d",
-  "comeetId": "massivit/39.007"
+  "isActive": true
 }

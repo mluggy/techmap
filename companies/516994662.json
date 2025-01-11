@@ -1,0 +1,31 @@
+{
+  "name": "Cyata Security",
+  "description": "In stealth mode.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/cyata_security-logo.webp",
+  "websiteUrl": "https://www.cyata.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491661",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 144,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322718
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,17 +1,31 @@
 {
   "name": "Avery Dennison",
   "description": "Offering customizable labels, stickers, tags, and cards in various sizes, shapes, and quantities online.",
-  "size": "m",
   "categoryId": 9,
-  "logoFile": "logos/avery_dennison_israel-logo.webp",
+  "size": "m",
+  "logoFile": "logos/avery-dennison-logo.webp",
   "websiteUrl": "https://www.averydennison.com",
   "careersUrl": "https://www.averydennison.com/en/home/careers/overview.html",
-  "isHiring": true,
   "linkedinId": "avery-dennison",
+  "linkedinNum": 3321,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "avery-dennison",
   "xId": "averydennison",
-  "addresses": [],
-  "isMultinational": true,
-  "facebookId": "AveryDennisonCorporation"
+  "facebookId": "AveryDennisonCorporation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": 8,
+      "city": "קיבוץ חניתה",
+      "lat": 33.08835185908934,
+      "lon": 35.17262672964193
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

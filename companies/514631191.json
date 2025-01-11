@@ -6,21 +6,26 @@
   "logoFile": "logos/mylefly-logo.webp",
   "websiteUrl": "https://www.mylefly.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mylefly",
+  "linkedinNum": 3047871,
   "crunchbaseId": null,
+  "ivcId": "A1000000021474",
   "finderId": "mylefly",
   "xId": "mylefly",
+  "facebookId": "MyleFly",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פורצי הדרך",
-      "houseNumber": 24,
+      "street": "מדינת היהודים",
+      "houseNumber": 62,
       "city": "הרצליה",
-      "lat": 32.1626088,
-      "lon": 34.8632079
+      "lat": 32.1657091,
+      "lon": 34.8106219
     }
   ],
   "isMultinational": false,
-  "facebookId": "MyleFly",
-  "linkedinNum": 3047871
+  "isActive": true
 }

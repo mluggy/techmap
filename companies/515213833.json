@@ -1,17 +1,31 @@
 {
   "name": "HomeNet Payments",
-  "description": "House Management Committee Platform",
+  "description": "House Management Committee Platform.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/homenet_payments-logo.webp",
   "websiteUrl": "https://www.homenet.org.il",
   "careersUrl": "https://www.homenetauto.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "homenet-payments",
+  "ivcId": "A1000000217477",
   "finderId": "homenet-payments-ltd",
   "xId": null,
-  "addresses": [],
+  "facebookId": "HomeNet.org.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "כפר מונש",
+      "lat": 32.345607,
+      "lon": 34.916426
+    }
+  ],
   "isMultinational": false,
-  "facebookId": "HomeNet.org.il"
+  "isActive": true
 }

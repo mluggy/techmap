@@ -1,0 +1,31 @@
+{
+  "name": "Gaia Biotechnologies",
+  "description": "Gaia-Bio harnesses bacteria to benefit humanity and the environment.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/gaia_biotechnologies-logo.webp",
+  "websiteUrl": "https://gaiabiotechnologies.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000372519",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב הנשיא יצחק בן צבי",
+      "houseNumber": 31,
+      "city": "הרצליה",
+      "lat": 32.1855205,
+      "lon": 34.8124239
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

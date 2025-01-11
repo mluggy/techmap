@@ -6,22 +6,26 @@
   "logoFile": "logos/personetics-logo.webp",
   "websiteUrl": "https://personetics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "personetics",
+  "linkedinNum": 1844976,
   "crunchbaseId": null,
+  "ivcId": "A1000000001196",
   "finderId": "personetics",
   "xId": "Personetics",
+  "facebookId": "Personetics",
+  "breezyId": null,
+  "comeetId": "personetics/83.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות רוטשילד",
-      "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.063274,
-      "lon": 34.771504
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
   "isMultinational": false,
-  "facebookId": "Personetics",
-  "linkedinNum": 1844976,
-  "comeetId": "personetics/83.00A"
+  "isActive": true
 }

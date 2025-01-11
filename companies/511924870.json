@@ -6,11 +6,17 @@
   "logoFile": "logos/texas_instruments_israel_ltd-logo.webp",
   "websiteUrl": "https://www.ti.com/",
   "careersUrl": "https://careers.ti.com/",
-  "isHiring": true,
   "linkedinId": "texas-instruments",
+  "linkedinNum": 1397,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "texas-instruments",
   "xId": "txinstruments",
+  "facebookId": "texasinstruments",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -20,7 +26,6 @@
       "lon": 34.8826915
     }
   ],
-  "isMultinational": true,
-  "facebookId": "texasinstruments",
-  "linkedinNum": 1397
+  "isMultinational": false,
+  "isActive": true
 }

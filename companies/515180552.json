@@ -1,0 +1,31 @@
+{
+  "name": "Local Story",
+  "description": "Local Story is a web and mobile application designed to capture the story of the place where they belong.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/local_story-logo.webp",
+  "websiteUrl": "http://localtimeline.com/",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000247056",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "רמת גן",
+      "lat": 32.046795,
+      "lon": 34.835033
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

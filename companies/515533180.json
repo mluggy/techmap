@@ -6,21 +6,26 @@
   "logoFile": "logos/chargeafter-logo.webp",
   "websiteUrl": "https://chargeafter.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "chargeafter",
+  "linkedinNum": 18014047,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "chargeafter",
   "xId": "ChargeAfter",
+  "facebookId": "ChargeAfter",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "facebookId": "ChargeAfter",
-  "linkedinNum": 18014047
+  "isActive": true
 }

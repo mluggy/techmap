@@ -6,21 +6,26 @@
   "logoFile": "logos/lets_bench-logo.webp",
   "websiteUrl": "https://letsbench.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "let%27s-bench",
+  "linkedinNum": 2038723,
   "crunchbaseId": null,
+  "ivcId": "A1000000023552",
   "finderId": "let-s-bench",
   "xId": "letsbench",
+  "facebookId": "letsbench",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך חברון",
-      "houseNumber": 155,
+      "houseNumber": 52,
       "city": "ירושלים",
-      "lat": 31.7316844,
-      "lon": 35.20565
+      "lat": 31.7600692,
+      "lon": 35.2236675
     }
   ],
   "isMultinational": false,
-  "facebookId": "letsbench",
-  "linkedinNum": 2038723
+  "isActive": true
 }

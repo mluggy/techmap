@@ -1,17 +1,31 @@
 {
   "name": "Super Fine",
-  "description": "Milling Technology for Particle Size Reduction",
+  "description": "Milling Technology for Particle Size Reduction.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/super_fine-logo.webp",
   "websiteUrl": "https://www.superfinemicro.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "super-fine",
+  "linkedinNum": 82019836,
   "crunchbaseId": null,
+  "ivcId": "A1000000004813",
   "finderId": "super-fine",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "טבריה",
+      "lat": 32.795859,
+      "lon": 35.530973
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 82019836
+  "isActive": true
 }

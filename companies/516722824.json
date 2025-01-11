@@ -1,24 +1,31 @@
 {
   "name": "YuBru",
-  "description": "Provides tools for students to search and access their class schedules using course codes.",
+  "description": "YuBryu is optimizing the way people consume coffee via AI technology.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/yubru-logo.webp",
-  "websiteUrl": "https://reg.ubru.ac.th/",
+  "websiteUrl": "https://yubrucoffee.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000432961",
   "finderId": "yubru",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גלילי ישראל",
+      "street": "ישראל גלילי",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.100132,
-      "lon": 34.785434
+      "city": "תל אביב-יפו",
+      "lat": 32.1001335,
+      "lon": 34.7854335
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

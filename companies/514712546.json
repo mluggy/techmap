@@ -6,21 +6,26 @@
   "logoFile": "logos/imagine_machine_israel-logo.webp",
   "websiteUrl": "https://imaginemachine.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "imagine-machine",
+  "linkedinNum": 1604413,
   "crunchbaseId": null,
+  "ivcId": "A1000000181413",
   "finderId": "imagine-machine",
   "xId": "imaginemachine",
+  "facebookId": "iMaginemachine",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אמזלג",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.060115,
-      "lon": 34.765568
+      "street": "20",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0844826,
+      "lon": 34.7978914
     }
   ],
   "isMultinational": false,
-  "facebookId": "iMaginemachine",
-  "linkedinNum": 1604413
+  "isActive": true
 }

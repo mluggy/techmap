@@ -1,25 +1,31 @@
 {
   "name": "SuperTrans Medical",
-  "description": "Novel Antibiotics for Targeting Resistant Bacteria",
+  "description": "Novel Antibiotics for Targeting Resistant Bacteria.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/supertrans_medical-logo.webp",
   "websiteUrl": "https://www.supertrans-medical.com/site/content/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "supertrans-medical",
+  "linkedinNum": 65341530,
   "crunchbaseId": "supertrans-medical",
+  "ivcId": "A1000000312590",
   "finderId": "supertrans-medical",
   "xId": "SuperTransMedi1",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
+      "street": "פנחס ספיר",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.0736302,
-      "lon": 34.7963872
+      "city": "נס ציונה",
+      "lat": 31.91451859999999,
+      "lon": 34.8032823
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 65341530
+  "isActive": true
 }

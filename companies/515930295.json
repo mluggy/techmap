@@ -6,20 +6,26 @@
   "logoFile": "logos/perfect_b_z_d_hai-logo.webp",
   "websiteUrl": "https://www.goperfect.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "goperfect",
+  "linkedinNum": 80852639,
   "crunchbaseId": null,
+  "ivcId": "A1000000379629",
   "finderId": "perfect",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חסן מלך מרוקו השני",
-      "houseNumber": 12,
-      "city": "קריית עקרון",
-      "lat": 31.855032301075944,
-      "lon": 34.82363719109276
+      "street": "גולדברג",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.064188,
+      "lon": 34.777999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80852639
+  "isActive": true
 }

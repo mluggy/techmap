@@ -6,21 +6,26 @@
   "logoFile": "logos/radix_technologies-logo.webp",
   "websiteUrl": "https://www.radix-int.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "radix-technologies-ltd.",
+  "linkedinNum": 775425,
   "crunchbaseId": null,
+  "ivcId": "A1000000004772",
   "finderId": "radix",
   "xId": "radixtech",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שרון אריאל",
-      "houseNumber": 1,
+      "street": "החרושת",
+      "houseNumber": 8,
       "city": "אור יהודה",
-      "lat": 32.0219471,
-      "lon": 34.8582471
+      "lat": 32.0209217,
+      "lon": 34.8617289
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 775425
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/opinion_stage-logo.webp",
   "websiteUrl": "https://www.opinionstage.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "opinion-stage",
+  "linkedinNum": 2384126,
   "crunchbaseId": null,
+  "ivcId": "A1000000009679",
   "finderId": "opinion-stage",
   "xId": "opinionstage",
+  "facebookId": "OpinionStage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זמורה",
-      "houseNumber": 8,
-      "city": "שוהם",
-      "lat": 32.0081684,
-      "lon": 34.949276
+      "street": "דרך מנחם בגין",
+      "houseNumber": 11,
+      "city": "רמת גן",
+      "lat": 32.0864082,
+      "lon": 34.8004541
     }
   ],
   "isMultinational": false,
-  "facebookId": "OpinionStage",
-  "linkedinNum": 2384126
+  "isActive": true
 }

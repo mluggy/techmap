@@ -6,20 +6,26 @@
   "logoFile": "logos/kolorpen-logo.webp",
   "websiteUrl": "https://kolorpen.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 86212603,
   "crunchbaseId": null,
+  "ivcId": "A1000000227453",
   "finderId": "kolorpen",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק נבון",
-      "houseNumber": 3,
+      "street": "הרב קירשטיין",
+      "houseNumber": 37,
       "city": "עפולה",
-      "lat": 32.61335821451393,
-      "lon": 35.30064293164333
+      "lat": 32.612393,
+      "lon": 35.2820283
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86212603
+  "isActive": true
 }

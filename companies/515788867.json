@@ -6,21 +6,26 @@
   "logoFile": "logos/candivore-logo.webp",
   "websiteUrl": "https://candivore.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "candivore",
+  "linkedinNum": 51692486,
   "crunchbaseId": null,
+  "ivcId": "A1000000293500",
   "finderId": "candivore",
   "xId": null,
+  "facebookId": "candivore.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.075175,
-      "lon": 34.78205
+      "city": "בני ברק",
+      "lat": 32.0907333,
+      "lon": 34.8300528
     }
   ],
   "isMultinational": false,
-  "facebookId": "candivore.io",
-  "linkedinNum": 51692486
+  "isActive": true
 }

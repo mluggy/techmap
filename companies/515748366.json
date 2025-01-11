@@ -6,20 +6,26 @@
   "logoFile": "logos/bio_fence-logo.webp",
   "websiteUrl": "https://www.bio-fence.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "biofence",
+  "linkedinNum": 12632376,
   "crunchbaseId": null,
+  "ivcId": "A1000000250461",
   "finderId": "bio-fence",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרפא",
       "houseNumber": 2,
       "city": "ירושלים",
-      "lat": 31.8020328,
-      "lon": 35.2118063
+      "lat": 31.7999294,
+      "lon": 35.211536
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12632376
+  "isActive": true
 }

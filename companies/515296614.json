@@ -6,11 +6,17 @@
   "logoFile": "logos/ergonomix_water_technologies-logo.webp",
   "websiteUrl": "https://www.ergonomix-concept.com/?lat=en",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ergonomix-water-technologies-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נטפים צור יגאל",
@@ -20,5 +26,6 @@
       "lon": 34.98891621309014
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

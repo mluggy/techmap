@@ -1,26 +1,31 @@
 {
   "name": "BalCar",
-  "description": "Online Pre-Purchase Used Car Inspection",
+  "description": "Online Pre-Purchase Used Car Inspection.",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/balcar_report-logo.webp",
   "websiteUrl": "https://www.balcar.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "balcarltd",
+  "linkedinNum": 79811583,
   "crunchbaseId": "balcar-report",
+  "ivcId": "A1000000369341",
   "finderId": "balcar",
   "xId": null,
+  "facebookId": "BALCARcheck",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' רוקח",
-      "houseNumber": 101,
-      "city": "תל אביב - יפו",
-      "lat": 32.1053566,
-      "lon": 34.811018495092924
+      "street": "יעקב מרידור",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.1229287,
+      "lon": 34.8190357
     }
   ],
   "isMultinational": false,
-  "facebookId": "BALCARcheck",
-  "linkedinNum": 79811583
+  "isActive": true
 }

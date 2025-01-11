@@ -6,21 +6,26 @@
   "logoFile": "logos/radiaction-logo.webp",
   "websiteUrl": "https://radiactionmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "radiaction",
+  "linkedinNum": 17979095,
   "crunchbaseId": null,
+  "ivcId": "A1000000169497",
   "finderId": "radiaction",
   "xId": null,
+  "facebookId": "Radiaction-Medical-104802084937979",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנחושת",
-      "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.110182,
-      "lon": 34.838445
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0793735,
+      "lon": 34.7673335
     }
   ],
   "isMultinational": false,
-  "facebookId": "Radiaction-Medical-104802084937979",
-  "linkedinNum": 17979095
+  "isActive": true
 }

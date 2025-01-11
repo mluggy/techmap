@@ -6,11 +6,17 @@
   "logoFile": "logos/cloudally-logo.webp",
   "websiteUrl": "https://www.cloudally.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2315696,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cloudally",
   "xId": "CloudAlly",
+  "facebookId": "CloudAllyPage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלטלף אברהם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CloudAllyPage",
-  "linkedinNum": 2315696
+  "isActive": true
 }

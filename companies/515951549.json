@@ -3,22 +3,29 @@
   "description": "Founded in 2019, the company offers an all-natural, plant-based sweetening formula aimed at significantly reducing sugar consumption in healthier consumer food products.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/b_t_sweet-logo.webp",
+  "logoFile": "logos/b-t-sweet-logo.webp",
   "websiteUrl": "https://www.cambya.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cambya",
+  "linkedinNum": 69765677,
   "crunchbaseId": null,
+  "ivcId": "A1000000385498",
   "finderId": "b-t-sweet",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תדהר רמת אפעל",
-      "houseNumber": 16,
-      "city": "רמת גן",
-      "lat": 32.04497357180671,
-      "lon": 34.83770847404481
+      "street": "המסילה",
+      "houseNumber": 13,
+      "city": "הרצליה",
+      "lat": 32.1685682,
+      "lon": 34.81681030000001
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

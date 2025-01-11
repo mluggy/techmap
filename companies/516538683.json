@@ -6,11 +6,17 @@
   "logoFile": "logos/albarius-logo.webp",
   "websiteUrl": "https://albarius.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "albarius-security",
+  "linkedinNum": 80990711,
   "crunchbaseId": null,
+  "ivcId": "A1000000470998",
   "finderId": "albarius",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
@@ -19,5 +25,7 @@
       "lat": 32.0848749,
       "lon": 34.8030899
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/seymour_ag_instruments-logo.webp",
   "websiteUrl": "https://www.seymouragri.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000440326",
   "finderId": "seymour-ag-instruments",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד דואני",
@@ -19,5 +25,7 @@
       "lat": 31.8693278,
       "lon": 34.7446906
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

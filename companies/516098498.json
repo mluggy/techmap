@@ -6,11 +6,17 @@
   "logoFile": "logos/cts_cannabis-logo.webp",
   "websiteUrl": "https://www.cts.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 690276,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cts",
   "xId": "CTSpharma",
+  "facebookId": "CTS.pharma",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CTS.pharma",
-  "linkedinNum": 690276
+  "isActive": true
 }

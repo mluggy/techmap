@@ -6,11 +6,17 @@
   "logoFile": "logos/telefire-logo.webp",
   "websiteUrl": "https://telefire.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "telefire-fire-&-gas-detectors",
+  "linkedinNum": 2662236,
   "crunchbaseId": "telefire-fire",
+  "ivcId": null,
   "finderId": "telefire-fire-gas-detectors",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיבים",
@@ -20,5 +26,6 @@
       "lon": 34.8571892
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

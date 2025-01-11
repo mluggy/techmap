@@ -6,21 +6,26 @@
   "logoFile": "logos/laminar_israel-logo.webp",
   "websiteUrl": "https://laminarsecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 79906878,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "laminar",
   "xId": "laminarsec",
+  "facebookId": "laminarsec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06518925,
       "lon": 34.78521533912037
     }
   ],
   "isMultinational": false,
-  "facebookId": "laminarsec",
-  "linkedinNum": 79906878
+  "isActive": true
 }

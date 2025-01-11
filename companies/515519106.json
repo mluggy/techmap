@@ -1,26 +1,31 @@
 {
   "name": "Bites",
-  "description": "Training and Communication Platform",
+  "description": "Training and Communication Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/bites_learning-logo.webp",
   "websiteUrl": "https://www.mybites.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bites-learning",
+  "linkedinNum": 10687132,
   "crunchbaseId": null,
+  "ivcId": "A1000000286970",
   "finderId": "bites",
   "xId": "MyBites3",
+  "facebookId": "bites.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רציף הרברט סמואל",
       "houseNumber": 46,
-      "city": "תל אביב - יפו",
-      "lat": 32.07219851113049,
-      "lon": 34.76460924593028
+      "city": "תל אביב-יפו",
+      "lat": 32.0720531,
+      "lon": 34.7646307
     }
   ],
   "isMultinational": false,
-  "facebookId": "bites.io",
-  "linkedinNum": 10687132
+  "isActive": true
 }

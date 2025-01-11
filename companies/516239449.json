@@ -6,20 +6,26 @@
   "logoFile": "logos/lexense_technologies-logo.webp",
   "websiteUrl": "https://www.lexense.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lexense-technologies",
+  "linkedinNum": 76568393,
   "crunchbaseId": "lexense",
+  "ivcId": "A1000000333101",
   "finderId": "lexense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנורת המאור",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.074448,
-      "lon": 34.796408
+      "city": "תל אביב-יפו",
+      "lat": 32.0745134,
+      "lon": 34.7965828
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76568393
+  "isActive": true
 }

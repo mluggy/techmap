@@ -1,25 +1,31 @@
 {
   "name": "Metis",
-  "description": "Always Optimized No-Ops Data Infrastructure at Scale",
+  "description": "Metis delivers an Augmented Predictive Intelligence Platform that answers investigative questions and uncovers new and meaningful data points and connections, so investigators thoroughly understand past criminal activity and can better anticipate future events.",
   "categoryId": 14,
-  "size": "s",
+  "size": "xs",
   "logoFile": "logos/metis_corp-logo.webp",
-  "websiteUrl": "https://www.metisdata.io/",
+  "websiteUrl": "https://www.metis-intelligence.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "metis-bn",
+  "linkedinNum": 75050116,
   "crunchbaseId": null,
+  "ivcId": "A1000000287198",
   "finderId": "metis",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ויינשל",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.117498,
-      "lon": 34.82264
+      "city": "תל אביב-יפו",
+      "lat": 32.117508,
+      "lon": 34.8226742
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75050116
+  "isActive": true
 }

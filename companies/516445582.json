@@ -1,25 +1,31 @@
 {
   "name": "Elementary Data",
-  "description": "Open-source Data Observability Framework for Data Teams",
+  "description": "Open-source Data Observability Framework for Data Teams.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/elementary_data-logo.webp",
   "websiteUrl": "https://www.elementary-data.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "elementary-data",
+  "linkedinNum": 76561188,
   "crunchbaseId": null,
+  "ivcId": "A1000000388167",
   "finderId": "elementary-data",
   "xId": "ElementaryData",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויצמן",
+      "street": "ויצמן‬",
       "houseNumber": 31,
-      "city": "תל אביב - יפו",
-      "lat": 32.082219,
-      "lon": 34.788748
+      "city": "תל אביב-יפו",
+      "lat": 32.0822032,
+      "lon": 34.7887749
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76561188
+  "isActive": true
 }

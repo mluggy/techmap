@@ -6,21 +6,26 @@
   "logoFile": "logos/explorium-logo.webp",
   "websiteUrl": "https://www.explorium.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "explorium-ai",
+  "linkedinNum": 18828451,
   "crunchbaseId": null,
+  "ivcId": "A1000000263217",
   "finderId": "explorium-ai",
   "xId": "Explorium_ai",
+  "facebookId": "exploriumai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פריש דניאל",
+      "street": "דניאל פריש",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07463945,
-      "lon": 34.78327163578098
+      "city": "תל אביב-יפו",
+      "lat": 32.0745707,
+      "lon": 34.7832566
     }
   ],
   "isMultinational": false,
-  "facebookId": "exploriumai",
-  "linkedinNum": 18828451
+  "isActive": true
 }

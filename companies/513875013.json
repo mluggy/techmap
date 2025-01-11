@@ -6,16 +6,22 @@
   "logoFile": "logos/teva_b_nadlan-logo.webp",
   "websiteUrl": "https://www.tevapharm.com/",
   "careersUrl": "https://www.tevapharm.com/your-career/",
-  "isHiring": true,
   "linkedinId": "teva-pharmaceuticals",
+  "linkedinNum": 5239,
   "crunchbaseId": "teva-pharmaceutical-industries",
+  "ivcId": "A1000000006246",
   "finderId": "teva",
   "xId": "tevapharm",
+  "facebookId": "tevapharm",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
       "houseNumber": null,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.113580945212405,
       "lon": 34.841679045938925
     },
@@ -56,6 +62,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "tevapharm",
-  "linkedinNum": 5239
+  "isActive": true
 }

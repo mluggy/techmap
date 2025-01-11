@@ -1,23 +1,31 @@
 {
   "name": "Synclabel",
-  "description": "Intelligent Labels Bridge the Gap Between Brands and Their Customers.",
-  "categoryId": 1,
+  "description": "Synclabel is a versatile and comprehensive SaaS platform that provides smart labeling solutions that meet DPP standards for brands.",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/synclabel-logo.webp",
-  "websiteUrl": "https://www.syncrecordsmusic.com/",
+  "websiteUrl": "https://www.synclabel.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "synclabel",
+  "linkedinNum": 97857374,
   "crunchbaseId": null,
+  "ivcId": "A1000000472577",
   "finderId": "synclabel",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נשיאי ישראל",
-      "houseNumber": 4,
-      "city": "רמת גן",
-      "lat": 32.0539053,
-      "lon": 34.8321004
+      "street": "רחוב הפנינים",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.0534429,
+      "lon": 34.7535819
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

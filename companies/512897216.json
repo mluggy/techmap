@@ -6,11 +6,17 @@
   "logoFile": "logos/nokia_solutions_and_networks_israel-logo.webp",
   "websiteUrl": "https://www.nokia.com/",
   "careersUrl": "https://www.nokia.com/about-us/careers/",
-  "isHiring": true,
   "linkedinId": "nokia",
+  "linkedinNum": 1070,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nokia",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -20,6 +26,6 @@
       "lon": 34.9337429
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 1070
+  "isMultinational": false,
+  "isActive": true
 }

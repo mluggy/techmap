@@ -6,22 +6,26 @@
   "logoFile": "logos/dig_security_solutions-logo.webp",
   "websiteUrl": "https://www.dig.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 75003715,
   "crunchbaseId": "dig-security",
+  "ivcId": null,
   "finderId": "dig-security",
   "xId": "dig_security",
+  "facebookId": "Dig.Cyber",
+  "breezyId": null,
+  "comeetId": "dig/E7.00B",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "facebookId": "Dig.Cyber",
-  "linkedinNum": 75003715,
-  "comeetId": "dig/E7.00B"
+  "isActive": true
 }

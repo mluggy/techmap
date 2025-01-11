@@ -6,13 +6,17 @@
   "logoFile": "logos/oppo.webp",
   "websiteUrl": "https://www.oppo.com/",
   "careersUrl": "https://career.oppo.com/",
-  "isHiring": false,
   "linkedinId": "oppo",
   "linkedinNum": 2852649,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "oppo",
   "xId": null,
   "facebookId": "OPPOIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אין רחובות",
@@ -22,5 +26,6 @@
       "lon": 35.01040086406263
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

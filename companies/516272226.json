@@ -6,19 +6,26 @@
   "logoFile": "logos/neurohelp-logo.webp",
   "websiteUrl": "https://www.neuro-help.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "neurohelp",
+  "linkedinNum": 79772261,
   "crunchbaseId": null,
+  "ivcId": "A1000000271612",
   "finderId": "neurohelp",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב שאולי",
-      "houseNumber": 5,
-      "city": "רחובות",
-      "lat": 31.8815259,
-      "lon": 34.8159263
+      "street": "הרקון",
+      "houseNumber": 4,
+      "city": "רמת גן",
+      "lat": 32.0849219,
+      "lon": 34.8004066
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

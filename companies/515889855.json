@@ -1,0 +1,31 @@
+{
+  "name": "EVEdge",
+  "description": "EVEdge is offering a variety of solutions for charging electric vehicles.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/evedge-logo.webp",
+  "websiteUrl": "https://evedge.co.il",
+  "careersUrl": null,
+  "linkedinId": "ev-edge",
+  "linkedinNum": 37255919,
+  "crunchbaseId": null,
+  "ivcId": "A1000000417973",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.1093129,
+      "lon": 34.8405444
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

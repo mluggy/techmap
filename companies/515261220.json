@@ -6,21 +6,26 @@
   "logoFile": "logos/onepep-logo.webp",
   "websiteUrl": "https://www.onepep.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "onepep",
+  "linkedinNum": 18207527,
   "crunchbaseId": null,
+  "ivcId": "A1000000255914",
   "finderId": "onepep-together",
   "xId": null,
+  "facebookId": "onepep1",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "העוגן",
-      "houseNumber": 8,
-      "city": "הרצליה",
-      "lat": 32.1604516,
-      "lon": 34.7929633
+      "street": "שדרות מנחם בגין",
+      "houseNumber": 121,
+      "city": "אור יהודה",
+      "lat": 32.0278299,
+      "lon": 34.85833
     }
   ],
   "isMultinational": false,
-  "facebookId": "onepep1",
-  "linkedinNum": 18207527
+  "isActive": true
 }

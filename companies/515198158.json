@@ -6,11 +6,17 @@
   "logoFile": "logos/sofwave_medical-logo.webp",
   "websiteUrl": "https://sofwave.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sofwave-medical",
   "xId": "sofwave",
+  "facebookId": "Sofwave",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העוצמה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Sofwave"
+  "isActive": true
 }

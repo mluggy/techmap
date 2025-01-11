@@ -1,25 +1,31 @@
 {
   "name": "Healables",
-  "description": "Wearable Electrotherapy Devices",
+  "description": "Healables develops wearable aids to deal with pain and improve physical performance.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/healables-logo.webp",
-  "websiteUrl": "https://www.healables.io/",
+  "websiteUrl": "https://healables.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "healables",
+  "linkedinNum": 18331547,
   "crunchbaseId": null,
+  "ivcId": "A1000000276555",
   "finderId": "healables",
   "xId": "Healables_com",
+  "facebookId": "Healablesdigitalhealth",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצבי",
       "houseNumber": 15,
       "city": "ירושלים",
-      "lat": 31.790832,
-      "lon": 35.2011661
+      "lat": 31.7896712,
+      "lon": 35.201899
     }
   ],
   "isMultinational": false,
-  "facebookId": "Healablesdigitalhealth"
+  "isActive": true
 }

@@ -6,22 +6,26 @@
   "logoFile": "logos/cycode-logo.webp",
   "websiteUrl": "https://cycode.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cycode",
+  "linkedinNum": 40789623,
   "crunchbaseId": null,
+  "ivcId": "A1000000296897",
   "finderId": "cycode",
   "xId": "CycodeHQ",
+  "facebookId": "cycodesec",
+  "breezyId": null,
+  "comeetId": "cycode/A8.00D",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דה וינצ'י לאונרדו",
-      "houseNumber": 12,
-      "city": "תל אביב - יפו",
-      "lat": 32.0755974,
-      "lon": 34.7844575
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "facebookId": "cycodesec",
-  "linkedinNum": 40789623,
-  "comeetId": "cycode/A8.00D"
+  "isActive": true
 }

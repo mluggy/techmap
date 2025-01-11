@@ -6,11 +6,17 @@
   "logoFile": "logos/helios_3_general_management-logo.webp",
   "websiteUrl": "https://project-helios.space",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 12635226,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "helios",
   "xId": "project_helios",
+  "facebookId": "HeliosSpace",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סוקולוב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "HeliosSpace",
-  "linkedinNum": 12635226
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/lishtot_detection-logo.webp",
   "websiteUrl": "https://www.lishtot.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lishtot",
+  "linkedinNum": 10160770,
   "crunchbaseId": null,
+  "ivcId": "A1000000184615",
   "finderId": "lishtot",
   "xId": "lishtot",
+  "facebookId": "Lishtot",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אוסישקין",
-      "houseNumber": 49,
-      "city": "ירושלים",
-      "lat": 31.7795875,
-      "lon": 35.2122172
+      "street": "לשם",
+      "houseNumber": 1,
+      "city": "קרית גת",
+      "lat": 31.5947706,
+      "lon": 34.7842729
     }
   ],
   "isMultinational": false,
-  "facebookId": "Lishtot",
-  "linkedinNum": 10160770
+  "isActive": true
 }

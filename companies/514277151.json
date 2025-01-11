@@ -6,21 +6,26 @@
   "logoFile": "logos/ideomobile-logo.webp",
   "websiteUrl": "https://www.ideo-digital.com/",
   "careersUrl": "https://www.ideo-digital.com/careers/",
-  "isHiring": true,
   "linkedinId": "ideodigital",
+  "linkedinNum": 1505128,
   "crunchbaseId": null,
+  "ivcId": "A1000000022744",
   "finderId": "ideomobile",
   "xId": "ideomobile",
+  "facebookId": "IdeoDigitalSolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השלושה",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617382,
-      "lon": 34.7882304
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
     }
   ],
   "isMultinational": false,
-  "facebookId": "IdeoDigitalSolutions",
-  "linkedinNum": 1505128
+  "isActive": true
 }

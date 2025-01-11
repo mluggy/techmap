@@ -6,21 +6,26 @@
   "logoFile": "logos/oriient_new_media-logo.webp",
   "websiteUrl": "https://www.oriient.me/",
   "careersUrl": "https://www.oriient.me/careers-at-oriient/",
-  "isHiring": true,
   "linkedinId": "oriient",
+  "linkedinNum": 10693382,
   "crunchbaseId": "oriient",
+  "ivcId": "A1000000224695",
   "finderId": "oriient",
   "xId": "oriient_me",
+  "facebookId": "oriient.me",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זליבנסקי",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.123651,
-      "lon": 34.826146
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "oriient.me",
-  "linkedinNum": 10693382
+  "isActive": true
 }

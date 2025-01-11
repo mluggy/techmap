@@ -1,25 +1,31 @@
 {
   "name": "Riuto",
-  "description": "Smart Automatic Pool Lifeguard",
-  "categoryId": 7,
+  "description": "Riuto is developing the revolutionary ANDI - a patented, smart pool cover that serves as a rapid and controlled elevated floor in swimming pools.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/riuto-logo.webp",
-  "websiteUrl": "https://ronmiasnikov.wixsite.com/riuto",
+  "websiteUrl": "http://ronmiasnikov.wix.com/riuto",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "riuto",
+  "linkedinNum": 10590362,
   "crunchbaseId": "riuto",
+  "ivcId": "A1000000212026",
   "finderId": "riuto",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דיזנגוף",
       "houseNumber": 275,
-      "city": "תל אביב - יפו",
-      "lat": 32.095372,
-      "lon": 34.776101
+      "city": "תל אביב-יפו",
+      "lat": 32.0953642,
+      "lon": 34.7761349
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10590362
+  "isActive": true
 }

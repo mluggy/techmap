@@ -6,11 +6,17 @@
   "logoFile": "logos/tiltan_games_2013-logo.webp",
   "websiteUrl": "https://www.tiltangames.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tiltan-games",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההגנה",
@@ -19,5 +25,7 @@
       "lat": 32.1704438,
       "lon": 34.8507168
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

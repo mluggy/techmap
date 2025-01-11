@@ -6,18 +6,26 @@
   "logoFile": "logos/angie_technologies-logo.webp",
   "websiteUrl": "https://angieaway.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "angie-travel",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בראלי",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1038007,
       "lon": 34.7913886
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

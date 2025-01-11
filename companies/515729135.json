@@ -6,20 +6,26 @@
   "logoFile": "logos/cognni-logo.webp",
   "websiteUrl": "https://cognni.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cognni-ltd",
+  "linkedinNum": 10297664,
   "crunchbaseId": "cognni",
+  "ivcId": "A1000000245185",
   "finderId": "shieldox",
   "xId": "cognni1",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרד",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
-      "lat": 32.063593,
-      "lon": 34.763472
+      "city": "תל אביב-יפו",
+      "lat": 32.0636052,
+      "lon": 34.763117
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10297664
+  "isActive": true
 }

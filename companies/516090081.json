@@ -6,20 +6,26 @@
   "logoFile": "logos/pinecone_systems-logo.webp",
   "websiteUrl": "https://www.pinecone.io/",
   "careersUrl": "https://www.pinecone.io/careers/",
-  "isHiring": true,
   "linkedinId": "pinecone-io",
+  "linkedinNum": 20299330,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pinecone1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מיכה",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.093061,
       "lon": 34.775551
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 20299330
+  "isActive": true
 }

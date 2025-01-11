@@ -6,21 +6,26 @@
   "logoFile": "logos/lightfective-logo.webp",
   "websiteUrl": "https://www.lightfective.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lightfective",
+  "linkedinNum": 31390699,
   "crunchbaseId": null,
+  "ivcId": "A1000000389739",
   "finderId": "lightfective",
   "xId": null,
+  "facebookId": "Lightfective",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לשם-פארק התעשייה",
+      "street": "לשם",
       "houseNumber": 1,
       "city": "קיסריה",
-      "lat": 32.48368359771244,
-      "lon": 34.9454531201519
+      "lat": 32.4899942,
+      "lon": 34.9046197
     }
   ],
   "isMultinational": false,
-  "facebookId": "Lightfective",
-  "linkedinNum": 31390699
+  "isActive": true
 }

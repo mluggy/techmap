@@ -6,11 +6,17 @@
   "logoFile": "logos/tipa_corp-logo.webp",
   "websiteUrl": "https://tipa-corp.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tipa",
+  "linkedinNum": 1495199,
   "crunchbaseId": null,
+  "ivcId": "A1000000009530",
   "finderId": "tipa",
   "xId": "TIPACorp",
+  "facebookId": "TipaCorp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TipaCorp",
-  "linkedinNum": 1495199
+  "isActive": true
 }

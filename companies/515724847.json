@@ -6,11 +6,17 @@
   "logoFile": "logos/supplant-logo.webp",
   "websiteUrl": "https://supplant.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "supplant",
+  "linkedinNum": 17909283,
   "crunchbaseId": null,
+  "ivcId": "A1000000233538",
   "finderId": "SupPlant",
   "xId": "supplant_me",
+  "facebookId": "supplant.me",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד רבין יצחק",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "supplant.me",
-  "linkedinNum": 17909283
+  "isActive": true
 }

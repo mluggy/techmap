@@ -6,21 +6,26 @@
   "logoFile": "logos/scanovate-logo.webp",
   "websiteUrl": "https://scanovate.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "scanovate",
+  "linkedinNum": 5147920,
   "crunchbaseId": null,
+  "ivcId": "A1000000024582",
   "finderId": "scanovate",
   "xId": "scanovate",
+  "facebookId": "scanovate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היצירה",
-      "houseNumber": 31,
-      "city": "רמת גן",
-      "lat": 32.0848749,
-      "lon": 34.8030899
+      "street": "אבא הלל סילבר",
+      "houseNumber": 14,
+      "city": "ראשון לציון",
+      "lat": 31.985021,
+      "lon": 34.7841606
     }
   ],
   "isMultinational": false,
-  "facebookId": "scanovate",
-  "linkedinNum": 5147920
+  "isActive": true
 }

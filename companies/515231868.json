@@ -1,18 +1,31 @@
 {
   "name": "Funzing",
-  "description": "Community Marketplace to Share Creativity",
+  "description": "Community Marketplace to Share Creativity.",
   "categoryId": 9,
   "size": "s",
   "logoFile": "logos/funzing_international-logo.webp",
   "websiteUrl": "https://il.funzing.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "funzing",
+  "linkedinNum": 3338342,
   "crunchbaseId": null,
+  "ivcId": "A1000000175211",
   "finderId": "funzing",
   "xId": "iFunzing",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Funzing",
-  "linkedinNum": 3338342
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות יהודית",
+      "houseNumber": 35,
+      "city": "תל אביב-יפו",
+      "lat": 32.0699955,
+      "lon": 34.7923052
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

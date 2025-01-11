@@ -1,25 +1,31 @@
 {
   "name": "Frenn Analytics",
-  "description": "Revenue Intelligence for Pipeline Optimization",
+  "description": "Revenue Intelligence for Pipeline Optimization.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/frenn_analytics-logo.webp",
   "websiteUrl": "https://www.frenn.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "frennio",
+  "linkedinNum": 71715275,
   "crunchbaseId": "frenn",
+  "ivcId": "A1000000368465",
   "finderId": "frenn",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חרוב",
       "houseNumber": 4,
       "city": "יבנה",
-      "lat": 31.8822969,
-      "lon": 34.7384393
+      "lat": 31.8792237,
+      "lon": 34.7362778
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71715275
+  "isActive": true
 }

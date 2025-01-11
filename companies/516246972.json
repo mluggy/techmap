@@ -6,11 +6,17 @@
   "logoFile": "logos/phonedue_technology_in_motion-logo.webp",
   "websiteUrl": "https://www.phonedue.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "phonedue-technology-in-motion",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסילה",
@@ -20,5 +26,6 @@
       "lon": 34.8178372
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

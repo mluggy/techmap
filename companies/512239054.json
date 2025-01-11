@@ -6,20 +6,26 @@
   "logoFile": "logos/medisim-logo.webp",
   "websiteUrl": "https://www.medisim.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "medisim-ltd",
+  "linkedinNum": 37834430,
   "crunchbaseId": null,
+  "ivcId": "A1000000006349",
   "finderId": "medisim",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פרופ אברהם פצ'ורניק",
-      "houseNumber": 7,
-      "city": "נס ציונה",
-      "lat": 31.9197402,
-      "lon": 34.8069399
+      "street": "המלאכה",
+      "houseNumber": 11,
+      "city": "בית שמש",
+      "lat": 31.7744136,
+      "lon": 34.999083
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37834430
+  "isActive": true
 }

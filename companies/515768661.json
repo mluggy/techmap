@@ -1,0 +1,31 @@
+{
+  "name": "Jonnix",
+  "description": "Jonni developed an app that allows business owners to focus on their actual work.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/jonnix-logo.webp",
+  "websiteUrl": "https://www.jonni.app",
+  "careersUrl": null,
+  "linkedinId": "jonniapp",
+  "linkedinNum": 37234791,
+  "crunchbaseId": null,
+  "ivcId": "A1000000412862",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "סוקולוב",
+      "houseNumber": 36,
+      "city": "רמת גן",
+      "lat": 32.093859,
+      "lon": 34.818959
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

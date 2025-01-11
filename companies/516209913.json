@@ -1,24 +1,31 @@
 {
   "name": "Co Moving Carpool",
-  "description": "A real-time management platform optimizing organizational travel by increasing shared rides, saving resources, and reducing air pollution.",
-  "categoryId": 5,
+  "description": "Count-me is a mobile-based ride-sharing system that instantly and accurately counts and reports the number of passengers commuting in the same vehicle.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/co_moving_carpool-logo.webp",
-  "websiteUrl": "https://www.co-moving.com/",
+  "websiteUrl": "https://count-me.app",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000366554",
   "finderId": "co-moving-carpool",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טביוב",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
-      "lat": 32.06525,
-      "lon": 34.797774
+      "city": "תל אביב-יפו",
+      "lat": 32.0653889,
+      "lon": 34.7977022
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

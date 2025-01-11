@@ -1,25 +1,31 @@
 {
   "name": "Cast-TV",
-  "description": "Solutions for OTT and IPTV Streaming",
+  "description": "Solutions for OTT and IPTV Streaming.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/cast_tv-logo.webp",
   "websiteUrl": "https://cast-tv.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 4850214,
   "crunchbaseId": null,
+  "ivcId": "A1000000020757",
   "finderId": "cast-tv",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רחבת הבנים",
       "houseNumber": 2,
-      "city": "בית יצחק-שער חפר",
-      "lat": 32.327877970641346,
-      "lon": 34.89053797433484
+      "city": "בית יצחק שער חפר",
+      "lat": 32.3277511,
+      "lon": 34.8905487
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 4850214
+  "isActive": true
 }

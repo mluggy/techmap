@@ -6,20 +6,26 @@
   "logoFile": "logos/landa1.webp",
   "websiteUrl": "https://landa.app/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "landa",
   "linkedinNum": 10547267,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "landa1",
   "xId": "landa_app",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גרונר דב",
       "houseNumber": null,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.12534796863394,
       "lon": 34.80708584932029
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

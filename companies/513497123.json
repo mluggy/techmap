@@ -1,26 +1,31 @@
 {
   "name": "Save Foods",
-  "description": "Eco-friendly Solutions to Ensure Food Safety and Shelf Life",
+  "description": "N2OFF is a pioneering agri-food tech company dedicated to developing sustainable solutions for the plant-based food industry.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/save_foods-logo.webp",
-  "websiteUrl": "https://www.savefoods.co",
+  "websiteUrl": "https://www.n2off.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "n2off-inc",
+  "linkedinNum": 35695229,
   "crunchbaseId": null,
+  "ivcId": "A1000000008830",
   "finderId": "save-foods",
   "xId": "SaveFoodsInc",
+  "facebookId": "SaveFoodsInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שטיבל",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.066336,
-      "lon": 34.788438
+      "street": null,
+      "houseNumber": null,
+      "city": "נווה ירק",
+      "lat": 32.132729,
+      "lon": 34.925488
     }
   ],
   "isMultinational": false,
-  "facebookId": "SaveFoodsInc",
-  "linkedinNum": 35695229
+  "isActive": true
 }

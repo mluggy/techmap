@@ -7,18 +7,25 @@
   "websiteUrl": "https://novelrad.com/",
   "careersUrl": null,
   "linkedinId": "novelrad",
+  "linkedinNum": 68817418,
   "crunchbaseId": "novalrad",
+  "ivcId": "A1000000428802",
   "finderId": "novelrad",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
       "houseNumber": null,
-      "city": "קיבוץ מצר",
-      "lat": 32.4406086928316,
-      "lon": 35.047907440613066
+      "city": "מצר",
+      "lat": 32.440186,
+      "lon": 35.047702
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68817418
+  "isActive": true
 }

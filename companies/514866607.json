@@ -1,26 +1,31 @@
 {
   "name": "Bits of Gold",
-  "description": "״Bits of Gold״ מספקת פתרונות מסודרים ומאובטחים לרכישה, שמירה ומכירה של מטבעות דיגיטליים עם מעקב קל אחר תנועות הקריפטו.",
-  "categoryId": 10,
+  "description": "Bits of Gold's B2C platform handles a high-volume brokerage desk efficiently with over-the-counter (OTC) transactions for liquidating digital assets, belonging to private investors and investment houses.",
+  "categoryId": 9,
   "size": "s",
   "logoFile": "logos/bits_of_gold-logo.webp",
-  "websiteUrl": "https://www.bitsofgold.co.il/",
-  "careersUrl": "https://www.bitsofgold.co.il/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "websiteUrl": "https://www.bitsofgold.net",
+  "careersUrl": null,
+  "linkedinId": "bits-of-gold-ltd",
+  "linkedinNum": 2985724,
   "crunchbaseId": null,
+  "ivcId": "A1000000023597",
   "finderId": "bits-of-gold",
   "xId": "BitsofGold_LTD",
+  "facebookId": "BitsOfGold",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחוזת בית",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
-      "lat": 32.064681,
-      "lon": 34.770586
+      "city": "תל אביב-יפו",
+      "lat": 32.0645332,
+      "lon": 34.7697222
     }
   ],
   "isMultinational": false,
-  "facebookId": "BitsOfGold",
-  "linkedinNum": 2985724
+  "isActive": true
 }

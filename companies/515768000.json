@@ -6,21 +6,26 @@
   "logoFile": "logos/workiz_development-logo.webp",
   "websiteUrl": "https://www.workiz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "workizinc",
+  "linkedinNum": 3794219,
   "crunchbaseId": null,
+  "ivcId": "A1000000268481",
   "finderId": "workiz",
   "xId": "workizinc",
+  "facebookId": "workiz",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הארבעה",
-      "houseNumber": 28,
-      "city": "תל אביב - יפו",
-      "lat": 32.070693,
-      "lon": 34.785176
+      "street": "המסגר",
+      "houseNumber": 35,
+      "city": "תל אביב-יפו",
+      "lat": 32.06470480000001,
+      "lon": 34.7859412
     }
   ],
   "isMultinational": false,
-  "facebookId": "workiz",
-  "linkedinNum": 3794219
+  "isActive": true
 }

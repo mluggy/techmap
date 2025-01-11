@@ -1,23 +1,31 @@
 {
   "name": "Converge Bio",
-  "description": "This service is an essential productivity tool that combines a world clock, time zone converter, and online meeting scheduler for frequent travelers and remote communication needs.",
-  "categoryId": 14,
-  "size": "xs",
-  "logoFile": "logos/converge_bio-logo.webp",
-  "websiteUrl": "https://www.worldtimebuddy.com/",
+  "description": "Converge Bio has built a platform that uses large language models trained on biological and chemical data (DNA, RNA, protein sequences and small molecules) to help biotech and pharmaceutical companies discover and develop better-performing drugs in less time.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/converge-bio-logo.webp",
+  "websiteUrl": "https://converge-bio.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "converge-bio",
+  "linkedinNum": 102539353,
   "crunchbaseId": null,
+  "ivcId": "A1000000472990",
   "finderId": "converge-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
-      "houseNumber": 192,
-      "city": "תל אביב - יפו",
-      "lat": 32.0953522,
-      "lon": 34.7838791
+      "street": "דניאל פריש",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0745707,
+      "lon": 34.7832566
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/speakingpal-logo.webp",
   "websiteUrl": "https://www.speakingpal.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 630723,
   "crunchbaseId": null,
+  "ivcId": "A1000000009938",
   "finderId": "speakingpal",
   "xId": "speakingpal",
+  "facebookId": "SpeakingPal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
-      "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.108224,
-      "lon": 34.838086
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.1093129,
+      "lon": 34.8405444
     }
   ],
   "isMultinational": false,
-  "facebookId": "SpeakingPal",
-  "linkedinNum": 630723
+  "isActive": true
 }

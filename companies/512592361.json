@@ -3,14 +3,20 @@
   "description": "Renesas is a global leader in microcontrollers, analog, power, and SoC products, delivering comprehensive semiconductor solutions that enable billions of connected devices worldwide.",
   "categoryId": 16,
   "size": null,
-  "logoFile": "logos/renesas_electronics_israel-logo.webp",
+  "logoFile": "logos/renesas-logo.webp",
   "websiteUrl": "https://www.renesas.com/",
   "careersUrl": "https://jobs.renesas.com/",
-  "isHiring": true,
   "linkedinId": "renesas",
+  "linkedinNum": 934588,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "renesas",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מעפילי אגוז",
@@ -20,5 +26,6 @@
       "lon": 34.9916548
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

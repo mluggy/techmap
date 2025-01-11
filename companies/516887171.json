@@ -3,21 +3,29 @@
   "description": "Offering a state-of-the-art platform for comprehensive end-to-end security management, this company excels under the leadership of an experienced information security executive.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/clutch_security-logo.webp",
+  "logoFile": "logos/clutch-security-logo.webp",
   "websiteUrl": "https://www.clutch.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "clutch-security",
+  "linkedinNum": 101671304,
   "crunchbaseId": null,
+  "ivcId": "A1000000460343",
   "finderId": "clutch-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
-      "lat": 32.070693,
-      "lon": 34.785176
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

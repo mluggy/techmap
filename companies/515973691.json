@@ -6,20 +6,26 @@
   "logoFile": "logos/infinipoint-logo.webp",
   "websiteUrl": "https://infinipoint.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "infinipointsec",
+  "linkedinNum": 34902045,
   "crunchbaseId": "infinipoint",
+  "ivcId": "A1000000320000",
   "finderId": "infinipoint-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרץ",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.052023,
-      "lon": 34.772861
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0514044,
+      "lon": 34.7728282
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 34902045
+  "isActive": true
 }

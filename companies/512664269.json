@@ -6,21 +6,26 @@
   "logoFile": "logos/natural_intelligence_ltd-logo.webp",
   "websiteUrl": "https://www.naturalint.com/",
   "careersUrl": "https://www.naturalint.com/jobs/",
-  "isHiring": true,
   "linkedinId": "naturalintelligence2",
+  "linkedinNum": 1901026,
   "crunchbaseId": null,
+  "ivcId": "A1000000001422",
   "finderId": "natural-intelligence",
   "xId": "Natural_Int",
+  "facebookId": "NatIntelligence",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.073249,
-      "lon": 34.796032
+      "city": "תל אביב-יפו",
+      "lat": 32.0728121,
+      "lon": 34.7959753
     }
   ],
   "isMultinational": false,
-  "facebookId": "NatIntelligence",
-  "linkedinNum": 1901026
+  "isActive": true
 }

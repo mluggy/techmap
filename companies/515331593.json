@@ -6,20 +6,26 @@
   "logoFile": "logos/green_2_pass-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000272750",
   "finderId": "green2pass",
   "xId": null,
+  "facebookId": "Green2Pass-106800997552139",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צה\"ל",
-      "houseNumber": 99,
-      "city": "אשקלון",
-      "lat": 31.665319,
-      "lon": 34.5875574
+      "street": "האורגים",
+      "houseNumber": 35,
+      "city": "אשדוד",
+      "lat": 31.8152703,
+      "lon": 34.6567956
     }
   ],
   "isMultinational": false,
-  "facebookId": "Green2Pass-106800997552139"
+  "isActive": true
 }

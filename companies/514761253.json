@@ -1,26 +1,31 @@
 {
   "name": "User1st",
-  "description": "Leading Web Accessibility Solutions for Organizations",
+  "description": "Leading Web Accessibility Solutions for Organizations.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/user_1st-logo.webp",
   "websiteUrl": "https://www.user1st.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "user1st",
+  "linkedinNum": 2442573,
   "crunchbaseId": null,
+  "ivcId": "A1000000022810",
   "finderId": "user1st",
   "xId": "user1st",
+  "facebookId": "user1st",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 7,
-      "city": "רמת גן",
-      "lat": 32.0835543,
-      "lon": 34.8042074
+      "street": "יגאל אלון",
+      "houseNumber": 127,
+      "city": "תל אביב-יפו",
+      "lat": 32.0758687,
+      "lon": 34.7958752
     }
   ],
   "isMultinational": false,
-  "facebookId": "user1st",
-  "linkedinNum": 2442573
+  "isActive": true
 }

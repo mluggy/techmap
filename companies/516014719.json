@@ -6,11 +6,17 @@
   "logoFile": "logos/dragonx-logo.webp",
   "websiteUrl": "https://andderemchin.github.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dragonx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עופרית",
@@ -19,5 +25,7 @@
       "lat": 32.2681724,
       "lon": 34.891367
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

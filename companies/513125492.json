@@ -6,11 +6,17 @@
   "logoFile": "logos/illumina-logo.webp",
   "websiteUrl": "https://www.illumina.com/",
   "careersUrl": "https://www.illumina.com/company/careers.html",
-  "isHiring": true,
   "linkedinId": "illumina",
+  "linkedinNum": 7513,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "illumina",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התאנה",
@@ -19,5 +25,7 @@
       "lat": 32.1100421,
       "lon": 34.9530629
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

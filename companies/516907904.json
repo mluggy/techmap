@@ -1,25 +1,31 @@
 {
   "name": "UTurn",
-  "description": "Reselling Online Returns Prior to Return Shipment",
+  "description": "Reselling Online Returns Prior to Return Shipment.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/uturn-logo.webp",
   "websiteUrl": "https://www.uturn.shop/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "uturnshop",
+  "linkedinNum": 67236229,
   "crunchbaseId": null,
+  "ivcId": "A1000000428995",
   "finderId": "uturn",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האמוראים",
-      "houseNumber": 6,
-      "city": "יבנה",
-      "lat": 31.8693643,
-      "lon": 34.741499
+      "street": "לינקולן",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.0658042,
+      "lon": 34.7829381
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 67236229
+  "isActive": true
 }

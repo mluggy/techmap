@@ -6,11 +6,17 @@
   "logoFile": "logos/neurotrax_israel-logo.webp",
   "websiteUrl": "https://neurotrax.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "neurotrax",
+  "linkedinNum": 120360,
   "crunchbaseId": null,
+  "ivcId": "A1000000007325",
   "finderId": "neurotrax",
   "xId": "NeuroTrax",
+  "facebookId": "NeuroTrax",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השדרה המרכזית",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "NeuroTrax",
-  "linkedinNum": 120360
+  "isActive": true
 }

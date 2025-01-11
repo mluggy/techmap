@@ -6,21 +6,26 @@
   "logoFile": "logos/spartans_ai-logo.webp",
   "websiteUrl": "https://www.spartans.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "spartans",
+  "linkedinNum": 17875033,
   "crunchbaseId": "spartans-ai",
+  "ivcId": "A1000000233826",
   "finderId": "spartans",
   "xId": null,
+  "facebookId": "spartanstech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תובל",
-      "houseNumber": 40,
-      "city": "רמת גן",
-      "lat": 32.08501775,
-      "lon": 34.80164595917552
+      "street": "מנחם בגין",
+      "houseNumber": 121,
+      "city": "בני ברק",
+      "lat": 32.093423,
+      "lon": 34.832177
     }
   ],
   "isMultinational": false,
-  "facebookId": "spartanstech",
-  "linkedinNum": 17875033
+  "isActive": true
 }

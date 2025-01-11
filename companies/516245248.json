@@ -1,26 +1,31 @@
 {
   "name": "Piggy",
-  "description": "Mobile App for Content Creation and Social Sharing",
+  "description": "Mobile App for Content Creation and Social Sharing.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/piggy-logo.webp",
   "websiteUrl": "https://piggy.to/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "piggydotto",
+  "linkedinNum": 69429173,
   "crunchbaseId": "piggydotto",
+  "ivcId": "A1000000325498",
   "finderId": "piggy",
   "xId": "piggydotto",
+  "facebookId": "piggydotto",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלוף מגן קלמן",
+      "street": "אלוף קלמן מגן",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.0714513,
-      "lon": 34.7871809
+      "city": "תל אביב-יפו",
+      "lat": 32.070732,
+      "lon": 34.786781
     }
   ],
   "isMultinational": false,
-  "facebookId": "piggydotto",
-  "linkedinNum": 69429173
+  "isActive": true
 }

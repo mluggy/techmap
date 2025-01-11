@@ -6,19 +6,26 @@
   "logoFile": "logos/storemaven-logo.webp",
   "websiteUrl": "https://www.storemaven.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "storemaven",
+  "ivcId": null,
   "finderId": "storemaven",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "storemaven/45.00F",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלפסי",
       "houseNumber": 36,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.052557,
       "lon": 34.769008
     }
   ],
-  "comeetId": "storemaven/45.00F"
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/neuroderm-logo.webp",
   "websiteUrl": "https://neuroderm.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 9873432,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "neuroderm",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פקריס",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 9873432
+  "isActive": true
 }

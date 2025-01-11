@@ -1,26 +1,31 @@
 {
   "name": "Skelable",
-  "description": "We provide innovative mobility solutions to improve the lives of individuals with conditions such as CVA, SCI, and ALS.",
+  "description": "Skelable brings the artificial intelligence revolution to the field of traditional rehabilitation, using a combination of telerehabilitation, IoT, ML & AI.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/skelable-logo.webp",
-  "websiteUrl": "https://www.skelable.ai/",
+  "websiteUrl": "http://skelable.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 23715819,
   "crunchbaseId": null,
+  "ivcId": "A1000000282795",
   "finderId": "skelable",
   "xId": null,
+  "facebookId": "Skelable-100212374916590",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 22,
       "city": "ראש העין",
-      "lat": 32.1088976,
-      "lon": 34.9653972
+      "lat": 32.1068957,
+      "lon": 34.9712257
     }
   ],
   "isMultinational": false,
-  "facebookId": "Skelable-100212374916590",
-  "linkedinNum": 23715819
+  "isActive": true
 }

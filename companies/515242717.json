@@ -1,0 +1,31 @@
+{
+  "name": "Univonix",
+  "description": "Univonix is a process automation SaaS platform that enables a seamless accelerated migration from legacy on-prem PBX and Contact Center systems to Cloud solutions.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/univonix-logo.webp",
+  "websiteUrl": "http://www.univonix.com",
+  "careersUrl": "http://www.univonix.com/careers.html",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000196395",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פנחס ספיר",
+      "houseNumber": 8,
+      "city": "נס ציונה",
+      "lat": 31.9155674,
+      "lon": 34.8042185
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

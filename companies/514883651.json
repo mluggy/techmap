@@ -1,16 +1,22 @@
 {
   "name": "CyberGym",
-  "description": "Providing innovative cyber defense solutions through our newly launched website.",
+  "description": "CybergymIEC - the only critical infrastructure-native cyber defense company, is a joint venture between the Israel Electric Corporation (IEC) - one of the most targeted organizations in the world - and CYBERGYM – a decade-long global provider of tailored cyber-training platforms & solutions.",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/cybergym_control-logo.webp",
-  "websiteUrl": "https://www.cybergym.com/",
+  "websiteUrl": "https://www.cybergymiec.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cybergymiec",
+  "linkedinNum": 3526356,
   "crunchbaseId": "cybergym",
+  "ivcId": "A1000000023742",
   "finderId": "cybergym",
   "xId": "CyberGymArena",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקת-פארק התעשייה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3526356
+  "isActive": true
 }

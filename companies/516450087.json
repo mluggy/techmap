@@ -1,16 +1,22 @@
 {
   "name": "Testify",
-  "description": "Automated Declarative Testing Tool for Salesforce QA and Unit Testing",
+  "description": "Automated Declarative Testing Tool for Salesforce QA and Unit Testing.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/testify-logo.webp",
   "websiteUrl": "https://www.testify.vip/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "testifyvip",
+  "linkedinNum": 34945759,
   "crunchbaseId": null,
+  "ivcId": "A1000000368181",
   "finderId": "testify",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהלום",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 34945759
+  "isActive": true
 }

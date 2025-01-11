@@ -6,21 +6,26 @@
   "logoFile": "logos/spetrotec_ltd-logo.webp",
   "websiteUrl": "https://www.spetrotec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "spetrotec",
+  "linkedinNum": 156623,
   "crunchbaseId": null,
+  "ivcId": "A1000000001459",
   "finderId": "spetrotec",
   "xId": null,
+  "facebookId": "iwatcherapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מבוא קדם",
-      "houseNumber": 5,
+      "street": "5",
+      "houseNumber": null,
       "city": "הוד השרון",
-      "lat": 32.1557398,
-      "lon": 34.9200655
+      "lat": 32.1022624,
+      "lon": 35.0452634
     }
   ],
   "isMultinational": false,
-  "facebookId": "iwatcherapp",
-  "linkedinNum": 156623
+  "isActive": true
 }

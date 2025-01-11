@@ -1,25 +1,31 @@
 {
   "name": "Eyezon",
-  "description": "In-store Checkout Intelligence",
+  "description": "In-store Checkout Intelligence.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/eyezon-logo.webp",
   "websiteUrl": "https://www.eyezon.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eyezon",
+  "linkedinNum": 35453737,
   "crunchbaseId": null,
+  "ivcId": "A1000000273773",
   "finderId": "eyezon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0705297,
       "lon": 34.7872761
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35453737
+  "isActive": true
 }

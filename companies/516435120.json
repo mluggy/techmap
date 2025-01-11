@@ -6,20 +6,26 @@
   "logoFile": "logos/groundcover-logo.webp",
   "websiteUrl": "https://www.groundcover.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "groundcover-com",
+  "linkedinNum": 79388632,
   "crunchbaseId": null,
+  "ivcId": "A1000000363810",
   "finderId": "prodstack",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרליבך",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
-      "lat": 32.06894,
-      "lon": 34.782739
+      "city": "תל אביב-יפו",
+      "lat": 32.0690677,
+      "lon": 34.7827802
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79388632
+  "isActive": true
 }

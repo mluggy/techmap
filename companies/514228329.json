@@ -1,0 +1,31 @@
+{
+  "name": "Patiphon",
+  "description": "Patiphon is a digital content management system for the music and information industry. It serves as a platform for distributing new singles.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/patiphon-logo.webp",
+  "websiteUrl": "http://www.patiphon.co.il",
+  "careersUrl": null,
+  "linkedinId": "patiphon-ltd",
+  "linkedinNum": 35548509,
+  "crunchbaseId": null,
+  "ivcId": "A1000000002903",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "טיומקין",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0643688,
+      "lon": 34.7779527
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

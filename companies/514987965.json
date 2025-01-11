@@ -1,0 +1,31 @@
+{
+  "name": "ST Stent",
+  "description": "S.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/st-stent-logo.webp",
+  "websiteUrl": "http://www.ststent.com",
+  "careersUrl": null,
+  "linkedinId": "s-t-stent",
+  "linkedinNum": 5103405,
+  "crunchbaseId": null,
+  "ivcId": "A1000000024679",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "העמל",
+      "houseNumber": 37,
+      "city": "רעננה",
+      "lat": 32.1975588,
+      "lon": 34.880494
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

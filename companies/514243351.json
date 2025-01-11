@@ -6,11 +6,17 @@
   "logoFile": "logos/novomic-logo.webp",
   "websiteUrl": "https://novokid.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "novomic",
   "xId": null,
+  "facebookId": "Novokid",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Novokid"
+  "isActive": true
 }

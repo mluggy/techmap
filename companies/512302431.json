@@ -1,25 +1,31 @@
 {
   "name": "Ansā",
-  "description": "Zero-pollution Coffee Roasting Solution",
-  "categoryId": 17,
+  "description": "ansa is a developer of a coffee roasting technology, designed to produce a homogenous and consistent roast.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/ansa-logo.webp",
-  "websiteUrl": "https://www.ansacoffee.com/",
+  "websiteUrl": "https://www.ansa.coffee",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ansa-roasting",
+  "linkedinNum": 38101172,
   "crunchbaseId": null,
+  "ivcId": "A1000000310930",
   "finderId": "ans",
   "xId": "griin_tech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מבנה",
-      "houseNumber": 5,
-      "city": "מעלות-תרשיחא",
-      "lat": 33.0127064663753,
-      "lon": 35.2762237369558
+      "street": "היצירה",
+      "houseNumber": 24,
+      "city": "רמת גן",
+      "lat": 32.0872374,
+      "lon": 34.8022306
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 38101172
+  "isActive": true
 }

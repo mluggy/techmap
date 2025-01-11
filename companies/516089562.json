@@ -6,20 +6,26 @@
   "logoFile": "logos/tenasors_medical-logo.webp",
   "websiteUrl": "https://www.tenasors.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tenasors-medical-ltd",
+  "linkedinNum": 37010414,
   "crunchbaseId": "tenasors-medical-ltd",
+  "ivcId": "A1000000320088",
   "finderId": "tenasors-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלתרמן נתן",
-      "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.1745745,
-      "lon": 34.8385368
+      "street": "הגנים",
+      "houseNumber": 3,
+      "city": "קריית ביאליק",
+      "lat": 32.8328211,
+      "lon": 35.0889185
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37010414
+  "isActive": true
 }

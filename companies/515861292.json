@@ -1,26 +1,31 @@
 {
   "name": "RealFriend",
-  "description": "AI-powered Real Estate Agents for Apartment Rentals",
+  "description": "AI-powered Real Estate Agents for Apartment Rentals.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/realfriend_tech-logo.webp",
   "websiteUrl": "https://textluke.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "realfriendai",
+  "linkedinNum": 33178381,
   "crunchbaseId": "realfriend-tech-israel",
+  "ivcId": "A1000000287408",
   "finderId": "realfriend",
   "xId": "text_luke",
+  "facebookId": "LukeRealFriend",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 129,
-      "city": "תל אביב - יפו",
-      "lat": 32.071142,
-      "lon": 34.778606
+      "city": "תל אביב-יפו",
+      "lat": 32.071215,
+      "lon": 34.778794
     }
   ],
   "isMultinational": false,
-  "facebookId": "LukeRealFriend",
-  "linkedinNum": 33178381
+  "isActive": true
 }

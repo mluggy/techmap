@@ -6,21 +6,26 @@
   "logoFile": "logos/rad_biomed_accelerator-logo.webp",
   "websiteUrl": "https://www.rad.com/",
   "careersUrl": "https://radtech.ca/en/job/",
-  "isHiring": true,
   "linkedinId": "rad-data-communications",
+  "linkedinNum": 7369,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rad-technologies",
   "xId": "raddatacomms",
+  "facebookId": "RAD.Data.Communications",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.111205,
       "lon": 34.8388694
     }
   ],
   "isMultinational": false,
-  "facebookId": "RAD.Data.Communications",
-  "linkedinNum": 7369
+  "isActive": true
 }

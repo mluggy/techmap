@@ -6,11 +6,26 @@
   "logoFile": "logos/metomotion-logo.webp",
   "websiteUrl": "https://metomotion.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "metomotion",
+  "linkedinNum": 78549290,
   "crunchbaseId": null,
+  "ivcId": "A1000000224264",
   "finderId": "metomotion",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "היצירה",
+      "houseNumber": 6,
+      "city": "יוקנעם עילית",
+      "lat": 32.6595784,
+      "lon": 35.0985963
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

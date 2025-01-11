@@ -6,11 +6,17 @@
   "logoFile": "logos/greenq-logo.webp",
   "websiteUrl": "https://greenq.gq/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10072024,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "greenq1",
   "xId": "Greenq_media",
+  "facebookId": "GreenQ.IoG",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פרופ רקח",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GreenQ.IoG",
-  "linkedinNum": 10072024
+  "isActive": true
 }

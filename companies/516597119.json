@@ -1,0 +1,31 @@
+{
+  "name": "Descriptor",
+  "description": "Descriptor's mission is to use the power of AI to instill machines with empathy. The company's product aims to help interpret customer emotions and translate them into customer needs.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/descriptor-logo.webp",
+  "websiteUrl": "https://descriptor.ai",
+  "careersUrl": null,
+  "linkedinId": "descriptor-ai",
+  "linkedinNum": 73231941,
+  "crunchbaseId": null,
+  "ivcId": "A1000000412680",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אריה בן אליעזר",
+      "houseNumber": 8,
+      "city": "רמת גן",
+      "lat": 32.0689805,
+      "lon": 34.8324913
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

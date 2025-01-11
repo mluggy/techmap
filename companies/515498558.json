@@ -6,21 +6,26 @@
   "logoFile": "logos/safehouse_technologies-logo.webp",
   "websiteUrl": "https://safehousetech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "safehousetech",
+  "linkedinNum": 13435735,
   "crunchbaseId": "safehouse-ffed",
+  "ivcId": "A1000000257520",
   "finderId": "safehouse-technologies",
   "xId": "SafeHouseTech",
+  "facebookId": "safehousetech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פרישמן",
       "houseNumber": 88,
-      "city": "תל אביב - יפו",
-      "lat": 32.07928,
-      "lon": 34.779502
+      "city": "תל אביב-יפו",
+      "lat": 32.0791779,
+      "lon": 34.7794393
     }
   ],
   "isMultinational": false,
-  "facebookId": "safehousetech",
-  "linkedinNum": 13435735
+  "isActive": true
 }

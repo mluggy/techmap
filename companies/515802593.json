@@ -1,16 +1,22 @@
 {
   "name": "Hinoman",
   "description": "Mankai Cultivation",
-  "size": "xs",
   "categoryId": 17,
+  "size": "xs",
   "logoFile": "logos/hinoman_beeri_industries-logo.webp",
   "websiteUrl": "https://eatmankai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mankai-by-hinoman",
+  "linkedinNum": 40842951,
   "crunchbaseId": "hinoman",
+  "ivcId": null,
   "finderId": "hinoman",
   "xId": null,
+  "facebookId": "EatMankaiUSA",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארזים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "EatMankaiUSA",
-  "linkedinNum": 40842951
+  "isActive": true
 }

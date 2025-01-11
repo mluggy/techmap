@@ -6,21 +6,26 @@
   "logoFile": "logos/trapica_labs-logo.webp",
   "websiteUrl": "https://www.trapica.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "trapica",
+  "linkedinNum": 13179762,
   "crunchbaseId": null,
+  "ivcId": "A1000000216592",
   "finderId": "trapica-labs",
   "xId": "Trapica_labs",
+  "facebookId": "TrapicaAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלקלעי",
+      "street": "אלוף קלמן מגן",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.090949,
-      "lon": 34.779722
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "facebookId": "TrapicaAI",
-  "linkedinNum": 13179762
+  "isActive": true
 }

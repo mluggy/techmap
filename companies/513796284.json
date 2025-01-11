@@ -1,0 +1,31 @@
+{
+  "name": "StarBrand",
+  "description": "Nameber has developed an innovative service - StarBrand (*Brand)  - which enables businesses to assemble their phone number from asterisk and the business' name, thus making it easier to remember.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/starbrand-logo.webp",
+  "websiteUrl": "https://www.starbrand.co.il",
+  "careersUrl": null,
+  "linkedinId": "nameber-ltd",
+  "linkedinNum": 19117658,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009555",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 10,
+      "city": "רמת גן",
+      "lat": 32.0891531,
+      "lon": 34.8013594
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

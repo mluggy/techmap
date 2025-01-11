@@ -6,11 +6,17 @@
   "logoFile": "logos/vishay_advanced_technologies_ltd-logo.webp",
   "websiteUrl": "https://www.vishay.com/",
   "careersUrl": "https://jobs.vishay.com/",
-  "isHiring": true,
   "linkedinId": "vishay-intertechnology-inc-",
+  "linkedinNum": 7449,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vishay",
   "xId": "VishayIndust",
+  "facebookId": "VishayIntertechnology",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צלע ההר",
@@ -20,7 +26,6 @@
       "lon": 34.9691849
     }
   ],
-  "isMultinational": true,
-  "facebookId": "VishayIntertechnology",
-  "linkedinNum": 7449
+  "isMultinational": false,
+  "isActive": true
 }

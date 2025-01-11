@@ -6,11 +6,17 @@
   "logoFile": "logos/pam_bio-logo.webp",
   "websiteUrl": "https://www.ngt3vc.com/pambio/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pambio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ואדי אל-חאג'",
@@ -20,5 +26,6 @@
       "lon": 35.298186
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

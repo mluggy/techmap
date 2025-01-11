@@ -6,21 +6,26 @@
   "logoFile": "logos/re_sec_technologies-logo.webp",
   "websiteUrl": "https://resec.co/",
   "careersUrl": "https://resec.co/careers/",
-  "isHiring": true,
   "linkedinId": "re-sec-technologies-ltd",
+  "linkedinNum": 3253132,
   "crunchbaseId": "re-sec-technologies",
+  "ivcId": "A1000000022253",
   "finderId": "re-sec-technologies",
   "xId": "resectech",
+  "facebookId": "resectech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הטוחן",
-      "houseNumber": 2,
+      "street": "כביש 2",
+      "houseNumber": null,
       "city": "קיסריה",
-      "lat": 32.4863102,
-      "lon": 34.9521262
+      "lat": 32.499109,
+      "lon": 34.916476
     }
   ],
   "isMultinational": false,
-  "facebookId": "resectech",
-  "linkedinNum": 3253132
+  "isActive": true
 }

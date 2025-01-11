@@ -1,24 +1,31 @@
 {
   "name": "ViVac",
-  "description": "Nucleic Acid-based Vaccine Platform",
+  "description": "Nucleic Acid-based Vaccine Platform.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/vivac_pharma-logo.webp",
   "websiteUrl": "https://content.celero.io/s/0d316a30/vivac-non-confidential-jan-23/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000418932",
   "finderId": "vivac",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד נים",
-      "houseNumber": 2,
-      "city": "ראשון לציון",
-      "lat": 31.949713600000003,
-      "lon": 34.80328505744155
+      "street": "מאיר יערי",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.0998983,
+      "lon": 34.7882395
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

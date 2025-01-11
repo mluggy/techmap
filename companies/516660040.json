@@ -1,0 +1,31 @@
+{
+  "name": "Elba Bio",
+  "description": "In stealth mode.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/elba_bio-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485154",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "אביגדור",
+      "lat": 31.711901,
+      "lon": 34.740369
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

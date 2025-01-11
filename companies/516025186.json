@@ -6,21 +6,26 @@
   "logoFile": "logos/acumen_labs-logo.webp",
   "websiteUrl": "https://accumen.com/",
   "careersUrl": "https://accumen.com/careers/",
-  "isHiring": true,
   "linkedinId": "acumen-labs",
+  "linkedinNum": 20100529,
   "crunchbaseId": "acumen-labs",
+  "ivcId": null,
   "finderId": "acumen-labs",
   "xId": "AcumenLabs",
+  "facebookId": "AcumenEngineering",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תושיה",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066664,
       "lon": 34.788182
     }
   ],
   "isMultinational": false,
-  "facebookId": "AcumenEngineering",
-  "linkedinNum": 20100529
+  "isActive": true
 }

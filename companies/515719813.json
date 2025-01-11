@@ -6,21 +6,26 @@
   "logoFile": "logos/hola_vpn-logo.webp",
   "websiteUrl": "https://hola.org/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 820275,
   "crunchbaseId": null,
+  "ivcId": "A1000000002571",
   "finderId": "hola",
   "xId": "hola_org",
+  "facebookId": "HolaBetterInternet",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך אבא הלל",
-      "houseNumber": 16,
-      "city": "רמת גן",
-      "lat": 32.0861273,
-      "lon": 34.8054589
+      "street": "המחשב",
+      "houseNumber": 3,
+      "city": "נתניה",
+      "lat": 32.2878843,
+      "lon": 34.864998
     }
   ],
   "isMultinational": false,
-  "facebookId": "HolaBetterInternet",
-  "linkedinNum": 820275
+  "isActive": true
 }

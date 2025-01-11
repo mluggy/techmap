@@ -6,21 +6,26 @@
   "logoFile": "logos/rayzone_group-logo.webp",
   "websiteUrl": "https://rayzone.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rayzone-group",
+  "linkedinNum": 30147215,
   "crunchbaseId": null,
+  "ivcId": "A1000000219860",
   "finderId": "rayzone-group",
   "xId": null,
+  "facebookId": "Rayzone-Group-1192001064320983",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 65,
-      "city": "תל אביב - יפו",
-      "lat": 32.065766,
-      "lon": 34.792307
+      "city": "תל אביב-יפו",
+      "lat": 32.0657718,
+      "lon": 34.7922834
     }
   ],
   "isMultinational": false,
-  "facebookId": "Rayzone-Group-1192001064320983",
-  "linkedinNum": 30147215
+  "isActive": true
 }

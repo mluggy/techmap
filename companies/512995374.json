@@ -3,21 +3,29 @@
   "description": "Provides software localization, translating UI and resource files into over 40 languages, along with consulting to enhance translation efficiency.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/intersol_moroz-logo.webp",
+  "logoFile": "logos/intersol-moroz-logo.webp",
   "websiteUrl": "https://intersolinc.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "intersol-inc-brea-ca",
+  "linkedinNum": 1337570,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "intersol",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 48,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064462,
       "lon": 34.773844
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/glossai.webp",
   "websiteUrl": "https://glossai.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "glossai",
+  "linkedinNum": 74569361,
   "crunchbaseId": "glossai",
+  "ivcId": "A1000000399566",
   "finderId": "glossai",
   "xId": null,
+  "facebookId": "glossai.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אורי",
+      "street": "לסר אורי",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.128611,
-      "lon": 34.794594
+      "city": "תל אביב-יפו",
+      "lat": 32.0808418,
+      "lon": 34.7853241
     }
   ],
   "isMultinational": false,
-  "facebookId": "glossai.co",
-  "linkedinNum": 74569361
+  "isActive": true
 }

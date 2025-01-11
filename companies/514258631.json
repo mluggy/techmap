@@ -6,20 +6,26 @@
   "logoFile": "logos/mobius_protection_systems-logo.webp",
   "websiteUrl": "https://www.mobius-ps.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mobius-protection-systems",
+  "linkedinNum": 1200267,
   "crunchbaseId": null,
+  "ivcId": "A1000000009749",
   "finderId": "mobius-protection-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרימון",
-      "houseNumber": 15,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9081759562442,
-      "lon": 35.01621074527714
+      "street": null,
+      "houseNumber": null,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.890267,
+      "lon": 35.010397
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1200267
+  "isActive": true
 }

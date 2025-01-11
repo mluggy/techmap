@@ -6,13 +6,17 @@
   "logoFile": "logos/streamsights-1.webp",
   "websiteUrl": "https://streamsights.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "stream-sights",
   "linkedinNum": 67339501,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "streamsights-1",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצלע",
@@ -22,5 +26,6 @@
       "lon": 34.818829245329795
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

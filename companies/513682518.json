@@ -6,11 +6,17 @@
   "logoFile": "logos/composica-logo.webp",
   "websiteUrl": "https://composica.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "composica",
   "xId": null,
+  "facebookId": "MaryTest",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרצל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MaryTest"
+  "isActive": true
 }

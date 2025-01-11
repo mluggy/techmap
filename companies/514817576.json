@@ -6,21 +6,26 @@
   "logoFile": "logos/playgem_technologies-logo.webp",
   "websiteUrl": "https://www.playgem.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "playgem",
+  "linkedinNum": 5037699,
   "crunchbaseId": null,
+  "ivcId": "A1000000020750",
   "finderId": "playgem",
   "xId": null,
+  "facebookId": "PlayGemBackgammonFree",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שער פלמר",
       "houseNumber": 1,
       "city": "חיפה",
-      "lat": 32.8192826,
-      "lon": 34.99932
+      "lat": 32.8196828,
+      "lon": 35.0001669
     }
   ],
   "isMultinational": false,
-  "facebookId": "PlayGemBackgammonFree",
-  "linkedinNum": 5037699
+  "isActive": true
 }

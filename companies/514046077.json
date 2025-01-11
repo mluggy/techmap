@@ -6,11 +6,17 @@
   "logoFile": "logos/video_inform-logo.webp",
   "websiteUrl": "https://www.video-inform.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "video-inform",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -20,5 +26,6 @@
       "lon": 34.856772
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

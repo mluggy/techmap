@@ -1,0 +1,31 @@
+{
+  "name": "Voyyo",
+  "description": "Voyyo is on a mission to enhance hotel customer satisfaction and ease the room assignment process for hotel managers.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/voyyo-logo.webp",
+  "websiteUrl": "https://voyyo.io",
+  "careersUrl": null,
+  "linkedinId": "voyyo",
+  "linkedinNum": 78768608,
+  "crunchbaseId": null,
+  "ivcId": "A1000000354823",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 32,
+      "city": "תל אביב-יפו",
+      "lat": 32.0630935,
+      "lon": 34.7730763
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

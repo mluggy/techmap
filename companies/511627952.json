@@ -6,21 +6,26 @@
   "logoFile": "logos/radview_software-logo.webp",
   "websiteUrl": "https://www.radview.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "radview-software",
+  "linkedinNum": 17110,
   "crunchbaseId": null,
+  "ivcId": "A1000000008346",
   "finderId": "radview",
   "xId": "RadViewSoftware",
+  "facebookId": "RadView",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
+      "street": "העמל",
       "houseNumber": 13,
-      "city": "ראש העין",
-      "lat": 32.09668,
-      "lon": 34.9066455
+      "city": "הוד השרון",
+      "lat": 32.1569608,
+      "lon": 34.888236
     }
   ],
   "isMultinational": false,
-  "facebookId": "RadView",
-  "linkedinNum": 17110
+  "isActive": true
 }

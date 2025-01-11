@@ -6,21 +6,26 @@
   "logoFile": "logos/pollogen-logo.webp",
   "websiteUrl": "https://pollogen.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2351750,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pollogen",
   "xId": "pollogen",
+  "facebookId": "Pollogen.ltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קויפמן יחזקאל",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063998,
       "lon": 34.762479
     }
   ],
   "isMultinational": false,
-  "facebookId": "Pollogen.ltd",
-  "linkedinNum": 2351750
+  "isActive": true
 }

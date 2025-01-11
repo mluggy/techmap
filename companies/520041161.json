@@ -6,11 +6,17 @@
   "logoFile": "logos/plasto_cargal_group_ltd-logo.webp",
   "websiteUrl": "https://plasto-sac.co.uk/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "plasto-sac",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד שורץ",
@@ -19,5 +25,7 @@
       "lat": 31.96548507559019,
       "lon": 34.89572488984125
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

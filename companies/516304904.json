@@ -1,25 +1,31 @@
 {
   "name": "Femme Medical",
-  "description": "Treatment for Pelvic Organ Prolapse",
+  "description": "Treatment for Pelvic Organ Prolapse.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/femme_medical-logo.webp",
   "websiteUrl": "https://www.femme-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "femme-medical",
+  "linkedinNum": 75718178,
   "crunchbaseId": null,
+  "ivcId": "A1000000357924",
   "finderId": "femme-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ביאליק",
+      "street": "חיים נחמן ביאליק",
       "houseNumber": 34,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0359907,
-      "lon": 34.8873747
+      "city": "יהוד מונוסון",
+      "lat": 32.0367609,
+      "lon": 34.8901945
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75718178
+  "isActive": true
 }

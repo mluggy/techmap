@@ -6,21 +6,26 @@
   "logoFile": "logos/curespec-logo.webp",
   "websiteUrl": "https://www.curespec.info/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "curespec",
+  "linkedinNum": 80680321,
   "crunchbaseId": null,
+  "ivcId": "A1000000345855",
   "finderId": "curespec",
   "xId": null,
+  "facebookId": "Curespec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התעשייה",
       "houseNumber": 40,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0308327,
-      "lon": 34.9005492
+      "city": "יהוד מונוסון",
+      "lat": 32.0279892,
+      "lon": 34.9006102
     }
   ],
   "isMultinational": false,
-  "facebookId": "Curespec",
-  "linkedinNum": 80680321
+  "isActive": true
 }

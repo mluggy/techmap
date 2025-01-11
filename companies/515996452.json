@@ -6,20 +6,26 @@
   "logoFile": "logos/emporus_technologies-logo.webp",
   "websiteUrl": "https://www.emporus.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "emporus-technologies",
+  "linkedinNum": 69755578,
   "crunchbaseId": "emporus-technologies",
+  "ivcId": null,
   "finderId": "emporus-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69755578
+  "isActive": true
 }

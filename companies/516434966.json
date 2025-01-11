@@ -6,20 +6,26 @@
   "logoFile": "logos/robusta_dev-logo.webp",
   "websiteUrl": "https://home.robusta.dev/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "robusta-dev",
+  "linkedinNum": 77652374,
   "crunchbaseId": null,
+  "ivcId": "A1000000381737",
   "finderId": "robusta-dev",
   "xId": "robustadev",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.066035,
-      "lon": 34.782959
+      "city": "תל אביב-יפו",
+      "lat": 32.0658042,
+      "lon": 34.7829381
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77652374
+  "isActive": true
 }

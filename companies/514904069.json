@@ -1,0 +1,31 @@
+{
+  "name": "Click-BI",
+  "description": "Click BI is a revolutionary tool allowing small and medium businesses to analyze data quickly, with no need for programming or integration.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/click-bi-logo.webp",
+  "websiteUrl": "http://click-bi.com/en",
+  "careersUrl": null,
+  "linkedinId": "click-bi-technologies",
+  "linkedinNum": 17899985,
+  "crunchbaseId": null,
+  "ivcId": "A1000000216868",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 100,
+      "city": "פתח תקווה",
+      "lat": 32.0926342,
+      "lon": 34.8566438
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

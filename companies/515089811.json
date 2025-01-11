@@ -6,21 +6,26 @@
   "logoFile": "logos/mindolife_iot-logo.webp",
   "websiteUrl": "https://www.mindolife.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mindolife-ltd",
+  "linkedinNum": 5215716,
   "crunchbaseId": null,
+  "ivcId": "A1000000179016",
   "finderId": "mindolife",
   "xId": "mindolifeltd",
+  "facebookId": "MindoLife",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שיבת ציון",
-      "houseNumber": 21,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.8130891,
-      "lon": 35.0024518
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
   "isMultinational": false,
-  "facebookId": "MindoLife",
-  "linkedinNum": 5215716
+  "isActive": true
 }

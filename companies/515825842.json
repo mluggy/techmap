@@ -6,21 +6,26 @@
   "logoFile": "logos/arcana_instruments-logo.webp",
   "websiteUrl": "https://arcanainstruments.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "arcana-instruments-ltd",
+  "linkedinNum": 29027079,
   "crunchbaseId": null,
+  "ivcId": "A1000000325516",
   "finderId": "arcana-instruments",
   "xId": null,
+  "facebookId": "arcana.instruments",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השדה",
-      "houseNumber": 224,
-      "city": "פרדס חנה-כרכור",
-      "lat": 32.478772,
-      "lon": 34.9785713
+      "houseNumber": null,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5195559,
+      "lon": 34.9353677
     }
   ],
   "isMultinational": false,
-  "facebookId": "arcana.instruments",
-  "linkedinNum": 29027079
+  "isActive": true
 }

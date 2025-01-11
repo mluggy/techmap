@@ -6,11 +6,17 @@
   "logoFile": "logos/triso-logo.webp",
   "websiteUrl": "https://triso.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 77282114,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "triso",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נריה הנביא",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77282114
+  "isActive": true
 }

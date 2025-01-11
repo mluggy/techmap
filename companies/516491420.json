@@ -6,20 +6,26 @@
   "logoFile": "logos/sweet_balance-logo.webp",
   "websiteUrl": "https://www.sweet-balance.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sweet-balance-ltd",
+  "linkedinNum": 81615602,
   "crunchbaseId": null,
+  "ivcId": "A1000000375992",
   "finderId": "sweet-balance",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חצב",
       "houseNumber": 30,
-      "city": "קריית שמונה",
-      "lat": 33.2115548,
-      "lon": 35.5787624
+      "city": "קרית שמונה",
+      "lat": 33.21153900000001,
+      "lon": 35.578711
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81615602
+  "isActive": true
 }

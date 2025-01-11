@@ -1,16 +1,22 @@
 {
   "name": "ManuFuture",
-  "description": "B2B Marketplace for Mechanical Parts",
+  "description": "B2B Marketplace for Mechanical Parts.",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/manufuture-logo.webp",
   "websiteUrl": "https://manufuture.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "manufuture",
+  "linkedinNum": 78126857,
   "crunchbaseId": null,
+  "ivcId": "A1000000391527",
   "finderId": "manufuture",
   "xId": "ManuFuture_Ltd",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הבריח",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78126857
+  "isActive": true
 }

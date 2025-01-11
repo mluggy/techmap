@@ -1,0 +1,31 @@
+{
+  "name": "Cymdall",
+  "description": "Cymdall is an Israeli cybersecurity firm that improves cyber defense at the hardware level with its Cyber Security Processing Unit (CSPU).",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/cymdall-logo.webp",
+  "websiteUrl": "https://www.cymdall.com",
+  "careersUrl": null,
+  "linkedinId": "cymdall",
+  "linkedinNum": 78749330,
+  "crunchbaseId": null,
+  "ivcId": "A1000000419895",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "צופיה",
+      "houseNumber": 23,
+      "city": "קדומים",
+      "lat": 32.2226044,
+      "lon": 35.1590618
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

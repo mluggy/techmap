@@ -6,11 +6,17 @@
   "logoFile": "logos/fastbreak_medical-logo.webp",
   "websiteUrl": "https://fastbreakmedical.godaddysites.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000454693",
   "finderId": "fastbreak-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפרדסים",
@@ -20,5 +26,6 @@
       "lon": 34.7886826
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

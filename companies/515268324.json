@@ -3,14 +3,29 @@
   "description": "Introducing a new line of toothpastes harnessing the healing power of Dead Sea water.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/yama_tech-logo.webp",
+  "logoFile": "logos/yama--logo.webp",
   "websiteUrl": "https://yama-plus.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "yama-plus",
+  "linkedinNum": 66628879,
   "crunchbaseId": null,
+  "ivcId": "A1000000284007",
   "finderId": "yama",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מדבר סיני",
+      "houseNumber": 18,
+      "city": "ירושלים",
+      "lat": 31.8037923,
+      "lon": 35.2313402
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

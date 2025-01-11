@@ -1,26 +1,31 @@
 {
   "name": "Madskil",
-  "description": "A real-time interactive game designed for live streaming platforms.",
-  "categoryId": 11,
+  "description": "Madskil Gaming aims to revolutionize the way live game streaming is experienced by creating a fun and engaging game that allows viewers to interact with the streams in a unique and fun way.",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/madskil_gaming-logo.webp",
-  "websiteUrl": "https://xoilium.com/",
-  "careersUrl": "https://jobs.dou.ua/companies/madskil-gaming-ltd/",
-  "isHiring": true,
+  "websiteUrl": "https://www.rebelbots.com",
+  "careersUrl": null,
   "linkedinId": "madskil",
+  "linkedinNum": 35707739,
   "crunchbaseId": "madskil-gaming",
+  "ivcId": "A1000000296101",
   "finderId": "madskil",
   "xId": "Madskil_Gaming",
+  "facebookId": "madskil.gaming",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גורדון י ל",
-      "houseNumber": 71,
-      "city": "תל אביב - יפו",
-      "lat": 32.081161,
-      "lon": 34.77803
+      "street": "ארלוזורוב",
+      "houseNumber": 111,
+      "city": "תל אביב-יפו",
+      "lat": 32.0844608,
+      "lon": 34.7867992
     }
   ],
   "isMultinational": false,
-  "facebookId": "madskil.gaming",
-  "linkedinNum": 35707739
+  "isActive": true
 }

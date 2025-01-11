@@ -3,14 +3,20 @@
   "description": "A platform for building AI-based virtual humans - for educational use cases and more.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/beyond_virtual-logo.webp",
+  "logoFile": "logos/beyond-virtual-logo.webp",
   "websiteUrl": "https://beyondvirtual.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "beyondvirtual",
+  "linkedinNum": 23677105,
   "crunchbaseId": null,
+  "ivcId": "A1000000425139",
   "finderId": "beyond-virtual",
   "xId": "beyondvirtualai",
+  "facebookId": "beyondvirtualai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "beyondvirtualai"
+  "isActive": true
 }

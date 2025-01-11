@@ -1,0 +1,31 @@
+{
+  "name": "Heyoya",
+  "description": "Heyoya is a platform designed to help businesses encourage their customers to interact with products and content online through voice reviews and comments.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/heyoya-logo.webp",
+  "websiteUrl": "http://www.heyoya.com",
+  "careersUrl": null,
+  "linkedinId": "heyoya",
+  "linkedinNum": 4871964,
+  "crunchbaseId": null,
+  "ivcId": "A1000000188619",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב מצפה-ים",
+      "houseNumber": 7,
+      "city": "הרצליה",
+      "lat": 32.1653973,
+      "lon": 34.8155773
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

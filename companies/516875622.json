@@ -1,0 +1,31 @@
+{
+  "name": "BOB FoodTech",
+  "description": "BOB FoodTech's mission is to empower the cultivated meat and seafood industries to achieve its goal of delivering affordable cultivated protein products, accessible to everyone.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/bob-foodtech-logo.webp",
+  "websiteUrl": "https://www.bobft.com",
+  "careersUrl": null,
+  "linkedinId": "bobft",
+  "linkedinNum": 101199477,
+  "crunchbaseId": null,
+  "ivcId": "A1000000460184",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האלוף יעקב פרי",
+      "houseNumber": 1,
+      "city": "רחובות",
+      "lat": 31.897905,
+      "lon": 34.789494
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

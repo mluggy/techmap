@@ -6,11 +6,17 @@
   "logoFile": "logos/hypeindex-logo.webp",
   "websiteUrl": "https://www.hypeindex.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hypeindex",
+  "linkedinNum": 81454517,
   "crunchbaseId": null,
+  "ivcId": "A1000000370834",
   "finderId": "hypeindex",
   "xId": "IndexHype",
+  "facebookId": "HypeIndextool",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עטרות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "HypeIndextool",
-  "linkedinNum": 81454517
+  "isActive": true
 }

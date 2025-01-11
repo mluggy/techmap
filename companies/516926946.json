@@ -6,18 +6,26 @@
   "logoFile": "logos/headlights-logo.webp",
   "websiteUrl": "https://www.headlightsdepot.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000467556",
   "finderId": "headlights",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גרונר דב",
+      "street": "דב גרונר",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.124375,
-      "lon": 34.806752
+      "city": "תל אביב-יפו",
+      "lat": 32.1245096,
+      "lon": 34.8067972
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

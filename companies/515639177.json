@@ -6,11 +6,17 @@
   "logoFile": "logos/kameleono-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kameleono",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בגין מנחם",
@@ -19,5 +25,7 @@
       "lat": 32.0736702,
       "lon": 34.8535056
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

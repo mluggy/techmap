@@ -6,11 +6,17 @@
   "logoFile": "logos/connecteam-logo.webp",
   "websiteUrl": "https://connecteam.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "connecteam",
+  "linkedinNum": 10591384,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "connecteam",
   "xId": "ConnecteamApp",
+  "facebookId": "ConnecteamIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוי משה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ConnecteamIsrael",
-  "linkedinNum": 10591384
+  "isActive": true
 }

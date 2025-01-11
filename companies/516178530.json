@@ -6,11 +6,17 @@
   "logoFile": "logos/virimask-logo.webp",
   "websiteUrl": "https://www.virimask.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000322871",
   "finderId": "virimask",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אתגר",
@@ -20,5 +26,6 @@
       "lon": 34.9678575
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

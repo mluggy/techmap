@@ -6,21 +6,26 @@
   "logoFile": "logos/digigage-logo.webp",
   "websiteUrl": "https://digigage.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "digigage",
+  "linkedinNum": 947525,
   "crunchbaseId": null,
+  "ivcId": "A1000000010178",
   "finderId": "digigage",
   "xId": "digigage_corp",
+  "facebookId": "digigageCorp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחלת בנימין",
       "houseNumber": 52,
-      "city": "תל אביב - יפו",
-      "lat": 32.063335,
-      "lon": 34.771519
+      "city": "תל אביב-יפו",
+      "lat": 32.0634108,
+      "lon": 34.7715568
     }
   ],
   "isMultinational": false,
-  "facebookId": "digigageCorp",
-  "linkedinNum": 947525
+  "isActive": true
 }

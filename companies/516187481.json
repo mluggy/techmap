@@ -1,25 +1,31 @@
 {
   "name": "Tupaia",
-  "description": "GNSS-based Precise Positioning",
+  "description": "GNSS-based Precise Positioning.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/tupaia-logo.webp",
   "websiteUrl": "https://tupaia-pos.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tupaia-pos",
+  "linkedinNum": 77658177,
   "crunchbaseId": null,
+  "ivcId": "A1000000354687",
   "finderId": "tupaia",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "למרחב",
-      "houseNumber": 12,
-      "city": "רמת השרון",
-      "lat": 32.1462554,
-      "lon": 34.8332184
+      "street": "ראול ולנברג",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.1112424,
+      "lon": 34.8389386
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77658177
+  "isActive": true
 }

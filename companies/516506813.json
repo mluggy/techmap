@@ -6,21 +6,26 @@
   "logoFile": "logos/exosomm-logo.webp",
   "websiteUrl": "https://www.exosomm.com/",
   "careersUrl": "https://www.exosomm.com/careers",
-  "isHiring": true,
   "linkedinId": "exosomm",
+  "linkedinNum": 77060409,
   "crunchbaseId": null,
+  "ivcId": "A1000000380310",
   "finderId": "exosomm",
   "xId": null,
+  "facebookId": "Exosomm",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנמל",
-      "houseNumber": 28,
-      "city": "חיפה",
-      "lat": 32.8191508,
-      "lon": 35.0004706
+      "street": null,
+      "houseNumber": null,
+      "city": "קצרין",
+      "lat": 32.98494,
+      "lon": 35.70803799999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "Exosomm",
-  "linkedinNum": 77060409
+  "isActive": true
 }

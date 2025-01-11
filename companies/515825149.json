@@ -1,25 +1,31 @@
 {
   "name": "CardioVia",
-  "description": "Device for Minimally Invasive Cardiac Access",
+  "description": "Device for Minimally Invasive Cardiac Access.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cardiovia-logo.webp",
   "websiteUrl": "https://www.cardiovia.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cardiovia",
+  "linkedinNum": 11434002,
   "crunchbaseId": "cardiovia",
+  "ivcId": "A1000000280116",
   "finderId": "CardioVia",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
-      "houseNumber": 13,
-      "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "street": "שפינוזה",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0808605,
+      "lon": 34.7762495
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11434002
+  "isActive": true
 }

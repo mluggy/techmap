@@ -1,0 +1,31 @@
+{
+  "name": "TBM",
+  "description": "TBM provides publishers, developers, and regular individuals with a complete self-service campaign management solution.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/tbm-logo.webp",
+  "websiteUrl": "https://m51.co/",
+  "careersUrl": null,
+  "linkedinId": "tha-bg-m",
+  "linkedinNum": 11019857,
+  "crunchbaseId": null,
+  "ivcId": "A1000000281470",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

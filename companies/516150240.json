@@ -6,20 +6,26 @@
   "logoFile": "logos/predicta_med_analytics-logo.webp",
   "websiteUrl": "https://predicta-med.com/",
   "careersUrl": "https://predicta-med.com/careers/",
-  "isHiring": true,
   "linkedinId": "predicta-med",
+  "linkedinNum": 26208861,
   "crunchbaseId": null,
+  "ivcId": "A1000000300922",
   "finderId": "predicta-med",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תובל",
-      "houseNumber": 40,
-      "city": "רמת גן",
-      "lat": 32.08501775,
-      "lon": 34.80164595917552
+      "street": "חיים לבנון",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.1078239,
+      "lon": 34.8018067
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 26208861
+  "isActive": true
 }

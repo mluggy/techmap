@@ -6,11 +6,17 @@
   "logoFile": "logos/zoll_medical_israel-logo.webp",
   "websiteUrl": "https://www.zoll.com/",
   "careersUrl": "https://www.zoll.com/contact/careers-at-zoll",
-  "isHiring": true,
   "linkedinId": "zoll-medical-corporation",
+  "linkedinNum": 13727,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zoll",
   "xId": "zollemsfire",
+  "facebookId": "ZOLLMedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -20,7 +26,6 @@
       "lon": 34.9337429
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ZOLLMedical",
-  "linkedinNum": 13727
+  "isMultinational": false,
+  "isActive": true
 }

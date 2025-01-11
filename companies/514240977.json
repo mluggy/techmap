@@ -6,13 +6,26 @@
   "logoFile": "logos/communitake_technologies-logo.webp",
   "websiteUrl": "https://www.communitake.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3523134,
   "crunchbaseId": null,
+  "ivcId": "A1000000002956",
   "finderId": "communitake-technologies",
   "xId": "CommuniTake",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "CommuniTake",
-  "linkedinNum": 3523134
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "יוקנעם עילית",
+      "lat": 32.660225,
+      "lon": 35.104606
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

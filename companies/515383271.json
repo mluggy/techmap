@@ -6,11 +6,17 @@
   "logoFile": "logos/memo_app-logo.webp",
   "websiteUrl": "https://www.memoapp.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "memoapp",
   "xId": null,
+  "facebookId": "memoapp4dementia",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד יוספטל גיורא",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "memoapp4dementia"
+  "isActive": true
 }

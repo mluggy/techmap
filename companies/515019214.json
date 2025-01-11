@@ -6,21 +6,26 @@
   "logoFile": "logos/elevation_education-logo.webp",
   "websiteUrl": "https://elevation.ac/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5334623,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "elevation",
   "xId": null,
+  "facebookId": "elevationeducation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06641,
       "lon": 34.785829
     }
   ],
   "isMultinational": false,
-  "facebookId": "elevationeducation",
-  "linkedinNum": 5334623
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "Safeguarding Laboratory Specimens.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/verified_planet-logo.webp",
+  "logoFile": "logos/verified-planet-logo.webp",
   "websiteUrl": "https://planetverify.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "verified-planet-ltd",
+  "linkedinNum": 17984199,
   "crunchbaseId": "verified-planet",
+  "ivcId": null,
   "finderId": "verified-planet",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתיב האור",
@@ -19,5 +25,7 @@
       "lat": 32.78785285,
       "lon": 34.96565267465318
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

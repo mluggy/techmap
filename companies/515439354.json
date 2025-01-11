@@ -1,0 +1,31 @@
+{
+  "name": "3Dbattery",
+  "description": "3Dbattery (3DB) is developing an exclusive product and technology which will provide the users high performance batteries with no limitations in geometry.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/3_dbattery-logo.webp",
+  "websiteUrl": "https://www.3dbattery.co.il",
+  "careersUrl": "https://3dbattery.co.il/jobs/",
+  "linkedinId": "3d-battery",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000227629",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ברגמן",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.981167,
+      "lon": 34.770544
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,23 +1,31 @@
 {
   "name": "Spotlock",
-  "description": "Optimizing Costs of Building Materials.",
-  "categoryId": 9,
+  "description": "Spotlock helps construction companies lock-in bulk material prices for extended periods of time, thus protecting against material price increases and improving their bottom line.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/spotlock-logo.webp",
-  "websiteUrl": "https://spotlock.io/",
+  "websiteUrl": "https://www.spotlock.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "spotlock",
+  "linkedinNum": 87383140,
   "crunchbaseId": null,
+  "ivcId": "A1000000421250",
   "finderId": "spotlock",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות דם המכבים",
-      "houseNumber": 38,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9036665,
-      "lon": 35.0067451
+      "street": "שד' המכבים",
+      "houseNumber": null,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8884913,
+      "lon": 35.0298492
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

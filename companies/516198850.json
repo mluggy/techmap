@@ -6,11 +6,17 @@
   "logoFile": "logos/daily_dev-logo.webp",
   "websiteUrl": "https://daily.dev/",
   "careersUrl": "https://daily.dev/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "dailydotdev",
+  "linkedinNum": 67213033,
   "crunchbaseId": null,
+  "ivcId": "A1000000355593",
   "finderId": "daily-dev",
   "xId": "dailydotdev",
+  "facebookId": "dailydotdev",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך התקווה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "dailydotdev",
-  "linkedinNum": 67213033
+  "isActive": true
 }

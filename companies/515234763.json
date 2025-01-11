@@ -1,26 +1,31 @@
 {
   "name": "Gliding Deer",
-  "description": "Social Bingo Games",
+  "description": "Social Bingo Games.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/gliding_deer-logo.webp",
   "websiteUrl": "https://www.glidingdeer.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gliding-deer",
+  "linkedinNum": 9498388,
   "crunchbaseId": null,
+  "ivcId": "A1000000273293",
   "finderId": "gliding-deer",
   "xId": "bingodrive",
+  "facebookId": "bingodrive",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן יהודה",
       "houseNumber": 70,
-      "city": "תל אביב - יפו",
-      "lat": 32.079757,
-      "lon": 34.769876
+      "city": "תל אביב-יפו",
+      "lat": 32.0797645,
+      "lon": 34.7699507
     }
   ],
   "isMultinational": false,
-  "facebookId": "bingodrive",
-  "linkedinNum": 9498388
+  "isActive": true
 }

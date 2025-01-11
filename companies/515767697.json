@@ -1,24 +1,31 @@
 {
   "name": "Correlate Capital",
-  "description": "A firm specializing in quantitative trading powered by advanced technology.",
-  "categoryId": 10,
+  "description": "Correlate Capital is a technology-driven quantitative trading firm. The company's market-making engine provides liquidity in a wide range of financial products.",
+  "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/correlate_capital-logo.webp",
-  "websiteUrl": "https://www.correlate.energy/",
+  "logoFile": "logos/correlate-capital-logo.webp",
+  "websiteUrl": "https://crl8.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "correl8-capital-ltd",
+  "linkedinNum": 35630676,
   "crunchbaseId": "correlation-capital",
+  "ivcId": "A1000000293671",
   "finderId": "correlate-capital",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יער להב",
-      "houseNumber": 9,
-      "city": "תל מונד",
-      "lat": 32.2514592,
-      "lon": 34.9278185
+      "street": "הברזל",
+      "houseNumber": 19,
+      "city": "תל אביב-יפו",
+      "lat": 32.1085582,
+      "lon": 34.8384044
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

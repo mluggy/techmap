@@ -1,26 +1,31 @@
 {
   "name": "Nuvo Group",
-  "description": "Remote Prenatal Monitoring Platform",
+  "description": "Remote Prenatal Monitoring Platform.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/nuvo_group-logo.webp",
   "websiteUrl": "https://www.nuvocares.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nuvo-cares",
+  "linkedinNum": 3145382,
   "crunchbaseId": null,
+  "ivcId": "A1000000180071",
   "finderId": "nuvo-group",
   "xId": "nuvocares",
+  "facebookId": "nuvocares",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "facebookId": "nuvocares",
-  "linkedinNum": 3145382
+  "isActive": true
 }

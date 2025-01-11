@@ -1,26 +1,31 @@
 {
   "name": "AGS",
   "description": "Providing a comprehensive online hub for accessing top-tier geriatrics publications, resources, and tools.",
-  "size": "l",
   "categoryId": 12,
+  "size": "l",
   "logoFile": "logos/ags_rotem-logo.webp",
   "websiteUrl": "https://playags.com/",
   "careersUrl": "https://careers.playags.com/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 288901,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ags",
   "xId": "playags",
+  "facebookId": "AmericanGamingSystems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
-  "isMultinational": true,
-  "facebookId": "AmericanGamingSystems",
-  "linkedinNum": 288901
+  "isMultinational": false,
+  "isActive": true
 }

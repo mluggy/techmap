@@ -6,21 +6,26 @@
   "logoFile": "logos/emuze_ev-logo.webp",
   "websiteUrl": "https://www.emuzev.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "emuze-connect",
+  "linkedinNum": 65392928,
   "crunchbaseId": "emuze",
+  "ivcId": "A1000000350756",
   "finderId": "emuze",
   "xId": null,
+  "facebookId": "RoadixEV",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השיבולת",
-      "houseNumber": 440,
-      "city": "גבעת עדה",
-      "lat": 32.5212214,
-      "lon": 35.0161985
+      "street": "הטחנה",
+      "houseNumber": 64,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5122597,
+      "lon": 34.9493571
     }
   ],
   "isMultinational": false,
-  "facebookId": "RoadixEV",
-  "linkedinNum": 65392928
+  "isActive": true
 }

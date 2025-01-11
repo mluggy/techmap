@@ -1,16 +1,22 @@
 {
   "name": "Hyve",
-  "description": "Automated Savings, Investing, and Debt Management",
-  "categoryId": 10,
-  "size": "xs",
+  "description": "Quinn empowers financial institutions to exponentially broaden their reach and impact by harnessing the power of AI to deliver human-level financial planning and advice at scale, effortlessly tapping into previously unreachable demographics without the need for additional hiring.",
+  "categoryId": 18,
+  "size": "s",
   "logoFile": "logos/hyve_technology-logo.webp",
-  "websiteUrl": "https://app.letshyve.com/",
-  "careersUrl": "https://hyvesolutions.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "websiteUrl": "https://www.quinnadvisor.com",
+  "careersUrl": null,
+  "linkedinId": "letshyve",
+  "linkedinNum": 91676174,
   "crunchbaseId": null,
+  "ivcId": "A1000000418146",
   "finderId": "hyve",
   "xId": "letshyve",
+  "facebookId": "letshyve",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיפן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "letshyve",
-  "linkedinNum": 91676174
+  "isActive": true
 }

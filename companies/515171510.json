@@ -6,21 +6,26 @@
   "logoFile": "logos/venn.webp",
   "websiteUrl": "https://venn.city/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "venn-city",
   "linkedinNum": 11003678,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "venn",
   "xId": null,
   "facebookId": "VennTelAviv",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בעל העקידה",
       "houseNumber": 50,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.054099432565316,
       "lon": 34.779094938145846
     }
   ],
   "isMultinational": false,
-  "linkedinId": "venn-city"
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/drygair_energies-logo.webp",
   "websiteUrl": "https://drygair.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "drygair-energies-ltd-",
+  "linkedinNum": 5121264,
   "crunchbaseId": null,
+  "ivcId": "A1000000010791",
   "finderId": "drygair",
   "xId": "drygairenergies",
+  "facebookId": "DryGair",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היוצרים",
-      "houseNumber": 1,
-      "city": "לוד",
-      "lat": 31.968658972687045,
-      "lon": 34.891788418998765
+      "street": "המנופים",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.1596062,
+      "lon": 34.80714950000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "DryGair",
-  "linkedinNum": 5121264
+  "isActive": true
 }

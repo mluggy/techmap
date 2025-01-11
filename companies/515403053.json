@@ -1,0 +1,31 @@
+{
+  "name": "IAgree",
+  "description": "Iagree Ltd. operates a web platform offering background verification to landlords and tenants.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/iagree-logo.webp",
+  "websiteUrl": "https://iagree.co.il",
+  "careersUrl": null,
+  "linkedinId": "iagree1",
+  "linkedinNum": 11319972,
+  "crunchbaseId": null,
+  "ivcId": "A1000000230687",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "2233",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.114967,
+      "lon": 34.843672
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

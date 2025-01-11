@@ -6,21 +6,26 @@
   "logoFile": "logos/divinetworks-logo.webp",
   "websiteUrl": "https://divinetworks.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "divinetworks",
+  "linkedinNum": 1570961,
   "crunchbaseId": null,
+  "ivcId": "A1000000004524",
   "finderId": "divinetworks",
   "xId": "DiviNetworks",
+  "facebookId": "divinetworks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.070501,
-      "lon": 34.785145
+      "city": "תל אביב-יפו",
+      "lat": 32.0701722,
+      "lon": 34.7865614
     }
   ],
   "isMultinational": false,
-  "facebookId": "divinetworks",
-  "linkedinNum": 1570961
+  "isActive": true
 }

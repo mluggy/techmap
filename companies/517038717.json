@@ -1,0 +1,31 @@
+{
+  "name": "Flagg AI",
+  "description": "Flagg.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/flagg_ai-logo.webp",
+  "websiteUrl": "https://flagg.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491987",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האלה",
+      "houseNumber": 20,
+      "city": "קרית מוצקין",
+      "lat": 32.8426369,
+      "lon": 35.0869638
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

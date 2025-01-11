@@ -6,11 +6,17 @@
   "logoFile": "logos/docusign_acquisition-logo.webp",
   "websiteUrl": "https://www.docusign.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "docusign",
+  "linkedinNum": 19022,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "docusign",
   "xId": "docusign",
+  "facebookId": "DocuSign",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הערבה",
@@ -20,7 +26,6 @@
       "lon": 34.8551272
     }
   ],
-  "isMultinational": true,
-  "facebookId": "DocuSign",
-  "linkedinNum": 19022
+  "isMultinational": false,
+  "isActive": true
 }

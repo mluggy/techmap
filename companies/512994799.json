@@ -6,21 +6,26 @@
   "logoFile": "logos/quality_bytes_software-logo.webp",
   "websiteUrl": "https://www.q-bytes.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "quality-bytes",
+  "linkedinNum": 2028292,
   "crunchbaseId": null,
+  "ivcId": "A1000000004894",
   "finderId": "quality-bytes",
   "xId": null,
+  "facebookId": "qualitybytes",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החרושת",
-      "houseNumber": 16,
+      "street": null,
+      "houseNumber": null,
       "city": "אור יהודה",
-      "lat": 32.0216292,
-      "lon": 34.8648319
+      "lat": 32.029748,
+      "lon": 34.85617300000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "qualitybytes",
-  "linkedinNum": 2028292
+  "isActive": true
 }

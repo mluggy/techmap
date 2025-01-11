@@ -1,25 +1,31 @@
 {
   "name": "We-Test",
-  "description": "Web and Mobile Crowd-testing Platform",
+  "description": "Web and Mobile Crowd-testing Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/we-test.webp",
   "websiteUrl": "https://www.we-test.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 6386952,
   "crunchbaseId": null,
+  "ivcId": "A1000000188259",
   "finderId": "we-test",
   "xId": "WeTestonline",
   "facebookId": "WeTest.online",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ארזי הלבנון",
-      "houseNumber": 18,
-      "city": "חדרה",
-      "lat": 32.42969890546663,
-      "lon": 34.88359884657513
+      "street": "התעשייה",
+      "houseNumber": 11,
+      "city": "רעננה",
+      "lat": 32.1961697,
+      "lon": 34.8802394
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

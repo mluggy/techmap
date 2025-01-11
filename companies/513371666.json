@@ -6,20 +6,26 @@
   "logoFile": "logos/pluri_biotech-logo.webp",
   "websiteUrl": "https://pluri-biotech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pluri-biotech",
+  "linkedinNum": 226821,
   "crunchbaseId": null,
+  "ivcId": "A1000000003963",
   "finderId": "pluristem-therapeutics",
   "xId": "Pluribiotech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דואר מת\"מ",
-      "houseNumber": 20,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.79071374490573,
-      "lon": 34.95929214614536
+      "lat": 32.7881515,
+      "lon": 34.9594618
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 226821
+  "isActive": true
 }

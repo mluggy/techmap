@@ -6,11 +6,17 @@
   "logoFile": "logos/musico-logo.webp",
   "websiteUrl": "https://academy.musico.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "musicoio",
+  "linkedinNum": 11318476,
   "crunchbaseId": null,
+  "ivcId": "A1000000245381",
   "finderId": "musico",
   "xId": null,
+  "facebookId": "pg",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחשון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pg",
-  "linkedinNum": 11318476
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/pruvo_net-logo.webp",
   "websiteUrl": "https://www.pruvo.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pruvo",
+  "linkedinNum": 10581815,
   "crunchbaseId": null,
+  "ivcId": "A1000000216131",
   "finderId": "pruvo",
   "xId": "pruvoweb",
+  "facebookId": "pruvo.net",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נעמ\"ת",
-      "houseNumber": 11,
-      "city": "חיפה",
-      "lat": 32.7965427,
-      "lon": 34.9927125
+      "street": "המגינים",
+      "houseNumber": 64,
+      "city": "נשר",
+      "lat": 32.763384,
+      "lon": 35.0500659
     }
   ],
   "isMultinational": false,
-  "facebookId": "pruvo.net",
-  "linkedinNum": 10581815
+  "isActive": true
 }

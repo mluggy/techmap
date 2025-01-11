@@ -6,11 +6,17 @@
   "logoFile": "logos/uchannel_ventures-logo.webp",
   "websiteUrl": "https://www.uchanneltv.us/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "uchannel",
+  "ivcId": null,
   "finderId": "uchannel-ventures",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שטרן יאיר",
@@ -19,5 +25,7 @@
       "lat": 32.0501293,
       "lon": 34.8669386
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

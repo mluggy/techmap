@@ -6,21 +6,26 @@
   "logoFile": "logos/techsee_augmented_vision-logo.webp",
   "websiteUrl": "https://techsee.me/",
   "careersUrl": "https://techsee.me/careers/",
-  "isHiring": true,
   "linkedinId": "techsee",
+  "linkedinNum": 10024226,
   "crunchbaseId": "techsee",
+  "ivcId": "A1000000189430",
   "finderId": "techsee-augmented-vision",
   "xId": "techsee_me",
+  "facebookId": "TechSee-786286871505772",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שנקר אריה",
+      "street": "רחוב אריה שנקר",
       "houseNumber": 1,
       "city": "הרצליה",
-      "lat": 32.1604703,
-      "lon": 34.809883
+      "lat": 32.1608042,
+      "lon": 34.810067
     }
   ],
   "isMultinational": false,
-  "facebookId": "TechSee-786286871505772",
-  "linkedinNum": 10024226
+  "isActive": true
 }

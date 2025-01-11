@@ -6,21 +6,26 @@
   "logoFile": "logos/innovid-logo.webp",
   "websiteUrl": "https://www.innovid.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "innovid",
+  "linkedinNum": 733622,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "innovid",
   "xId": "innovid",
+  "facebookId": "innovid",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
       "houseNumber": 40,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07001936568212,
       "lon": 34.79641456521569
     }
   ],
   "isMultinational": false,
-  "facebookId": "innovid",
-  "linkedinNum": 733622
+  "isActive": true
 }

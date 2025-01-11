@@ -6,21 +6,26 @@
   "logoFile": "logos/booth_guru-logo.webp",
   "websiteUrl": "https://booth.guru/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "booth-guru",
+  "linkedinNum": 10510285,
   "crunchbaseId": null,
+  "ivcId": "A1000000220675",
   "finderId": "booth-guru",
   "xId": null,
+  "facebookId": "BoothGuru",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קופלמן אברהם",
-      "houseNumber": 17,
-      "city": "פתח תקווה",
-      "lat": 32.0824771,
-      "lon": 34.8626983
+      "street": null,
+      "houseNumber": null,
+      "city": "הרצליה",
+      "lat": 32.162413,
+      "lon": 34.844675
     }
   ],
   "isMultinational": false,
-  "facebookId": "BoothGuru",
-  "linkedinNum": 10510285
+  "isActive": true
 }

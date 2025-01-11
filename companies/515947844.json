@@ -6,11 +6,17 @@
   "logoFile": "logos/millworx-logo.webp",
   "websiteUrl": "https://www.millworx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 35622972,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "millworx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דורי",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35622972
+  "isActive": true
 }

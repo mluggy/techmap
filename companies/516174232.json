@@ -1,16 +1,22 @@
 {
   "name": "Sign Now",
-  "description": "Sign Language Interpretation Technology",
-  "categoryId": 12,
+  "description": "Sign Now is a social-international startup for sign language translation on-demand.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/sign_now-logo.webp",
-  "websiteUrl": "https://www.signnow.co.il/",
+  "websiteUrl": "https://www.sign-now.io/international-mission",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sign-now1",
+  "linkedinNum": 56405443,
   "crunchbaseId": null,
+  "ivcId": "A1000000325645",
   "finderId": "sign-now",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האודם",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 56405443
+  "isActive": true
 }

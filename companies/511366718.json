@@ -1,0 +1,31 @@
+{
+  "name": "EL Info",
+  "description": "EL Info develops intelligent agents (IPPON) that automatically and intelligently activate applications on the fly (including OCR and ASR) and index the content.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/el_info-logo.webp",
+  "websiteUrl": "http://www.e-gui.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004978",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שלום אש",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.1068801,
+      "lon": 34.8207776
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

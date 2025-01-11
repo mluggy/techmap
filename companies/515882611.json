@@ -1,25 +1,31 @@
 {
   "name": "Wedge",
-  "description": "Sustainable Fashion Solutions",
+  "description": "Sustainable Fashion Solutions.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/wedge_o_k-logo.webp",
+  "logoFile": "logos/wedge-logo.webp",
   "websiteUrl": "https://www.thewedge.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wedge1",
+  "linkedinNum": 90236469,
   "crunchbaseId": null,
+  "ivcId": "A1000000424337",
   "finderId": "wedge",
   "xId": null,
+  "facebookId": "100087406864326",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מיטב",
-      "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.065332,
-      "lon": 34.794807
+      "street": "דיזנגוף",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.085814,
+      "lon": 34.774667
     }
   ],
   "isMultinational": false,
-  "facebookId": "100087406864326"
+  "isActive": true
 }

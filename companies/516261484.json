@@ -3,14 +3,20 @@
   "description": "Developing wearable technology for continuous, passive health monitoring, detecting early-stage deviations and alerting care teams promptly.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/respir_ai_medical-logo.webp",
+  "logoFile": "logos/respirai-medical-logo.webp",
   "websiteUrl": "https://www.respirai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "respirai-medical",
+  "linkedinNum": 87409718,
   "crunchbaseId": null,
+  "ivcId": "A1000000374668",
   "finderId": "respirai-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סמדר",
@@ -20,5 +26,6 @@
       "lon": 34.8433826
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

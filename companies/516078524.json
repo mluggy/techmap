@@ -1,0 +1,31 @@
+{
+  "name": "BFF",
+  "description": "The BFF2PAY app is a dedicated digital payment platform for events or businesses that ensures a safe user experience, with combined QR and RFID/NFC scanning solutions.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/bff-logo.webp",
+  "websiteUrl": "https://www.bff2pay.com/?lang=en",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000384227",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "סמילנסקי",
+      "houseNumber": 23,
+      "city": "באר שבע",
+      "lat": 31.2372599,
+      "lon": 34.787386
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

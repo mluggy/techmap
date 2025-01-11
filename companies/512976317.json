@@ -6,20 +6,26 @@
   "logoFile": "logos/biokine_therapeutics-logo.webp",
   "websiteUrl": "https://biokine.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "biokine-therapeutics-ltd-",
+  "linkedinNum": 5550255,
   "crunchbaseId": "biokine-therapeutics",
+  "ivcId": "A1000000004836",
   "finderId": "biokine-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אינשטיין",
-      "houseNumber": 13,
-      "city": "נס ציונה",
-      "lat": 31.9162995,
-      "lon": 34.8051885
+      "street": "הרצל",
+      "houseNumber": 234,
+      "city": "רחובות",
+      "lat": 31.90375409999999,
+      "lon": 34.8080315
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5550255
+  "isActive": true
 }

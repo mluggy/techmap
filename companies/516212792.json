@@ -3,21 +3,29 @@
   "description": "Real-time voice analysis to identify risks and ensure seamless service for all users.",
   "categoryId": 1,
   "size": "s",
-  "logoFile": "logos/corsound_ai-logo.webp",
+  "logoFile": "logos/corsound-ai-logo.webp",
   "websiteUrl": "https://www.corsound.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "corsound-ai",
+  "linkedinNum": 69260588,
   "crunchbaseId": null,
+  "ivcId": "A1000000389056",
   "finderId": "corsound-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מונטיפיורי",
       "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.065888,
-      "lon": 34.773888
+      "city": "תל אביב-יפו",
+      "lat": 32.065849,
+      "lon": 34.7739466
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

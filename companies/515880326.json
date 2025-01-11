@@ -6,11 +6,17 @@
   "logoFile": "logos/valid_network-logo.webp",
   "websiteUrl": "https://valid.network/",
   "careersUrl": "https://valid.network/careers",
-  "isHiring": true,
   "linkedinId": "valid-network",
+  "linkedinNum": 18467750,
   "crunchbaseId": "valid-network",
+  "ivcId": null,
   "finderId": "valid-network",
   "xId": "NetworkValid",
+  "facebookId": "ValidHash",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרדוף",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ValidHash",
-  "linkedinNum": 18467750
+  "isActive": true
 }

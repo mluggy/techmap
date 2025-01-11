@@ -1,0 +1,31 @@
+{
+  "name": "EyeControl",
+  "description": "EyeControl's development the medical staff can remotely notice that the patients has woken up, communicate with them and send them soothing messages and recordings of their family members.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/eyecontrol-logo.webp",
+  "websiteUrl": "https://www.eyecontrol.co.il",
+  "careersUrl": null,
+  "linkedinId": "eyecontrol",
+  "linkedinNum": 18089088,
+  "crunchbaseId": null,
+  "ivcId": "A1000000196400",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 48,
+      "city": "בני ברק",
+      "lat": 32.092679,
+      "lon": 34.831622
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

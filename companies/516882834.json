@@ -1,17 +1,22 @@
 {
   "name": "MaxOvary",
-  "description": "Non-invasive Solutions for PCOS",
+  "description": "Non-invasive Solutions for PCOS.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/maxovary-1.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000446653",
   "finderId": "maxovary-1",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החילזון",
@@ -21,5 +26,6 @@
       "lon": 34.80343605837798
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

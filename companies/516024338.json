@@ -1,16 +1,22 @@
 {
   "name": "Mobile Physics",
-  "description": "Environmental Condition Measurement",
+  "description": "Environmental Condition Measurement.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/mobile_physics-logo.webp",
   "websiteUrl": "https://mobilephysics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mobile-physics",
+  "linkedinNum": 17954894,
   "crunchbaseId": null,
+  "ivcId": "A1000000224269",
   "finderId": "mobile-physics",
   "xId": null,
+  "facebookId": "Mobile-Physics-1007159856050915",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "וילנסקי משה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Mobile-Physics-1007159856050915",
-  "linkedinNum": 17954894
+  "isActive": true
 }

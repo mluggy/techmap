@@ -6,21 +6,26 @@
   "logoFile": "logos/snowless-logo.webp",
   "websiteUrl": "https://snowlessroads.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "snowless-roads",
+  "linkedinNum": 70416930,
   "crunchbaseId": null,
+  "ivcId": "A1000000380985",
   "finderId": "snowless",
   "xId": null,
+  "facebookId": "snowless.roads.9",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נחל חבושית",
-      "houseNumber": 3,
-      "city": "קריית שמונה",
-      "lat": 33.214474391757605,
-      "lon": 35.5667479724905
+      "street": "התעשייה",
+      "houseNumber": null,
+      "city": "חיפה",
+      "lat": 32.7741734,
+      "lon": 35.0454444
     }
   ],
   "isMultinational": false,
-  "facebookId": "snowless.roads.9",
-  "linkedinNum": 70416930
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/walnut-logo.webp",
   "websiteUrl": "https://www.walnut.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "teamwalnut",
+  "linkedinNum": 67760135,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "walnut",
   "xId": "walnutinc",
+  "facebookId": "WalnutAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דובנוב",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0750294,
       "lon": 34.7838325
     }
   ],
   "isMultinational": false,
-  "facebookId": "WalnutAI",
-  "linkedinNum": 67760135
+  "isActive": true
 }

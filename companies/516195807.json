@@ -1,25 +1,31 @@
 {
   "name": "ANINA Culinary Art",
-  "description": "Revolutionizing mealtime with natural, quick-prep meal pods that transform into delicious, healthy dishes.",
-  "categoryId": 12,
-  "size": "s",
+  "description": "ANINA aims to increase the usage of ugly produce in the food industry. The company utilizes its unique technology, expertise in design and knowledge in culinary arts to create magical foods.",
+  "categoryId": 14,
+  "size": "xs",
   "logoFile": "logos/anina_culinary_art-logo.webp",
-  "websiteUrl": "https://anina.com/",
+  "websiteUrl": "https://aninafoodtech.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "anina-culinary-art",
+  "linkedinNum": 68797734,
   "crunchbaseId": null,
+  "ivcId": "A1000000338138",
   "finderId": "anina-culinary-art",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ההגנה",
-      "houseNumber": 25,
-      "city": "ראשון לציון",
-      "lat": 31.98943905,
-      "lon": 34.7600622752059
+      "street": "הבושם",
+      "houseNumber": 3,
+      "city": "אשדוד",
+      "lat": 31.8193731,
+      "lon": 34.6667796
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68797734
+  "isActive": true
 }

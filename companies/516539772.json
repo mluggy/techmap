@@ -6,11 +6,17 @@
   "logoFile": "logos/informed_decisions-logo.webp",
   "websiteUrl": "https://informedecisions.io/",
   "careersUrl": "https://www.indeed.com/career-advice/career-development/informed-decision",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "informedecisions",
+  "linkedinNum": 74477168,
   "crunchbaseId": null,
+  "ivcId": "A1000000387420",
   "finderId": "informed-decisions",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדברג לאה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74477168
+  "isActive": true
 }

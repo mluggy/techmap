@@ -3,22 +3,29 @@
   "description": "Providing laundry facilities with advanced, AI-powered robotic automation solutions.",
   "categoryId": 15,
   "size": "xs",
-  "logoFile": "logos/foldibot_solutions-logo.webp",
+  "logoFile": "logos/foldibot-solutions-logo.webp",
   "websiteUrl": "https://www.foldi-bot.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "foldibot",
+  "linkedinNum": 100678445,
   "crunchbaseId": null,
+  "ivcId": "A1000000415803",
   "finderId": "foldibot-solutions",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שועלי שמשון",
-      "houseNumber": 5,
-      "city": "רמת גן",
-      "lat": 32.0786763,
-      "lon": 34.8217613
+      "street": "רבינוביץ שמשון",
+      "houseNumber": null,
+      "city": "ראשון לציון",
+      "lat": 31.944701,
+      "lon": 34.804878
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

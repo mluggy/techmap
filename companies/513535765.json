@@ -1,26 +1,31 @@
 {
   "name": "Biofeed",
-  "description": "Zero-spray Crop Protection",
+  "description": "Zero-spray Crop Protection.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/biofeed_environmentally_friendly_pest_control-logo.webp",
   "websiteUrl": "https://biofeed.co.il/enhome/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "biofeed-ltd-",
+  "linkedinNum": 10115802,
   "crunchbaseId": null,
+  "ivcId": "A1000000003443",
   "finderId": "biofeed",
   "xId": null,
+  "facebookId": "BiofeedControl",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אקליפטוס",
+      "street": null,
       "houseNumber": null,
       "city": "כפר טרומן",
-      "lat": 31.982776251564427,
-      "lon": 34.91674078984599
+      "lat": 31.980493,
+      "lon": 34.927696
     }
   ],
   "isMultinational": false,
-  "facebookId": "BiofeedControl",
-  "linkedinNum": 10115802
+  "isActive": true
 }

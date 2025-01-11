@@ -1,16 +1,22 @@
 {
   "name": "Noga 3D Innovations",
-  "description": "Advanced Polymers Engineered for Rigorous Environments.",
-  "categoryId": 3,
+  "description": "Noga3D is developing a family of high-performance polymers for demanding conditions, expanding the availability of additive manufacturing polymer products in aerospace, automotive and other harsh environments.",
+  "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/noga_3_d_innovations-logo.webp",
-  "websiteUrl": "https://www.noga3d.com/",
+  "logoFile": "logos/noga-3d-innovations-logo.webp",
+  "websiteUrl": "http://noga3dinnovations.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "noga-3d-innovations",
+  "linkedinNum": 96420108,
   "crunchbaseId": null,
+  "ivcId": "A1000000403345",
   "finderId": "noga-3d-innovations",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,5 +26,6 @@
       "lon": 34.9653972
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

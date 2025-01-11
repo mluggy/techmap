@@ -6,21 +6,26 @@
   "logoFile": "logos/toka_smart_solutions-logo.webp",
   "websiteUrl": "https://www.tokagroup.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tokagroup",
+  "linkedinNum": 11701565,
   "crunchbaseId": null,
+  "ivcId": "A1000000260856",
   "finderId": "toka",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "toka/46.00D",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מאיר אריאל",
-      "houseNumber": 6,
-      "city": "נתניה",
-      "lat": 32.28496405944088,
-      "lon": 34.87209196015313
+      "street": "דרך מנחם בגין",
+      "houseNumber": 132,
+      "city": "תל אביב-יפו",
+      "lat": 32.0743897,
+      "lon": 34.7921693
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11701565,
-  "comeetId": "toka/46.00D"
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "Provides insights for efficiently managing expertise, technology, and systems within IT departments.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/optitraxx_technologies-logo.webp",
+  "logoFile": "logos/optitraxx-technologies-logo.webp",
   "websiteUrl": "https://www.optitraxx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "optitraxx",
+  "linkedinNum": 94160744,
   "crunchbaseId": null,
+  "ivcId": "A1000000434687",
   "finderId": "optitraxx-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אהרוני ישראל",
@@ -20,5 +26,6 @@
       "lon": 34.8125203
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

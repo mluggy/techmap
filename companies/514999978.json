@@ -1,26 +1,31 @@
 {
   "name": "Tourbo",
-  "description": "Business Travel Platform",
+  "description": "Business Travel Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tourbo_travel_ltd_online_travel_solutions-logo.webp",
   "websiteUrl": "https://tourbo.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tourbo-io",
+  "linkedinNum": 18064449,
   "crunchbaseId": null,
+  "ivcId": "A1000000201882",
   "finderId": "tourbo",
   "xId": "tourbo_app",
+  "facebookId": "Tourboapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השמורה",
-      "houseNumber": 9119,
-      "city": "יסוד המעלה",
-      "lat": 33.0592378,
-      "lon": 35.6076045
+      "street": "המרד",
+      "houseNumber": 25,
+      "city": "תל אביב-יפו",
+      "lat": 32.0627763,
+      "lon": 34.7629012
     }
   ],
   "isMultinational": false,
-  "facebookId": "Tourboapp",
-  "linkedinNum": 18064449
+  "isActive": true
 }

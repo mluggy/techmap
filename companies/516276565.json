@@ -6,21 +6,26 @@
   "logoFile": "logos/green_swan_lab-logo.webp",
   "websiteUrl": "https://greenswanlab.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "green-swan-lab",
+  "linkedinNum": 76134229,
   "crunchbaseId": null,
+  "ivcId": "A1000000415130",
   "finderId": "green-swan-lab",
   "xId": null,
+  "facebookId": "greenswanlab",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.070524,
-      "lon": 34.786887
+      "city": "תל אביב-יפו",
+      "lat": 32.0704879,
+      "lon": 34.7867549
     }
   ],
   "isMultinational": false,
-  "facebookId": "greenswanlab",
-  "linkedinNum": 76134229
+  "isActive": true
 }

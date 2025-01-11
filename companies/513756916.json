@@ -6,21 +6,26 @@
   "logoFile": "logos/biopetroclean-logo.webp",
   "websiteUrl": "https://www.biopetroclean.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 653943,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "BioPetroClean",
   "xId": "BioPetroClean",
+  "facebookId": "BioPetroClean",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גבעת התחמושת",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073674,
       "lon": 34.791807
     }
   ],
   "isMultinational": false,
-  "facebookId": "BioPetroClean",
-  "linkedinNum": 653943
+  "isActive": true
 }

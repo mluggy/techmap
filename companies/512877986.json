@@ -6,11 +6,17 @@
   "logoFile": "logos/sintec_media-logo.webp",
   "websiteUrl": "https://www.operative.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "operative",
+  "linkedinNum": 17979,
   "crunchbaseId": "sintecmedia",
+  "ivcId": null,
   "finderId": "sintec-media",
   "xId": "Operative_Media",
+  "facebookId": "operative",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חפצדי נחום",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "operative",
-  "linkedinNum": 17979
+  "isActive": true
 }

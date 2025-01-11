@@ -6,21 +6,26 @@
   "logoFile": "logos/akooda_tech-logo.webp",
   "websiteUrl": "https://www.akooda.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "akooda",
+  "linkedinNum": 69854877,
   "crunchbaseId": "akooda",
+  "ivcId": null,
   "finderId": "akooda",
   "xId": "GetAkooda",
+  "facebookId": "akoodaco",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 100,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069111,
       "lon": 34.786789
     }
   ],
   "isMultinational": false,
-  "facebookId": "akoodaco",
-  "linkedinNum": 69854877
+  "isActive": true
 }

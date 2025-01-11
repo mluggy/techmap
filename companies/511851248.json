@@ -6,13 +6,26 @@
   "logoFile": "logos/nirlat-logo.webp",
   "websiteUrl": "https://en.nirlat.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nirlat",
+  "linkedinNum": 81631678,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nirlat",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "nirlat",
-  "linkedinNum": 81631678
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ ניר עוז",
+      "lat": 31.314388578187543,
+      "lon": 34.40174915985382
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

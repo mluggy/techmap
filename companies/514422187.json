@@ -1,26 +1,31 @@
 {
   "name": "Wobi",
-  "description": "Insurance Price Comparisons",
+  "description": "Insurance Price Comparisons.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/wobi_insurance_agency-logo.webp",
   "websiteUrl": "https://www.wobi.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wobi-ltd",
+  "linkedinNum": 2576426,
   "crunchbaseId": null,
+  "ivcId": "A1000000023575",
   "finderId": "wobi",
   "xId": "wobi_il",
+  "facebookId": "wobi.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
+      "street": "רחוב זאב ז'בוטינסקי",
       "houseNumber": 9,
       "city": "בני ברק",
-      "lat": 32.0919976,
-      "lon": 34.8257445
+      "lat": 32.0841855,
+      "lon": 34.8091283
     }
   ],
   "isMultinational": false,
-  "facebookId": "wobi.co.il",
-  "linkedinNum": 2576426
+  "isActive": true
 }

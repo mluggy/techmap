@@ -1,25 +1,31 @@
 {
   "name": "Solo",
-  "description": "Using Emotion-based Data for Increased Engagement",
+  "description": "Using Emotion-based Data for Increased Engagement.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/solo_project-logo.webp",
   "websiteUrl": "https://www.imsolo.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "meetsolo",
+  "linkedinNum": 20489071,
   "crunchbaseId": null,
+  "ivcId": "A1000000254172",
   "finderId": "2gether-music",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שינקין",
-      "houseNumber": 23,
-      "city": "גבעתיים",
-      "lat": 32.074827814894704,
-      "lon": 34.81148396123929
+      "street": "הרקפת",
+      "houseNumber": 24,
+      "city": "זכרון יעקב",
+      "lat": 32.585778,
+      "lon": 34.947879
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 20489071
+  "isActive": true
 }

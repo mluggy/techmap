@@ -6,21 +6,26 @@
   "logoFile": "logos/simploud-logo.webp",
   "websiteUrl": "https://simploud.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "simploud",
+  "linkedinNum": 11753627,
   "crunchbaseId": null,
+  "ivcId": "A1000000416734",
   "finderId": "simploud",
   "xId": "simploud",
+  "facebookId": "simploud",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 154,
-      "city": "תל אביב - יפו",
-      "lat": 32.0796864,
-      "lon": 34.7955201
+      "street": "יגאל אלון",
+      "houseNumber": 96,
+      "city": "תל אביב-יפו",
+      "lat": 32.0694454,
+      "lon": 34.7942353
     }
   ],
   "isMultinational": false,
-  "facebookId": "simploud",
-  "linkedinNum": 11753627
+  "isActive": true
 }

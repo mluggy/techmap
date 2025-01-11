@@ -6,20 +6,26 @@
   "logoFile": "logos/recma_bio-logo.webp",
   "websiteUrl": "https://www.recmabio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "recma-bio",
+  "linkedinNum": 90819553,
   "crunchbaseId": null,
+  "ivcId": "A1000000417322",
   "finderId": "recma-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תרשיש-פארק התעשייה",
-      "houseNumber": 5,
-      "city": "קיסריה",
-      "lat": 32.4879599,
-      "lon": 34.9040366
+      "street": "ויתקין",
+      "houseNumber": 37,
+      "city": "רמת השרון",
+      "lat": 32.1365667,
+      "lon": 34.8482713
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90819553
+  "isActive": true
 }

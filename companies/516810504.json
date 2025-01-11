@@ -6,18 +6,26 @@
   "logoFile": "logos/idan_a_s_enterprise-logo.webp",
   "websiteUrl": "https://idan.network/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "idan",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלוף בצלות",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.058642,
       "lon": 34.771775
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

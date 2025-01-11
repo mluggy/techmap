@@ -6,11 +6,17 @@
   "logoFile": "logos/blink_and_co-logo.webp",
   "websiteUrl": "https://blinkforhome.com/",
   "careersUrl": "https://blinkux.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "elastic-media",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הזית",
@@ -19,5 +25,7 @@
       "lat": 32.1868121,
       "lon": 34.8162901
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

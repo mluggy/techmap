@@ -6,20 +6,26 @@
   "logoFile": "logos/dormotech_medical-logo.webp",
   "websiteUrl": "https://www.dormotech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dormotech",
+  "linkedinNum": 68496321,
   "crunchbaseId": null,
+  "ivcId": "A1000000227432",
   "finderId": "dormotech-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד רבין יצחק",
-      "houseNumber": 21,
+      "street": "יצחק רבין",
+      "houseNumber": null,
       "city": "עפולה",
-      "lat": 32.6236389,
-      "lon": 35.3176342
+      "lat": 32.61358,
+      "lon": 35.297351
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68496321
+  "isActive": true
 }

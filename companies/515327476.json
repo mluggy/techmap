@@ -6,11 +6,17 @@
   "logoFile": "logos/agrorim-logo.webp",
   "websiteUrl": "https://agrorim.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "agrorim",
   "xId": null,
+  "facebookId": "nanocapsolution",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "nanocapsolution"
+  "isActive": true
 }

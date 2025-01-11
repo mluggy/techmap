@@ -1,0 +1,31 @@
+{
+  "name": "Triplights",
+  "description": "TripLights is a community based event and news application, enabling people, wherever they are, to stay up to date with happenings around the world.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/triplights-logo.webp",
+  "websiteUrl": "http://www.triplights.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000188207",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגפן",
+      "houseNumber": 14,
+      "city": "רעננה",
+      "lat": 32.1914709,
+      "lon": 34.8575303
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

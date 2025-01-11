@@ -6,11 +6,17 @@
   "logoFile": "logos/agoda_com-logo.webp",
   "websiteUrl": "https://www.agoda.com/",
   "careersUrl": "https://careersatagoda.com/",
-  "isHiring": true,
   "linkedinId": "agoda",
+  "linkedinNum": 66719,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "agoda-com",
   "xId": "agoda",
+  "facebookId": "agoda",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,7 +26,6 @@
       "lon": 34.80419494318181
     }
   ],
-  "isMultinational": true,
-  "facebookId": "agoda",
-  "linkedinNum": 66719
+  "isMultinational": false,
+  "isActive": true
 }

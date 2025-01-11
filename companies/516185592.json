@@ -1,25 +1,31 @@
 {
   "name": "DG4",
-  "description": "Digital Solution for SAP IM Managed Warehouses",
+  "description": "Digital Solution for SAP IM Managed Warehouses.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/dg_4-logo.webp",
   "websiteUrl": "https://dg4.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dg4",
+  "linkedinNum": 68538282,
   "crunchbaseId": null,
+  "ivcId": "A1000000357624",
   "finderId": "dg4",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "העליה",
+      "street": "העלייה",
       "houseNumber": 45,
-      "city": "נהרייה",
-      "lat": 33.0116608,
-      "lon": 35.0908568
+      "city": "תל אביב-יפו",
+      "lat": 32.0565823,
+      "lon": 34.7730161
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68538282
+  "isActive": true
 }

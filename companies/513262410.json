@@ -6,11 +6,17 @@
   "logoFile": "logos/ginger_g-logo.webp",
   "websiteUrl": "https://www.gingersoftware.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 210116,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ginger",
   "xId": "gingersoftware",
+  "facebookId": "GingerProofreader",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השזיף",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GingerProofreader",
-  "linkedinNum": 210116
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/sodastream_industries-logo.webp",
   "websiteUrl": "https://sodastream.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sodastream-international-ltd-",
+  "linkedinNum": 1000151,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sodastream",
   "xId": "sodastreamusa",
+  "facebookId": "SodaStream",
+  "breezyId": null,
+  "comeetId": "sodastream/40.008",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתיר ידע",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SodaStream",
-  "linkedinNum": 1000151,
-  "comeetId": "sodastream/40.008"
+  "isActive": true
 }

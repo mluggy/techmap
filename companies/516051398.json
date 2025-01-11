@@ -3,22 +3,29 @@
   "description": "Providing robust, climate-resilient automotive connectivity through satellite modules and an IoT operations cloud for global data transmission and management.",
   "categoryId": 13,
   "size": "xs",
-  "logoFile": "logos/gorilla_link-logo.webp",
+  "logoFile": "logos/gorillalink-logo.webp",
   "websiteUrl": "https://www.gorilla.link/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gorillalink",
+  "linkedinNum": 76840081,
   "crunchbaseId": null,
+  "ivcId": "A1000000319985",
   "finderId": "gorilla",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנמל",
-      "houseNumber": 28,
-      "city": "חיפה",
-      "lat": 32.8191508,
-      "lon": 35.0004706
+      "street": "מרכז בעלי מלאכה",
+      "houseNumber": 40,
+      "city": "תל אביב-יפו",
+      "lat": 32.0693008,
+      "lon": 34.7754176
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

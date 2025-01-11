@@ -6,21 +6,26 @@
   "logoFile": "logos/scadasudo-logo.webp",
   "websiteUrl": "https://www.scadasudo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "scadasudo",
+  "linkedinNum": 27182180,
   "crunchbaseId": null,
+  "ivcId": "A1000000227448",
   "finderId": "scadasudo",
   "xId": null,
+  "facebookId": "scadasudo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השדה",
-      "houseNumber": null,
-      "city": "גן יאשיה",
-      "lat": 32.35082374726971,
-      "lon": 34.996129605304304
+      "street": "המנופים",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.1595829,
+      "lon": 34.8083893
     }
   ],
   "isMultinational": false,
-  "facebookId": "scadasudo",
-  "linkedinNum": 27182180
+  "isActive": true
 }

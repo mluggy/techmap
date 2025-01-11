@@ -6,21 +6,26 @@
   "logoFile": "logos/optimalq_technologies-logo.webp",
   "websiteUrl": "https://www.optimalq.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "optimalq",
+  "linkedinNum": 10084126,
   "crunchbaseId": "optimalq-technologies",
+  "ivcId": "A1000000209233",
   "finderId": "optimalq",
   "xId": "QOptimal",
+  "facebookId": "OptimalQ-244560932964336",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.109582,
-      "lon": 34.839068
+      "city": "תל אביב-יפו",
+      "lat": 32.1096106,
+      "lon": 34.839448
     }
   ],
   "isMultinational": false,
-  "facebookId": "OptimalQ-244560932964336",
-  "linkedinNum": 10084126
+  "isActive": true
 }

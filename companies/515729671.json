@@ -6,20 +6,26 @@
   "logoFile": "logos/betterseeds-logo.webp",
   "websiteUrl": "https://betterseeds.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "betterseeds-ltd",
+  "linkedinNum": 69236363,
   "crunchbaseId": "betterseeds",
+  "ivcId": "A1000000268639",
   "finderId": "betterseeds-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברכת עם",
       "houseNumber": 54,
-      "city": "גבעת ח\"ן",
-      "lat": 32.1666512,
-      "lon": 34.8704186
+      "city": "גבעת חן",
+      "lat": 32.1673631,
+      "lon": 34.8721029
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69236363
+  "isActive": true
 }

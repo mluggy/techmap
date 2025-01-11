@@ -6,11 +6,17 @@
   "logoFile": "logos/elmedical-logo.webp",
   "websiteUrl": "https://www.elmedical-group.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000004404",
   "finderId": "elmedical",
   "xId": "elmedical",
+  "facebookId": "Elmedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Elmedical"
+  "isActive": true
 }

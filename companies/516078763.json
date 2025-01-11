@@ -6,20 +6,26 @@
   "logoFile": "logos/bloomx-logo.webp",
   "websiteUrl": "https://www.bloomx.ag/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bloomx-ag",
+  "linkedinNum": 23773216,
   "crunchbaseId": null,
+  "ivcId": "A1000000294327",
   "finderId": "bloomx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך הפרדס",
-      "houseNumber": 31,
-      "city": "רשפון",
-      "lat": 32.2028561,
-      "lon": 34.8268605
+      "street": "הפרדס",
+      "houseNumber": null,
+      "city": "הוד השרון",
+      "lat": 32.146578,
+      "lon": 34.884806
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 23773216
+  "isActive": true
 }

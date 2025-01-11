@@ -1,26 +1,31 @@
 {
   "name": "ActiveTrail",
-  "description": "Marketing Automation Platform",
+  "description": "Marketing Automation Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/active_trail-logo.webp",
   "websiteUrl": "https://www.activetrail.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "activetrail",
+  "linkedinNum": 769515,
   "crunchbaseId": null,
+  "ivcId": "A1000000010482",
   "finderId": "activetrail",
   "xId": "ActiveTrail_com",
+  "facebookId": "activetrailcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 48,
-      "city": "תל אביב - יפו",
-      "lat": 32.0631601,
-      "lon": 34.7803411
+      "city": "בני ברק",
+      "lat": 32.092679,
+      "lon": 34.831622
     }
   ],
   "isMultinational": false,
-  "facebookId": "activetrailcom",
-  "linkedinNum": 769515
+  "isActive": true
 }

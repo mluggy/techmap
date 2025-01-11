@@ -6,20 +6,26 @@
   "logoFile": "logos/marx_biotechnology-logo.webp",
   "websiteUrl": "https://marxbio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "marx-biotechnology-ltd",
+  "linkedinNum": 2495418,
   "crunchbaseId": "marx-biotechnology",
+  "ivcId": "A1000000010092",
   "finderId": "marx-biotechnology",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מעבר המיתלה",
+      "street": "רח' מעבר המיתלה",
       "houseNumber": 3,
       "city": "ירושלים",
-      "lat": 31.7999147,
-      "lon": 35.2244744
+      "lat": 31.800174,
+      "lon": 35.2243992
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2495418
+  "isActive": true
 }

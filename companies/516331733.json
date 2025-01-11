@@ -6,19 +6,26 @@
   "logoFile": "logos/vilog-logo.webp",
   "websiteUrl": "https://www.vilog.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vilog",
+  "linkedinNum": 26457144,
   "crunchbaseId": null,
+  "ivcId": "A1000000319329",
   "finderId": "vilog",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.0707597,
-      "lon": 34.7892768
+      "street": "הארבעה",
+      "houseNumber": 21,
+      "city": "תל אביב-יפו",
+      "lat": 32.0704496,
+      "lon": 34.7870971
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

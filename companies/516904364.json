@@ -6,20 +6,26 @@
   "logoFile": "logos/blinqio.webp",
   "websiteUrl": "https://blinq.io/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "blinq-io",
   "linkedinNum": 82106298,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "blinqio",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 146,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07845843190646,
       "lon": 34.79429882921301
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

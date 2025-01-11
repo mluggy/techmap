@@ -6,20 +6,26 @@
   "logoFile": "logos/hish_yael-logo.webp",
   "websiteUrl": "https://www.hishco.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5166860,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hish",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אמירים",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.118182,
       "lon": 34.833728
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5166860
+  "isActive": true
 }

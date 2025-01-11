@@ -6,21 +6,26 @@
   "logoFile": "logos/heroki-logo.webp",
   "websiteUrl": "https://www.heroki.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 13988181,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "heroki",
   "xId": null,
+  "facebookId": "HeroKi.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מרכלת",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0593936230639,
       "lon": 34.76847180383663
     }
   ],
   "isMultinational": false,
-  "facebookId": "HeroKi.co",
-  "linkedinNum": 13988181
+  "isActive": true
 }

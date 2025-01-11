@@ -6,20 +6,26 @@
   "logoFile": "logos/flow_security-logo.webp",
   "websiteUrl": "https://www.flowsecurity.com/",
   "careersUrl": "https://www.flowsecurity.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 77630378,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "flow-security",
   "xId": "flow_security",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064654,
       "lon": 34.785584
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77630378
+  "isActive": true
 }

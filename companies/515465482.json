@@ -6,20 +6,26 @@
   "logoFile": "logos/otoma-logo.webp",
   "websiteUrl": "https://otoma.com/",
   "careersUrl": "https://otoma.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "otoma",
+  "linkedinNum": 29019301,
   "crunchbaseId": null,
+  "ivcId": "A1000000224449",
   "finderId": "insightguard",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
-      "lat": 32.07734524999999,
-      "lon": 34.79332549438699
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322718
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 29019301
+  "isActive": true
 }

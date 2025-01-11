@@ -6,21 +6,26 @@
   "logoFile": "logos/smartlation-logo.webp",
   "websiteUrl": "https://app.smartlation.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "smartlation",
+  "linkedinNum": 5355659,
   "crunchbaseId": null,
+  "ivcId": "A1000000186724",
   "finderId": "smartlation",
   "xId": null,
+  "facebookId": "smartlation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתנזון",
       "houseNumber": 1,
       "city": "חיפה",
-      "lat": 32.8173008,
-      "lon": 35.0005333
+      "lat": 32.8185696,
+      "lon": 34.9987465
     }
   ],
   "isMultinational": false,
-  "facebookId": "smartlation",
-  "linkedinNum": 5355659
+  "isActive": true
 }

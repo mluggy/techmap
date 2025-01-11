@@ -6,20 +6,26 @@
   "logoFile": "logos/frequants-logo.webp",
   "websiteUrl": "https://www.frequants.com/",
   "careersUrl": "https://www.frequants.com/careers",
-  "isHiring": true,
   "linkedinId": "frequants",
+  "linkedinNum": 54112863,
   "crunchbaseId": "frequants",
+  "ivcId": "A1000000362959",
   "finderId": "frequants",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הירקון",
-      "houseNumber": 5,
-      "city": "בני ברק",
-      "lat": 32.0959332,
-      "lon": 34.8253295
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 54112863
+  "isActive": true
 }

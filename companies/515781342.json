@@ -6,21 +6,26 @@
   "logoFile": "logos/pathkeeper_surgical-logo.webp",
   "websiteUrl": "https://www.path-keeper.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pathkeeper",
+  "linkedinNum": 65688482,
   "crunchbaseId": "path-keeper-surgical",
+  "ivcId": "A1000000276457",
   "finderId": "deep-health",
   "xId": null,
+  "facebookId": "PathKeeperSurgical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כרמל",
-      "houseNumber": 16,
-      "city": "רחובות",
-      "lat": 31.9348826,
-      "lon": 34.8079343
+      "street": "הטחנה",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1735865,
+      "lon": 34.8914731
     }
   ],
   "isMultinational": false,
-  "facebookId": "PathKeeperSurgical",
-  "linkedinNum": 65688482
+  "isActive": true
 }

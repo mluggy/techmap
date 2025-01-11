@@ -1,16 +1,22 @@
 {
   "name": "Omplant",
-  "description": "Dental Implant Driver System",
+  "description": "Dental Implant Driver System.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/omplant-logo.webp",
   "websiteUrl": "https://www.omplant.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "omplant-ltd",
+  "linkedinNum": 5292902,
   "crunchbaseId": null,
+  "ivcId": "A1000000001306",
   "finderId": "omplant",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד הגעתון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5292902
+  "isActive": true
 }

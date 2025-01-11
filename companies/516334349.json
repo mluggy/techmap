@@ -1,26 +1,31 @@
 {
   "name": "Grain",
-  "description": "Currency Solution for Software Platforms and Marketplaces",
+  "description": "Currency Solution for Software Platforms and Marketplaces.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/grain_head-logo.webp",
   "websiteUrl": "https://www.grainfinance.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "grainfinance",
+  "linkedinNum": 82092927,
   "crunchbaseId": null,
+  "ivcId": "A1000000393478",
   "finderId": "grain",
   "xId": "grainfinance_co",
+  "facebookId": "GrainFinance",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בובר מרטין",
-      "houseNumber": 98,
-      "city": "ראשון לציון",
-      "lat": 31.9786945,
-      "lon": 34.7704483
+      "street": "שדרות שאול המלך",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0753059,
+      "lon": 34.7839623
     }
   ],
   "isMultinational": false,
-  "facebookId": "GrainFinance",
-  "linkedinNum": 82092927
+  "isActive": true
 }

@@ -6,12 +6,26 @@
   "logoFile": "logos/vgarden-logo.webp",
   "websiteUrl": "https://www.vgardenfoods.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vgarden",
+  "linkedinNum": 18444674,
   "crunchbaseId": null,
+  "ivcId": "A1000000378329",
   "finderId": "vgarden",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "גן שמואל",
+      "lat": 32.452911,
+      "lon": 34.949311
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 18444674
+  "isActive": true
 }

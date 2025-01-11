@@ -6,21 +6,26 @@
   "logoFile": "logos/sekindo-logo.webp",
   "websiteUrl": "https://www.primis.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "primis-um",
+  "linkedinNum": 9761678,
   "crunchbaseId": "sekindo",
+  "ivcId": null,
   "finderId": "sekindo",
   "xId": "PrimisLtd",
+  "facebookId": "primisum",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.107413,
       "lon": 34.828148
     }
   ],
   "isMultinational": false,
-  "facebookId": "primisum",
-  "linkedinNum": 9761678
+  "isActive": true
 }

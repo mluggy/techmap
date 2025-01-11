@@ -6,11 +6,17 @@
   "logoFile": "logos/cavitech-logo.webp",
   "websiteUrl": "https://www.cavitech.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cavitech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחים יפה",
@@ -20,5 +26,6 @@
       "lon": 34.8816342909158
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Capitalise",
-  "description": "Text-based Trading Analysis and Automation",
+  "description": "Text-based Trading Analysis and Automation.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/capitalise-logo.webp",
   "websiteUrl": "https://www.capitalise.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "capitali-se",
+  "linkedinNum": 10496993,
   "crunchbaseId": null,
+  "ivcId": "A1000000190966",
   "finderId": "capitalise",
   "xId": "Capitalise_ai",
+  "facebookId": "capitalise",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלנבי",
       "houseNumber": 105,
-      "city": "תל אביב - יפו",
-      "lat": 32.063907,
-      "lon": 34.773007
+      "city": "תל אביב-יפו",
+      "lat": 32.0639457,
+      "lon": 34.7729989
     }
   ],
   "isMultinational": false,
-  "facebookId": "capitalise",
-  "linkedinNum": 10496993
+  "isActive": true
 }

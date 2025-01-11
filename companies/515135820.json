@@ -6,21 +6,26 @@
   "logoFile": "logos/skyline_ai-logo.webp",
   "websiteUrl": "https://www.skyline.ai/",
   "careersUrl": "https://www.skyline.ai/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 17972616,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "skyline-ai",
   "xId": "SKYLINE_AI",
+  "facebookId": "skylineai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מיקוניס שמואל",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.060069,
       "lon": 34.785451
     }
   ],
   "isMultinational": false,
-  "facebookId": "skylineai",
-  "linkedinNum": 17972616
+  "isActive": true
 }

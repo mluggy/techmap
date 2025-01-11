@@ -1,0 +1,31 @@
+{
+  "name": "finitiOne",
+  "description": "FinitiOne is a fintech company which provides payment solutions and smart tech solutions in the field of managing loyalty programs and consumer clubs in Israel and around the world.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/finitione-logo.webp",
+  "websiteUrl": "https://www.finitione.com",
+  "careersUrl": "https://www.finitione.com/jobs",
+  "linkedinId": "finitione",
+  "linkedinNum": 82132034,
+  "crunchbaseId": null,
+  "ivcId": "A1000000405809",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.092876,
+      "lon": 34.827268
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

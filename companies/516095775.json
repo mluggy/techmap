@@ -1,0 +1,31 @@
+{
+  "name": "Dance Demy",
+  "description": "Dance Demy develops an innovative online dance learning app, based on computer vision and AI technology, which provides automatically immediate feedback and guidance for better performance without human intervention.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/dance_demy-logo.webp",
+  "websiteUrl": "https://dancedemy.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000302657",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יהודה הלוי",
+      "houseNumber": 19,
+      "city": "קרית שמונה",
+      "lat": 33.2146082,
+      "lon": 35.5676571
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

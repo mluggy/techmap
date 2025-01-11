@@ -6,18 +6,26 @@
   "logoFile": "logos/knostic-logo.webp",
   "websiteUrl": "https://www.knostic.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "knostic",
+  "linkedinNum": 100714136,
   "crunchbaseId": null,
+  "ivcId": "A1000000471855",
   "finderId": "knostic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמה",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.120673,
-      "lon": 34.842013
+      "city": "תל אביב-יפו",
+      "lat": 32.1207086,
+      "lon": 34.8419837
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

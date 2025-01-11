@@ -1,16 +1,22 @@
 {
   "name": "CodersClan",
-  "description": "Communal Code Outsourcing",
-  "categoryId": 9,
+  "description": "Airfleet is creating and optimizing revenue generating websites for Tech B2B businesses.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/coders_clan-logo.webp",
-  "websiteUrl": "https://www.codersclan.com/",
+  "websiteUrl": "https://www.airfleet.co",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "codersclan",
+  "linkedinNum": 3195438,
   "crunchbaseId": "codersclan",
+  "ivcId": "A1000000023216",
   "finderId": "codersclan",
   "xId": "codersclan",
+  "facebookId": "CodersClan",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתיר ידע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CodersClan",
-  "linkedinNum": 3195438
+  "isActive": true
 }

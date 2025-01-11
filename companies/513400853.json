@@ -3,14 +3,20 @@
   "description": "Tikal provides expert services to hi-tech companies to make tech impact on their product",
   "categoryId": 14,
   "size": "l",
-  "logoFile": "logos/tikal_knowledge-logo.webp",
+  "logoFile": "logos/tikal-logo.webp",
   "websiteUrl": "https://tikalk.com/",
   "careersUrl": "https://tikalk.com/career/",
-  "isHiring": true,
   "linkedinId": "tikal-knowledge",
+  "linkedinNum": 96195,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": null,
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "tikalk/68.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יונה קרמניצקי",
@@ -20,5 +26,6 @@
       "lon": 34.79429081958143
     }
   ],
-  "comeetId": "tikalk/68.00C"
+  "isMultinational": false,
+  "isActive": true
 }

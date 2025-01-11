@@ -1,17 +1,22 @@
 {
   "name": "Karamba Security",
-  "description": "Embedded Security for Connected Systems",
+  "description": "Embedded Security for Connected Systems.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/karamba-security.webp",
   "websiteUrl": "https://www.karambasecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "karamba-security",
   "linkedinNum": 10337714,
   "crunchbaseId": null,
+  "ivcId": "A1000000204755",
   "finderId": "karamba-security",
   "xId": "KarambaSecurity",
   "facebookId": "KarambaSec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
@@ -21,5 +26,6 @@
       "lon": 34.894942965070335
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

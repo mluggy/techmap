@@ -6,21 +6,26 @@
   "logoFile": "logos/entoprotech-logo.webp",
   "websiteUrl": "https://entoprotech.com/",
   "careersUrl": "https://entoprotech.com/careers/",
-  "isHiring": true,
   "linkedinId": "entoprotech",
+  "linkedinNum": 42722159,
   "crunchbaseId": null,
+  "ivcId": "A1000000311314",
   "finderId": "entoprotech",
   "xId": null,
+  "facebookId": "entoprotech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "street": "כביש 2",
+      "houseNumber": null,
+      "city": "קיסריה",
+      "lat": 32.499109,
+      "lon": 34.916476
     }
   ],
   "isMultinational": false,
-  "facebookId": "entoprotech",
-  "linkedinNum": 42722159
+  "isActive": true
 }

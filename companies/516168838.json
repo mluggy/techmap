@@ -1,0 +1,31 @@
+{
+  "name": "AnyBook",
+  "description": "AnyBook Is a collaborative platform for book lovers that allows the users' easily to find the right book for them on their phone, computer or tablet.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/anybook-logo.webp",
+  "websiteUrl": "https://www.anybook.ai",
+  "careersUrl": null,
+  "linkedinId": "anybook",
+  "linkedinNum": 69191400,
+  "crunchbaseId": null,
+  "ivcId": "A1000000367445",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יחזקאל קוטשר",
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.8233057,
+      "lon": 35.1864195
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

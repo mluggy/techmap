@@ -6,21 +6,26 @@
   "logoFile": "logos/drove_network_ltd-logo.webp",
   "websiteUrl": "https://www.drove.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "drovecom",
+  "linkedinNum": 18241475,
   "crunchbaseId": "drove-networks",
+  "ivcId": "A1000000245422",
   "finderId": "drove-network",
   "xId": null,
+  "facebookId": "droveisrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בלוך דוד",
-      "houseNumber": 29,
-      "city": "תל אביב - יפו",
-      "lat": 32.083107,
-      "lon": 34.784203
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "droveisrael",
-  "linkedinNum": 18241475
+  "isActive": true
 }

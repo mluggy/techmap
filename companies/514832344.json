@@ -6,20 +6,26 @@
   "logoFile": "logos/manage_your_trip-logo.webp",
   "websiteUrl": "https://www.manageyourtrip.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "manage-your-trip",
+  "linkedinNum": 2881864,
   "crunchbaseId": null,
+  "ivcId": "A1000000024580",
   "finderId": "manage-your-trip",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שפיגלמן אברהם",
-      "houseNumber": 27,
+      "street": "דוד פנקס",
+      "houseNumber": 45,
       "city": "נתניה",
-      "lat": 32.30793816587777,
-      "lon": 34.873227761243854
+      "lat": 32.3145285,
+      "lon": 34.8738986
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2881864
+  "isActive": true
 }

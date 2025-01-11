@@ -1,16 +1,22 @@
 {
   "name": "Phenome Networks",
-  "description": "Plant Breeding Management and Analytics Platform",
+  "description": "Plant Breeding Management and Analytics Platform.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/phenome_networks-logo.webp",
   "websiteUrl": "https://phenome-networks.com/en",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "phenom-networks-inc.",
+  "linkedinNum": 593482,
   "crunchbaseId": "phenome-networks",
+  "ivcId": "A1000000024917",
   "finderId": "phenome-networks",
   "xId": null,
+  "facebookId": "phenomenetworks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פלאוט מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "phenomenetworks",
-  "linkedinNum": 593482
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/loox_online-logo.webp",
   "websiteUrl": "https://loox.app/",
   "careersUrl": "https://loox.app/careers",
-  "isHiring": true,
   "linkedinId": "loox",
+  "linkedinNum": 10227899,
   "crunchbaseId": null,
+  "ivcId": "A1000000201888",
   "finderId": "loox",
   "xId": "looxio",
+  "facebookId": "looxreviews",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "looxreviews",
-  "linkedinNum": 10227899
+  "isActive": true
 }

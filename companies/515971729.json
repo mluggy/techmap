@@ -6,21 +6,26 @@
   "logoFile": "logos/summurai_interactions-logo.webp",
   "websiteUrl": "https://summurai.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "summurai",
+  "linkedinNum": 27143529,
   "crunchbaseId": null,
+  "ivcId": "A1000000237647",
   "finderId": "summurai",
   "xId": "summuraiapp",
+  "facebookId": "SummuraiApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זכרון יעקב",
+      "street": "זכרון משה",
       "houseNumber": 9,
       "city": "פתח תקווה",
-      "lat": 32.10281295,
-      "lon": 34.87480442959978
+      "lat": 32.0831447,
+      "lon": 34.8809316
     }
   ],
   "isMultinational": false,
-  "facebookId": "SummuraiApp",
-  "linkedinNum": 27143529
+  "isActive": true
 }

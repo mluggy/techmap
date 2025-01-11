@@ -6,11 +6,17 @@
   "logoFile": "logos/ledgertech-logo.webp",
   "websiteUrl": "https://ledgertech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ledger-tech",
+  "linkedinNum": 11808535,
   "crunchbaseId": "ag-ledgertech-systems",
+  "ivcId": "A1000000281400",
   "finderId": "ledgertech",
   "xId": null,
+  "facebookId": "ledgertech.insurance",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דקל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ledgertech.insurance",
-  "linkedinNum": 11808535
+  "isActive": true
 }

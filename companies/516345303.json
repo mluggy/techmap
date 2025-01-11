@@ -6,21 +6,26 @@
   "logoFile": "logos/talon_cyber_security-logo.webp",
   "websiteUrl": "https://talon-sec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 76840779,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "talon-cyber-security",
   "xId": "TalonCyber",
+  "facebookId": "TalonCyberSec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 80,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.067461,
       "lon": 34.785688
     }
   ],
   "isMultinational": false,
-  "facebookId": "TalonCyberSec",
-  "linkedinNum": 76840779
+  "isActive": true
 }

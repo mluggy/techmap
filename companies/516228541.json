@@ -1,0 +1,31 @@
+{
+  "name": "Poold Diagnostics",
+  "description": "Poold Diagnostics' pooled testing method allows diagnostic laboratories to increase testing capacity, using their existing diagnostic testing setup.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/poold_diagnostics-logo.webp",
+  "websiteUrl": "https://www.poold-diagnostics.com",
+  "careersUrl": null,
+  "linkedinId": "poold-diagnotics",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000332000",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות דויד בן גוריון",
+      "houseNumber": 1,
+      "city": "באר שבע",
+      "lat": 31.261426,
+      "lon": 34.7995546
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,19 +6,26 @@
   "logoFile": "logos/solar_fence_group-logo.webp",
   "websiteUrl": "https://www.solarfencegroup.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000493406",
   "finderId": "solar-fence-group",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב מרדכי ש. אשכנזי",
-      "houseNumber": 2,
-      "city": "כפר חב\"ד",
-      "lat": 31.986471147749075,
-      "lon": 34.84653654440179
+      "street": "אשכנזי",
+      "houseNumber": null,
+      "city": "יהוד מונוסון",
+      "lat": 32.029204,
+      "lon": 34.890236
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

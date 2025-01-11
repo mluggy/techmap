@@ -6,21 +6,26 @@
   "logoFile": "logos/bmc_software_israel-logo.webp",
   "websiteUrl": "https://www.bmc.com/",
   "careersUrl": "https://www.bmc.com/careers/careers.html",
-  "isHiring": true,
   "linkedinId": "bmc-software",
+  "linkedinNum": 1597,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bmc-software",
   "xId": "BMCSoftware",
+  "facebookId": "BMC.Software.Israel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.107131,
       "lon": 34.837026
     }
   ],
-  "isMultinational": true,
-  "facebookId": "BMC.Software.Israel",
-  "linkedinNum": 1597
+  "isMultinational": false,
+  "isActive": true
 }

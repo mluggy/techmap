@@ -6,21 +6,26 @@
   "logoFile": "logos/vcita_systems-logo.webp",
   "websiteUrl": "https://www.vcita.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vcita",
+  "linkedinNum": 1816111,
   "crunchbaseId": null,
+  "ivcId": "A1000000010191",
   "finderId": "vcita",
   "xId": "vCita",
+  "facebookId": "vcitainc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.1103013,
-      "lon": 34.8420657
+      "city": "תל אביב-יפו",
+      "lat": 32.1098862,
+      "lon": 34.8417187
     }
   ],
   "isMultinational": false,
-  "facebookId": "vcitainc",
-  "linkedinNum": 1816111
+  "isActive": true
 }

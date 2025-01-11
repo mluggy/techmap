@@ -1,0 +1,31 @@
+{
+  "name": "Endos Medical",
+  "description": "Endos Medical develops the E-Sleeve system that offers an advanced solution for treating obesity through an endoscopic procedure, which ensures high safety and effectiveness with the advantage of a short recovery time.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/endos_medical-logo.webp",
+  "websiteUrl": "https://www.endosmedical.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000494903",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חטיבת אלכסנדרוני",
+      "houseNumber": 6,
+      "city": "כפר סבא",
+      "lat": 32.1827055,
+      "lon": 34.9319419
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

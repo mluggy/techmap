@@ -1,16 +1,22 @@
 {
   "name": "Syrinjector",
-  "description": "Digital Mass-injection Solution for Livestock",
+  "description": "Digital Mass-injection Solution for Livestock.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/syrinjector-logo.webp",
   "websiteUrl": "https://www.syrinjector.com/cgi-sys/suspendedpage.cgi",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "syrinjector-ltd.",
+  "linkedinNum": 17903760,
   "crunchbaseId": "syrinjector",
+  "ivcId": "A1000000185476",
   "finderId": "syrinjector1",
   "xId": "Syrinjector_Ltd",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17903760
+  "isActive": true
 }

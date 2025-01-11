@@ -6,11 +6,26 @@
   "logoFile": "logos/4_med-logo.webp",
   "websiteUrl": "https://4med.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000003120",
   "finderId": "4med",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ נחל עוז",
+      "lat": 31.471481085633133,
+      "lon": 34.494875907690876
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

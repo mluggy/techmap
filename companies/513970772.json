@@ -6,21 +6,26 @@
   "logoFile": "logos/eyecue_vision_technologies-logo.webp",
   "websiteUrl": "https://www.eyecue-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eyecue-vision-technologies-ltd-",
+  "linkedinNum": 2197886,
   "crunchbaseId": null,
+  "ivcId": "A1000000002765",
   "finderId": "eyecue",
   "xId": "intent",
+  "facebookId": "QloneApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצמיחה",
-      "houseNumber": 1,
-      "city": "יקנעם עילית",
-      "lat": 32.668888,
-      "lon": 35.107009
+      "street": "התנופה",
+      "houseNumber": 13,
+      "city": "יוקנעם",
+      "lat": 32.667514,
+      "lon": 35.10586
     }
   ],
   "isMultinational": false,
-  "facebookId": "QloneApp",
-  "linkedinNum": 2197886
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/spotinst-logo.webp",
   "websiteUrl": "https://spot.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "spothq",
+  "linkedinNum": 30083623,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "spotinst",
   "xId": "spot_hq",
+  "facebookId": "spothq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06378,
       "lon": 34.769659
     }
   ],
   "isMultinational": false,
-  "facebookId": "spothq",
-  "linkedinNum": 30083623
+  "isActive": true
 }

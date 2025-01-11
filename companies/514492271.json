@@ -6,20 +6,26 @@
   "logoFile": "logos/healthwatch-logo.webp",
   "websiteUrl": "https://healthwatchtech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 12899343,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "healthwatch",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקוביץ",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.078703,
       "lon": 34.7870616
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12899343
+  "isActive": true
 }

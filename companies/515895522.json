@@ -6,21 +6,26 @@
   "logoFile": "logos/talntq-logo.webp",
   "websiteUrl": "https://www.tlntq.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "talntq",
+  "linkedinNum": 13998480,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "talntq",
   "xId": null,
+  "facebookId": "talntq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 53,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06769,
       "lon": 34.786874
     }
   ],
   "isMultinational": false,
-  "facebookId": "talntq",
-  "linkedinNum": 13998480
+  "isActive": true
 }

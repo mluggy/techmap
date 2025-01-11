@@ -6,21 +6,26 @@
   "logoFile": "logos/solitics-logo.webp",
   "websiteUrl": "https://solitics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "solitics",
+  "linkedinNum": 10689815,
   "crunchbaseId": null,
+  "ivcId": "A1000000024907",
   "finderId": "solitics",
   "xId": "solitics1",
+  "facebookId": "solitics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 156,
-      "city": "תל אביב - יפו",
-      "lat": 32.0797181,
-      "lon": 34.7957816
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0833871,
+      "lon": 34.8037261
     }
   ],
   "isMultinational": false,
-  "facebookId": "solitics",
-  "linkedinNum": 10689815
+  "isActive": true
 }

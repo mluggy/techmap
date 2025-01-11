@@ -1,16 +1,22 @@
 {
   "name": "Beyond Air",
-  "description": "Treatment Solutions for Respiratory Diseases",
+  "description": "Treatment Solutions for Respiratory Diseases.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/beyond_air-logo.webp",
   "websiteUrl": "https://www.beyondair.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "beyondair",
+  "linkedinNum": 5256195,
   "crunchbaseId": null,
+  "ivcId": "A1000000020839",
   "finderId": "beyond-air",
   "xId": "BeyondAirInc",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הורביץ אלי",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5256195
+  "isActive": true
 }

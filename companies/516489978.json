@@ -6,11 +6,17 @@
   "logoFile": "logos/pixend-logo.webp",
   "websiteUrl": "https://pixend.app/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pixendapp",
+  "linkedinNum": 77125016,
   "crunchbaseId": null,
+  "ivcId": "A1000000374779",
   "finderId": "pixend",
   "xId": null,
+  "facebookId": "pixend",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מאפו",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pixend",
-  "linkedinNum": 77125016
+  "isActive": true
 }

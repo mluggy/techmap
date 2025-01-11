@@ -6,11 +6,17 @@
   "logoFile": "logos/protekt_therapeutics-logo.webp",
   "websiteUrl": "https://www.protektx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000208279",
   "finderId": "protekt-therapeutics",
   "xId": null,
+  "facebookId": "Protektx",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Protektx"
+  "isActive": true
 }

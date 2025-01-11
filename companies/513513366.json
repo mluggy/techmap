@@ -1,26 +1,31 @@
 {
   "name": "Cellopark Technologies",
-  "description": "Advanced Parking Management System",
-  "categoryId": 5,
-  "size": "s",
+  "description": "Cellopark offers a payment app for mobile parking in blue and white and parking lots all over the country.",
+  "categoryId": 18,
+  "size": "m",
   "logoFile": "logos/cellopark_technologies-logo.webp",
-  "websiteUrl": "https://www.cellopark.com/site/",
-  "careersUrl": "https://cello-app.com/jobs/",
-  "isHiring": true,
+  "websiteUrl": "https://cello-app.com/global",
+  "careersUrl": null,
   "linkedinId": null,
+  "linkedinNum": 10053176,
   "crunchbaseId": null,
+  "ivcId": "A1000000020692",
   "finderId": "cellopark",
   "xId": null,
+  "facebookId": "CelloIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרוקמים",
-      "houseNumber": 26,
+      "street": "מנחם בגין",
+      "houseNumber": 5,
       "city": "חולון",
-      "lat": 32.0077054,
-      "lon": 34.80060304320986
+      "lat": 32.0047014,
+      "lon": 34.76899119999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "CelloIsrael",
-  "linkedinNum": 10053176
+  "isActive": true
 }

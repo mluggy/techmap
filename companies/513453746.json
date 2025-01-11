@@ -1,26 +1,31 @@
 {
   "name": "SlideMagic",
-  "description": "A New Way to Design Presentation Slides",
+  "description": "A New Way to Design Presentation Slides.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/slidemagic-logo.webp",
   "websiteUrl": "https://www.slidemagic.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "slidemagic",
+  "linkedinNum": 5062256,
   "crunchbaseId": null,
+  "ivcId": "A1000000022492",
   "finderId": "slidemagic",
   "xId": "slidemagichq",
+  "facebookId": "slidemagic",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רוזנבלום הרצל",
-      "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.138385,
-      "lon": 34.791136
+      "street": "הרצל רוזנבלום",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.1384549,
+      "lon": 34.7917534
     }
   ],
   "isMultinational": false,
-  "facebookId": "slidemagic",
-  "linkedinNum": 5062256
+  "isActive": true
 }

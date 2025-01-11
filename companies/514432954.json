@@ -6,11 +6,17 @@
   "logoFile": "logos/pink_park-logo.webp",
   "websiteUrl": "https://pinkpark.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 6356270,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pinkpark",
   "xId": null,
+  "facebookId": "pinkparking",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המפלסים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pinkparking",
-  "linkedinNum": 6356270
+  "isActive": true
 }

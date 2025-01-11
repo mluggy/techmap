@@ -6,20 +6,26 @@
   "logoFile": "logos/r_2_wireless-logo.webp",
   "websiteUrl": "https://r2-wireless.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "r2-wireless",
+  "linkedinNum": 68850950,
   "crunchbaseId": null,
+  "ivcId": "A1000000321166",
   "finderId": "r2-wireless",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנשיא",
-      "houseNumber": 73,
-      "city": "גבעת שמואל",
-      "lat": 32.0804854,
-      "lon": 34.8537954
+      "street": "דן",
+      "houseNumber": 11,
+      "city": "נחלים",
+      "lat": 32.06401220000001,
+      "lon": 34.9068197
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68850950
+  "isActive": true
 }

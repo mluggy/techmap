@@ -1,0 +1,31 @@
+{
+  "name": "Accusteel",
+  "description": "Accusteel is a technology company that is developing a non-invasive method to monitor in real time basic technological parameters in the EAF and BOF processes of steel manufacturers.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/accusteel-logo.webp",
+  "websiteUrl": "https://accusteel.ca",
+  "careersUrl": "https://accusteel.ca/about-us/careers/",
+  "linkedinId": "accusteel-inc-",
+  "linkedinNum": 3168584,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004207",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 4,
+      "city": "נתניה",
+      "lat": 32.3254542,
+      "lon": 34.8549683
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

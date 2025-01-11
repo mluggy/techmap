@@ -1,26 +1,31 @@
 {
   "name": "Intervyo",
-  "description": "Predictive Analytics for Job Candidate Suitability",
+  "description": "Predictive Analytics for Job Candidate Suitability.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/intervyo_r_d-logo.webp",
   "websiteUrl": "https://www.intervyo.com/",
   "careersUrl": "https://jobs.publix.com/2022/01/17/5-interview-tips-to-help-you-stand-out/",
-  "isHiring": true,
   "linkedinId": "intervyo",
+  "linkedinNum": 7942229,
   "crunchbaseId": "intervyo",
+  "ivcId": "A1000000024176",
   "finderId": "Intervyo",
   "xId": "intervyo",
+  "facebookId": "intervyo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברודצקי",
-      "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.106353,
-      "lon": 34.797195
+      "street": "חיים לבנון",
+      "houseNumber": 63,
+      "city": "תל אביב-יפו",
+      "lat": 32.113051,
+      "lon": 34.8012677
     }
   ],
   "isMultinational": false,
-  "facebookId": "intervyo",
-  "linkedinNum": 7942229
+  "isActive": true
 }

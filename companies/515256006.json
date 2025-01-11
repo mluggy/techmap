@@ -6,22 +6,26 @@
   "logoFile": "logos/claroty-logo.webp",
   "websiteUrl": "https://claroty.com/",
   "careersUrl": "https://claroty.com/careers",
-  "isHiring": true,
   "linkedinId": "claroty",
+  "linkedinNum": 12898104,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "claroty",
   "xId": "Claroty",
+  "facebookId": "ClarotyOT",
+  "breezyId": null,
+  "comeetId": "Claroty/F2.004",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 82,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066186,
       "lon": 34.792954
     }
   ],
   "isMultinational": false,
-  "facebookId": "ClarotyOT",
-  "linkedinNum": 12898104,
-  "comeetId": "Claroty/F2.004"
+  "isActive": true
 }

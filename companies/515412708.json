@@ -6,21 +6,26 @@
   "logoFile": "logos/checkout_app-logo.webp",
   "websiteUrl": "https://storee.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mystor-e",
+  "linkedinNum": 11259347,
   "crunchbaseId": null,
+  "ivcId": "A1000000217481",
   "finderId": "checkout",
   "xId": null,
+  "facebookId": "STOREEAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן יהודה",
-      "houseNumber": 146,
-      "city": "תל אביב - יפו",
-      "lat": 32.085873649999996,
-      "lon": 34.7729755
+      "street": "יהודה המכבי",
+      "houseNumber": 15,
+      "city": "תל אביב-יפו",
+      "lat": 32.0938841,
+      "lon": 34.7860657
     }
   ],
   "isMultinational": false,
-  "facebookId": "STOREEAI",
-  "linkedinNum": 11259347
+  "isActive": true
 }

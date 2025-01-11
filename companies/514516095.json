@@ -6,21 +6,26 @@
   "logoFile": "logos/any_do-logo.webp",
   "websiteUrl": "https://www.any.do/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "any.do",
+  "linkedinNum": 1332712,
   "crunchbaseId": null,
+  "ivcId": "A1000000001316",
   "finderId": "any-do",
   "xId": "anydo",
+  "facebookId": "Any.do",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 156,
-      "city": "תל אביב - יפו",
-      "lat": 32.0797181,
-      "lon": 34.7957816
+      "street": "אגריפס",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.0946332,
+      "lon": 34.7809275
     }
   ],
   "isMultinational": false,
-  "facebookId": "Any.do",
-  "linkedinNum": 1332712
+  "isActive": true
 }

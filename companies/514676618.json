@@ -6,11 +6,17 @@
   "logoFile": "logos/my_route_online-logo.webp",
   "websiteUrl": "https://www.myrouteonline.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1504350,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "myrouteonline",
   "xId": "MyRouteOnline",
+  "facebookId": "myrouteonline",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבין יצחק",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "myrouteonline",
-  "linkedinNum": 1504350
+  "isActive": true
 }

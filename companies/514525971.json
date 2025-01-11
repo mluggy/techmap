@@ -6,21 +6,26 @@
   "logoFile": "logos/colospan-logo.webp",
   "websiteUrl": "https://colospan.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 68366723,
   "crunchbaseId": null,
+  "ivcId": "A1000000001367",
   "finderId": "cologuard",
   "xId": null,
+  "facebookId": "colospan",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
+      "street": "עתיר ידע",
       "houseNumber": 21,
       "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "lat": 32.1611024,
+      "lon": 34.9363919
     }
   ],
   "isMultinational": false,
-  "facebookId": "colospan",
-  "linkedinNum": 68366723
+  "isActive": true
 }

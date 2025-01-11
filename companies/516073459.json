@@ -1,25 +1,31 @@
 {
   "name": "Culception",
-  "description": "Autonomous Greenhouse Operating Systems",
+  "description": "Autonomous Greenhouse Operating Systems.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/culception-logo.webp",
   "websiteUrl": "https://culception.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "culception",
+  "linkedinNum": 75386685,
   "crunchbaseId": "culception",
+  "ivcId": "A1000000341511",
   "finderId": "culception",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך התקווה",
-      "houseNumber": 13,
-      "city": "גני תקווה",
-      "lat": 32.0669598,
-      "lon": 34.8715965
+      "street": "הגפן",
+      "houseNumber": 23,
+      "city": "יהוד מונוסון",
+      "lat": 32.0278705,
+      "lon": 34.8763942
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75386685
+  "isActive": true
 }

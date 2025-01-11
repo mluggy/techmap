@@ -6,11 +6,17 @@
   "logoFile": "logos/eggxyt-logo.webp",
   "websiteUrl": "https://www.eggxyt.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eggxyt",
+  "linkedinNum": 18146334,
   "crunchbaseId": null,
+  "ivcId": "A1000000214852",
   "finderId": "eggxyt",
   "xId": "EggXYt",
+  "facebookId": "eggxyt",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרן היסוד",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "eggxyt",
-  "linkedinNum": 18146334
+  "isActive": true
 }

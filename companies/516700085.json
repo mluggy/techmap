@@ -1,0 +1,31 @@
+{
+  "name": "Smart Refer",
+  "description": "Refer is a solution that changes the field of recommendations between recommenders and businesses and service providers.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/smart_refer-logo.webp",
+  "websiteUrl": "https://smart-refer.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000453499",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "העלייה",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.783968,
+      "lon": 35.2035425
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Vertica CRM",
+  "description": "Vertica CRM has developed a customized CRM system.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/vertica_crm-logo.webp",
+  "websiteUrl": "http://businessbrokerscrm.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000250064",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "בית שמש",
+      "lat": 31.747041,
+      "lon": 34.988099
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

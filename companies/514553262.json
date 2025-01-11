@@ -6,19 +6,26 @@
   "logoFile": "logos/omega_life_science-logo.webp",
   "websiteUrl": "https://www.omegalifescience.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000186403",
   "finderId": "omega-life-science",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התעשיה",
-      "houseNumber": 5,
-      "city": "מגדל העמק",
-      "lat": 32.6868052,
-      "lon": 35.2465429
+      "street": "המתכת",
+      "houseNumber": 3,
+      "city": "נוף הגליל",
+      "lat": 32.7033255,
+      "lon": 35.3215625
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

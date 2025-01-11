@@ -6,11 +6,17 @@
   "logoFile": "logos/locusview-logo.webp",
   "websiteUrl": "https://www.locusview.com/",
   "careersUrl": "https://www.locusview.com/careers/",
-  "isHiring": true,
   "linkedinId": "locusview",
+  "linkedinNum": 4000129,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nortecview",
   "xId": "LocusView",
+  "facebookId": "Locusview",
+  "breezyId": null,
+  "comeetId": "locusview/25.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Locusview",
-  "linkedinNum": 4000129,
-  "comeetId": "locusview/25.002"
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/envizion_medical-logo.webp",
   "websiteUrl": "https://www.envizionmed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11683782,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "envizion-medical",
   "xId": null,
+  "facebookId": "ENvizionMed",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארד",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.111224,
       "lon": 34.840767
     }
   ],
   "isMultinational": false,
-  "facebookId": "ENvizionMed",
-  "linkedinNum": 11683782
+  "isActive": true
 }

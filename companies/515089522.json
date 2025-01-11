@@ -6,11 +6,17 @@
   "logoFile": "logos/talenttribe-logo.webp",
   "websiteUrl": "https://talenttribe.asia/?action=em-login",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "talenttribe",
+  "linkedinNum": 5268117,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "talenttribe",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עקיבא",
@@ -19,5 +25,7 @@
       "lat": 32.1896629,
       "lon": 34.8833948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

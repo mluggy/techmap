@@ -1,16 +1,22 @@
 {
   "name": "Veryo Studios",
-  "description": "Eco-conscious Mobile Gaming Apps",
-  "categoryId": 8,
-  "size": "xs",
+  "description": "Veryo Studios is an operator of a gaming studio intended to create games.",
+  "categoryId": 18,
+  "size": "s",
   "logoFile": "logos/veryo_studios-logo.webp",
-  "websiteUrl": "https://veryostudios.com/",
+  "websiteUrl": "https://www.apesrevenge.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "veryo-studios",
+  "linkedinNum": 70905896,
   "crunchbaseId": null,
+  "ivcId": "A1000000370672",
   "finderId": "veryo-studios",
   "xId": null,
+  "facebookId": "VeryoStudios",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההגנה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "VeryoStudios",
-  "linkedinNum": 70905896
+  "isActive": true
 }

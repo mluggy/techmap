@@ -1,0 +1,31 @@
+{
+  "name": "H2 Energy Now",
+  "description": "H2 Energy Now is a clean tech energy storage company that has developed an innovative way of separating water through the use of electromagnetic waves that is more efficient and faster than competitors.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/h_2_energy_now-logo.webp",
+  "websiteUrl": "https://h2energynow.com",
+  "careersUrl": null,
+  "linkedinId": "h2-energy-now",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001296",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חוגלה",
+      "houseNumber": 4,
+      "city": "באר שבע",
+      "lat": 31.2483239,
+      "lon": 34.782559
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

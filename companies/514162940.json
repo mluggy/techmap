@@ -6,21 +6,26 @@
   "logoFile": "logos/abonair-logo.webp",
   "websiteUrl": "https://www.abonair.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "abonair",
+  "linkedinNum": 2256775,
   "crunchbaseId": null,
+  "ivcId": "A1000000002343",
   "finderId": "abonair",
   "xId": "ABonAirRed",
+  "facebookId": "ABonAir1",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
-      "houseNumber": 17,
+      "street": "עתיר ידע",
+      "houseNumber": 15,
       "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "lat": 32.1620848,
+      "lon": 34.9341066
     }
   ],
   "isMultinational": false,
-  "facebookId": "ABonAir1",
-  "linkedinNum": 2256775
+  "isActive": true
 }

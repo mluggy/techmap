@@ -6,11 +6,17 @@
   "logoFile": "logos/bacsoft-logo.webp",
   "websiteUrl": "https://web.bacsoft.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2311855,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bacsoft",
   "xId": "bacsoft",
+  "facebookId": "bacsoft.IOT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "bacsoft.IOT",
-  "linkedinNum": 2311855
+  "isActive": true
 }

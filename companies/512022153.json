@@ -6,20 +6,26 @@
   "logoFile": "logos/can_fite_biopharma-logo.webp",
   "websiteUrl": "https://www.canfite.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000004957",
   "finderId": "can-fite-biopharma",
   "xId": "canfitepharma",
+  "facebookId": "CanFiteBioPharma",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקת",
       "houseNumber": 10,
       "city": "פתח תקווה",
-      "lat": 32.0903924,
-      "lon": 34.8587071
+      "lat": 32.0895083,
+      "lon": 34.8582593
     }
   ],
   "isMultinational": false,
-  "facebookId": "CanFiteBioPharma"
+  "isActive": true
 }

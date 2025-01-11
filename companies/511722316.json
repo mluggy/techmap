@@ -6,11 +6,17 @@
   "logoFile": "logos/alvarion-logo.webp",
   "websiteUrl": "https://www.supercom.com/alvarion",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "alvarion-ltd",
+  "linkedinNum": 6400,
   "crunchbaseId": "alvarion",
+  "ivcId": null,
   "finderId": "alvarion",
   "xId": "Alvarion4G",
+  "facebookId": "alvariontech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קלוזנר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "alvariontech",
-  "linkedinNum": 6400
+  "isActive": true
 }

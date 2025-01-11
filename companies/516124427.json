@@ -6,21 +6,26 @@
   "logoFile": "logos/highrad-logo.webp",
   "websiteUrl": "https://www.high-rad.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "highrad-ltd",
+  "linkedinNum": 64601242,
   "crunchbaseId": null,
+  "ivcId": "A1000000310548",
   "finderId": "highrad",
   "xId": null,
+  "facebookId": "Highrad-Ltd-112305246972386",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "Highrad-Ltd-112305246972386",
-  "linkedinNum": 64601242
+  "isActive": true
 }

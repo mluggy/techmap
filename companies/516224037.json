@@ -1,26 +1,31 @@
 {
   "name": "VidiPlus",
-  "description": "Virtual Presentation Software for Video Conferencing",
+  "description": "Virtual Presentation Software for Video Conferencing.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/vidiplus-logo.webp",
   "websiteUrl": "https://vidiplus.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vidiplus",
+  "linkedinNum": 71822710,
   "crunchbaseId": null,
+  "ivcId": "A1000000343450",
   "finderId": "vidiplus",
   "xId": "VidiPlus",
+  "facebookId": "VidiPlus-110758004157754",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצמיחה",
+      "street": "Ha-Tsmikha Street",
       "houseNumber": 1,
-      "city": "יקנעם עילית",
-      "lat": 32.668888,
-      "lon": 35.107009
+      "city": "Yokne'am Illit",
+      "lat": 32.6687576,
+      "lon": 35.1075282
     }
   ],
   "isMultinational": false,
-  "facebookId": "VidiPlus-110758004157754",
-  "linkedinNum": 71822710
+  "isActive": true
 }

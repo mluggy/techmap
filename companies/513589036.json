@@ -1,17 +1,22 @@
 {
   "name": "Glue",
-  "description": "Cloud-based Automatic Customer Loyalty Platform",
+  "description": "GlueCAD 's main business originally circled around integrating engineering and industrial data, starting with the launching of a data-centric web-based 'Engineering Portal'.",
   "categoryId": 14,
-  "size": "s",
+  "size": "xs",
   "logoFile": "logos/paptap.webp",
-  "websiteUrl": "https://glueloyalty.com/",
+  "websiteUrl": "http://www.gluecad-bio.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "gluecad---engineering-portal",
   "linkedinNum": 68998505,
   "crunchbaseId": null,
+  "ivcId": "A1000000002792",
   "finderId": "paptap",
   "xId": "bobileApps",
   "facebookId": "BobileApps",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנטקה",
@@ -21,5 +26,6 @@
       "lon": 34.991677301054466
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

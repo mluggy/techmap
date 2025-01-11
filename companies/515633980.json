@@ -1,23 +1,31 @@
 {
   "name": "Esquare I O T",
-  "description": "Transforming education with pioneering programs and cutting-edge teaching methods.",
-  "categoryId": 12,
+  "description": "Esquare provides AI/ML software platform for managing traffic.",
+  "categoryId": 18,
   "size": "xs",
-  "logoFile": "logos/esquare_i_o_t-logo.webp",
-  "websiteUrl": "https://e-square.fr/",
-  "careersUrl": "https://www.estpl.in/career",
-  "isHiring": true,
+  "logoFile": "logos/esquare-i-o-t-logo.webp",
+  "websiteUrl": "https://www.esquare-p.com",
+  "careersUrl": null,
   "linkedinId": "esquareiot",
+  "linkedinNum": 76545675,
   "crunchbaseId": "esquare-iot",
+  "ivcId": "A1000000292495",
   "finderId": "esquare-iot",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפרחים",
-      "houseNumber": 3,
-      "city": "רמת השרון",
-      "lat": 32.123764,
-      "lon": 34.821737
+      "street": "בן גוריון",
+      "houseNumber": 2,
+      "city": "פתח תקווה",
+      "lat": 32.0815746,
+      "lon": 34.8704668
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

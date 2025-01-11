@@ -1,24 +1,31 @@
 {
   "name": "Inreal.IO",
-  "description": "Connecting Brands to Web3",
-  "categoryId": 14,
+  "description": "Blee helps startups grow fast across borders with a one-stop platform for company set-up and management of multi-country operations and ongoing compliance.",
+  "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/inreal_io-logo.webp",
-  "websiteUrl": "https://inreal.io/",
-  "careersUrl": "https://imply.io/careers/",
-  "isHiring": true,
+  "logoFile": "logos/inreal-io-logo.webp",
+  "websiteUrl": "https://www.blee.com",
+  "careersUrl": null,
   "linkedinId": "inreal-technologies-gmbh",
+  "linkedinNum": 3851491,
   "crunchbaseId": null,
+  "ivcId": "A1000000387256",
   "finderId": "inreal-io",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פולד ברכה",
+      "street": "ברכה פולד",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
-      "lat": 32.072032,
-      "lon": 34.781101
+      "city": "תל אביב-יפו",
+      "lat": 32.0719976,
+      "lon": 34.7811973
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

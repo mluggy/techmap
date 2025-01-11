@@ -6,21 +6,26 @@
   "logoFile": "logos/airwayz_drones-logo.webp",
   "websiteUrl": "https://airwayz.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "airwayz",
+  "linkedinNum": 35486209,
   "crunchbaseId": null,
+  "ivcId": "A1000000297441",
   "finderId": "airwayz-drones",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "airwayz/79.009",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.1096964,
-      "lon": 34.8381999
+      "city": "תל אביב-יפו",
+      "lat": 32.1099275,
+      "lon": 34.8381351
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35486209,
-  "comeetId": "airwayz/79.009"
+  "isActive": true
 }

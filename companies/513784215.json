@@ -6,11 +6,17 @@
   "logoFile": "logos/eaton_avraham_sons_diamonds-logo.webp",
   "websiteUrl": "https://www.eaton.com/",
   "careersUrl": "https://www.eaton.com/us/en-us/company/careers.html",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 2599,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "eaton",
   "xId": "eatoncorp",
+  "facebookId": "eatoncorporation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הלילך",
@@ -20,7 +26,6 @@
       "lon": 34.8415059
     }
   ],
-  "isMultinational": true,
-  "facebookId": "eatoncorporation",
-  "linkedinNum": 2599
+  "isMultinational": false,
+  "isActive": true
 }

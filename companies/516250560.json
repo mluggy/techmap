@@ -6,11 +6,17 @@
   "logoFile": "logos/trip_360-logo.webp",
   "websiteUrl": "https://www.trip360.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "trip360",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דנקנר מאיר",
@@ -19,5 +25,7 @@
       "lat": 32.0914268,
       "lon": 34.8713571
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

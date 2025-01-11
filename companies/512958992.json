@@ -1,16 +1,22 @@
 {
   "name": "HRVision",
-  "description": "Employee Recruitment Solutions",
+  "description": "HRVision offers tailored solutions that specifically counteract the prevalent recruitment problems hurting specific markets.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/h_r_vision-logo.webp",
-  "websiteUrl": "https://www.jobbing.co.il/about.asp",
+  "websiteUrl": "http://www.hrvision.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000006065",
   "finderId": "hrvision",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרפא",
@@ -20,5 +26,6 @@
       "lon": 35.2100604
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

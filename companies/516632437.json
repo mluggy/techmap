@@ -6,20 +6,26 @@
   "logoFile": "logos/ebback_inventory-logo.webp",
   "websiteUrl": "https://ebback.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ebback",
+  "linkedinNum": 83509883,
   "crunchbaseId": null,
+  "ivcId": "A1000000415573",
   "finderId": "ebback-inventory",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יהודה הימית",
-      "houseNumber": 68,
-      "city": "תל אביב - יפו",
-      "lat": 32.051241,
-      "lon": 34.750999
+      "street": "דרך קיבוץ גלויות",
+      "houseNumber": 27,
+      "city": "תל אביב-יפו",
+      "lat": 32.052603,
+      "lon": 34.7666179
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 83509883
+  "isActive": true
 }

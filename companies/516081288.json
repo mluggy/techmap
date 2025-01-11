@@ -6,21 +6,26 @@
   "logoFile": "logos/kemtai-logo.webp",
   "websiteUrl": "https://kemtai.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kemtai",
+  "linkedinNum": 42125918,
   "crunchbaseId": null,
+  "ivcId": "A1000000321185",
   "finderId": "kemtai",
   "xId": null,
+  "facebookId": "Kemtai-114134980129261",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קהילת קישינוב",
+      "street": "קהילת קישינב",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.108561228211585,
-      "lon": 34.825467433114504
+      "city": "תל אביב-יפו",
+      "lat": 32.1083977,
+      "lon": 34.8254567
     }
   ],
   "isMultinational": false,
-  "facebookId": "Kemtai-114134980129261",
-  "linkedinNum": 42125918
+  "isActive": true
 }

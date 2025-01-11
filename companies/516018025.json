@@ -6,20 +6,26 @@
   "logoFile": "logos/i_braintech-logo.webp",
   "websiteUrl": "https://www.i-brain.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "i-braintech",
+  "linkedinNum": 34642000,
   "crunchbaseId": null,
+  "ivcId": "A1000000301708",
   "finderId": "i-braintech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בית צורי אליהו",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.124152,
-      "lon": 34.801081
+      "street": "הרצל",
+      "houseNumber": 69,
+      "city": "רמת גן",
+      "lat": 32.0859622,
+      "lon": 34.814787
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 34642000
+  "isActive": true
 }

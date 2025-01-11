@@ -1,25 +1,31 @@
 {
   "name": "Kenotomi",
-  "description": "Electro-optical Technology for 3D Solar Panels",
+  "description": "Electro-optical Technology for 3D Solar Panels.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/kenotomi-logo.webp",
   "websiteUrl": "https://kenotomi.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 81293980,
   "crunchbaseId": null,
+  "ivcId": "A1000000009822",
   "finderId": "kenotomi",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חרמון",
-      "houseNumber": 13,
-      "city": "רמת השרון",
-      "lat": 32.1404493,
-      "lon": 34.8305134
+      "street": null,
+      "houseNumber": null,
+      "city": "מגן",
+      "lat": 31.298108,
+      "lon": 34.427059
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81293980
+  "isActive": true
 }

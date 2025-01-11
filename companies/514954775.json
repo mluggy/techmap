@@ -6,21 +6,26 @@
   "logoFile": "logos/ganbook-logo.webp",
   "websiteUrl": "https://ganbook.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ganbook-ltd",
+  "linkedinNum": 10519228,
   "crunchbaseId": null,
+  "ivcId": "A1000000197965",
   "finderId": "ganbook",
   "xId": null,
+  "facebookId": "GanBook-504528042909944",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "משאבים",
-      "houseNumber": 26,
-      "city": "הוד השרון",
-      "lat": 32.1565166,
-      "lon": 34.8902101
+      "street": "מצדה",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.0947025,
+      "lon": 34.8240381
     }
   ],
   "isMultinational": false,
-  "facebookId": "GanBook-504528042909944",
-  "linkedinNum": 10519228
+  "isActive": true
 }

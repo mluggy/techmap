@@ -1,26 +1,31 @@
 {
   "name": "Arch-Intelligence",
-  "description": "Empowering industry professionals with advanced tools for seamless BIM transitions in landscape architecture and site design through specialized Revit® plugins.",
-  "categoryId": 1,
+  "description": "Arch Intelligence provides a smart technology in cooperation with the BIM platform for successful design solutions and developes ways of how to improve and rationalize the BIM-based design and construction process.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/arch_intelligence-logo.webp",
-  "websiteUrl": "https://archintelligence.com/",
+  "websiteUrl": "https://arch-intelligence.com/en",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "arch-intelligence",
+  "linkedinNum": 75739339,
   "crunchbaseId": null,
+  "ivcId": "A1000000263466",
   "finderId": "arch-intelligence",
   "xId": "Arch_Intell",
+  "facebookId": "Environment.for.revit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התשבי",
-      "houseNumber": 14,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.8152057,
-      "lon": 34.97687839067437
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
   "isMultinational": false,
-  "facebookId": "Environment.for.revit",
-  "linkedinNum": 75739339
+  "isActive": true
 }

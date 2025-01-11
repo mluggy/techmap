@@ -6,20 +6,26 @@
   "logoFile": "logos/parametrix-logo.webp",
   "websiteUrl": "https://www.parametrixinsurance.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "parametrix-insurance",
+  "linkedinNum": 13036577,
   "crunchbaseId": null,
+  "ivcId": "A1000000294245",
   "finderId": "parametrix",
   "xId": "parametrixinsur",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן צור שמואל",
-      "houseNumber": 12,
-      "city": "חיפה",
-      "lat": 32.8186321,
-      "lon": 34.9574826
+      "street": "אליעזר קפלן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0733456,
+      "lon": 34.78202479999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13036577
+  "isActive": true
 }

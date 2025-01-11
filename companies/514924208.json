@@ -1,25 +1,31 @@
 {
   "name": "Peak Medical",
-  "description": "Airway Management and Critical Care Devices",
+  "description": "Airway Management and Critical Care Devices.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/peak_medical-logo.webp",
   "websiteUrl": "https://www.peakmedic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10207201,
   "crunchbaseId": null,
+  "ivcId": "A1000000024714",
   "finderId": "peak-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גיבורי ישראל",
       "houseNumber": 10,
-      "city": "נתניה",
-      "lat": 32.277431119999996,
-      "lon": 34.85979694
+      "city": "בני ברק",
+      "lat": 32.081796,
+      "lon": 34.84295
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10207201
+  "isActive": true
 }

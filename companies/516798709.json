@@ -1,0 +1,31 @@
+{
+  "name": "ZenDay",
+  "description": "Zenday is an AI-native platform that optimizes clinical workflows for nutrition professionals.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/zenday-logo.webp",
+  "websiteUrl": "https://zenday.health",
+  "careersUrl": null,
+  "linkedinId": "zenday-ai",
+  "linkedinNum": 82098930,
+  "crunchbaseId": null,
+  "ivcId": "A1000000418967",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משעול המגלית",
+      "houseNumber": 2,
+      "city": "ירושלים",
+      "lat": 31.8074131,
+      "lon": 35.198698
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

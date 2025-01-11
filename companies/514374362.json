@@ -6,21 +6,26 @@
   "logoFile": "logos/indeni-logo.webp",
   "websiteUrl": "https://indeni.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 543295,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "indeni",
   "xId": "indeni",
+  "facebookId": "indeni",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איסרליש",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07103585,
       "lon": 34.79219333800788
     }
   ],
   "isMultinational": false,
-  "facebookId": "indeni",
-  "linkedinNum": 543295
+  "isActive": true
 }

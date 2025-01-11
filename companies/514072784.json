@@ -1,26 +1,31 @@
 {
   "name": "Proprep",
-  "description": "STEM Video Tutorials and Study Guides",
-  "categoryId": 14,
+  "description": "Kvasir Education has developed a tool that provides a revolutionary learning experience for students studying science in institutions of higher education and enables them to maximize their academic abilities.",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/easy_education-logo.webp",
-  "websiteUrl": "https://www.proprep.uk/",
-  "careersUrl": "https://www.proprep.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "websiteUrl": "https://kvasireducation.com",
+  "careersUrl": null,
+  "linkedinId": "proprep",
+  "linkedinNum": 10553852,
   "crunchbaseId": null,
+  "ivcId": "A1000000234252",
   "finderId": "easy-education",
   "xId": "proprepUK",
+  "facebookId": "proprepeducation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בית הכרם",
-      "houseNumber": 10,
-      "city": "קדימה",
-      "lat": 32.27789832497225,
-      "lon": 34.91107792201786
+      "street": "הברזל",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.1068181,
+      "lon": 34.8353169
     }
   ],
   "isMultinational": false,
-  "facebookId": "proprepeducation",
-  "linkedinNum": 10553852
+  "isActive": true
 }

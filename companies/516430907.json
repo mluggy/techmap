@@ -1,16 +1,22 @@
 {
   "name": "Unispher Creative Education Platform",
-  "description": "Innovative downtown Silver Spring development focused on advanced healthcare solutions.",
-  "categoryId": 12,
+  "description": "Unispher, is in the sphere of EdTech - develops a platform for creative education where students create and play 3D educational games.",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/unispher_creative_education_platform-logo.webp",
-  "websiteUrl": "https://www.utunisphere.com/",
+  "websiteUrl": "https://www.unispher.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000488998",
   "finderId": "unispher",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -19,5 +25,7 @@
       "lat": 32.08566465,
       "lon": 34.799904568972636
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

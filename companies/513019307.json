@@ -1,0 +1,31 @@
+{
+  "name": "Izun Pharma",
+  "description": "Izun Pharma is an emerging biopharmaceutical company with a product portfolio of powerful non-steroidal topical oral anti-inflammatory therapies with superior efficacy and safety to current periodontal treatments.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/izun_pharma-logo.webp",
+  "websiteUrl": "http://www.izunpharma.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000007851",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קרית המדע",
+      "houseNumber": 5,
+      "city": "ירושלים",
+      "lat": 31.8012704,
+      "lon": 35.2096444
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,17 +1,22 @@
 {
   "name": "STRIKECO",
-  "description": "Sports Simulator Platform",
+  "description": "Sports Simulator Platform.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/strikeco.webp",
   "websiteUrl": "https://www.strikeco.io/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "strikeco-sports",
   "linkedinNum": 81295959,
   "crunchbaseId": null,
+  "ivcId": "A1000000390666",
   "finderId": "strikeco",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "למרחב",
@@ -21,5 +26,6 @@
       "lon": 34.83168733679761
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

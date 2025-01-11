@@ -1,0 +1,31 @@
+{
+  "name": "Social Internet",
+  "description": "adMingle is a social and personal advertising network amplifying and monetizing the 'conversation economy' through social sharing.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/social_internet-logo.webp",
+  "websiteUrl": "https://www.social-internet.co",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000020544",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 13,
+      "city": "רמת גן",
+      "lat": 32.0866491,
+      "lon": 34.803398
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

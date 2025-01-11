@@ -6,11 +6,17 @@
   "logoFile": "logos/varcode-logo.webp",
   "websiteUrl": "https://www.varcode.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "varcode",
+  "linkedinNum": 5318602,
   "crunchbaseId": null,
+  "ivcId": "A1000000010322",
   "finderId": "varcode",
   "xId": "varcode_global",
+  "facebookId": "VarcodeGlobal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "VarcodeGlobal",
-  "linkedinNum": 5318602
+  "isActive": true
 }

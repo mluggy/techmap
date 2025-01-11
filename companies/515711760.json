@@ -1,27 +1,31 @@
 {
   "name": "Bookaway",
-  "description": "Offering one-tap booking for worldwide travel with 24-hour support and a variety of transport options tailored to your preferences.",
-  "categoryId": 9,
-  "size": "m",
+  "description": "Travelier, formerly known as Bookaway Group, is a travel-tech company, revolutionizing land and sea transportation for travelers.",
+  "categoryId": 14,
+  "size": "l",
   "logoFile": "logos/bookaway-logo.webp",
-  "websiteUrl": "https://www.bookaway.com/",
+  "websiteUrl": "https://www.travelier.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bookaway",
+  "linkedinNum": 18405530,
   "crunchbaseId": null,
+  "ivcId": "A1000000238256",
   "finderId": "travelertick",
   "xId": "bookaway_travel",
+  "facebookId": "Bookaway",
+  "breezyId": null,
+  "comeetId": "Bookaway/64.006",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תע\"ש",
-      "houseNumber": 6,
-      "city": "רמת גן",
-      "lat": 32.0889179,
-      "lon": 34.8015247
+      "street": "ויצמן‬",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0801258,
+      "lon": 34.7898816
     }
   ],
   "isMultinational": false,
-  "facebookId": "Bookaway",
-  "linkedinNum": 18405530,
-  "comeetId": "Bookaway/64.006"
+  "isActive": true
 }

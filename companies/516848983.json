@@ -6,11 +6,17 @@
   "logoFile": "logos/sorlis-logo.webp",
   "websiteUrl": "https://www.sorlis.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sorlis",
+  "linkedinNum": 101590698,
   "crunchbaseId": null,
+  "ivcId": "A1000000465025",
   "finderId": "sorlis",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלעד",
@@ -19,5 +25,7 @@
       "lat": 32.7042633,
       "lon": 35.3272944
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

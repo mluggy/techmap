@@ -6,21 +6,26 @@
   "logoFile": "logos/vectria_technologies-logo.webp",
   "websiteUrl": "https://www.vectria.co.il",
   "careersUrl": "https://www.vectria.co.il/now-hiring/",
-  "isHiring": true,
   "linkedinId": "vectria-ltd-",
+  "linkedinNum": 2949293,
   "crunchbaseId": "vectria",
+  "ivcId": "A1000000191089",
   "finderId": "vectria-technologies",
   "xId": "VectriaTech",
+  "facebookId": "Vectria",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות התעשיה",
-      "houseNumber": 8,
+      "street": "גבעתי",
+      "houseNumber": 46,
       "city": "אשקלון",
-      "lat": 31.6595254,
-      "lon": 34.5941149
+      "lat": 31.6807621,
+      "lon": 34.5642393
     }
   ],
   "isMultinational": false,
-  "facebookId": "Vectria",
-  "linkedinNum": 2949293
+  "isActive": true
 }

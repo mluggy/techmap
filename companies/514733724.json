@@ -6,20 +6,26 @@
   "logoFile": "logos/sanoculis-logo.webp",
   "websiteUrl": "https://sanoculis.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sanoculis",
+  "linkedinNum": 68842608,
   "crunchbaseId": null,
+  "ivcId": "A1000000173565",
   "finderId": "sanoculis",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לנדאו",
       "houseNumber": 10,
-      "city": "קריית אונו",
-      "lat": 32.0581785,
-      "lon": 34.8523939
+      "city": "קרית אונו",
+      "lat": 32.0579896,
+      "lon": 34.8519879
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68842608
+  "isActive": true
 }

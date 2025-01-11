@@ -1,26 +1,31 @@
 {
   "name": "Spear",
-  "description": "Encapsulated Immediate-action Drone-based Systems",
+  "description": "Encapsulated Immediate-action Drone-based Systems.",
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/spear_u_a_v-logo.webp",
   "websiteUrl": "https://spearuav.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "spearuav",
+  "linkedinNum": 18946836,
   "crunchbaseId": null,
+  "ivcId": "A1000000296844",
   "finderId": "spear",
   "xId": null,
+  "facebookId": "Spearuav-109710374133978",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מסקין אהרון",
+      "street": "אהרון מסקין",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.121403,
-      "lon": 34.813918
+      "city": "תל אביב-יפו",
+      "lat": 32.1214781,
+      "lon": 34.8138537
     }
   ],
   "isMultinational": false,
-  "facebookId": "Spearuav-109710374133978",
-  "linkedinNum": 18946836
+  "isActive": true
 }

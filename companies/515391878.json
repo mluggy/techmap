@@ -6,21 +6,26 @@
   "logoFile": "logos/cybellum_technologies-logo.webp",
   "websiteUrl": "https://cybellum.com/",
   "careersUrl": "https://cybellum.com/careers/",
-  "isHiring": true,
   "linkedinId": "cybellum",
+  "linkedinNum": 10289161,
   "crunchbaseId": "cybellum",
+  "ivcId": null,
   "finderId": "cybellum",
   "xId": "cybellum",
+  "facebookId": "Cybellum-206407263103237",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמינדב",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065077,
       "lon": 34.793601
     }
   ],
   "isMultinational": false,
-  "facebookId": "Cybellum-206407263103237",
-  "linkedinNum": 10289161
+  "isActive": true
 }

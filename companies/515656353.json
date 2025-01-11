@@ -1,26 +1,31 @@
 {
   "name": "HPNow",
-  "description": "Sustainable Hydrogen Peroxide Generation Solutions",
+  "description": "Sustainable Hydrogen Peroxide Generation Solutions.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/hpnow-logo.webp",
   "websiteUrl": "https://www.hpnow.eu",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hpnow",
+  "linkedinNum": 18172706,
   "crunchbaseId": null,
+  "ivcId": "A1000000234679",
   "finderId": "hpnow",
   "xId": null,
+  "facebookId": "hpnoweu",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פעמוני יוסף",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.093978,
-      "lon": 34.797371
+      "street": "אלכסנדר ינאי",
+      "houseNumber": 17,
+      "city": "תל אביב-יפו",
+      "lat": 32.0932299,
+      "lon": 34.7825058
     }
   ],
   "isMultinational": false,
-  "facebookId": "hpnoweu",
-  "linkedinNum": 18172706
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Inango",
-  "description": "Communications Software",
+  "description": "Communications Software.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/inango-logo.webp",
   "websiteUrl": "https://inango.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "inango",
+  "linkedinNum": 508335,
   "crunchbaseId": null,
+  "ivcId": "A1000000010617",
   "finderId": "inango",
   "xId": "inango_systems",
+  "facebookId": "InangoSystems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקוביץ",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.078703,
-      "lon": 34.7870616
+      "street": "התע\"ש",
+      "houseNumber": 20,
+      "city": "כפר סבא",
+      "lat": 32.1764778,
+      "lon": 34.9274779
     }
   ],
   "isMultinational": false,
-  "facebookId": "InangoSystems",
-  "linkedinNum": 508335
+  "isActive": true
 }

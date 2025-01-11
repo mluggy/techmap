@@ -1,0 +1,31 @@
+{
+  "name": "HVT Medical",
+  "description": "HVT Medical is targeted in finding a solution for patients that are contraindicated for aortic valve implantation due to anatomical limitations.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/hvt-medical-logo.webp",
+  "websiteUrl": "https://hvtmedical.com",
+  "careersUrl": null,
+  "linkedinId": "hvt-medical",
+  "linkedinNum": 82087910,
+  "crunchbaseId": null,
+  "ivcId": "A1000000424470",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חורש האלונים",
+      "houseNumber": 12,
+      "city": "רמת ישי",
+      "lat": 32.7077883,
+      "lon": 35.1726158
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

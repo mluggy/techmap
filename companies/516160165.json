@@ -6,21 +6,26 @@
   "logoFile": "logos/anecdotes_a_i-logo.webp",
   "websiteUrl": "https://www.anecdotes.ai/",
   "careersUrl": "https://www.anecdotes.ai/careers",
-  "isHiring": true,
   "linkedinId": "anecdotes-ai",
+  "linkedinNum": 30684170,
   "crunchbaseId": null,
+  "ivcId": "A1000000340009",
   "finderId": "revv-ai-technologies",
   "xId": "anecdotes_ai",
+  "facebookId": "anecdotes-101975475216702",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.066645,
-      "lon": 34.78582
+      "city": "תל אביב-יפו",
+      "lat": 32.0666652,
+      "lon": 34.7856444
     }
   ],
   "isMultinational": false,
-  "facebookId": "anecdotes-101975475216702",
-  "linkedinNum": 30684170
+  "isActive": true
 }

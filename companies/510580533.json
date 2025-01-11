@@ -3,14 +3,20 @@
   "description": "Offering cutting-edge technology and IT consulting, this company crafts innovative solutions to tackle complex digital transformations for enterprises.",
   "categoryId": 6,
   "size": "m",
-  "logoFile": "logos/wipro_givon_limited-logo.webp",
+  "logoFile": "logos/wipro-givon-logo.webp",
   "websiteUrl": "https://www.wipro.com/",
   "careersUrl": "https://careers.wipro.com/",
-  "isHiring": true,
   "linkedinId": "wipro",
+  "linkedinNum": 1318,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "wipro",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוי יוסף",
@@ -19,5 +25,7 @@
       "lat": 32.869168085710946,
       "lon": 35.09688663916281
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

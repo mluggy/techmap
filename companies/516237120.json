@@ -6,11 +6,17 @@
   "logoFile": "logos/tolstoy-logo.webp",
   "websiteUrl": "https://www.gotolstoy.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gotolstoy",
+  "linkedinNum": 73419180,
   "crunchbaseId": null,
+  "ivcId": "A1000000336457",
   "finderId": "tolstoy",
   "xId": "gotolstoy",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השרון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 73419180
+  "isActive": true
 }

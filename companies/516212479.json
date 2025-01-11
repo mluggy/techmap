@@ -6,20 +6,26 @@
   "logoFile": "logos/hudson_rock-logo.webp",
   "websiteUrl": "https://www.hudsonrock.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hudson-rock",
+  "linkedinNum": 42905363,
   "crunchbaseId": null,
+  "ivcId": "A1000000315402",
   "finderId": "hudson-rock",
   "xId": "hrock",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "וולמן יהודה",
       "houseNumber": 11,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.114971365699695,
       "lon": 34.82694960526185
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42905363
+  "isActive": true
 }

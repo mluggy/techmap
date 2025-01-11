@@ -6,11 +6,17 @@
   "logoFile": "logos/briefcam_ltd-logo.webp",
   "websiteUrl": "https://www.briefcam.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 202961,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "briefcam",
   "xId": "BriefCamVS",
+  "facebookId": "BriefCamVS",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המעיין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BriefCamVS",
-  "linkedinNum": 202961
+  "isActive": true
 }

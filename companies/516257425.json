@@ -6,20 +6,26 @@
   "logoFile": "logos/ambrosia_bio-logo.webp",
   "websiteUrl": "https://www.ambrosia.bio/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ambrosia-bio",
+  "linkedinNum": 80011252,
   "crunchbaseId": null,
+  "ivcId": "A1000000303281",
   "finderId": "ambrosia-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכנסת הגדולה",
-      "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.09803,
-      "lon": 34.799537
+      "street": "נחל שניר",
+      "houseNumber": 15,
+      "city": "יבנה",
+      "lat": 31.8998675,
+      "lon": 34.736474
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80011252
+  "isActive": true
 }

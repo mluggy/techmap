@@ -1,16 +1,22 @@
 {
   "name": "Bonus BioGroup",
-  "description": "A biotechnology company that developed MesenCure, a treatment aiding recovery from severe respiratory distress and COVID-19.",
+  "description": "Bonus Biogroup (TASE: BONS) is an advanced clinical-stage biotechnology company developing 'next-generation' therapies for a variety of indications in the regenerative medicine field.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/bonus_biogroup-logo.webp",
-  "websiteUrl": "https://bonus-bio.com/",
+  "websiteUrl": "https://www.bonusbiogroup.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bonus-biogroup",
+  "linkedinNum": 14822062,
   "crunchbaseId": null,
+  "ivcId": "A1000000001785",
   "finderId": "bonus-biogroup",
   "xId": "BBiogroup",
+  "facebookId": "BonusBio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פארק מתם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BonusBio",
-  "linkedinNum": 14822062
+  "isActive": true
 }

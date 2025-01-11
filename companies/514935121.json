@@ -6,11 +6,17 @@
   "logoFile": "logos/webcand-logo.webp",
   "websiteUrl": "https://webcand.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "webcand",
+  "linkedinNum": 3207696,
   "crunchbaseId": null,
+  "ivcId": "A1000000190028",
   "finderId": "webcand",
   "xId": null,
+  "facebookId": "webcand",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן ציון ישראלי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "webcand",
-  "linkedinNum": 3207696
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/intuit-logo.webp",
   "websiteUrl": "https://www.intuit.com/",
   "careersUrl": "https://www.intuit.com/careers/",
-  "isHiring": true,
   "linkedinId": "intuit",
+  "linkedinNum": 1666,
   "crunchbaseId": "intuit",
+  "ivcId": null,
   "finderId": "intuit",
   "xId": "Intuit",
+  "facebookId": "Intuit.Israel.team",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפסגות",
@@ -20,7 +26,6 @@
       "lon": 34.8551804
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Intuit.Israel.team",
-  "linkedinNum": 1666
+  "isMultinational": false,
+  "isActive": true
 }

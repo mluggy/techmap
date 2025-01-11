@@ -6,21 +6,26 @@
   "logoFile": "logos/merry_pop_in-logo.webp",
   "websiteUrl": "https://merrypopin.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "merrypopin",
+  "linkedinNum": 76670256,
   "crunchbaseId": "merry-pop-in-ltd",
+  "ivcId": "A1000000309229",
   "finderId": "merry-pop-in",
   "xId": null,
+  "facebookId": "MerryPopInEvents",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אשכול לוי",
-      "houseNumber": 22,
-      "city": "חדרה",
-      "lat": 32.4267126,
-      "lon": 34.916442
+      "street": "הבוסתן",
+      "houseNumber": 1,
+      "city": "הוד השרון",
+      "lat": 32.1599466,
+      "lon": 34.890271
     }
   ],
   "isMultinational": false,
-  "facebookId": "MerryPopInEvents",
-  "linkedinNum": 76670256
+  "isActive": true
 }

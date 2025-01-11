@@ -6,11 +6,17 @@
   "logoFile": "logos/trailze-logo.webp",
   "websiteUrl": "https://www.trailze.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trailze",
+  "linkedinNum": 6555575,
   "crunchbaseId": "trailze-2",
+  "ivcId": null,
   "finderId": "trailze",
   "xId": null,
+  "facebookId": "trailze",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בנימין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "trailze",
-  "linkedinNum": 6555575
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Safe-Zone",
-  "description": "Export Management System",
+  "description": "Export Management System.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/safe_zone-logo.webp",
   "websiteUrl": "https://www.szexportcontrol.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "safe-zone-ltd",
+  "linkedinNum": 18473697,
   "crunchbaseId": null,
+  "ivcId": "A1000000218269",
   "finderId": "safe-zone",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מאיר גולדה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18473697
+  "isActive": true
 }

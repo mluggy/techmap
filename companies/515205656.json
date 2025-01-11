@@ -1,0 +1,31 @@
+{
+  "name": "Upbeat Medical",
+  "description": "Upbeat Medical presents a medical-grade cardiac monitor in the form of a smartwatch, allowing continuous, unobtrusive monitoring for cardiac patients.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/upbeat_medical-logo.webp",
+  "websiteUrl": "http://upbeatmedical.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000191305",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מרגלית מאיר",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.1150486,
+      "lon": 34.822056
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

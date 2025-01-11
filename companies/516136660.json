@@ -1,16 +1,22 @@
 {
   "name": "Intellectum Systems",
-  "description": "Natural Language Understanding Engine for Speech and Text",
+  "description": "Natural Language Understanding Engine for Speech and Text.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/intellectum_systems-logo.webp",
   "websiteUrl": "https://www.intellectum.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "intellectum-systems",
+  "linkedinNum": 72434740,
   "crunchbaseId": "intellectum-systems",
+  "ivcId": "A1000000367143",
   "finderId": "intellectum-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחימאיר אבא",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72434740
+  "isActive": true
 }

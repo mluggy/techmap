@@ -1,25 +1,31 @@
 {
   "name": "LDS",
-  "description": "Nano-sized Liquid Drug Delivery",
+  "description": "Nano-sized Liquid Drug Delivery.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/lds.webp",
   "websiteUrl": "https://www.lds-biotech.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000021921",
   "finderId": "lds",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הקבלן",
-      "houseNumber": 27,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.790125572957905,
-      "lon": 35.17448505330357
+      "lat": 31.768319,
+      "lon": 35.21371
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

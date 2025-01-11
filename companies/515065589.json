@@ -6,21 +6,26 @@
   "logoFile": "logos/zepa_financial_technology_ltd-logo.webp",
   "websiteUrl": "https://www.zepa.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "zepa-technology",
+  "linkedinNum": 18948503,
   "crunchbaseId": null,
+  "ivcId": "A1000000328297",
   "finderId": "zepa",
   "xId": "zepa46877703",
+  "facebookId": "myzepa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בגין מנחם",
-      "houseNumber": 17,
+      "street": "הסדנא",
+      "houseNumber": 11,
       "city": "רעננה",
-      "lat": 32.1937023,
-      "lon": 34.8496561
+      "lat": 32.1946764,
+      "lon": 34.8793394
     }
   ],
   "isMultinational": false,
-  "facebookId": "myzepa",
-  "linkedinNum": 18948503
+  "isActive": true
 }

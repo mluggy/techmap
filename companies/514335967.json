@@ -6,22 +6,26 @@
   "logoFile": "logos/gauzy-logo.webp",
   "websiteUrl": "https://www.gauzy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gauzyltd",
+  "linkedinNum": 2860964,
   "crunchbaseId": null,
+  "ivcId": "A1000000023779",
   "finderId": "gauzy",
   "xId": "GauzyLTD",
+  "facebookId": "GauzyLTD",
+  "breezyId": null,
+  "comeetId": "gauzy/C5.003",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התחיה",
+      "street": "התחייה",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
-      "lat": 32.050123,
-      "lon": 34.762934
+      "city": "תל אביב-יפו",
+      "lat": 32.0501268,
+      "lon": 34.7629443
     }
   ],
   "isMultinational": false,
-  "facebookId": "GauzyLTD",
-  "linkedinNum": 2860964,
-  "comeetId": "gauzy/C5.003"
+  "isActive": true
 }

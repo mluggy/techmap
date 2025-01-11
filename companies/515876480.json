@@ -6,21 +6,26 @@
   "logoFile": "logos/rilbite-logo.webp",
   "websiteUrl": "https://rilbite.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rilbite",
+  "linkedinNum": 14068182,
   "crunchbaseId": "rilbite",
+  "ivcId": "A1000000283359",
   "finderId": "rilbite",
   "xId": null,
+  "facebookId": "rilbite",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דודו דותן",
-      "houseNumber": 10,
-      "city": "נתניה",
-      "lat": 32.2770262,
-      "lon": 34.84098562026507
+      "street": "בושם",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.044318,
+      "lon": 34.8099298
     }
   ],
   "isMultinational": false,
-  "facebookId": "rilbite",
-  "linkedinNum": 14068182
+  "isActive": true
 }

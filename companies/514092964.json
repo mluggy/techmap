@@ -6,11 +6,17 @@
   "logoFile": "logos/double_check-logo.webp",
   "websiteUrl": "https://dc-ts.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "double-check",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקישון",
@@ -20,5 +26,6 @@
       "lon": 34.8312756
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

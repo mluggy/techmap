@@ -1,25 +1,31 @@
 {
   "name": "Tactical Robotics",
-  "description": "Unmanned Air Vehicles",
+  "description": "Unmanned Air Vehicles.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/tactical_robotics-logo.webp",
   "websiteUrl": "https://www.tactical-robotics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000024947",
   "finderId": "tactical-robotics",
   "xId": "tacticalrobotix",
+  "facebookId": "Tacticalrobotics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחל שניר",
       "houseNumber": 10,
-      "city": "יבנה",
-      "lat": 31.8993354,
-      "lon": 34.7385308
+      "city": "אשדוד",
+      "lat": 31.7815202,
+      "lon": 34.6337159
     }
   ],
   "isMultinational": false,
-  "facebookId": "Tacticalrobotics"
+  "isActive": true
 }

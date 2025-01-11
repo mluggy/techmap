@@ -6,11 +6,17 @@
   "logoFile": "logos/memcyco-logo.webp",
   "websiteUrl": "https://www.memcyco.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "memcyco",
+  "linkedinNum": 77059698,
   "crunchbaseId": "memcyco",
+  "ivcId": "A1000000425510",
   "finderId": "memcyco",
   "xId": "memcyco",
+  "facebookId": "memcyco",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "memcyco",
-  "linkedinNum": 77059698
+  "isActive": true
 }

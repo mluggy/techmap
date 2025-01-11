@@ -6,21 +6,26 @@
   "logoFile": "logos/atvisor_ai-logo.webp",
   "websiteUrl": "https://www.atvisor.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "atvisorai",
+  "linkedinNum": 11761496,
   "crunchbaseId": null,
+  "ivcId": "A1000000227806",
   "finderId": "innitie",
   "xId": "atvisor",
+  "facebookId": "atvisorai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השייטת",
-      "houseNumber": 11,
-      "city": "נס ציונה",
-      "lat": 31.9304613,
-      "lon": 34.7910225
+      "street": "דרך חיפה",
+      "houseNumber": 45,
+      "city": "קרית אתא",
+      "lat": 32.8069945,
+      "lon": 35.0735799
     }
   ],
   "isMultinational": false,
-  "facebookId": "atvisorai",
-  "linkedinNum": 11761496
+  "isActive": true
 }

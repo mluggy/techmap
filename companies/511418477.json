@@ -3,22 +3,29 @@
   "description": "A leading global provider specializing in internet access and web data collection solutions.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/alarum_technologies-logo.webp",
+  "logoFile": "logos/alarum-technologies-logo.webp",
   "websiteUrl": "https://alarum.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "alarum-technologies",
+  "linkedinNum": 684904,
   "crunchbaseId": null,
+  "ivcId": "A1000000007019",
   "finderId": "alarum-technologies",
   "xId": "i",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.070501,
-      "lon": 34.785145
+      "houseNumber": 28,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

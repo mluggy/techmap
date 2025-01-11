@@ -6,21 +6,26 @@
   "logoFile": "logos/convizit-logo.webp",
   "websiteUrl": "https://convizit.com/",
   "careersUrl": "https://convizit.com/careers/",
-  "isHiring": true,
   "linkedinId": "convizit",
+  "linkedinNum": 29215120,
   "crunchbaseId": null,
+  "ivcId": "A1000000222313",
   "finderId": "convizit",
   "xId": "convizit",
+  "facebookId": "Convizit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
+      "street": "שינקין",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.073172,
-      "lon": 34.797489
+      "city": "תל אביב-יפו",
+      "lat": 32.06977500000001,
+      "lon": 34.7713929
     }
   ],
   "isMultinational": false,
-  "facebookId": "Convizit",
-  "linkedinNum": 29215120
+  "isActive": true
 }

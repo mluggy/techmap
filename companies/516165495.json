@@ -6,21 +6,26 @@
   "logoFile": "logos/atmoscell-logo.webp",
   "websiteUrl": "https://www.atmoscell.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "atmoscell-labs",
+  "linkedinNum": 42113025,
   "crunchbaseId": null,
+  "ivcId": "A1000000322083",
   "finderId": "atmoscell",
   "xId": "AtmosCell",
+  "facebookId": "AtmosCell-109006967364678",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אילנות",
       "houseNumber": 56,
-      "city": "גת רימון",
-      "lat": 32.0684901,
-      "lon": 34.8807918
+      "city": "רמת השרון",
+      "lat": 32.140611,
+      "lon": 34.8419944
     }
   ],
   "isMultinational": false,
-  "facebookId": "AtmosCell-109006967364678",
-  "linkedinNum": 42113025
+  "isActive": true
 }

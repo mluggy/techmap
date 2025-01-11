@@ -6,11 +6,17 @@
   "logoFile": "logos/babyark-logo.webp",
   "websiteUrl": "https://babyark.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "babyark",
+  "linkedinNum": 70931102,
   "crunchbaseId": null,
+  "ivcId": "A1000000342437",
   "finderId": "babyark",
   "xId": null,
+  "facebookId": "getbabyark",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "getbabyark",
-  "linkedinNum": 70931102
+  "isActive": true
 }

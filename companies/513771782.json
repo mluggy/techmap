@@ -1,0 +1,31 @@
+{
+  "name": "Medigel",
+  "description": "Medigel Laboratories specializes in the development and manufacture of medical products for use in ultrasound systems.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medigel-logo.webp",
+  "websiteUrl": "http://www.medigelab.com",
+  "careersUrl": null,
+  "linkedinId": "medigel-laboratories-ltd",
+  "linkedinNum": 14060275,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009043",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הסולל",
+      "houseNumber": 1,
+      "city": "חולון",
+      "lat": 32.0147021,
+      "lon": 34.8060758
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

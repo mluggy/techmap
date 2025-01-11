@@ -6,21 +6,26 @@
   "logoFile": "logos/digitalowl_inst-logo.webp",
   "websiteUrl": "https://www.digitalowl.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "digitalowlai",
+  "linkedinNum": 27146200,
   "crunchbaseId": null,
+  "ivcId": "A1000000254664",
   "finderId": "legal-automation",
   "xId": "DigitalOwl_AI",
+  "facebookId": "DigitalOwlINST",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השלושה",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617382,
-      "lon": 34.7882304
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
     }
   ],
   "isMultinational": false,
-  "facebookId": "DigitalOwlINST",
-  "linkedinNum": 27146200
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/wellybox_technologies-logo.webp",
   "websiteUrl": "https://www.wellybox.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wellybox",
+  "linkedinNum": 18940889,
   "crunchbaseId": null,
+  "ivcId": "A1000000298817",
   "finderId": "wellybox",
   "xId": "wellyboxhq",
+  "facebookId": "WellyBox-100496698217431",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לויטן יצחק",
+      "street": "יצחק אלחנן",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.11874878736999,
-      "lon": 34.79770886970489
+      "city": "רמת השרון",
+      "lat": 32.1487343,
+      "lon": 34.8309222
     }
   ],
   "isMultinational": false,
-  "facebookId": "WellyBox-100496698217431",
-  "linkedinNum": 18940889
+  "isActive": true
 }

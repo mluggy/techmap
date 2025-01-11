@@ -1,0 +1,31 @@
+{
+  "name": "Smartsen",
+  "description": "SmartSen has developed a smart sensor, comprised of various sensing technologies to assist doctors in accurately diagnosing medical conditions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/smartsen-logo.webp",
+  "websiteUrl": "https://smartsen.life",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485654",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נתן יונתן",
+      "houseNumber": 26,
+      "city": "נתניה",
+      "lat": 32.2798818,
+      "lon": 34.8392692
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "GRAMSS",
+  "description": "GRAMSS is a smart platform for cannabis consumers.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/gramss-logo.webp",
+  "websiteUrl": "https://gramss.app",
+  "careersUrl": null,
+  "linkedinId": "gramss",
+  "linkedinNum": 40790734,
+  "crunchbaseId": null,
+  "ivcId": "A1000000450761",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אד\"ם הכהן",
+      "houseNumber": 16,
+      "city": "תל אביב-יפו",
+      "lat": 32.0849005,
+      "lon": 34.7772885
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

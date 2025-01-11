@@ -1,0 +1,31 @@
+{
+  "name": "Dasyo",
+  "description": "Dasyo is the developer of a noninvasive tissue lifting device intended for aesthetics applications.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/dasyo-logo.webp",
+  "websiteUrl": "https://www.dasyo-aesthetics.com",
+  "careersUrl": null,
+  "linkedinId": "dasyo",
+  "linkedinNum": 66223042,
+  "crunchbaseId": null,
+  "ivcId": "A1000000282830",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 22,
+      "city": "ראש העין",
+      "lat": 32.1068957,
+      "lon": 34.9712257
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

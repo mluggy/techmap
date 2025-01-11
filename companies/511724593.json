@@ -6,11 +6,17 @@
   "logoFile": "logos/qualcomm_israel_ltd-logo.webp",
   "websiteUrl": "https://www.qualcomm.com/",
   "careersUrl": "https://www.qualcomm.com/company/careers",
-  "isHiring": true,
   "linkedinId": "qualcomm",
+  "linkedinNum": 2017,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "qualcomm",
   "xId": "Qualcomm",
+  "facebookId": "QualcommIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חת נחום",
@@ -20,7 +26,6 @@
       "lon": 34.9577195
     }
   ],
-  "isMultinational": true,
-  "facebookId": "QualcommIsrael",
-  "linkedinNum": 2017
+  "isMultinational": false,
+  "isActive": true
 }

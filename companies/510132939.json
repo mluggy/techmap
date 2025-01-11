@@ -3,15 +3,20 @@
   "description": "Flavors and Ingredients for Food and Fragrances",
   "categoryId": 17,
   "size": "l",
-  "logoFile": "logos/frutarom-industries.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/frutarom-logo.webp",
+  "websiteUrl": "http://www.frutarom.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "frutarom",
   "linkedinNum": 31188,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "frutarom-industries",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "א.ת. שגיא 2000",
@@ -21,5 +26,6 @@
       "lon": 35.239891499909426
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

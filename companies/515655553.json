@@ -1,0 +1,31 @@
+{
+  "name": "V-IMMO",
+  "description": "Home Hero is a prop-tech startup based out of Israel.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/v-immo-logo.webp",
+  "websiteUrl": "https://www.homehero.co.il",
+  "careersUrl": null,
+  "linkedinId": "home-hero",
+  "linkedinNum": 18911302,
+  "crunchbaseId": null,
+  "ivcId": "A1000000247730",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "הרצליה",
+      "lat": 32.162413,
+      "lon": 34.844675
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

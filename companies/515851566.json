@@ -6,21 +6,26 @@
   "logoFile": "logos/tailor_ed-logo.webp",
   "websiteUrl": "https://www.tailor-ed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 13031918,
   "crunchbaseId": "tailor-ed",
+  "ivcId": null,
   "finderId": "tailored",
   "xId": "tailor__ed",
+  "facebookId": "tailor.ed.instruction",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 43,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.070828,
       "lon": 34.777763
     }
   ],
   "isMultinational": false,
-  "facebookId": "tailor.ed.instruction",
-  "linkedinNum": 13031918
+  "isActive": true
 }

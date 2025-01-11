@@ -6,21 +6,26 @@
   "logoFile": "logos/nanit_israel-logo.webp",
   "websiteUrl": "https://www.nanit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nanit",
+  "linkedinNum": 10082872,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nanit",
   "xId": "getnanit",
+  "facebookId": "GetNanit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07734524999999,
       "lon": 34.79332549438699
     }
   ],
   "isMultinational": false,
-  "facebookId": "GetNanit",
-  "linkedinNum": 10082872
+  "isActive": true
 }

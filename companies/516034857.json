@@ -6,11 +6,17 @@
   "logoFile": "logos/speedata-logo.webp",
   "websiteUrl": "https://www.speedata.io/",
   "careersUrl": "https://www.speedata.io/careers-23",
-  "isHiring": true,
   "linkedinId": "speedataio",
+  "linkedinNum": 69219432,
   "crunchbaseId": null,
+  "ivcId": "A1000000354131",
   "finderId": "speedata",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -29,11 +35,11 @@
     {
       "street": "מנחם בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69219432
+  "isActive": true
 }

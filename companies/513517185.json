@@ -6,11 +6,17 @@
   "logoFile": "logos/amimon-logo.webp",
   "websiteUrl": "https://www.amimon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 28431,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "amimon",
   "xId": "CONNEX_Amimon",
+  "facebookId": "AmimonConnex",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AmimonConnex",
-  "linkedinNum": 28431
+  "isActive": true
 }

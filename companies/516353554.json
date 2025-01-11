@@ -6,20 +6,26 @@
   "logoFile": "logos/livecycle-logo.webp",
   "websiteUrl": "https://livecycle.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "livecycleio",
+  "linkedinNum": 76680340,
   "crunchbaseId": null,
+  "ivcId": "A1000000353595",
   "finderId": "livecycle",
   "xId": "get_livecycle",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הורוביץ",
-      "houseNumber": 16,
-      "city": "ראשון לציון",
-      "lat": 31.959958450000002,
-      "lon": 34.7990496774503
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76680340
+  "isActive": true
 }

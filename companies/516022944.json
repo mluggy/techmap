@@ -6,21 +6,26 @@
   "logoFile": "logos/wespace_technologies-logo.webp",
   "websiteUrl": "https://wespacetech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wespace-technologies",
+  "linkedinNum": 79469747,
   "crunchbaseId": null,
+  "ivcId": "A1000000293134",
   "finderId": "wespace-technologies",
   "xId": null,
+  "facebookId": "wespacetech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משה וילנסקי",
       "houseNumber": 43,
-      "city": "רעננה",
-      "lat": 32.19466855,
-      "lon": 34.86308007447727
+      "city": "כפר סבא",
+      "lat": 32.1871328,
+      "lon": 34.8915724
     }
   ],
   "isMultinational": false,
-  "facebookId": "wespacetech",
-  "linkedinNum": 79469747
+  "isActive": true
 }

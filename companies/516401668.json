@@ -1,0 +1,31 @@
+{
+  "name": "Bitravel",
+  "description": "Bitravel is a marketplace for corporate travel. The company develops an AI app that accompanies the users from the first thought until home safe.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/bitravel-logo.webp",
+  "websiteUrl": "https://www.bitravel.com",
+  "careersUrl": null,
+  "linkedinId": "bitravelcom",
+  "linkedinNum": 71198676,
+  "crunchbaseId": null,
+  "ivcId": "A1000000359179",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שמשון",
+      "houseNumber": 5,
+      "city": "פתח תקווה",
+      "lat": 32.094984,
+      "lon": 34.8641409
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

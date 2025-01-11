@@ -1,0 +1,31 @@
+{
+  "name": "AGR-E",
+  "description": "AGR-E provides advanced solutions and professional services in the IT field.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/agr_e-logo.webp",
+  "websiteUrl": "http://www.a-g-r-e.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000002340",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מגשימים",
+      "houseNumber": 20,
+      "city": "פתח תקווה",
+      "lat": 32.0874693,
+      "lon": 34.8529316
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,11 +6,17 @@
   "logoFile": "logos/zerto-logo.webp",
   "websiteUrl": "https://www.zerto.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1033481,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zerto",
   "xId": "Zerto",
+  "facebookId": "ZertoCorp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZertoCorp",
-  "linkedinNum": 1033481
+  "isActive": true
 }

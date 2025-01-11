@@ -6,20 +6,26 @@
   "logoFile": "logos/biobeat_technologies-logo.webp",
   "websiteUrl": "https://www.bio-beat.com/",
   "careersUrl": "https://www.bio-beat.com/jobs",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "biobeat-ltd.",
+  "linkedinNum": 17969237,
   "crunchbaseId": null,
+  "ivcId": "A1000000215525",
   "finderId": "biobeat",
   "xId": "BiobeatT",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אפעל",
-      "houseNumber": 22,
+      "street": "מגשימים",
+      "houseNumber": 26,
       "city": "פתח תקווה",
-      "lat": 32.0960867,
-      "lon": 34.8478079
+      "lat": 32.0869027,
+      "lon": 34.852994
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17969237
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Relate Design",
-  "description": "Visual Development Environment",
+  "description": "Visual Development Environment.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/relate_design-logo.webp",
   "websiteUrl": "https://relate.app",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "relate-app",
+  "linkedinNum": 11800854,
   "crunchbaseId": null,
+  "ivcId": "A1000000272003",
   "finderId": "relate-design",
   "xId": null,
+  "facebookId": "relatedesign",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כבירים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "relatedesign",
-  "linkedinNum": 11800854
+  "isActive": true
 }

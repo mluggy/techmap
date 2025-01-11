@@ -1,25 +1,31 @@
 {
   "name": "Dual Bird Technologies",
-  "description": "Data Infrastructure and Analytics",
+  "description": "Data Infrastructure and Analytics.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/dual_bird_technologies-logo.webp",
   "websiteUrl": "https://dualbird.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dualbird",
+  "linkedinNum": 81335198,
   "crunchbaseId": "dual-bird",
+  "ivcId": "A1000000384969",
   "finderId": "dual-bird-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העמק",
+      "street": "העמק",
       "houseNumber": 51,
-      "city": "יקנעם (מושבה)",
-      "lat": 32.6670519,
-      "lon": 35.1085669
+      "city": "כרם מהר\"ל",
+      "lat": 32.6469438,
+      "lon": 34.9946128
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81335198
+  "isActive": true
 }

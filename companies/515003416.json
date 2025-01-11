@@ -1,26 +1,31 @@
 {
   "name": "Milkit",
-  "description": "Milk Dispensing System for Restaurants",
+  "description": "Milk Dispensing System for Restaurants.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/milkit_israel-logo.webp",
   "websiteUrl": "https://www.milkit.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "milkit-ltd",
+  "linkedinNum": 27244947,
   "crunchbaseId": null,
+  "ivcId": "A1000000184785",
   "finderId": "milkit-ltd",
   "xId": null,
+  "facebookId": "milkitmilkontap",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויצמן",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.0782941,
-      "lon": 34.7886936
+      "street": "הנדיב",
+      "houseNumber": 71,
+      "city": "הרצליה",
+      "lat": 32.17041800000001,
+      "lon": 34.8316479
     }
   ],
   "isMultinational": false,
-  "facebookId": "milkitmilkontap",
-  "linkedinNum": 27244947
+  "isActive": true
 }

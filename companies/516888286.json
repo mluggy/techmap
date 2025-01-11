@@ -6,18 +6,26 @@
   "logoFile": "logos/endocure-logo.webp",
   "websiteUrl": "https://endocure.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "endocure",
+  "linkedinNum": 100036964,
   "crunchbaseId": null,
+  "ivcId": "A1000000454206",
   "finderId": "endocure",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנמל",
-      "houseNumber": 59,
-      "city": "חיפה",
-      "lat": 32.8191508,
-      "lon": 35.0004706
+      "street": "אורטל",
+      "houseNumber": 5,
+      "city": "יוקנעם עילית",
+      "lat": 32.6341321,
+      "lon": 35.0939272
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

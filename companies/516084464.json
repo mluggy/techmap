@@ -6,11 +6,17 @@
   "logoFile": "logos/j_vocals-logo.webp",
   "websiteUrl": "https://www.jvocals.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 30077195,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "jvocals",
   "xId": null,
+  "facebookId": "JVocals.Marketplace",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוי משה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "JVocals.Marketplace",
-  "linkedinNum": 30077195
+  "isActive": true
 }

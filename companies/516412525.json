@@ -6,20 +6,26 @@
   "logoFile": "logos/diversifi_technologies-logo.webp",
   "websiteUrl": "https://kima.finance/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kimanetwork",
+  "linkedinNum": 73067310,
   "crunchbaseId": null,
+  "ivcId": "A1000000362314",
   "finderId": "diversifi",
   "xId": "kimafinance",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כיסופים",
       "houseNumber": 34,
-      "city": "תל אביב - יפו",
-      "lat": 32.115936,
-      "lon": 34.832383
+      "city": "תל אביב-יפו",
+      "lat": 32.1159858,
+      "lon": 34.8324573
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 73067310
+  "isActive": true
 }

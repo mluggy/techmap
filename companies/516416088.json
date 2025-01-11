@@ -6,11 +6,17 @@
   "logoFile": "logos/liad_dado-logo.webp",
   "websiteUrl": "https://www.liad.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 350548,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "liad-weighing-and-control-systems",
   "xId": "liadsystems",
+  "facebookId": "liadsystems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברבור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "liadsystems",
-  "linkedinNum": 350548
+  "isActive": true
 }

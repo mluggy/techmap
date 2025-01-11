@@ -3,14 +3,20 @@
   "description": "Specialized in various fields of medical and electronic technology.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/ginero_solutions-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/ginero-solutions-logo.webp",
+  "websiteUrl": "https://generosolutions.se/en/startpage/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "genero-solutions?trk=ppro_cprof",
+  "linkedinNum": 1638604,
   "crunchbaseId": "ginero-solutions",
+  "ivcId": null,
   "finderId": "ginero-solutions",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חבצלת השרון",
@@ -20,5 +26,6 @@
       "lon": 34.8046644
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

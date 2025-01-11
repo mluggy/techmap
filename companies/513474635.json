@@ -1,0 +1,31 @@
+{
+  "name": "Scout",
+  "description": "Scout Web Based Systems was founded as a “Midgam Consulting& Research” daughter company.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/scout-logo.webp",
+  "websiteUrl": "http://www.scout.co.il",
+  "careersUrl": null,
+  "linkedinId": "scout-ltd",
+  "linkedinNum": 10568594,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004619",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון",
+      "houseNumber": 13,
+      "city": "פתח תקווה",
+      "lat": 32.0801124,
+      "lon": 34.8705657
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

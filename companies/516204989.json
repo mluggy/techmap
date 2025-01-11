@@ -6,20 +6,26 @@
   "logoFile": "logos/nano_24-logo.webp",
   "websiteUrl": "https://nano24med.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nano24",
+  "linkedinNum": 70961582,
   "crunchbaseId": null,
+  "ivcId": "A1000000376205",
   "finderId": "nano24",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויצמן",
-      "houseNumber": 14,
-      "city": "תל אביב - יפו",
-      "lat": 32.0816063,
-      "lon": 34.7893677
+      "street": "ויצמן‬",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.0801258,
+      "lon": 34.7898816
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70961582
+  "isActive": true
 }

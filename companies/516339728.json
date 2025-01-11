@@ -6,20 +6,26 @@
   "logoFile": "logos/cloudquery-logo.webp",
   "websiteUrl": "https://www.cloudquery.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cloudqueryio",
+  "linkedinNum": 72084684,
   "crunchbaseId": null,
+  "ivcId": "A1000000349363",
   "finderId": "cloudquery",
   "xId": "cloudqueryio",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שץ גגה גרשון",
+      "street": "גרשון ש\"ץ",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.068758,
-      "lon": 34.790455
+      "city": "תל אביב-יפו",
+      "lat": 32.0687668,
+      "lon": 34.7904859
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72084684
+  "isActive": true
 }

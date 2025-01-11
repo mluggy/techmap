@@ -1,0 +1,31 @@
+{
+  "name": "Enola",
+  "description": "Enola is an application that helps family caregivers to manage their work with their patients in all its dimensions.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/enola-logo.webp",
+  "websiteUrl": "https://www.enolaapp.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000483737",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בארי",
+      "houseNumber": 58,
+      "city": "רחובות",
+      "lat": 31.9017989,
+      "lon": 34.8048402
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

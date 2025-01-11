@@ -1,25 +1,31 @@
 {
   "name": "NewRocket",
-  "description": "Environmentally Friendly Gel-propellant Rocket Engines",
+  "description": "Environmentally Friendly Gel-propellant Rocket Engines.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/newrocket-logo.webp",
   "websiteUrl": "https://www.newrocket.co.il/",
   "careersUrl": "https://www.newrocket.com/careers",
-  "isHiring": true,
   "linkedinId": "newrocket-gobeyond",
+  "linkedinNum": 10385790,
   "crunchbaseId": null,
+  "ivcId": "A1000000179775",
   "finderId": "newrocket",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האנרגיה",
-      "houseNumber": 77,
-      "city": "באר שבע",
-      "lat": 31.263266,
-      "lon": 34.8105466
+      "street": "גיבורי ישראל",
+      "houseNumber": 10,
+      "city": "בני ברק",
+      "lat": 32.081796,
+      "lon": 34.84295
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10385790
+  "isActive": true
 }

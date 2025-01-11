@@ -1,0 +1,31 @@
+{
+  "name": "Tisar",
+  "description": "Tisar specializes in predictive maintenance services, utilizing vibration analysis techniques.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/tisar-logo.webp",
+  "websiteUrl": "https://www.tisar.com",
+  "careersUrl": null,
+  "linkedinId": "tisar-pdm",
+  "linkedinNum": 88394206,
+  "crunchbaseId": null,
+  "ivcId": "A1000000461905",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "כורזין",
+      "houseNumber": 1,
+      "city": "גבעתיים",
+      "lat": 32.0591139,
+      "lon": 34.8160065
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

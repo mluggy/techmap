@@ -1,16 +1,22 @@
 {
   "name": "Ann",
-  "description": "Learning Optimization SaaS for Educational Institutions",
+  "description": "Learning Optimization SaaS for Educational Institutions.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/ann_technology_and_education-logo.webp",
   "websiteUrl": "https://www.ann-education.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ann-education",
+  "linkedinNum": 11564771,
   "crunchbaseId": null,
+  "ivcId": "A1000000262149",
   "finderId": "ann",
   "xId": null,
+  "facebookId": "Annnexteducation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אפרסמון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Annnexteducation",
-  "linkedinNum": 11564771
+  "isActive": true
 }

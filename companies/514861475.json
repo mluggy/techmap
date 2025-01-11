@@ -6,21 +6,26 @@
   "logoFile": "logos/spectrum_dynamics_medical-logo.webp",
   "websiteUrl": "https://spectrum-dynamics.com/",
   "careersUrl": "https://spectrum-dynamics.com/careers/",
-  "isHiring": true,
   "linkedinId": "spectrum-dynamics",
+  "linkedinNum": 71337,
   "crunchbaseId": "spectrum-dynamics",
+  "ivcId": "A1000000006442",
   "finderId": "spectrum-dynamics-medical",
   "xId": "spectdynamics",
+  "facebookId": "Spectrum-Dynamics-Medical-968198206713531",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקת-פארק התעשייה",
+      "street": "ברקת",
       "houseNumber": 22,
       "city": "קיסריה",
-      "lat": 32.4812838,
-      "lon": 34.9463717
+      "lat": 32.4877151,
+      "lon": 34.9072666
     }
   ],
   "isMultinational": false,
-  "facebookId": "Spectrum-Dynamics-Medical-968198206713531",
-  "linkedinNum": 71337
+  "isActive": true
 }

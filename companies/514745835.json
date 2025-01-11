@@ -6,19 +6,26 @@
   "logoFile": "logos/agrosolar-logo.webp",
   "websiteUrl": "https://www.agrosglobal.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000293232",
   "finderId": "agrosolar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקוביץ",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.078703,
-      "lon": 34.7870616
+      "street": "ארנון",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0835153,
+      "lon": 34.7698888
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Medcase",
+  "description": "Medcase is a leading marketplace connecting global clinicians, healthcare data and enterprises innovating in healthcare.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/medcase-logo.webp",
+  "websiteUrl": "https://www.medcase.health",
+  "careersUrl": "https://www.medcase.health/careers",
+  "linkedinId": "medcasehealth",
+  "linkedinNum": 72077584,
+  "crunchbaseId": null,
+  "ivcId": "A1000000260693",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.1135286,
+      "lon": 34.8432083
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

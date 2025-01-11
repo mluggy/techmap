@@ -6,21 +6,26 @@
   "logoFile": "logos/muscle_motion-logo.webp",
   "websiteUrl": "https://www.muscleandmotion.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2201039,
   "crunchbaseId": null,
+  "ivcId": "A1000000253822",
   "finderId": "muscle-and-motion",
   "xId": "muscleandmotion",
+  "facebookId": "muscleandmotion",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האלוף דוד",
       "houseNumber": 15,
       "city": "ראשון לציון",
-      "lat": 31.9703652,
-      "lon": 34.77893125
+      "lat": 31.9696814,
+      "lon": 34.7787865
     }
   ],
   "isMultinational": false,
-  "facebookId": "muscleandmotion",
-  "linkedinNum": 2201039
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "MSD",
   "description": "Healthcare company offering prescription medicines, vaccines, biologic therapies and animal health products.",
-  "size": "xl",
   "categoryId": 12,
+  "size": "xl",
   "logoFile": "logos/msd-logo.webp",
   "websiteUrl": "https://msd.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "msd-global",
+  "linkedinNum": 2848937,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "msd",
   "xId": "merck",
+  "facebookId": "MerckInvents",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,7 +26,6 @@
       "lon": 34.858477541008384
     }
   ],
-  "isMultinational": true,
-  "facebookId": "MerckInvents",
-  "linkedinNum": 2848937
+  "isMultinational": false,
+  "isActive": true
 }

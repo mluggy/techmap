@@ -6,11 +6,17 @@
   "logoFile": "logos/st_engineering_telematics_wireless-logo.webp",
   "websiteUrl": "https://www.stengg.com/",
   "careersUrl": "https://www.stengg.com/en/careers/",
-  "isHiring": true,
   "linkedinId": "st-engineering-north-america",
+  "linkedinNum": 128492,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "st-engineering",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,6 +26,6 @@
       "lon": 34.8047414
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 128492
+  "isMultinational": false,
+  "isActive": true
 }

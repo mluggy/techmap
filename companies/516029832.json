@@ -1,0 +1,31 @@
+{
+  "name": "ViCap",
+  "description": "ViCap specializes in the field of Gastro & Medical Device.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vicap-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000328300",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אביב",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.1719492,
+      "lon": 34.8493779
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

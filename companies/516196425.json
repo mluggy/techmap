@@ -6,11 +6,17 @@
   "logoFile": "logos/cognyte_software-logo.webp",
   "websiteUrl": "https://www.cognyte.com/",
   "careersUrl": "https://www.cognyte.com/careers/",
-  "isHiring": true,
   "linkedinId": "cognyte",
+  "linkedinNum": 3669,
   "crunchbaseId": null,
+  "ivcId": "A1000000336564",
   "finderId": "cognyte",
   "xId": "Cognyte",
+  "facebookId": "cognyte",
+  "breezyId": null,
+  "comeetId": "cognyte/F2.009",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "cognyte",
-  "linkedinNum": 3669,
-  "comeetId": "cognyte/F2.009"
+  "isActive": true
 }

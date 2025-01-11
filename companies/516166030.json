@@ -6,11 +6,17 @@
   "logoFile": "logos/excita_medical-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "excita",
+  "linkedinNum": 66875121,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "excita-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית תבור 2",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 66875121
+  "isActive": true
 }

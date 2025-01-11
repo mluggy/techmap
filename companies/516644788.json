@@ -3,14 +3,20 @@
   "description": "Specializing in microorganism-based biological solutions, this company extends shelf life and protects crops in agricultural markets.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/fungit_biosolutions-logo.webp",
+  "logoFile": "logos/fungit-biosolutions-logo.webp",
   "websiteUrl": "https://www.fungitbio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fungit",
+  "linkedinNum": 83010678,
   "crunchbaseId": null,
+  "ivcId": "A1000000346772",
   "finderId": "fungit-biosolutions-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקיימות",
@@ -19,5 +25,7 @@
       "lat": 31.396819216529316,
       "lon": 34.77109108651085
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

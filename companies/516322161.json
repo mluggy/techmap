@@ -6,21 +6,26 @@
   "logoFile": "logos/apowiser-logo.webp",
   "websiteUrl": "https://www.apowiser.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "apowiser",
+  "linkedinNum": 71208778,
   "crunchbaseId": "apowiser",
+  "ivcId": "A1000000351285",
   "finderId": "apowiser",
   "xId": "apowiser",
+  "facebookId": "apowiser",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הברוש",
-      "houseNumber": 17,
-      "city": "נווה ירק",
-      "lat": 32.1357438,
-      "lon": 34.9247887
+      "street": "זרחין",
+      "houseNumber": 13,
+      "city": "רעננה",
+      "lat": 32.1978658,
+      "lon": 34.882369
     }
   ],
   "isMultinational": false,
-  "facebookId": "apowiser",
-  "linkedinNum": 71208778
+  "isActive": true
 }

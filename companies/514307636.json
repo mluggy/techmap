@@ -1,0 +1,31 @@
+{
+  "name": "Hannis",
+  "description": "Hannis Technologies  specializes in PCB editing, manufacturing and assembly. They make all amounts, from models to massive production.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/hannis-logo.webp",
+  "websiteUrl": "https://www.hannis-pcb.com/",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000303848",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אמסטרדם",
+      "houseNumber": 5,
+      "city": "שדרות",
+      "lat": 31.522193,
+      "lon": 34.6103459
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

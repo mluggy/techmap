@@ -1,16 +1,22 @@
 {
   "name": "CO-EXIST",
-  "description": "Real-time Livestock Monitoring and Feeding Solution",
+  "description": "Real-time Livestock Monitoring and Feeding Solution.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/co_exist-logo.webp",
   "websiteUrl": "https://coexist-agro.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000331690",
   "finderId": "co-exist",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אהוד",
@@ -20,5 +26,6 @@
       "lon": 35.0364309
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

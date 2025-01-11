@@ -6,19 +6,26 @@
   "logoFile": "logos/agridera_seeds_agriculture-logo.webp",
   "websiteUrl": "https://www.agridera.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000174853",
   "finderId": "agridera-seeds-agriculture",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגאל אלון",
       "houseNumber": 26,
       "city": "גדרה",
-      "lat": 31.818786,
-      "lon": 34.7836388
+      "lat": 31.8202167,
+      "lon": 34.7834648
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

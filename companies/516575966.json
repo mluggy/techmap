@@ -1,0 +1,31 @@
+{
+  "name": "ScaleOps",
+  "description": "ScaleOps is a provider of consulting services, intended to help organizations optimize their team operations.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/scaleops-logo.webp",
+  "websiteUrl": "https://scaleops.com",
+  "careersUrl": "https://scaleops.com/careers/",
+  "linkedinId": "scaleops-sh",
+  "linkedinNum": 79471518,
+  "crunchbaseId": null,
+  "ivcId": "A1000000430227",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0651359,
+      "lon": 34.7856827
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

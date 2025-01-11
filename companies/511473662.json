@@ -1,16 +1,22 @@
 {
   "name": "Cadence Design Systems",
   "description": "Cadence Design Systems is a leading provider of electronic design automation (EDA) and intelligent system design solutions, enabling customers to create innovative and complex electronics products.",
-  "size": "m",
   "categoryId": 16,
+  "size": "m",
   "logoFile": "logos/cadence_design_systems_israel-logo.webp",
   "websiteUrl": "https://www.cadence.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cadence-design-systems",
+  "linkedinNum": 2157,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cadence-design-systems",
   "xId": "Cadence",
+  "facebookId": "CadenceDesignSystemsLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברט אהרון",
@@ -20,7 +26,6 @@
       "lon": 34.8613485
     }
   ],
-  "isMultinational": true,
-  "facebookId": "CadenceDesignSystemsLtd",
-  "linkedinNum": 2157
+  "isMultinational": false,
+  "isActive": true
 }

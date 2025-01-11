@@ -6,20 +6,26 @@
   "logoFile": "logos/q_r_genetics-logo.webp",
   "websiteUrl": "https://qrgenetics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "qrgenetics",
+  "linkedinNum": 30769932,
   "crunchbaseId": null,
+  "ivcId": "A1000000315284",
   "finderId": "qrgenetics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ירדן",
-      "houseNumber": 23,
-      "city": "רמת השרון",
-      "lat": 32.1457662,
-      "lon": 34.8461863
+      "street": "שדרות רוקח",
+      "houseNumber": 97,
+      "city": "תל אביב-יפו",
+      "lat": 32.1035633,
+      "lon": 34.807601
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 30769932
+  "isActive": true
 }

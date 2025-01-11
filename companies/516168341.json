@@ -6,21 +6,26 @@
   "logoFile": "logos/hypercore_financial_technologies-logo.webp",
   "websiteUrl": "https://www.hypercore.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hypercore-ai",
+  "linkedinNum": 69708599,
   "crunchbaseId": null,
+  "ivcId": "A1000000356091",
   "finderId": "hypercore",
   "xId": "hypercoreai",
+  "facebookId": "hypercoreai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 156,
-      "city": "תל אביב - יפו",
-      "lat": 32.0797181,
-      "lon": 34.7957816
+      "street": "שדרות רוטשילד",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0630027,
+      "lon": 34.7692988
     }
   ],
   "isMultinational": false,
-  "facebookId": "hypercoreai",
-  "linkedinNum": 69708599
+  "isActive": true
 }

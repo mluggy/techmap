@@ -6,21 +6,26 @@
   "logoFile": "logos/typemock-logo.webp",
   "websiteUrl": "https://www.typemock.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 217450,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "typemock",
   "xId": "typemock",
+  "facebookId": "typemock",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סירקין",
       "houseNumber": 36,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.080418,
       "lon": 34.7717
     }
   ],
   "isMultinational": false,
-  "facebookId": "typemock",
-  "linkedinNum": 217450
+  "isActive": true
 }

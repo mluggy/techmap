@@ -6,22 +6,26 @@
   "logoFile": "logos/netafim-logo.webp",
   "websiteUrl": "https://www.netafim.com/en/",
   "careersUrl": "https://www.netafim.com/en/career/",
-  "isHiring": true,
   "linkedinId": "netafim",
+  "linkedinNum": 20582,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "netafim",
   "xId": "netafimcorp",
+  "facebookId": "Netafim",
+  "breezyId": null,
+  "comeetId": "netafim/B7.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך השלום",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.071826,
       "lon": 34.7958885
     }
   ],
   "isMultinational": false,
-  "facebookId": "Netafim",
-  "linkedinNum": 20582,
-  "comeetId": "netafim/B7.002"
+  "isActive": true
 }

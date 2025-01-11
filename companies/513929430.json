@@ -1,0 +1,31 @@
+{
+  "name": "VRTech",
+  "description": "VRTech is a software company specializing in the development of software products and solutions for heterogeneous computing environments.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/vrtech-logo.webp",
+  "websiteUrl": "http://www.vrtech.biz",
+  "careersUrl": null,
+  "linkedinId": "vrtech",
+  "linkedinNum": 230940,
+  "crunchbaseId": null,
+  "ivcId": "A1000000002802",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרצוג",
+      "houseNumber": 7,
+      "city": "הרצליה",
+      "lat": 32.1678656,
+      "lon": 34.8465419
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

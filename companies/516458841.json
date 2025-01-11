@@ -6,21 +6,26 @@
   "logoFile": "logos/pery_digital_health-logo.webp",
   "websiteUrl": "https://www.mypery.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "peryhealth",
+  "linkedinNum": 86178219,
   "crunchbaseId": null,
+  "ivcId": "A1000000386545",
   "finderId": "pery",
   "xId": null,
+  "facebookId": "100085291641376",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שחם",
-      "houseNumber": 3,
+      "street": "הדקל",
+      "houseNumber": 2,
       "city": "פתח תקווה",
-      "lat": 32.0843166,
-      "lon": 34.8584859
+      "lat": 32.0785592,
+      "lon": 34.86821680000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "100085291641376",
-  "linkedinNum": 86178219
+  "isActive": true
 }

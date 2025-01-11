@@ -6,20 +6,26 @@
   "logoFile": "logos/plastic_back-logo.webp",
   "websiteUrl": "https://www.plastic-back.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "plastic-back",
+  "linkedinNum": 42833362,
   "crunchbaseId": null,
+  "ivcId": "A1000000314638",
   "finderId": "plastic-back",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סמ דליה",
-      "houseNumber": 20,
-      "city": "נס ציונה",
-      "lat": 31.93249103430141,
-      "lon": 34.797591328658974
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42833362
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/track_160-logo.webp",
   "websiteUrl": "https://www.track160.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "track160",
+  "linkedinNum": 18114002,
   "crunchbaseId": null,
+  "ivcId": "A1000000236045",
   "finderId": "track160-ltd",
   "xId": "track160",
+  "facebookId": "Track160Sports",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
-      "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.108647,
-      "lon": 34.838493
+      "houseNumber": 38,
+      "city": "תל אביב-יפו",
+      "lat": 32.1105307,
+      "lon": 34.8424899
     }
   ],
   "isMultinational": false,
-  "facebookId": "Track160Sports",
-  "linkedinNum": 18114002
+  "isActive": true
 }

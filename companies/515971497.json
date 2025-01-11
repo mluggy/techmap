@@ -1,25 +1,31 @@
 {
   "name": "GGtude",
-  "description": "Digital Mental-health Solutions",
+  "description": "Digital Mental-health Solutions.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ggtude.webp",
   "websiteUrl": "https://ggtude.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 26191959,
   "crunchbaseId": null,
+  "ivcId": "A1000000311854",
   "finderId": "ggtude",
   "xId": null,
   "facebookId": "ggtude",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הוז דב",
-      "houseNumber": 11,
-      "city": "תל אביב - יפו",
-      "lat": 32.08043276316371,
-      "lon": 34.772172189406746
+      "street": "שלמה אבן גבירול",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.0750419,
+      "lon": 34.7819586
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

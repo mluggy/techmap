@@ -1,25 +1,31 @@
 {
   "name": "DDance",
-  "description": "Dancing App",
+  "description": "Dancing App.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/ddance-logo.webp",
   "websiteUrl": "https://ddance.app",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ddance-simply-celebrate",
+  "linkedinNum": 75071585,
   "crunchbaseId": null,
+  "ivcId": "A1000000409792",
   "finderId": "ddance",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרת האגמים",
-      "houseNumber": 11,
+      "street": "הרצל",
+      "houseNumber": 28,
       "city": "נתניה",
-      "lat": 32.28964636374139,
-      "lon": 34.84996037484107
+      "lat": 32.3283202,
+      "lon": 34.8570342
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75071585
+  "isActive": true
 }

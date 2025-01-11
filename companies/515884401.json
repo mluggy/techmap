@@ -6,21 +6,26 @@
   "logoFile": "logos/lynx_md-logo.webp",
   "websiteUrl": "https://lynx.md/",
   "careersUrl": "http://careers.lynx.md/",
-  "isHiring": true,
   "linkedinId": "lynx-md",
+  "linkedinNum": 33520400,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lynx-md",
   "xId": "lynx_md",
+  "facebookId": null,
   "breezyId": "lynx-md",
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 88,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0693611,
       "lon": 34.7836244
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 33520400
+  "isActive": true
 }

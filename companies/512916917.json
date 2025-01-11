@@ -1,26 +1,31 @@
 {
   "name": "TDNet",
-  "description": "Providing library systems with solutions for managing electronic resources.",
-  "categoryId": 14,
+  "description": "TDNet’s discovery-to-delivery platform is the ultimate solution for libraries, information centers and researchers in all areas of information management.",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/td_net-logo.webp",
-  "websiteUrl": "https://www.tdnet.io/",
+  "websiteUrl": "https://www.tdnet.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tdnet",
+  "linkedinNum": 123417,
   "crunchbaseId": null,
+  "ivcId": "A1000000007817",
   "finderId": "tdnet",
   "xId": "dnet_t",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בן גוריון דוד",
+      "street": "בן גוריון",
       "houseNumber": 2,
-      "city": "רמת גן",
-      "lat": 32.0952767,
-      "lon": 34.8214828
+      "city": "פתח תקווה",
+      "lat": 32.0815746,
+      "lon": 34.8704668
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 123417
+  "isActive": true
 }

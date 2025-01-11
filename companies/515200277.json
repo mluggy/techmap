@@ -6,20 +6,26 @@
   "logoFile": "logos/shrewd_things-logo.webp",
   "websiteUrl": "https://www.shrewdthings.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "shrewd-things",
+  "linkedinNum": 10011958,
   "crunchbaseId": "shrewd-things",
+  "ivcId": "A1000000196062",
   "finderId": "shrewd-things",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הדולב צורן",
-      "houseNumber": 27,
-      "city": "צורן",
-      "lat": 32.285599079614144,
-      "lon": 34.94551181527746
+      "street": "הדולב",
+      "houseNumber": 21,
+      "city": "קדימה צורן",
+      "lat": 32.2861274,
+      "lon": 34.9455491
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10011958
+  "isActive": true
 }

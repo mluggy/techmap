@@ -1,25 +1,31 @@
 {
   "name": "Biosound",
-  "description": "Audio Solutions to Increase Crop Yields",
+  "description": "Audio Solutions to Increase Crop Yields.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/biosound-logo.webp",
   "websiteUrl": "https://biosoundtech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 30642519,
   "crunchbaseId": null,
+  "ivcId": "A1000000290544",
   "finderId": "biosound",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקוביץ",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.078703,
       "lon": 34.7870616
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 30642519
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/sitago-logo.webp",
   "websiteUrl": "https://www.sitago.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 88050022,
   "crunchbaseId": null,
+  "ivcId": "A1000000417072",
   "finderId": "sitago",
   "xId": "sitagogames",
+  "facebookId": "SitagoSkillGames",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן צבי יצחק",
-      "houseNumber": 61,
-      "city": "חיפה",
-      "lat": 32.752336,
-      "lon": 34.9720848
+      "street": null,
+      "houseNumber": null,
+      "city": "עכו",
+      "lat": 32.933052,
+      "lon": 35.082678
     }
   ],
   "isMultinational": false,
-  "facebookId": "SitagoSkillGames",
-  "linkedinNum": 88050022
+  "isActive": true
 }

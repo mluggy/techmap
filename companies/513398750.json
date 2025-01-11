@@ -6,21 +6,26 @@
   "logoFile": "logos/bioline_rx-logo.webp",
   "websiteUrl": "https://biolinerx.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "biolinerx",
+  "linkedinNum": 112275,
   "crunchbaseId": null,
+  "ivcId": "A1000000003848",
   "finderId": "biolinerx",
   "xId": "biolinerx_ltd",
+  "facebookId": "BioLineRx-786986118113858",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המעיין",
       "houseNumber": 2,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.922288,
-      "lon": 34.9688892
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.921992,
+      "lon": 34.969105
     }
   ],
   "isMultinational": false,
-  "facebookId": "BioLineRx-786986118113858",
-  "linkedinNum": 112275
+  "isActive": true
 }

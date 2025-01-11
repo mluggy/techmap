@@ -3,14 +3,20 @@
   "description": "Developing a rapid and precise gene editing technology for enhanced crop breeding.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/geneneer_ltd-logo.webp",
+  "logoFile": "logos/geneneer-logo.webp",
   "websiteUrl": "https://geneneer.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "geneneer",
+  "linkedinNum": 80371011,
   "crunchbaseId": "geneneer",
+  "ivcId": "A1000000392753",
   "finderId": "geneneer",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צור",
@@ -20,5 +26,6 @@
       "lon": 34.94643577429595
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

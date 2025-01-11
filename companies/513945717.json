@@ -1,16 +1,22 @@
 {
   "name": "Isotopia Molecular Imaging",
-  "description": "Radiological Isotopes for Cancer Treatment.",
+  "description": "Isotopia Molecular Imaging develops short-lived, injectable PET and SPECT radiopharmaceuticals and radiation protection equipment.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/isotopia_molecular_imaging-logo.webp",
-  "websiteUrl": "https://isotopia-global.com/",
-  "careersUrl": "https://isotopia-global.com/careers/",
-  "isHiring": true,
+  "websiteUrl": "http://www.isotopia.co.il",
+  "careersUrl": null,
   "linkedinId": "isotopia-molecular-imaging",
+  "linkedinNum": 7228777,
   "crunchbaseId": null,
+  "ivcId": "A1000000009271",
   "finderId": "isotopia",
   "xId": "Isotopia_il",
+  "facebookId": "Isotopia.Molecular.Imaging",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלכסנדר ינאי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Isotopia.Molecular.Imaging",
-  "linkedinNum": 7228777
+  "isActive": true
 }

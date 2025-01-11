@@ -6,11 +6,17 @@
   "logoFile": "logos/amai_proteins_ltd-logo.webp",
   "websiteUrl": "https://amaiproteins.com/",
   "careersUrl": "https://amaiproteins.com/careers/",
-  "isHiring": true,
   "linkedinId": "amai-proteins",
+  "linkedinNum": 11406821,
   "crunchbaseId": "amai-proteins",
+  "ivcId": "A1000000234086",
   "finderId": "amai-proteins1",
   "xId": null,
+  "facebookId": "AmaiProteins",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הולצמן חיים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AmaiProteins",
-  "linkedinNum": 11406821
+  "isActive": true
 }

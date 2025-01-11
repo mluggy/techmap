@@ -6,21 +6,26 @@
   "logoFile": "logos/auraplayer-logo.webp",
   "websiteUrl": "https://auraplayer.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 607144,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "auraplayer",
   "xId": "auraplayer",
+  "facebookId": "auraplayer",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קהילת ז'יטומיר",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.115648,
       "lon": 34.821181
     }
   ],
   "isMultinational": false,
-  "facebookId": "auraplayer",
-  "linkedinNum": 607144
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Kibeeri",
+  "description": "Kibeeri's mission is to craft a diverse array of shopping experiences that seamlessly complement each other, ensuring that every online shopper has effortless access to the information provided by Kibeeri technology, empowering them to make confident purchases.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/kibeeri-logo.webp",
+  "websiteUrl": "https://kibeeri.com",
+  "careersUrl": "https://kibeeri.com/careers",
+  "linkedinId": "kibeeri",
+  "linkedinNum": 101966145,
+  "crunchbaseId": null,
+  "ivcId": "A1000000470440",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אליהו",
+      "houseNumber": 10,
+      "city": "באר יעקב",
+      "lat": 31.94536,
+      "lon": 34.845388
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

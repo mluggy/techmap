@@ -1,25 +1,31 @@
 {
   "name": "Copilot",
-  "description": "Automated Customer Experience Platform",
-  "categoryId": 14,
-  "size": "s",
+  "description": "CoPilotMD is creating a suite of AI solutions to reduce complications, increase procedural success rates and optimize patients' prognosis.",
+  "categoryId": 12,
+  "size": "xs",
   "logoFile": "logos/copilot.webp",
-  "websiteUrl": "https://www.copilot.cx/",
+  "websiteUrl": "https://copilotmd.ai",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 40839726,
   "crunchbaseId": null,
+  "ivcId": "A1000000434548",
   "finderId": "copilot",
   "xId": "CopilotCX",
   "facebookId": "copilot.cx",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.07040532433058,
-      "lon": 34.79492890530462
+      "city": "תל אביב-יפו",
+      "lat": 32.0702602,
+      "lon": 34.7949449
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

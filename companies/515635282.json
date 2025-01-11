@@ -6,21 +6,26 @@
   "logoFile": "logos/roomerang-logo.webp",
   "websiteUrl": "https://www.roomerang.travel/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "roomerang",
+  "linkedinNum": 18074980,
   "crunchbaseId": null,
+  "ivcId": "A1000000258741",
   "finderId": "roomerang",
   "xId": null,
+  "facebookId": "roomerangtravel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חיים הרצוג",
-      "houseNumber": 7,
-      "city": "ראש העין",
-      "lat": 32.08484915,
-      "lon": 34.975372208397815
+      "street": "בצלאל",
+      "houseNumber": 4,
+      "city": "רמת גן",
+      "lat": 32.08725510000001,
+      "lon": 34.8017913
     }
   ],
   "isMultinational": false,
-  "facebookId": "roomerangtravel",
-  "linkedinNum": 18074980
+  "isActive": true
 }

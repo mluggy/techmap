@@ -1,26 +1,31 @@
 {
   "name": "SphereX",
-  "description": "On-chain Security Solution for Smart Contracts",
+  "description": "On-chain Security Solution for Smart Contracts.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/spherex.webp",
   "websiteUrl": "https://www.spherex.xyz/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "spherex-technologies",
   "linkedinNum": 92510064,
   "crunchbaseId": null,
+  "ivcId": "A1000000447601",
   "finderId": "spherex",
   "xId": "SpherexTech",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.07293741351348,
-      "lon": 34.79491499319645
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

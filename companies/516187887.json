@@ -1,0 +1,31 @@
+{
+  "name": "NewMed Scientific",
+  "description": "NewMed’s treatment for Pulmonary Embolism, Localysis™, uses a simple, non-invasive bedside procedure to deliver life-saving thrombolytic drugs directly to the pulmonary arterial tree.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/newmed_scientific-logo.webp",
+  "websiteUrl": "https://newmedsci.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000357451",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בוני העיר",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.1006817,
+      "lon": 34.7829747
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

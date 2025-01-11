@@ -1,26 +1,31 @@
 {
   "name": "FontArk",
-  "description": "Font Editor and Creator",
+  "description": "Font Editor and Creator.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/fontark-logo.webp",
   "websiteUrl": "https://fontark.net/farkwp/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fontark",
+  "linkedinNum": 5038327,
   "crunchbaseId": null,
+  "ivcId": "A1000000175137",
   "finderId": "fontark",
   "xId": "FontArk",
+  "facebookId": "Fontark",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פאגלין עמיחי",
-      "houseNumber": 4,
+      "street": "יצחק בן צבי",
+      "houseNumber": null,
       "city": "פתח תקווה",
-      "lat": 32.0813817,
-      "lon": 34.869731
+      "lat": 32.072691,
+      "lon": 34.886609
     }
   ],
   "isMultinational": false,
-  "facebookId": "Fontark",
-  "linkedinNum": 5038327
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/dealsumm-logo.webp",
   "websiteUrl": "https://dealsumm.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dealsumm",
+  "linkedinNum": 18076182,
   "crunchbaseId": "dealsumm",
+  "ivcId": null,
   "finderId": "dealsumm1",
   "xId": "DealSumm",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דישראלי",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18076182
+  "isActive": true
 }

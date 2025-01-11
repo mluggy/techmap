@@ -6,20 +6,26 @@
   "logoFile": "logos/orbs-logo.webp",
   "websiteUrl": "https://www.orbs.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "orbs",
+  "linkedinNum": 27118944,
   "crunchbaseId": null,
+  "ivcId": "A1000000247353",
   "finderId": "orbs",
   "xId": "orbs_network",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רב אלוף דוד אלעזר",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
-      "lat": 32.072099,
-      "lon": 34.788187
+      "city": "תל אביב-יפו",
+      "lat": 32.072101,
+      "lon": 34.7881867
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27118944
+  "isActive": true
 }

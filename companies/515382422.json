@@ -6,22 +6,26 @@
   "logoFile": "logos/innoviz_technologies-logo.webp",
   "websiteUrl": "https://innoviz.tech/",
   "careersUrl": "https://innoviz.tech/careers",
-  "isHiring": true,
   "linkedinId": "innoviz-technologies",
+  "linkedinNum": 10593485,
   "crunchbaseId": null,
+  "ivcId": "A1000000215900",
   "finderId": "innoviz-technologies",
   "xId": "InnovizOne",
+  "facebookId": "InnovizTechnologies",
+  "breezyId": null,
+  "comeetId": "innoviz/52.004",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריאב אורי",
-      "houseNumber": 5,
-      "city": "ראש העין",
-      "lat": 32.1127938,
-      "lon": 34.9418895
+      "street": "Uri Ariav",
+      "houseNumber": null,
+      "city": "Rosh Haayin",
+      "lat": 32.1126765,
+      "lon": 34.941685
     }
   ],
   "isMultinational": false,
-  "facebookId": "InnovizTechnologies",
-  "linkedinNum": 10593485,
-  "comeetId": "innoviz/52.004"
+  "isActive": true
 }

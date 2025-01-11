@@ -6,21 +6,26 @@
   "logoFile": "logos/zesty_tech-logo.webp",
   "websiteUrl": "https://zesty.co/",
   "careersUrl": "https://zesty.co/careers/",
-  "isHiring": true,
   "linkedinId": "zestyco",
+  "linkedinNum": 19106475,
   "crunchbaseId": null,
+  "ivcId": "A1000000277630",
   "finderId": "cloudvisor-io",
   "xId": "zesty_co",
+  "facebookId": "zestyhq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.066035,
-      "lon": 34.782959
+      "city": "תל אביב-יפו",
+      "lat": 32.0658042,
+      "lon": 34.7829381
     }
   ],
   "isMultinational": false,
-  "facebookId": "zestyhq",
-  "linkedinNum": 19106475
+  "isActive": true
 }

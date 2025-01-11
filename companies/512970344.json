@@ -1,0 +1,31 @@
+{
+  "name": "Bis-Tec",
+  "description": "Bis-Tec specialize in providing high complex solution in the fields of computer forensic, EDiscovery, Cyber and Big data analysis.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/bis_tec-logo.webp",
+  "websiteUrl": "http://www.bis-tec.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000236167",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אפעל",
+      "houseNumber": 6,
+      "city": "פתח תקווה",
+      "lat": 32.0938612,
+      "lon": 34.848671
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

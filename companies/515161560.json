@@ -1,26 +1,31 @@
 {
   "name": "ICS Security",
-  "description": "Network Intrusion Detection System for Critical Infrastructure",
+  "description": "Network Intrusion Detection System for Critical Infrastructure.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/ics_security_2014-logo.webp",
   "websiteUrl": "https://ics-security.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ics-security-ltd",
+  "linkedinNum": 42089508,
   "crunchbaseId": null,
+  "ivcId": "A1000000326224",
   "finderId": "ics-security",
   "xId": null,
+  "facebookId": "icsicsss",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הדליות",
-      "houseNumber": 62,
-      "city": "נתניה",
-      "lat": 32.2727059,
-      "lon": 34.8411196
+      "street": null,
+      "houseNumber": null,
+      "city": "באר שבע",
+      "lat": 31.2521018,
+      "lon": 34.7867691
     }
   ],
   "isMultinational": false,
-  "facebookId": "icsicsss",
-  "linkedinNum": 42089508
+  "isActive": true
 }

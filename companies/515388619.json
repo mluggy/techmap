@@ -6,12 +6,17 @@
   "logoFile": "logos/bizi1.webp",
   "websiteUrl": "https://bizi-tlv.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bizi1",
   "xId": null,
   "facebookId": "BIZItlv",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרובצקי שלמה",
@@ -21,5 +26,6 @@
       "lon": 34.86108540955405
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

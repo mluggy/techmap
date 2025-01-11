@@ -1,27 +1,31 @@
 {
   "name": "Windward",
-  "description": "Predictive Maritime Intelligence",
+  "description": "Predictive Maritime Intelligence.",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/windward-logo.webp",
   "websiteUrl": "https://windward.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "windward-ltd-",
+  "linkedinNum": 2680190,
   "crunchbaseId": null,
+  "ivcId": "A1000000001952",
   "finderId": "windward-ltd",
   "xId": "WindwardAI",
+  "facebookId": "WindwardAI",
+  "breezyId": null,
+  "comeetId": "windward/31.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השלושה",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617382,
-      "lon": 34.7882304
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
     }
   ],
   "isMultinational": false,
-  "facebookId": "WindwardAI",
-  "linkedinNum": 2680190,
-  "comeetId": "windward/31.002"
+  "isActive": true
 }

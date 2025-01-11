@@ -6,20 +6,26 @@
   "logoFile": "logos/magna_mater_medical-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "magna-mater-medical",
+  "linkedinNum": 77600443,
   "crunchbaseId": "magna-mater-medical",
+  "ivcId": "A1000000427329",
   "finderId": "magna-mater-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חיסין",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
-      "lat": 32.074087,
-      "lon": 34.777554
+      "city": "תל אביב-יפו",
+      "lat": 32.0740863,
+      "lon": 34.7775156
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77600443
+  "isActive": true
 }

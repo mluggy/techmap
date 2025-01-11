@@ -6,21 +6,26 @@
   "logoFile": "logos/sosense-logo.webp",
   "websiteUrl": "https://sosense.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 68868360,
   "crunchbaseId": null,
+  "ivcId": "A1000000281621",
   "finderId": "sosense",
   "xId": null,
+  "facebookId": "SOSsense.global",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך הראשונים",
-      "houseNumber": 10,
-      "city": "בני עטרות",
-      "lat": 32.02145027032458,
-      "lon": 34.90933990524398
+      "street": "שנקר",
+      "houseNumber": 27,
+      "city": "תל אביב-יפו",
+      "lat": 32.0628404,
+      "lon": 34.7627122
     }
   ],
   "isMultinational": false,
-  "facebookId": "SOSsense.global",
-  "linkedinNum": 68868360
+  "isActive": true
 }

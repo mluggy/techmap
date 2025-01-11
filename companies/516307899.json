@@ -6,20 +6,26 @@
   "logoFile": "logos/xoltar-logo.webp",
   "websiteUrl": "https://xoltar.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "xoltar",
+  "linkedinNum": 54345785,
   "crunchbaseId": null,
+  "ivcId": "A1000000340708",
   "finderId": "xoltar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קובנר אבא",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.101528,
-      "lon": 34.783442
+      "street": "השלושה",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 54345785
+  "isActive": true
 }

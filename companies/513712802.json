@@ -6,20 +6,26 @@
   "logoFile": "logos/barillet-logo.webp",
   "websiteUrl": "https://www.barillet.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "barillet",
+  "linkedinNum": 141028,
   "crunchbaseId": null,
+  "ivcId": "A1000000002471",
   "finderId": "barillet",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חלקיקי האור",
-      "houseNumber": 16,
+      "street": null,
+      "houseNumber": null,
       "city": "באר שבע",
-      "lat": 31.2624768,
-      "lon": 34.8113674
+      "lat": 31.2521018,
+      "lon": 34.7867691
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 141028
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/biosy_int-logo.webp",
   "websiteUrl": "https://biosy-int.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000303327",
   "finderId": "biosy-int-ltd",
   "xId": null,
+  "facebookId": "BioSy-1010582342317193",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר לב חיים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BioSy-1010582342317193"
+  "isActive": true
 }

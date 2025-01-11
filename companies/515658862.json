@@ -6,11 +6,17 @@
   "logoFile": "logos/cheetah_technologies-logo.webp",
   "websiteUrl": "https://gocheetah.com/",
   "careersUrl": "https://gocheetah.com/careers/",
-  "isHiring": true,
   "linkedinId": "gocheetah",
+  "linkedinNum": 10402752,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cheetah-technologies",
   "xId": "restcheetah",
+  "facebookId": "gocheetah",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בגין מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "gocheetah",
-  "linkedinNum": 10402752
+  "isActive": true
 }

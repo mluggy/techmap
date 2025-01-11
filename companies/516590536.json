@@ -1,25 +1,31 @@
 {
   "name": "Shuffll",
-  "description": "Creation Platform and Marketplace",
+  "description": "Shuffll is revolutionizing the way businesses approach video production.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/shuffll.webp",
-  "websiteUrl": "https://shuffll.com",
+  "websiteUrl": "https://shuffll.co",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000331562",
   "finderId": "shuffll",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך הגבורה",
-      "houseNumber": 31,
-      "city": "תל אביב - יפו",
-      "lat": 32.06635942241938,
-      "lon": 34.802435924802936
+      "street": "מנחם בגין",
+      "houseNumber": 132,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930881,
+      "lon": 34.8322718
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

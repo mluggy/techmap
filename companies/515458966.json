@@ -6,21 +6,26 @@
   "logoFile": "logos/vicarius-logo.webp",
   "websiteUrl": "https://www.vicarius.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vicarius",
+  "linkedinNum": 10597848,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vicarius",
   "xId": "vicariusltd",
+  "facebookId": "vicariusltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "facebookId": "vicariusltd",
-  "linkedinNum": 10597848
+  "isActive": true
 }

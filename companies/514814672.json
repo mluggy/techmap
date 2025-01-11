@@ -6,21 +6,26 @@
   "logoFile": "logos/pontera-logo.webp",
   "websiteUrl": "https://pontera.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pontera",
+  "linkedinNum": 2711006,
   "crunchbaseId": "pontera",
+  "ivcId": "A1000000021487",
   "finderId": "feex",
   "xId": "FeeX",
+  "facebookId": "Ponterasolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שנקר",
-      "houseNumber": 11,
+      "street": "משכית",
+      "houseNumber": 22,
       "city": "הרצליה",
-      "lat": 32.1585145,
-      "lon": 34.8085703
+      "lat": 32.1638207,
+      "lon": 34.8105285
     }
   ],
   "isMultinational": false,
-  "facebookId": "Ponterasolutions",
-  "linkedinNum": 2711006
+  "isActive": true
 }

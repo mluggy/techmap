@@ -6,11 +6,17 @@
   "logoFile": "logos/agent_factory-logo.webp",
   "websiteUrl": "https://www.agentfactory.net/",
   "careersUrl": "https://www.factory.ai/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000418720",
   "finderId": "agent-factory",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החיטה",
@@ -20,5 +26,6 @@
       "lon": 34.95251056208456
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

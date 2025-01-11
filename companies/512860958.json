@@ -1,25 +1,31 @@
 {
   "name": "Agrio",
-  "description": "Artificial Intelligence for Pest Management and Disease Identification",
+  "description": "Artificial Intelligence for Pest Management and Disease Identification.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/agrio.webp",
   "websiteUrl": "https://www.agrio.app/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "saillog-ltd",
   "linkedinNum": 18187682,
   "crunchbaseId": null,
+  "ivcId": "A1000000285157",
   "finderId": "agrio",
   "xId": "agrio_saillog",
   "facebookId": "agrio.saillog",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": 58,
-      "city": "ניר ישראל",
-      "lat": 31.691958649684537,
-      "lon": 34.638401420073194
+      "street": "גאולה",
+      "houseNumber": 5,
+      "city": "כפר סבא",
+      "lat": 32.17661,
+      "lon": 34.9005249
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

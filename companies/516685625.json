@@ -6,11 +6,17 @@
   "logoFile": "logos/wire_logic-logo.webp",
   "websiteUrl": "https://www.wirelogic.com/",
   "careersUrl": "https://www.linkedin.com/posts/vlsijobseekers24_what-is-difference-between-wire-reg-and-activity-7114533384676134913-mmp6",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "wire-logic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דודו דותן",
@@ -19,5 +25,7 @@
       "lat": 32.2767717,
       "lon": 34.8417624
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

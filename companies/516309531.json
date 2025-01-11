@@ -1,25 +1,31 @@
 {
   "name": "Sneaky Panda",
-  "description": "Creating Innovative Mid-core Mobile Games",
+  "description": "Creating Innovative Mid-core Mobile Games.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/sneaky_panda-logo.webp",
   "websiteUrl": "https://sneaky-panda.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sneaky-panda",
+  "linkedinNum": 70432473,
   "crunchbaseId": null,
+  "ivcId": "A1000000369348",
   "finderId": "sneaky-panda",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלוף מגן קלמן",
+      "street": "אלוף קלמן מגן",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07110345,
-      "lon": 34.78706174292169
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70432473
+  "isActive": true
 }

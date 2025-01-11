@@ -1,0 +1,31 @@
+{
+  "name": "Winbar",
+  "description": "Al-Sorag is a company in the field of safety and security solutions for building envelopes, offering its customers a wide array of solutions for increased security combined with energy conservation.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/winbar-logo.webp",
+  "websiteUrl": "https://www.al-sorag.co.il/en/home/",
+  "careersUrl": null,
+  "linkedinId": "al-sorag-ltd.",
+  "linkedinNum": 487053,
+  "crunchbaseId": null,
+  "ivcId": "A1000000198767",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרימון",
+      "houseNumber": 72,
+      "city": "אמונים",
+      "lat": 31.744877,
+      "lon": 34.680556
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

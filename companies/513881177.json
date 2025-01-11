@@ -6,11 +6,17 @@
   "logoFile": "logos/wix_what-logo.webp",
   "websiteUrl": "https://www.wix.com/",
   "careersUrl": "https://careers.wix.com/positions",
-  "isHiring": true,
   "linkedinId": "wix-com",
+  "linkedinNum": 97250,
   "crunchbaseId": null,
+  "ivcId": "A1000000009081",
   "finderId": "wix",
   "xId": "Wix",
+  "facebookId": "wix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -35,6 +41,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "wix",
-  "linkedinNum": 97250
+  "isActive": true
 }

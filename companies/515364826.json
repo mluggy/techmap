@@ -6,21 +6,26 @@
   "logoFile": "logos/quttera-logo.webp",
   "websiteUrl": "https://quttera.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "quttera",
+  "linkedinNum": 3089514,
   "crunchbaseId": null,
+  "ivcId": "A1000000024858",
   "finderId": "quttera",
   "xId": "quttera",
+  "facebookId": "Quttera",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שבט שמעון",
-      "houseNumber": 15,
-      "city": "אשדוד",
-      "lat": 31.779193654952387,
-      "lon": 34.63515557453088
+      "street": "החושלים",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.1589965,
+      "lon": 34.8067756
     }
   ],
   "isMultinational": false,
-  "facebookId": "Quttera",
-  "linkedinNum": 3089514
+  "isActive": true
 }

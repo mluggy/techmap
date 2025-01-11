@@ -6,22 +6,26 @@
   "logoFile": "logos/fabric_by_adi_lin_group-logo.webp",
   "websiteUrl": "https://getfabric.com/",
   "careersUrl": "https://getfabric.com/careers/",
-  "isHiring": true,
   "linkedinId": "fabriclogistics",
+  "linkedinNum": 28445862,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "commonsense-robotics",
   "xId": "fabriclogistics",
+  "facebookId": "peopleoffabric",
+  "breezyId": null,
+  "comeetId": "fabric/52.009",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוהליבר",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065619,
       "lon": 34.768507
     }
   ],
   "isMultinational": false,
-  "facebookId": "peopleoffabric",
-  "linkedinNum": 28445862,
-  "comeetId": "fabric/52.009"
+  "isActive": true
 }

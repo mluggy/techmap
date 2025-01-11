@@ -6,20 +6,26 @@
   "logoFile": "logos/terafence-logo.webp",
   "websiteUrl": "https://terafence.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "terafence",
+  "linkedinNum": 13996612,
   "crunchbaseId": null,
+  "ivcId": "A1000000254173",
   "finderId": "terafence",
   "xId": "terafence",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חת נחום",
+      "street": "נחום חת",
       "houseNumber": 5,
-      "city": "חיפה",
-      "lat": 32.7835851,
-      "lon": 34.9609592
+      "city": "טירת כרמל",
+      "lat": 32.7830898,
+      "lon": 34.9594551
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13996612
+  "isActive": true
 }

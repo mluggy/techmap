@@ -6,21 +6,26 @@
   "logoFile": "logos/retrain_ai-logo.webp",
   "websiteUrl": "https://www.retrain.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 53140527,
   "crunchbaseId": null,
+  "ivcId": "A1000000315093",
   "finderId": "retrain-ai",
   "xId": "RetrainAi",
+  "facebookId": "RetrainAi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
+      "street": "ויצמן‬",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.06530465,
-      "lon": 34.784687671749694
+      "city": "תל אביב-יפו",
+      "lat": 32.0801258,
+      "lon": 34.7898816
     }
   ],
   "isMultinational": false,
-  "facebookId": "RetrainAi",
-  "linkedinNum": 53140527
+  "isActive": true
 }

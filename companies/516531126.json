@@ -1,0 +1,31 @@
+{
+  "name": "Memphis.dev",
+  "description": "Memphis.dev is a next-generation alternative to traditional streaming engines.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/memphis_dev-logo.webp",
+  "websiteUrl": "https://memphis.dev",
+  "careersUrl": null,
+  "linkedinId": "memphis-dev",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000409960",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

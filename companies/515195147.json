@@ -6,20 +6,26 @@
   "logoFile": "logos/clairion-logo.webp",
   "websiteUrl": "https://clairion.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mercuremoval",
+  "linkedinNum": 10338660,
   "crunchbaseId": null,
+  "ivcId": "A1000000193001",
   "finderId": "clairion",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האלוף פרי יעקב",
-      "houseNumber": 1,
-      "city": "רחובות",
-      "lat": 31.8964401,
-      "lon": 34.7846032
+      "street": "גיבורי ישראל",
+      "houseNumber": 10,
+      "city": "בני ברק",
+      "lat": 32.081796,
+      "lon": 34.84295
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10338660
+  "isActive": true
 }

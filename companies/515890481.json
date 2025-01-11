@@ -1,0 +1,31 @@
+{
+  "name": "Orchestra Group",
+  "description": "Orchestra Group’s mission is to enable organizations to measure, track, and reduce the risk and impact of cyber-attacks through Continuous Threat Exposure Management (CTEM) methodology.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/orchestra-group-logo.webp",
+  "websiteUrl": "https://orchestragroup.com",
+  "careersUrl": "https://orchestragroup.com/about/#careers",
+  "linkedinId": "theorchestragroup",
+  "linkedinNum": 35517316,
+  "crunchbaseId": null,
+  "ivcId": "A1000000243917",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מזא\"ה",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0671819,
+      "lon": 34.77183910000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

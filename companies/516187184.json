@@ -6,20 +6,26 @@
   "logoFile": "logos/bia_med-logo.webp",
   "websiteUrl": "https://translate.google.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bia-med-ltd",
+  "linkedinNum": 75052037,
   "crunchbaseId": null,
+  "ivcId": "A1000000417786",
   "finderId": "bia-med",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התאנה",
+      "street": null,
       "houseNumber": null,
-      "city": "בן שמן (מושב)",
-      "lat": 31.954658470687253,
-      "lon": 34.92873532088367
+      "city": "בן שמן",
+      "lat": 31.95377319999999,
+      "lon": 34.9205455
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75052037
+  "isActive": true
 }

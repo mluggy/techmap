@@ -6,20 +6,26 @@
   "logoFile": "logos/cyberwrite_israel-logo.webp",
   "websiteUrl": "https://www.cyberwrite.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cyberwrite",
+  "linkedinNum": 10556543,
   "crunchbaseId": "cyberwrite",
+  "ivcId": "A1000000210876",
   "finderId": "cybewrite",
   "xId": "cyberwrite_inc",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 51,
-      "city": "ראשון לציון",
-      "lat": 31.9661405,
-      "lon": 34.7997086
+      "street": "רחוב אריה שנקר",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1608042,
+      "lon": 34.810067
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10556543
+  "isActive": true
 }

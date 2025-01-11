@@ -6,21 +6,26 @@
   "logoFile": "logos/lavie_bio-logo.webp",
   "websiteUrl": "https://lavie-bio.com/",
   "careersUrl": "https://lavie-bio.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "lavie-bio",
+  "linkedinNum": 35599831,
   "crunchbaseId": null,
+  "ivcId": "A1000000281086",
   "finderId": "lavie-bio",
   "xId": "LavieBio",
+  "facebookId": "LavieBio123",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פינשטיין",
-      "houseNumber": 13,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.8999536,
-      "lon": 34.79146377703995
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "facebookId": "LavieBio123",
-  "linkedinNum": 35599831
+  "isActive": true
 }

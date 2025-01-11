@@ -6,11 +6,17 @@
   "logoFile": "logos/red_hat_israel-logo.webp",
   "websiteUrl": "https://www.redhat.com",
   "careersUrl": "https://www.redhat.com/en/jobs",
-  "isHiring": true,
   "linkedinId": "red-hat",
+  "linkedinNum": 3545,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "red-hat",
   "xId": "RedHat",
+  "facebookId": "redhat.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפנינה",
@@ -20,7 +26,6 @@
       "lon": 34.8903837
     }
   ],
-  "isMultinational": true,
-  "facebookId": "redhat.il",
-  "linkedinNum": 3545
+  "isMultinational": false,
+  "isActive": true
 }

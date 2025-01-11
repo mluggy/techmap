@@ -6,21 +6,26 @@
   "logoFile": "logos/sowillo_energy-logo.webp",
   "websiteUrl": "https://www.sowillo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sowillo",
+  "linkedinNum": 10271259,
   "crunchbaseId": "sowillo-energy",
+  "ivcId": "A1000000210744",
   "finderId": "sowillo-energy",
   "xId": null,
+  "facebookId": "sowilloenergy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זמר עברי",
-      "houseNumber": 10,
-      "city": "מכמנים",
-      "lat": 32.9069348,
-      "lon": 35.3297633
+      "street": "פלמ\"ח",
+      "houseNumber": 3,
+      "city": "חיפה",
+      "lat": 32.7889805,
+      "lon": 34.9932735
     }
   ],
   "isMultinational": false,
-  "facebookId": "sowilloenergy",
-  "linkedinNum": 10271259
+  "isActive": true
 }

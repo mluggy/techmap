@@ -3,14 +3,20 @@
   "description": "Food Processing and Packing Machines",
   "categoryId": 17,
   "size": "s",
-  "logoFile": "logos/arbel_electrical_engineering-logo.webp",
+  "logoFile": "logos/arbel-logo.webp",
   "websiteUrl": "https://www.arbel.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "arbel-electrical-engineering",
+  "linkedinNum": 10455478,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "arbel",
   "xId": null,
+  "facebookId": "Arbelmilkprocessing",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבצע חורב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Arbelmilkprocessing"
+  "isActive": true
 }

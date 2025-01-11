@@ -1,0 +1,31 @@
+{
+  "name": "Luminera Pharm",
+  "description": "Luminera Pharm is developing an Subcutaneous injection for hormones.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/luminera_pharm-logo.webp",
+  "websiteUrl": "http://www.luminera.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000288276",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בת שבע",
+      "houseNumber": 1,
+      "city": "לוד",
+      "lat": 31.9533935,
+      "lon": 34.8917808
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

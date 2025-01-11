@@ -1,25 +1,31 @@
 {
   "name": "Nucleon Cyber",
-  "description": "Cyber Threat Intelligence Solutions",
+  "description": "Nucleon is an information security research company.",
   "categoryId": 7,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/nucleon_cyber-logo.webp",
-  "websiteUrl": "https://nucleoncyber.com/",
+  "websiteUrl": "http://www.nucleon.sh",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nucleon-ltd",
+  "linkedinNum": 10427968,
   "crunchbaseId": null,
+  "ivcId": "A1000000170748",
   "finderId": "shieldlock",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
-      "houseNumber": 1,
-      "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "street": null,
+      "houseNumber": null,
+      "city": "רמת גן",
+      "lat": 32.068424,
+      "lon": 34.824785
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10427968
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "CTG Ltd.",
+  "description": "Clean Technologies Group (CTG) is a leading multi-national environmental corporation specializing in the marketing, sales and project implementation of innovative water and wastewater solutions.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/ctg_ltd-logo.webp",
+  "websiteUrl": "http://www.ctgholding.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001851",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "עין ורד",
+      "lat": 32.264467,
+      "lon": 34.930705
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

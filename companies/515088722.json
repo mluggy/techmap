@@ -1,0 +1,31 @@
+{
+  "name": "Pres-By Vision",
+  "description": "Pres-By Vision, an ophthalmic innovation company, has developed an innovative Movable Ophthalmic Lens Assembly.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pres_by_vision-logo.webp",
+  "websiteUrl": "http://www.pres-by.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000223000",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרויאנוב",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0768982,
+      "lon": 34.7719282
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

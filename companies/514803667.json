@@ -6,11 +6,17 @@
   "logoFile": "logos/aqualink-logo.webp",
   "websiteUrl": "https://aqualink.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10162309,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "aqualink-ltd",
   "xId": null,
+  "facebookId": "AquaLinkisr",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוצקין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AquaLinkisr",
-  "linkedinNum": 10162309
+  "isActive": true
 }

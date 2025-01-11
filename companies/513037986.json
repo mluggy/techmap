@@ -3,21 +3,29 @@
   "description": "Leveraging artificial intelligence and data analytics to boost sales efficiency.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/inhavo_software-logo.webp",
+  "logoFile": "logos/inhavo-software-logo.webp",
   "websiteUrl": "https://www.brightinfo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "brightinfo",
+  "linkedinNum": 3162430,
   "crunchbaseId": "brightinfo",
+  "ivcId": null,
   "finderId": "brightinfo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עין זיתים",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074519,
       "lon": 34.796945
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

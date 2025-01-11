@@ -6,20 +6,26 @@
   "logoFile": "logos/trojan_bio-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trojan-bio",
+  "linkedinNum": 82642561,
   "crunchbaseId": "trojanbio",
+  "ivcId": "A1000000379438",
   "finderId": "trojan-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך אילות",
-      "houseNumber": 10,
-      "city": "גני תקווה",
-      "lat": 32.063823,
-      "lon": 34.8698464
+      "street": "פנחס ספיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.91451859999999,
+      "lon": 34.8032823
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82642561
+  "isActive": true
 }

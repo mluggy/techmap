@@ -1,26 +1,31 @@
 {
   "name": "Grin",
-  "description": "Teledental Platform for Connecting Patients with Orthodontists",
+  "description": "Teledental Platform for Connecting Patients with Orthodontists.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/grin_mendel_and_sons-logo.webp",
   "websiteUrl": "https://get-grin.com/",
   "careersUrl": "https://www.get-grin.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "get-grin",
+  "linkedinNum": 64879643,
   "crunchbaseId": null,
+  "ivcId": "A1000000313839",
   "finderId": "grin",
   "xId": "get_grin",
+  "facebookId": "getgrinortho",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האורג",
-      "houseNumber": 23,
-      "city": "נתניה",
-      "lat": 32.3188664,
-      "lon": 34.8717241
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "facebookId": "getgrinortho",
-  "linkedinNum": 64879643
+  "isActive": true
 }

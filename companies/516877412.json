@@ -1,16 +1,22 @@
 {
   "name": "Axiv Materials",
-  "description": "Sustainable Fibers from Protein Waste",
+  "description": "Sustainable Fibers from Protein Waste.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/axiv_materials-logo.webp",
   "websiteUrl": "https://axivmaterials.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "axiv-materials",
+  "linkedinNum": 96018242,
   "crunchbaseId": null,
+  "ivcId": "A1000000434940",
   "finderId": "axiv-materials",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחל גלים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 96018242
+  "isActive": true
 }

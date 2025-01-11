@@ -1,0 +1,31 @@
+{
+  "name": "Rosalind Bioculture",
+  "description": "Rosalind Bioculture delivers a novel, genetically-enhanced strain of yeasts, boosting the yield of precision fermentation facilities.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/rosalind-bioculture-logo.webp",
+  "websiteUrl": "https://www.ros.bio",
+  "careersUrl": "https://www.ros.bio/careers",
+  "linkedinId": "rosalind-bioculture",
+  "linkedinNum": 101957734,
+  "crunchbaseId": null,
+  "ivcId": "A1000000483551",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הצדף",
+      "houseNumber": 5,
+      "city": "כפר ויתקין",
+      "lat": 32.3874396,
+      "lon": 34.8816231
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

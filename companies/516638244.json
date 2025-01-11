@@ -1,0 +1,31 @@
+{
+  "name": "Watercooler",
+  "description": "Watercooler provides HR managers and senior management with the opportunity to see the state of employee motivation and engagement at any given moment and in a data-based manner.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/watercooler-logo.webp",
+  "websiteUrl": "https://www.watercooler.ai",
+  "careersUrl": null,
+  "linkedinId": "watercooler-ai",
+  "linkedinNum": 85652155,
+  "crunchbaseId": null,
+  "ivcId": "A1000000408201",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גינת אגוז",
+      "houseNumber": 4,
+      "city": "פרדס חנה כרכור",
+      "lat": 32.4677353,
+      "lon": 34.9538411
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,22 +6,26 @@
   "logoFile": "logos/checkmarx-logo.webp",
   "websiteUrl": "https://checkmarx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "checkmarx",
+  "linkedinNum": 223472,
   "crunchbaseId": null,
+  "ivcId": "A1000000008853",
   "finderId": "checkmarx",
   "xId": "Checkmarx",
+  "facebookId": "Checkmarx.Source.Code.Analysis",
+  "breezyId": null,
+  "comeetId": "checkmarx/C0.008",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
+      "street": "Ze'ev Jabotinsky Road",
       "houseNumber": 2,
-      "city": "רמת גן",
-      "lat": 32.08254365,
-      "lon": 34.801384906098356
+      "city": "Ramat Gan",
+      "lat": 32.0826829,
+      "lon": 34.8014967
     }
   ],
   "isMultinational": false,
-  "facebookId": "Checkmarx.Source.Code.Analysis",
-  "linkedinNum": 223472,
-  "comeetId": "checkmarx/C0.008"
+  "isActive": true
 }

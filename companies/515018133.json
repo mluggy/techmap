@@ -1,0 +1,31 @@
+{
+  "name": "PayBox",
+  "description": "Paybox is a transformational Peer-to-Group and Peer-to-Peer solution for the next generation of mobile banking.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/paybox-logo.webp",
+  "websiteUrl": "https://www.payboxapp.com",
+  "careersUrl": null,
+  "linkedinId": "paybox-payment-solutions",
+  "linkedinNum": 5071556,
+  "crunchbaseId": null,
+  "ivcId": "A1000000022336",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האחים מסלאויטה",
+      "houseNumber": 11,
+      "city": "תל אביב-יפו",
+      "lat": 32.0676839,
+      "lon": 34.7910268
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

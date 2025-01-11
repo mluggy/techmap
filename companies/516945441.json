@@ -1,0 +1,31 @@
+{
+  "name": "Toko",
+  "description": "Toko is a platform that helps people embark on an AI-guided journey of emotional development by learning important skills for resilience and mental well-being, such as communication, empathy and stress management.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/toko-logo.webp",
+  "websiteUrl": "https://toko.health",
+  "careersUrl": null,
+  "linkedinId": "toko.health",
+  "linkedinNum": 102305325,
+  "crunchbaseId": null,
+  "ivcId": "A1000000467116",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שמעון בן שטח",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0558438,
+      "lon": 34.7587879
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

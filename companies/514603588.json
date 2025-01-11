@@ -6,11 +6,17 @@
   "logoFile": "logos/kitely-logo.webp",
   "websiteUrl": "https://www.kitely.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kitely",
+  "linkedinNum": 2082514,
   "crunchbaseId": null,
+  "ivcId": "A1000000002833",
   "finderId": "kitely",
   "xId": "kitely",
+  "facebookId": "Kitely.Virtual.Worlds",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההגנה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Kitely.Virtual.Worlds",
-  "linkedinNum": 2082514
+  "isActive": true
 }

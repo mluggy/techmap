@@ -6,21 +6,26 @@
   "logoFile": "logos/radiflow-logo.webp",
   "websiteUrl": "https://www.radiflow.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "radiflow",
+  "linkedinNum": 576564,
   "crunchbaseId": null,
+  "ivcId": "A1000000010753",
   "finderId": "radiflow",
   "xId": "RadiflowSec",
+  "facebookId": "RADiFlow-1119587728096760",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 38,
-      "city": "תל אביב - יפו",
-      "lat": 32.1103886,
-      "lon": 34.84245
+      "city": "תל אביב-יפו",
+      "lat": 32.1105307,
+      "lon": 34.8424899
     }
   ],
   "isMultinational": false,
-  "facebookId": "RADiFlow-1119587728096760",
-  "linkedinNum": 576564
+  "isActive": true
 }

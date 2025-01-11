@@ -6,21 +6,26 @@
   "logoFile": "logos/sol_chip-logo.webp",
   "websiteUrl": "https://sol-chip.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sol-chip",
+  "linkedinNum": 2706994,
   "crunchbaseId": null,
+  "ivcId": "A1000000010180",
   "finderId": "sol-chip",
   "xId": "solchip",
+  "facebookId": "Sol-Chip-Ltd-273183862801722",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יפו",
-      "houseNumber": 157,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.8276768,
-      "lon": 34.9851308
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
   "isMultinational": false,
-  "facebookId": "Sol-Chip-Ltd-273183862801722",
-  "linkedinNum": 2706994
+  "isActive": true
 }

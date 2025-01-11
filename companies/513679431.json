@@ -1,26 +1,31 @@
 {
   "name": "InspireMD",
-  "description": "Stent System Technology for Preventing Embolization",
+  "description": "Stent System Technology for Preventing Embolization.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/inspire_m_d-logo.webp",
   "websiteUrl": "https://www.inspiremd.com/en/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "inspiremd",
+  "linkedinNum": 2504112,
   "crunchbaseId": null,
+  "ivcId": "A1000000008288",
   "finderId": "inspiremd",
   "xId": "InspireMD",
+  "facebookId": "InspireMD-Inc-1495734044064407",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנורת המאור",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.074576,
-      "lon": 34.796218
+      "city": "תל אביב-יפו",
+      "lat": 32.0746692,
+      "lon": 34.7963381
     }
   ],
   "isMultinational": false,
-  "facebookId": "InspireMD-Inc-1495734044064407",
-  "linkedinNum": 2504112
+  "isActive": true
 }

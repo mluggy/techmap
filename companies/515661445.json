@@ -1,26 +1,31 @@
 {
   "name": "RiseUp",
-  "description": "Proactive Financial Service Empowering Customers",
+  "description": "Proactive Financial Service Empowering Customers.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/riseup_moments-logo.webp",
   "websiteUrl": "https://www.riseup.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "riseupisrael",
+  "linkedinNum": 18679438,
   "crunchbaseId": null,
+  "ivcId": "A1000000274225",
   "finderId": "riseup",
   "xId": "riseup_israel",
+  "facebookId": "riseupisrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פריש דניאל",
+      "street": "דניאל פריש",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07463945,
-      "lon": 34.78327163578098
+      "city": "תל אביב-יפו",
+      "lat": 32.0745707,
+      "lon": 34.7832566
     }
   ],
   "isMultinational": false,
-  "facebookId": "riseupisrael",
-  "linkedinNum": 18679438
+  "isActive": true
 }

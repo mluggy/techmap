@@ -6,20 +6,26 @@
   "logoFile": "logos/vorpal-logo.webp",
   "websiteUrl": "https://www.vorpal-corp.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vorpalltd",
+  "linkedinNum": 12634980,
   "crunchbaseId": null,
+  "ivcId": "A1000000247776",
   "finderId": "vorpal",
   "xId": "VorpalCorp",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השמחה",
+      "street": "שמחה הולצברג",
       "houseNumber": 11,
-      "city": "כפר סבא",
-      "lat": 32.18623624541135,
-      "lon": 34.8948321687887
+      "city": "הרצליה",
+      "lat": 32.1525104,
+      "lon": 34.8470372
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12634980
+  "isActive": true
 }

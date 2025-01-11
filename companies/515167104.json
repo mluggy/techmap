@@ -6,21 +6,26 @@
   "logoFile": "logos/cybeready_learning_solutions-logo.webp",
   "websiteUrl": "https://cybeready.com/",
   "careersUrl": "https://cybeready.com/career",
-  "isHiring": true,
   "linkedinId": "cybeready",
+  "linkedinNum": 5307429,
   "crunchbaseId": "cybeready",
+  "ivcId": null,
   "finderId": "cybeready",
   "xId": "cybeready",
+  "facebookId": "AutonomousTraining",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רב אשי",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.121132,
       "lon": 34.79758
     }
   ],
   "isMultinational": false,
-  "facebookId": "AutonomousTraining",
-  "linkedinNum": 5307429
+  "isActive": true
 }

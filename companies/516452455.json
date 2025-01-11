@@ -1,16 +1,22 @@
 {
   "name": "Lua Connect",
-  "description": "Dating App for Meaningful Connections",
+  "description": "Dating App for Meaningful Connections.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/lua_connect-logo.webp",
   "websiteUrl": "https://www.lua.earth/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "luaconnect",
+  "linkedinNum": 66971859,
   "crunchbaseId": null,
+  "ivcId": "A1000000428519",
   "finderId": "lua-connect",
   "xId": null,
+  "facebookId": "LuaMoonGoddess",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "וינקלר אלתר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "LuaMoonGoddess",
-  "linkedinNum": 66971859
+  "isActive": true
 }

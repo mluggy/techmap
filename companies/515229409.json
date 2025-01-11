@@ -6,13 +6,26 @@
   "logoFile": "logos/solo_gelato-logo.webp",
   "websiteUrl": "https://www.solato.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "solato-official",
+  "linkedinNum": 7959834,
   "crunchbaseId": null,
+  "ivcId": "A1000000194260",
   "finderId": "solo-gelato",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "solato.official",
-  "linkedinNum": 7959834
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 2,
+      "city": "מעלות תרשיחא",
+      "lat": 33.0178884,
+      "lon": 35.2724104
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

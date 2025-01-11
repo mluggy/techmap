@@ -3,14 +3,20 @@
   "description": "Oral drug for treating cardio-metabolic disease and rare MSUD",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/ramino_bio-logo.webp",
+  "logoFile": "logos/ramino-bio-logo.webp",
   "websiteUrl": "https://www.futurx.co.il/portfolio/ramino-bio/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ramino-bio",
+  "linkedinNum": 93388496,
   "crunchbaseId": "ramino-bio",
+  "ivcId": null,
   "finderId": "ramino-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -20,5 +26,6 @@
       "lon": 34.80439671200948
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

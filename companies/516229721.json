@@ -3,23 +3,29 @@
   "description": "Jiga streamlines the process of sourcing parts from optimal suppliers efficiently and affordably across various manufacturing methods.",
   "categoryId": 9,
   "size": "s",
-  "logoFile": "logos/jiga_3_d-logo.webp",
+  "logoFile": "logos/jiga-logo.webp",
   "websiteUrl": "https://jiga.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "jiga3d",
+  "linkedinNum": 49163038,
   "crunchbaseId": null,
+  "ivcId": "A1000000315035",
   "finderId": "jiga",
   "xId": "jiga3d",
+  "facebookId": "jiga3d",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שץ גגה גרשון",
+      "street": "גרשון ש\"ץ",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.069057,
-      "lon": 34.788076
+      "city": "תל אביב-יפו",
+      "lat": 32.0689893,
+      "lon": 34.788074
     }
   ],
   "isMultinational": false,
-  "facebookId": "jiga3d"
+  "isActive": true
 }

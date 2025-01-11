@@ -6,21 +6,26 @@
   "logoFile": "logos/cato_networks-logo.webp",
   "websiteUrl": "https://www.catonetworks.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cato-networks",
+  "linkedinNum": 3533853,
   "crunchbaseId": null,
+  "ivcId": "A1000000185057",
   "finderId": "cato-networks",
   "xId": "catonetworks",
+  "facebookId": "CatoNetworks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.072032,
-      "lon": 34.788987
+      "city": "בני ברק",
+      "lat": 32.093423,
+      "lon": 34.832177
     }
   ],
   "isMultinational": false,
-  "facebookId": "CatoNetworks",
-  "linkedinNum": 3533853
+  "isActive": true
 }

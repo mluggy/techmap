@@ -6,20 +6,26 @@
   "logoFile": "logos/ar_51-logo.webp",
   "websiteUrl": "https://www.ar-51.com/",
   "careersUrl": "https://www.ar-51.com/careers",
-  "isHiring": true,
   "linkedinId": "ar-51",
+  "linkedinNum": 28388989,
   "crunchbaseId": null,
+  "ivcId": "A1000000298008",
   "finderId": "ar-51",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ילין מור נתן",
+      "street": "נתן ילין מור",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.071021447993,
-      "lon": 34.791313379235014
+      "city": "תל אביב-יפו",
+      "lat": 32.0708216,
+      "lon": 34.7913241
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28388989
+  "isActive": true
 }

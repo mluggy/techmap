@@ -1,16 +1,22 @@
 {
   "name": "Airosphera",
-  "description": "Personalized Air-purifying Solutions",
+  "description": "Personalized Air-purifying Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/airosphera-logo.webp",
   "websiteUrl": "https://www.airosphera.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "airosphera",
+  "linkedinNum": 88442050,
   "crunchbaseId": "airosphera",
+  "ivcId": "A1000000418433",
   "finderId": "airosphera",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 88442050
+  "isActive": true
 }

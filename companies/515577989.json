@@ -1,24 +1,31 @@
 {
   "name": "CloudERP Systems",
-  "description": "Cloud-based Procurement Management and Financial Control",
+  "description": "CloudERP by CloudERP Systems, works in the SaaS model – using software as a service.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/cloud_erp_systems-logo.webp",
-  "websiteUrl": "https://procee.io",
+  "websiteUrl": "http://clouderp.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "clouderp",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000224432",
   "finderId": "clouderp-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריק איינשטיין",
-      "houseNumber": 53,
+      "street": "הרב צבאן",
+      "houseNumber": 54,
       "city": "נתיבות",
-      "lat": 31.437149721266966,
-      "lon": 34.58297681745415
+      "lat": 31.41746199999999,
+      "lon": 34.577672
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

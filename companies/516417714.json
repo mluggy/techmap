@@ -1,16 +1,22 @@
 {
   "name": "Provengo",
-  "description": "Automatic Test Scenario Generation",
+  "description": "Automatic Test Scenario Generation.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/provengo_technologies-logo.webp",
   "websiteUrl": "https://provengo.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "provengotechnologies",
+  "linkedinNum": 68861303,
   "crunchbaseId": null,
+  "ivcId": "A1000000323824",
   "finderId": "provengo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפרדס",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68861303
+  "isActive": true
 }

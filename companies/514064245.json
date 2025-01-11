@@ -6,22 +6,26 @@
   "logoFile": "logos/w_s_c_sports_technologies-logo.webp",
   "websiteUrl": "https://wsc-sports.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wsc-sports-technologies",
+  "linkedinNum": 10409556,
   "crunchbaseId": "w-s-c-sports",
+  "ivcId": "A1000000020311",
   "finderId": "w-s-c-sports-technologies",
   "xId": "wsc_sports",
+  "facebookId": "WSC.SportsTechnologies",
+  "breezyId": null,
+  "comeetId": "wsc-sports/93.007",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבא הלל סילבר",
-      "houseNumber": 21,
+      "street": "החילזון",
+      "houseNumber": 9,
       "city": "רמת גן",
-      "lat": 32.0907362,
-      "lon": 34.8119048
+      "lat": 32.0866039,
+      "lon": 34.8046374
     }
   ],
   "isMultinational": false,
-  "facebookId": "WSC.SportsTechnologies",
-  "linkedinNum": 10409556,
-  "comeetId": "wsc-sports/93.007"
+  "isActive": true
 }

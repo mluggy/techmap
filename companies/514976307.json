@@ -3,23 +3,29 @@
   "description": "Developer of advanced mobility technologies designed for the disabled, ensuring safe and versatile positioning through patented innovations.",
   "categoryId": 15,
   "size": "xs",
-  "logoFile": "logos/upnride_robotics-logo.webp",
+  "logoFile": "logos/upnride-robotics-logo.webp",
   "websiteUrl": "https://upnride.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "upnride",
+  "linkedinNum": 53421573,
   "crunchbaseId": null,
+  "ivcId": "A1000000175091",
   "finderId": "upnride-robotics",
   "xId": null,
+  "facebookId": "upnride",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
       "houseNumber": 3,
-      "city": "יקנעם עילית",
-      "lat": 32.6578027,
-      "lon": 35.1002987
+      "city": "יוקנעם עילית",
+      "lat": 32.6624904,
+      "lon": 35.104787
     }
   ],
   "isMultinational": false,
-  "facebookId": "upnride"
+  "isActive": true
 }

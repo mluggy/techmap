@@ -6,21 +6,26 @@
   "logoFile": "logos/sweet_inn-logo.webp",
   "websiteUrl": "https://www.sweetinn.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sweetinn",
+  "linkedinNum": 9235235,
   "crunchbaseId": null,
+  "ivcId": "A1000000233436",
   "finderId": "sweet-inn",
   "xId": "sweet_inn",
+  "facebookId": "SweetinnTheNewTravelConcept",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קרן היסוד",
-      "houseNumber": 9,
+      "street": "הס",
+      "houseNumber": 4,
       "city": "ירושלים",
-      "lat": 31.7745745,
-      "lon": 35.2185477
+      "lat": 31.7757883,
+      "lon": 35.2212825
     }
   ],
   "isMultinational": false,
-  "facebookId": "SweetinnTheNewTravelConcept",
-  "linkedinNum": 9235235
+  "isActive": true
 }

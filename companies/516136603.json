@@ -6,21 +6,26 @@
   "logoFile": "logos/haat_delivery-logo.webp",
   "websiteUrl": "https://www.haat.delivery/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "haat-delivery",
+  "linkedinNum": 71233862,
   "crunchbaseId": null,
+  "ivcId": "A1000000351768",
   "finderId": "haat",
   "xId": null,
+  "facebookId": "HAATAPP",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 45,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.819776250000004,
-      "lon": 34.9988252
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
   "isMultinational": false,
-  "facebookId": "HAATAPP",
-  "linkedinNum": 71233862
+  "isActive": true
 }

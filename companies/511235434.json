@@ -6,21 +6,26 @@
   "logoFile": "logos/camtek-logo.webp",
   "websiteUrl": "https://www.camtek.com/",
   "careersUrl": "https://www.camtek.com/careers/working-at-camtek/",
-  "isHiring": true,
   "linkedinId": "camtek",
+  "linkedinNum": 18016,
   "crunchbaseId": null,
+  "ivcId": "A1000000005001",
   "finderId": "camtek",
   "xId": null,
+  "facebookId": "100027720836161",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אזור תעשיה רמת גבריא",
+      "street": null,
       "houseNumber": null,
       "city": "מגדל העמק",
-      "lat": 32.68780425753594,
-      "lon": 35.25347500593397
+      "lat": 32.691944,
+      "lon": 35.252617
     }
   ],
   "isMultinational": false,
-  "facebookId": "100027720836161",
-  "linkedinNum": 18016
+  "isActive": true
 }

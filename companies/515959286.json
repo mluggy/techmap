@@ -6,20 +6,26 @@
   "logoFile": "logos/mrgranita-logo.webp",
   "websiteUrl": "https://www.mrgranita.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mrgranita",
+  "linkedinNum": 34655074,
   "crunchbaseId": null,
+  "ivcId": "A1000000310939",
   "finderId": "mrgranita",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן גוריון דוד",
-      "houseNumber": 1,
-      "city": "בני ברק",
-      "lat": 32.0955779,
-      "lon": 34.8219534
+      "street": "העבודה",
+      "houseNumber": 11,
+      "city": "ראש העין",
+      "lat": 32.1067878,
+      "lon": 34.9405444
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 34655074
+  "isActive": true
 }

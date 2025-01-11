@@ -6,19 +6,26 @@
   "logoFile": "logos/cyera-logo.webp",
   "websiteUrl": "https://www.cyera.io/",
   "careersUrl": "https://www.cyera.io/careers",
-  "isHiring": true,
   "linkedinId": "cyera",
+  "linkedinNum": 46817148,
   "crunchbaseId": null,
+  "ivcId": "A1000000379004",
   "finderId": "cyera",
   "xId": "cyera_io",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
-      "houseNumber": 166,
-      "city": "תל אביב - יפו",
-      "lat": 32.091261,
-      "lon": 34.783164
+      "street": "ליאונרדו דה וינצ'י",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.072117,
+      "lon": 34.7848868
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

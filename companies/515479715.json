@@ -1,26 +1,31 @@
 {
   "name": "ALTA INNOVATION",
-  "description": "Drone Solutions for Agriculture",
+  "description": "Drone Solutions for Agriculture.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/alta_innovation-logo.webp",
   "websiteUrl": "https://www.alta.team",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "alta-innovation",
+  "linkedinNum": 19056476,
   "crunchbaseId": null,
+  "ivcId": "A1000000302385",
   "finderId": "alta-innovation1",
   "xId": null,
+  "facebookId": "AltaInnovationLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מרים החשמונאית",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
-      "lat": 32.091106,
-      "lon": 34.78353
+      "city": "תל אביב-יפו",
+      "lat": 32.0910539,
+      "lon": 34.7835847
     }
   ],
   "isMultinational": false,
-  "facebookId": "AltaInnovationLTD",
-  "linkedinNum": 19056476
+  "isActive": true
 }

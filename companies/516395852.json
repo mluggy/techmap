@@ -1,0 +1,31 @@
+{
+  "name": "Labrador",
+  "description": "Labrador is a developer of a noninvasive pre-diabetes testing device, designed to help prevent diabetes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/labrador-logo.webp",
+  "websiteUrl": "https://www.labradorhealth.com",
+  "careersUrl": "https://www.labradorhealth.com/join-us",
+  "linkedinId": "labrador-health",
+  "linkedinNum": 82635516,
+  "crunchbaseId": null,
+  "ivcId": "A1000000416709",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קרליבך",
+      "houseNumber": 31,
+      "city": "תל אביב-יפו",
+      "lat": 32.0692448,
+      "lon": 34.7827092
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,16 +1,31 @@
 {
   "name": "Riosol",
-  "description": "Documentation of Greenhouse Cultivation and Activity in Post Harvest",
+  "description": "Documentation of Greenhouse Cultivation and Activity in Post Harvest.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/riosol-logo.webp",
   "websiteUrl": "https://www.riosolltd.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "riosol-data-base-profit",
+  "linkedinNum": 74052441,
   "crunchbaseId": null,
+  "ivcId": "A1000000268285",
   "finderId": "riosol",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "ניצנים",
+      "lat": 31.717845,
+      "lon": 34.634636
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

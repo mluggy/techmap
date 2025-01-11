@@ -6,12 +6,17 @@
   "logoFile": "logos/harmon-ie.webp",
   "websiteUrl": "https://www.harmon.ie",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 1885004,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "harmon-ie",
   "xId": "teamharmonie",
   "facebookId": "teamharmonie",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות דם המכבים",
@@ -21,5 +26,6 @@
       "lon": 35.00659875157288
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

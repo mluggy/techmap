@@ -1,24 +1,31 @@
 {
   "name": "KA Dynamic Color",
-  "description": "Low-energy Digital Outdoor Billboards",
+  "description": "Low-energy Digital Outdoor Billboards.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ka_dynamic_color-logo.webp",
   "websiteUrl": "https://www.ka-dynamiccolor.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000001680",
   "finderId": "ka-dynamic-color",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צור צור יגאל",
-      "houseNumber": 8,
-      "city": "צור יגאל",
-      "lat": 32.2149108,
-      "lon": 34.9891577
+      "street": "יגור",
+      "houseNumber": 2,
+      "city": "חיפה",
+      "lat": 32.7971167,
+      "lon": 35.01943850000001
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

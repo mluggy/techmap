@@ -1,0 +1,31 @@
+{
+  "name": "GTWork",
+  "description": "GTWork developed a platform for today’s employers and employees.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/gtwork-logo.webp",
+  "websiteUrl": "http://www.gtwork.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000294696",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נפתלי הלל",
+      "houseNumber": 3,
+      "city": "ראשון לציון",
+      "lat": 31.962986,
+      "lon": 34.802085
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

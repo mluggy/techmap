@@ -6,12 +6,17 @@
   "logoFile": "logos/ozzystory.webp",
   "websiteUrl": "https://ozzystory.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "ozzystory",
   "linkedinNum": 86321418,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ozzystory",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תלתן",
@@ -21,5 +26,6 @@
       "lon": 34.73381007195227
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "LMY R&D",
+  "description": "LMY R&D  is a knowledge-based company, providing scientific and technological solutions in the fields of photogrammetry, image processing, computer vision, mapping, navigation and spatial information technologies.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/lmy-r-d-logo.webp",
+  "websiteUrl": "http://www.lmy.co.il",
+  "careersUrl": null,
+  "linkedinId": "lmy-r&d",
+  "linkedinNum": 5322034,
+  "crunchbaseId": null,
+  "ivcId": "A1000000178873",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 21,
+      "city": "בני ברק",
+      "lat": 32.0936962,
+      "lon": 34.8232792
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

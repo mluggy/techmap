@@ -1,16 +1,22 @@
 {
   "name": "We Go Vision",
-  "description": "Wearable Navigation System for the Blind and Visually Impaired",
+  "description": "Wearable Navigation System for the Blind and Visually Impaired.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/we_go_vision-logo.webp",
   "websiteUrl": "https://www.vidi2see.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000253379",
   "finderId": "we-go-vision-ltd",
   "xId": null,
+  "facebookId": "ceo.vidi2see",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מולדת",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ceo.vidi2see"
+  "isActive": true
 }

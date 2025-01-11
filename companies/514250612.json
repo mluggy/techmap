@@ -6,21 +6,26 @@
   "logoFile": "logos/centrical_software-logo.webp",
   "websiteUrl": "https://centrical.com/",
   "careersUrl": "https://centrical.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "centrical",
+  "linkedinNum": 26272300,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gameffective",
   "xId": "centrical",
+  "facebookId": "Centrical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הנשיא",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1171605,
       "lon": 34.7947893
     }
   ],
   "isMultinational": false,
-  "facebookId": "Centrical",
-  "linkedinNum": 26272300
+  "isActive": true
 }

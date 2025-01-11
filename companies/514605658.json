@@ -6,11 +6,17 @@
   "logoFile": "logos/medlife-logo.webp",
   "websiteUrl": "https://www.medlife.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000293855",
   "finderId": "medlife",
   "xId": null,
+  "facebookId": "Medlife-Advanced-Medical-Solutions-799152143797804",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההגנה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Medlife-Advanced-Medical-Solutions-799152143797804"
+  "isActive": true
 }

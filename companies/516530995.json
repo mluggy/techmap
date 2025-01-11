@@ -6,21 +6,26 @@
   "logoFile": "logos/boardish-logo.webp",
   "websiteUrl": "https://www.boardish.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 47974687,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "boardish",
   "xId": "SpeakBoardish",
+  "facebookId": "SpeakBoardish",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אשכול לוי",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0993918,
       "lon": 34.7905652
     }
   ],
   "isMultinational": false,
-  "facebookId": "SpeakBoardish",
-  "linkedinNum": 47974687
+  "isActive": true
 }

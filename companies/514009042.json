@@ -1,16 +1,22 @@
 {
   "name": "Advinion",
-  "description": "Industry-specific SaaS Solutions",
+  "description": "Industry-specific SaaS Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/advinion-logo.webp",
   "websiteUrl": "https://www.prochartview.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "advinion",
+  "linkedinNum": 3337302,
   "crunchbaseId": null,
+  "ivcId": "A1000000008047",
   "finderId": "advinion",
   "xId": "tradeandchart",
+  "facebookId": "prochartview",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עין חי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "prochartview",
-  "linkedinNum": 3337302
+  "isActive": true
 }

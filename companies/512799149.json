@@ -1,26 +1,31 @@
 {
   "name": "Callflow Software",
-  "description": "In-store Customer Experience Solutions",
+  "description": "Q-nomy is a leading software vendor providing solutions that optimize true omnichannel digital and physical business processes and customer journeys.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/callflow_software-logo.webp",
-  "websiteUrl": "https://www.qnomy.com",
+  "websiteUrl": "http://www.callflow.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "q-nomy-inc-",
+  "linkedinNum": 1471847,
   "crunchbaseId": null,
+  "ivcId": "A1000000003405",
   "finderId": "callflow-software-ltd",
   "xId": "QnomyInc",
+  "facebookId": "callflowsoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריב\"ל",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.062831,
-      "lon": 34.782228
+      "city": "תל אביב-יפו",
+      "lat": 32.0629028,
+      "lon": 34.7822646
     }
   ],
   "isMultinational": false,
-  "facebookId": "callflowsoftware",
-  "linkedinNum": 1471847
+  "isActive": true
 }

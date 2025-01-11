@@ -1,16 +1,22 @@
 {
   "name": "Circuit-Bio",
-  "description": "Platform of Logical Gene Circuits for Cancer Immunotherapy",
+  "description": "Circuit Bio is a synthetic biology company developing an innovative unique platform of logical gene circuits for cancer immunotherapy.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/circuit_bio-logo.webp",
-  "websiteUrl": "https://www.futurx.co.il/portfolio/circuit-bio/",
+  "logoFile": "logos/circuit-bio-logo.webp",
+  "websiteUrl": "https://circuitbiotech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "circuit-bio-ltd",
+  "linkedinNum": 72431312,
   "crunchbaseId": "circuit-bio",
+  "ivcId": "A1000000336859",
   "finderId": "circuit-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -20,5 +26,6 @@
       "lon": 34.80439671200948
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

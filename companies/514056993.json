@@ -6,20 +6,26 @@
   "logoFile": "logos/two_to_biotech-logo.webp",
   "websiteUrl": "https://www.twotobiotech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "twotobiotech",
+  "linkedinNum": 2619390,
   "crunchbaseId": null,
+  "ivcId": "A1000000200331",
   "finderId": "twotobiotech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד נוה יעקב",
-      "houseNumber": 508,
-      "city": "ירושלים",
-      "lat": 31.838088837778145,
-      "lon": 35.23681366068502
+      "street": "Sderot Neve Ya'akov",
+      "houseNumber": null,
+      "city": "Jerusalem",
+      "lat": 31.8379589,
+      "lon": 35.2339183
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2619390
+  "isActive": true
 }

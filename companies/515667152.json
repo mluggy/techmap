@@ -6,11 +6,17 @@
   "logoFile": "logos/aneuscreen-logo.webp",
   "websiteUrl": "https://www.aneuscreen.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "aneuscreen",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שז\"ר זלמן",
@@ -19,5 +25,7 @@
       "lat": 32.2782623,
       "lon": 34.849867
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

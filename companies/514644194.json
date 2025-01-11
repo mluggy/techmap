@@ -6,20 +6,26 @@
   "logoFile": "logos/gsi_technology_israel-logo.webp",
   "websiteUrl": "https://gsitechnology.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gsi-technology",
+  "linkedinNum": 49148,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gsi-technology",
   "xId": "gsitechnology",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.109636,
       "lon": 34.837396
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 49148
+  "isMultinational": false,
+  "isActive": true
 }

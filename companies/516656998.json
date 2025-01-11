@@ -6,11 +6,17 @@
   "logoFile": "logos/oncoredox-logo.webp",
   "websiteUrl": "https://www.oncoredox.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "oncoredox",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתניהו יהונתן",
@@ -19,5 +25,7 @@
       "lat": 32.0219296,
       "lon": 34.8566055
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

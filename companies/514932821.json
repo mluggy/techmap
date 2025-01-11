@@ -1,26 +1,31 @@
 {
   "name": "ParaZero",
-  "description": "Aerial Drone Parachutes and Safety Systems",
+  "description": "Aerial Drone Parachutes and Safety Systems.",
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/parazero_technologies-logo.webp",
   "websiteUrl": "https://parazero.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "parazero",
+  "linkedinNum": 5334645,
   "crunchbaseId": null,
+  "ivcId": "A1000000200998",
   "finderId": "parazero",
   "xId": "parazerodrones",
+  "facebookId": "ParaZero-Drone-Safety-Systems-994190807344519",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דב הוז",
       "houseNumber": 30,
-      "city": "קריית אונו",
-      "lat": 32.0586318,
-      "lon": 34.8515517
+      "city": "קרית אונו",
+      "lat": 32.0580519,
+      "lon": 34.8510305
     }
   ],
   "isMultinational": false,
-  "facebookId": "ParaZero-Drone-Safety-Systems-994190807344519",
-  "linkedinNum": 5334645
+  "isActive": true
 }

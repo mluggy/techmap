@@ -6,21 +6,26 @@
   "logoFile": "logos/houzz-logo.webp",
   "websiteUrl": "https://www.houzz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1355951,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "houzz",
   "xId": "houzz",
+  "facebookId": "houzz",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "houzz",
-  "linkedinNum": 1355951
+  "isActive": true
 }

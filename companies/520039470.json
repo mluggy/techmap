@@ -1,0 +1,31 @@
+{
+  "name": "XTL",
+  "description": "XTL is an IP portfolio company.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/xtl-logo.webp",
+  "websiteUrl": "http://www.xtlbio.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000008517",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות שאול המלך",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0753059,
+      "lon": 34.7839623
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

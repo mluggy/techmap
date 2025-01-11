@@ -1,25 +1,31 @@
 {
   "name": "UET",
-  "description": "Chemical-free Water Treatment Systems",
+  "description": "Chemical-free Water Treatment Systems.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/uet.webp",
   "websiteUrl": "https://www.uet.co.il/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "uet-recycling-industrial-water-ltd-",
   "linkedinNum": 3291433,
   "crunchbaseId": null,
+  "ivcId": "A1000000004385",
   "finderId": "uet",
   "xId": null,
   "facebookId": "uet.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
-      "houseNumber": 7,
-      "city": "רמת גן",
-      "lat": 32.0930741594021,
-      "lon": 34.827266154306734
+      "street": "עומרים",
+      "houseNumber": 29,
+      "city": "עומר",
+      "lat": 31.2745833,
+      "lon": 34.8331324
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

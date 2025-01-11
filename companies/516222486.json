@@ -6,20 +6,26 @@
   "logoFile": "logos/pentaomix-logo.webp",
   "websiteUrl": "https://pentaomix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pentaomix",
+  "linkedinNum": 14797434,
   "crunchbaseId": "pentaomix",
+  "ivcId": "A1000000299666",
   "finderId": "pentaomix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כרמל",
-      "houseNumber": 52,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.9084672,
-      "lon": 34.8216613
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14797434
+  "isActive": true
 }

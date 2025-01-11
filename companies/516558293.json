@@ -1,16 +1,22 @@
 {
   "name": "Tarya",
-  "description": "Peer-to-peer Lending Platform",
+  "description": "Peer-to-peer Lending Platform.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/tarya_credit-logo.webp",
   "websiteUrl": "https://www.tarya.co.il",
   "careersUrl": "https://www.taryafintech.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "tarya-p2p-lending---israel",
+  "linkedinNum": 5243255,
   "crunchbaseId": "tarya",
+  "ivcId": "A1000000176536",
   "finderId": "tarya",
   "xId": "TaryaFintech",
+  "facebookId": "taryap2p",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "taryap2p",
-  "linkedinNum": 5243255
+  "isActive": true
 }

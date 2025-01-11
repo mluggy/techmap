@@ -6,12 +6,17 @@
   "logoFile": "logos/icv1.webp",
   "websiteUrl": "https:////",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 10943887,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "icv1",
   "xId": "get_icv",
   "facebookId": "getICVil",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דולב",
@@ -21,5 +26,6 @@
       "lon": 34.881293353582656
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

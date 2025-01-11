@@ -6,21 +6,26 @@
   "logoFile": "logos/largix_tech-logo.webp",
   "websiteUrl": "https://largix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "largix-tech",
+  "linkedinNum": 31403323,
   "crunchbaseId": "largix",
+  "ivcId": "A1000000203524",
   "finderId": "largix",
   "xId": "LargixTech",
+  "facebookId": "LargixTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צור צור יגאל",
+      "street": "צור",
       "houseNumber": 8,
-      "city": "צור יגאל",
-      "lat": 32.2149108,
-      "lon": 34.9891577
+      "city": "כוכב יאיר צור יגאל",
+      "lat": 32.2191573,
+      "lon": 34.9824814
     }
   ],
   "isMultinational": false,
-  "facebookId": "LargixTech",
-  "linkedinNum": 31403323
+  "isActive": true
 }

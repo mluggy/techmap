@@ -6,21 +6,26 @@
   "logoFile": "logos/joyvoo-logo.webp",
   "websiteUrl": "https://joyvoo.com/",
   "careersUrl": "https://joyvoo.com/jobs/",
-  "isHiring": true,
   "linkedinId": "joyvoo",
+  "linkedinNum": 37170873,
   "crunchbaseId": null,
+  "ivcId": "A1000000324427",
   "finderId": "joyvoo",
   "xId": null,
+  "facebookId": "joyvoo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 18,
       "city": "נתניה",
-      "lat": 32.27985305,
-      "lon": 34.858477541008384
+      "lat": 32.2800883,
+      "lon": 34.8589841
     }
   ],
   "isMultinational": false,
-  "facebookId": "joyvoo",
-  "linkedinNum": 37170873
+  "isActive": true
 }

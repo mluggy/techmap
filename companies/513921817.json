@@ -1,0 +1,31 @@
+{
+  "name": "GoMDweb",
+  "description": "GoMDweb provides a comprehensive digital presence solution for medical and dental practices: social networking (including Facebook and Twitter), web site, email newsletters, analytics, on-line appointment requests and reputation protection.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/gomdweb-logo.webp",
+  "websiteUrl": "http://gomdweb.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000181438",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שבט בנימין",
+      "houseNumber": 17,
+      "city": "גבעת זאב",
+      "lat": 31.8639592,
+      "lon": 35.16990699999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

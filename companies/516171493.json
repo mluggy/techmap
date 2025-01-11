@@ -1,0 +1,31 @@
+{
+  "name": "TexterChat",
+  "description": "TexterChat develops a smart bot that gives an initial and quick response to customers, verifies and routes the call to the appropriate representative.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/texterchat-logo.webp",
+  "websiteUrl": "https://texterchat.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000348471",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 22,
+      "city": "רמת גן",
+      "lat": 32.0813285,
+      "lon": 34.8094286
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

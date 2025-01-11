@@ -1,26 +1,31 @@
 {
   "name": "OpenSpec",
-  "description": "Website Data Collection Preferences",
+  "description": "Website Data Collection Preferences.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/openspec_software_labs-logo.webp",
   "websiteUrl": "https://about.openspec.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "openspec-io",
+  "linkedinNum": 79418518,
   "crunchbaseId": null,
+  "ivcId": "A1000000396098",
   "finderId": "openspec",
   "xId": "openspecio",
+  "facebookId": "openspec.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אחד העם",
-      "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.06378,
-      "lon": 34.769659
+      "street": "האילנות‬‎",
+      "houseNumber": 14,
+      "city": "צופית",
+      "lat": 32.1958742,
+      "lon": 34.9181083
     }
   ],
   "isMultinational": false,
-  "facebookId": "openspec.io",
-  "linkedinNum": 79418518
+  "isActive": true
 }

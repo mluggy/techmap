@@ -6,11 +6,17 @@
   "logoFile": "logos/katif_tech-logo.webp",
   "websiteUrl": "https://www.katif.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 35630047,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "katif",
   "xId": null,
+  "facebookId": "KatifTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית אשל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "KatifTech",
-  "linkedinNum": 35630047
+  "isActive": true
 }

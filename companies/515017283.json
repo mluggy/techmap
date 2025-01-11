@@ -6,21 +6,26 @@
   "logoFile": "logos/shapedo-logo.webp",
   "websiteUrl": "https://shapedo.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "shapedo",
+  "linkedinNum": 5015898,
   "crunchbaseId": null,
+  "ivcId": "A1000000024098",
   "finderId": "shapedo",
   "xId": "shape_do",
+  "facebookId": "shapedo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נחליאלי",
+      "street": "נחליאלי‬‎",
       "houseNumber": 18,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.8953961,
-      "lon": 34.9927446
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8954593,
+      "lon": 34.9921574
     }
   ],
   "isMultinational": false,
-  "facebookId": "shapedo",
-  "linkedinNum": 5015898
+  "isActive": true
 }

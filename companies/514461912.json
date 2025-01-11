@@ -1,0 +1,31 @@
+{
+  "name": "Stargo",
+  "description": "Stargo is an artificial intelligence-based pricing optimization and shipment automation platform, designed to eliminate freight pricing, placement and shipping inefficiencies, focusing on: conversion of unstructured to structured data, optimizing pricing of shipment via air, sea and/or road, optimizing proposal generation, shipment creation automation – into operational ERP and guaranteed payment and reconciliation.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/stargo-logo.webp",
+  "websiteUrl": "https://www.stargo.co",
+  "careersUrl": null,
+  "linkedinId": "stargo-co",
+  "linkedinNum": 18130621,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010685",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הסדנא",
+      "houseNumber": 8,
+      "city": "רעננה",
+      "lat": 32.1942961,
+      "lon": 34.8786067
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

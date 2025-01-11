@@ -1,26 +1,31 @@
 {
   "name": "Eternix",
-  "description": "Geospatial Visualization Products and Solutions",
+  "description": "Geospatial Visualization Products and Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/eternix-logo.webp",
   "websiteUrl": "https://eternix.co.il",
   "careersUrl": "https://eternix.co.il/careers",
-  "isHiring": true,
   "linkedinId": "eternix-ltd",
+  "linkedinNum": 18563422,
   "crunchbaseId": null,
+  "ivcId": "A1000000003567",
   "finderId": "eternix",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גבעת התחמושת",
-      "houseNumber": null,
-      "city": "תל אביב - יפו",
-      "lat": 32.0730257,
-      "lon": 34.7925411
+      "street": "דרך מנחם בגין",
+      "houseNumber": 134,
+      "city": "תל אביב-יפו",
+      "lat": 32.0750015,
+      "lon": 34.7919276
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 18563422
+  "isActive": true
 }

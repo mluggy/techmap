@@ -1,26 +1,31 @@
 {
   "name": "BitMint",
-  "description": "BitMint revolutionizes cyberspace living with innovative solutions in digital money, security, privacy, and identity management, driven by advanced high-grade randomness technology.",
-  "categoryId": 10,
+  "description": "BitMint is dedicated to making a positive impact on the world through its innovative technologies.",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/bit_mint-logo.webp",
-  "websiteUrl": "https://bitmint.com/",
+  "websiteUrl": "https://www.bitmintcash.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bitmint",
+  "linkedinNum": 33245624,
   "crunchbaseId": null,
+  "ivcId": "A1000000022795",
   "finderId": "bitmint",
   "xId": "BitMintNews",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יערי מאיר",
+      "street": "מאיר יערי",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
-      "lat": 32.100022,
-      "lon": 34.787157
+      "city": "תל אביב-יפו",
+      "lat": 32.1001096,
+      "lon": 34.7872208
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 33245624
+  "isActive": true
 }

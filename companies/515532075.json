@@ -6,11 +6,17 @@
   "logoFile": "logos/project_map-logo.webp",
   "websiteUrl": "https://www.proggio.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "proggio",
+  "linkedinNum": 17997454,
   "crunchbaseId": null,
+  "ivcId": "A1000000261375",
   "finderId": "project-map",
   "xId": "proggiodotcom",
+  "facebookId": "ProggioApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התע\"ש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ProggioApp",
-  "linkedinNum": 17997454
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/append_medical-logo.webp",
   "websiteUrl": "https://appendmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "append-medical",
+  "linkedinNum": 30743186,
   "crunchbaseId": "append-medical",
+  "ivcId": "A1000000235853",
   "finderId": "append-medical",
   "xId": "appendmedical",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבי ואביב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 30743186
+  "isActive": true
 }

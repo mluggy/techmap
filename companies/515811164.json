@@ -6,21 +6,26 @@
   "logoFile": "logos/advanscreen-logo.webp",
   "websiteUrl": "https://advanscreen.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "advanscreen",
+  "linkedinNum": 28180269,
   "crunchbaseId": null,
+  "ivcId": "A1000000257181",
   "finderId": "advanscreen",
   "xId": null,
+  "facebookId": "Advanscreen-ltd-906312392882273",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יפה נוף",
-      "houseNumber": 3,
-      "city": "גבעתיים",
-      "lat": 32.078651699999995,
-      "lon": 34.81130466803333
+      "street": "נוף",
+      "houseNumber": null,
+      "city": "חרות",
+      "lat": 32.240172,
+      "lon": 34.910342
     }
   ],
   "isMultinational": false,
-  "facebookId": "Advanscreen-ltd-906312392882273",
-  "linkedinNum": 28180269
+  "isActive": true
 }

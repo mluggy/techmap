@@ -6,20 +6,26 @@
   "logoFile": "logos/blyp_ecommerce-logo.webp",
   "websiteUrl": "https://www.blyp.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "blypai",
+  "linkedinNum": 75449580,
   "crunchbaseId": "blyp",
+  "ivcId": null,
   "finderId": "blyp",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "1331",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.8248576,
       "lon": 34.9889068
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75449580
+  "isActive": true
 }

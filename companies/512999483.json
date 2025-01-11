@@ -6,11 +6,17 @@
   "logoFile": "logos/medic_nrg-logo.webp",
   "websiteUrl": "https://medicnrg.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000172951",
   "finderId": "medicnrg",
   "xId": "medicnrg_us",
+  "facebookId": "MedicNRG-Digital-Apex-Locators-240331389385698",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העמל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MedicNRG-Digital-Apex-Locators-240331389385698"
+  "isActive": true
 }

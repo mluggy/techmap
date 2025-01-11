@@ -1,0 +1,31 @@
+{
+  "name": "TreeX",
+  "description": "In stealth mode.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/treex-logo.webp",
+  "websiteUrl": "https://treex-robotics.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000471591",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שונית",
+      "houseNumber": 16,
+      "city": "חופית",
+      "lat": 32.3828846,
+      "lon": 34.8691702
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

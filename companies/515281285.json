@@ -1,25 +1,31 @@
 {
   "name": "Nobio",
-  "description": "Advanced Antimicrobial Solutions for Medical, Dental, and Consumer Products",
+  "description": "Advanced Antimicrobial Solutions for Medical, Dental, and Consumer Products.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/nobio-logo.webp",
   "websiteUrl": "https://www.nobio.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nobio",
+  "linkedinNum": 28606342,
   "crunchbaseId": null,
+  "ivcId": "A1000000202015",
   "finderId": "nobio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המתכת",
       "houseNumber": 8,
-      "city": "קדימה",
-      "lat": 32.2754966,
-      "lon": 34.9222268
+      "city": "קדימה צורן",
+      "lat": 32.2761077,
+      "lon": 34.9228147
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28606342
+  "isActive": true
 }

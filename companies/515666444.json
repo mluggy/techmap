@@ -6,21 +6,26 @@
   "logoFile": "logos/optomechanic_cube-logo.webp",
   "websiteUrl": "https://www.3doptix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "3doptix",
+  "linkedinNum": 18406718,
   "crunchbaseId": null,
+  "ivcId": "A1000000264638",
   "finderId": "optomechanic-cube",
   "xId": "Doptix3",
+  "facebookId": "3doptix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פלאוט מנחם",
-      "houseNumber": 4,
-      "city": "רחובות",
-      "lat": 31.9123672,
-      "lon": 34.8067898
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "3doptix",
-  "linkedinNum": 18406718
+  "isActive": true
 }

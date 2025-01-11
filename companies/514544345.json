@@ -6,21 +6,26 @@
   "logoFile": "logos/orca_surgical-logo.webp",
   "websiteUrl": "https://www.orcasurgical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "orca-surgical",
+  "linkedinNum": 2467748,
   "crunchbaseId": null,
+  "ivcId": "A1000000010276",
   "finderId": "orca-surgical",
   "xId": "orca_surgical",
+  "facebookId": "Orcasurgical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תרשיש-פארק התעשייה",
+      "street": "תרשיש פארק התעשייה",
       "houseNumber": 5,
       "city": "קיסריה",
-      "lat": 32.4879599,
-      "lon": 34.9040366
+      "lat": 32.4841974,
+      "lon": 34.9470022
     }
   ],
   "isMultinational": false,
-  "facebookId": "Orcasurgical",
-  "linkedinNum": 2467748
+  "isActive": true
 }

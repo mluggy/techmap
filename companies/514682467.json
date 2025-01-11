@@ -1,25 +1,31 @@
 {
   "name": "Finyx Quants",
-  "description": "Algorithms for Traders",
-  "categoryId": 10,
+  "description": "Fingenom is an innovative and engaging algo-trading company, established by former elite intelligence units algorithm experts and developers.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/finyx_quants-logo.webp",
-  "websiteUrl": "https://finyx.io/",
+  "websiteUrl": "http://www.fingen.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "finyxquant",
+  "linkedinNum": 3315906,
   "crunchbaseId": null,
+  "ivcId": "A1000000023821",
   "finderId": "fingenom",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הטחנה",
-      "houseNumber": 1,
-      "city": "כפר סבא",
-      "lat": 32.1727607,
-      "lon": 34.8930781
+      "street": "הפנינה",
+      "houseNumber": 8,
+      "city": "רעננה",
+      "lat": 32.1756367,
+      "lon": 34.8892242
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3315906
+  "isActive": true
 }

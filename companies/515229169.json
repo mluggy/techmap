@@ -1,0 +1,31 @@
+{
+  "name": "BeetleSat",
+  "description": "BeetleSat, previously known as NSLComm, is a new LEO (Low Earth Orbit) constellation delivering truly global Ka-band connectivity for point to point secure communications, cellular backhaul, mobility and additional premium services, in the commercial and government sectors.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/beetlesat-logo.webp",
+  "websiteUrl": "https://beetlesat.com",
+  "careersUrl": null,
+  "linkedinId": "nslcomm",
+  "linkedinNum": 17914415,
+  "crunchbaseId": null,
+  "ivcId": "A1000000199213",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גולן",
+      "houseNumber": 1,
+      "city": "נתב\"ג",
+      "lat": 31.9879816,
+      "lon": 34.914164
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

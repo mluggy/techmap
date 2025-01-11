@@ -6,20 +6,26 @@
   "logoFile": "logos/vigor_medical_technologies-logo.webp",
   "websiteUrl": "https://vigormt.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vigor-medical-technologies-ltd-",
+  "linkedinNum": 10002346,
   "crunchbaseId": null,
+  "ivcId": "A1000000171167",
   "finderId": "vigor-medical-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "טבנקין יצחק",
-      "houseNumber": 16,
-      "city": "חיפה",
-      "lat": 32.7962296,
-      "lon": 35.008872
+      "street": "דרך בר יהודה",
+      "houseNumber": 52,
+      "city": "נשר",
+      "lat": 32.7774349,
+      "lon": 35.0390932
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10002346
+  "isActive": true
 }

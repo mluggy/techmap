@@ -6,11 +6,17 @@
   "logoFile": "logos/selfly_camera-logo.webp",
   "websiteUrl": "https://www.selfly.camera/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "selfly-camera",
   "xId": "SELfly_Camera",
+  "facebookId": "SelflyCameraOfficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SelflyCameraOfficial"
+  "isActive": true
 }

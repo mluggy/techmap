@@ -6,19 +6,26 @@
   "logoFile": "logos/tratix_intelligence-logo.webp",
   "websiteUrl": "https://www.tratix.online/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000423836",
   "finderId": "tratix-intelligence",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השוק",
       "houseNumber": 45,
-      "city": "תל אביב - יפו",
-      "lat": 32.056768,
-      "lon": 34.771416
+      "city": "תל אביב-יפו",
+      "lat": 32.0566633,
+      "lon": 34.7714549
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

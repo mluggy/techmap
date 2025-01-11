@@ -4,13 +4,19 @@
   "categoryId": 13,
   "size": "xs",
   "logoFile": "logos/phononia-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "http://phononia.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "phononia",
+  "linkedinNum": 42822343,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "phononia",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכהנים",
@@ -19,5 +25,7 @@
       "lat": 32.1533434,
       "lon": 34.8890498
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

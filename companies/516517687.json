@@ -6,11 +6,17 @@
   "logoFile": "logos/siasol_eyes-logo.webp",
   "websiteUrl": "https://siasol.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000418049",
   "finderId": "siasol-eyes",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עודד",
@@ -20,5 +26,6 @@
       "lon": 34.85189203569565
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

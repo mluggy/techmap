@@ -6,21 +6,26 @@
   "logoFile": "logos/umake_technologies-logo.webp",
   "websiteUrl": "https://www.umake.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3967632,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "umake",
   "xId": null,
+  "facebookId": "umake.xyz",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דיזנגוף",
       "houseNumber": 37,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074463,
       "lon": 34.776803
     }
   ],
   "isMultinational": false,
-  "facebookId": "umake.xyz",
-  "linkedinNum": 3967632
+  "isActive": true
 }

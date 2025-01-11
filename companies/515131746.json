@@ -6,21 +6,26 @@
   "logoFile": "logos/amarlane_foods-logo.webp",
   "websiteUrl": "https://www.amarlanefoods.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "amarlane-foods-ltd",
+  "linkedinNum": 10694753,
   "crunchbaseId": "amarlane-foods",
+  "ivcId": "A1000000225930",
   "finderId": "amarlane-foods",
   "xId": null,
+  "facebookId": "Amarlane-Foods-LTD-1870663039625808",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמב\"ם",
       "houseNumber": 16,
-      "city": "נהרייה",
-      "lat": 33.0091652,
-      "lon": 35.1087175
+      "city": "נהריה",
+      "lat": 33.0090527,
+      "lon": 35.1090521
     }
   ],
   "isMultinational": false,
-  "facebookId": "Amarlane-Foods-LTD-1870663039625808",
-  "linkedinNum": 10694753
+  "isActive": true
 }

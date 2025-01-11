@@ -6,20 +6,26 @@
   "logoFile": "logos/nebius_israel-logo.webp",
   "websiteUrl": "https://nebius.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nebius",
+  "linkedinNum": 85094346,
   "crunchbaseId": "nebius",
+  "ivcId": null,
   "finderId": "nebius",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0687595,
       "lon": 34.7939327
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 85094346
+  "isMultinational": false,
+  "isActive": true
 }

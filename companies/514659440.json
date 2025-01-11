@@ -6,21 +6,26 @@
   "logoFile": "logos/pazu_games-logo.webp",
   "websiteUrl": "https://pazugames.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pazu-games",
+  "linkedinNum": 27032265,
   "crunchbaseId": null,
+  "ivcId": "A1000000178413",
   "finderId": "pazu-games",
   "xId": null,
+  "facebookId": "pazugames",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצמיחה",
-      "houseNumber": 1,
-      "city": "יקנעם עילית",
-      "lat": 32.668888,
-      "lon": 35.107009
+      "street": "חורש האלונים",
+      "houseNumber": 12,
+      "city": "רמת ישי",
+      "lat": 32.7077883,
+      "lon": 35.1726158
     }
   ],
   "isMultinational": false,
-  "facebookId": "pazugames",
-  "linkedinNum": 27032265
+  "isActive": true
 }

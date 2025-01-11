@@ -6,18 +6,26 @@
   "logoFile": "logos/louie_7_ai-logo.webp",
   "websiteUrl": "https://localai.io/?ref=hackernoon.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "louie7-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
       "houseNumber": 105,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.087732,
       "lon": 34.785396
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

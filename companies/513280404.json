@@ -6,21 +6,26 @@
   "logoFile": "logos/gingerbit-logo.webp",
   "websiteUrl": "https://www.gingerbit.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 19099383,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gingerbit",
   "xId": null,
+  "facebookId": "Ginger.insurance",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.081313,
       "lon": 34.781527
     }
   ],
   "isMultinational": false,
-  "facebookId": "Ginger.insurance",
-  "linkedinNum": 19099383
+  "isActive": true
 }

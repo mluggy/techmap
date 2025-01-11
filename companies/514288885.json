@@ -6,21 +6,26 @@
   "logoFile": "logos/memed_diagnostics-logo.webp",
   "websiteUrl": "https://www.me-med.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "memed-dx",
+  "linkedinNum": 2500897,
   "crunchbaseId": null,
+  "ivcId": "A1000000021069",
   "finderId": "memed-diagnostic",
   "xId": "memeddx",
+  "facebookId": "Memed.diagnostics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חת נחום",
+      "street": "נחום חת",
       "houseNumber": 7,
-      "city": "טירת כרמל",
-      "lat": 32.7845356,
-      "lon": 34.9577195
+      "city": "חיפה",
+      "lat": 32.7837926,
+      "lon": 34.9604202
     }
   ],
   "isMultinational": false,
-  "facebookId": "Memed.diagnostics",
-  "linkedinNum": 2500897
+  "isActive": true
 }

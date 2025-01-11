@@ -1,16 +1,22 @@
 {
   "name": "Scope AR",
   "description": "A company enabling widespread access to expert skills on a large scale.",
-  "size": "l",
   "categoryId": 4,
+  "size": "l",
   "logoFile": "logos/scope_ar_israel-logo.webp",
   "websiteUrl": "https://www.scopear.com/",
   "careersUrl": "https://www.scopear.com/jobs",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 3596997,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "scope-ar",
   "xId": "ScopeAR",
+  "facebookId": "ScopeAR",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התאנה",
@@ -20,7 +26,6 @@
       "lon": 35.02665625898045
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ScopeAR",
-  "linkedinNum": 3596997
+  "isMultinational": false,
+  "isActive": true
 }

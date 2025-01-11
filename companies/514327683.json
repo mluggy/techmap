@@ -6,21 +6,26 @@
   "logoFile": "logos/salesforce_com_israel-logo.webp",
   "websiteUrl": "https://www.salesforce.com/",
   "careersUrl": "https://careers.salesforce.com/en/",
-  "isHiring": true,
   "linkedinId": "salesforce",
+  "linkedinNum": 3185,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "salesforce-com",
   "xId": "salesforceil",
+  "facebookId": "SalesforceIsraelRD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072746,
       "lon": 34.794968
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SalesforceIsraelRD",
-  "linkedinNum": 3185
+  "isMultinational": false,
+  "isActive": true
 }

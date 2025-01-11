@@ -6,21 +6,26 @@
   "logoFile": "logos/yoocan_technologies-logo.webp",
   "websiteUrl": "https://www.yoocanfind.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "yooocan-technologies-ltd.",
+  "linkedinNum": 7945854,
   "crunchbaseId": null,
+  "ivcId": "A1000000209134",
   "finderId": "yooocan",
   "xId": "yoocanconnect",
+  "facebookId": "yoocandoanything",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המסגר",
-      "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.062693,
-      "lon": 34.785424
+      "street": "רש\"י",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0719943,
+      "lon": 34.7720632
     }
   ],
   "isMultinational": false,
-  "facebookId": "yoocandoanything",
-  "linkedinNum": 7945854
+  "isActive": true
 }

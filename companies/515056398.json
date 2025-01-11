@@ -6,21 +6,26 @@
   "logoFile": "logos/coupon_roller-logo.webp",
   "websiteUrl": "https://www.couponroller.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "couponroller",
+  "linkedinNum": 5239558,
   "crunchbaseId": "couponroller",
+  "ivcId": "A1000000181551",
   "finderId": "couponroller",
   "xId": "couponroller",
+  "facebookId": "couponroller",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ערבי נחל",
-      "houseNumber": 13,
-      "city": "גבעתיים",
-      "lat": 32.078605,
-      "lon": 34.801065
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0833871,
+      "lon": 34.8037261
     }
   ],
   "isMultinational": false,
-  "facebookId": "couponroller",
-  "linkedinNum": 5239558
+  "isActive": true
 }

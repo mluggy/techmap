@@ -6,11 +6,17 @@
   "logoFile": "logos/vitec_video_innovations-logo.webp",
   "websiteUrl": "https://www.vitec.com/",
   "careersUrl": "https://www.vitec.com/about/careers",
-  "isHiring": true,
   "linkedinId": "vitec-multimedia",
+  "linkedinNum": 65922,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vitec",
   "xId": "Vitec_MM",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלגל הפלדה",
@@ -20,6 +26,6 @@
       "lon": 34.8071901
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 65922
+  "isMultinational": false,
+  "isActive": true
 }

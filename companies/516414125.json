@@ -1,25 +1,31 @@
 {
   "name": "Notch",
-  "description": "Insurance Products for Digital Assets",
+  "description": "Insurance Products for Digital Assets.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/notch-logo.webp",
   "websiteUrl": "https://www.get-notch.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "notch-insurance",
+  "linkedinNum": 80668746,
   "crunchbaseId": null,
+  "ivcId": "A1000000380184",
   "finderId": "notch",
   "xId": "NotchInsurance",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עין גנים",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.062983,
-      "lon": 34.768536
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80668746
+  "isActive": true
 }

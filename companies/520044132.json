@@ -6,20 +6,26 @@
   "logoFile": "logos/audiocodes-logo.webp",
   "websiteUrl": "https://www.audiocodes.com/",
   "careersUrl": "https://www.audiocodes.com/careers",
-  "isHiring": true,
   "linkedinId": "audiocodes",
+  "linkedinNum": 6054,
   "crunchbaseId": null,
+  "ivcId": "A1000000008439",
   "finderId": "audiocodes",
   "xId": "audiocodes",
+  "facebookId": "audiocodes",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עופרה חזה",
       "houseNumber": 6,
-      "city": "אור יהודה",
-      "lat": 32.8499926001775,
-      "lon": 35.08924395226826
+      "city": "ראש העין",
+      "lat": 32.0826507,
+      "lon": 34.9805977
     }
   ],
   "isMultinational": false,
-  "facebookId": "audiocodes"
+  "isActive": true
 }

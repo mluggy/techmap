@@ -6,21 +6,26 @@
   "logoFile": "logos/lightyx_systems-logo.webp",
   "websiteUrl": "https://www.lightyx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lightyx",
+  "linkedinNum": 18751934,
   "crunchbaseId": "lightyx",
+  "ivcId": "A1000000275788",
   "finderId": "lightyx",
   "xId": "LightYX1",
+  "facebookId": "Lightyx-1887799191259487",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עגנון ש\"י",
-      "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.102071,
-      "lon": 34.786895
+      "street": "שדרות רוטשילד",
+      "houseNumber": 22,
+      "city": "תל אביב-יפו",
+      "lat": 32.0627892,
+      "lon": 34.7714755
     }
   ],
   "isMultinational": false,
-  "facebookId": "Lightyx-1887799191259487",
-  "linkedinNum": 18751934
+  "isActive": true
 }

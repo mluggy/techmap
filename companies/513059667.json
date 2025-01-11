@@ -6,21 +6,26 @@
   "logoFile": "logos/melingo_ltd-logo.webp",
   "websiteUrl": "https://melingo.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "melingo-ltd.",
+  "linkedinNum": 721515,
   "crunchbaseId": null,
+  "ivcId": "A1000000005850",
   "finderId": "melingo",
   "xId": null,
+  "facebookId": "melingoltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
-      "houseNumber": 16,
-      "city": "תל אביב - יפו",
-      "lat": 32.072488,
-      "lon": 34.797205
+      "street": "שינקין",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.06977500000001,
+      "lon": 34.7713929
     }
   ],
   "isMultinational": false,
-  "facebookId": "melingoltd",
-  "linkedinNum": 721515
+  "isActive": true
 }

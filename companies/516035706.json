@@ -6,20 +6,26 @@
   "logoFile": "logos/l_pesa_micro_finance-logo.webp",
   "websiteUrl": "https://frontier-international.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "l-pesa-microfinance",
   "xId": null,
+  "facebookId": "lpesacareske",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מרידור יעקב",
       "houseNumber": 12,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.122943,
       "lon": 34.820154
     }
   ],
   "isMultinational": false,
-  "facebookId": "lpesacareske"
+  "isActive": true
 }

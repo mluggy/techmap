@@ -1,0 +1,31 @@
+{
+  "name": "Setpoint",
+  "description": "Setpoint develops indoor climate automation for multi-room buildings.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/setpoint-logo.webp",
+  "websiteUrl": "https://www.setpoint.ai",
+  "careersUrl": "https://www.setpoint.ai/careers/",
+  "linkedinId": "setpoint-ai",
+  "linkedinNum": 7947154,
+  "crunchbaseId": null,
+  "ivcId": "A1000000220414",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 23,
+      "city": "בני ברק",
+      "lat": 32.094042,
+      "lon": 34.8232962
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "BioRaptor",
+  "description": "BioRaptor is a developer of an operating system for biotech and biopharma firms, intended to empower scientists and biotech firms with the power of artificial intelligence.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/bioraptor-logo.webp",
+  "websiteUrl": "https://www.bioraptor.ai",
+  "careersUrl": null,
+  "linkedinId": "bioraptor",
+  "linkedinNum": 85612507,
+  "crunchbaseId": null,
+  "ivcId": "A1000000412224",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 16,
+      "city": "רמת גן",
+      "lat": 32.086091,
+      "lon": 34.8054923
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/dignotion_israel-logo.webp",
   "websiteUrl": "https://www.dignotion.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dignotion-digital-marketing",
+  "linkedinNum": 9493088,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dignotion",
   "xId": "DignotionDM",
+  "facebookId": "dignotion",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סטימצקי",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.113234,
       "lon": 34.790407
     }
   ],
   "isMultinational": false,
-  "facebookId": "dignotion",
-  "linkedinNum": 9493088
+  "isActive": true
 }

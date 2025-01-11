@@ -6,11 +6,17 @@
   "logoFile": "logos/xm_cyber-logo.webp",
   "websiteUrl": "https://xmcyber.com/",
   "careersUrl": "https://xmcyber.com/job-listing/",
-  "isHiring": true,
   "linkedinId": "xm",
+  "linkedinNum": 17884641,
   "crunchbaseId": "xm-cyber",
+  "ivcId": null,
   "finderId": "xm",
   "xId": "XMCyber_",
+  "facebookId": "xmcyber",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לאונרדו דה וינצי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "xmcyber",
-  "linkedinNum": 17884641
+  "isActive": true
 }

@@ -3,14 +3,29 @@
   "description": "Specializing in innovative orthopedic extremity implants, we aim to alleviate pain and restore mobility for individuals with chronic wrist conditions.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/fibioseq_medical-logo.webp",
+  "logoFile": "logos/fibioseq-medical-logo.webp",
   "websiteUrl": "https://fibioseq.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fibioseq-medical-ltd",
+  "linkedinNum": 51874176,
   "crunchbaseId": null,
+  "ivcId": "A1000000467845",
   "finderId": "fibioseq-medical",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך המכללה",
+      "houseNumber": 1,
+      "city": "עכו",
+      "lat": 32.936966878819625,
+      "lon": 35.08626357912953
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

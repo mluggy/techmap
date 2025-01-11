@@ -6,21 +6,26 @@
   "logoFile": "logos/cheq_ai_technologies_2018-logo.webp",
   "websiteUrl": "https://cheq.ai/",
   "careersUrl": "https://cheq.ai/careers/",
-  "isHiring": true,
   "linkedinId": "cheq-ai",
+  "linkedinNum": 10041033,
   "crunchbaseId": null,
+  "ivcId": "A1000000210129",
   "finderId": "cheq",
   "xId": "CHEQ_Inc",
+  "facebookId": "wearecheq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הלוי",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.061625,
-      "lon": 34.772982
+      "city": "תל אביב-יפו",
+      "lat": 32.0616565,
+      "lon": 34.7706795
     }
   ],
   "isMultinational": false,
-  "facebookId": "wearecheq",
-  "linkedinNum": 10041033
+  "isActive": true
 }

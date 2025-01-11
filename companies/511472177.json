@@ -6,21 +6,26 @@
   "logoFile": "logos/meprolight_1990-logo.webp",
   "websiteUrl": "https://www.meprolight.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "meprolight",
+  "linkedinNum": 254471,
   "crunchbaseId": null,
+  "ivcId": "A1000000009710",
   "finderId": "meprolight",
   "xId": "meprolight",
+  "facebookId": "meprolightofficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההדס",
       "houseNumber": 4,
       "city": "אור עקיבא",
-      "lat": 32.5190875,
-      "lon": 34.9199724
+      "lat": 32.51542209999999,
+      "lon": 34.9213983
     }
   ],
   "isMultinational": false,
-  "facebookId": "meprolightofficial",
-  "linkedinNum": 254471
+  "isActive": true
 }

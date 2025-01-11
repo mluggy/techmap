@@ -6,11 +6,17 @@
   "logoFile": "logos/ubs_technology_israel-logo.webp",
   "websiteUrl": "https://www.ubs.com/",
   "careersUrl": "https://www.ubs.com/global/en/careers.html",
-  "isHiring": true,
   "linkedinId": "ubs",
+  "linkedinNum": 1214,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ubs",
   "xId": "UBS",
+  "facebookId": "UBSglobal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החושלים",
@@ -20,7 +26,6 @@
       "lon": 34.80604434428052
     }
   ],
-  "isMultinational": true,
-  "facebookId": "UBSglobal",
-  "linkedinNum": 1214
+  "isMultinational": false,
+  "isActive": true
 }

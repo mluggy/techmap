@@ -6,21 +6,26 @@
   "logoFile": "logos/sodyo-logo.webp",
   "websiteUrl": "https://www.sodyo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sodyo",
+  "linkedinNum": 3295996,
   "crunchbaseId": null,
+  "ivcId": "A1000000024453",
   "finderId": "sodyo",
   "xId": "sodyoo2o",
+  "facebookId": "SodyoO2O",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "street": "דרך אבא הלל",
+      "houseNumber": 16,
+      "city": "רמת גן",
+      "lat": 32.086091,
+      "lon": 34.8054923
     }
   ],
   "isMultinational": false,
-  "facebookId": "SodyoO2O",
-  "linkedinNum": 3295996
+  "isActive": true
 }

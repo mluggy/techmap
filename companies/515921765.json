@@ -6,22 +6,26 @@
   "logoFile": "logos/guardio-logo.webp",
   "websiteUrl": "https://guard.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "guardiosec",
+  "linkedinNum": 19192220,
   "crunchbaseId": null,
+  "ivcId": "A1000000292561",
   "finderId": "guardio",
   "xId": "GuardioSecurity",
+  "facebookId": "guardiosec",
+  "breezyId": null,
+  "comeetId": "guardio/57.000",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07734524999999,
       "lon": 34.79332549438699
     }
   ],
   "isMultinational": false,
-  "facebookId": "guardiosec",
-  "linkedinNum": 19192220,
-  "comeetId": "guardio/57.000"
+  "isActive": true
 }

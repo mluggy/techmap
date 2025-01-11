@@ -3,14 +3,20 @@
   "description": "A pioneering company focused on producing a naturally-sourced Psilocybin drug, currently in clinical trials for treating various mental health conditions.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/msics_pharma-logo.webp",
+  "logoFile": "logos/msics-pharma-logo.webp",
   "websiteUrl": "https://www.msicspharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "msics-pharma",
+  "linkedinNum": 97857164,
   "crunchbaseId": null,
+  "ivcId": "A1000000458058",
   "finderId": "msics-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צור רמת אפעל",
@@ -19,5 +25,7 @@
       "lat": 32.04241896368584,
       "lon": 34.836719303435274
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

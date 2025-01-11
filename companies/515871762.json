@@ -6,11 +6,17 @@
   "logoFile": "logos/inziv-logo.webp",
   "websiteUrl": "https://inziv.com/",
   "careersUrl": "https://inziv.com/careers/",
-  "isHiring": true,
   "linkedinId": "inziv",
+  "linkedinNum": 18557608,
   "crunchbaseId": null,
+  "ivcId": "A1000000273969",
   "finderId": "inziv",
   "xId": "in_ziv",
+  "facebookId": "InZiv1",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרטום",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "InZiv1",
-  "linkedinNum": 18557608
+  "isActive": true
 }

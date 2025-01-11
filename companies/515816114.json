@@ -1,26 +1,31 @@
 {
   "name": "Aura Smart Air",
-  "description": "Indoor-air Management System",
+  "description": "Indoor-air Management System.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/aura_smart_air-logo.webp",
   "websiteUrl": "https://www.auraair.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "auraair",
+  "linkedinNum": 18704116,
   "crunchbaseId": null,
+  "ivcId": "A1000000263833",
   "finderId": "aura-smart-air",
   "xId": "aurasmartair",
+  "facebookId": "smartairaura",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "העליה השניה",
-      "houseNumber": 43,
-      "city": "אזור",
-      "lat": 32.024607,
-      "lon": 34.8029264
+      "street": "יגאל אלון",
+      "houseNumber": 86,
+      "city": "תל אביב-יפו",
+      "lat": 32.0666556,
+      "lon": 34.79297
     }
   ],
   "isMultinational": false,
-  "facebookId": "smartairaura",
-  "linkedinNum": 18704116
+  "isActive": true
 }

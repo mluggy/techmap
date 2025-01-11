@@ -6,11 +6,17 @@
   "logoFile": "logos/my_pwr-logo.webp",
   "websiteUrl": "https://mypwr.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mypwr",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנה",
@@ -19,5 +25,7 @@
       "lat": 31.7693863,
       "lon": 35.2193408
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

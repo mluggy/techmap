@@ -6,11 +6,17 @@
   "logoFile": "logos/ranetic-logo.webp",
   "websiteUrl": "https://ranetic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ranetic-ltd",
+  "linkedinNum": 79761183,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ranetic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השרון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79761183
+  "isActive": true
 }

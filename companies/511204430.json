@@ -6,12 +6,17 @@
   "logoFile": "logos/i-m-s.webp",
   "websiteUrl": "https://www.ims-weighing.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "i.m.s---industrial-measurement-systems",
   "linkedinNum": 452621,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "i-m-s",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ענבר",
@@ -21,5 +26,6 @@
       "lon": 35.06133194964999
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/questar_investments-logo.webp",
   "websiteUrl": "https://questarauto.com/",
   "careersUrl": "https://www.questarai.com/company/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "questarauto",
+  "linkedinNum": 809070,
   "crunchbaseId": null,
+  "ivcId": "A1000000005529",
   "finderId": "traffilog",
   "xId": null,
+  "facebookId": "QuestarAuto",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קלישר",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.065789,
-      "lon": 34.768838
+      "street": null,
+      "houseNumber": null,
+      "city": "הרצליה",
+      "lat": 32.162413,
+      "lon": 34.844675
     }
   ],
   "isMultinational": false,
-  "facebookId": "QuestarAuto",
-  "linkedinNum": 809070
+  "isActive": true
 }

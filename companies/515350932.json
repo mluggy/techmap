@@ -6,12 +6,26 @@
   "logoFile": "logos/bladeranger-logo.webp",
   "websiteUrl": "https://bladeranger.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bladeranger",
+  "linkedinNum": 18163273,
   "crunchbaseId": null,
+  "ivcId": "A1000000206741",
   "finderId": "bladeranger",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "היסמין",
+      "houseNumber": 1,
+      "city": "רמת גן",
+      "lat": 32.049036,
+      "lon": 34.8366936
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 18163273
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "PayPerLead",
+  "description": "PayPerLead is an online marketing firm, which specializes in performance marketing and effective advertising methods in the lead generation arena.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/payperlead-logo.webp",
+  "websiteUrl": "https://pay-per-leads.com",
+  "careersUrl": "https://pay-per-leads.com/career",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004400",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 2,
+      "city": "הרצליה",
+      "lat": 32.1675469,
+      "lon": 34.8114938
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

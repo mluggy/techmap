@@ -3,21 +3,29 @@
   "description": "CBD Inhalation Device.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/eltivu_technologies-logo.webp",
+  "logoFile": "logos/eltivu-technologies-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "eltivu",
+  "linkedinNum": 35612857,
   "crunchbaseId": "eltivu-technologies",
+  "ivcId": "A1000000282755",
   "finderId": "eltivu",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רב אשי",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.121075,
-      "lon": 34.798059
+      "city": "תל אביב-יפו",
+      "lat": 32.1210687,
+      "lon": 34.7981964
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

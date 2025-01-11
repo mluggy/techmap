@@ -6,11 +6,17 @@
   "logoFile": "logos/edgify-logo.webp",
   "websiteUrl": "https://edgify.ai/",
   "careersUrl": "https://edgify.ai/careers/",
-  "isHiring": true,
   "linkedinId": "edgifyai",
+  "linkedinNum": 5350028,
   "crunchbaseId": "edgify",
+  "ivcId": null,
   "finderId": "pixoneye",
   "xId": "Edgify_AI",
+  "facebookId": "Edgify-309110116409634",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Edgify-309110116409634",
-  "linkedinNum": 5350028
+  "isActive": true
 }

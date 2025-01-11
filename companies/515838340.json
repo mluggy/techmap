@@ -1,23 +1,31 @@
 {
   "name": "Incyber",
-  "description": "A premier event for European CISOs and the hacking community focused on enhancing digital resilience through networking and information exchange.",
+  "description": "InCyber, is dedicated to changing the cyber security landscape with its Patent Pending, True Prediction System ™ TPIT™ focused on Insider Threats.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/incyber-logo.webp",
-  "websiteUrl": "https://europe.forum-incyber.com/",
+  "websiteUrl": "https://incyber1.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "utr-security-technologies",
+  "linkedinNum": 6390123,
   "crunchbaseId": null,
+  "ivcId": "A1000000218745",
   "finderId": "incyber",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מוטה גור",
-      "houseNumber": 4,
-      "city": "פתח תקווה",
-      "lat": 32.0920729,
-      "lon": 34.8646062
+      "street": "נתן",
+      "houseNumber": 3,
+      "city": "כפר סבא",
+      "lat": 32.1927186,
+      "lon": 34.8916048
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

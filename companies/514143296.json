@@ -6,21 +6,26 @@
   "logoFile": "logos/seanergy_electric-logo.webp",
   "websiteUrl": "https://www.seanergy.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "seanergy-water-power",
+  "linkedinNum": 42169230,
   "crunchbaseId": null,
+  "ivcId": "A1000000002953",
   "finderId": "seanergy-electric-ltd",
   "xId": null,
+  "facebookId": "SeaNergy-Electric-Ltd-423679155367",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גיבורי גטו ורשה",
-      "houseNumber": 7,
+      "street": "יפה נוף",
+      "houseNumber": 111,
       "city": "חיפה",
-      "lat": 32.7805456,
-      "lon": 34.9827418
+      "lat": 32.804595,
+      "lon": 34.9900426
     }
   ],
   "isMultinational": false,
-  "facebookId": "SeaNergy-Electric-Ltd-423679155367",
-  "linkedinNum": 42169230
+  "isActive": true
 }

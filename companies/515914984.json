@@ -1,26 +1,31 @@
 {
   "name": "PicYourLife",
-  "description": "Mobile App to Organize and Share Pictures",
+  "description": "Mobile App to Organize and Share Pictures.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/pic_your_life-logo.webp",
   "websiteUrl": "https://www.picyourlifeapps.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "picyourlife",
+  "linkedinNum": 34607233,
   "crunchbaseId": null,
+  "ivcId": "A1000000336653",
   "finderId": "picyourlife",
   "xId": null,
+  "facebookId": "100063439377137",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלעזר דוד",
-      "houseNumber": 4,
-      "city": "גבעת שמואל",
-      "lat": 32.0797878,
-      "lon": 34.8468249
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "100063439377137",
-  "linkedinNum": 34607233
+  "isActive": true
 }

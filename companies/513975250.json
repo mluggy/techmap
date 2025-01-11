@@ -6,21 +6,26 @@
   "logoFile": "logos/cortica-logo.webp",
   "websiteUrl": "https://cortica.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cortica",
+  "linkedinNum": 1154318,
   "crunchbaseId": null,
+  "ivcId": "A1000000002626",
   "finderId": "cortica",
   "xId": "Cortica",
+  "facebookId": "CorticaAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מונטיפיורי",
-      "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.065888,
-      "lon": 34.773888
+      "street": "אלנבי",
+      "houseNumber": 103,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642015,
+      "lon": 34.7727963
     }
   ],
   "isMultinational": false,
-  "facebookId": "CorticaAI",
-  "linkedinNum": 1154318
+  "isActive": true
 }

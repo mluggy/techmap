@@ -1,25 +1,31 @@
 {
   "name": "Medva GIS",
-  "description": "Spatial Decision-support Systems",
-  "categoryId": 17,
+  "description": "MEDVA GIS designed and developed INSIGHT as an, off the shelf, ready to use web based application.",
+  "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/medva_gis-logo.webp",
-  "websiteUrl": "https://www.agri-insight.net",
+  "logoFile": "logos/medva-gis-logo.webp",
+  "websiteUrl": "https://www.medva-gis.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "medva-gis",
+  "linkedinNum": 51769577,
   "crunchbaseId": null,
+  "ivcId": "A1000000252063",
   "finderId": "mdvia",
   "xId": null,
+  "facebookId": "Insight-GIS-488343415020479",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.106754,
-      "lon": 34.83522
+      "city": "תל אביב-יפו",
+      "lat": 32.1068181,
+      "lon": 34.8353169
     }
   ],
   "isMultinational": false,
-  "facebookId": "Insight-GIS-488343415020479"
+  "isActive": true
 }

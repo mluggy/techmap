@@ -6,20 +6,26 @@
   "logoFile": "logos/opgal_optronic_industries_l_t_d-logo.webp",
   "websiteUrl": "https://www.opgal.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "opgal",
+  "linkedinNum": 105762,
   "crunchbaseId": null,
+  "ivcId": "A1000000004371",
   "finderId": "opgal",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנפח",
-      "houseNumber": 11,
-      "city": "כרמיאל",
-      "lat": 32.9223178,
-      "lon": 35.3225045
+      "houseNumber": 21,
+      "city": "אשקלון",
+      "lat": 31.6367429,
+      "lon": 34.5523556
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 105762
+  "isActive": true
 }

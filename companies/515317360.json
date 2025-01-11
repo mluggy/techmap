@@ -6,21 +6,26 @@
   "logoFile": "logos/bringoz_technologies-logo.webp",
   "websiteUrl": "https://www.bringoz.com/",
   "careersUrl": "https://www.bringoz.com/careers/",
-  "isHiring": true,
   "linkedinId": "bringoz",
+  "linkedinNum": 10061386,
   "crunchbaseId": "bringoz",
+  "ivcId": "A1000000209936",
   "finderId": "bringoz-technologies",
   "xId": "bringoz_app",
+  "facebookId": "bringoz",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ילין מור נתן",
+      "street": "נתן ילין מור",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.06902338218648,
-      "lon": 34.791230491362704
+      "city": "תל אביב-יפו",
+      "lat": 32.0688416,
+      "lon": 34.7911983
     }
   ],
   "isMultinational": false,
-  "facebookId": "bringoz",
-  "linkedinNum": 10061386
+  "isActive": true
 }

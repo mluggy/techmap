@@ -1,26 +1,31 @@
 {
   "name": "Vivothreads",
-  "description": "Innovatively merging textiles with health and well-being to enhance quality of life and environmental sustainability.",
-  "categoryId": 12,
-  "size": "s",
+  "description": "Argaman develops, manufactures, and offers textiles for a wide range of applications.",
+  "categoryId": 17,
+  "size": "xs",
   "logoFile": "logos/vivothreads-logo.webp",
-  "websiteUrl": "https://vivothreads.com/",
+  "websiteUrl": "https://argamantech.com/?currency=USD",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vivothreads",
+  "linkedinNum": 100073289,
   "crunchbaseId": null,
+  "ivcId": "A1000000170893",
   "finderId": "vivothreads",
   "xId": null,
+  "facebookId": "people",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האריג",
+      "street": "חרשי ברזל",
       "houseNumber": 6,
-      "city": "מגדל העמק",
-      "lat": 32.685196,
-      "lon": 35.2495441
+      "city": "ירושלים",
+      "lat": 31.74949659999999,
+      "lon": 35.2084142
     }
   ],
   "isMultinational": false,
-  "facebookId": "people",
-  "linkedinNum": 100073289
+  "isActive": true
 }

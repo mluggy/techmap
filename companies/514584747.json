@@ -6,11 +6,17 @@
   "logoFile": "logos/apifix-logo.webp",
   "websiteUrl": "https://apifix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5069168,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "apifix",
   "xId": "ApiFix",
+  "facebookId": "ApiFix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ApiFix",
-  "linkedinNum": 5069168
+  "isActive": true
 }

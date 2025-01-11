@@ -1,0 +1,31 @@
+{
+  "name": "iSavta",
+  "description": "iSavta specializes in developing Digital Nursing Services.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/isavta-logo.webp",
+  "websiteUrl": "https://www.isavta.co.il",
+  "careersUrl": "https://www.isavta.co.il/he/jobs",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023939",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פינלנד",
+      "houseNumber": 6,
+      "city": "חיפה",
+      "lat": 32.7670121,
+      "lon": 34.9975044
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

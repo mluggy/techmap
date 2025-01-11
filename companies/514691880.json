@@ -6,20 +6,26 @@
   "logoFile": "logos/pepticom-logo.webp",
   "websiteUrl": "https://pepticom.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pepticom-ltd.",
+  "linkedinNum": 13182242,
   "crunchbaseId": null,
+  "ivcId": "A1000000176635",
   "finderId": "pepticom",
   "xId": "pepticom",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כפר ההיטק גבעת רם",
-      "houseNumber": 2,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.802518854898775,
-      "lon": 35.20962861330094
+      "lat": 31.7757995,
+      "lon": 35.1954405
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13182242
+  "isActive": true
 }

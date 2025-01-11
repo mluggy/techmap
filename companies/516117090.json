@@ -6,20 +6,26 @@
   "logoFile": "logos/drizzlex-logo.webp",
   "websiteUrl": "https://www.drizzlex.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "drizzlex",
+  "linkedinNum": 12902943,
   "crunchbaseId": null,
+  "ivcId": "A1000000284778",
   "finderId": "drizzlex",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "משעול היערה",
-      "houseNumber": 4,
+      "street": "משעול זהב מרדכי",
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.8071015,
-      "lon": 35.1995556
+      "lat": 31.7456545,
+      "lon": 35.2117617
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12902943
+  "isActive": true
 }

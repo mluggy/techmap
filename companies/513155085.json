@@ -6,21 +6,26 @@
   "logoFile": "logos/paypal_israel-logo.webp",
   "websiteUrl": "https://www.paypal.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "paypal",
+  "linkedinNum": 1482,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "paypal",
   "xId": "PayPal",
+  "facebookId": "PayPalIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 98,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0700073,
       "lon": 34.794193699999994
     }
   ],
-  "isMultinational": true,
-  "facebookId": "PayPalIsrael",
-  "linkedinNum": 1482
+  "isMultinational": false,
+  "isActive": true
 }

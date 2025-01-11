@@ -6,21 +6,26 @@
   "logoFile": "logos/snappy_gifts-logo.webp",
   "websiteUrl": "https://www.snappy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "snappy-app",
+  "linkedinNum": 7600452,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "snappy-gifts",
   "xId": "snappygift",
+  "facebookId": "snappygifts",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נמל תל אביב",
       "houseNumber": 40,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0969249,
       "lon": 34.774118
     }
   ],
   "isMultinational": false,
-  "facebookId": "snappygifts",
-  "linkedinNum": 7600452
+  "isActive": true
 }

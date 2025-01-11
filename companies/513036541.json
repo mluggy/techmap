@@ -1,16 +1,22 @@
 {
   "name": "Lumus",
-  "description": "Lightweight AR Eyewear",
+  "description": "Lightweight AR Eyewear.",
   "categoryId": 8,
   "size": "m",
   "logoFile": "logos/lumus_ltd-logo.webp",
   "websiteUrl": "https://www.lumusvision.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lumus-ltd-",
+  "linkedinNum": 10265870,
   "crunchbaseId": "lumus",
+  "ivcId": "A1000000005909",
   "finderId": "lumus",
   "xId": "LumusVision",
+  "facebookId": "lumusvision",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "lumusvision",
-  "linkedinNum": 10265870
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/boards_com-logo.webp",
   "websiteUrl": "https://www.boards.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "boardsapp",
+  "linkedinNum": 64989090,
   "crunchbaseId": null,
+  "ivcId": "A1000000311729",
   "finderId": "bliss-ventures",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סביון",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.119632,
-      "lon": 34.834658
+      "city": "תל אביב-יפו",
+      "lat": 32.1196721,
+      "lon": 34.834628
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64989090
+  "isActive": true
 }

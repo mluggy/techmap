@@ -1,0 +1,31 @@
+{
+  "name": "Hossted",
+  "description": "Hossted’s mission is to ensure seamless operation of the users open source software on the enterprise cloud.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/hossted-logo.webp",
+  "websiteUrl": "https://hossted.com",
+  "careersUrl": null,
+  "linkedinId": "hossted",
+  "linkedinNum": 79614872,
+  "crunchbaseId": null,
+  "ivcId": "A1000000221979",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 168,
+      "city": "בני ברק",
+      "lat": 32.092386,
+      "lon": 34.8390886
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

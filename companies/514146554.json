@@ -6,18 +6,26 @@
   "logoFile": "logos/triponet_technologies-logo.webp",
   "websiteUrl": "https://isitesurgery.org/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "triponet-technolgies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חביב אבשלום",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.126322,
       "lon": 34.797347
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

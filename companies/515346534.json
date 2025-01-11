@@ -6,22 +6,26 @@
   "logoFile": "logos/cyberproof_israel-logo.webp",
   "websiteUrl": "https://www.cyberproof.com/",
   "careersUrl": "https://www.cyberproof.com/career-opportunities/",
-  "isHiring": true,
   "linkedinId": "cyberproof-inc-",
+  "linkedinNum": 17933267,
   "crunchbaseId": "cyberproof",
+  "ivcId": null,
   "finderId": "cyberproof",
   "xId": "cyberproofinc",
+  "facebookId": "Cyberproof",
+  "breezyId": null,
+  "comeetId": "cyberproof/75.00F",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Cyberproof",
-  "linkedinNum": 17933267,
-  "comeetId": "cyberproof/75.00F"
+  "isMultinational": false,
+  "isActive": true
 }

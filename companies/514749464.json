@@ -1,0 +1,31 @@
+{
+  "name": "Dumpster",
+  "description": "Baloota Applications has developed a product called Dumpster which is a Recycle Bin for Android smartphone and tablet.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/dumpster-logo.webp",
+  "websiteUrl": "https://dumpsterapp.mobi",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000021848",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משעול המרווה",
+      "houseNumber": 35,
+      "city": "הר גילה",
+      "lat": 31.72168379999999,
+      "lon": 35.1708558
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

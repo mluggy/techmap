@@ -1,26 +1,31 @@
 {
   "name": "Sompo",
   "description": "A global leader in specialty property and casualty insurance and reinsurance.",
-  "size": "l",
   "categoryId": 10,
+  "size": "l",
   "logoFile": "logos/sompo_digital_lab_israel-logo.webp",
   "websiteUrl": "https://sompo.io/en/labs/tel-aviv/",
   "careersUrl": "https://www.sompo-intl.com/careers/",
-  "isHiring": true,
   "linkedinId": "sompo-",
+  "linkedinNum": 12597333,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sompo",
   "xId": null,
+  "facebookId": "Sompo-Digital-Lab-Tel-Aviv-352103938891573",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Sompo-Digital-Lab-Tel-Aviv-352103938891573",
-  "linkedinNum": 12597333
+  "isMultinational": false,
+  "isActive": true
 }

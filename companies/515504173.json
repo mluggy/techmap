@@ -1,16 +1,22 @@
 {
   "name": "Apā Wellness",
-  "description": "Providing health support and recommendations through consultations and referrals to various healthcare professionals.",
-  "categoryId": 12,
+  "description": "Apa Wellness is on a mission to develop an innovative technology and introduce a solution for aquatic-based physical activities.",
+  "categoryId": 13,
   "size": "xs",
-  "logoFile": "logos/apa_wellness-logo.webp",
-  "websiteUrl": "https://www.apwellness.com/",
+  "logoFile": "logos/ap-wellness-logo.webp",
+  "websiteUrl": "https://www.apawell.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "apa-wellness",
+  "linkedinNum": 105766904,
   "crunchbaseId": null,
+  "ivcId": "A1000000407037",
   "finderId": "ap-wellness",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגרניט",
@@ -20,5 +26,6 @@
       "lon": 34.94348867514253
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

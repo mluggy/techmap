@@ -6,11 +6,17 @@
   "logoFile": "logos/beamr_imaging-logo.webp",
   "websiteUrl": "https://beamr.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "beamr",
+  "linkedinNum": 1828441,
   "crunchbaseId": "beamr",
+  "ivcId": "A1000000010162",
   "finderId": "beamr",
   "xId": "beamrvideo",
+  "facebookId": "BeamrVideo",
+  "breezyId": null,
+  "comeetId": "beamr/A9.00B",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המנופים",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BeamrVideo",
-  "linkedinNum": 1828441,
-  "comeetId": "beamr/A9.00B"
+  "isActive": true
 }

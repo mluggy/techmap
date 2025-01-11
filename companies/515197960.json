@@ -6,11 +6,17 @@
   "logoFile": "logos/vivi_rose-logo.webp",
   "websiteUrl": "https://vivi-tv.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 17925551,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vivi",
   "xId": "viviwatchers",
+  "facebookId": "viviwatchers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נופך",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "viviwatchers",
-  "linkedinNum": 17925551
+  "isActive": true
 }

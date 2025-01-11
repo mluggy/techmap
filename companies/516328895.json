@@ -1,16 +1,22 @@
 {
   "name": "ModuLegal",
-  "description": "Communication Solutions for the Legal Field",
+  "description": "Communication Solutions for the Legal Field.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/modulegal-logo.webp",
   "websiteUrl": "https://www.modulegal.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "modulegal",
+  "linkedinNum": 77072838,
   "crunchbaseId": null,
+  "ivcId": "A1000000457621",
   "finderId": "modulegal",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אליהו בן חור",
@@ -20,5 +26,6 @@
       "lon": 34.87910365320536
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

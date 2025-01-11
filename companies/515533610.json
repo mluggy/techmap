@@ -1,26 +1,31 @@
 {
   "name": "Snap",
   "description": "Engage and create with friends through chats, snaps, stories, and lenses on both desktop and mobile.",
-  "size": "xl",
   "categoryId": 8,
+  "size": "xl",
   "logoFile": "logos/snap_israel_2016-logo.webp",
   "websiteUrl": "https://www.snap.com/en-US/",
   "careersUrl": "https://careers.snap.com/jobs",
-  "isHiring": true,
   "linkedinId": "snap-inc-co",
+  "linkedinNum": 15191764,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "snap",
   "xId": "snapchat",
+  "facebookId": "snapincorporated",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0605137,
       "lon": 34.7759853
     }
   ],
-  "isMultinational": true,
-  "facebookId": "snapincorporated",
-  "linkedinNum": 15191764
+  "isMultinational": false,
+  "isActive": true
 }

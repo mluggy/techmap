@@ -6,21 +6,26 @@
   "logoFile": "logos/evogene-logo.webp",
   "websiteUrl": "https://evogene.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "evogene",
+  "linkedinNum": 100603,
   "crunchbaseId": null,
+  "ivcId": "A1000000004397",
   "finderId": "evogene",
   "xId": null,
+  "facebookId": "evogene123",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גד פינשטיין",
-      "houseNumber": 13,
-      "city": "רחובות",
-      "lat": 31.8999536,
-      "lon": 34.79146377703995
+      "street": "פיינשטיין",
+      "houseNumber": null,
+      "city": "גבעת ברנר",
+      "lat": 31.8646325,
+      "lon": 34.8034207
     }
   ],
   "isMultinational": false,
-  "facebookId": "evogene123",
-  "linkedinNum": 100603
+  "isActive": true
 }

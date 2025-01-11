@@ -6,11 +6,17 @@
   "logoFile": "logos/edgility-logo.webp",
   "websiteUrl": "https://edgilityos.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000465311",
   "finderId": "edgility",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -19,5 +25,7 @@
       "lat": 32.1312727,
       "lon": 34.896831
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/datos_health-logo.webp",
   "websiteUrl": "https://www.datos-health.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 9450850,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "datos-health",
   "xId": "DatosHealth",
+  "facebookId": "DatosHealth",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ויסבורג חיים",
       "houseNumber": 16,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.119953794480104,
       "lon": 34.82855673339346
     }
   ],
   "isMultinational": false,
-  "facebookId": "DatosHealth",
-  "linkedinNum": 9450850
+  "isActive": true
 }

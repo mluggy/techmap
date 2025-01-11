@@ -6,21 +6,26 @@
   "logoFile": "logos/grow_director-logo.webp",
   "websiteUrl": "https://growdirector.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "growdirector",
+  "linkedinNum": 27101616,
   "crunchbaseId": null,
+  "ivcId": "A1000000238914",
   "finderId": "growdirector",
   "xId": null,
+  "facebookId": "GrowDirector-104727587572529",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 65,
-      "city": "ראשון לציון",
-      "lat": 31.9667928,
-      "lon": 34.7994334
+      "street": "גולדה מאיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.9141017,
+      "lon": 34.8023446
     }
   ],
   "isMultinational": false,
-  "facebookId": "GrowDirector-104727587572529",
-  "linkedinNum": 27101616
+  "isActive": true
 }

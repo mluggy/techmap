@@ -6,11 +6,17 @@
   "logoFile": "logos/nice-logo.webp",
   "websiteUrl": "https://www.nice.com/",
   "careersUrl": "https://www.nice.com/careers",
-  "isHiring": true,
   "linkedinId": "nice-systems",
+  "linkedinNum": 4728,
   "crunchbaseId": null,
+  "ivcId": "A1000000003614",
   "finderId": "nice-systems",
   "xId": "NICELtd",
+  "facebookId": "OfficialNICELtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "OfficialNICELtd",
-  "linkedinNum": 4728
+  "isActive": true
 }

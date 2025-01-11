@@ -1,0 +1,31 @@
+{
+  "name": "Clicko-Brick",
+  "description": "'Clicko-Brick' is a patented green tech startup that offers a functional and economic pre-planned reuse solution to the problem of disposable plastic containers.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/clicko_brick-logo.webp",
+  "websiteUrl": "http://www.clicko-brick.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000224915",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "טיראן",
+      "houseNumber": 4,
+      "city": "הרצליה",
+      "lat": 32.1725062,
+      "lon": 34.8083021
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

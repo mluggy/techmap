@@ -6,21 +6,26 @@
   "logoFile": "logos/navin_services_and_consulting-logo.webp",
   "websiteUrl": "https://nav-in.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "navin",
+  "linkedinNum": 3363155,
   "crunchbaseId": null,
+  "ivcId": "A1000000021194",
   "finderId": "navin",
   "xId": "navin_app",
+  "facebookId": "navinapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכרמל",
-      "houseNumber": 10,
-      "city": "חשמונאים",
-      "lat": 31.930537535521644,
-      "lon": 35.02304753258818
+      "street": "Atir Yeda Street",
+      "houseNumber": 1,
+      "city": "Kefar Sava",
+      "lat": 32.1675606,
+      "lon": 34.9286164
     }
   ],
   "isMultinational": false,
-  "facebookId": "navinapp",
-  "linkedinNum": 3363155
+  "isActive": true
 }

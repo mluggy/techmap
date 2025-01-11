@@ -6,20 +6,26 @@
   "logoFile": "logos/everads_therapy-logo.webp",
   "websiteUrl": "https://www.everads-therapy.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "everads-therapy",
+  "linkedinNum": 17988603,
   "crunchbaseId": null,
+  "ivcId": "A1000000230618",
   "finderId": "everads-therapy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
-      "houseNumber": 31,
-      "city": "תל אביב - יפו",
-      "lat": 32.110287,
-      "lon": 34.841116
+      "houseNumber": 27,
+      "city": "תל אביב-יפו",
+      "lat": 32.1099675,
+      "lon": 34.8405233
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17988603
+  "isActive": true
 }

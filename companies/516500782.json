@@ -6,11 +6,17 @@
   "logoFile": "logos/communi-logo.webp",
   "websiteUrl": "https://www.mycommuni.site/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "communi-ltd",
+  "linkedinNum": 78993041,
   "crunchbaseId": "communi",
+  "ivcId": null,
   "finderId": "communi-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קלעי",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78993041
+  "isActive": true
 }

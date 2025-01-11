@@ -1,0 +1,31 @@
+{
+  "name": "SimpliFly",
+  "description": "SimpliFly develops a mobile app that provides specific, on-demand knowledge and assistance from an actual airline pilot in real time.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/simplifly-logo.webp",
+  "websiteUrl": "https://simpliflyapp.com",
+  "careersUrl": null,
+  "linkedinId": "simplifly-flight-it",
+  "linkedinNum": 68501119,
+  "crunchbaseId": null,
+  "ivcId": "A1000000406874",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הירדן",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0741264,
+      "lon": 34.7658976
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

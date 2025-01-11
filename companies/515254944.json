@@ -6,11 +6,17 @@
   "logoFile": "logos/recipharm_israel-logo.webp",
   "websiteUrl": "https://www.recipharm.com/",
   "careersUrl": "https://www.recipharm.com/careers",
-  "isHiring": true,
   "linkedinId": "recipharm",
+  "linkedinNum": 52937,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "recipharm",
   "xId": "recipharmab",
+  "facebookId": "recipharm",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחל שניר",
@@ -20,7 +26,6 @@
       "lon": 34.7387194
     }
   ],
-  "isMultinational": true,
-  "facebookId": "recipharm",
-  "linkedinNum": 52937
+  "isMultinational": false,
+  "isActive": true
 }

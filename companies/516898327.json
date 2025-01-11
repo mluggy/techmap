@@ -6,18 +6,26 @@
   "logoFile": "logos/phenota-logo.webp",
   "websiteUrl": "https://phenota.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "phenota",
+  "linkedinNum": 100644201,
   "crunchbaseId": null,
+  "ivcId": "A1000000462876",
   "finderId": "phenota",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יצחק רבין",
-      "houseNumber": 2,
+      "street": null,
+      "houseNumber": null,
       "city": "פתח תקווה",
-      "lat": 32.090474878315646,
-      "lon": 34.861795071156685
+      "lat": 32.08202,
+      "lon": 34.861324
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

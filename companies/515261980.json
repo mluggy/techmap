@@ -6,21 +6,26 @@
   "logoFile": "logos/cinema_2_go-logo.webp",
   "websiteUrl": "https://www.cinema2go.biz/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10555372,
   "crunchbaseId": null,
+  "ivcId": "A1000000216704",
   "finderId": "cinema2go",
   "xId": "C2G_MoGo",
+  "facebookId": "Cinema2Go",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ירדן",
       "houseNumber": 21,
-      "city": "יקנעם עילית",
-      "lat": 32.641726,
-      "lon": 35.0892701
+      "city": "יוקנעם עילית",
+      "lat": 32.6448327,
+      "lon": 35.0878974
     }
   ],
   "isMultinational": false,
-  "facebookId": "Cinema2Go",
-  "linkedinNum": 10555372
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "BE Financial Technology",
-  "description": "ETP Comparison Technology",
+  "description": "ETP Comparison Technology.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/be_financial_technology-logo.webp",
   "websiteUrl": "https://be-rank.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "be-financial-technology-ltd",
+  "linkedinNum": 9451152,
   "crunchbaseId": null,
+  "ivcId": "A1000000204206",
   "finderId": "best-execution",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
-      "houseNumber": 3,
-      "city": "פתח תקווה",
-      "lat": 32.0900013,
-      "lon": 34.8601803
+      "street": "ראול ולנברג",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.1100501,
+      "lon": 34.8376485
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 9451152
+  "isActive": true
 }

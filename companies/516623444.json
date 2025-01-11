@@ -3,22 +3,29 @@
   "description": "Offering a modular cybersecurity platform, this company ensures robust protection for EV charging and distributed energy networks.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/saiflow_cyber-logo.webp",
+  "logoFile": "logos/saiflow-cyber-logo.webp",
   "websiteUrl": "https://www.saiflow.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "saiflow",
+  "linkedinNum": 89791107,
   "crunchbaseId": null,
+  "ivcId": "A1000000390231",
   "finderId": "saiflow-cyber",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 45,
-      "city": "תל אביב - יפו",
-      "lat": 32.064232399999995,
-      "lon": 34.77442479088546
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

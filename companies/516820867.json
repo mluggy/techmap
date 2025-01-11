@@ -1,0 +1,31 @@
+{
+  "name": "Thrillzz",
+  "description": "In stealth mode.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/thrillzz-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000463014",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 12,
+      "city": "רמת גן",
+      "lat": 32.0850573,
+      "lon": 34.8045422
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

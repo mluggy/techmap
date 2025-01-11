@@ -1,25 +1,31 @@
 {
   "name": "TextRe",
-  "description": "Explore vast texture resources for 3D and graphic design while gaining insights from tutorials and community inspiration.",
-  "categoryId": 8,
+  "description": "TextRe's mission is to reduce the environmental impact of plastic and textile industries by reducing dramatically their high GHG emission and microplastic pollution.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/textre-logo.webp",
-  "websiteUrl": "https://www.textures.com/",
+  "websiteUrl": "https://text-re.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "text-re",
+  "linkedinNum": 90221196,
   "crunchbaseId": null,
+  "ivcId": "A1000000432523",
   "finderId": "textre",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זבולון",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.060331,
-      "lon": 34.773108
+      "city": "תל אביב-יפו",
+      "lat": 32.060437,
+      "lon": 34.7731345
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90221196
+  "isActive": true
 }

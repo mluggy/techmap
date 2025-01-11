@@ -6,20 +6,26 @@
   "logoFile": "logos/weco_solutions-logo.webp",
   "websiteUrl": "https://www.we-co.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "weco-solutions-ltd",
+  "linkedinNum": 29013858,
   "crunchbaseId": null,
+  "ivcId": "A1000000287189",
   "finderId": "weco-solutions1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בני בנימין",
-      "houseNumber": 32,
-      "city": "אבן יהודה",
-      "lat": 32.2677732,
-      "lon": 34.8861844
+      "street": null,
+      "houseNumber": null,
+      "city": "ראשון לציון",
+      "lat": 31.964406,
+      "lon": 34.807144
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 29013858
+  "isActive": true
 }

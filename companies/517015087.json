@@ -1,0 +1,31 @@
+{
+  "name": "TerraWave",
+  "description": "In stealth mode.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/terrawave-logo.webp",
+  "websiteUrl": "https://terrawave.energy",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000494766",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.1135286,
+      "lon": 34.8432083
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

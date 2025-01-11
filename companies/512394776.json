@@ -6,11 +6,17 @@
   "logoFile": "logos/allot-logo.webp",
   "websiteUrl": "https://www.allot.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "allot-communications",
+  "linkedinNum": 11913,
   "crunchbaseId": null,
+  "ivcId": "A1000000006484",
   "finderId": "allot",
   "xId": "allot_ltd",
+  "facebookId": "AllotCommunications",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AllotCommunications"
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/k_s_advanced_systems-logo.webp",
   "websiteUrl": "https://www.kns-systems.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "k&s-advanced-systems",
+  "linkedinNum": 10458176,
   "crunchbaseId": null,
+  "ivcId": "A1000000204824",
   "finderId": "k-s-advanced-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "טלר",
-      "houseNumber": 5,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.8951075,
-      "lon": 34.8079851
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10458176
+  "isActive": true
 }

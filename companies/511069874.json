@@ -1,16 +1,22 @@
 {
   "name": "Tvuna Software Industries",
-  "description": "Management Tools for Boards of Directors",
+  "description": "Tvuna a software house developed Boardirector a unique system that enables management of meetings, conducting protocols and follow-up on decisions.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tvuna_software_industries_ltd-logo.webp",
-  "websiteUrl": "https://www.tvuna.co.il/",
+  "websiteUrl": "https://www.boardirector.co.il/en",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "boardirector",
+  "linkedinNum": 78425,
   "crunchbaseId": "tvuna-software-industries-boardirector",
+  "ivcId": "A1000000234805",
   "finderId": "tvuna-software-industries",
   "xId": null,
+  "facebookId": "tvuna.digital",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "tvuna.digital",
-  "linkedinNum": 78425
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/iron_drone-logo.webp",
   "websiteUrl": "https://www.irondrone.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 26205651,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "iron-drone",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן אביגדור",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.067242,
       "lon": 34.788291
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 26205651
+  "isActive": true
 }

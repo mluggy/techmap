@@ -6,11 +6,17 @@
   "logoFile": "logos/target_board-logo.webp",
   "websiteUrl": "https://www.targetboard.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "targetboard",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הלוי",
@@ -19,5 +25,7 @@
       "lat": 31.9667411,
       "lon": 34.8064682
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

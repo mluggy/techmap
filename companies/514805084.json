@@ -6,21 +6,26 @@
   "logoFile": "logos/freightos-logo.webp",
   "websiteUrl": "https://www.freightos.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "freightos",
+  "linkedinNum": 2843986,
   "crunchbaseId": null,
+  "ivcId": "A1000000021028",
   "finderId": "freightos",
   "xId": "freightos",
+  "facebookId": "Freightos",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אגודת ספורט הפועל",
-      "houseNumber": 1,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7507813,
-      "lon": 35.184892
+      "lat": 31.768319,
+      "lon": 35.21371
     }
   ],
   "isMultinational": false,
-  "facebookId": "Freightos",
-  "linkedinNum": 2843986
+  "isActive": true
 }

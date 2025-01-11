@@ -1,0 +1,31 @@
+{
+  "name": "Gool",
+  "description": "Gool  is an operator and developer of online customized academic courses and exam preparation.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/gool-logo.webp",
+  "websiteUrl": "http://www.gool.co.il",
+  "careersUrl": null,
+  "linkedinId": "gool-ltd",
+  "linkedinNum": 35458854,
+  "crunchbaseId": null,
+  "ivcId": "A1000000242638",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.107898,
+      "lon": 34.838002
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

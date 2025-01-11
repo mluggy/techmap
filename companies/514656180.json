@@ -6,12 +6,17 @@
   "logoFile": "logos/myq.webp",
   "websiteUrl": "https://www.myqedu.com/en",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 37007851,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "myq",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלאנדלוס",
@@ -21,5 +26,6 @@
       "lon": 35.33635197648043
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

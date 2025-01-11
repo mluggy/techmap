@@ -1,16 +1,22 @@
 {
   "name": "Reborn Medical",
-  "description": "A free service that instantly translates words, phrases, and web pages from English to over 100 languages.",
+  "description": "Reborn is a developer of a radiation-free, portable brain scanner, designed to offer real-time imaging data using ultrasound technology.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/reborn_medical-logo.webp",
-  "websiteUrl": "https://translate.google.co.il/",
+  "logoFile": "logos/reborn-medical-logo.webp",
+  "websiteUrl": "https://rebornmd.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "reborn-medical",
+  "linkedinNum": 101215125,
   "crunchbaseId": null,
+  "ivcId": "A1000000454768",
   "finderId": "reborn-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
@@ -19,5 +25,7 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

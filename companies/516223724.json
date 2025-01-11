@@ -6,12 +6,17 @@
   "logoFile": "logos/privatise-1.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "privatise-ltd",
   "linkedinNum": 67518744,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "privatise-1",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד דיין משה",
@@ -21,5 +26,6 @@
       "lon": 35.235051785085794
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

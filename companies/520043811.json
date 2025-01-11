@@ -1,26 +1,31 @@
 {
   "name": "Ituran",
-  "description": "Vehicle-tracking Technologies",
-  "categoryId": 5,
-  "size": "l",
+  "description": "Ituran is a leader in the emerging mobility technology field, providing value-added location-based services, including a full suite of services for the connected-car.",
+  "categoryId": 18,
+  "size": "xl",
   "logoFile": "logos/ituran_location_and_control_ltd-logo.webp",
-  "websiteUrl": "https://www.ituran.co.il/ituranfront/en/",
+  "websiteUrl": "https://www.ituran.com/ituranfront/en",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ituran",
+  "linkedinNum": 17951641,
   "crunchbaseId": null,
+  "ivcId": "A1000000004041",
   "finderId": "ituran",
   "xId": null,
+  "facebookId": "ituranusa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השיקמה",
       "houseNumber": 3,
       "city": "אזור",
-      "lat": 32.2772195,
-      "lon": 34.8870453
+      "lat": 32.0302781,
+      "lon": 34.7979257
     }
   ],
   "isMultinational": false,
-  "facebookId": "ituranusa",
-  "linkedinNum": 17951641
+  "isActive": true
 }

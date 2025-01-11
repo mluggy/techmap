@@ -1,0 +1,31 @@
+{
+  "name": "Shelfie-Tech",
+  "description": "Shelfie is an image analytics platform designed to provide insights into the physical shelves of a retail environment.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/shelfie-tech-logo.webp",
+  "websiteUrl": "https://shelfieretail.com",
+  "careersUrl": null,
+  "linkedinId": "shelfie-pty-ltd",
+  "linkedinNum": 17911114,
+  "crunchbaseId": null,
+  "ivcId": "A1000000385905",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

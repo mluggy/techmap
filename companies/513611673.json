@@ -6,11 +6,26 @@
   "logoFile": "logos/medical_flow_systems-logo.webp",
   "websiteUrl": "https://www.mfs-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "medical-flow-systems-mfs",
+  "ivcId": "A1000000005622",
   "finderId": "medical-flow-systems-mfs",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "שלומי",
+      "lat": 33.077768,
+      "lon": 35.138213
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

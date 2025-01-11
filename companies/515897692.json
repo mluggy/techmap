@@ -6,20 +6,26 @@
   "logoFile": "logos/cisoteria-logo.webp",
   "websiteUrl": "https://cisoteria.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cisoteria",
+  "linkedinNum": 49642866,
   "crunchbaseId": null,
+  "ivcId": "A1000000333259",
   "finderId": "cisoteria",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ביל\"ו",
-      "houseNumber": 58,
+      "street": "זרחין",
+      "houseNumber": 10,
       "city": "רעננה",
-      "lat": 32.1792122,
-      "lon": 34.8676247
+      "lat": 32.1953011,
+      "lon": 34.8828762
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 49642866
+  "isActive": true
 }

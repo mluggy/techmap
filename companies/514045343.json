@@ -6,20 +6,26 @@
   "logoFile": "logos/tracense_systems-logo.webp",
   "websiteUrl": "https://tracense.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tracense-systems-ltd",
+  "linkedinNum": 18119452,
   "crunchbaseId": null,
+  "ivcId": "A1000000010346",
   "finderId": "tracense-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גיבורי ישראל",
-      "houseNumber": 7,
-      "city": "נתניה",
-      "lat": 32.2787263,
-      "lon": 34.8610014
+      "street": "הנדיב",
+      "houseNumber": 71,
+      "city": "הרצליה",
+      "lat": 32.17041800000001,
+      "lon": 34.8316479
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18119452
+  "isActive": true
 }

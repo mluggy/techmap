@@ -6,13 +6,26 @@
   "logoFile": "logos/maxweb-logo.webp",
   "websiteUrl": "https://maxweb.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "maxwebaffiliatenetwork",
+  "linkedinNum": 13187911,
   "crunchbaseId": null,
+  "ivcId": "A1000000001343",
   "finderId": "maxweb",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "MAXwebLTD",
-  "linkedinNum": 13187911
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אימבר",
+      "houseNumber": 23,
+      "city": "פתח תקווה",
+      "lat": 32.0995077,
+      "lon": 34.8649849
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

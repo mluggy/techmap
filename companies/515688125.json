@@ -6,20 +6,26 @@
   "logoFile": "logos/monogoto-logo.webp",
   "websiteUrl": "https://monogoto.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11517116,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "monogoto",
   "xId": "monogoto_iot",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד' ההשכלה",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065233,
       "lon": 34.795947
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11517116
+  "isActive": true
 }

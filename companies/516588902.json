@@ -6,21 +6,26 @@
   "logoFile": "logos/guardz_cyber-logo.webp",
   "websiteUrl": "https://guardz.com/",
   "careersUrl": "https://guardz.com/careers/",
-  "isHiring": true,
   "linkedinId": "guardz",
+  "linkedinNum": 81856039,
   "crunchbaseId": "guardz",
+  "ivcId": "A1000000387403",
   "finderId": "guardz",
   "xId": null,
+  "facebookId": "guardzcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.06876684124388,
-      "lon": 34.7937473454111
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
-  "isMultinational": true,
-  "facebookId": "guardzcom",
-  "linkedinNum": 81856039
+  "isMultinational": false,
+  "isActive": true
 }

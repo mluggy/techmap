@@ -6,21 +6,26 @@
   "logoFile": "logos/umoove-logo.webp",
   "websiteUrl": "https://www.umoove.me/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2476752,
   "crunchbaseId": null,
+  "ivcId": "A1000000020280",
   "finderId": "umoove",
   "xId": "UmooveMe",
+  "facebookId": "Umoove",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בשמת",
-      "houseNumber": 19,
-      "city": "גבע בנימין",
-      "lat": 31.851787373525656,
-      "lon": 35.27180463282995
+      "street": null,
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7856258,
+      "lon": 35.2071761
     }
   ],
   "isMultinational": false,
-  "facebookId": "Umoove",
-  "linkedinNum": 2476752
+  "isActive": true
 }

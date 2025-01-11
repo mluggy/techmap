@@ -3,22 +3,29 @@
   "description": "Revolutionizing cancer diagnosis and management with a sensitive blood test for early detection, disease monitoring, and therapy response prediction.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/jaxbio_technologies-logo.webp",
+  "logoFile": "logos/jaxbio-technologies-logo.webp",
   "websiteUrl": "https://jaxbio.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "jaxbiotechnologies",
+  "linkedinNum": 99959615,
   "crunchbaseId": null,
+  "ivcId": "A1000000433859",
   "finderId": "jaxbio-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השחר",
       "houseNumber": 7,
-      "city": "פרדס חנה-כרכור",
-      "lat": 32.4779106,
-      "lon": 35.0008594
+      "city": "פרדס חנה כרכור",
+      "lat": 32.4778974,
+      "lon": 35.0007144
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

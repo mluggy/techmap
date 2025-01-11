@@ -1,16 +1,22 @@
 {
   "name": "Brain1",
-  "description": "Brainwave Entrainment Device",
+  "description": "Brain1 presents three products to improve brain function using Neurofeedback: (1) - Memory Booster - A device that allows improving the capacity of memory and learning ability of the user.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/brain_1-logo.webp",
-  "websiteUrl": "https://www.brain1world.com/",
+  "websiteUrl": "http://www.brain1.biz",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 12958721,
   "crunchbaseId": null,
+  "ivcId": "A1000000215215",
   "finderId": "brain1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סמטת נחל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12958721
+  "isActive": true
 }

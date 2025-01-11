@@ -6,11 +6,17 @@
   "logoFile": "logos/kla_tencor_corporation_1992_ltd-logo.webp",
   "websiteUrl": "https://www.kla.com/",
   "careersUrl": "https://www.kla.com/careers",
-  "isHiring": true,
   "linkedinId": "klacorp",
+  "linkedinNum": 2722,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kla-tencor",
   "xId": "klatencor_info",
+  "facebookId": "KLA.Israel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הלווין",
@@ -20,7 +26,6 @@
       "lon": 35.2491178
     }
   ],
-  "isMultinational": true,
-  "facebookId": "KLA.Israel",
-  "linkedinNum": 2722
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Delek San",
+  "description": "Delek-San deals with environmental solutions, mainly the treatment of industrial wastewater with a high ratio of chemicals.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/delek_san-logo.webp",
+  "websiteUrl": "https://www.deleksan.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000223537",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות הנשיא",
+      "houseNumber": 134,
+      "city": "חיפה",
+      "lat": 32.8031725,
+      "lon": 34.9857268
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

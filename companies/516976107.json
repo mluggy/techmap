@@ -1,0 +1,31 @@
+{
+  "name": "Moonshot Space",
+  "description": "In stealth mode.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/moonshot_space-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000486148",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חובבי ציון",
+      "houseNumber": 16,
+      "city": "תל אביב-יפו",
+      "lat": 32.075735,
+      "lon": 34.7691355
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

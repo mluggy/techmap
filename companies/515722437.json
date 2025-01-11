@@ -6,21 +6,26 @@
   "logoFile": "logos/stoa_fund-logo.webp",
   "websiteUrl": "https://betterwithstoa.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18769884,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "stoa-fund",
   "xId": "BetterWithStoa",
+  "facebookId": "BetterWithStoa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06378,
       "lon": 34.769659
     }
   ],
   "isMultinational": false,
-  "facebookId": "BetterWithStoa",
-  "linkedinNum": 18769884
+  "isActive": true
 }

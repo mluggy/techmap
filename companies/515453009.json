@@ -6,21 +6,26 @@
   "logoFile": "logos/swyft_aeronautical_technology-logo.webp",
   "websiteUrl": "https://swyft-aerotech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "swyft-aeronautical-technology-ltd",
+  "linkedinNum": 28635272,
   "crunchbaseId": null,
+  "ivcId": "A1000000318288",
   "finderId": "swyft-aeronautical-technology",
   "xId": "SWYFTaerotech",
+  "facebookId": "SWYFTaerotech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן גוריון",
+      "street": "שדרות בן גוריון",
       "houseNumber": 44,
-      "city": "הרצליה",
-      "lat": 32.1599577,
-      "lon": 34.84127679925861
+      "city": "תל אביב-יפו",
+      "lat": 32.08415780000001,
+      "lon": 34.7744721
     }
   ],
   "isMultinational": false,
-  "facebookId": "SWYFTaerotech",
-  "linkedinNum": 28635272
+  "isActive": true
 }

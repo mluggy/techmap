@@ -1,25 +1,31 @@
 {
   "name": "Lipicare  Pharmaceuticals",
-  "description": "Eye Drops in Micro-emulsion Technology",
+  "description": "Eye Drops in Micro-emulsion Technology.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/lipicare_pharmaceuticals-logo.webp",
   "websiteUrl": "https://bio-light.co.il/he/lipicare/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lipicare-pharmaceuticals",
+  "linkedinNum": 80939863,
   "crunchbaseId": null,
+  "ivcId": "A1000000446027",
   "finderId": "lipicare",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רח 2184",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.0376994,
-      "lon": 34.7489382
+      "street": "2234",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.1154371,
+      "lon": 34.8442688
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80939863
+  "isActive": true
 }

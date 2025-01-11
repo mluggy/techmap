@@ -1,16 +1,22 @@
 {
   "name": "Mada Analytics",
-  "description": "Dispatchable Capacity Systems with Long-duration Energy Storage",
+  "description": "Dispatchable Capacity Systems with Long-duration Energy Storage.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/mada_analytics_ltd-logo.webp",
   "websiteUrl": "https://madaanalytics.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mada-analytics",
+  "linkedinNum": 18440340,
   "crunchbaseId": null,
+  "ivcId": "A1000000257465",
   "finderId": "mada-analytics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמב\"ן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18440340
+  "isActive": true
 }

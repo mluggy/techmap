@@ -6,20 +6,26 @@
   "logoFile": "logos/revivesec-logo.webp",
   "websiteUrl": "https://revivesec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "revivesecurity",
+  "linkedinNum": 42955660,
   "crunchbaseId": null,
+  "ivcId": "A1000000321577",
   "finderId": "revivesec",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הטל",
-      "houseNumber": 8,
+      "street": null,
+      "houseNumber": null,
       "city": "גן יבנה",
-      "lat": 31.7927617,
-      "lon": 34.6991797
+      "lat": 31.7836028,
+      "lon": 34.703177
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42955660
+  "isActive": true
 }

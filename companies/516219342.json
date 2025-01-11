@@ -6,21 +6,26 @@
   "logoFile": "logos/neurobrave-logo.webp",
   "websiteUrl": "https://neurobrave.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "neurobrave",
+  "linkedinNum": 74801038,
   "crunchbaseId": null,
+  "ivcId": "A1000000347358",
   "finderId": "neurobrave",
   "xId": "NeuroBrave",
+  "facebookId": "NeuroBrave-104790162010192",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך חברון",
-      "houseNumber": 24,
-      "city": "ירושלים",
-      "lat": 31.7316844,
-      "lon": 35.20565
+      "street": null,
+      "houseNumber": null,
+      "city": "באר שבע",
+      "lat": 31.2521018,
+      "lon": 34.7867691
     }
   ],
   "isMultinational": false,
-  "facebookId": "NeuroBrave-104790162010192",
-  "linkedinNum": 74801038
+  "isActive": true
 }

@@ -6,18 +6,26 @@
   "logoFile": "logos/fruitspec-logo.webp",
   "websiteUrl": "https://www.fruitspec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fruitspec",
+  "linkedinNum": 28487396,
   "crunchbaseId": "fruitspec",
+  "ivcId": null,
   "finderId": "fruitspec",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0605137,
       "lon": 34.7759853
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,12 +6,17 @@
   "logoFile": "logos/dalet_amot_burial_services-logo.webp",
   "websiteUrl": "https://www.dalet.com/",
   "careersUrl": "https://jobs.dalet.com/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dalet",
   "xId": null,
+  "facebookId": null,
   "breezyId": "dalet",
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שלום יהודה",
@@ -20,5 +25,7 @@
       "lat": 31.7531895,
       "lon": 35.2212701
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

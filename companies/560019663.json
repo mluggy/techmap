@@ -1,24 +1,31 @@
 {
   "name": "Samsung Semiconductors",
   "description": "Advanced semiconductors and electronics.",
-  "size": "xl",
   "categoryId": 16,
+  "size": "xl",
   "logoFile": "logos/samsung_electronics-logo.webp",
   "websiteUrl": "https://www.samsung.com",
   "careersUrl": "https://semiconductor.samsung.com/about-us/careers/",
   "linkedinId": "samsungsemiconductor",
   "linkedinNum": 77752302,
   "crunchbaseId": "samsung-electronics",
+  "ivcId": null,
   "finderId": "samsung",
   "xId": "SamsungUS",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנחם בגין",
       "houseNumber": 146,
-      "city": "תל אביב - יפו",
-      "lat": 32.07847100721515, 
+      "city": "תל אביב-יפו",
+      "lat": 32.07847100721515,
       "lon": 34.79427557115761
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

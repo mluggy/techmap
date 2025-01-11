@@ -6,20 +6,26 @@
   "logoFile": "logos/ripe_guard-logo.webp",
   "websiteUrl": "https://ripeguard.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ripe-guard",
+  "linkedinNum": 75065345,
   "crunchbaseId": null,
+  "ivcId": "A1000000328372",
   "finderId": "ripe-guard",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התרשיש",
+      "street": "תרשיש",
       "houseNumber": 5,
-      "city": "קריית שמונה",
-      "lat": 33.19620427669614,
-      "lon": 35.57492703472511
+      "city": "קרית שמונה",
+      "lat": 33.1960608,
+      "lon": 35.5749163
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75065345
+  "isActive": true
 }

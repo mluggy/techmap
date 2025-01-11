@@ -1,16 +1,22 @@
 {
   "name": "Yaskawa",
   "description": "The company is a top global producer of variable frequency drives, servo systems, machine controllers, and industrial robots.",
-  "size": "l",
   "categoryId": 15,
+  "size": "l",
   "logoFile": "logos/yaskawa_europe_technology-logo.webp",
   "websiteUrl": "https://yaskawa.co.il",
   "careersUrl": "https://www.yaskawa.com/about-us/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "yaskawa-europe-technology",
+  "linkedinNum": 312916,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "yaskawa",
   "xId": "yaskawaeurope",
+  "facebookId": "Yaskawa.Israel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,7 +26,6 @@
       "lon": 34.9652441
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Yaskawa.Israel",
-  "linkedinNum": 312916
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/alvalinks-logo.webp",
   "websiteUrl": "https://alvalinks.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "alvalinks",
+  "linkedinNum": 81598583,
   "crunchbaseId": null,
+  "ivcId": "A1000000418037",
   "finderId": "alvalinks",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חבצלת",
-      "houseNumber": 59,
-      "city": "מתן",
-      "lat": 32.1618959,
-      "lon": 34.970451
+      "street": "הרימון",
+      "houseNumber": 86,
+      "city": "נווה ימין",
+      "lat": 32.1696961,
+      "lon": 34.9334418
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81598583
+  "isActive": true
 }

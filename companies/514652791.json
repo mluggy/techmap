@@ -1,26 +1,31 @@
 {
   "name": "Pulseem",
-  "description": "Email Marketing and SMS Solutions",
+  "description": "Email Marketing and SMS Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pulseem-logo.webp",
   "websiteUrl": "https://www.pulseem.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pulseem",
+  "linkedinNum": 2650215,
   "crunchbaseId": null,
+  "ivcId": "A1000000191336",
   "finderId": "pulseem",
   "xId": "Pulseem",
+  "facebookId": "pulseem.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' מסריק",
+      "street": "שדרות מסריק",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.0789864,
-      "lon": 34.7789275
+      "city": "תל אביב-יפו",
+      "lat": 32.0787697,
+      "lon": 34.7783732
     }
   ],
   "isMultinational": false,
-  "facebookId": "pulseem.co.il",
-  "linkedinNum": 2650215
+  "isActive": true
 }

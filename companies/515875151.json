@@ -6,20 +6,26 @@
   "logoFile": "logos/automato_agricultural_robotics-logo.webp",
   "websiteUrl": "https://automatorobotics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "automatorobotics",
+  "linkedinNum": 11569792,
   "crunchbaseId": null,
+  "ivcId": "A1000000276045",
   "finderId": "automato",
   "xId": "AutomatoTweet",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שושנים",
-      "houseNumber": 3,
-      "city": "רמת גן",
-      "lat": 32.09504591768192,
-      "lon": 34.81354010268182
+      "street": "יהלום",
+      "houseNumber": 17,
+      "city": "בית יהושע",
+      "lat": 32.2615214,
+      "lon": 34.8618906
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11569792
+  "isActive": true
 }

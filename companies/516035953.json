@@ -6,21 +6,26 @@
   "logoFile": "logos/minimaxit-logo.webp",
   "websiteUrl": "https://he.minimaxstool.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 71569851,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "minimaxit",
   "xId": null,
+  "facebookId": "MinimaxstoolOfficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברלין אליהו",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.123928,
       "lon": 34.7925715
     }
   ],
   "isMultinational": false,
-  "facebookId": "MinimaxstoolOfficial",
-  "linkedinNum": 71569851
+  "isActive": true
 }

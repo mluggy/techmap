@@ -6,11 +6,17 @@
   "logoFile": "logos/userway-logo.webp",
   "websiteUrl": "https://userway.org/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11024774,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "userway",
   "xId": "UserWayOrg",
+  "facebookId": "UserWay",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בני בנימין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "UserWay",
-  "linkedinNum": 11024774
+  "isActive": true
 }

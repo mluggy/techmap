@@ -6,21 +6,26 @@
   "logoFile": "logos/carpe_diem_solutions-logo.webp",
   "websiteUrl": "https://carpe-diem.solutions/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "carpe-diem-solutions",
+  "linkedinNum": 18986659,
   "crunchbaseId": "carpe-diem-solutions",
+  "ivcId": "A1000000278308",
   "finderId": "carpe-diem-solutions",
   "xId": "CDS_RND",
+  "facebookId": "CDSRND",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בלפור",
-      "houseNumber": 138,
-      "city": "בת ים",
-      "lat": 32.0111408,
-      "lon": 34.7418927
+      "street": "זלמן שז\"ר",
+      "houseNumber": 25,
+      "city": "רמת גן",
+      "lat": 32.0551208,
+      "lon": 34.83225
     }
   ],
   "isMultinational": false,
-  "facebookId": "CDSRND",
-  "linkedinNum": 18986659
+  "isActive": true
 }

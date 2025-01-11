@@ -6,19 +6,26 @@
   "logoFile": "logos/green_eggs-logo.webp",
   "websiteUrl": "https://www.greeneggscafe.com/",
   "careersUrl": "https://www.greeneggscafe.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000428070",
   "finderId": "greeneggs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נמירובר",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.111853,
-      "lon": 34.833577
+      "city": "תל אביב-יפו",
+      "lat": 32.1118134,
+      "lon": 34.8335854
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

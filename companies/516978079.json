@@ -6,11 +6,17 @@
   "logoFile": "logos/rainguard_ai-logo.webp",
   "websiteUrl": "https://rain.ai/",
   "careersUrl": "https://il.linkedin.com/jobs/view/artificial-intelligence-engineer-at-rainguard-3925218508",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rainguard-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המעגל",
@@ -19,5 +25,7 @@
       "lat": 32.08309810376164,
       "lon": 34.81294065390987
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

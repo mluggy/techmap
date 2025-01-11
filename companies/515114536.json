@@ -6,20 +6,26 @@
   "logoFile": "logos/parkam_israel-logo.webp",
   "websiteUrl": "https://parkam.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "parkam",
+  "linkedinNum": 7056369,
   "crunchbaseId": "parkam",
+  "ivcId": "A1000000201282",
   "finderId": "parkam",
   "xId": "parkam7",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנופר",
-      "houseNumber": 2,
-      "city": "רעננה",
-      "lat": 32.1942969,
-      "lon": 34.8850285
+      "street": "פינסקר",
+      "houseNumber": 44,
+      "city": "תל אביב-יפו",
+      "lat": 32.0760895,
+      "lon": 34.7721161
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 7056369
+  "isActive": true
 }

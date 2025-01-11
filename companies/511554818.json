@@ -6,21 +6,26 @@
   "logoFile": "logos/orca_dental_ai-logo.webp",
   "websiteUrl": "https://www.orca-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "orca-dental-ai",
+  "linkedinNum": 18220671,
   "crunchbaseId": "orca-dental-ai",
+  "ivcId": "A1000000245307",
   "finderId": "orca-dental-ai",
   "xId": null,
+  "facebookId": "ORCADentalAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דולב",
-      "houseNumber": 4,
-      "city": "רעננה",
-      "lat": 32.201907,
-      "lon": 34.8810513
+      "street": "המנופים",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.1595829,
+      "lon": 34.8083893
     }
   ],
   "isMultinational": false,
-  "facebookId": "ORCADentalAI",
-  "linkedinNum": 18220671
+  "isActive": true
 }

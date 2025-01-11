@@ -1,16 +1,22 @@
 {
   "name": "Sage",
   "description": "Sage is a global market leader in providing integrated accounting, payroll, and payment systems to small and medium-sized businesses.",
-  "size": "s",
   "categoryId": 10,
+  "size": "s",
   "logoFile": "logos/sage_design_automation-logo.webp",
   "websiteUrl": "https://www.sage.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2802,
   "crunchbaseId": "sage-design-automation",
+  "ivcId": null,
   "finderId": "sage",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -20,6 +26,6 @@
       "lon": 34.8080738
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 2802
+  "isMultinational": false,
+  "isActive": true
 }

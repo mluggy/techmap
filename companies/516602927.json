@@ -6,11 +6,17 @@
   "logoFile": "logos/creednz-logo.webp",
   "websiteUrl": "https://creednz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "creednz",
+  "linkedinNum": 86905127,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "creednz",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריבלין יוסף",
@@ -19,5 +25,7 @@
       "lat": 31.7807532,
       "lon": 35.2204697
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

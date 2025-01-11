@@ -4,12 +4,28 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/becapio-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.becapio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "becapio",
+  "linkedinNum": 102790723,
   "crunchbaseId": null,
+  "ivcId": "A1000000417976",
   "finderId": "becapio",
   "xId": null,
-  "addresses": []
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תכלת",
+      "houseNumber": 17,
+      "city": "משגב",
+      "lat": 32.86743556672143,
+      "lon": 35.280228804651635
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

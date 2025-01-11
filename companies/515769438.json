@@ -3,21 +3,29 @@
   "description": "A leading platform providing a secure, data-driven online marketplace and management solutions for certified polished diamonds.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/lucy_platforms-logo.webp",
+  "logoFile": "logos/lucy-platforms-logo.webp",
   "websiteUrl": "https://www.lucyplatforms.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lucy-platforms",
+  "linkedinNum": 18245983,
   "crunchbaseId": "lucy-platforms",
+  "ivcId": "A1000000245817",
   "finderId": "lucy-platforms",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
+      "street": "מנחם בגין",
       "houseNumber": 14,
-      "city": "רמת גן",
-      "lat": 32.0838947,
-      "lon": 34.79965
+      "city": "בני ברק",
+      "lat": 32.0923948,
+      "lon": 34.8280072
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/shimeba_solutions-logo.webp",
   "websiteUrl": "https://www.shimeba.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "shimeba",
+  "linkedinNum": 3318920,
   "crunchbaseId": "shimeba",
+  "ivcId": "A1000000172831",
   "finderId": "shimeba",
   "xId": null,
+  "facebookId": "shimeba",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פרישמן",
-      "houseNumber": 64,
-      "city": "תל אביב - יפו",
-      "lat": 32.079526,
-      "lon": 34.77593
+      "street": "בן גמליאל",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0533042,
+      "lon": 34.7588357
     }
   ],
   "isMultinational": false,
-  "facebookId": "shimeba",
-  "linkedinNum": 3318920
+  "isActive": true
 }

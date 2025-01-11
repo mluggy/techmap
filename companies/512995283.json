@@ -6,20 +6,26 @@
   "logoFile": "logos/notal_vision_ltd-logo.webp",
   "websiteUrl": "https://notalvision.com/",
   "careersUrl": "https://notalvision.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "notal-vision",
+  "linkedinNum": 52831,
   "crunchbaseId": null,
+  "ivcId": "A1000000007188",
   "finderId": "notal-vision",
   "xId": "NotalVision",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרויאנוב",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.076978,
-      "lon": 34.771767
+      "city": "תל אביב-יפו",
+      "lat": 32.0768982,
+      "lon": 34.7719282
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 52831
+  "isActive": true
 }

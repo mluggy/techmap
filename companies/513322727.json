@@ -1,25 +1,31 @@
 {
   "name": "Ranger MSP",
-  "description": "RangerMSP comes with both a Windows client app and a Browser based Web app that is also Responsive and mobile friendly. RangerMSP is a powerful and yet ...",
+  "description": "Commit Business Solutions is a provider of CommitCRM - A Professional Service Automation (PSA), CRM, and billing software solution designed specifically for small IT service providers, computer repair shops and managed-service providers (MSPs).",
   "categoryId": 14,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/ranger_msp-logo.webp",
-  "websiteUrl": "https://www.rangermsp.com/",
+  "websiteUrl": "http://www.commitcrm.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rangermsp",
+  "linkedinNum": 367771,
   "crunchbaseId": null,
+  "ivcId": "A1000000005906",
   "finderId": "commitcrm",
   "xId": "rangermsp",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המכתש",
-      "houseNumber": 6,
-      "city": "חולון",
-      "lat": 32.02622325,
-      "lon": 34.795014884560736
+      "street": "המסגר",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.0623926,
+      "lon": 34.7853799
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 367771
+  "isActive": true
 }

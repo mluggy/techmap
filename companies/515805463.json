@@ -6,21 +6,26 @@
   "logoFile": "logos/beewizer-logo.webp",
   "websiteUrl": "https://www.beewizer.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bee-wizer",
+  "linkedinNum": 12643239,
   "crunchbaseId": null,
+  "ivcId": "A1000000388310",
   "finderId": "medwizer",
   "xId": "beewizer",
+  "facebookId": "Beewizer-140902876084059",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בורוכוב",
-      "houseNumber": 9,
-      "city": "גבעתיים",
-      "lat": 32.07814535,
-      "lon": 34.8040678433258
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "Beewizer-140902876084059",
-  "linkedinNum": 12643239
+  "isActive": true
 }

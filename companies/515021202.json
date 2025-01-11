@@ -6,21 +6,26 @@
   "logoFile": "logos/cust_2_mate-logo.webp",
   "websiteUrl": "https://cust2mate.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cust2mate",
+  "linkedinNum": 27041802,
   "crunchbaseId": null,
+  "ivcId": "A1000000257370",
   "finderId": "cust2mate",
   "xId": null,
+  "facebookId": "Cust2Mate-Ltd-1007785792688385",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפרת",
-      "houseNumber": 2,
-      "city": "יבנה",
-      "lat": 31.8879237,
-      "lon": 34.7390623
+      "street": "עמינדב",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0651627,
+      "lon": 34.7929611
     }
   ],
   "isMultinational": false,
-  "facebookId": "Cust2Mate-Ltd-1007785792688385",
-  "linkedinNum": 27041802
+  "isActive": true
 }

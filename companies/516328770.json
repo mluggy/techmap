@@ -6,11 +6,17 @@
   "logoFile": "logos/clean_flare-logo.webp",
   "websiteUrl": "https://www.cleanflare.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cleanflare",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כהן אלי",
@@ -20,5 +26,6 @@
       "lon": 34.8077232
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

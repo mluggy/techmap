@@ -6,11 +6,17 @@
   "logoFile": "logos/saverone_2014-logo.webp",
   "websiteUrl": "https://saver.one/",
   "careersUrl": "https://saver.one/careers/",
-  "isHiring": true,
   "linkedinId": "saver1",
+  "linkedinNum": 5379022,
   "crunchbaseId": null,
+  "ivcId": "A1000000179362",
   "finderId": "saverone",
   "xId": "SaverOne_",
+  "facebookId": "Saver.One.Official",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אם המושבות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Saver.One.Official",
-  "linkedinNum": 5379022
+  "isActive": true
 }

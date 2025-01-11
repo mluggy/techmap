@@ -6,21 +6,26 @@
   "logoFile": "logos/deep_innovations-logo.webp",
   "websiteUrl": "https://www.deepinnovations.co.uk/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "deep-innovations-ltd",
+  "linkedinNum": 18232696,
   "crunchbaseId": "deep-innovations",
+  "ivcId": null,
   "finderId": "deep-innovations",
   "xId": null,
+  "facebookId": "poolscout",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0605137,
       "lon": 34.7759853
     }
   ],
   "isMultinational": false,
-  "facebookId": "poolscout",
-  "linkedinNum": 18232696
+  "isActive": true
 }

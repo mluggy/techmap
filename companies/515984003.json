@@ -6,11 +6,17 @@
   "logoFile": "logos/powerfleet_israel-logo.webp",
   "websiteUrl": "https://www.powerfleet.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "powerfleetaiot",
+  "linkedinNum": 40967979,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "powerfleet",
   "xId": null,
+  "facebookId": "powerfleetinc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,7 +26,6 @@
       "lon": 34.9652441
     }
   ],
-  "isMultinational": true,
-  "facebookId": "powerfleetinc",
-  "linkedinNum": 40967979
+  "isMultinational": false,
+  "isActive": true
 }

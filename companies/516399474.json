@@ -6,20 +6,26 @@
   "logoFile": "logos/housetable-logo.webp",
   "websiteUrl": "https://www.housetable.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "housetable",
+  "linkedinNum": 72738852,
   "crunchbaseId": null,
+  "ivcId": "A1000000351341",
   "finderId": "housetable",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.0658477,
-      "lon": 34.7859941
+      "city": "תל אביב-יפו",
+      "lat": 32.0657506,
+      "lon": 34.7860288
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72738852
+  "isActive": true
 }

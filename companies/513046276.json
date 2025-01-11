@@ -6,11 +6,17 @@
   "logoFile": "logos/eilon_engineering_industrial_weighing_systems-logo.webp",
   "websiteUrl": "https://www.eilon-engineering.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "eilon-engineering",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אתגר",
@@ -19,5 +25,7 @@
       "lat": 32.7726661,
       "lon": 34.9678575
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

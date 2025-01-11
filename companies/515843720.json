@@ -6,20 +6,26 @@
   "logoFile": "logos/elgan_pharma-logo.webp",
   "websiteUrl": "https://elganpharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "elgan-pharma",
+  "linkedinNum": 67923556,
   "crunchbaseId": null,
+  "ivcId": "A1000000304390",
   "finderId": "elgan-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
+      "street": "ואדי אל חאג'",
       "houseNumber": 13,
       "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "lat": 32.6900962,
+      "lon": 35.3001352
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 67923556
+  "isActive": true
 }

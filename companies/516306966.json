@@ -6,20 +6,26 @@
   "logoFile": "logos/pushub_me-logo.webp",
   "websiteUrl": "https://pushub.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pushub",
+  "linkedinNum": 68833521,
   "crunchbaseId": "pushub",
+  "ivcId": "A1000000342187",
   "finderId": "pushub",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המרכבה",
-      "houseNumber": 26,
-      "city": "חולון",
-      "lat": 32.0199282,
-      "lon": 34.8042081
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68833521
+  "isActive": true
 }

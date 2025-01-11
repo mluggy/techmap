@@ -1,25 +1,31 @@
 {
   "name": "DigiSense",
-  "description": "Contact-free, Wearable Monitoring Technology",
+  "description": "Contact-free, Wearable Monitoring Technology.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/digisense-logo.webp",
   "websiteUrl": "https://www.dg-sense.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "digisense-.ltd",
+  "linkedinNum": 1043044,
   "crunchbaseId": null,
+  "ivcId": "A1000000001186",
   "finderId": "digisense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן דרור מרדכי",
-      "houseNumber": 14,
+      "street": "מרדכי מירקין",
+      "houseNumber": null,
       "city": "פתח תקווה",
-      "lat": 32.0995681,
-      "lon": 34.88979814208768
+      "lat": 32.0787341,
+      "lon": 34.8741025
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1043044
+  "isActive": true
 }

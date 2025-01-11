@@ -1,0 +1,31 @@
+{
+  "name": "PlantArcBio",
+  "description": "PlantArcBio is a public Ag-Bio company with an innovative and IP protected Direct-In-Plant (DIP™) discovery platform.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/plantarcbio-logo.webp",
+  "websiteUrl": "http://www.plantarcbio.com",
+  "careersUrl": "https://plantarcbio.com/career/",
+  "linkedinId": "plantarcbio",
+  "linkedinNum": 18029372,
+  "crunchbaseId": null,
+  "ivcId": "A1000000232277",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ברכת עם",
+      "houseNumber": 61,
+      "city": "גבעת חן",
+      "lat": 32.1664461,
+      "lon": 34.8701978
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

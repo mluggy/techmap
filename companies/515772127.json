@@ -1,26 +1,31 @@
 {
   "name": "ClearSkin",
-  "description": "Microbiomic Treatment for Psoriasis and Other Skin Conditions",
+  "description": "Microbiomic Treatment for Psoriasis and Other Skin Conditions.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/clearskin-logo.webp",
   "websiteUrl": "https://mibiome.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "clearskin-medical",
+  "linkedinNum": 64275262,
   "crunchbaseId": null,
+  "ivcId": "A1000000247800",
   "finderId": "clearskin",
   "xId": null,
+  "facebookId": "MiBiome",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חן",
-      "houseNumber": 28,
+      "street": null,
+      "houseNumber": null,
       "city": "כרמיאל",
-      "lat": 32.9230425,
-      "lon": 35.2945167
+      "lat": 32.9085935,
+      "lon": 35.2932814
     }
   ],
   "isMultinational": false,
-  "facebookId": "MiBiome",
-  "linkedinNum": 64275262
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Homaze",
+  "description": "Homaze is a game-changing platform for residential remodelers, enabling systematic business growth and seamless client communication.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/homaze-logo.webp",
+  "websiteUrl": "https://homaze.com",
+  "careersUrl": null,
+  "linkedinId": "homazze",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000321826",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האומנים",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.071286,
+      "lon": 34.7951862
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

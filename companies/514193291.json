@@ -6,11 +6,17 @@
   "logoFile": "logos/splitit-logo.webp",
   "websiteUrl": "https://www.splitit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10256330,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "payitsimple-usa-inc",
   "xId": "splitit_",
+  "facebookId": "SplititUSAinc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SplititUSAinc",
-  "linkedinNum": 10256330
+  "isActive": true
 }

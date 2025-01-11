@@ -6,21 +6,26 @@
   "logoFile": "logos/tipranks_ltd-logo.webp",
   "websiteUrl": "https://www.tipranks.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tipranks",
+  "linkedinNum": 2858966,
   "crunchbaseId": null,
+  "ivcId": "A1000000021091",
   "finderId": "tipranks",
   "xId": "TipRanks",
+  "facebookId": "TipRanks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויצמן",
+      "street": "ויצמן‬",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0776132,
-      "lon": 34.7891243
+      "city": "תל אביב-יפו",
+      "lat": 32.0775668,
+      "lon": 34.7891393
     }
   ],
   "isMultinational": false,
-  "facebookId": "TipRanks",
-  "linkedinNum": 2858966
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Securely",
-  "description": "Smart Lifecycle Management of Digital Certificates",
+  "description": "Smart Lifecycle Management of Digital Certificates.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/securely-logo.webp",
   "websiteUrl": "https://www.secure-ly.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "securely-ltd",
+  "linkedinNum": 7949382,
   "crunchbaseId": null,
+  "ivcId": "A1000000228136",
   "finderId": "securely",
   "xId": null,
+  "facebookId": "securely",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יקינטון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "securely",
-  "linkedinNum": 7949382
+  "isActive": true
 }

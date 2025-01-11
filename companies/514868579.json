@@ -6,21 +6,26 @@
   "logoFile": "logos/tabnine-logo.webp",
   "websiteUrl": "https://www.tabnine.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tabnine",
+  "linkedinNum": 3236936,
   "crunchbaseId": null,
+  "ivcId": "A1000000022105",
   "finderId": "codota",
   "xId": "tabnine",
+  "facebookId": "TabnineInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "TabnineInc",
-  "linkedinNum": 3236936
+  "isActive": true
 }

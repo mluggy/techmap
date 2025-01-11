@@ -1,25 +1,31 @@
 {
   "name": "ProDrops",
-  "description": "Gaming Influencers Trading Card Game",
+  "description": "Gaming Influencers Trading Card Game.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/prodrops-logo.webp",
   "websiteUrl": "https://prodropsgame.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "prodropsgame",
+  "linkedinNum": 77738506,
   "crunchbaseId": null,
+  "ivcId": "A1000000369550",
   "finderId": "prodrops",
   "xId": "ProDropsGame",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
+      "street": "מנחם בגין",
       "houseNumber": 12,
-      "city": "רמת גן",
-      "lat": 32.0852442,
-      "lon": 34.8003868
+      "city": "בני ברק",
+      "lat": 32.092447,
+      "lon": 34.82777
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77738506
+  "isActive": true
 }

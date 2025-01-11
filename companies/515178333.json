@@ -6,11 +6,17 @@
   "logoFile": "logos/codefresh_israel-logo.webp",
   "websiteUrl": "https://codefresh.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3671000,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "codefresh",
   "xId": "codefresh",
+  "facebookId": "codefresh.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "codefresh.io",
-  "linkedinNum": 3671000
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/bizzabo-logo.webp",
   "websiteUrl": "https://www.bizzabo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bizzabo",
+  "linkedinNum": 1588586,
   "crunchbaseId": null,
+  "ivcId": "A1000000001991",
   "finderId": "bizzabo",
   "xId": "bizzabo",
+  "facebookId": "Bizzabo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האומנים",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.071148,
-      "lon": 34.79519
+      "city": "תל אביב-יפו",
+      "lat": 32.0710249,
+      "lon": 34.7951078
     }
   ],
   "isMultinational": false,
-  "facebookId": "Bizzabo",
-  "linkedinNum": 1588586
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/curesponse-logo.webp",
   "websiteUrl": "https://www.curesponse.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "curesponse",
+  "linkedinNum": 18434992,
   "crunchbaseId": null,
+  "ivcId": "A1000000248899",
   "finderId": "curesponse",
   "xId": null,
+  "facebookId": "Curesponse",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויצמן",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.080088,
-      "lon": 34.78891
+      "street": "אופנהיימר",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.1185525,
+      "lon": 34.8004103
     }
   ],
   "isMultinational": false,
-  "facebookId": "Curesponse",
-  "linkedinNum": 18434992
+  "isActive": true
 }

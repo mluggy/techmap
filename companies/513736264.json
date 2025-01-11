@@ -6,20 +6,26 @@
   "logoFile": "logos/enlivex_therapeutics_r_d-logo.webp",
   "websiteUrl": "https://enlivex.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "enlivex-therapeutics-nasdaq-enlv",
+  "linkedinNum": 19117645,
   "crunchbaseId": null,
+  "ivcId": "A1000000003197",
   "finderId": "enlivex-therapeutics",
   "xId": "EnlivexT",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עין כרם",
-      "houseNumber": null,
-      "city": "ירושלים",
-      "lat": 31.7681468,
-      "lon": 35.1621008
+      "street": "איינשטיין",
+      "houseNumber": 14,
+      "city": "נס ציונה",
+      "lat": 31.9156006,
+      "lon": 34.8059442
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 19117645
+  "isActive": true
 }

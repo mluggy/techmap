@@ -6,11 +6,17 @@
   "logoFile": "logos/ctera_networks-logo.webp",
   "websiteUrl": "https://www.ctera.com/",
   "careersUrl": "https://www.ctera.com/company/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "ctera-networks",
+  "linkedinNum": 300228,
   "crunchbaseId": null,
+  "ivcId": "A1000000002923",
   "finderId": "ctera-networks",
   "xId": "CTERA",
+  "facebookId": "CTERA",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אפעל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CTERA",
-  "linkedinNum": 300228
+  "isActive": true
 }

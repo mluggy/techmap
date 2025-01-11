@@ -6,18 +6,26 @@
   "logoFile": "logos/wisepal-logo.webp",
   "websiteUrl": "https://www.wisepal.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wisepal-ai",
+  "linkedinNum": 105126412,
   "crunchbaseId": null,
+  "ivcId": "A1000000434661",
   "finderId": "wisepal",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד' רוקח",
       "houseNumber": 101,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1053566,
       "lon": 34.811018495092924
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

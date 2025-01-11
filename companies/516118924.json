@@ -6,11 +6,17 @@
   "logoFile": "logos/minded_medicine-logo.webp",
   "websiteUrl": "https://mindmed.co/",
   "careersUrl": "https://mindmed.co/careers/",
-  "isHiring": true,
   "linkedinId": "tryminded",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "minded",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוזן פנחס",
@@ -19,5 +25,7 @@
       "lat": 32.1643876,
       "lon": 34.8155909
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/city_transformer-logo.webp",
   "websiteUrl": "https://citytransformer.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "city-transformer",
+  "linkedinNum": 3605373,
   "crunchbaseId": null,
+  "ivcId": "A1000000024678",
   "finderId": "city-transformer",
   "xId": "CtTransformer",
+  "facebookId": "CtTransformer",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דבורה הנביאה",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.113198,
-      "lon": 34.844295
+      "city": "תל אביב-יפו",
+      "lat": 32.1135286,
+      "lon": 34.8432083
     }
   ],
   "isMultinational": false,
-  "facebookId": "CtTransformer",
-  "linkedinNum": 3605373
+  "isActive": true
 }

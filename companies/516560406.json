@@ -3,21 +3,29 @@
   "description": "Tool for Managing Personal Finances.",
   "categoryId": 10,
   "size": "s",
-  "logoFile": "logos/better_personal_finance_management-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/better-personal-finance-management-logo.webp",
+  "websiteUrl": "http://www.allbetter.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "betterpfm",
+  "linkedinNum": 82211466,
   "crunchbaseId": null,
+  "ivcId": "A1000000418104",
   "finderId": "better-personal-finance-management",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זמנהוף",
-      "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.077112,
-      "lon": 34.778241
+      "street": "מנחם בגין",
+      "houseNumber": 114,
+      "city": "בני ברק",
+      "lat": 32.0930892,
+      "lon": 34.8322703
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

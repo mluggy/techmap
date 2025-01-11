@@ -6,11 +6,17 @@
   "logoFile": "logos/flightree-logo.webp",
   "websiteUrl": "https://www.flightree.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "flightree",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עינים למשפט",
@@ -20,5 +26,6 @@
       "lon": 35.21352675620242
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

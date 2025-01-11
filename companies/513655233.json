@@ -6,11 +6,17 @@
   "logoFile": "logos/xjet-logo.webp",
   "websiteUrl": "https://xjet3d.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "xjet",
+  "linkedinNum": 1482058,
   "crunchbaseId": null,
+  "ivcId": "A1000000002091",
   "finderId": "xjet-ltd",
   "xId": "XJet_3d",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1482058
+  "isActive": true
 }

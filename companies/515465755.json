@@ -6,12 +6,26 @@
   "logoFile": "logos/amphorica_technologies-logo.webp",
   "websiteUrl": "https://amphorica.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "amphorica",
+  "linkedinNum": 76666352,
   "crunchbaseId": "amphorica",
+  "ivcId": "A1000000409523",
   "finderId": "Amphorica",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "בית קשת",
+      "lat": 32.718446,
+      "lon": 35.394952
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 76666352
+  "isActive": true
 }

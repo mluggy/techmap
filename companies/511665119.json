@@ -1,0 +1,31 @@
+{
+  "name": "Moked Enosh",
+  "description": "Moked Enosh is a technology company specializes in the field of personal security and monitoring services.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/moked-enosh-logo.webp",
+  "websiteUrl": "https://moked-enosh.co.il",
+  "careersUrl": null,
+  "linkedinId": "%D7%9E%D7%95%D7%A7%D7%93-%D7%90%D7%A0%D7%95%D7%A9",
+  "linkedinNum": 51957620,
+  "crunchbaseId": null,
+  "ivcId": "A1000000008182",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פינטו",
+      "houseNumber": 20,
+      "city": "פתח תקווה",
+      "lat": 32.1014409,
+      "lon": 34.8955499
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

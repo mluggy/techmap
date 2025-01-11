@@ -6,21 +6,26 @@
   "logoFile": "logos/voyantis-logo.webp",
   "websiteUrl": "https://www.voyantis.ai/",
   "careersUrl": "https://www.voyantis.ai/careers",
-  "isHiring": true,
   "linkedinId": "voyantis",
+  "linkedinNum": 66924899,
   "crunchbaseId": null,
+  "ivcId": "A1000000331316",
   "finderId": "voyantis",
   "xId": "Voyantis1",
+  "facebookId": "voyantis",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנצי\"ב",
-      "houseNumber": 28,
-      "city": "תל אביב - יפו",
-      "lat": 32.070307,
-      "lon": 34.790395
+      "street": "שונצינו",
+      "houseNumber": 22,
+      "city": "תל אביב-יפו",
+      "lat": 32.0683818,
+      "lon": 34.7883248
     }
   ],
   "isMultinational": false,
-  "facebookId": "voyantis",
-  "linkedinNum": 66924899
+  "isActive": true
 }

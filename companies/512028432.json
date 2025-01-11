@@ -6,11 +6,17 @@
   "logoFile": "logos/microchip_mchp_technology_israel-logo.webp",
   "websiteUrl": "https://www.microchip.com/",
   "careersUrl": "https://www.microchip.com/en-us/about/careers",
-  "isHiring": true,
   "linkedinId": "microchip-technology",
+  "linkedinNum": 6481,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "microchip",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
@@ -20,6 +26,6 @@
       "lon": 34.8947603
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 6481
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Codium",
-  "description": "AI-powered Interactive Code Integrity Tool",
+  "description": "AI-powered Interactive Code Integrity Tool.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/codium-logo.webp",
   "websiteUrl": "https://www.codium.ai",
   "careersUrl": "https://www.codium.ai/careers/",
-  "isHiring": true,
   "linkedinId": "codiumai",
+  "linkedinNum": 88026039,
   "crunchbaseId": null,
+  "ivcId": "A1000000410602",
   "finderId": "codium",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
-      "lat": 32.070693,
-      "lon": 34.785176
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 88026039
+  "isActive": true
 }

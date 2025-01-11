@@ -1,16 +1,22 @@
 {
   "name": "Road Protect",
-  "description": "Administrative Management Solutions",
+  "description": "Administrative Management Solutions.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/road_protect_israel-logo.webp",
   "websiteUrl": "https://www.roadprotect.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10493659,
   "crunchbaseId": null,
+  "ivcId": "A1000000233215",
   "finderId": "habatlan",
   "xId": "IsraelFines",
+  "facebookId": "roadprotectisrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ניל\"י",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "roadprotectisrael",
-  "linkedinNum": 10493659
+  "isActive": true
 }

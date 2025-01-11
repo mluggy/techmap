@@ -6,20 +6,26 @@
   "logoFile": "logos/quant_health-logo.webp",
   "websiteUrl": "https://quanthealth.ai/",
   "careersUrl": "https://boards.eu.greenhouse.io/quanthealth",
-  "isHiring": true,
   "linkedinId": "quanthealthlabs",
+  "linkedinNum": 76171509,
   "crunchbaseId": null,
+  "ivcId": "A1000000343356",
   "finderId": "quanthealth",
   "xId": "QuanthealthL",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הקשת",
-      "houseNumber": 5,
-      "city": "רעננה",
-      "lat": 32.187302,
-      "lon": 34.859045
+      "street": "הארבעה",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0703125,
+      "lon": 34.783464
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76171509
+  "isActive": true
 }

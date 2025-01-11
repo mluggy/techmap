@@ -1,0 +1,31 @@
+{
+  "name": "Seedr",
+  "description": "Seedr provides top-in-class streaming technology, that allows users to watch movies, listen to music, or read anything in their torrent library directly from the cloud on any device and can fetch torrents to the cloud within several minutes down to several seconds.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/seedr-logo.webp",
+  "websiteUrl": "https://www.seedr.cc",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000187476",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 41,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642684,
+      "lon": 34.7743353
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

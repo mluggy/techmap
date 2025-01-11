@@ -6,11 +6,17 @@
   "logoFile": "logos/bluesnap-logo.webp",
   "websiteUrl": "https://home.bluesnap.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bluesnap",
+  "linkedinNum": 52768,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bluesnap",
   "xId": "BlueSnapInc",
+  "facebookId": "bluesnapmerchants",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מדינת היהודים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "bluesnapmerchants",
-  "linkedinNum": 52768
+  "isActive": true
 }

@@ -3,21 +3,29 @@
   "description": "This platform enhances real-time safety and productivity on construction sites and public works by reducing accidents and costs while improving working conditions.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/safetybim_com-logo.webp",
+  "logoFile": "logos/safetybim-com-logo.webp",
   "websiteUrl": "https://safetybim.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "safetybimbtp",
+  "linkedinNum": 13988781,
   "crunchbaseId": null,
+  "ivcId": "A1000000334203",
   "finderId": "safetybim-com",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דיזנגוף",
-      "houseNumber": 46,
-      "city": "נתניה",
-      "lat": 32.3270394,
-      "lon": 34.8522639
+      "street": "גיבורי ישראל",
+      "houseNumber": 24,
+      "city": "בני ברק",
+      "lat": 32.0819028,
+      "lon": 34.843146
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

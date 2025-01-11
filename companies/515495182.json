@@ -1,26 +1,31 @@
 {
   "name": "Conqum Systems",
-  "description": "Construction Quality Management System",
+  "description": "The Conqum (CONstruction QUality Management) system was developed as a joint venture between OLAN AT&S Ltd.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/conqum_systems-logo.webp",
-  "websiteUrl": "https://conqum-ltd.com/en/",
+  "websiteUrl": "https://www.conqum.com/about_eng",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "conqum-systems-ltd",
+  "linkedinNum": 72615744,
   "crunchbaseId": null,
+  "ivcId": "A1000000281154",
   "finderId": "conqum-systems",
   "xId": null,
+  "facebookId": "conqum",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך עכו",
       "houseNumber": 47,
-      "city": "קריית מוצקין",
-      "lat": 32.8307517,
-      "lon": 35.0812287
+      "city": "קרית מוצקין",
+      "lat": 32.8267868,
+      "lon": 35.07985439999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "conqum",
-  "linkedinNum": 72615744
+  "isActive": true
 }

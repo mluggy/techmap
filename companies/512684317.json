@@ -1,17 +1,31 @@
 {
   "name": "Mind Guard",
-  "description": "Mental Resilience, Digital Behavior, Made Easy with  Personalized Insights & Real-time Interventions",
-  "categoryId": 12,
+  "description": "Hour25.ai is a real-time focus solution, improving emotional regulation for knowledge workers.",
+  "categoryId": 18,
   "size": "s",
   "logoFile": "logos/mind_guard-logo.webp",
-  "websiteUrl": "https://www.getmindguard.com",
+  "websiteUrl": "https://www.hour25.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mind-guard",
+  "linkedinNum": 77037678,
   "crunchbaseId": null,
+  "ivcId": "A1000000373997",
   "finderId": "mind-guard",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 77037678
+  "isActive": true
 }

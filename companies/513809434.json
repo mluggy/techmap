@@ -1,0 +1,31 @@
+{
+  "name": "vSpirits",
+  "description": "Virtual Spirits is the name of VSpirits Technologies SAAS offering.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/vspirits-logo.webp",
+  "websiteUrl": "https://www.virtualspirits.com",
+  "careersUrl": "https://www.virtualspirits.com/jobs.aspx",
+  "linkedinId": "virtual-spirits",
+  "linkedinNum": 2836168,
+  "crunchbaseId": null,
+  "ivcId": "A1000000005494",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "ראש העין",
+      "lat": 32.095838,
+      "lon": 34.952177
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

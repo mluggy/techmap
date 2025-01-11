@@ -6,12 +6,26 @@
   "logoFile": "logos/holoarch_technologies-logo.webp",
   "websiteUrl": "https://holoarch.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 19032665,
   "crunchbaseId": null,
+  "ivcId": "A1000000273257",
   "finderId": "holoarch-technologies",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך חיפה",
+      "houseNumber": 45,
+      "city": "קרית אתא",
+      "lat": 32.8069945,
+      "lon": 35.0735799
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 19032665
+  "isActive": true
 }

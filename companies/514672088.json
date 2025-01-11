@@ -1,16 +1,22 @@
 {
   "name": "Noble",
-  "description": "Credit Underwriting as a Service",
+  "description": "Credit Underwriting as a Service.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/noble_line-logo.webp",
   "websiteUrl": "https://www.benoble.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "noble-team",
+  "linkedinNum": 77699405,
   "crunchbaseId": null,
+  "ivcId": "A1000000346524",
   "finderId": "noble-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלמראח",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77699405
+  "isActive": true
 }

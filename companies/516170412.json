@@ -6,21 +6,26 @@
   "logoFile": "logos/erudite-logo.webp",
   "websiteUrl": "https://www.upword.ai/",
   "careersUrl": "https://www.upwork.com/freelance-jobs/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 26255123,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "erudite",
   "xId": "upword_official",
+  "facebookId": "Upword-109254874006696",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בוני העיר",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.100101,
       "lon": 34.783343
     }
   ],
   "isMultinational": false,
-  "facebookId": "Upword-109254874006696",
-  "linkedinNum": 26255123
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/kratos_2021-logo.webp",
   "websiteUrl": "https://www.kratosdefense.com/",
   "careersUrl": "https://www.kratosdefense.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 269675,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kratos",
   "xId": "KratosDefense",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יאיר",
@@ -20,6 +26,6 @@
       "lon": 34.7911694
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 269675
+  "isMultinational": false,
+  "isActive": true
 }

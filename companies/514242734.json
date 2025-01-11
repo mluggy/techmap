@@ -1,0 +1,31 @@
+{
+  "name": "Finanda",
+  "description": "Finanda's app displays in one place all its activities in the banking world and is updated regularly.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/finanda-logo.webp",
+  "websiteUrl": "https://www.finanda.com",
+  "careersUrl": null,
+  "linkedinId": "finanda",
+  "linkedinNum": 15178885,
+  "crunchbaseId": null,
+  "ivcId": "A1000000331658",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרופא זלוצ'יסטי",
+      "houseNumber": 54,
+      "city": "חיפה",
+      "lat": 32.7873819,
+      "lon": 34.9771615
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

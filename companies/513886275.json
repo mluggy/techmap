@@ -1,26 +1,31 @@
 {
   "name": "Galileo Satellite Navigation",
-  "description": "Solutions for the Civil GNSS/GPS Market",
+  "description": "Solutions for the Civil GNSS/GPS Market.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/galileo_satellite_navigation-logo.webp",
   "websiteUrl": "https://galileo-nav.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 77038765,
   "crunchbaseId": null,
+  "ivcId": "A1000000001144",
   "finderId": "galileo-satellite-navigation",
   "xId": null,
+  "facebookId": "Galileo-Satellite-Navigation-Ltd-693803347331095",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גבריהו",
-      "houseNumber": 8,
+      "street": "דוד סחרוב",
+      "houseNumber": 3,
       "city": "ראשון לציון",
-      "lat": 31.9589134,
-      "lon": 34.8136001
+      "lat": 31.9925954,
+      "lon": 34.7682718
     }
   ],
   "isMultinational": false,
-  "facebookId": "Galileo-Satellite-Navigation-Ltd-693803347331095",
-  "linkedinNum": 77038765
+  "isActive": true
 }

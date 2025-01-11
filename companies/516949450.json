@@ -6,18 +6,26 @@
   "logoFile": "logos/opcar_ev-logo.webp",
   "websiteUrl": "https://opcar-ev.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000463830",
   "finderId": "opcar-ev",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהדות קנדה",
       "houseNumber": 3,
       "city": "אור יהודה",
-      "lat": 32.02127515,
-      "lon": 34.85995271599141
+      "lat": 32.0211372,
+      "lon": 34.8602229
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

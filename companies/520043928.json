@@ -6,21 +6,26 @@
   "logoFile": "logos/apollo_power-logo.webp",
   "websiteUrl": "https://apollo-power.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "apollopower1",
+  "linkedinNum": 11376684,
   "crunchbaseId": null,
+  "ivcId": "A1000000176376",
   "finderId": "apollo-power",
   "xId": null,
+  "facebookId": "ApolloPowerEnergyEverywhere",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
       "houseNumber": 6,
-      "city": "יקנעם עילית",
-      "lat": 32.659574899999996,
-      "lon": 35.0987182394682
+      "city": "יוקנעם עילית",
+      "lat": 32.6595784,
+      "lon": 35.0985963
     }
   ],
   "isMultinational": false,
-  "facebookId": "ApolloPowerEnergyEverywhere",
-  "linkedinNum": 11376684
+  "isActive": true
 }

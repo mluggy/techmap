@@ -6,11 +6,17 @@
   "logoFile": "logos/rimi_management_and_investment-logo.webp",
   "websiteUrl": "https://www.rimi.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rimi",
   "xId": null,
+  "facebookId": "rimi1922",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גורדון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "rimi1922"
+  "isActive": true
 }

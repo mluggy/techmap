@@ -6,11 +6,17 @@
   "logoFile": "logos/albe_information-logo.webp",
   "websiteUrl": "https://www.albe.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 26486706,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "albe",
   "xId": "AlbeCredit",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרן קימת לישראל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 26486706
+  "isActive": true
 }

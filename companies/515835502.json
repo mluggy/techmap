@@ -1,25 +1,31 @@
 {
   "name": "IDE Technologies",
-  "description": "Water-treatment Solutions for Municipal and Industrial Applications",
+  "description": "Water-treatment Solutions for Municipal and Industrial Applications.",
   "categoryId": 14,
   "size": "l",
   "logoFile": "logos/ide_technologies_group-logo.webp",
   "websiteUrl": "https://ide-tech.com/en",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ide-technologies-ltd.",
+  "linkedinNum": 320617,
   "crunchbaseId": "ide-technologies",
+  "ivcId": "A1000000006599",
   "finderId": "ide-technologies",
   "xId": "idetechnologies",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המתכת",
       "houseNumber": 5,
-      "city": "קדימה",
-      "lat": 32.2754966,
-      "lon": 34.9222268
+      "city": "קדימה צורן",
+      "lat": 32.2761443,
+      "lon": 34.9226451
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 320617
+  "isActive": true
 }

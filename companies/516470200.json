@@ -1,26 +1,31 @@
 {
   "name": "Coral Smart Pool",
-  "description": "Video-based Drowning Detection System",
-  "categoryId": 7,
-  "size": "s",
+  "description": "Coral is dedicated to saving lives and improving the pool experience.",
+  "categoryId": 14,
+  "size": "xs",
   "logoFile": "logos/coral_smart_pool-logo.webp",
-  "websiteUrl": "https://coraldrowningdetection.com/",
+  "websiteUrl": "https://coralsmartpool.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "coral-drowning-detection-systems",
+  "linkedinNum": 35699295,
   "crunchbaseId": null,
+  "ivcId": "A1000000234266",
   "finderId": "coral",
   "xId": "systemscoral",
+  "facebookId": "CoralSmartPool",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 3,
-      "city": "בנימינה",
-      "lat": 32.5128454,
-      "lon": 34.9484798
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5141283,
+      "lon": 34.9483839
     }
   ],
   "isMultinational": false,
-  "facebookId": "CoralSmartPool",
-  "linkedinNum": 35699295
+  "isActive": true
 }

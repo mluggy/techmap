@@ -3,14 +3,20 @@
   "description": "Cloud-based software for managing and trading cryptocurrencies.",
   "categoryId": 10,
   "size": "xs",
-  "logoFile": "logos/hybrid_bridge_holdings-logo.webp",
+  "logoFile": "logos/hybrid-bridge-holdings-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hybrid-bridge-holdings",
+  "linkedinNum": 85601567,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hybrid-bridge-holdings",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תרשיש-פארק התעשייה",
@@ -19,5 +25,7 @@
       "lat": 32.4879599,
       "lon": 34.9040366
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

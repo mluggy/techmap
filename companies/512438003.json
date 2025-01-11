@@ -6,21 +6,26 @@
   "logoFile": "logos/roni_pal-logo.webp",
   "websiteUrl": "https://www.ronipal.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ronipal-technologies",
+  "linkedinNum": 2782766,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ronipal",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קהילת פאדובה",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.116343,
       "lon": 34.820443
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 2782766
+  "isActive": true
 }

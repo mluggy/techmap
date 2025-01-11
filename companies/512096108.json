@@ -1,0 +1,31 @@
+{
+  "name": "SAN",
+  "description": "SAN’s flagship electro-hydraulic breaching system improves breaching with its speed, precision and mobility.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/san-logo.webp",
+  "websiteUrl": "http://www.san.co.il",
+  "careersUrl": null,
+  "linkedinId": "sanltd",
+  "linkedinNum": 1736552,
+  "crunchbaseId": null,
+  "ivcId": "A1000000220676",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החשמל",
+      "houseNumber": 1,
+      "city": "עכו",
+      "lat": 32.8934186,
+      "lon": 35.0921101
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

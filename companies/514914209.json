@@ -1,0 +1,31 @@
+{
+  "name": "Kanarit",
+  "description": "Kanarit is the operator of a real estate tech company intended to transform processes in cities, regions, and countries to create a sustainable future of smart communities.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/kanarit-logo.webp",
+  "websiteUrl": "http://www.kanarit.com",
+  "careersUrl": null,
+  "linkedinId": "kanarit",
+  "linkedinNum": 1450446,
+  "crunchbaseId": null,
+  "ivcId": "A1000000021928",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נתן",
+      "houseNumber": 3,
+      "city": "כפר סבא",
+      "lat": 32.1927186,
+      "lon": 34.8916048
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

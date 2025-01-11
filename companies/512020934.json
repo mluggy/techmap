@@ -6,11 +6,17 @@
   "logoFile": "logos/align_technology-logo.webp",
   "websiteUrl": "https://www.aligntech.com/",
   "careersUrl": "https://jobs.aligntech.com/careers",
-  "isHiring": true,
   "linkedinId": "align-technology",
+  "linkedinNum": 6867,
   "crunchbaseId": "align-technology",
+  "ivcId": null,
   "finderId": "align-technology",
   "xId": "AlignTechInc",
+  "facebookId": "invisalign",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך יצחק רבין",
@@ -20,7 +26,6 @@
       "lon": 34.861837986563515
     }
   ],
-  "isMultinational": true,
-  "facebookId": "invisalign",
-  "linkedinNum": 6867
+  "isMultinational": false,
+  "isActive": true
 }

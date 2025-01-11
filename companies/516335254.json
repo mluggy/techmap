@@ -6,21 +6,26 @@
   "logoFile": "logos/deedz-logo.webp",
   "websiteUrl": "https://www.deedz.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "deedz",
+  "linkedinNum": 69033073,
   "crunchbaseId": null,
+  "ivcId": "A1000000376230",
   "finderId": "deedz",
   "xId": null,
+  "facebookId": "DeeDz.IL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חברון",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.074542,
-      "lon": 34.769095
+      "city": "תל אביב-יפו",
+      "lat": 32.0745035,
+      "lon": 34.7690641
     }
   ],
   "isMultinational": false,
-  "facebookId": "DeeDz.IL",
-  "linkedinNum": 69033073
+  "isActive": true
 }

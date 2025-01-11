@@ -6,21 +6,26 @@
   "logoFile": "logos/priority_software-logo.webp",
   "websiteUrl": "https://www.priority-software.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "prioritysoftware",
+  "linkedinNum": 89771,
   "crunchbaseId": null,
+  "ivcId": "A1000000007020",
   "finderId": "Priority-Software",
   "xId": "PrioritySw",
+  "facebookId": "Priority-Software-ERP-Software-769670056428316",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
+      "street": "העמל",
       "houseNumber": 2,
       "city": "ראש העין",
-      "lat": 32.0970131,
-      "lon": 34.9105972
+      "lat": 32.1579578,
+      "lon": 34.8919457
     }
   ],
   "isMultinational": false,
-  "facebookId": "Priority-Software-ERP-Software-769670056428316",
-  "linkedinNum": 89771
+  "isActive": true
 }

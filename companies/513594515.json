@@ -1,25 +1,31 @@
 {
   "name": "SPEAK",
-  "description": "On-demand Live Language Lessons",
+  "description": "On-demand Live Language Lessons.",
   "categoryId": 9,
   "size": "s",
   "logoFile": "logos/speak.webp",
   "websiteUrl": "https://www.speaknow.co/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "speaknow",
   "linkedinNum": 18158688,
   "crunchbaseId": null,
+  "ivcId": "A1000000277452",
   "finderId": "speak",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החורטים",
-      "houseNumber": 4,
-      "city": "חולון",
-      "lat": 32.02777988503332,
-      "lon": 34.79511635889313
+      "street": "דרך חברון",
+      "houseNumber": 24,
+      "city": "ירושלים",
+      "lat": 31.7670343,
+      "lon": 35.2258017
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

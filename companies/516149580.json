@@ -6,21 +6,26 @@
   "logoFile": "logos/beefree_agro-logo.webp",
   "websiteUrl": "https://www.beefreeagro.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "beefree-agro",
+  "linkedinNum": 68490708,
   "crunchbaseId": null,
+  "ivcId": "A1000000326634",
   "finderId": "beefree-agro",
   "xId": null,
+  "facebookId": "Beefreeagro",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
       "houseNumber": 3,
-      "city": "יקנעם עילית",
-      "lat": 32.6578027,
-      "lon": 35.1002987
+      "city": "יוקנעם עילית",
+      "lat": 32.6624904,
+      "lon": 35.104787
     }
   ],
   "isMultinational": false,
-  "facebookId": "Beefreeagro",
-  "linkedinNum": 68490708
+  "isActive": true
 }

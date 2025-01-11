@@ -6,11 +6,17 @@
   "logoFile": "logos/optitask_ltd-logo.webp",
   "websiteUrl": "https://www.optitask.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "optitask",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצורן",
@@ -20,5 +26,6 @@
       "lon": 34.8653462
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

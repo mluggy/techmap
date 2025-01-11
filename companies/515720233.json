@@ -6,20 +6,26 @@
   "logoFile": "logos/alumentry-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "alumentry",
+  "linkedinNum": 93263294,
   "crunchbaseId": "alumentry",
+  "ivcId": "A1000000476063",
   "finderId": "alumentry",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולומב",
       "houseNumber": 18,
       "city": "כפר סבא",
-      "lat": 32.1787123,
-      "lon": 34.9016029
+      "lat": 32.1792538,
+      "lon": 34.8986023
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 93263294
+  "isActive": true
 }

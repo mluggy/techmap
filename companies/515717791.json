@@ -6,21 +6,26 @@
   "logoFile": "logos/medigate_tech-logo.webp",
   "websiteUrl": "https://www.medigate.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18340376,
   "crunchbaseId": "medigate-eae8",
+  "ivcId": null,
   "finderId": "medigate-tech",
   "xId": "MedigateLtd",
+  "facebookId": "MedigateLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0687595,
       "lon": 34.7939327
     }
   ],
   "isMultinational": false,
-  "facebookId": "MedigateLtd",
-  "linkedinNum": 18340376
+  "isActive": true
 }

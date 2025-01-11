@@ -6,21 +6,26 @@
   "logoFile": "logos/hishtil-logo.webp",
   "websiteUrl": "https://www.hishtil.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hishtil",
+  "linkedinNum": 680287,
   "crunchbaseId": null,
+  "ivcId": "A1000000170763",
   "finderId": "hishtil",
   "xId": null,
+  "facebookId": "Hishtil",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן יהודה אליעזר",
+      "street": "הירדן",
       "houseNumber": null,
-      "city": "אשקלון",
-      "lat": 31.640234,
-      "lon": 34.5482579
+      "city": "גבעת כ\"ח",
+      "lat": 32.0278454,
+      "lon": 34.9334636
     }
   ],
   "isMultinational": false,
-  "facebookId": "Hishtil",
-  "linkedinNum": 680287
+  "isActive": true
 }

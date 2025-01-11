@@ -6,21 +6,26 @@
   "logoFile": "logos/novoxel-logo.webp",
   "websiteUrl": "https://www.novoxel.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "novoxel",
+  "linkedinNum": 3497374,
   "crunchbaseId": null,
+  "ivcId": "A1000000022865",
   "finderId": "novoxel",
   "xId": "novoxel",
+  "facebookId": "novoxel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 43,
+      "street": "הרצל",
+      "houseNumber": 28,
       "city": "נתניה",
-      "lat": 32.2837571,
-      "lon": 34.8604626
+      "lat": 32.3283202,
+      "lon": 34.8570342
     }
   ],
   "isMultinational": false,
-  "facebookId": "novoxel",
-  "linkedinNum": 3497374
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "Specializing in hybrid propulsion systems, they combine battery and fuel technology to optimize power and efficiency.",
   "categoryId": 5,
   "size": "xs",
-  "logoFile": "logos/lowental_hybrid-logo.webp",
+  "logoFile": "logos/lowental-hybrid-logo.webp",
   "websiteUrl": "https://www.lowental-hybrid.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lowental-hybrid-ltd",
+  "linkedinNum": 75055336,
   "crunchbaseId": null,
+  "ivcId": "A1000000468035",
   "finderId": "lowental-hybrid",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדרור",
@@ -19,5 +25,7 @@
       "lat": 31.8182324,
       "lon": 34.7560076
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

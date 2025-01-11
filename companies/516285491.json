@@ -6,11 +6,17 @@
   "logoFile": "logos/zynga_israel-logo.webp",
   "websiteUrl": "https://www.zynga.com/",
   "careersUrl": "https://www.zynga.com/jobs/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 167907,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zynga",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,6 +26,6 @@
       "lon": 34.80419494318181
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 167907
+  "isMultinational": false,
+  "isActive": true
 }

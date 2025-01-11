@@ -6,20 +6,26 @@
   "logoFile": "logos/mirato-logo.webp",
   "websiteUrl": "https://mirato.com/",
   "careersUrl": "https://mirato.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "miratotprm",
+  "linkedinNum": 11746746,
   "crunchbaseId": null,
+  "ivcId": "A1000000338176",
   "finderId": "mirato",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11746746
+  "isActive": true
 }

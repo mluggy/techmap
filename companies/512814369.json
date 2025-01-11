@@ -6,11 +6,17 @@
   "logoFile": "logos/tenova_advanced_technologies-logo.webp",
   "websiteUrl": "https://tenova.com/",
   "careersUrl": "https://tenova.com/people-careers/working-tenova",
-  "isHiring": true,
   "linkedinId": "tenova",
+  "linkedinNum": 3142823,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tenova",
   "xId": "tenovagroup",
+  "facebookId": "Tenova-210347352387549",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התנופה",
@@ -20,7 +26,6 @@
       "lon": 35.10722320481222
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Tenova-210347352387549",
-  "linkedinNum": 3142823
+  "isMultinational": false,
+  "isActive": true
 }

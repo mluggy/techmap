@@ -3,21 +3,29 @@
   "description": "Molecular Glue Therapies.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/tenaces_biosciences-logo.webp",
+  "logoFile": "logos/tenaces-biosciences-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tenaces",
+  "linkedinNum": 100609564,
   "crunchbaseId": null,
+  "ivcId": "A1000000463454",
   "finderId": "tenaces-biosciences",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אופנהיימר",
-      "houseNumber": 4,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.9104321,
-      "lon": 34.8058374
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

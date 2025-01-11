@@ -6,21 +6,26 @@
   "logoFile": "logos/sixgill-logo.webp",
   "websiteUrl": "https://cybersixgill.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sixgill",
+  "linkedinNum": 10058404,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sixgill",
   "xId": "CyberSixgill",
+  "facebookId": "Sixgill-1069680059792649",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "Sixgill-1069680059792649",
-  "linkedinNum": 10058404
+  "isActive": true
 }

@@ -3,22 +3,29 @@
   "description": "Blending technology and psychology, this company offers a pivotal tool that enhances HR departments' efficiency and success.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/engard_systems-logo.webp",
+  "logoFile": "logos/engard-logo.webp",
   "websiteUrl": "https://engard.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "engard",
+  "linkedinNum": 77121545,
   "crunchbaseId": null,
+  "ivcId": "A1000000370705",
   "finderId": "engard",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זריצקי יוסף",
+      "street": "יוסף זימן",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.114574659084376,
-      "lon": 34.7918371913053
+      "city": "תל אביב-יפו",
+      "lat": 32.0765229,
+      "lon": 34.8003362
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -7,20 +7,25 @@
   "websiteUrl": "https://agorareal.com/",
   "careersUrl": "https://agorareal.com/careers/",
   "linkedinId": "agora-re",
+  "linkedinNum": 11711779,
   "crunchbaseId": "agora-real-estate-technologies",
+  "ivcId": "A1000000268759",
   "finderId": "agora",
   "xId": "agora_re",
+  "facebookId": "AgoraRE",
+  "breezyId": null,
+  "comeetId": "agora/08.007",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קלישר",
       "houseNumber": 30,
-      "city": "תל אביב",
-      "lat": 32.065983440486754,
-      "lon": 34.76884104232979
+      "city": "תל אביב-יפו",
+      "lat": 32.0658016,
+      "lon": 34.7688625
     }
   ],
-  "isMultinational": true,
-  "facebookId": "AgoraRE",
-  "linkedinNum": 11711779,
-  "comeetId": "agora/08.007"
+  "isMultinational": false,
+  "isActive": true
 }

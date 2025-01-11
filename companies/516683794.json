@@ -6,20 +6,26 @@
   "logoFile": "logos/curetelligence-logo.webp",
   "websiteUrl": "https://curetelligence.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "curetelligence",
+  "linkedinNum": 43318005,
   "crunchbaseId": null,
+  "ivcId": "A1000000414056",
   "finderId": "curetelligence",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרצל",
+      "street": "רחוב הרצל",
       "houseNumber": 27,
       "city": "יבנה",
-      "lat": 31.8681339,
-      "lon": 34.7296276
+      "lat": 31.8589095,
+      "lon": 34.7218202
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 43318005
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/fignel-logo.webp",
   "websiteUrl": "https://www.fignel.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fignelplug",
+  "linkedinNum": 86454065,
   "crunchbaseId": null,
+  "ivcId": "A1000000442022",
   "finderId": "fignel",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -19,5 +25,7 @@
       "lat": 32.819776250000004,
       "lon": 34.9988252
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

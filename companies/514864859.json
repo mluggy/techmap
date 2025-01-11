@@ -6,11 +6,17 @@
   "logoFile": "logos/activocal-logo.webp",
   "websiteUrl": "https://activocal.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vocca",
   "xId": "activocal",
+  "facebookId": "ActiVocal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פארן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ActiVocal"
+  "isActive": true
 }

@@ -1,24 +1,31 @@
 {
   "name": "0.10 of a Second",
-  "description": "Smart Indicators for Connected Vehicles",
+  "description": "Smart Indicators for Connected Vehicles.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/0_10_of_a_second-logo.webp",
   "websiteUrl": "https://0-10s.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000286063",
   "finderId": "0-10-of-a-second",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יעב\"ץ",
-      "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.0684176,
-      "lon": 34.8366328
+      "street": "דניאל",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0690549,
+      "lon": 34.763635
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

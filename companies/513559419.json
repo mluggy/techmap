@@ -6,11 +6,17 @@
   "logoFile": "logos/imagine_communications-logo.webp",
   "websiteUrl": "https://imaginecommunications.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "imagine-communications",
+  "linkedinNum": 37660,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "imagine-communications",
   "xId": "imagine_comms",
+  "facebookId": "ImagineCommsCorp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,7 +26,6 @@
       "lon": 34.8584354
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ImagineCommsCorp",
-  "linkedinNum": 37660
+  "isMultinational": false,
+  "isActive": true
 }

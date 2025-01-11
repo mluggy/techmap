@@ -6,11 +6,17 @@
   "logoFile": "logos/magic_leap_israel-logo.webp",
   "websiteUrl": "https://www.magicleap.com/",
   "careersUrl": "https://www.magicleap.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 3098033,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "magic-leap",
   "xId": "magicleap",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,7 +26,6 @@
       "lon": 34.8054589
     }
   ],
-  "isMultinational": true,
-  "facebookId": "pages",
-  "linkedinNum": 3098033
+  "isMultinational": false,
+  "isActive": true
 }

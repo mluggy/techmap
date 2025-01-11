@@ -1,0 +1,31 @@
+{
+  "name": "Flycatcher",
+  "description": "Flycatcher is a young UK company that creates innovative tech toys for kids.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/flycatcher-logo.webp",
+  "websiteUrl": "https://www.flycatcher.toys",
+  "careersUrl": null,
+  "linkedinId": "flycatcher",
+  "linkedinNum": 5318177,
+  "crunchbaseId": null,
+  "ivcId": "A1000000193323",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "כפר סבא",
+      "lat": 32.178195,
+      "lon": 34.90761
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

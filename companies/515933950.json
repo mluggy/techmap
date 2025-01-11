@@ -6,11 +6,17 @@
   "logoFile": "logos/savoreat-logo.webp",
   "websiteUrl": "https://savoreat.com/",
   "careersUrl": "https://savoreat.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "savoreat",
+  "linkedinNum": 54099853,
   "crunchbaseId": null,
+  "ivcId": "A1000000282754",
   "finderId": "savoreat",
   "xId": null,
+  "facebookId": "SavorEat-101143845519018",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SavorEat-101143845519018",
-  "linkedinNum": 54099853
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "FirstOffer",
+  "description": "FirstOffer is developing an intuitive browser tool that helps users uncover competitive prices on commercial products, so they can save money on the items.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/firstoffer-logo.webp",
+  "websiteUrl": "http://firstofferz.com",
+  "careersUrl": null,
+  "linkedinId": "firstoffer",
+  "linkedinNum": 3253550,
+  "crunchbaseId": null,
+  "ivcId": "A1000000175524",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון",
+      "houseNumber": 2,
+      "city": "פתח תקווה",
+      "lat": 32.0815746,
+      "lon": 34.8704668
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

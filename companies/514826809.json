@@ -6,21 +6,26 @@
   "logoFile": "logos/lingacom-logo.webp",
   "websiteUrl": "https://lingacom.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lingacom-ltd",
+  "linkedinNum": 5012048,
   "crunchbaseId": null,
+  "ivcId": "A1000000024080",
   "finderId": "lingacom",
   "xId": null,
+  "facebookId": "lingacom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.110182,
-      "lon": 34.838445
+      "city": "תל אביב-יפו",
+      "lat": 32.1101422,
+      "lon": 34.8384126
     }
   ],
   "isMultinational": false,
-  "facebookId": "lingacom",
-  "linkedinNum": 5012048
+  "isActive": true
 }

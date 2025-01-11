@@ -1,16 +1,22 @@
 {
   "name": "FlowMo",
-  "description": "Comprehensive Web Design Platform",
+  "description": "Comprehensive Web Design Platform.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/flowmo_app-logo.webp",
   "websiteUrl": "https://flowmo.design/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "flowmo-app",
+  "linkedinNum": 76530922,
   "crunchbaseId": null,
+  "ivcId": "A1000000432581",
   "finderId": "flowmo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרב עוזיאל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76530922
+  "isActive": true
 }

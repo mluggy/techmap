@@ -1,0 +1,31 @@
+{
+  "name": "Inlight Labs",
+  "description": "Inlight Labs is a small internet company that runs multiple cloud-based services.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/inlight-labs-logo.webp",
+  "websiteUrl": "http://www.inlightlabs.com",
+  "careersUrl": "http://www.inlightlabs.com/#careers",
+  "linkedinId": "inlightlabs",
+  "linkedinNum": 4873779,
+  "crunchbaseId": null,
+  "ivcId": "A1000000234955",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גריזים",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0897519,
+      "lon": 34.7765143
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

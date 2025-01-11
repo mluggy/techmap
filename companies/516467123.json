@@ -1,26 +1,31 @@
 {
   "name": "Dayzee",
-  "description": "Ticketing Service for Event Organizers",
+  "description": "Ticketing Service for Event Organizers.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/dayzee_life-logo.webp",
   "websiteUrl": "https://www.dayzee.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10175409,
   "crunchbaseId": null,
+  "ivcId": "A1000000476435",
   "finderId": "timenote",
   "xId": "gotimenote",
+  "facebookId": "timenote.apps",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אילת",
-      "houseNumber": 61,
-      "city": "תל אביב - יפו",
-      "lat": 32.0597437,
-      "lon": 34.76674105273763
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "timenote.apps",
-  "linkedinNum": 10175409
+  "isActive": true
 }

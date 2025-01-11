@@ -1,25 +1,31 @@
 {
   "name": "Vim",
-  "description": "Point-of-care Health Care Connection Platform",
+  "description": "Point-of-care Health Care Connection Platform.",
   "categoryId": 12,
   "size": "m",
-  "logoFile": "logos/vim_marketplace-logo.webp",
+  "logoFile": "logos/vim-logo.webp",
   "websiteUrl": "https://getvim.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "getvim",
+  "linkedinNum": 17917958,
   "crunchbaseId": null,
+  "ivcId": "A1000000210296",
   "finderId": "vim",
   "xId": null,
+  "facebookId": "getvim",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השלום",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.071909,
-      "lon": 34.795576
+      "street": "יהודה המכבי",
+      "houseNumber": 15,
+      "city": "תל אביב-יפו",
+      "lat": 32.0938841,
+      "lon": 34.7860657
     }
   ],
   "isMultinational": false,
-  "facebookId": "getvim"
+  "isActive": true
 }

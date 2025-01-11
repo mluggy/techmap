@@ -6,21 +6,26 @@
   "logoFile": "logos/upsellon_brands_holdings-logo.webp",
   "websiteUrl": "https://upsellon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "upsellon",
+  "linkedinNum": 34901040,
   "crunchbaseId": null,
+  "ivcId": "A1000000302677",
   "finderId": "upsellon-brands",
   "xId": "upsellon",
+  "facebookId": "upsellon",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן גוריון דוד",
-      "houseNumber": 11,
-      "city": "בני ברק",
-      "lat": 32.0938961,
-      "lon": 34.8226531
+      "street": "משכית",
+      "houseNumber": 32,
+      "city": "הרצליה",
+      "lat": 32.162414,
+      "lon": 34.8096561
     }
   ],
   "isMultinational": false,
-  "facebookId": "upsellon",
-  "linkedinNum": 34901040
+  "isActive": true
 }

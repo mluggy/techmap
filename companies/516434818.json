@@ -6,20 +6,26 @@
   "logoFile": "logos/crowded_technologies-logo.webp",
   "websiteUrl": "https://bankingcrowded.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "banking-crowded",
+  "linkedinNum": 79802882,
   "crunchbaseId": "crowded-b5d2",
+  "ivcId": null,
   "finderId": "crowded-technologies",
   "xId": "banking_crowded",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קורולנקו",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0840121,
       "lon": 34.7731939
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79802882
+  "isActive": true
 }

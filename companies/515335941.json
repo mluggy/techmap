@@ -6,21 +6,26 @@
   "logoFile": "logos/armis_security-logo.webp",
   "websiteUrl": "https://www.armis.com/",
   "careersUrl": "https://www.armis.com/armis-careers/",
-  "isHiring": true,
   "linkedinId": "armis-security",
+  "linkedinNum": 17905260,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "armis",
   "xId": "ArmisSecurity",
+  "facebookId": "ArmisInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארניה אסוולדו",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0693445,
       "lon": 34.7860947
     }
   ],
   "isMultinational": false,
-  "facebookId": "ArmisInc",
-  "linkedinNum": 17905260
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/enigma_avvanced_laboratoies-logo.webp",
   "websiteUrl": "https://www.scrtlabs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "scrtlabs",
+  "linkedinNum": 15083327,
   "crunchbaseId": null,
+  "ivcId": "A1000000241337",
   "finderId": "enigma",
   "xId": "scrt_labs",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפלמ\"ח",
-      "houseNumber": 102,
-      "city": "מבשרת ציון",
-      "lat": 31.79635447612011,
-      "lon": 35.1412601922365
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 15083327
+  "isActive": true
 }

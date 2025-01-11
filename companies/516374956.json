@@ -1,25 +1,31 @@
 {
   "name": "Firmbase",
-  "description": "Financial Planning and Analysis Platform",
-  "categoryId": 10,
+  "description": "Firmbase is the modern financial planning and analysis platform for tech companies, trusted by FP&A teams at some of the fastest growing companies in the world.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/firmbase-logo.webp",
-  "websiteUrl": "https://www.firmbase.io/",
-  "careersUrl": "https://www.firmbase.ai/careers",
-  "isHiring": true,
+  "websiteUrl": "https://www.firmbase.ai",
+  "careersUrl": null,
   "linkedinId": "firmbase-ai",
+  "linkedinNum": 74566024,
   "crunchbaseId": null,
+  "ivcId": "A1000000352663",
   "finderId": "firmbase",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 146,
-      "city": "תל אביב - יפו",
-      "lat": 32.0778351,
-      "lon": 34.794439538025976
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74566024
+  "isActive": true
 }

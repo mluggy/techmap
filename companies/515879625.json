@@ -6,21 +6,26 @@
   "logoFile": "logos/ettorney_technologies-logo.webp",
   "websiteUrl": "https://www.ettorney.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ettorney",
+  "linkedinNum": 9360861,
   "crunchbaseId": "ettorney",
+  "ivcId": "A1000000209713",
   "finderId": "ettorney",
   "xId": null,
+  "facebookId": "ettorney.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הברזל",
-      "houseNumber": 34,
-      "city": "תל אביב - יפו",
-      "lat": 32.11006275,
-      "lon": 34.84225851145355
+      "street": "מונטיפיורי",
+      "houseNumber": 46,
+      "city": "תל אביב-יפו",
+      "lat": 32.0658863,
+      "lon": 34.7744287
     }
   ],
   "isMultinational": false,
-  "facebookId": "ettorney.co.il",
-  "linkedinNum": 9360861
+  "isActive": true
 }

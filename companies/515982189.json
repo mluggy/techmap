@@ -6,20 +6,26 @@
   "logoFile": "logos/simplivia_healthcare-logo.webp",
   "websiteUrl": "https://www.simplivia.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "simplivia-healthcare-ltd",
+  "linkedinNum": 29279723,
   "crunchbaseId": null,
+  "ivcId": "A1000000278238",
   "finderId": "simplivia-healthcare",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "א.ת. צפוני",
+      "street": null,
       "houseNumber": null,
-      "city": "קריית שמונה",
-      "lat": 33.220079723376664,
-      "lon": 35.58834633210289
+      "city": "קרית שמונה",
+      "lat": 33.20809,
+      "lon": 35.5699622
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 29279723
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Sentra",
-  "description": "Cloud-native Data Security Platform",
+  "description": "Cloud-native Data Security Platform.",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/sentra-logo.webp",
   "websiteUrl": "https://www.sentra.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sentra-io",
+  "linkedinNum": 81291957,
   "crunchbaseId": null,
+  "ivcId": "A1000000383256",
   "finderId": "sentra",
   "xId": "sentra_security",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81291957
+  "isActive": true
 }

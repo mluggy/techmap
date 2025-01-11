@@ -1,26 +1,31 @@
 {
   "name": "WonderLogics",
-  "description": "Model-based Design for Industrial Control Systems",
+  "description": "Model-based Design for Industrial Control Systems.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/wonderlogics-logo.webp",
   "websiteUrl": "https://wonderlogics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wonderlogix-ltd",
+  "linkedinNum": 9370574,
   "crunchbaseId": null,
+  "ivcId": "A1000000190147",
   "finderId": "wonderlogix",
   "xId": "wonderlogix",
+  "facebookId": "wonderlogics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התנופה",
       "houseNumber": 4,
-      "city": "יקנעם עילית",
-      "lat": 32.66791475,
-      "lon": 35.10722320481222
+      "city": "יוקנעם עילית",
+      "lat": 32.6676416,
+      "lon": 35.107299
     }
   ],
   "isMultinational": false,
-  "facebookId": "wonderlogics",
-  "linkedinNum": 9370574
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/cancurx-logo.webp",
   "websiteUrl": "https://carmel-ltd.haifa.ac.il/index.php/carmel-innovation-fund/190-cancurx-ltd",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cancurx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד אבא חושי",
@@ -20,5 +26,6 @@
       "lon": 35.012341
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

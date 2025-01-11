@@ -6,12 +6,26 @@
   "logoFile": "logos/weldobot-logo.webp",
   "websiteUrl": "https://www.weldobot.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "weldobot-ltd",
+  "linkedinNum": 5343954,
   "crunchbaseId": null,
+  "ivcId": "A1000000022817",
   "finderId": "weldobot",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "צור",
+      "houseNumber": 8,
+      "city": "צור יגאל",
+      "lat": 32.21923438050092,
+      "lon": 34.982481400000175
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 5343954
+  "isActive": true
 }

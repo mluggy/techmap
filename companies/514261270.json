@@ -1,26 +1,31 @@
 {
   "name": "PowerPlug",
-  "description": "Their software simplifies energy management, reduces costs, and promotes sustainability through advanced power management features.",
-  "categoryId": 17,
-  "size": "xs",
+  "description": "PowerPlug is a developer of power management services, intended to save electrical energy.",
+  "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/powerplug-logo.webp",
-  "websiteUrl": "https://powerplug.ai/",
+  "websiteUrl": "http://powerplugltd.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "powerplug-ltd",
+  "linkedinNum": 494877,
   "crunchbaseId": null,
+  "ivcId": "A1000000010285",
   "finderId": "powerplug",
   "xId": "PowerPlugLtd",
+  "facebookId": "PowerPlugLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הארד",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.111224,
-      "lon": 34.840767
+      "street": "בן יהודה",
+      "houseNumber": 32,
+      "city": "תל אביב-יפו",
+      "lat": 32.076317,
+      "lon": 34.7683587
     }
   ],
   "isMultinational": false,
-  "facebookId": "PowerPlugLtd",
-  "linkedinNum": 494877
+  "isActive": true
 }

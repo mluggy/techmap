@@ -1,0 +1,31 @@
+{
+  "name": "Backline",
+  "description": "In stealth mode.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/backline-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491142",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בילויה מעוז",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.1010721,
+      "lon": 34.7871979
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

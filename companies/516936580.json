@@ -1,16 +1,22 @@
 {
   "name": "Geely",
   "description": "A prominent Hangzhou-based car maker established in 1997 under Zhejiang Geely Holding Group.",
+  "categoryId": 5,
   "size": "l",
   "logoFile": "logos/geely_habanim_eilat-logo.webp",
-  "categoryId": 5,
   "websiteUrl": "https://www.cevt.se/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zeekrtechnologyeurope",
+  "linkedinNum": 5178222,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "geely",
   "xId": null,
+  "facebookId": "CEVTAB",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדייג",
@@ -20,7 +26,6 @@
       "lon": 34.9590641
     }
   ],
-  "isMultinational": true,
-  "facebookId": "CEVTAB",
-  "linkedinNum": 5178222
+  "isMultinational": false,
+  "isActive": true
 }

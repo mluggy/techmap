@@ -6,19 +6,26 @@
   "logoFile": "logos/plantae_bioscience-logo.webp",
   "websiteUrl": "https://www.plantae.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000357597",
   "finderId": "plantae-bioscience",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הירקון",
-      "houseNumber": 5,
-      "city": "בני ברק",
-      "lat": 32.0959332,
-      "lon": 34.8253295
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

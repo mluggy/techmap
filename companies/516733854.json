@@ -6,11 +6,17 @@
   "logoFile": "logos/astera_labs_israel-logo.webp",
   "websiteUrl": "https://www.asteralabs.com/",
   "careersUrl": "https://www.asteralabs.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "astera-labs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חת נחום",
@@ -19,5 +25,7 @@
       "lat": 32.783678,
       "lon": 34.960601
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

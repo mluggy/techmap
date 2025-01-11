@@ -3,14 +3,20 @@
   "description": "Platform for Managing Authorization Policies.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/build_security-logo.webp",
+  "logoFile": "logos/build-security-logo.webp",
   "websiteUrl": "https://www.buildsecurityin.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "build-security",
+  "linkedinNum": 69522437,
   "crunchbaseId": "build-security",
+  "ivcId": null,
   "finderId": "build-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנטה",
@@ -19,5 +25,7 @@
       "lat": 32.27249597361125,
       "lon": 34.89061403224562
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

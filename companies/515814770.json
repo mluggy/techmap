@@ -6,21 +6,26 @@
   "logoFile": "logos/cervello-logo.webp",
   "websiteUrl": "https://cervello.security/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cervello-cyber-security",
+  "linkedinNum": 18337877,
   "crunchbaseId": null,
+  "ivcId": "A1000000257448",
   "finderId": "cervello",
   "xId": "Cervello_Sec",
+  "facebookId": "cervellosec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 82,
-      "city": "תל אביב - יפו",
-      "lat": 32.066186,
-      "lon": 34.792954
+      "city": "תל אביב-יפו",
+      "lat": 32.0662181,
+      "lon": 34.7928935
     }
   ],
   "isMultinational": false,
-  "facebookId": "cervellosec",
-  "linkedinNum": 18337877
+  "isActive": true
 }

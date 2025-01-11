@@ -6,21 +6,26 @@
   "logoFile": "logos/evinature-logo.webp",
   "websiteUrl": "https://evinature.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "evinature",
+  "linkedinNum": 79820201,
   "crunchbaseId": null,
+  "ivcId": "A1000000416103",
   "finderId": "evinature",
   "xId": "Evinature_",
+  "facebookId": "evinature",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 3,
-      "city": "בנימינה",
-      "lat": 32.5128454,
-      "lon": 34.9484798
+      "street": "הרימונים",
+      "houseNumber": 15,
+      "city": "חדרה",
+      "lat": 32.4309219,
+      "lon": 34.9484575
     }
   ],
   "isMultinational": false,
-  "facebookId": "evinature",
-  "linkedinNum": 79820201
+  "isActive": true
 }

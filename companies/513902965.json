@@ -6,20 +6,26 @@
   "logoFile": "logos/rescue_dose-logo.webp",
   "websiteUrl": "https://rescuedose.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rescuedose",
+  "linkedinNum": 5027261,
   "crunchbaseId": null,
+  "ivcId": "A1000000002486",
   "finderId": "rescuedose",
   "xId": "RescueDose",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התנופה",
       "houseNumber": 4,
-      "city": "יקנעם עילית",
-      "lat": 32.66791475,
-      "lon": 35.10722320481222
+      "city": "יוקנעם עילית",
+      "lat": 32.6676416,
+      "lon": 35.107299
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5027261
+  "isActive": true
 }

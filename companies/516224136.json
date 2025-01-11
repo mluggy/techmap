@@ -6,20 +6,26 @@
   "logoFile": "logos/wing_security-logo.webp",
   "websiteUrl": "https://wing.security/",
   "careersUrl": "https://wing.security/careers/",
-  "isHiring": true,
   "linkedinId": "wing-security",
+  "linkedinNum": 74984769,
   "crunchbaseId": "wing-security",
+  "ivcId": "A1000000367107",
   "finderId": "wing-security",
   "xId": "WingSecSaaS",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יגאל אלון",
-      "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "street": "צל הגבעה",
+      "houseNumber": 18,
+      "city": "רמת גן",
+      "lat": 32.0779307,
+      "lon": 34.8210604
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74984769
+  "isActive": true
 }

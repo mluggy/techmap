@@ -6,11 +6,17 @@
   "logoFile": "logos/esave-logo.webp",
   "websiteUrl": "https://eng.esave.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "esave",
   "xId": null,
+  "facebookId": "Esave-210417206098795",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Esave-210417206098795"
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/access_fintech-logo.webp",
   "websiteUrl": "https://www.accessfintech.com/",
   "careersUrl": "https://www.accessfintech.com/careers/",
-  "isHiring": true,
   "linkedinId": "access-fintech",
+  "linkedinNum": 7941391,
   "crunchbaseId": "accessfintech",
+  "ivcId": "A1000000273165",
   "finderId": "access-fintech",
   "xId": "accessfintech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 5,
-      "city": "רמת גן",
-      "lat": 32.083369250000004,
-      "lon": 34.80252937066078
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 7941391
+  "isActive": true
 }

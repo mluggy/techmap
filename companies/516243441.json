@@ -1,25 +1,31 @@
 {
   "name": "ArborKnot",
-  "description": "Customer Payment Solutions",
+  "description": "Customer Payment Solutions.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/arbor_knot-logo.webp",
   "websiteUrl": "https://www.arborknot.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "arborknotltd",
+  "linkedinNum": 70389402,
   "crunchbaseId": null,
+  "ivcId": "A1000000336484",
   "finderId": "arbor-knot",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0708143,
+      "lon": 34.7871036
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70389402
+  "isActive": true
 }

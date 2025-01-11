@@ -6,12 +6,17 @@
   "logoFile": "logos/raz-lee.webp",
   "websiteUrl": "https://www.razlee.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 448473,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "raz-lee",
   "xId": "razleesecurity",
   "facebookId": "RazleeiS",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנדיב",
@@ -21,5 +26,6 @@
       "lon": 34.831681477227235
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

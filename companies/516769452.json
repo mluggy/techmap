@@ -1,23 +1,31 @@
 {
   "name": "Sonosphere",
-  "description": "Experience an immersive, all-ages fusion of sound and light, featuring personalized cymatic resonances and a state-of-the-art ambisonic sound system.",
-  "categoryId": 4,
+  "description": "Sonosphere Medical is developing a novel tool for peripheral artery diagnosis (PAD) and 3D organ reconstruction.",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/sonosphere-logo.webp",
-  "websiteUrl": "https://www.vibroacoustix.com/",
+  "websiteUrl": "https://sonosphere-med.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000457820",
   "finderId": "sonosphere",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברנע",
-      "houseNumber": 4,
+      "street": null,
+      "houseNumber": null,
       "city": "קצרין",
-      "lat": 32.9920262,
-      "lon": 35.6877004
+      "lat": 32.9876448,
+      "lon": 35.7095442
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

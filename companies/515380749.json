@@ -6,20 +6,26 @@
   "logoFile": "logos/situgen_med-logo.webp",
   "websiteUrl": "https://www.situgen.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 17882433,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "situgen-med",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ויצמן",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0776132,
       "lon": 34.7891243
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17882433
+  "isActive": true
 }

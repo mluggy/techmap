@@ -1,25 +1,31 @@
 {
   "name": "Control Applications",
-  "description": "Electrical Metering and Monitoring Systems",
+  "description": "Control Applications (CA) develops, produces, markets, exports and installs electrical metering systems; electrical networks monitoring systems, electrical energy metering, power factor correction systems and building management systems (BMS) for commercial and industrial applications.",
   "categoryId": 14,
-  "size": "s",
+  "size": "xs",
   "logoFile": "logos/control_applications_c_a-logo.webp",
-  "websiteUrl": "https://www.elnet-meter.com/",
+  "websiteUrl": "http://www.getelnet.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "control-applications",
+  "linkedinNum": 5473231,
   "crunchbaseId": null,
+  "ivcId": "A1000000199052",
   "finderId": "control-applications",
   "xId": null,
+  "facebookId": "ElnetCA",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.106471,
-      "lon": 34.835657
+      "houseNumber": 25,
+      "city": "תל אביב-יפו",
+      "lat": 32.1095277,
+      "lon": 34.8400878
     }
   ],
   "isMultinational": false,
-  "facebookId": "ElnetCA"
+  "isActive": true
 }

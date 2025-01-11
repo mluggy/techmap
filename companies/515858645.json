@@ -6,21 +6,26 @@
   "logoFile": "logos/shopupz-logo.webp",
   "websiteUrl": "https://www.shopupz.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "shopupz",
+  "linkedinNum": 18179897,
   "crunchbaseId": null,
+  "ivcId": "A1000000217427",
   "finderId": "shopupz",
   "xId": "ShopUpz",
+  "facebookId": "100054597618221",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המפוחית",
-      "houseNumber": 6,
-      "city": "ראשון לציון",
-      "lat": 31.9651669,
-      "lon": 34.77568015
+      "street": "דרך יפו",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.060796,
+      "lon": 34.7736804
     }
   ],
   "isMultinational": false,
-  "facebookId": "100054597618221",
-  "linkedinNum": 18179897
+  "isActive": true
 }

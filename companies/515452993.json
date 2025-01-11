@@ -1,0 +1,31 @@
+{
+  "name": "Superbrewed Food",
+  "description": "Superbrewed Food is a nutrition and health company focused on the development of natural ingredients  produced from a fermentation platform.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/superbrewed_food-logo.webp",
+  "websiteUrl": "https://www.superbrewedfood.com",
+  "careersUrl": null,
+  "linkedinId": "superbrewedfood",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000227473",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ברגמן",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.981167,
+      "lon": 34.770544
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

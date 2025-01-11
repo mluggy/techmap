@@ -1,26 +1,31 @@
 {
   "name": "Animo",
-  "description": "Analysis and Optimization of Businesses' Offline Media Activity",
+  "description": "Analysis and Optimization of Businesses' Offline Media Activity.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/animo-logo.webp",
   "websiteUrl": "https://animo-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "animo-tech",
+  "linkedinNum": 30746867,
   "crunchbaseId": null,
+  "ivcId": "A1000000301409",
   "finderId": "animo",
   "xId": null,
+  "facebookId": "Animo-417047219149678",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דיסנצ'יק אריה",
-      "houseNumber": 16,
-      "city": "תל אביב - יפו",
-      "lat": 32.117752,
-      "lon": 34.827185
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "Animo-417047219149678",
-  "linkedinNum": 30746867
+  "isActive": true
 }

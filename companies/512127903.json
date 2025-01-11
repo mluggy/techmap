@@ -6,20 +6,26 @@
   "logoFile": "logos/raicol_crystals_ltd-logo.webp",
   "websiteUrl": "https://raicol.com/",
   "careersUrl": "https://raicol.com/careers",
-  "isHiring": true,
   "linkedinId": "raicol-crystals",
+  "linkedinNum": 512388,
   "crunchbaseId": null,
+  "ivcId": "A1000000005108",
   "finderId": "raicol-crystals",
   "xId": "RaicolCrystals",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 22,
       "city": "ראש העין",
-      "lat": 32.108278,
-      "lon": 34.9652441
+      "lat": 32.1068957,
+      "lon": 34.9712257
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 512388
+  "isActive": true
 }

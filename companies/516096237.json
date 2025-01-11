@@ -1,26 +1,31 @@
 {
   "name": "Ampify",
-  "description": "Algorithm to Convert Websites to Mobile",
+  "description": "Algorithm to Convert Websites to Mobile.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ampify-logo.webp",
   "websiteUrl": "https://ampify.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ampify-io",
+  "linkedinNum": 28806916,
   "crunchbaseId": null,
+  "ivcId": "A1000000308758",
   "finderId": "ampify",
   "xId": null,
+  "facebookId": "ampify.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 56,
-      "city": "גבעתיים",
-      "lat": 32.0731354,
-      "lon": 34.814782380980105
+      "street": "מנחם בגין",
+      "houseNumber": 116,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930893,
+      "lon": 34.8322702
     }
   ],
   "isMultinational": false,
-  "facebookId": "ampify.io",
-  "linkedinNum": 28806916
+  "isActive": true
 }

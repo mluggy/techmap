@@ -6,21 +6,26 @@
   "logoFile": "logos/lightrun_platform-logo.webp",
   "websiteUrl": "https://lightrun.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lightruntech",
+  "linkedinNum": 37539897,
   "crunchbaseId": null,
+  "ivcId": "A1000000310004",
   "finderId": "lightrun",
   "xId": "Lightruntech",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פריש דניאל",
+      "street": "דניאל פריש",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07463945,
-      "lon": 34.78327163578098
+      "city": "תל אביב-יפו",
+      "lat": 32.0745707,
+      "lon": 34.7832566
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 37539897
+  "isActive": true
 }

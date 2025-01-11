@@ -6,21 +6,26 @@
   "logoFile": "logos/myndyou_international_holdings-logo.webp",
   "websiteUrl": "https://myndyou.com/",
   "careersUrl": "https://myndyou.com/about-us/careers/",
-  "isHiring": true,
   "linkedinId": "myndyou",
+  "linkedinNum": 17916347,
   "crunchbaseId": "myndyou",
+  "ivcId": "A1000000200269",
   "finderId": "myndyou",
   "xId": "myndyou_",
+  "facebookId": "myndyou",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הזרם",
-      "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.050485,
-      "lon": 34.766372
+      "street": "שוקן",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.053194,
+      "lon": 34.7723811
     }
   ],
   "isMultinational": false,
-  "facebookId": "myndyou",
-  "linkedinNum": 17916347
+  "isActive": true
 }

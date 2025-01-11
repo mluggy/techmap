@@ -1,16 +1,22 @@
 {
   "name": "MULTI FOR ALL",
-  "description": "Child Language Assessment App with Guidance for Parents",
+  "description": "Child Language Assessment App with Guidance for Parents.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/multi_for_all-logo.webp",
   "websiteUrl": "https://www.multi4all.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "multi4all",
+  "linkedinNum": 31401138,
   "crunchbaseId": null,
+  "ivcId": "A1000000299663",
   "finderId": "multi-for-all",
   "xId": null,
+  "facebookId": "MuLTIforAll",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מקס ואנה ווב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MuLTIforAll",
-  "linkedinNum": 31401138
+  "isActive": true
 }

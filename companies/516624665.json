@@ -6,21 +6,26 @@
   "logoFile": "logos/requiremints-logo.webp",
   "websiteUrl": "https://requiremints.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "requiremints",
+  "linkedinNum": 67336853,
   "crunchbaseId": null,
+  "ivcId": "A1000000327732",
   "finderId": "requiremints",
   "xId": null,
+  "facebookId": "Requiremints",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מאייר מרדכי",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.12316,
-      "lon": 34.814831
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "Requiremints",
-  "linkedinNum": 67336853
+  "isActive": true
 }

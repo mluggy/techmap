@@ -1,16 +1,22 @@
 {
   "name": "Gazpacho",
-  "description": "Enterprise Mobile Solutions Platform",
+  "description": "Enterprise Mobile Solutions Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/netalizer_ltd-logo.webp",
   "websiteUrl": "https://www.gazpachomobile.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "netalizer",
+  "linkedinNum": 146729,
   "crunchbaseId": null,
+  "ivcId": "A1000000002678",
   "finderId": "netalizer",
   "xId": null,
+  "facebookId": "gazpachoplatform",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "gazpachoplatform",
-  "linkedinNum": 146729
+  "isActive": true
 }

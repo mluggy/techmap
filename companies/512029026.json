@@ -1,26 +1,31 @@
 {
   "name": "Ambrosia SupHerb",
-  "description": "Vitamins and Dietary Supplements",
-  "categoryId": 12,
-  "size": "s",
+  "description": "Ambrosia SupHerb specializes in the development, production and marketing of nutritional supplements, vitamins & minerals.",
+  "categoryId": 17,
+  "size": "m",
   "logoFile": "logos/ambrosia_supherb_ltd-logo.webp",
-  "websiteUrl": "https://supherbgroup.com/",
+  "websiteUrl": "https://www.supherbshop.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ambrosia-supherb-ltd",
+  "linkedinNum": 2340918,
   "crunchbaseId": null,
+  "ivcId": "A1000000002651",
   "finderId": "ambrosia-supherb",
   "xId": null,
+  "facebookId": "israel.supherb",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הירקון",
-      "houseNumber": 5,
-      "city": "בני ברק",
-      "lat": 32.0955017,
-      "lon": 34.8234431
+      "street": "יד חרוצים",
+      "houseNumber": 48,
+      "city": "נתניה",
+      "lat": 32.2854496,
+      "lon": 34.8656977
     }
   ],
   "isMultinational": false,
-  "facebookId": "israel.supherb",
-  "linkedinNum": 2340918
+  "isActive": true
 }

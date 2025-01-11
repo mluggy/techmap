@@ -3,14 +3,20 @@
   "description": "Offering a wide range of comfortable and well-fitting swimsuits for women of all sizes, from XS to 6X.",
   "categoryId": 9,
   "size": "s",
-  "logoFile": "logos/modli_fashion-logo.webp",
+  "logoFile": "logos/modli-fashion-logo.webp",
   "websiteUrl": "https://calypsa.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "calypsastyle",
+  "linkedinNum": 10102133,
   "crunchbaseId": null,
+  "ivcId": "A1000000172856",
   "finderId": "modli",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יד חרוצים",
@@ -19,5 +25,7 @@
       "lat": 31.7544321,
       "lon": 35.2168529
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

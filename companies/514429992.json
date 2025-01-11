@@ -1,16 +1,22 @@
 {
   "name": "LG",
   "description": "A global leader in HVAC, providing top-tier heating and cooling solutions for both commercial and residential needs.",
-  "size": "m",
   "categoryId": 17,
+  "size": "m",
   "logoFile": "logos/lg_galil-logo.webp",
   "websiteUrl": "https://www.lgtci.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3503,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lg",
   "xId": "lgus",
+  "facebookId": "LGMobile",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגדנ\"ע",
@@ -20,7 +26,6 @@
       "lon": 34.8808317
     }
   ],
-  "isMultinational": true,
-  "facebookId": "LGMobile",
-  "linkedinNum": 3503
+  "isMultinational": false,
+  "isActive": true
 }

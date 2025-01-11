@@ -6,20 +6,26 @@
   "logoFile": "logos/switch_q-logo.webp",
   "websiteUrl": "https://switchq.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "switchq",
+  "linkedinNum": 37253685,
   "crunchbaseId": null,
+  "ivcId": "A1000000225672",
   "finderId": "switchq",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הסביונים צורן",
-      "houseNumber": 23,
-      "city": "צורן",
-      "lat": 32.29005438050494,
-      "lon": 34.94146709197324
+      "street": null,
+      "houseNumber": null,
+      "city": "קדימה צורן",
+      "lat": 32.2779191,
+      "lon": 34.9112736
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37253685
+  "isActive": true
 }

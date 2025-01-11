@@ -6,20 +6,26 @@
   "logoFile": "logos/trendemon-logo.webp",
   "websiteUrl": "https://trendemon.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "trendemon",
+  "linkedinNum": 2012024,
   "crunchbaseId": null,
+  "ivcId": "A1000000010023",
   "finderId": "trendemon",
   "xId": "Trendemon",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריק לביא",
-      "houseNumber": 1,
-      "city": "נתניה",
-      "lat": 32.28012507877716,
-      "lon": 34.84391910372631
+      "street": "גיבורי ישראל",
+      "houseNumber": 20,
+      "city": "בני ברק",
+      "lat": 32.0821611,
+      "lon": 34.8437037
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2012024
+  "isActive": true
 }

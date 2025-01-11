@@ -6,19 +6,26 @@
   "logoFile": "logos/plasmatica-logo.webp",
   "websiteUrl": "https://plasmatica.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000219441",
   "finderId": "plasmatica",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התעשיה",
-      "houseNumber": 27,
-      "city": "רעננה",
-      "lat": 32.19584895,
-      "lon": 34.8762753496333
+      "street": "הראשונים",
+      "houseNumber": 4,
+      "city": "בני עטרות",
+      "lat": 32.0222083,
+      "lon": 34.9103651
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/babytech-logo.webp",
   "websiteUrl": "https://babytech.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "babytech",
+  "linkedinNum": 69586497,
   "crunchbaseId": null,
+  "ivcId": "A1000000333798",
   "finderId": "babytech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סולם יעקב",
-      "houseNumber": 2,
+      "street": "באר שבע",
+      "houseNumber": 25,
       "city": "ירושלים",
-      "lat": 31.816554,
-      "lon": 35.1999371
+      "lat": 31.78235759999999,
+      "lon": 35.2107874
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69586497
+  "isActive": true
 }

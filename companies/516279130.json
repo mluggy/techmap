@@ -6,20 +6,26 @@
   "logoFile": "logos/orthotreat-logo.webp",
   "websiteUrl": "https://www.orthotreat.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "orthotreat",
+  "linkedinNum": 70454761,
   "crunchbaseId": null,
+  "ivcId": "A1000000413949",
   "finderId": "orthotreat",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפלך",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.050538,
-      "lon": 34.766862
+      "city": "תל אביב-יפו",
+      "lat": 32.0503025,
+      "lon": 34.7666856
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70454761
+  "isActive": true
 }

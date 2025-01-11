@@ -6,20 +6,26 @@
   "logoFile": "logos/innoventric-logo.webp",
   "websiteUrl": "https://www.innoventric.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "innoventric",
+  "linkedinNum": 42845988,
   "crunchbaseId": "innoventric",
+  "ivcId": "A1000000249655",
   "finderId": "innoventric",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גולדה מאיר",
-      "houseNumber": 3,
-      "city": "נס ציונה",
-      "lat": 31.9137859,
-      "lon": 34.8024773
+      "street": "חיים הולצמן",
+      "houseNumber": 1,
+      "city": "רחובות",
+      "lat": 31.9148567,
+      "lon": 34.8081563
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42845988
+  "isActive": true
 }

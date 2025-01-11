@@ -1,23 +1,31 @@
 {
   "name": "Epilog End Of Life Companion",
-  "description": "Affordable, user-friendly systems for engraving, cutting, and marking applications.",
-  "categoryId": 15,
+  "description": "Epilog develops artificial intelligence-based tools that will be an innovative environment for managing complex challenges in the later stages of life.",
+  "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/epilog_end_of_life_companion-logo.webp",
-  "websiteUrl": "https://www.epiloglaser.com/",
+  "logoFile": "logos/epilog-end-of-life-companion-logo.webp",
+  "websiteUrl": "https://epilog.world",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "epilog-world",
+  "linkedinNum": 96403746,
   "crunchbaseId": null,
+  "ivcId": "A1000000416022",
   "finderId": "epilog",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הארבעה",
-      "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.070524,
-      "lon": 34.786887
+      "street": "הדס",
+      "houseNumber": 8,
+      "city": "גמזו",
+      "lat": 31.9276189,
+      "lon": 34.9452135
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

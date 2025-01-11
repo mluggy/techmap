@@ -6,21 +6,26 @@
   "logoFile": "logos/splacer-logo.webp",
   "websiteUrl": "https://www.splacer.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "splacer",
+  "linkedinNum": 5200506,
   "crunchbaseId": null,
+  "ivcId": "A1000000171434",
   "finderId": "splacer",
   "xId": "splacer_co",
+  "facebookId": "splacer.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות ח\"ן",
+      "street": "משה מאור",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.074142,
-      "lon": 34.780124
+      "city": "תל אביב-יפו",
+      "lat": 32.0524176,
+      "lon": 34.7685961
     }
   ],
   "isMultinational": false,
-  "facebookId": "splacer.co",
-  "linkedinNum": 5200506
+  "isActive": true
 }

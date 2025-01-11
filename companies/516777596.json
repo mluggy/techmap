@@ -6,11 +6,17 @@
   "logoFile": "logos/cathalert-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000459020",
   "finderId": "cathalert",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -19,5 +25,7 @@
       "lat": 32.1976788,
       "lon": 34.8811941
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

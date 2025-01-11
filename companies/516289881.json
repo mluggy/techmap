@@ -1,26 +1,31 @@
 {
   "name": "TalkON",
-  "description": "SaaS System for Helping Improve Speech Therapy Outcomes",
+  "description": "TalkON is an online SaaS platform based on unique algorithms, speech recognition, and innovative AI technology which can reduce the number of therapy sessions per child by up to 50%.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/talkon-logo.webp",
-  "websiteUrl": "https://talkon.online/",
+  "websiteUrl": "https://global.talkon.health",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "talkon",
+  "linkedinNum": 71811267,
   "crunchbaseId": null,
+  "ivcId": "A1000000302730",
   "finderId": "talkon",
   "xId": null,
+  "facebookId": "talkonIL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ד.נ גליל עליון 2",
-      "houseNumber": 1,
+      "street": null,
+      "houseNumber": null,
       "city": "גדות",
-      "lat": 32.4236614,
-      "lon": 34.9522512
+      "lat": 33.018208,
+      "lon": 35.619547
     }
   ],
   "isMultinational": false,
-  "facebookId": "talkonIL",
-  "linkedinNum": 71811267
+  "isActive": true
 }

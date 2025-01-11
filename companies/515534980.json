@@ -6,11 +6,17 @@
   "logoFile": "logos/yoom_com-logo.webp",
   "websiteUrl": "https://yoom.com/",
   "careersUrl": "https://yoom.com/careers/",
-  "isHiring": true,
   "linkedinId": "yoomiverse",
+  "linkedinNum": 18109674,
   "crunchbaseId": null,
+  "ivcId": "A1000000225585",
   "finderId": "yoom",
   "xId": "Yoomiverse",
+  "facebookId": "100086387577579",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוהם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "100086387577579",
-  "linkedinNum": 18109674
+  "isActive": true
 }

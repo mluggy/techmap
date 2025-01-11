@@ -6,19 +6,26 @@
   "logoFile": "logos/spinol-logo.webp",
   "websiteUrl": "https://spinolmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000416739",
   "finderId": "spinol-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כסלו",
       "houseNumber": 59,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9146986,
-      "lon": 35.010292
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.91641,
+      "lon": 35.008169
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

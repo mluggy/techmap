@@ -6,11 +6,17 @@
   "logoFile": "logos/greenroad_driving_technologies-logo.webp",
   "websiteUrl": "https://greenroad.com/",
   "careersUrl": "https://greenroad.com/careers/",
-  "isHiring": true,
   "linkedinId": "greenroad",
+  "linkedinNum": 400001,
   "crunchbaseId": "greenroad-technologies",
+  "ivcId": null,
   "finderId": "greenroad",
   "xId": "GreenRoadNews",
+  "facebookId": "GreenRoadTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרוקמים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GreenRoadTechnologies",
-  "linkedinNum": 400001
+  "isActive": true
 }

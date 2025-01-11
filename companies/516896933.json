@@ -6,11 +6,17 @@
   "logoFile": "logos/teloira-logo.webp",
   "websiteUrl": "https://www.teloira.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "teloira",
+  "linkedinNum": 101262321,
   "crunchbaseId": null,
+  "ivcId": "A1000000460679",
   "finderId": "teloira",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צלף",
@@ -19,5 +25,7 @@
       "lat": 31.2682138,
       "lon": 34.8507578
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

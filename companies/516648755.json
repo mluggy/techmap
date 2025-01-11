@@ -6,11 +6,17 @@
   "logoFile": "logos/quantz_tech-logo.webp",
   "websiteUrl": "https://www.quantzqmit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "quantz",
+  "ivcId": null,
   "finderId": "quantz-tech",
   "xId": null,
+  "facebookId": "quantztech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרב קמניצקי יעקב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "quantztech"
+  "isActive": true
 }

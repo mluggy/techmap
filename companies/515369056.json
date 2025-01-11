@@ -1,0 +1,31 @@
+{
+  "name": "Oosto",
+  "description": "AnyVision developed Oosto.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/oosto-logo.webp",
+  "websiteUrl": "https://oosto.com",
+  "careersUrl": "https://oosto.com/careers/",
+  "linkedinId": "oosto",
+  "linkedinNum": 10443517,
+  "crunchbaseId": null,
+  "ivcId": "A1000000208598",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרוקמים",
+      "houseNumber": 26,
+      "city": "חולון",
+      "lat": 32.0076095,
+      "lon": 34.8010583
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

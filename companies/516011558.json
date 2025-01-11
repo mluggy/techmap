@@ -6,20 +6,26 @@
   "logoFile": "logos/staga-logo.webp",
   "websiteUrl": "https://www.staga.art/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 90876123,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "staga",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064005,
       "lon": 34.771695
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90876123
+  "isActive": true
 }

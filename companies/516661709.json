@@ -1,0 +1,31 @@
+{
+  "name": "PeerPlay",
+  "description": "PeerPlay is a mobile gaming platform.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/peerplay-logo.webp",
+  "websiteUrl": "https://www.peerplay.com",
+  "careersUrl": null,
+  "linkedinId": "peerplaygames",
+  "linkedinNum": 90780642,
+  "crunchbaseId": null,
+  "ivcId": "A1000000418769",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דובנוב",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.0786234,
+      "lon": 34.7833503
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

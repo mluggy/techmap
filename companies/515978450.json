@@ -6,11 +6,17 @@
   "logoFile": "logos/spherestec-logo.webp",
   "websiteUrl": "https://spherestec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000428788",
   "finderId": "spherestec",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדולב",
@@ -20,5 +26,6 @@
       "lon": 34.9680634
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

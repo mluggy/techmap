@@ -6,20 +6,26 @@
   "logoFile": "logos/sayata_labs_ltd-logo.webp",
   "websiteUrl": "https://sayata.com/",
   "careersUrl": "https://sayata.com/careers",
-  "isHiring": true,
   "linkedinId": "sayatainsurance",
+  "linkedinNum": 27037694,
   "crunchbaseId": "sayata-labs",
+  "ivcId": null,
   "finderId": "sayata-labs",
   "xId": "sayatalabs",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074132,
       "lon": 34.782006
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27037694
+  "isActive": true
 }

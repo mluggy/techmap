@@ -6,22 +6,26 @@
   "logoFile": "logos/beehero-logo.webp",
   "websiteUrl": "https://www.beehero.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 28669130,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "beehero",
   "xId": "beehero_io",
+  "facebookId": "BeeHeroPollination",
+  "breezyId": null,
+  "comeetId": "beehero/78.00E",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062937,
       "lon": 34.785459
     }
   ],
   "isMultinational": false,
-  "facebookId": "BeeHeroPollination",
-  "linkedinNum": 28669130,
-  "comeetId": "beehero/78.00E"
+  "isActive": true
 }

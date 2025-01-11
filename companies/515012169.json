@@ -1,0 +1,31 @@
+{
+  "name": "HRNextLevel",
+  "description": "HR Next Level has developed an Artificial Intelligence recruiting system, which generates psychological tests items and provides online customized assessment in less than an hour.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/hrnextlevel-logo.webp",
+  "websiteUrl": "http://www.hrnextlevel.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000176134",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 53,
+      "city": "תל אביב-יפו",
+      "lat": 32.0675492,
+      "lon": 34.7869322
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

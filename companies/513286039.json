@@ -6,21 +6,26 @@
   "logoFile": "logos/sysaid_technologies-logo.webp",
   "websiteUrl": "https://www.sysaid.com/",
   "careersUrl": "https://www.sysaid.com/company/careers",
-  "isHiring": true,
   "linkedinId": "sysaid-technologies-ltd",
+  "linkedinNum": 132666,
   "crunchbaseId": null,
+  "ivcId": "A1000000003701",
   "finderId": "sysaid",
   "xId": "sysaid",
+  "facebookId": "SysAidIT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' שאול המלך",
+      "street": "שדרות שאול המלך",
       "houseNumber": 37,
-      "city": "תל אביב - יפו",
-      "lat": 32.0780148,
-      "lon": 34.7900515
+      "city": "תל אביב-יפו",
+      "lat": 32.0780895,
+      "lon": 34.7900446
     }
   ],
   "isMultinational": false,
-  "facebookId": "SysAidIT",
-  "linkedinNum": 132666
+  "isActive": true
 }

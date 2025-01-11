@@ -1,26 +1,31 @@
 {
   "name": "Compete",
-  "description": "Real-time Compensation and Benefit Benchmarks",
+  "description": "Real-time Compensation and Benefit Benchmarks.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/compete_hr-logo.webp",
   "websiteUrl": "https://www.competewith.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "competehr",
+  "linkedinNum": 49118843,
   "crunchbaseId": null,
+  "ivcId": "A1000000323291",
   "finderId": "Compete",
   "xId": null,
+  "facebookId": "competehr",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יסמין",
-      "houseNumber": 216,
-      "city": "שילת",
-      "lat": 31.9176726,
-      "lon": 35.0175172
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.0850056,
+      "lon": 34.80180989999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "competehr",
-  "linkedinNum": 49118843
+  "isActive": true
 }

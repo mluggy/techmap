@@ -6,12 +6,26 @@
   "logoFile": "logos/enervibe-logo.webp",
   "websiteUrl": "https://enervibe.co/",
   "careersUrl": "https://enervibe.co/careers_page/",
-  "isHiring": true,
   "linkedinId": "enervibe",
+  "linkedinNum": 33518054,
   "crunchbaseId": "enervibe",
+  "ivcId": "A1000000282444",
   "finderId": "enervibe",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גולן",
+      "houseNumber": 1,
+      "city": "נתב\"ג",
+      "lat": 31.9879816,
+      "lon": 34.914164
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 33518054
+  "isActive": true
 }

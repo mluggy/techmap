@@ -6,13 +6,26 @@
   "logoFile": "logos/shift_live-logo.webp",
   "websiteUrl": "https://shiftlive.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "shift-live",
+  "linkedinNum": 26995839,
   "crunchbaseId": null,
+  "ivcId": "A1000000420147",
   "finderId": "shift-live",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "shiftlive.net",
-  "linkedinNum": 26995839
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הטחנה",
+      "houseNumber": 57,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.515278,
+      "lon": 34.94896
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

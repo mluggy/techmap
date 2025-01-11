@@ -6,21 +6,26 @@
   "logoFile": "logos/infodraw_israel_r_d-logo.webp",
   "websiteUrl": "https://www.infodraw.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "infodraw",
+  "linkedinNum": 663942,
   "crunchbaseId": "infodraw",
+  "ivcId": "A1000000008411",
   "finderId": "infodraw",
   "xId": "Infodraw",
+  "facebookId": "Infodraw",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך אבא הלל",
+      "street": "אבא הלל סילבר",
       "houseNumber": 14,
-      "city": "רמת גן",
-      "lat": 32.0857115,
-      "lon": 34.8050057
+      "city": "ראשון לציון",
+      "lat": 31.985021,
+      "lon": 34.7841606
     }
   ],
   "isMultinational": false,
-  "facebookId": "Infodraw",
-  "linkedinNum": 663942
+  "isActive": true
 }

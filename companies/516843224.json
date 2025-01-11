@@ -6,11 +6,17 @@
   "logoFile": "logos/predictive_metabolomics-logo.webp",
   "websiteUrl": "https://predictivemetabolomics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000454469",
   "finderId": "predictive-metabolomics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מילר טובה וטוביה",
@@ -19,5 +25,7 @@
       "lat": 31.9003748,
       "lon": 34.816271
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

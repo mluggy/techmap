@@ -1,16 +1,22 @@
 {
   "name": "Hibernating Rhinos",
-  "description": "A real-time visual debugger offering insights into NHibernate usage, developed by a staunch advocate of open-source projects.",
+  "description": "RavenDB is a NoSQL Document Database for applications operating on the cloud or on-premise.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/hibernating_rhinos-logo.webp",
-  "websiteUrl": "https://hibernatingrhinos.com/",
+  "websiteUrl": "https://ravendb.net",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hibernating-rhinos-ltd-",
+  "linkedinNum": 4837335,
   "crunchbaseId": null,
+  "ivcId": "A1000000203841",
   "finderId": "hibernating-rhinos",
   "xId": "hiberrhinos",
+  "facebookId": "RavenDB-265907650186374",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "RavenDB-265907650186374",
-  "linkedinNum": 4837335
+  "isActive": true
 }

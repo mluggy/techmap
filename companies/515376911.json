@@ -6,21 +6,26 @@
   "logoFile": "logos/log_in_log_out_ltd-logo.webp",
   "websiteUrl": "https://logpac.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "log-ltd-",
+  "linkedinNum": 5062419,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "log",
   "xId": "logpacltd",
+  "facebookId": "logpacltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שטינמן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.09862461243271,
       "lon": 34.80098710727979
     }
   ],
   "isMultinational": false,
-  "facebookId": "logpacltd",
-  "linkedinNum": 5062419
+  "isActive": true
 }

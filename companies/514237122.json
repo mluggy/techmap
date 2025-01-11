@@ -6,21 +6,26 @@
   "logoFile": "logos/eitan_medical-logo.webp",
   "websiteUrl": "https://eitanmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "eitan-medical",
+  "linkedinNum": 13020842,
   "crunchbaseId": null,
+  "ivcId": "A1000000009792",
   "finderId": "eitan-medical",
   "xId": "eitanmedical",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "eitanmedical/C6.00F",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יד חרוצים",
-      "houseNumber": 29,
+      "street": "הרצל",
+      "houseNumber": 28,
       "city": "נתניה",
-      "lat": 32.2834756,
-      "lon": 34.8651339
+      "lat": 32.3283202,
+      "lon": 34.8570342
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13020842,
-  "comeetId": "eitanmedical/C6.00F"
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/babylon_software-logo.webp",
   "websiteUrl": "https://www.babylon-software.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 13247204,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "babylon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הולנד",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13247204
+  "isActive": true
 }

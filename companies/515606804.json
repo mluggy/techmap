@@ -6,21 +6,26 @@
   "logoFile": "logos/torii_labs-logo.webp",
   "websiteUrl": "https://www.toriihq.com/",
   "careersUrl": "https://www.toriihq.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "toriihq",
+  "linkedinNum": 11298659,
   "crunchbaseId": "torii-4618",
+  "ivcId": "A1000000240593",
   "finderId": "torii-labs",
   "xId": "torii_hq",
+  "facebookId": "toriiapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החרושת",
-      "houseNumber": 19,
-      "city": "רעננה",
-      "lat": 32.1953698,
-      "lon": 34.8799621
+      "street": "עתיר ידע",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1674227,
+      "lon": 34.9285291
     }
   ],
   "isMultinational": false,
-  "facebookId": "toriiapp",
-  "linkedinNum": 11298659
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Precycle",
-  "description": "AI-based On-site Plastic Recycling",
+  "description": "AI-based On-site Plastic Recycling.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/precycle-logo.webp",
   "websiteUrl": "https://www.precycles.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "precycles",
+  "linkedinNum": 43364649,
   "crunchbaseId": null,
+  "ivcId": "A1000000323257",
   "finderId": "precycle",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 43364649
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/ex_libris_israeli_holdco-logo.webp",
   "websiteUrl": "https://exlibrisgroup.com/",
   "careersUrl": "https://exlibrisgroup.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 7746,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ex-libris",
   "xId": "exlibrisgroup",
+  "facebookId": "exlibrisgroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגן הטכנולוגי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "exlibrisgroup",
-  "linkedinNum": 7746
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Dots",
-  "description": "Expanding Social Circles",
+  "description": "IT’S July is a new matchmaking platform for families.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/dots_app-logo.webp",
-  "websiteUrl": "https://www.hello-dots.com/",
+  "websiteUrl": "https://www.itsjuly.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "itsjuly",
+  "linkedinNum": 66650610,
   "crunchbaseId": null,
+  "ivcId": "A1000000334200",
   "finderId": "dots-1",
   "xId": null,
+  "facebookId": "DotsAppOfficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גנסין",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.079054,
-      "lon": 34.772678
+      "city": "תל אביב-יפו",
+      "lat": 32.0790538,
+      "lon": 34.7726779
     }
   ],
   "isMultinational": false,
-  "facebookId": "DotsAppOfficial",
-  "linkedinNum": 66650610
+  "isActive": true
 }

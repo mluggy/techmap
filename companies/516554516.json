@@ -1,0 +1,31 @@
+{
+  "name": "Matovu",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/matovu-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000473412",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "העוגן",
+      "houseNumber": 4,
+      "city": "הרצליה",
+      "lat": 32.1596022,
+      "lon": 34.7927191
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

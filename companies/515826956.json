@@ -1,16 +1,22 @@
 {
   "name": "Travaxy",
-  "description": "Travel and Booking Platform for Seniors and People with Disabilities",
+  "description": "Travel and Booking Platform for Seniors and People with Disabilities.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/travaxy-logo.webp",
   "websiteUrl": "https://www.travaxy.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "travaxy",
+  "linkedinNum": 28552216,
   "crunchbaseId": null,
+  "ivcId": "A1000000250832",
   "finderId": "travaxy",
   "xId": null,
+  "facebookId": "Travaxy-311924569211925",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האתרוג",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Travaxy-311924569211925",
-  "linkedinNum": 28552216
+  "isActive": true
 }

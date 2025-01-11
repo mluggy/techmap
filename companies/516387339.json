@@ -3,21 +3,29 @@
   "description": "Empowering organizations with seamless Zero Trust Network Access to cloud, on-premises, and hybrid applications through an integrated platform.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/terra_zone-logo.webp",
+  "logoFile": "logos/terra-zone-logo.webp",
   "websiteUrl": "https://terrazone.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "terrazone",
+  "linkedinNum": 80316425,
   "crunchbaseId": null,
+  "ivcId": "A1000000490605",
   "finderId": "terrazone",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שבט",
-      "houseNumber": 7,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9128869,
-      "lon": 35.0124911
+      "street": "שדרות אבא אבן",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.161328,
+      "lon": 34.80901130000001
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

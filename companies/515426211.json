@@ -6,11 +6,17 @@
   "logoFile": "logos/datar_medical_innovations-logo.webp",
   "websiteUrl": "https://www.pain-guard.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "datar-medical-innovations-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -20,5 +26,6 @@
       "lon": 35.1485842
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

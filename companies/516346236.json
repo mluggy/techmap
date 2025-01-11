@@ -6,12 +6,17 @@
   "logoFile": "logos/scoutx.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "scoutx",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האנרגיה",
@@ -21,5 +26,6 @@
       "lon": 34.81089109303142
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

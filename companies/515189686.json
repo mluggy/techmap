@@ -6,22 +6,26 @@
   "logoFile": "logos/cynet_security-logo.webp",
   "websiteUrl": "https://www.cynet.com/",
   "careersUrl": "https://www.cynet.com/careers/",
-  "isHiring": true,
   "linkedinId": "cynet-security",
+  "linkedinNum": 9363621,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cynet",
   "xId": "cynet360",
+  "facebookId": "cynet360",
+  "breezyId": null,
+  "comeetId": "cynet/33.00D",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "cynet360",
-  "linkedinNum": 9363621,
-  "comeetId": "cynet/33.00D"
+  "isActive": true
 }

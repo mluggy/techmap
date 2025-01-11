@@ -6,11 +6,17 @@
   "logoFile": "logos/fairmatic_services_israel-logo.webp",
   "websiteUrl": "https://www.fairmatic.com/",
   "careersUrl": "https://www.fairmatic.com/careers",
-  "isHiring": true,
   "linkedinId": "fairmatic",
+  "linkedinNum": 19095924,
   "crunchbaseId": "fairmatic",
+  "ivcId": null,
   "finderId": "fairmatic",
   "xId": "fairmatic",
+  "facebookId": "fairmatic",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,7 +26,6 @@
       "lon": 34.8054589
     }
   ],
-  "isMultinational": true,
-  "facebookId": "fairmatic",
-  "linkedinNum": 19095924
+  "isMultinational": false,
+  "isActive": true
 }

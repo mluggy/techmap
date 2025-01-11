@@ -6,11 +6,17 @@
   "logoFile": "logos/lydus_medical-logo.webp",
   "websiteUrl": "https://www.lydus-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lydus-medical",
+  "linkedinNum": 27120110,
   "crunchbaseId": null,
+  "ivcId": "A1000000230257",
   "finderId": "lydus-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27120110
+  "isActive": true
 }

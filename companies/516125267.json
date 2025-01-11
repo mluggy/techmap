@@ -1,0 +1,31 @@
+{
+  "name": "MediCane",
+  "description": "MediCane Health is a provider and manufacturer of pharmaceutical products, using cannabis strains.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/medicane-logo.webp",
+  "websiteUrl": "https://www.medicane.net",
+  "careersUrl": "https://medicane.net/careers/",
+  "linkedinId": "medicane-health-incorporated",
+  "linkedinNum": 53143609,
+  "crunchbaseId": null,
+  "ivcId": "A1000000311858",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 28,
+      "city": "כפר סבא",
+      "lat": 32.1782302,
+      "lon": 34.9280414
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

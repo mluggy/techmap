@@ -1,16 +1,22 @@
 {
   "name": "Smart Medical Systems",
-  "description": "Medical Devices for GI Endoscopy",
+  "description": "Medical Devices for GI Endoscopy.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/smart_medical_systems-logo.webp",
   "websiteUrl": "https://www.smartmedsys.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "smart-medical-systems",
+  "linkedinNum": 1389915,
   "crunchbaseId": "smart-medical-systems",
+  "ivcId": "A1000000003837",
   "finderId": "smart-medical-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנופר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1389915
+  "isActive": true
 }

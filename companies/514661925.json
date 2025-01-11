@@ -1,0 +1,31 @@
+{
+  "name": "PhotoMania",
+  "description": "Trionity, an energetic, young company with a creative and talented staff, has developed PhotoMania.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/photomania-logo.webp",
+  "websiteUrl": "http://www.photomania.net",
+  "careersUrl": null,
+  "linkedinId": "photomania",
+  "linkedinNum": 2338385,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001389",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": 8,
+      "city": "רמת גן",
+      "lat": 32.084226,
+      "lon": 34.8008006
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

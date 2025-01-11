@@ -6,11 +6,17 @@
   "logoFile": "logos/hexagon_real_estate_group-logo.webp",
   "websiteUrl": "https://hexagon.com/",
   "careersUrl": "https://hexagon.com/company/careers",
-  "isHiring": true,
   "linkedinId": "hexagon-manufacturing-intelligence",
+  "linkedinNum": 17142,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hexagon-manufacturing-intelligence",
   "xId": "hexagonmi",
+  "facebookId": "HexagonMI",
+  "breezyId": null,
+  "comeetId": "hexagon/62.00E",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התדהר",
@@ -20,8 +26,6 @@
       "lon": 34.88389164228251
     }
   ],
-  "isMultinational": true,
-  "facebookId": "HexagonMI",
-  "linkedinNum": 17142,
-  "comeetId": "hexagon/62.00E"
+  "isMultinational": false,
+  "isActive": true
 }

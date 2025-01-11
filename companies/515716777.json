@@ -6,21 +6,26 @@
   "logoFile": "logos/thoughtleaders-logo.webp",
   "websiteUrl": "https://www.thoughtleaders.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "thoughtleaders-io",
+  "linkedinNum": 13468475,
   "crunchbaseId": null,
+  "ivcId": "A1000000294168",
   "finderId": "thoughtleaders",
   "xId": "Thoughtldrs",
+  "facebookId": "ThoughtLeaders.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרליבך",
       "houseNumber": 27,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.068695,
       "lon": 34.782804
     }
   ],
   "isMultinational": false,
-  "facebookId": "ThoughtLeaders.io",
-  "linkedinNum": 13468475
+  "isActive": true
 }

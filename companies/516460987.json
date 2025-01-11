@@ -6,20 +6,26 @@
   "logoFile": "logos/kahoona_labs-logo.webp",
   "websiteUrl": "https://www.kahoona.io/",
   "careersUrl": "https://www.kahoona.io/careers",
-  "isHiring": true,
   "linkedinId": "kahoonaio",
+  "linkedinNum": 79947197,
   "crunchbaseId": "kahoona",
+  "ivcId": "A1000000374940",
   "finderId": "kahoona",
   "xId": "kahoona_io",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השלום",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.072245,
-      "lon": 34.796049
+      "street": "מנחם בגין",
+      "houseNumber": 156,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930883,
+      "lon": 34.8322717
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79947197
+  "isActive": true
 }

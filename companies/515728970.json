@@ -1,0 +1,31 @@
+{
+  "name": "Directeam",
+  "description": "Directeam is a DevOps consulting firm, focused on innovative technologies and cloud transformation, providing services to its customers.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/directeam-logo.webp",
+  "websiteUrl": "https://directeam.io",
+  "careersUrl": "https://www.comeet.com/jobs/directeam/29.008",
+  "linkedinId": "directeam-cloud",
+  "linkedinNum": 27103513,
+  "crunchbaseId": null,
+  "ivcId": "A1000000463460",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0799908,
+      "lon": 34.7998339
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

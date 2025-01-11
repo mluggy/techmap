@@ -1,0 +1,31 @@
+{
+  "name": "Foxi",
+  "description": "Foxi has developed a smart GPS watch for calling and tracking important people in life.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/foxi-logo.webp",
+  "websiteUrl": "https://www.foxifinder.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000021832",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נחל שורק",
+      "houseNumber": 48,
+      "city": "כפר יונה",
+      "lat": 32.3125822,
+      "lon": 34.935231
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

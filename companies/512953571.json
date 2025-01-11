@@ -6,12 +6,17 @@
   "logoFile": "logos/xmpie.webp",
   "websiteUrl": "https://www.xmpie.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "xmpie",
   "linkedinNum": 20742,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "xmpie",
   "xId": "xmpie",
   "facebookId": "xmpie",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,5 +26,6 @@
       "lon": 34.85836148852003
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

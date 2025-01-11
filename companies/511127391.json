@@ -6,21 +6,26 @@
   "logoFile": "logos/rbtec-logo.webp",
   "websiteUrl": "https://www.rbtec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rbtec-perimeter-security-systems",
+  "linkedinNum": 387433,
   "crunchbaseId": null,
+  "ivcId": "A1000000006276",
   "finderId": "rbtec",
   "xId": null,
+  "facebookId": "perimeterintrusiondetection",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המתכת",
-      "houseNumber": 8,
-      "city": "קדימה",
-      "lat": 32.2754966,
-      "lon": 34.9222268
+      "street": "האופה",
+      "houseNumber": 2,
+      "city": "קדימה צורן",
+      "lat": 32.275611,
+      "lon": 34.921046
     }
   ],
   "isMultinational": false,
-  "facebookId": "perimeterintrusiondetection",
-  "linkedinNum": 387433
+  "isActive": true
 }

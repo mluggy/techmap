@@ -3,21 +3,29 @@
   "description": "No information is available for this page. · Learn why.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/snipe_medical-logo.webp",
+  "logoFile": "logos/snipe-medical-logo.webp",
   "websiteUrl": "https://www.snipemedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "snipe-medical",
+  "linkedinNum": 80895794,
   "crunchbaseId": "snipe-medical",
+  "ivcId": "A1000000379757",
   "finderId": "snipe-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יוני",
+      "street": "הלסינקי",
       "houseNumber": 22,
-      "city": "אור יהודה",
-      "lat": 32.0226256,
-      "lon": 34.8571754
+      "city": "תל אביב-יפו",
+      "lat": 32.085412,
+      "lon": 34.792521
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

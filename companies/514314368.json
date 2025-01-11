@@ -6,20 +6,26 @@
   "logoFile": "logos/gridon-logo.webp",
   "websiteUrl": "https://gridon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 7000846,
   "crunchbaseId": null,
+  "ivcId": "A1000000002160",
   "finderId": "gridon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תפוצות ישראל",
-      "houseNumber": 5,
+      "street": "ישראל טייבר",
+      "houseNumber": null,
       "city": "גבעתיים",
-      "lat": 32.0607019,
-      "lon": 34.8150043
+      "lat": 32.0716161,
+      "lon": 34.8051617
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 7000846
+  "isActive": true
 }

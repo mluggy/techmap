@@ -6,21 +6,26 @@
   "logoFile": "logos/fibrolan-logo.webp",
   "websiteUrl": "https://www.fibrolan.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fibrolan",
+  "linkedinNum": 114346,
   "crunchbaseId": null,
+  "ivcId": "A1000000005212",
   "finderId": "fibrolan",
   "xId": "fibrolan",
+  "facebookId": "FibroLAN-CEE-GmbH-1415354378678442",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
       "houseNumber": 2,
-      "city": "יקנעם עילית",
-      "lat": 32.6578027,
-      "lon": 35.1002987
+      "city": "יוקנעם עילית",
+      "lat": 32.6624558,
+      "lon": 35.1049443
     }
   ],
   "isMultinational": false,
-  "facebookId": "FibroLAN-CEE-GmbH-1415354378678442",
-  "linkedinNum": 114346
+  "isActive": true
 }

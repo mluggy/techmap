@@ -6,20 +6,26 @@
   "logoFile": "logos/tavlit.webp",
   "websiteUrl": "https://www.tavlit.co.il/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 14022170,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tavlit",
   "xId": null,
   "facebookId": "Tavlit-2487037044700292",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוין קיפניס",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.12686505205341,
       "lon": 34.8315663859957
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

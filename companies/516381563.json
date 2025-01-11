@@ -1,26 +1,31 @@
 {
   "name": "Toya",
-  "description": "Games Based on Remarkable Women",
+  "description": "Games Based on Remarkable Women.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/toya_green_energy-logo.webp",
   "websiteUrl": "https://www.toyaplay.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "toyaplay",
+  "linkedinNum": 71380013,
   "crunchbaseId": null,
+  "ivcId": "A1000000208604",
   "finderId": "toya",
   "xId": "ToyaPlayStudio",
+  "facebookId": "toyaplay",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התבור",
-      "houseNumber": 118,
-      "city": "נופית",
-      "lat": 32.7574573,
-      "lon": 35.1439374
+      "street": "שדרות בגין",
+      "houseNumber": 114,
+      "city": "רעננה",
+      "lat": 32.1936947,
+      "lon": 34.8492481
     }
   ],
   "isMultinational": false,
-  "facebookId": "toyaplay",
-  "linkedinNum": 71380013
+  "isActive": true
 }

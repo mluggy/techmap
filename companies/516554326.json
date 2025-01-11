@@ -1,25 +1,31 @@
 {
   "name": "Discure Technologies",
-  "description": "Reversing Degenerative Disc Disease",
+  "description": "Discure Technologies is developing a minimally invasive, implantable bioelectronic device designed to treat and reverse degenerative disc disease (DDD) by actively controlling the reintroduction of fluid, oxygen and nutrients into the degenerated disc.",
   "categoryId": 12,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/discure_technologies-logo.webp",
-  "websiteUrl": "https://www.rainbowmd.com/our-companies/",
+  "websiteUrl": "http://discuremd.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "discure-technologies",
+  "linkedinNum": 72074499,
   "crunchbaseId": "discure-technologies",
+  "ivcId": "A1000000316753",
   "finderId": "discure-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מדינת היהודים",
-      "houseNumber": 85,
-      "city": "הרצליה",
-      "lat": 32.1666999,
-      "lon": 34.8099066
+      "street": "ז'בוטינסקי",
+      "houseNumber": 61,
+      "city": "פתח תקווה",
+      "lat": 32.0685147,
+      "lon": 34.8500799
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72074499
+  "isActive": true
 }

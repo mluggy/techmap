@@ -6,21 +6,26 @@
   "logoFile": "logos/etribez_labs-logo.webp",
   "websiteUrl": "https://www.etribez.com/",
   "careersUrl": "https://www.etribez.com/careers/",
-  "isHiring": true,
   "linkedinId": "etribez",
+  "linkedinNum": 2344123,
   "crunchbaseId": "etribez",
+  "ivcId": "A1000000009706",
   "finderId": "etribez",
   "xId": "etribez",
+  "facebookId": "eTribez",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
+      "street": "מנחם בגין",
       "houseNumber": 11,
-      "city": "רמת גן",
-      "lat": 32.0862661,
-      "lon": 34.800174909775976
+      "city": "בני ברק",
+      "lat": 32.0928544,
+      "lon": 34.8278071
     }
   ],
   "isMultinational": false,
-  "facebookId": "eTribez",
-  "linkedinNum": 2344123
+  "isActive": true
 }

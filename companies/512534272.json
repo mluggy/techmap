@@ -6,21 +6,26 @@
   "logoFile": "logos/radwin-logo.webp",
   "websiteUrl": "https://radwin.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "radwin",
+  "linkedinNum": 43197,
   "crunchbaseId": null,
+  "ivcId": "A1000000005160",
   "finderId": "radwin",
   "xId": "radwin",
+  "facebookId": "RADWIN.ltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 27,
-      "city": "תל אביב - יפו",
-      "lat": 32.109707,
-      "lon": 34.840481
+      "city": "תל אביב-יפו",
+      "lat": 32.1099675,
+      "lon": 34.8405233
     }
   ],
   "isMultinational": false,
-  "facebookId": "RADWIN.ltd",
-  "linkedinNum": 43197
+  "isActive": true
 }

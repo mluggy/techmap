@@ -6,20 +6,26 @@
   "logoFile": "logos/keep_kontakt_ltd-logo.webp",
   "websiteUrl": "https://www.keephq.dev/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "keepalerting",
+  "linkedinNum": 88418678,
   "crunchbaseId": null,
+  "ivcId": "A1000000421652",
   "finderId": "keep",
   "xId": "keepalerting",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלילי ישראל",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.10096,
       "lon": 34.784826
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 88418678
+  "isActive": true
 }

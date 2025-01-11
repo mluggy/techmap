@@ -6,11 +6,17 @@
   "logoFile": "logos/dermafence-logo.webp",
   "websiteUrl": "https://www.dermafence.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "dermafence",
+  "ivcId": "A1000000254006",
   "finderId": "dermafence",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמק רפאים",
@@ -20,5 +26,6 @@
       "lon": 35.2193425
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

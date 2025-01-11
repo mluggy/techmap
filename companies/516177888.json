@@ -6,11 +6,17 @@
   "logoFile": "logos/insightcat-logo.webp",
   "websiteUrl": "https://insightcat.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "insightcat",
+  "linkedinNum": 42140122,
   "crunchbaseId": "insightcat",
+  "ivcId": null,
   "finderId": "insightcat",
   "xId": "insightcat1",
+  "facebookId": "insightcat",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוטה גור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "insightcat",
-  "linkedinNum": 42140122
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/phibro_animal_health-logo.webp",
   "websiteUrl": "https://www.pahc.com/",
   "careersUrl": "https://jobs.pahc.com/",
-  "isHiring": true,
   "linkedinId": "phibro-animal-health",
+  "linkedinNum": 41089,
   "crunchbaseId": "phibro-animal-health",
+  "ivcId": null,
   "finderId": "phibro-animal-health",
   "xId": null,
+  "facebookId": "PhibroAnimalHealth",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגב",
@@ -20,7 +26,6 @@
       "lon": 34.911436424754974
     }
   ],
-  "isMultinational": true,
-  "facebookId": "PhibroAnimalHealth",
-  "linkedinNum": 41089
+  "isMultinational": false,
+  "isActive": true
 }

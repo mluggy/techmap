@@ -1,0 +1,31 @@
+{
+  "name": "CySight",
+  "description": "CySight is an MDR in a box with integrated NDR, EDR and network forensics providing accurate, intelligent and deep visibility into the users' network and cloud traffic, even when traffic is encrypted.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/cysight-logo.webp",
+  "websiteUrl": "https://cysight.ai",
+  "careersUrl": null,
+  "linkedinId": "cysight",
+  "linkedinNum": 385874,
+  "crunchbaseId": null,
+  "ivcId": "A1000000471501",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אחוזה",
+      "houseNumber": 161,
+      "city": "רעננה",
+      "lat": 32.1813607,
+      "lon": 34.8697928
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

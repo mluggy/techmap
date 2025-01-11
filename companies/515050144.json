@@ -6,11 +6,17 @@
   "logoFile": "logos/novotalk-logo.webp",
   "websiteUrl": "https://www.novotalk.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "novotalk",
+  "linkedinNum": 10009038,
   "crunchbaseId": null,
+  "ivcId": "A1000000180532",
   "finderId": "novotalk",
   "xId": "novotalk",
+  "facebookId": "novotalk1",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבי עקיבא",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "novotalk1",
-  "linkedinNum": 10009038
+  "isActive": true
 }

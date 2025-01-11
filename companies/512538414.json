@@ -6,11 +6,17 @@
   "logoFile": "logos/finn_partners_israel-logo.webp",
   "websiteUrl": "https://www.finnpartners.com/",
   "careersUrl": "https://www.finnpartners.com/careers/",
-  "isHiring": true,
   "linkedinId": "finn-partners",
+  "linkedinNum": 3093173,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "finn-partners",
   "xId": "fpipr",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרטום",
@@ -20,6 +26,6 @@
       "lon": 35.2133925
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 3093173
+  "isMultinational": false,
+  "isActive": true
 }

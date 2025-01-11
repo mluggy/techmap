@@ -6,11 +6,17 @@
   "logoFile": "logos/worldquant_research_israel-logo.webp",
   "websiteUrl": "https://www.worldquant.com/",
   "careersUrl": "https://www.worldquant.com/careers/",
-  "isHiring": true,
   "linkedinId": "worldquant",
+  "linkedinNum": 276383,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "worldquant",
   "xId": null,
+  "facebookId": "WorldQuantCareers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,7 +26,6 @@
       "lon": 34.80419494318181
     }
   ],
-  "isMultinational": true,
-  "facebookId": "WorldQuantCareers",
-  "linkedinNum": 276383
+  "isMultinational": false,
+  "isActive": true
 }

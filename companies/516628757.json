@@ -6,11 +6,17 @@
   "logoFile": "logos/chromepay-logo.webp",
   "websiteUrl": "https://chromepay.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 43292683,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "chromepay",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 43292683
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/mobit_telecom_ltd-logo.webp",
   "websiteUrl": "https://www.sat406.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "mobit-telecom",
+  "ivcId": "A1000000003979",
   "finderId": "mobit-telecom",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צה\"ל",
-      "houseNumber": 87,
-      "city": "קריית אונו",
-      "lat": 32.0528949,
-      "lon": 34.8585821
+      "street": "שלמה המלך",
+      "houseNumber": 6,
+      "city": "קרית אונו",
+      "lat": 32.0538099,
+      "lon": 34.8587843
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

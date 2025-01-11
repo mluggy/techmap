@@ -6,21 +6,26 @@
   "logoFile": "logos/luxembourg_industries_ltd-logo.webp",
   "websiteUrl": "https://www.luxembourg.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "luxembourg-industries-ltd-",
+  "linkedinNum": 2919142,
   "crunchbaseId": "luxembourg-industries",
+  "ivcId": null,
   "finderId": "luxembourg-industries",
   "xId": null,
+  "facebookId": "luxembourgindustries",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרד",
       "houseNumber": 27,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063211,
       "lon": 34.763353
     }
   ],
   "isMultinational": false,
-  "facebookId": "luxembourgindustries",
-  "linkedinNum": 2919142
+  "isActive": true
 }

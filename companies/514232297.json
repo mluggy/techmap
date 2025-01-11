@@ -6,11 +6,17 @@
   "logoFile": "logos/advisol-logo.webp",
   "websiteUrl": "https://advisol.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000003228",
   "finderId": "advisol",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלגל הפלדה",
@@ -20,5 +26,6 @@
       "lon": 34.8089037
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

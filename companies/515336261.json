@@ -6,21 +6,26 @@
   "logoFile": "logos/rollinom-logo.webp",
   "websiteUrl": "https://www.rollinom.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rollinom",
+  "linkedinNum": 18101142,
   "crunchbaseId": null,
+  "ivcId": "A1000000288298",
   "finderId": "rollinom",
   "xId": null,
+  "facebookId": "%D7%A8%D7%95%D7%9C%D7%99%D7%A0%D7%95%D7%9D-156952761607289",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שביט",
-      "houseNumber": 8,
-      "city": "נס ציונה",
-      "lat": 31.9196212,
-      "lon": 34.793118
+      "street": "יגאל אלון",
+      "houseNumber": 55,
+      "city": "תל אביב-יפו",
+      "lat": 32.0625329,
+      "lon": 34.7918235
     }
   ],
   "isMultinational": false,
-  "facebookId": "%D7%A8%D7%95%D7%9C%D7%99%D7%A0%D7%95%D7%9D-156952761607289",
-  "linkedinNum": 18101142
+  "isActive": true
 }

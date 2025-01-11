@@ -6,11 +6,17 @@
   "logoFile": "logos/zend_technologies_ltd-logo.webp",
   "websiteUrl": "https://www.zend.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "zend-technologies",
+  "linkedinNum": 12625,
   "crunchbaseId": "zend-technologies",
+  "ivcId": null,
   "finderId": "zend-technologies",
   "xId": "zend",
+  "facebookId": "ZendTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZendTechnologies",
-  "linkedinNum": 12625
+  "isActive": true
 }

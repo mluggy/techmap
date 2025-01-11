@@ -6,20 +6,26 @@
   "logoFile": "logos/imai-logo.webp",
   "websiteUrl": "https://influencermarketing.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "imai",
+  "linkedinNum": 52145948,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "imai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 38,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1103886,
       "lon": 34.84245
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 52145948
+  "isActive": true
 }

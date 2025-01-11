@@ -6,21 +6,26 @@
   "logoFile": "logos/lingopie-logo.webp",
   "websiteUrl": "https://lingopie.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 12999518,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lingopie",
   "xId": "Lingopietv",
+  "facebookId": "lingopietv",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פרישמן",
       "houseNumber": 75,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.079681,
       "lon": 34.779376
     }
   ],
   "isMultinational": false,
-  "facebookId": "lingopietv",
-  "linkedinNum": 12999518
+  "isActive": true
 }

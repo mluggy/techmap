@@ -6,21 +6,26 @@
   "logoFile": "logos/radomatics-logo.webp",
   "websiteUrl": "https://www.radomatics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "radomatics",
+  "linkedinNum": 18358675,
   "crunchbaseId": null,
+  "ivcId": "A1000000253717",
   "finderId": "radomatics",
   "xId": null,
+  "facebookId": "radomatics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החרושת",
-      "houseNumber": 25,
-      "city": "רעננה",
-      "lat": 32.19620864407136,
-      "lon": 34.8799813719515
+      "street": null,
+      "houseNumber": null,
+      "city": "רמת גן",
+      "lat": 32.0691989,
+      "lon": 34.8430876
     }
   ],
   "isMultinational": false,
-  "facebookId": "radomatics",
-  "linkedinNum": 18358675
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/equalweb-logo.webp",
   "websiteUrl": "https://www.equalweb.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "equalweb",
+  "linkedinNum": 11460179,
   "crunchbaseId": null,
+  "ivcId": "A1000000254930",
   "finderId": "equalweb",
   "xId": "Equal_web",
+  "facebookId": "EqualWebDotCom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הקדר",
-      "houseNumber": 2,
-      "city": "נתניה",
-      "lat": 32.3226108,
-      "lon": 34.8785137
+      "street": null,
+      "houseNumber": null,
+      "city": "כפר יונה",
+      "lat": 32.3176357,
+      "lon": 34.9330201
     }
   ],
   "isMultinational": false,
-  "facebookId": "EqualWebDotCom",
-  "linkedinNum": 11460179
+  "isActive": true
 }

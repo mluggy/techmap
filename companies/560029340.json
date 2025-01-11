@@ -6,20 +6,26 @@
   "logoFile": "logos/nostromo-energy.webp",
   "websiteUrl": "https://nostromo.energy",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "nostromo-energy",
   "linkedinNum": 12894010,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nostromo-energy",
   "xId": "NostromoE",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.107439633606454,
       "lon": 34.83718462579054
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

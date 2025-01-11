@@ -6,20 +6,26 @@
   "logoFile": "logos/masu.webp",
   "websiteUrl": "https://masu.co.il/en/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "masu",
   "xId": "masuondemand",
   "facebookId": "MasuOnDemand",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ויינשל",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.11737885003838,
       "lon": 34.82282636831006
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Sphere Technologies",
-  "description": "A partnership aims to facilitate the integration of extended reality into various enterprise operations.",
-  "categoryId": 4,
+  "description": "Sphere Technologies has developed an innovative heat rejection system that connects to industrial and domestic cooling cycles.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/sphere_technologies-logo.webp",
-  "websiteUrl": "https://sphere.tech/",
+  "websiteUrl": "https://sphere-il.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sphere-technologies-ltd",
+  "linkedinNum": 78577885,
   "crunchbaseId": null,
+  "ivcId": "A1000000400756",
   "finderId": "sphere-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחל אבנון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78577885
+  "isActive": true
 }

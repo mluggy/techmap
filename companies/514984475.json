@@ -1,0 +1,31 @@
+{
+  "name": "Taryag Medical",
+  "description": "Taryag Medical is a medical device company developing and manufacturing a new atherectomy device for multiple morphologies, such as calcium, plaque or thrombus to enables restoring blood flow in occluded peripheral vessels without the need of a guide wire as an alternative for ByPass surgeries.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/taryag-medical-logo.webp",
+  "websiteUrl": "http://www.taryag-group.com",
+  "careersUrl": null,
+  "linkedinId": "taryag-group",
+  "linkedinNum": 19250645,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023716",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האילן",
+      "houseNumber": 14,
+      "city": "אור עקיבא",
+      "lat": 32.517961,
+      "lon": 34.922117
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/suridata_ai-logo.webp",
   "websiteUrl": "https://www.suridata.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "suridataai",
+  "linkedinNum": 34932843,
   "crunchbaseId": null,
+  "ivcId": "A1000000307624",
   "finderId": "suridata-ai",
   "xId": null,
+  "facebookId": "Suridataai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.074366,
-      "lon": 34.790077
+      "city": "שדרות",
+      "lat": 31.52574,
+      "lon": 34.602106
     }
   ],
   "isMultinational": false,
-  "facebookId": "Suridataai",
-  "linkedinNum": 34932843
+  "isActive": true
 }

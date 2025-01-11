@@ -6,21 +6,26 @@
   "logoFile": "logos/icobots-logo.webp",
   "websiteUrl": "https://icobots.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10379637,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "icobots",
   "xId": null,
+  "facebookId": "icobots",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפלך",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.050538,
       "lon": 34.766862
     }
   ],
   "isMultinational": false,
-  "facebookId": "icobots",
-  "linkedinNum": 10379637
+  "isActive": true
 }

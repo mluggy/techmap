@@ -6,18 +6,26 @@
   "logoFile": "logos/respidx-logo.webp",
   "websiteUrl": "https://respidx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "respidx",
+  "ivcId": "A1000000186090",
   "finderId": "respidx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הבנאים",
-      "houseNumber": 4,
-      "city": "אשדוד",
-      "lat": 31.8163658,
-      "lon": 34.6572715
+      "street": "‫מרדכי זעירא‬‎",
+      "houseNumber": 32,
+      "city": "רעננה",
+      "lat": 32.1963377,
+      "lon": 34.8627326
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

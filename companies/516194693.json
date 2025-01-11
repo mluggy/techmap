@@ -6,20 +6,26 @@
   "logoFile": "logos/enzymit-logo.webp",
   "websiteUrl": "https://enzymit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "enzymit",
+  "linkedinNum": 64880066,
   "crunchbaseId": null,
+  "ivcId": "A1000000318063",
   "finderId": "enzymit",
   "xId": "enzymit",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אפ\"ק",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.056625,
-      "lon": 34.760532
+      "street": "פנחס ספיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.91451859999999,
+      "lon": 34.8032823
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64880066
+  "isActive": true
 }

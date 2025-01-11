@@ -1,17 +1,22 @@
 {
   "name": "Foresight",
-  "description": "Detection Technology for Driver Assistance Systems",
+  "description": "Detection Technology for Driver Assistance Systems.",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/foresight.webp",
   "websiteUrl": "https://www.foresightauto.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "foresight-automotive",
   "linkedinNum": 10469458,
   "crunchbaseId": null,
+  "ivcId": "A1000000201135",
   "finderId": "foresight",
   "xId": "ForesightAuto1",
   "facebookId": "foresightauto",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -22,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinId": "foresight-automotive"
+  "isActive": true
 }

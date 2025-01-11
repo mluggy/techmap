@@ -6,21 +6,26 @@
   "logoFile": "logos/abbott_medical_laboratories-logo.webp",
   "websiteUrl": "https://www.abbott.com/",
   "careersUrl": "https://www.abbott.com/careers.html",
-  "isHiring": true,
   "linkedinId": "abbott-",
+  "linkedinNum": 1612,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "abbott",
   "xId": "AbbottNews",
+  "facebookId": "Abbott",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרית עתידים",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.11601368963312,
       "lon": 34.84295899996691
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Abbott",
-  "linkedinNum": 1612
+  "isMultinational": false,
+  "isActive": true
 }

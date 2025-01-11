@@ -1,26 +1,31 @@
 {
   "name": "Deafinitely",
-  "description": "Sign Language Translation App",
+  "description": "Sign Language Translation App.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/deafinitely_communication-logo.webp",
   "websiteUrl": "https://deafinitely.co.il/#scroll-navigation-section9",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "deafinitely",
+  "linkedinNum": 79013758,
   "crunchbaseId": null,
+  "ivcId": "A1000000411422",
   "finderId": "deafinitely",
   "xId": null,
+  "facebookId": "Deafinitelyapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עומרים",
-      "houseNumber": 15,
-      "city": "עומר",
-      "lat": 31.272729,
-      "lon": 34.8364357
+      "street": "דקל",
+      "houseNumber": 6,
+      "city": "באר שבע",
+      "lat": 31.239165,
+      "lon": 34.8019749
     }
   ],
   "isMultinational": false,
-  "facebookId": "Deafinitelyapp",
-  "linkedinNum": 79013758
+  "isActive": true
 }

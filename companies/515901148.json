@@ -6,21 +6,26 @@
   "logoFile": "logos/soundgym-logo.webp",
   "websiteUrl": "https://www.soundgym.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "soundgym",
+  "linkedinNum": 10386350,
   "crunchbaseId": null,
+  "ivcId": "A1000000249090",
   "finderId": "soundgym",
   "xId": "soundgym",
+  "facebookId": "soundgym10",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ביכורים",
       "houseNumber": 58,
       "city": "חיפה",
-      "lat": 32.8028193,
-      "lon": 34.9857392
+      "lat": 32.7980783,
+      "lon": 34.9864706
     }
   ],
   "isMultinational": false,
-  "facebookId": "soundgym10",
-  "linkedinNum": 10386350
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/zimark-logo.webp",
   "websiteUrl": "https://www.zimark.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zimark",
+  "linkedinNum": 72426970,
   "crunchbaseId": null,
+  "ivcId": "A1000000354399",
   "finderId": "zimark",
   "xId": null,
+  "facebookId": "zimarkscan",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "zimarkscan",
-  "linkedinNum": 72426970
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/optimove_marketing-logo.webp",
   "websiteUrl": "https://www.optimove.com/",
   "careersUrl": "https://www.optimove.com/careers",
-  "isHiring": true,
   "linkedinId": "optimove",
+  "linkedinNum": 227901,
   "crunchbaseId": null,
+  "ivcId": "A1000000010410",
   "finderId": "optimove",
   "xId": "optimove",
+  "facebookId": "optimove",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכפר",
-      "houseNumber": 1,
-      "city": "רשפון",
-      "lat": 32.1985745,
-      "lon": 34.8302092
+      "street": "השלושה",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
     }
   ],
   "isMultinational": false,
-  "facebookId": "optimove",
-  "linkedinNum": 227901
+  "isActive": true
 }

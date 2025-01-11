@@ -6,11 +6,17 @@
   "logoFile": "logos/surgimate-logo.webp",
   "websiteUrl": "https://www.surgimate.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 280362,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "surgimate",
   "xId": "surgimate",
+  "facebookId": "surgimate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יפו",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "surgimate",
-  "linkedinNum": 280362
+  "isActive": true
 }

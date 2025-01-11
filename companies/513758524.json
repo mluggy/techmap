@@ -6,19 +6,26 @@
   "logoFile": "logos/en_gibton-logo.webp",
   "websiteUrl": "https://www.engibton.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000003068",
   "finderId": "en-gibton",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' דוד המלך",
+      "street": "שדרות דוד המלך",
       "houseNumber": 53,
-      "city": "תל אביב - יפו",
-      "lat": 32.080181,
+      "city": "תל אביב-יפו",
+      "lat": 32.0801829,
       "lon": 34.787616
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

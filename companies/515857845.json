@@ -6,21 +6,26 @@
   "logoFile": "logos/zengo-logo.webp",
   "websiteUrl": "https://zengo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "zengo",
+  "linkedinNum": 11805115,
   "crunchbaseId": null,
+  "ivcId": "A1000000266995",
   "finderId": "kzen-networks",
   "xId": "zengo",
+  "facebookId": "ZenGoWallet",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
-      "lat": 32.070693,
-      "lon": 34.785176
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZenGoWallet",
-  "linkedinNum": 11805115
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/edgy_bees-logo.webp",
   "websiteUrl": "https://edgybees.com/",
   "careersUrl": "https://edgybees.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "edgybees-ltd",
+  "linkedinNum": 18007861,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "edgybees",
   "xId": "edgybees",
+  "facebookId": "edgybees",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מדינת היהודים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "edgybees",
-  "linkedinNum": 18007861
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/city_hive-logo.webp",
   "websiteUrl": "https://www.cityhive.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cityhiveinc",
+  "linkedinNum": 9304159,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "city-hive",
   "xId": "CityHiveInc",
+  "facebookId": "City.Hive",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זית",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "City.Hive",
-  "linkedinNum": 9304159
+  "isActive": true
 }

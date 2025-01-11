@@ -6,21 +6,26 @@
   "logoFile": "logos/dwallet_labs-logo.webp",
   "websiteUrl": "https://dwalletlabs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dwalletlabs",
+  "linkedinNum": 83063680,
   "crunchbaseId": "dwallet-labs",
+  "ivcId": "A1000000400432",
   "finderId": "dwallet-labs",
   "xId": "dWalletLabs",
+  "facebookId": "dwalletlabs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הר סיני",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.064412,
-      "lon": 34.771751
+      "street": "השחר",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.0643333,
+      "lon": 34.7688347
     }
   ],
   "isMultinational": false,
-  "facebookId": "dwalletlabs",
-  "linkedinNum": 83063680
+  "isActive": true
 }

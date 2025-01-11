@@ -6,11 +6,17 @@
   "logoFile": "logos/toluna_technologies-logo.webp",
   "websiteUrl": "https://www.toluna.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "toluna",
+  "linkedinNum": 839196,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "toluna",
   "xId": "toluna",
+  "facebookId": "Toluna",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -20,7 +26,6 @@
       "lon": 34.9593655
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Toluna",
-  "linkedinNum": 839196
+  "isMultinational": false,
+  "isActive": true
 }

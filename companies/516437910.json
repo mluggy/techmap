@@ -3,21 +3,29 @@
   "description": "We offer CEOs high-caliber decision-making support and tools to implement and achieve ambitious growth strategies.",
   "categoryId": 14,
   "size": "s",
-  "logoFile": "logos/the_journey_platform-logo.webp",
+  "logoFile": "logos/the-journey-platform-logo.webp",
   "websiteUrl": "https://thejourneyplatform.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "thejourneyplatform",
+  "linkedinNum": 72460110,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "the-journey-platform",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07734524999999,
       "lon": 34.79332549438699
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

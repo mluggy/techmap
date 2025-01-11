@@ -6,20 +6,26 @@
   "logoFile": "logos/amphy.webp",
   "websiteUrl": "https://www.amphy.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 50372972,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "amphy",
   "xId": "AmphyLive",
   "facebookId": "AmphyLive",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נמל תל אביב",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.09741457030004,
       "lon": 34.77378586934762
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

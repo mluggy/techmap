@@ -6,20 +6,26 @@
   "logoFile": "logos/rio_systems-logo.webp",
   "websiteUrl": "https://www.rio-system.com/",
   "careersUrl": "https://www.rio-system.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "rio-systems",
+  "linkedinNum": 10385778,
   "crunchbaseId": null,
+  "ivcId": "A1000000003420",
   "finderId": "rio-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קשאני אליעזר",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.125008,
-      "lon": 34.805084
+      "street": "הנחושת",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.1101422,
+      "lon": 34.8384126
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10385778
+  "isActive": true
 }

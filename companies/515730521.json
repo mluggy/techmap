@@ -6,20 +6,26 @@
   "logoFile": "logos/delawvery-logo.webp",
   "websiteUrl": "https://delawvery.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "delawvery",
+  "linkedinNum": 18966986,
   "crunchbaseId": null,
+  "ivcId": "A1000000459655",
   "finderId": "delawvery",
   "xId": null,
+  "facebookId": "delawvery",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העמית יצחק",
       "houseNumber": 5,
       "city": "ראשון לציון",
-      "lat": 31.9899844,
-      "lon": 34.7517177
+      "lat": 31.9902534,
+      "lon": 34.7501314
     }
   ],
   "isMultinational": false,
-  "facebookId": "delawvery"
+  "isActive": true
 }

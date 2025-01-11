@@ -6,21 +6,26 @@
   "logoFile": "logos/gavra_games-logo.webp",
   "websiteUrl": "https://gavra-games.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gavra-games",
+  "linkedinNum": 42167566,
   "crunchbaseId": "gavra-games",
+  "ivcId": "A1000000236294",
   "finderId": "gavra-games",
   "xId": "gavragames",
+  "facebookId": "WarriorsRiseToGlory",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיבים",
       "houseNumber": 30,
       "city": "פתח תקווה",
-      "lat": 32.0916612,
-      "lon": 34.8571892
+      "lat": 32.0870578,
+      "lon": 34.856464
     }
   ],
   "isMultinational": false,
-  "facebookId": "WarriorsRiseToGlory",
-  "linkedinNum": 42167566
+  "isActive": true
 }

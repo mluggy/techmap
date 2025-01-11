@@ -1,0 +1,31 @@
+{
+  "name": "Documedic",
+  "description": "DocuMedic is a smart digital platform that is based on big data and artificial intelligence technologies. It is adapted to mobile and connects quickly and conveniently between lawyers and doctors.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/documedic-logo.webp",
+  "websiteUrl": "https://www.documedic.co.il",
+  "careersUrl": null,
+  "linkedinId": "documedic",
+  "linkedinNum": 74495173,
+  "crunchbaseId": null,
+  "ivcId": "A1000000360156",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

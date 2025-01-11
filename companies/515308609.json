@@ -6,18 +6,26 @@
   "logoFile": "logos/culture_trip_israel-logo.webp",
   "websiteUrl": "https://theculturetrip.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "culture-trip",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלנבי",
       "houseNumber": 113,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062766,
       "lon": 34.773452
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

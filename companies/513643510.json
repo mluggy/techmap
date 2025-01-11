@@ -6,20 +6,26 @@
   "logoFile": "logos/travelist-logo.webp",
   "websiteUrl": "https://www.travelist.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000170533",
   "finderId": "travelist",
   "xId": null,
+  "facebookId": "travelistil",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הדובדבן",
-      "houseNumber": 9,
-      "city": "קריית אונו",
-      "lat": 32.0674869,
-      "lon": 34.8663103
+      "street": "אריאל שרון",
+      "houseNumber": 8,
+      "city": "גבעתיים",
+      "lat": 32.0799227,
+      "lon": 34.8008861
     }
   ],
   "isMultinational": false,
-  "facebookId": "travelistil"
+  "isActive": true
 }

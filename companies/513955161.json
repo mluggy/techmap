@@ -1,26 +1,31 @@
 {
   "name": "ComSignTrust",
-  "description": "Esigning Solutions",
+  "description": "Esigning Solutions.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/comsigntrust-logo.webp",
   "websiteUrl": "https://www.comsigntrust.com",
   "careersUrl": "https://www.comsign.co.il/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 2756887,
   "crunchbaseId": null,
+  "ivcId": "A1000000001112",
   "finderId": "comsigntrust",
   "xId": "comsigntrust",
+  "facebookId": "ComSignTrust-292253184195971",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דבורה הנביאה",
       "houseNumber": 126,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.113296,
       "lon": 34.842221
     }
   ],
   "isMultinational": false,
-  "facebookId": "ComSignTrust-292253184195971",
-  "linkedinNum": 2756887
+  "isActive": true
 }

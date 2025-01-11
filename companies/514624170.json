@@ -6,21 +6,26 @@
   "logoFile": "logos/apester-logo.webp",
   "websiteUrl": "https://apester.com/",
   "careersUrl": "https://apester.com/careers/",
-  "isHiring": true,
   "linkedinId": "apester",
+  "linkedinNum": 4854183,
   "crunchbaseId": "qmerce",
+  "ivcId": "A1000000001385",
   "finderId": "qmerce-apester",
   "xId": "ApesterMag",
+  "facebookId": "apestermag",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האחים מסלאויטה",
-      "houseNumber": 11,
-      "city": "תל אביב - יפו",
-      "lat": 32.067716,
-      "lon": 34.791033
+      "street": "שונצינו",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0658562,
+      "lon": 34.7871607
     }
   ],
   "isMultinational": false,
-  "facebookId": "apestermag",
-  "linkedinNum": 4854183
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/credibilio.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "shopinocommerce",
   "linkedinNum": 10519137,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "credibilio",
   "xId": "CinchWallet",
   "facebookId": "cinchwallet",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארלוזורוב",
       "houseNumber": 69,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0858266494981,
       "lon": 34.78040981212165
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

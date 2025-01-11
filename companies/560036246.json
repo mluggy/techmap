@@ -6,11 +6,17 @@
   "logoFile": "logos/coti-logo.webp",
   "websiteUrl": "https://www.coti.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "coti-ltd",
+  "linkedinNum": 25171228,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "coti",
   "xId": "COTInetwork",
+  "facebookId": "COTInetwork",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הירקון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "COTInetwork",
-  "linkedinNum": 25171228
+  "isActive": true
 }

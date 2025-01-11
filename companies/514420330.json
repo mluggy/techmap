@@ -1,25 +1,31 @@
 {
   "name": "iPlan",
-  "description": "Event Management Platform",
+  "description": "Event Management Platform.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/iplan-logo.webp",
   "websiteUrl": "https://iplan.co.il/en-US",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "iplan-events",
+  "linkedinNum": 83068016,
   "crunchbaseId": null,
+  "ivcId": "A1000000189807",
   "finderId": "iplan",
   "xId": null,
+  "facebookId": "iplan.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריאל שרון",
-      "houseNumber": 4,
-      "city": "גבעתיים",
-      "lat": 32.08005635,
-      "lon": 34.799938614641945
+      "street": "היצירה",
+      "houseNumber": 29,
+      "city": "רמת גן",
+      "lat": 32.0876866,
+      "lon": 34.8019606
     }
   ],
   "isMultinational": false,
-  "facebookId": "iplan.co.il"
+  "isActive": true
 }

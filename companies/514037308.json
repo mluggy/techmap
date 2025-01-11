@@ -6,21 +6,26 @@
   "logoFile": "logos/intango-logo.webp",
   "websiteUrl": "https://www.intango.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "intango",
+  "linkedinNum": 10482132,
   "crunchbaseId": null,
+  "ivcId": "A1000000020338",
   "finderId": "intango",
   "xId": "intangomedia",
+  "facebookId": "intangoMedia",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 38,
-      "city": "תל אביב - יפו",
-      "lat": 32.1103886,
-      "lon": 34.84245
+      "city": "תל אביב-יפו",
+      "lat": 32.1105307,
+      "lon": 34.8424899
     }
   ],
   "isMultinational": false,
-  "facebookId": "intangoMedia",
-  "linkedinNum": 10482132
+  "isActive": true
 }

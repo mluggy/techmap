@@ -1,0 +1,31 @@
+{
+  "name": "Noize",
+  "description": "Noize developed a system that is able to identify the source of the beeping and make sure that these drivers will be fined for it.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/noize-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000481022",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגת",
+      "houseNumber": 21,
+      "city": "עפולה",
+      "lat": 32.6121494,
+      "lon": 35.2806113
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

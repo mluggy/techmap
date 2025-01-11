@@ -6,20 +6,26 @@
   "logoFile": "logos/3_nt_medical-logo.webp",
   "websiteUrl": "https://3ntmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "3ntmedical",
+  "linkedinNum": 18209947,
   "crunchbaseId": null,
+  "ivcId": "A1000000220182",
   "finderId": "3nt-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 22,
       "city": "ראש העין",
-      "lat": 32.108278,
-      "lon": 34.9652441
+      "lat": 32.1068957,
+      "lon": 34.9712257
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18209947
+  "isActive": true
 }

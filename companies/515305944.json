@@ -1,0 +1,31 @@
+{
+  "name": "Skyer",
+  "description": "Skyer provides R&D services in a field of Mechanical, Electronics and Software Engineering with an emphasis on E-Mobility products.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/skyer-logo.webp",
+  "websiteUrl": "https://www.skyermotors.com",
+  "careersUrl": null,
+  "linkedinId": "skyer-motors-technologies",
+  "linkedinNum": 17924801,
+  "crunchbaseId": null,
+  "ivcId": "A1000000293639",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התקשורת",
+      "houseNumber": 6,
+      "city": "מגדל העמק",
+      "lat": 32.6894322,
+      "lon": 35.2472704
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

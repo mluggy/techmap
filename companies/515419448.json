@@ -6,21 +6,26 @@
   "logoFile": "logos/feezback_technologies-logo.webp",
   "websiteUrl": "https://feezback.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "feezback",
+  "linkedinNum": 10664139,
   "crunchbaseId": "feezback",
+  "ivcId": "A1000000214602",
   "finderId": "feezback-technologies",
   "xId": null,
+  "facebookId": "feezbackcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
-      "houseNumber": 54,
-      "city": "תל אביב - יפו",
-      "lat": 32.064594,
-      "lon": 34.774322
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0634365,
+      "lon": 34.7685749
     }
   ],
   "isMultinational": false,
-  "facebookId": "feezbackcom",
-  "linkedinNum": 10664139
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/soulmedx-logo.webp",
   "websiteUrl": "https://www.soulmedx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "soulmedx",
+  "linkedinNum": 40670001,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "soulmedx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רקפת",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 40670001
+  "isActive": true
 }

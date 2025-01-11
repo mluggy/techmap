@@ -6,21 +6,26 @@
   "logoFile": "logos/fitness_22-logo.webp",
   "websiteUrl": "https://fitness22.com/",
   "careersUrl": "https://fitness22.com/join-us/",
-  "isHiring": false,
   "linkedinId": "fitness22",
+  "linkedinNum": 2672669,
   "crunchbaseId": "clear-sky-apps",
+  "ivcId": "A1000000023602",
   "finderId": "fitness22",
   "xId": "fitness22apps",
+  "facebookId": "fitness22.apps",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יצחק רבין",
-      "houseNumber": 1,
+      "street": "מגשימים",
+      "houseNumber": 20,
       "city": "פתח תקווה",
-      "lat": 32.09045669913413,
-      "lon": 34.861816528862335
+      "lat": 32.0874693,
+      "lon": 34.8529316
     }
   ],
   "isMultinational": false,
-  "facebookId": "fitness22.apps",
-  "linkedinNum": 2672669
+  "isActive": true
 }

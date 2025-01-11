@@ -6,21 +6,26 @@
   "logoFile": "logos/griiip_automotive_engineering-logo.webp",
   "websiteUrl": "https://www.griiip.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "griiip",
+  "linkedinNum": 18209150,
   "crunchbaseId": null,
+  "ivcId": "A1000000203875",
   "finderId": "griiip",
   "xId": "griiip_racing",
+  "facebookId": "GriiipG1Series",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפסגות",
+      "street": "גזית",
       "houseNumber": 9,
       "city": "פתח תקווה",
-      "lat": 32.097946,
-      "lon": 34.8551804
+      "lat": 32.1050086,
+      "lon": 34.8982008
     }
   ],
   "isMultinational": false,
-  "facebookId": "GriiipG1Series",
-  "linkedinNum": 18209150
+  "isActive": true
 }

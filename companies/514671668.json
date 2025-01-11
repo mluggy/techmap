@@ -6,21 +6,26 @@
   "logoFile": "logos/jabil_israel-logo.webp",
   "websiteUrl": "https://www.jabil.com/",
   "careersUrl": "https://careers.jabil.com/en/",
-  "isHiring": true,
   "linkedinId": "jabil",
+  "linkedinNum": 4852,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "jabil",
   "xId": "Jabil",
+  "facebookId": "Jabil",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Jabil",
-  "linkedinNum": 4852
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/synvertec-logo.webp",
   "websiteUrl": "https://www.synvertec.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "synvertec-ltd.",
+  "linkedinNum": 10990853,
   "crunchbaseId": "synvertec-ltd",
+  "ivcId": "A1000000177793",
   "finderId": "synvertec-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
-      "houseNumber": 1,
-      "city": "ראש העין",
-      "lat": 32.09668,
-      "lon": 34.9066455
+      "street": "גלגלי הפלדה",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.1631237,
+      "lon": 34.8085987
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10990853
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/phinergy-logo.webp",
   "websiteUrl": "https://phinergy.com/",
   "careersUrl": "https://phinergy.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "phinergy-clean-energy",
+  "linkedinNum": 70894702,
   "crunchbaseId": null,
+  "ivcId": "A1000000021443",
   "finderId": "phinergy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יודפת",
       "houseNumber": 2,
       "city": "לוד",
-      "lat": 31.9614502,
-      "lon": 34.8993993
+      "lat": 31.9612208,
+      "lon": 34.9002501
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70894702
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Hyperactive",
+  "description": "Hyperactive is a offering a set of courses in high-tech, with the goal of implementing customers into the workplace.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/hyperactive-logo.webp",
+  "websiteUrl": "https://www.hyperactive.co.il",
+  "careersUrl": null,
+  "linkedinId": "hyperactive-hitech",
+  "linkedinNum": 71735811,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009548",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תל חי",
+      "houseNumber": 19,
+      "city": "רעננה",
+      "lat": 32.1845038,
+      "lon": 34.8735114
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

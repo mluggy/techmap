@@ -6,20 +6,26 @@
   "logoFile": "logos/insurights-logo.webp",
   "websiteUrl": "https://healthee.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "insurights",
+  "ivcId": null,
   "finderId": "insurights",
   "xId": "gethealthee",
+  "facebookId": "gethealthee",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
   "isMultinational": false,
-  "facebookId": "gethealthee"
+  "isActive": true
 }

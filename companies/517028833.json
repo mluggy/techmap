@@ -1,0 +1,31 @@
+{
+  "name": "Eve Medics",
+  "description": "In stealth mode.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/eve_medics-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000492658",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנוף",
+      "houseNumber": 14,
+      "city": "סביון",
+      "lat": 32.0478445,
+      "lon": 34.8842559
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

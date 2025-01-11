@@ -1,25 +1,31 @@
 {
   "name": "New Phase",
-  "description": "Therapeutic Hyperthermia Technology",
+  "description": "Therapeutic Hyperthermia Technology.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/new_phase-logo.webp",
   "websiteUrl": "https://newphase.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "new-phase-ltd-co",
+  "linkedinNum": 70902387,
   "crunchbaseId": null,
+  "ivcId": "A1000000242008",
   "finderId": "new-phase",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אודם",
       "houseNumber": 5,
       "city": "פתח תקווה",
-      "lat": 32.0896507,
-      "lon": 34.8577193
+      "lat": 32.090106,
+      "lon": 34.8578941
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70902387
+  "isActive": true
 }

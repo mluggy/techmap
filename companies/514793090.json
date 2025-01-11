@@ -1,16 +1,22 @@
 {
   "name": "Sensoil Innovations",
-  "description": "Delivering continuous, accessible monitoring and analysis of soil and groundwater.",
+  "description": "SenSoil IS developing and implementing smart soil sensing technologies and solutions for the protection of groundwater and the environment.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/sensoil_innovations-logo.webp",
-  "websiteUrl": "https://sensoil.com/",
+  "websiteUrl": "http://sensoils.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sensoil",
+  "linkedinNum": 19143235,
   "crunchbaseId": null,
+  "ivcId": "A1000000022192",
   "finderId": "sensoil-innovations",
   "xId": "Sensoil1",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 19143235
+  "isActive": true
 }

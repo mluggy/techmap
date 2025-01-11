@@ -1,25 +1,31 @@
 {
   "name": "Novu",
-  "description": "Open-source Notification Infrastructure for Products",
+  "description": "Open-source Notification Infrastructure for Products.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/notifire.webp",
   "websiteUrl": "https://novu.co/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "notifireco",
   "linkedinNum": 77015871,
   "crunchbaseId": null,
+  "ivcId": "A1000000381096",
   "finderId": "notifire",
   "xId": "novuhq",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלטור",
-      "houseNumber": 813,
-      "city": "רהט",
-      "lat": 31.39252398099039,
-      "lon": 34.75535790023588
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

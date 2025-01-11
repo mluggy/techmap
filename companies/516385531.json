@@ -6,20 +6,26 @@
   "logoFile": "logos/dym_sense-logo.webp",
   "websiteUrl": "https://www.dymsense.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dymsense",
+  "linkedinNum": 66752040,
   "crunchbaseId": "dym-sense",
+  "ivcId": "A1000000369031",
   "finderId": "dym-sense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "איתן",
-      "houseNumber": 1,
-      "city": "ראשון לציון",
-      "lat": 31.99353945,
-      "lon": 34.76535052179885
+      "street": "שלום עליכם",
+      "houseNumber": 60,
+      "city": "תל אביב-יפו",
+      "lat": 32.079008,
+      "lon": 34.7712665
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 66752040
+  "isActive": true
 }

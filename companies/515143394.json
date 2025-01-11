@@ -6,21 +6,26 @@
   "logoFile": "logos/tanku-logo.webp",
   "websiteUrl": "https://www.tanku.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tanku",
+  "linkedinNum": 7972076,
   "crunchbaseId": null,
+  "ivcId": "A1000000190113",
   "finderId": "tanku",
   "xId": null,
+  "facebookId": "TankU-162867727859714",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בית לחם",
-      "houseNumber": 97,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.8175519,
-      "lon": 34.975139
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
   "isMultinational": false,
-  "facebookId": "TankU-162867727859714",
-  "linkedinNum": 7972076
+  "isActive": true
 }

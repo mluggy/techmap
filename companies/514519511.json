@@ -6,11 +6,17 @@
   "logoFile": "logos/gege_it-logo.webp",
   "websiteUrl": "https://www.gegeit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5367987,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gegeit-ltd",
   "xId": null,
+  "facebookId": "gegeit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדולב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "gegeit",
-  "linkedinNum": 5367987
+  "isActive": true
 }

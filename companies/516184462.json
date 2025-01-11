@@ -6,11 +6,17 @@
   "logoFile": "logos/nostack-logo.webp",
   "websiteUrl": "https://www.nostack.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 19169481,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nostack",
   "xId": "NoStackApp",
+  "facebookId": "NoStackApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חיי יצחק",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "NoStackApp",
-  "linkedinNum": 19169481
+  "isActive": true
 }

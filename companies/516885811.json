@@ -1,0 +1,31 @@
+{
+  "name": "Phat Foodtech",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/phat_foodtech-logo.webp",
+  "websiteUrl": "https://phatfoodtech.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000466776",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האלוף יעקב פרי",
+      "houseNumber": 1,
+      "city": "רחובות",
+      "lat": 31.897905,
+      "lon": 34.789494
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

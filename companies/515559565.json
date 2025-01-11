@@ -1,0 +1,31 @@
+{
+  "name": "Aigis Labs",
+  "description": "Aigis Labs is dedicated to advanced wound management and skin care.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/aigis-labs-logo.webp",
+  "websiteUrl": "http://aigis-labs.com",
+  "careersUrl": null,
+  "linkedinId": "aigislabs",
+  "linkedinNum": 18079278,
+  "crunchbaseId": null,
+  "ivcId": "A1000000306035",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אבן גבירול",
+      "houseNumber": 30,
+      "city": "בני ברק",
+      "lat": 32.0907333,
+      "lon": 34.8300528
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

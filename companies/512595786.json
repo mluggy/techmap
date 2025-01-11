@@ -6,11 +6,17 @@
   "logoFile": "logos/redmatch_international-logo.webp",
   "websiteUrl": "https://www.redmatch.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "redmatch",
+  "linkedinNum": 77135,
   "crunchbaseId": null,
+  "ivcId": "A1000000005635",
   "finderId": "redmatch",
   "xId": "REDMATCH_",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 77135
+  "isActive": true
 }

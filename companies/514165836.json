@@ -6,21 +6,26 @@
   "logoFile": "logos/all_my_faves-logo.webp",
   "websiteUrl": "https://allmyfaves.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "all-my-faves",
+  "linkedinNum": 601124,
   "crunchbaseId": null,
+  "ivcId": "A1000000001809",
   "finderId": "all-my-faves",
   "xId": "allmyfaves",
+  "facebookId": "allmyfaves",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מבצע דקל",
-      "houseNumber": 6,
-      "city": "פתח תקווה",
-      "lat": 32.0944503,
-      "lon": 34.8699935
+      "street": "דקל",
+      "houseNumber": null,
+      "city": "כפר סבא",
+      "lat": 32.1738183,
+      "lon": 34.9181358
     }
   ],
   "isMultinational": false,
-  "facebookId": "allmyfaves",
-  "linkedinNum": 601124
+  "isActive": true
 }

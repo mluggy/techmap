@@ -6,20 +6,26 @@
   "logoFile": "logos/adicet_bio_israel-logo.webp",
   "websiteUrl": "https://www.adicetbio.com/",
   "careersUrl": "https://www.adicetbio.com/careers/overview/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "adicet-bio-inc",
+  "linkedinNum": 10701436,
   "crunchbaseId": null,
+  "ivcId": "A1000000201451",
   "finderId": "adicet-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ווטסון ליונל",
-      "houseNumber": 16,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.7770652,
-      "lon": 34.9936935
+      "lat": 32.7767783,
+      "lon": 35.0231271
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 10701436
+  "isMultinational": false,
+  "isActive": true
 }

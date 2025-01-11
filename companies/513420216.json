@@ -6,13 +6,26 @@
   "logoFile": "logos/thermo_siv-logo.webp",
   "websiteUrl": "https://www.thermosiv.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "thermosiv",
+  "linkedinNum": 70878054,
   "crunchbaseId": null,
+  "ivcId": "A1000000006691",
   "finderId": "thermosiv",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "thermosivil",
-  "linkedinNum": 70878054
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 11,
+      "city": "ראש העין",
+      "lat": 32.1067859,
+      "lon": 34.9705838
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

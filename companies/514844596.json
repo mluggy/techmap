@@ -6,18 +6,26 @@
   "logoFile": "logos/moonscape_ventures-logo.webp",
   "websiteUrl": "https://www.moonscapegame.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "moonscape1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקוביץ",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.078703,
       "lon": 34.7870616
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

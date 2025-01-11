@@ -6,13 +6,17 @@
   "logoFile": "logos/mellie.webp",
   "websiteUrl": "https://www.mellie.com/",
   "careersUrl": "https://www.mellie.com/careers",
-  "isHiring": true,
   "linkedinId": "mellieinc",
   "linkedinNum": 82298588,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mellie",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יסמין",
@@ -22,5 +26,6 @@
       "lon": 34.89544181837595
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

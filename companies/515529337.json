@@ -6,21 +6,26 @@
   "logoFile": "logos/cupixel_ltd-logo.webp",
   "websiteUrl": "https://cupixel.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11046475,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cupixel",
   "xId": null,
+  "facebookId": "cupixel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הירקון",
       "houseNumber": 73,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.076685,
       "lon": 34.766868
     }
   ],
   "isMultinational": false,
-  "facebookId": "cupixel",
-  "linkedinNum": 11046475
+  "isActive": true
 }

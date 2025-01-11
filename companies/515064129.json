@@ -1,0 +1,31 @@
+{
+  "name": "Shoesonline",
+  "description": "Shoesonline Internet shopping scene established by Cipko Online for one simple reason: to allow the purchase of a variety of shoes by brands.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/shoesonline-logo.webp",
+  "websiteUrl": "https://shoesonline.co.il",
+  "careersUrl": null,
+  "linkedinId": "shoesonline.co.il",
+  "linkedinNum": 10127252,
+  "crunchbaseId": null,
+  "ivcId": "A1000000284366",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עליית הנוער",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0776426,
+      "lon": 34.8017929
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

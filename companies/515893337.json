@@ -1,0 +1,31 @@
+{
+  "name": "Bittax",
+  "description": "Bittax is a cutting edge platform for cryptocurrency taxation calculation.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/bittax-logo.webp",
+  "websiteUrl": "https://www.bit-tax.com",
+  "careersUrl": null,
+  "linkedinId": "bit-tax",
+  "linkedinNum": 89723414,
+  "crunchbaseId": null,
+  "ivcId": "A1000000373782",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בית שמאי",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0694977,
+      "lon": 34.7890305
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

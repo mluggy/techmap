@@ -6,11 +6,17 @@
   "logoFile": "logos/servision-logo.webp",
   "websiteUrl": "https://servision.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "servision-inc",
+  "linkedinNum": 4744334,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "servision",
   "xId": "SerVisionLtd",
+  "facebookId": "servision",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איתן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "servision",
-  "linkedinNum": 4744334
+  "isActive": true
 }

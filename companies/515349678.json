@@ -6,21 +6,26 @@
   "logoFile": "logos/supermeat_the_essence_of_meat-logo.webp",
   "websiteUrl": "https://supermeat.com/",
   "careersUrl": "https://supermeat.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 10841889,
   "crunchbaseId": null,
+  "ivcId": "A1000000218201",
   "finderId": "supermeat",
   "xId": "_SuperMeat_",
+  "facebookId": "SuperMeat.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יותם",
-      "houseNumber": 12,
-      "city": "הרצליה",
-      "lat": 32.1702353,
-      "lon": 34.8135369
+      "street": "דרך אבא הלל",
+      "houseNumber": 36,
+      "city": "רמת גן",
+      "lat": 32.0884911,
+      "lon": 34.8078904
     }
   ],
   "isMultinational": false,
-  "facebookId": "SuperMeat.co",
-  "linkedinNum": 10841889
+  "isActive": true
 }

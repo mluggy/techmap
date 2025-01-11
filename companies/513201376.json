@@ -6,21 +6,26 @@
   "logoFile": "logos/imperva-logo.webp",
   "websiteUrl": "https://www.imperva.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "imperva",
+  "linkedinNum": 14312,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "imperva",
   "xId": "imperva",
+  "facebookId": "imperva",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 125,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0730925,
       "lon": 34.7893649
     }
   ],
   "isMultinational": false,
-  "facebookId": "imperva",
-  "linkedinNum": 14312
+  "isActive": true
 }

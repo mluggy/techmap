@@ -6,21 +6,26 @@
   "logoFile": "logos/ibex_medical_analytics-logo.webp",
   "websiteUrl": "https://ibex-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ibexmedicalanalytics",
+  "linkedinNum": 18096753,
   "crunchbaseId": null,
+  "ivcId": "A1000000266218",
   "finderId": "ibex-medical-analytics",
   "xId": "IbexMedAx",
+  "facebookId": "IbexMedAx",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' רוקח",
+      "street": "שדרות רוקח",
       "houseNumber": 101,
-      "city": "תל אביב - יפו",
-      "lat": 32.1053566,
-      "lon": 34.811018495092924
+      "city": "תל אביב-יפו",
+      "lat": 32.1053012,
+      "lon": 34.8110208
     }
   ],
   "isMultinational": false,
-  "facebookId": "IbexMedAx",
-  "linkedinNum": 18096753
+  "isActive": true
 }

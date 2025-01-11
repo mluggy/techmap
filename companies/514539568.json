@@ -1,25 +1,31 @@
 {
   "name": "Meni-Med",
-  "description": "Disposable and Radiolucent Spinal Retractor for Minimally Invasive Surgical Procedures",
+  "description": "Disposable and Radiolucent Spinal Retractor for Minimally Invasive Surgical Procedures.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/meni_med-logo.webp",
   "websiteUrl": "https://www.microdel.co.il/portfolio/meni-med-ltd/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 70925245,
   "crunchbaseId": null,
+  "ivcId": "A1000000331465",
   "finderId": "meni-med",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דן",
       "houseNumber": 63,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.8893007,
-      "lon": 35.0030754
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8913457,
+      "lon": 35.0030628
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70925245
+  "isActive": true
 }

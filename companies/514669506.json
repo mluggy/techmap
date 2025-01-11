@@ -1,16 +1,22 @@
 {
   "name": "Beyon3D",
-  "description": "Robotics-based System for Concrete Segment Manufacturing",
+  "description": "Robotics-based System for Concrete Segment Manufacturing.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/beyon_3_d-logo.webp",
   "websiteUrl": "https://beyon3d.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "beyon3d",
+  "linkedinNum": 2675824,
   "crunchbaseId": null,
+  "ivcId": "A1000000221226",
   "finderId": "beyon3d",
   "xId": null,
+  "facebookId": "Beyon3D-252248834890663",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Beyon3D-252248834890663",
-  "linkedinNum": 2675824
+  "isActive": true
 }

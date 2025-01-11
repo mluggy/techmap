@@ -6,21 +6,26 @@
   "logoFile": "logos/mica-logo.webp",
   "websiteUrl": "https://micamedic.com/",
   "careersUrl": "https://micamedic.com/careers/",
-  "isHiring": true,
   "linkedinId": "mica-ai-medical",
+  "linkedinNum": 13012901,
   "crunchbaseId": "mica-544c",
+  "ivcId": "A1000000327194",
   "finderId": "mica-ai-medical",
   "xId": "mica-ai-medical",
+  "facebookId": "MICA-Medical-112207137020780",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגאל אלון",
-      "houseNumber": "65",
-      "city": "תל אביב - יפו",
-      "lat": 32.065933838229476,
-      "lon": 34.79226242276006
+      "houseNumber": 65,
+      "city": "תל אביב-יפו",
+      "lat": 32.0657718,
+      "lon": 34.7922834
     }
   ],
   "isMultinational": false,
-  "facebookId": "MICA-Medical-112207137020780",
-  "linkedinNum": 13012901
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/tageza_biopharmaceuticals-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "tageza-biopharmaceuticals",
+  "ivcId": null,
   "finderId": "tageza-biopharmaceuticals",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרויאנוב",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.076978,
       "lon": 34.771767
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

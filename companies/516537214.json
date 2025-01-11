@@ -6,21 +6,26 @@
   "logoFile": "logos/evermile-logo.webp",
   "websiteUrl": "https://www.evermile.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "evermile",
+  "linkedinNum": 82588305,
   "crunchbaseId": null,
+  "ivcId": "A1000000395942",
   "finderId": "evermile",
   "xId": null,
+  "facebookId": "evermile.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האחים מסלאויטה",
       "houseNumber": 11,
-      "city": "תל אביב - יפו",
-      "lat": 32.067716,
-      "lon": 34.791033
+      "city": "תל אביב-יפו",
+      "lat": 32.0676839,
+      "lon": 34.7910268
     }
   ],
   "isMultinational": false,
-  "facebookId": "evermile.io",
-  "linkedinNum": 82588305
+  "isActive": true
 }

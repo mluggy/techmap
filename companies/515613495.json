@@ -1,25 +1,31 @@
 {
   "name": "Eta-Bar",
-  "description": "Offline Power Supply for IoT Devices",
+  "description": "Offline Power Supply for IoT Devices.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/eta_bar-logo.webp",
   "websiteUrl": "https://www.eta-bar.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 17888009,
   "crunchbaseId": null,
+  "ivcId": "A1000000264260",
   "finderId": "eta-bar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארלוזורוב",
       "houseNumber": 49,
-      "city": "פתח תקווה",
-      "lat": 32.0845026,
-      "lon": 34.8731823
+      "city": "רעננה",
+      "lat": 32.1753899,
+      "lon": 34.8777589
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17888009
+  "isActive": true
 }

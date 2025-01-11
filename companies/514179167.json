@@ -1,24 +1,31 @@
 {
   "name": "AeroTactiX",
-  "description": "Compact Unmanned Aerial Vehicle Manufacturer",
+  "description": "Compact Unmanned Aerial Vehicle Manufacturer.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/aerotactix_israel-logo.webp",
   "websiteUrl": "https://www.aerotactix.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "aerotactix",
+  "ivcId": "A1000000206396",
   "finderId": "aerotactix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
       "houseNumber": 58,
       "city": "פתח תקווה",
-      "lat": 32.0953971,
-      "lon": 34.8531501
+      "lat": 32.0969135,
+      "lon": 34.8496333
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

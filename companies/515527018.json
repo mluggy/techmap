@@ -6,11 +6,17 @@
   "logoFile": "logos/lama_consulting-logo.webp",
   "websiteUrl": "https://www.masterlama.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 30707684,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lama",
   "xId": null,
+  "facebookId": "lama.learn.and.master",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקסטל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "lama.learn.and.master",
-  "linkedinNum": 30707684
+  "isActive": true
 }

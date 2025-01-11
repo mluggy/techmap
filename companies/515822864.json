@@ -6,21 +6,26 @@
   "logoFile": "logos/civdrone-logo.webp",
   "websiteUrl": "https://www.civrobotics.com/",
   "careersUrl": "https://www.civrobotics.com/careers",
-  "isHiring": true,
   "linkedinId": "civrobotics",
+  "linkedinNum": 18511221,
   "crunchbaseId": "civdrone",
+  "ivcId": "A1000000263813",
   "finderId": "civdrone",
   "xId": null,
+  "facebookId": "CivRobotics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנצי\"ב",
-      "houseNumber": 28,
-      "city": "תל אביב - יפו",
-      "lat": 32.070307,
-      "lon": 34.790395
+      "street": "שדרות נורדאו",
+      "houseNumber": 101,
+      "city": "תל אביב-יפו",
+      "lat": 32.0919271,
+      "lon": 34.7825805
     }
   ],
   "isMultinational": false,
-  "facebookId": "CivRobotics",
-  "linkedinNum": 18511221
+  "isActive": true
 }

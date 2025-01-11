@@ -6,21 +6,26 @@
   "logoFile": "logos/scisparc-logo.webp",
   "websiteUrl": "https://scisparc.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "scisparc",
+  "linkedinNum": 71540465,
   "crunchbaseId": null,
+  "ivcId": "A1000000005230",
   "finderId": "therapix-biosciences",
   "xId": "SciSparc",
+  "facebookId": "SciSparc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.1105162,
-      "lon": 34.8376966
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0800181,
+      "lon": 34.7998574
     }
   ],
   "isMultinational": false,
-  "facebookId": "SciSparc",
-  "linkedinNum": 71540465
+  "isActive": true
 }

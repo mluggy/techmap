@@ -1,26 +1,31 @@
 {
   "name": "Everafter AI",
-  "description": "The B2B Customer Interface Platform",
+  "description": "The B2B Customer Interface Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/everafter_ai-logo.webp",
   "websiteUrl": "https://www.everafter.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "everafter-ai",
+  "linkedinNum": 34968197,
   "crunchbaseId": null,
+  "ivcId": "A1000000307349",
   "finderId": "everafter-ai",
   "xId": null,
+  "facebookId": "everafterai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יהודה הלוי",
-      "houseNumber": 6,
-      "city": "קריית אונו",
-      "lat": 32.0619496,
-      "lon": 34.8647779
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "everafterai",
-  "linkedinNum": 34968197
+  "isActive": true
 }

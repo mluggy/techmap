@@ -1,25 +1,31 @@
 {
   "name": "MetalBear",
-  "description": "Development Tools for Backend Engineers",
+  "description": "Development Tools for Backend Engineers.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/metalbear.webp",
   "websiteUrl": "https://metalbear.co/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 81275662,
   "crunchbaseId": null,
+  "ivcId": "A1000000397226",
   "finderId": "metalbear",
   "xId": "metalbearco",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארלוזורוב",
       "houseNumber": 160,
-      "city": "תל אביב - יפו",
-      "lat": 32.0838334793007,
-      "lon": 34.78791525678735
+      "city": "תל אביב-יפו",
+      "lat": 32.0837064,
+      "lon": 34.7878537
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

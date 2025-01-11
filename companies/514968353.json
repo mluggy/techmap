@@ -1,26 +1,31 @@
 {
   "name": "12trix",
-  "description": "אפליקציה שמחזירה תלמידים מתקשים במסלול המתמטיקה לתהליך למידה עם הבנה והצלחה.",
-  "categoryId": 12,
+  "description": "12triX is a holistic gaming platform that imparts the language of math to children ages Pre-K – 2nd grade.",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/12_trix-logo.webp",
-  "websiteUrl": "https://12trix.co.il/",
+  "websiteUrl": "http://www.12trix.com/home",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "12trix",
+  "linkedinNum": 5184282,
   "crunchbaseId": null,
+  "ivcId": "A1000000024084",
   "finderId": "12trix",
   "xId": "12trix_com",
+  "facebookId": "12trix-%D7%97%D7%A9%D7%91%D7%95%D7%9F-%D7%91%D7%A7%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%AA-111703807179431",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השרביט",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.041808,
-      "lon": 34.777102
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0416824,
+      "lon": 34.7769188
     }
   ],
   "isMultinational": false,
-  "facebookId": "12trix-%D7%97%D7%A9%D7%91%D7%95%D7%9F-%D7%91%D7%A7%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%AA-111703807179431",
-  "linkedinNum": 5184282
+  "isActive": true
 }

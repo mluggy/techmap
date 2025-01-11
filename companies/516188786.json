@@ -6,20 +6,26 @@
   "logoFile": "logos/rootie_robot-logo.webp",
   "websiteUrl": "https://rootiebot.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rootiebot",
+  "linkedinNum": 42957633,
   "crunchbaseId": null,
+  "ivcId": "A1000000321341",
   "finderId": "rootie",
   "xId": "rootiebot",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמרי",
+      "street": "עומרי",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.1145886,
-      "lon": 34.8153179
+      "city": "תל אביב-יפו",
+      "lat": 32.11643360000001,
+      "lon": 34.8160549
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42957633
+  "isActive": true
 }

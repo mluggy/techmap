@@ -6,20 +6,26 @@
   "logoFile": "logos/aummune-logo.webp",
   "websiteUrl": "https://aummune.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aummune",
+  "linkedinNum": 79060359,
   "crunchbaseId": null,
+  "ivcId": "A1000000248885",
   "finderId": "aummune",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויצמן",
+      "street": "ויצמן‬",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.080088,
-      "lon": 34.78891
+      "city": "תל אביב-יפו",
+      "lat": 32.0801258,
+      "lon": 34.7898816
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79060359
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/cashcow-logo.webp",
   "websiteUrl": "https://www.cashcow.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2599396,
   "crunchbaseId": null,
+  "ivcId": "A1000000021852",
   "finderId": "cashcow",
   "xId": "CashCow_LTD",
+  "facebookId": "cashcowpage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "טביב",
-      "houseNumber": 13,
+      "street": null,
+      "houseNumber": null,
       "city": "ראשון לציון",
-      "lat": 31.959144,
-      "lon": 34.8128715
+      "lat": 31.95908129999999,
+      "lon": 34.8020886
     }
   ],
   "isMultinational": false,
-  "facebookId": "cashcowpage",
-  "linkedinNum": 2599396
+  "isActive": true
 }

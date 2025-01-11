@@ -1,26 +1,31 @@
 {
   "name": "Gigantic",
-  "description": "Mobile Arcade Games",
+  "description": "Mobile Arcade Games.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/gigantic-logo.webp",
   "websiteUrl": "https://clawee.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gigantic-ltd",
+  "linkedinNum": 18355183,
   "crunchbaseId": null,
+  "ivcId": "A1000000333818",
   "finderId": "gigantic",
   "xId": null,
+  "facebookId": "ClaweeIsAwesome",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיבים",
       "houseNumber": 18,
       "city": "פתח תקווה",
-      "lat": 32.0916612,
-      "lon": 34.8571892
+      "lat": 32.0884756,
+      "lon": 34.8565391
     }
   ],
   "isMultinational": false,
-  "facebookId": "ClaweeIsAwesome",
-  "linkedinNum": 18355183
+  "isActive": true
 }

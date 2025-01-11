@@ -6,20 +6,26 @@
   "logoFile": "logos/supertenant-logo.webp",
   "websiteUrl": "https://www.supertenant.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "supertenant",
+  "linkedinNum": 75000840,
   "crunchbaseId": "supertenant",
+  "ivcId": "A1000000380311",
   "finderId": "supertenant",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
-      "lat": 32.07734524999999,
-      "lon": 34.79332549438699
+      "city": "תל אביב-יפו",
+      "lat": 32.077331,
+      "lon": 34.7932911
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75000840
+  "isActive": true
 }

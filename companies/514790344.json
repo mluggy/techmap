@@ -6,12 +6,26 @@
   "logoFile": "logos/polysack_flexible_packaging-logo.webp",
   "websiteUrl": "https://www.polysack.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2215986,
   "crunchbaseId": null,
+  "ivcId": "A1000000001400",
   "finderId": "polysack",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "ניר יצחק",
+      "lat": 31.23604,
+      "lon": 34.356702
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 2215986
+  "isActive": true
 }

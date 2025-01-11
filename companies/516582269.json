@@ -1,25 +1,31 @@
 {
   "name": "Insait IO",
-  "description": "Predictive Analytics in the Financial Sector",
+  "description": "Predictive Analytics in the Financial Sector.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/insait_io-logo.webp",
   "websiteUrl": "https://www.insait.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "insait-io",
+  "linkedinNum": 86644657,
   "crunchbaseId": null,
+  "ivcId": "A1000000386550",
   "finderId": "insait-io",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
-      "houseNumber": 51,
-      "city": "תל אביב - יפו",
-      "lat": 32.064372,
-      "lon": 34.793156
+      "street": "יהודה הלוי",
+      "houseNumber": 36,
+      "city": "תל אביב-יפו",
+      "lat": 32.0615979,
+      "lon": 34.7714771
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86644657
+  "isActive": true
 }

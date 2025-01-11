@@ -1,16 +1,22 @@
 {
   "name": "Perciv",
-  "description": "Specializing in men's fashion, we innovate timeless styles with distinct textures and patterns.",
-  "categoryId": 9,
+  "description": "PerCiv is developing a predictive maintenance platform for machinery and structures that combines unique fiber optic sensing technology and advanced analytics.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/perciv_advanced_sensing-logo.webp",
-  "websiteUrl": "https://www.percivalclo.com/",
+  "websiteUrl": "https://www.perciv.tech",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "perciv",
+  "linkedinNum": 71272407,
   "crunchbaseId": null,
+  "ivcId": "A1000000347437",
   "finderId": "perciv",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקת",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71272407
+  "isActive": true
 }

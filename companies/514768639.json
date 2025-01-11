@@ -6,21 +6,26 @@
   "logoFile": "logos/24_me-logo.webp",
   "websiteUrl": "https://www.twentyfour.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "24me",
+  "linkedinNum": 2563670,
   "crunchbaseId": null,
+  "ivcId": "A1000000020449",
   "finderId": "24me",
   "xId": "my24me",
+  "facebookId": "my24me",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
-      "houseNumber": 31,
+      "houseNumber": 8,
       "city": "גני תקווה",
-      "lat": 32.0592087,
-      "lon": 34.8819389
+      "lat": 32.0611652,
+      "lon": 34.8818641
     }
   ],
   "isMultinational": false,
-  "facebookId": "my24me",
-  "linkedinNum": 2563670
+  "isActive": true
 }

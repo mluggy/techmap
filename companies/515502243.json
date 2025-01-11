@@ -6,21 +6,26 @@
   "logoFile": "logos/truconnect_wifi-logo.webp",
   "websiteUrl": "https://www.truconnect.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3158134,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "truconnect",
   "xId": "TruConnect",
+  "facebookId": "TruConnect",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.05865,
       "lon": 34.784414
     }
   ],
-  "isMultinational": true,
-  "facebookId": "TruConnect",
-  "linkedinNum": 3158134
+  "isMultinational": false,
+  "isActive": true
 }

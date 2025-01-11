@@ -1,0 +1,31 @@
+{
+  "name": "PlaceSense",
+  "description": "PlaceSense, a leader in location-based information and foot traffic analytics, uses anonymized, GDPR-compliant information from millions of data points to measure and analyze visits to specific locations.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/placesense-logo.webp",
+  "websiteUrl": "https://placesense.ai",
+  "careersUrl": "https://placesense.ai/career/",
+  "linkedinId": "placense",
+  "linkedinNum": 18261717,
+  "crunchbaseId": null,
+  "ivcId": "A1000000273069",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

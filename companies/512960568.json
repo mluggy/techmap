@@ -1,26 +1,31 @@
 {
   "name": "Infoneto",
-  "description": "Semantic Search and Hebrew Text Analysis",
+  "description": "Semantic Search and Hebrew Text Analysis.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/infoneto-logo.webp",
   "websiteUrl": "https://cv-next.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "infoneto-ltd-",
+  "linkedinNum": 209938,
   "crunchbaseId": null,
+  "ivcId": "A1000000023397",
   "finderId": "infoneto",
   "xId": null,
+  "facebookId": "infonetoltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דפנה",
-      "houseNumber": 16,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9062169,
-      "lon": 35.0089493
+      "street": "1",
+      "houseNumber": null,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8788869,
+      "lon": 34.9526407
     }
   ],
   "isMultinational": false,
-  "facebookId": "infonetoltd",
-  "linkedinNum": 209938
+  "isActive": true
 }

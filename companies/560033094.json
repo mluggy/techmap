@@ -6,21 +6,26 @@
   "logoFile": "logos/nec.webp",
   "websiteUrl": "https://www.nec.com/en/global/rd/labs/israel/index.html",
   "careersUrl": "https://careers.nec.com/",
-  "isHiring": true,
   "linkedinId": "nec",
   "linkedinNum": 1696,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nec",
   "xId": "NEC",
   "facebookId": "nec.global",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריב\"ל",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06302171157551,
       "lon": 34.78226029167387
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

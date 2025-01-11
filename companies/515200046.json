@@ -1,0 +1,31 @@
+{
+  "name": "Q-Defender",
+  "description": "Q-Defender provides TRNG based encryption for data centers and organizations through immune communication, using quantum key distribution methods.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/q_defender-logo.webp",
+  "websiteUrl": "https://qdefender.tech",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000313127",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המלך ג'ורג'",
+      "houseNumber": 80,
+      "city": "תל אביב-יפו",
+      "lat": 32.0768777,
+      "lon": 34.7776527
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

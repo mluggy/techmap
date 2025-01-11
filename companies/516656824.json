@@ -1,0 +1,31 @@
+{
+  "name": "Anymalive",
+  "description": "Anymalive is developing a device for drawing blood and testing blood in dogs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/anymalive-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000494891",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נוף תבור",
+      "houseNumber": null,
+      "city": "כפר קיש",
+      "lat": 32.6678114,
+      "lon": 35.4463477
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -3,14 +3,20 @@
   "description": "Novel Molecular Treatment for Dry Age-related Macular Degeneration",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/ophtimed_rx-logo.webp",
+  "logoFile": "logos/ophtimed-rx-logo.webp",
   "websiteUrl": "https://www.galilofek.com/ophtimedrx/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "optimed-specialty-pharmacy",
+  "linkedinNum": 10782459,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ophtimed-rx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בארי",
@@ -20,5 +26,6 @@
       "lon": 34.805159
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

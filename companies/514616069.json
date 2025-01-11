@@ -6,21 +6,26 @@
   "logoFile": "logos/rodradar-logo.webp",
   "websiteUrl": "https://rodradar.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rodradar",
+  "linkedinNum": 18268161,
   "crunchbaseId": null,
+  "ivcId": "A1000000179350",
   "finderId": "rod-radar",
   "xId": "RodRadar",
+  "facebookId": "rodradaraus",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרימון",
       "houseNumber": 59,
-      "city": "רינתיה",
-      "lat": 32.044338932493076,
-      "lon": 34.93225791803845
+      "city": "טירת יהודה",
+      "lat": 32.014267,
+      "lon": 34.938536
     }
   ],
   "isMultinational": false,
-  "facebookId": "rodradaraus",
-  "linkedinNum": 18268161
+  "isActive": true
 }

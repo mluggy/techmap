@@ -1,17 +1,22 @@
 {
   "name": "CYE",
-  "description": "Cyber-security Optimization Solutions",
+  "description": "Cyber-security Optimization Solutions.",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/hyver-security.webp",
   "websiteUrl": "https://cyesec.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "cyesec",
   "linkedinNum": 9474170,
   "crunchbaseId": null,
+  "ivcId": "A1000000247004",
   "finderId": "hyver-security",
   "xId": "CyesecLtd",
   "facebookId": "cyesec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": "CYE",
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -22,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinId": "cyesec",
-  "leverId": "CYE"
+  "isActive": true
 }

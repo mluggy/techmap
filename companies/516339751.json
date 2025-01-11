@@ -1,24 +1,31 @@
 {
   "name": "VOCAI",
-  "description": "AI-Enhanced Battery Health and Safety Management Technology",
+  "description": "AI-Enhanced Battery Health and Safety Management Technology.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/vocai-logo.webp",
   "websiteUrl": "https://vocai.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vocaitech",
+  "linkedinNum": 101947526,
   "crunchbaseId": null,
+  "ivcId": "A1000000428592",
   "finderId": "vocai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החומש",
+      "street": "החרש",
       "houseNumber": 6,
       "city": "הוד השרון",
-      "lat": 32.1612746,
-      "lon": 34.9065958
+      "lat": 32.1326061,
+      "lon": 34.8986129
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

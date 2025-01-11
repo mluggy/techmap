@@ -6,20 +6,26 @@
   "logoFile": "logos/samplead.webp",
   "websiteUrl": "https://www.samplead.co",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "samplead",
   "linkedinNum": 69705747,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "samplead",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחמני",
       "houseNumber": null,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06548381099832,
       "lon": 34.77693983398288
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

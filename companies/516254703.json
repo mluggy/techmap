@@ -6,21 +6,26 @@
   "logoFile": "logos/demostack-logo.webp",
   "websiteUrl": "https://www.demostack.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "demostack",
+  "linkedinNum": 71042539,
   "crunchbaseId": null,
+  "ivcId": "A1000000343250",
   "finderId": "demostack",
   "xId": "DemostackHQ",
+  "facebookId": "Demostack",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קלישר",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.065789,
-      "lon": 34.768838
+      "city": "תל אביב-יפו",
+      "lat": 32.0658016,
+      "lon": 34.7688625
     }
   ],
   "isMultinational": false,
-  "facebookId": "Demostack",
-  "linkedinNum": 71042539
+  "isActive": true
 }

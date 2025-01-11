@@ -1,0 +1,31 @@
+{
+  "name": "LedNet",
+  "description": "LedNet have developed a patented technology to which allows the replacement of the HPS bulbs with LED technology, without having to replace the existing street lamps.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/lednet-logo.webp",
+  "websiteUrl": "http://www.lednet.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000188164",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 113,
+      "city": "בני ברק",
+      "lat": 32.0929099,
+      "lon": 34.8386726
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

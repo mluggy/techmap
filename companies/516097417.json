@@ -1,24 +1,31 @@
 {
   "name": "Elixie",
-  "description": "Nano-Tech Cannabinoid pharmaceuticals",
+  "description": "Elixie is an innovator in drug administration with a novel delivery platform for liquid formulations.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/elixie-logo.webp",
-  "websiteUrl": "https://elixie.com/",
+  "websiteUrl": "https://www.elixie.tech",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "elixie",
+  "linkedinNum": 64527214,
   "crunchbaseId": null,
+  "ivcId": "A1000000330004",
   "finderId": "elixie-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חפץ ישה",
-      "houseNumber": 1,
-      "city": "תל אביב - יפו",
-      "lat": 32.115644,
-      "lon": 34.786687
+      "street": "יחזקאל שטרייכמן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.1129563,
+      "lon": 34.7863318
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "CryptoCodeX",
-  "description": "Counterfeit Detection Systems",
+  "description": "Counterfeit Detection Systems.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/cryptocodex-logo.webp",
   "websiteUrl": "https://www.cryptocodex.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cryptocodex-ltd-",
+  "linkedinNum": 2429144,
   "crunchbaseId": null,
+  "ivcId": "A1000000009761",
   "finderId": "cryptocodex",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בורלא יהודה",
-      "houseNumber": 27,
-      "city": "ירושלים",
-      "lat": 31.7691584,
-      "lon": 35.2007843
+      "street": "דיזנגוף",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0739928,
+      "lon": 34.7804457
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2429144
+  "isActive": true
 }

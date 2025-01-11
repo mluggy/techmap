@@ -6,21 +6,26 @@
   "logoFile": "logos/eloops-logo.webp",
   "websiteUrl": "https://eloops.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eloops",
+  "linkedinNum": 17973077,
   "crunchbaseId": null,
+  "ivcId": "A1000000238611",
   "finderId": "eventloops",
   "xId": null,
+  "facebookId": "eloopsapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הברזל",
-      "houseNumber": 33,
-      "city": "תל אביב - יפו",
-      "lat": 32.110552,
-      "lon": 34.841516
+      "street": "ראול ולנברג",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.1100501,
+      "lon": 34.8376485
     }
   ],
   "isMultinational": false,
-  "facebookId": "eloopsapp",
-  "linkedinNum": 17973077
+  "isActive": true
 }

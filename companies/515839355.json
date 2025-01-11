@@ -1,0 +1,31 @@
+{
+  "name": "SurgeonAI",
+  "description": "SurgeonAI is a Surgeon Assistant Sysytem that provides guidance and alerts during surgery based on state of the art Artificial Intelligence.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/surgeonai-logo.webp",
+  "websiteUrl": "http://www.surgeonai.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000272337",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 16,
+      "city": "רעננה",
+      "lat": 32.196197,
+      "lon": 34.8845745
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

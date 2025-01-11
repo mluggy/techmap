@@ -6,11 +6,17 @@
   "logoFile": "logos/origametria_math-logo.webp",
   "websiteUrl": "https://origametria.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "origametria-math-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד ירושלים",
@@ -20,5 +26,6 @@
       "lon": 34.8196904
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

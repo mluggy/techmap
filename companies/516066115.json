@@ -1,26 +1,31 @@
 {
   "name": "Moovit",
-  "description": "Live Transport App with Maps",
-  "categoryId": 5,
-  "size": "l",
+  "description": "Moovit is a free local transit planner, featuring live arrival & departure times, updated line schedules, local station maps, and service alerts and advisories that affect trip time - all with help from the community of other riders.",
+  "categoryId": 18,
+  "size": "m",
   "logoFile": "logos/moovit_pango_public_transport_payments-logo.webp",
-  "websiteUrl": "https://moovit.com/",
+  "websiteUrl": "http://moovitapp.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "moovit",
+  "linkedinNum": 2765592,
   "crunchbaseId": null,
+  "ivcId": "A1000000010502",
   "finderId": "moovit",
   "xId": "moovit",
+  "facebookId": "moovit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שחם",
+      "street": "ספיר",
       "houseNumber": 3,
-      "city": "פתח תקווה",
-      "lat": 32.083855,
-      "lon": 34.8584889
+      "city": "רחובות",
+      "lat": 31.8968015,
+      "lon": 34.8252743
     }
   ],
   "isMultinational": false,
-  "facebookId": "moovit",
-  "linkedinNum": 2765592
+  "isActive": true
 }

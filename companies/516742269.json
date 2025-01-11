@@ -1,0 +1,31 @@
+{
+  "name": "Alviv",
+  "description": "Alviv is harnessing energy-based biological tissue regeneration process.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/alviv-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000477435",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שתולים",
+      "houseNumber": 61,
+      "city": "תל אביב-יפו",
+      "lat": 32.0435132,
+      "lon": 34.7961805
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,11 +6,17 @@
   "logoFile": "logos/proteantecs_ltd-logo.webp",
   "websiteUrl": "https://www.proteantecs.com/",
   "careersUrl": "https://www.proteantecs.com/careers",
-  "isHiring": true,
   "linkedinId": "proteantecs",
+  "linkedinNum": 34221141,
   "crunchbaseId": "proteantecs",
+  "ivcId": "A1000000238442",
   "finderId": "proteantecs",
   "xId": "ProteanTecs",
+  "facebookId": "proteanTecs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קדושי בגדד",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "proteanTecs",
-  "linkedinNum": 34221141
+  "isActive": true
 }

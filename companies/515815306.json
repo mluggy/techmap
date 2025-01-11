@@ -1,26 +1,31 @@
 {
   "name": "Nlight.io",
-  "description": "Gameplay Analytics Company",
+  "description": "Gameplay Analytics Company.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pixi_gaming-logo.webp",
   "websiteUrl": "https://nlight.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nlight-io",
+  "linkedinNum": 74207364,
   "crunchbaseId": null,
+  "ivcId": "A1000000276969",
   "finderId": "pixi-gaming",
   "xId": "NlightIo",
+  "facebookId": "nlight.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שניר",
-      "houseNumber": 26,
-      "city": "רמת השרון",
-      "lat": 32.13981,
-      "lon": 34.831537
+      "street": "אריה רגב",
+      "houseNumber": 4,
+      "city": "נתניה",
+      "lat": 32.2819085,
+      "lon": 34.8628847
     }
   ],
   "isMultinational": false,
-  "facebookId": "nlight.io",
-  "linkedinNum": 74207364
+  "isActive": true
 }

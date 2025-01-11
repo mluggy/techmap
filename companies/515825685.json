@@ -1,0 +1,31 @@
+{
+  "name": "Glicq",
+  "description": "Glicq is an intelligent collaboration work space designed to simplify, streamline and optimize complicated, fragmented and time-consuming real-estate transactions.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/glicq-logo.webp",
+  "websiteUrl": "https://www.glicq.com",
+  "careersUrl": null,
+  "linkedinId": "glicq",
+  "linkedinNum": 18135672,
+  "crunchbaseId": null,
+  "ivcId": "A1000000238567",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אחוזה",
+      "houseNumber": 124,
+      "city": "רעננה",
+      "lat": 32.1808669,
+      "lon": 34.8739663
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

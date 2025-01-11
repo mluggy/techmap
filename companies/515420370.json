@@ -1,0 +1,31 @@
+{
+  "name": "Medilayse.me",
+  "description": "Medilayse.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medilayse-me-logo.webp",
+  "websiteUrl": "http://www.medilayse.me",
+  "careersUrl": null,
+  "linkedinId": "medilayse.me",
+  "linkedinNum": 18101274,
+  "crunchbaseId": null,
+  "ivcId": "A1000000221075",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יוסף שפרינצק",
+      "houseNumber": 139,
+      "city": "קרית שמונה",
+      "lat": 33.209655,
+      "lon": 35.5735546
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "TravelBooster",
+  "description": "Galor is a leading supplier of travel technology.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/travelbooster-logo.webp",
+  "websiteUrl": "http://www.travelbooster.com",
+  "careersUrl": "https://www.travelbooster.com/careers/",
+  "linkedinId": "travel-booster-by-galor",
+  "linkedinNum": 2242417,
+  "crunchbaseId": null,
+  "ivcId": "A1000000005358",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

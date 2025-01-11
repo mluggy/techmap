@@ -6,20 +6,26 @@
   "logoFile": "logos/liquid_360-logo.webp",
   "websiteUrl": "https://liquid360.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "liquidvideo",
+  "linkedinNum": 53419814,
   "crunchbaseId": "liquid-360",
+  "ivcId": "A1000000369536",
   "finderId": "liquid360",
   "xId": "360Liquid",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיבים",
       "houseNumber": 48,
-      "city": "פתח תקווה",
-      "lat": 32.0916612,
-      "lon": 34.8571892
+      "city": "גבעת שמואל",
+      "lat": 32.0810297,
+      "lon": 34.8552167
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 53419814
+  "isActive": true
 }

@@ -1,24 +1,31 @@
 {
   "name": "Agam Energy Systems",
-  "description": "Waste Heat to Electricity",
+  "description": "Agam develops and manufactures innovative, energy-conserving and environmentally friendly dehumidification, heating and cooling systems.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/agam_energy_systems-logo.webp",
-  "websiteUrl": "https://agam-energy.com",
+  "websiteUrl": "http://agam-greenhouses.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "agam-energy-systems",
+  "linkedinNum": 360728,
   "crunchbaseId": "agam-energy-systems",
+  "ivcId": "A1000000008455",
   "finderId": "agam-energy-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ארלוזורוב",
-      "houseNumber": 16,
-      "city": "הוד השרון",
-      "lat": 32.1613689,
-      "lon": 34.8824779
+      "street": null,
+      "houseNumber": null,
+      "city": "קרית מלאכי",
+      "lat": 31.7302546,
+      "lon": 34.7466157
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

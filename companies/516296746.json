@@ -1,25 +1,31 @@
 {
   "name": "UCI Technologies",
-  "description": "CRF Technology for Search and Rescue, Navigation, and HLS",
+  "description": "CRF Technology for Search and Rescue, Navigation, and HLS.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/uci_technologies-logo.webp",
   "websiteUrl": "https://www.ucitech.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "uci-technologies-ltd",
+  "linkedinNum": 87975048,
   "crunchbaseId": null,
+  "ivcId": "A1000000418381",
   "finderId": "uci-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סמ האחים פיש",
-      "houseNumber": 40,
-      "city": "קריית טבעון",
-      "lat": 32.70471200694072,
-      "lon": 35.12184109638711
+      "street": "גיבורי ישראל",
+      "houseNumber": 22,
+      "city": "בני ברק",
+      "lat": 32.0823113,
+      "lon": 34.8439199
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 87975048
+  "isActive": true
 }

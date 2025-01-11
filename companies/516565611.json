@@ -1,0 +1,31 @@
+{
+  "name": "EyeContact",
+  "description": "EyeContact is developing software that detects autism spectrum disorders (ASD) in toddlers.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/eyecontact-logo.webp",
+  "websiteUrl": "https://www.eyecontactdx.com",
+  "careersUrl": null,
+  "linkedinId": "eyecontact-dx",
+  "linkedinNum": 97843171,
+  "crunchbaseId": null,
+  "ivcId": "A1000000461208",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פרופ' אהרן צ'חנובר",
+      "houseNumber": 7,
+      "city": "רחובות",
+      "lat": 31.9018666,
+      "lon": 34.8226512
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

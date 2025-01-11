@@ -1,17 +1,22 @@
 {
   "name": "Vayo",
-  "description": "AI-based Enterprise Search and Collaboration Platform for Employees",
+  "description": "AI-based Enterprise Search and Collaboration Platform for Employees.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/vayo1.webp",
-  "websiteUrl": null,
+  "websiteUrl": "vayo-io",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 28126914,
   "crunchbaseId": null,
+  "ivcId": "A1000000005245",
   "finderId": "vayo1",
   "xId": "vayohq",
   "facebookId": "Vayo.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמב\"ם",
@@ -21,5 +26,6 @@
       "lon": 34.792541107654586
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

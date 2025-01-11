@@ -6,21 +6,26 @@
   "logoFile": "logos/highcon_systems-logo.webp",
   "websiteUrl": "https://highcon.net/",
   "careersUrl": "https://www.highcon.net/careers/",
-  "isHiring": true,
   "linkedinId": "highcon",
+  "linkedinNum": 643789,
   "crunchbaseId": null,
+  "ivcId": "A1000000001645",
   "finderId": "highcon",
   "xId": "HighconDart",
+  "facebookId": "Highcon.Euclid",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פארן",
-      "houseNumber": 4,
-      "city": "יבנה",
-      "lat": 31.8939898,
-      "lon": 34.7347034
+      "street": "נחל שניר",
+      "houseNumber": 2,
+      "city": "אשדוד",
+      "lat": 31.7824105,
+      "lon": 34.6336583
     }
   ],
   "isMultinational": false,
-  "facebookId": "Highcon.Euclid",
-  "linkedinNum": 643789
+  "isActive": true
 }

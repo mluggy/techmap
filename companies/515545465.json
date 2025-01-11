@@ -6,21 +6,26 @@
   "logoFile": "logos/entou_labs-logo.webp",
   "websiteUrl": "https://www.entou-labs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "entou-labs",
+  "linkedinNum": 35648723,
   "crunchbaseId": "entou-labs",
+  "ivcId": "A1000000286341",
   "finderId": "entou-labs",
   "xId": null,
+  "facebookId": "Entou-Labs-2109646652475946",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אשכול לוי",
-      "houseNumber": 88,
-      "city": "תל אביב - יפו",
-      "lat": 32.1169485,
-      "lon": 34.7903212
+      "street": "אבשלום פיינברג",
+      "houseNumber": 9,
+      "city": "הוד השרון",
+      "lat": 32.1504831,
+      "lon": 34.8891099
     }
   ],
   "isMultinational": false,
-  "facebookId": "Entou-Labs-2109646652475946",
-  "linkedinNum": 35648723
+  "isActive": true
 }

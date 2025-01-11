@@ -6,20 +6,26 @@
   "logoFile": "logos/deliverider-logo.webp",
   "websiteUrl": "https://www.deliverider.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "deliverider",
+  "linkedinNum": 81632990,
   "crunchbaseId": "deliverider",
+  "ivcId": "A1000000395969",
   "finderId": "deliverider",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד המעפילים",
-      "houseNumber": 10,
-      "city": "נס ציונה",
-      "lat": 31.9295603,
-      "lon": 34.7886688
+      "street": "מנחם בגין",
+      "houseNumber": 132,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930881,
+      "lon": 34.8322718
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81632990
+  "isActive": true
 }

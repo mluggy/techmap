@@ -6,21 +6,26 @@
   "logoFile": "logos/qualityline_production_technologies-logo.webp",
   "websiteUrl": "https://quality-line.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "qualityline-production-technologies-ltd-",
+  "linkedinNum": 10251548,
   "crunchbaseId": null,
+  "ivcId": "A1000000203260",
   "finderId": "qualityline-production-technologies",
   "xId": "quality_line",
+  "facebookId": "infoqualityline",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מרגלית",
-      "houseNumber": 46,
-      "city": "שוהם",
-      "lat": 31.993484,
-      "lon": 34.9385708
+      "street": "הגפן",
+      "houseNumber": 5,
+      "city": "קרית גת",
+      "lat": 31.6069115,
+      "lon": 34.7703845
     }
   ],
   "isMultinational": false,
-  "facebookId": "infoqualityline",
-  "linkedinNum": 10251548
+  "isActive": true
 }

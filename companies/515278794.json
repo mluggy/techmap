@@ -1,0 +1,31 @@
+{
+  "name": "Sygnia",
+  "description": "Sygnia is a cyber technology and services company, providing high-end consulting and incident response support for organizations worldwide.",
+  "categoryId": 7,
+  "size": "l",
+  "logoFile": "logos/sygnia-logo.webp",
+  "websiteUrl": "https://www.sygnia.co",
+  "careersUrl": "https://www.sygnia.co/careers/",
+  "linkedinId": "sygnia",
+  "linkedinNum": 18060249,
+  "crunchbaseId": null,
+  "ivcId": "A1000000243792",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "Yigal Alon Street",
+      "houseNumber": 94,
+      "city": "Tel Aviv-Yafo",
+      "lat": 32.068453,
+      "lon": 34.7941061
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

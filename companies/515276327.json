@@ -6,21 +6,26 @@
   "logoFile": "logos/baba_entertainment-logo.webp",
   "websiteUrl": "https://www.baba-entertainment.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "baba-entertainment",
+  "linkedinNum": 10693618,
   "crunchbaseId": null,
+  "ivcId": "A1000000210090",
   "finderId": "baba-entertainment",
   "xId": "babacasino",
+  "facebookId": "babaentertainmentltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.063834,
-      "lon": 34.780027
+      "street": "דרך יפו",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0598712,
+      "lon": 34.7683614
     }
   ],
   "isMultinational": false,
-  "facebookId": "babaentertainmentltd",
-  "linkedinNum": 10693618
+  "isActive": true
 }

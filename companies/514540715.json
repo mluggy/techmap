@@ -6,11 +6,17 @@
   "logoFile": "logos/zebra_crm-logo.webp",
   "websiteUrl": "https://zebracrm.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2318420,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zebra-crm",
   "xId": "ZebraCRM",
+  "facebookId": "ZebraCRM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן גוריון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZebraCRM",
-  "linkedinNum": 2318420
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Artes Studio",
+  "description": "Artes Studio is a developer of a money gaming entertainment platform, designed to combine casual games with real money.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/artes_studio-logo.webp",
+  "websiteUrl": "https://www.artestudio.io",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000469653",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

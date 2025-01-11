@@ -3,21 +3,29 @@
   "description": "A Unified Solution for Generative AI Security.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/prompt_security-logo.webp",
+  "logoFile": "logos/prompt-security-logo.webp",
   "websiteUrl": "https://www.prompt.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "promptsec",
+  "linkedinNum": 99890496,
   "crunchbaseId": null,
+  "ivcId": "A1000000458051",
   "finderId": "prompt-security-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה המכבי",
       "houseNumber": 45,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.093919,
       "lon": 34.788978
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

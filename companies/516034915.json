@@ -6,20 +6,26 @@
   "logoFile": "logos/4_m_analytics-logo.webp",
   "websiteUrl": "https://www.4manalytics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "4m-analytics",
+  "linkedinNum": 19028288,
   "crunchbaseId": null,
+  "ivcId": "A1000000291558",
   "finderId": "4m-analytics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוזס יהודה ונח",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.075798,
-      "lon": 34.794728
+      "city": "תל אביב-יפו",
+      "lat": 32.0760978,
+      "lon": 34.7948347
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 19028288
+  "isActive": true
 }

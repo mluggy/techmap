@@ -6,21 +6,26 @@
   "logoFile": "logos/tellavista-logo.webp",
   "websiteUrl": "https://www.tellavista.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tellavista",
+  "linkedinNum": 3177994,
   "crunchbaseId": "tellavista",
+  "ivcId": "A1000000021733",
   "finderId": "tellavista",
   "xId": "tellavista",
+  "facebookId": "Tellavista",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רענן",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
-      "lat": 32.059056,
-      "lon": 34.7689
+      "city": "תל אביב-יפו",
+      "lat": 32.0591495,
+      "lon": 34.7689071
     }
   ],
   "isMultinational": false,
-  "facebookId": "Tellavista",
-  "linkedinNum": 3177994
+  "isActive": true
 }

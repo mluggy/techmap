@@ -1,0 +1,31 @@
+{
+  "name": "SEG Ent",
+  "description": "SEG is an engineering and industrial company, which designs and supplies innovative environmental solutions such as Purification of industrial and municipal wastewater by the GreenFloat and GreenMesh processes, Dairy farms wastewater and manure treatment and disposal, Pig manure treatment, Paper and corrugated flexo Printing, Food processing, Sludge handling, Greywater and Secondary effluent reclamation.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/seg_ent-logo.webp",
+  "websiteUrl": "http://www.seg-israel.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009582",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברוש",
+      "houseNumber": 3,
+      "city": "גן יבנה",
+      "lat": 31.7874741,
+      "lon": 34.7072941
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

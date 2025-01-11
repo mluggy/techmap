@@ -6,11 +6,17 @@
   "logoFile": "logos/sciplay_games_israel-logo.webp",
   "websiteUrl": "https://www.sciplay.com/",
   "careersUrl": "https://www.sciplay.com/careers",
-  "isHiring": true,
   "linkedinId": "sciplaygames",
+  "linkedinNum": 35710155,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "scientific-games",
   "xId": null,
+  "facebookId": "SciPlay.Games",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -20,7 +26,6 @@
       "lon": 34.801384906098356
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SciPlay.Games",
-  "linkedinNum": 35710155
+  "isMultinational": false,
+  "isActive": true
 }

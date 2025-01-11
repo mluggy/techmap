@@ -1,0 +1,31 @@
+{
+  "name": "Gravix",
+  "description": "Gravix improves legal case preparation with its advanced multi-agent AI technology.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/gravix-logo.webp",
+  "websiteUrl": "https://www.gravix.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000487045",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חורגין",
+      "houseNumber": 45,
+      "city": "רמת גן",
+      "lat": 32.0735118,
+      "lon": 34.8244371
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

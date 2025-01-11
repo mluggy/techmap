@@ -1,26 +1,31 @@
 {
   "name": "Commugen",
-  "description": "No-code Cybersecurity GRC Solutions",
+  "description": "No-code Cybersecurity GRC Solutions.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/commugen-logo.webp",
   "websiteUrl": "https://www.commugen.com/en/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "commugen",
+  "linkedinNum": 141915,
   "crunchbaseId": null,
+  "ivcId": "A1000000006826",
   "finderId": "commugen",
   "xId": "CommugenNews",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחלת בנימין",
       "houseNumber": 47,
-      "city": "תל אביב - יפו",
-      "lat": 32.0649132,
-      "lon": 34.7711251
+      "city": "תל אביב-יפו",
+      "lat": 32.0648447,
+      "lon": 34.7712202
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 141915
+  "isActive": true
 }

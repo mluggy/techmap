@@ -6,11 +6,17 @@
   "logoFile": "logos/cannopeia-logo.webp",
   "websiteUrl": "https://cannopeia.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cannopeia",
+  "linkedinNum": 14056704,
   "crunchbaseId": "cannopeia",
+  "ivcId": "A1000000290542",
   "finderId": "cannopeia",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוטם",
@@ -19,5 +25,7 @@
       "lat": 32.27432431177675,
       "lon": 34.84604308585795
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

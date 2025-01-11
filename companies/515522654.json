@@ -1,26 +1,31 @@
 {
   "name": "Seedwiz",
-  "description": "Geographical Information System and AI Platform for Seed Selection and Trading",
+  "description": "Geographical Information System and AI Platform for Seed Selection and Trading.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/seedwiz-logo.webp",
   "websiteUrl": "https://www.seedwiz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "seedwizcom",
+  "linkedinNum": 9499550,
   "crunchbaseId": null,
+  "ivcId": "A1000000226237",
   "finderId": "seedwiz",
   "xId": "seedwiz",
+  "facebookId": "Seedwiz-644127869113828",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סוקולוב",
-      "houseNumber": 61,
-      "city": "רמת השרון",
-      "lat": 32.14480425,
-      "lon": 34.83777925661643
+      "street": "הבנים",
+      "houseNumber": 8,
+      "city": "גני עם",
+      "lat": 32.152583,
+      "lon": 34.8995272
     }
   ],
   "isMultinational": false,
-  "facebookId": "Seedwiz-644127869113828",
-  "linkedinNum": 9499550
+  "isActive": true
 }

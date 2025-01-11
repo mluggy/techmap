@@ -6,21 +6,26 @@
   "logoFile": "logos/code_ocean_israel-logo.webp",
   "websiteUrl": "https://codeocean.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "code-ocean",
+  "linkedinNum": 11008494,
   "crunchbaseId": "code-ocean",
+  "ivcId": null,
   "finderId": "code-ocean",
   "xId": "CodeOceanHQ",
+  "facebookId": "codeoceanhq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0687595,
       "lon": 34.7939327
     }
   ],
   "isMultinational": false,
-  "facebookId": "codeoceanhq",
-  "linkedinNum": 11008494
+  "isActive": true
 }

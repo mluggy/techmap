@@ -6,21 +6,26 @@
   "logoFile": "logos/dan_tech_energy-logo.webp",
   "websiteUrl": "https://www.danenergy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dan-tech-energy",
+  "linkedinNum": 1480183,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dan-tech-energy",
   "xId": "Danenergyglobal",
+  "facebookId": "Dantechenergy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.107529,
       "lon": 34.827772
     }
   ],
   "isMultinational": false,
-  "facebookId": "Dantechenergy",
-  "linkedinNum": 1480183
+  "isActive": true
 }

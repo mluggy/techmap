@@ -3,22 +3,29 @@
   "description": "We optimize urban living by seamlessly integrating with existing infrastructure to enhance traffic management.",
   "categoryId": 13,
   "size": "s",
-  "logoFile": "logos/exelerate_smart_traffic-logo.webp",
+  "logoFile": "logos/exelerate-smart-traffic-logo.webp",
   "websiteUrl": "https://exelerate.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "exelerate-smart-traffic",
+  "linkedinNum": 74975719,
   "crunchbaseId": null,
+  "ivcId": "A1000000009569",
   "finderId": "exelerate-smart-traffic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך השלום",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072056,
       "lon": 34.795137
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

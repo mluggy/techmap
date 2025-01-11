@@ -6,20 +6,26 @@
   "logoFile": "logos/vaultive.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "vaultive",
   "linkedinNum": 269112,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vaultive",
   "xId": "vaultive",
   "facebookId": "vaultive",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לילינבלום",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062545961432164,
       "lon": 34.77118253058502
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

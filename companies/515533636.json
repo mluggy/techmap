@@ -6,11 +6,17 @@
   "logoFile": "logos/igentify-logo.webp",
   "websiteUrl": "https://www.igentify.com/",
   "careersUrl": "https://www.igentify.com/careers/",
-  "isHiring": true,
   "linkedinId": "igentify",
+  "linkedinNum": 17878972,
   "crunchbaseId": null,
+  "ivcId": "A1000000236243",
   "finderId": "igentify",
   "xId": "IgentifyCounsel",
+  "facebookId": "igentify",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלמיש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "igentify",
-  "linkedinNum": 17878972
+  "isActive": true
 }

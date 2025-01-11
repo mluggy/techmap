@@ -6,21 +6,26 @@
   "logoFile": "logos/voicenter-logo.webp",
   "websiteUrl": "https://www.voicenter.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2877986,
   "crunchbaseId": null,
+  "ivcId": "A1000000019886",
   "finderId": "voicenter-cloud",
   "xId": "voicentercloud",
+  "facebookId": "voicenter",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החילזון",
-      "houseNumber": 5,
-      "city": "רמת גן",
-      "lat": 32.0861321,
-      "lon": 34.8040698
+      "street": "יגאל אלון",
+      "houseNumber": 159,
+      "city": "תל אביב-יפו",
+      "lat": 32.078708,
+      "lon": 34.7978385
     }
   ],
   "isMultinational": false,
-  "facebookId": "voicenter",
-  "linkedinNum": 2877986
+  "isActive": true
 }

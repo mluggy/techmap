@@ -6,21 +6,26 @@
   "logoFile": "logos/votiro_cybersec-logo.webp",
   "websiteUrl": "https://votiro.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "votiro",
+  "linkedinNum": 5283630,
   "crunchbaseId": null,
+  "ivcId": "A1000000002023",
   "finderId": "votiro-cybersec",
   "xId": "votiro",
+  "facebookId": "Votiro",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 123,
-      "city": "תל אביב - יפו",
-      "lat": 32.072575,
-      "lon": 34.7898
+      "street": "יגאל אלון",
+      "houseNumber": 126,
+      "city": "תל אביב-יפו",
+      "lat": 32.0744198,
+      "lon": 34.7956552
     }
   ],
   "isMultinational": false,
-  "facebookId": "Votiro",
-  "linkedinNum": 5283630
+  "isActive": true
 }

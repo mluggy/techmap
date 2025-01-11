@@ -1,0 +1,31 @@
+{
+  "name": "Sensole",
+  "description": "Sensole develops a next-generation AI technology for better orthotic insole comfort.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sensole-logo.webp",
+  "websiteUrl": "https://www.sensole-medical.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000477492",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגפן",
+      "houseNumber": 13,
+      "city": "מזור",
+      "lat": 32.0515855,
+      "lon": 34.9327409
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

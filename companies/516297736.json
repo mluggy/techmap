@@ -6,20 +6,26 @@
   "logoFile": "logos/storage_drop_israel-logo.webp",
   "websiteUrl": "https://storagedrop.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "storage-drop-technologies",
+  "linkedinNum": 71742315,
   "crunchbaseId": "storage-drop",
+  "ivcId": "A1000000345553",
   "finderId": "storage-drop",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הורביץ אלי",
-      "houseNumber": 19,
-      "city": "רחובות",
-      "lat": 31.9020486,
-      "lon": 34.7887566
+      "street": "הורוביץ",
+      "houseNumber": null,
+      "city": "ראשון לציון",
+      "lat": 31.9598999,
+      "lon": 34.798007
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71742315
+  "isActive": true
 }

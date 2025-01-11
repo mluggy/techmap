@@ -6,13 +6,26 @@
   "logoFile": "logos/algatechnologies-logo.webp",
   "websiteUrl": "https://www.algatech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "algatech",
+  "linkedinNum": 2447089,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "algatechnologies",
   "xId": "Algatech98",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Algatech-1396097397309941",
-  "linkedinNum": 2447089
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ קטורה",
+      "lat": 29.96799179227398,
+      "lon": 35.06035042169876
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

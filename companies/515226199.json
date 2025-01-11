@@ -6,21 +6,26 @@
   "logoFile": "logos/dafni_hair_products-logo.webp",
   "websiteUrl": "https://www.dafnihair.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dafni",
+  "linkedinNum": 10654454,
   "crunchbaseId": null,
+  "ivcId": "A1000000486912",
   "finderId": "dafni",
   "xId": "dafni_hair",
+  "facebookId": "DAFNIofficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זרחין אלכסנדר",
-      "houseNumber": 10,
+      "street": "היצירה",
+      "houseNumber": 11,
       "city": "רעננה",
-      "lat": 32.195562,
-      "lon": 34.8826355
+      "lat": 32.1948619,
+      "lon": 34.8770619
     }
   ],
   "isMultinational": false,
-  "facebookId": "DAFNIofficial",
-  "linkedinNum": 10654454
+  "isActive": true
 }

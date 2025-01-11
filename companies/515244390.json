@@ -1,0 +1,31 @@
+{
+  "name": "Common Scents",
+  "description": "Common Scents is a pioneering Scent Solutions company that designs, develops and manufactures scented products and scented technologies.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/common_scents-logo.webp",
+  "websiteUrl": "http://www.commonscents.tech",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000203907",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האלה",
+      "houseNumber": 6,
+      "city": "כפר נטר",
+      "lat": 32.280796,
+      "lon": 34.8714461
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,20 +6,26 @@
   "logoFile": "logos/omika_vision-logo.webp",
   "websiteUrl": "https://www.omika-vision.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "omika-vision",
+  "linkedinNum": 40815454,
   "crunchbaseId": null,
+  "ivcId": "A1000000291591",
   "finderId": "omika",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האיריס",
-      "houseNumber": 15,
-      "city": "עתלית",
-      "lat": 32.681516,
-      "lon": 34.9346113
+      "street": "איינשטיין",
+      "houseNumber": 83,
+      "city": "חיפה",
+      "lat": 32.7819384,
+      "lon": 34.9954875
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 40815454
+  "isActive": true
 }

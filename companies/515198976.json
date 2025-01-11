@@ -6,20 +6,26 @@
   "logoFile": "logos/skypath-logo.webp",
   "websiteUrl": "https://skypath.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "skypath1",
+  "linkedinNum": 18076042,
   "crunchbaseId": null,
+  "ivcId": "A1000000310301",
   "finderId": "yamasee",
   "xId": "SkyPath_io",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלעד",
       "houseNumber": 1,
-      "city": "פרדס חנה-כרכור",
-      "lat": 32.4736128,
-      "lon": 34.9767188
+      "city": "פרדס חנה כרכור",
+      "lat": 32.4723709,
+      "lon": 34.9741019
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18076042
+  "isActive": true
 }

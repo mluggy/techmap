@@ -1,0 +1,31 @@
+{
+  "name": "ADTV",
+  "description": "ADTV is a digital media company specializing in development and production of smart multimedia and software systems for both elevators and general use.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/adtv-logo.webp",
+  "websiteUrl": "http://adtv.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000020534",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלי הורוביץ",
+      "houseNumber": 19,
+      "city": "רחובות",
+      "lat": 31.9020732,
+      "lon": 34.7887458
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

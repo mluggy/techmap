@@ -6,11 +6,17 @@
   "logoFile": "logos/celebros-logo.webp",
   "websiteUrl": "https://www.celebros.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "celebros",
+  "linkedinNum": 20338,
   "crunchbaseId": "celebros",
+  "ivcId": null,
   "finderId": "celebros-conversion-technologies",
   "xId": "celebrossearch",
+  "facebookId": "celebrossearch",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התשבי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "celebrossearch",
-  "linkedinNum": 20338
+  "isActive": true
 }

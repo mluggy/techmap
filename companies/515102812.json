@@ -6,18 +6,26 @@
   "logoFile": "logos/lockoncam-logo.webp",
   "websiteUrl": "https://www.lockoncam.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000459603",
   "finderId": "lockoncam",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המזמור",
       "houseNumber": 2,
-      "city": "פרדס חנה-כרכור",
-      "lat": 32.4862303,
-      "lon": 34.9936062
+      "city": "פרדס חנה כרכור",
+      "lat": 32.4845409,
+      "lon": 34.9938033
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

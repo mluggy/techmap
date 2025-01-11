@@ -1,0 +1,31 @@
+{
+  "name": "Bliss",
+  "description": "Bliss Aesthetics was created to simplify the challenges patients face when seeking elective cosmetic procedures.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/bliss-logo.webp",
+  "websiteUrl": "https://www.bliss.me",
+  "careersUrl": null,
+  "linkedinId": "bliss-aesthetics",
+  "linkedinNum": 34123436,
+  "crunchbaseId": null,
+  "ivcId": "A1000000462469",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 144,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322718
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

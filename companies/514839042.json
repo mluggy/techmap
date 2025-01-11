@@ -6,20 +6,26 @@
   "logoFile": "logos/intuillion-logo.webp",
   "websiteUrl": "https://www.ditatoo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 27039331,
   "crunchbaseId": null,
+  "ivcId": "A1000000172246",
   "finderId": "ditatoo",
   "xId": "DITAToo1",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ציפורנית",
-      "houseNumber": 9,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9062954,
-      "lon": 35.0147816
+      "street": "חטיבת גבעתי",
+      "houseNumber": 24,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.9114403,
+      "lon": 35.0009686
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27039331
+  "isActive": true
 }

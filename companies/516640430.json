@@ -1,0 +1,31 @@
+{
+  "name": "Monimmo",
+  "description": "Monimmo provides real-estate information on the ﬂy and together with the build analytics capabilities helps users make better decisions faster.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/monimmo-logo.webp",
+  "websiteUrl": "https://www.monimmo.ai",
+  "careersUrl": null,
+  "linkedinId": "appmonimmo",
+  "linkedinNum": 11844698,
+  "crunchbaseId": null,
+  "ivcId": "A1000000308761",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יהודה",
+      "houseNumber": 148,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8911486,
+      "lon": 35.002312
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

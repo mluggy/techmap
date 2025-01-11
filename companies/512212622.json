@@ -1,16 +1,22 @@
 {
   "name": "Artisan Sonics",
-  "description": "Workflow Optimization for OB-GYN Sonographers",
+  "description": "Workflow Optimization for OB-GYN Sonographers.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/artisan_sonics_ltd-logo.webp",
   "websiteUrl": "https://artisansonics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "artisan-sonics",
+  "linkedinNum": 9333862,
   "crunchbaseId": "artisan-sonics",
+  "ivcId": "A1000000004617",
   "finderId": "artisan-sonics",
   "xId": null,
+  "facebookId": "artisansonics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סוקולוב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "artisansonics",
-  "linkedinNum": 9333862
+  "isActive": true
 }

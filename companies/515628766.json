@@ -1,0 +1,31 @@
+{
+  "name": "Spacing",
+  "description": "Spacing developed a web site that compares co-working spaces.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/spacing-logo.webp",
+  "websiteUrl": "https://www.spacing.co.il",
+  "careersUrl": null,
+  "linkedinId": "spacing-israel",
+  "linkedinNum": 18339775,
+  "crunchbaseId": null,
+  "ivcId": "A1000000230155",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב אריה שנקר",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1608042,
+      "lon": 34.810067
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

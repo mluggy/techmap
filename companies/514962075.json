@@ -1,16 +1,22 @@
 {
   "name": "AGAT Software",
-  "description": "Security and Governance for Generative AI",
-  "categoryId": 7,
+  "description": "AGAT Software is an innovative software provider focusing on Compliance, Governance, Risk and Security for all the major Unified Communications platforms: MS Teams, Webex, Skype for Business, Slack, Zoom and Google Meet.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/agat_software_development-logo.webp",
-  "websiteUrl": "https://agatsoftware.ai",
-  "careersUrl": "https://agatsoftware.com/careers/",
-  "isHiring": true,
+  "websiteUrl": "https://agatsoftware.com",
+  "careersUrl": null,
   "linkedinId": "agat-software",
+  "linkedinNum": 2450350,
   "crunchbaseId": "agat-software",
+  "ivcId": "A1000000002694",
   "finderId": "agat-software",
   "xId": "AGATSoftware",
+  "facebookId": "AGATSoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגפן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AGATSoftware",
-  "linkedinNum": 2450350
+  "isActive": true
 }

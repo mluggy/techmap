@@ -6,18 +6,26 @@
   "logoFile": "logos/worthy_research_development-logo.webp",
   "websiteUrl": "https://www.worthy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "worthy-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0608197,
       "lon": 34.7771205
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

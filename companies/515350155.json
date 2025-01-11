@@ -6,21 +6,26 @@
   "logoFile": "logos/vast_data-logo.webp",
   "websiteUrl": "https://www.vastdata.com/",
   "careersUrl": "https://vastdata.com/careers/",
-  "isHiring": true,
   "linkedinId": "vast-data",
+  "linkedinNum": 10489311,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vast-data",
   "xId": "VAST_data",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "vastdata/43.001",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד' רוקח",
       "houseNumber": 97,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1043282,
       "lon": 34.8088651
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10489311,
-  "comeetId": "vastdata/43.001"
+  "isActive": true
 }

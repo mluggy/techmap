@@ -6,21 +6,26 @@
   "logoFile": "logos/wide_therapy-logo.webp",
   "websiteUrl": "https://widetherapy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "widetherapy",
+  "linkedinNum": 71758109,
   "crunchbaseId": null,
+  "ivcId": "A1000000363249",
   "finderId": "wide-therapy",
   "xId": null,
+  "facebookId": "WideTherapy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לוין שמריהו",
-      "houseNumber": 84,
-      "city": "ירושלים",
-      "lat": 31.7688281,
-      "lon": 35.1781963
+      "street": null,
+      "houseNumber": null,
+      "city": "הרצליה",
+      "lat": 32.162413,
+      "lon": 34.844675
     }
   ],
   "isMultinational": false,
-  "facebookId": "WideTherapy",
-  "linkedinNum": 71758109
+  "isActive": true
 }

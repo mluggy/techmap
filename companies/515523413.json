@@ -6,11 +6,17 @@
   "logoFile": "logos/touchwand-logo.webp",
   "websiteUrl": "https://www.touchwand.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "touchwand-smart-home",
+  "linkedinNum": 27098132,
   "crunchbaseId": null,
+  "ivcId": "A1000000307053",
   "finderId": "touchwand",
   "xId": "Touch_Wand",
+  "facebookId": "TouchWand",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אימבר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TouchWand",
-  "linkedinNum": 27098132
+  "isActive": true
 }

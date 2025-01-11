@@ -6,21 +6,26 @@
   "logoFile": "logos/concenter_biopharma-logo.webp",
   "websiteUrl": "https://www.concenterbiopharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "concenter-biopharma",
+  "linkedinNum": 9496898,
   "crunchbaseId": null,
+  "ivcId": "A1000000315604",
   "finderId": "concenter-biopharma-silkim-ltd",
   "xId": "ConcenterBioPha",
+  "facebookId": "concenterbiopharma",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היהלום",
+      "street": "יהלום",
       "houseNumber": 18,
-      "city": "תל מונד",
-      "lat": 32.2498825,
-      "lon": 34.9095651
+      "city": "בית יהושע",
+      "lat": 32.2643552,
+      "lon": 34.8631896
     }
   ],
   "isMultinational": false,
-  "facebookId": "concenterbiopharma",
-  "linkedinNum": 9496898
+  "isActive": true
 }

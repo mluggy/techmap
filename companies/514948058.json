@@ -6,11 +6,17 @@
   "logoFile": "logos/teridion_technologies-logo.webp",
   "websiteUrl": "https://www.teridion.com/",
   "careersUrl": "https://www.teridion.com/careers/",
-  "isHiring": true,
   "linkedinId": "teridion",
+  "linkedinNum": 3165151,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "teridion",
   "xId": null,
+  "facebookId": "teridiontech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ירושלים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "teridiontech",
-  "linkedinNum": 3165151
+  "isActive": true
 }

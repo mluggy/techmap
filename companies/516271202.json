@@ -1,0 +1,31 @@
+{
+  "name": "Relyon",
+  "description": "Relyon.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/relyon-logo.webp",
+  "websiteUrl": "https://relyon.ai",
+  "careersUrl": null,
+  "linkedinId": "relyon-ai",
+  "linkedinNum": 69186397,
+  "crunchbaseId": null,
+  "ivcId": "A1000000420933",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרצל",
+      "houseNumber": 38,
+      "city": "רמת גן",
+      "lat": 32.0829733,
+      "lon": 34.8161242
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

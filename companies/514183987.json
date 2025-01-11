@@ -6,11 +6,17 @@
   "logoFile": "logos/olivebar-logo.webp",
   "websiteUrl": "https://www.olivebar.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "olivebar",
   "xId": null,
+  "facebookId": "olivebarltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האירוס",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "olivebarltd"
+  "isActive": true
 }

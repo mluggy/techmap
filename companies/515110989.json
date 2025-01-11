@@ -6,21 +6,26 @@
   "logoFile": "logos/vidazoo-logo.webp",
   "websiteUrl": "https://vidazoo.com/",
   "careersUrl": "https://vidazoo.com/careers",
-  "isHiring": true,
   "linkedinId": "vidazoo",
+  "linkedinNum": 4865661,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vidazoo",
   "xId": null,
+  "facebookId": "Vidazoo-743826942448364",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072746,
       "lon": 34.794968
     }
   ],
   "isMultinational": false,
-  "facebookId": "Vidazoo-743826942448364",
-  "linkedinNum": 4865661
+  "isActive": true
 }

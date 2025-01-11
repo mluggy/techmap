@@ -1,25 +1,31 @@
 {
   "name": "Lyra Medical",
-  "description": "Long-term Solution for Pelvic Floor Repair",
+  "description": "Long-term Solution for Pelvic Floor Repair.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/lyra_medical-logo.webp",
   "websiteUrl": "https://lyramedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lyra-medical",
+  "linkedinNum": 64523066,
   "crunchbaseId": null,
+  "ivcId": "A1000000021517",
   "finderId": "lyra-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 3,
-      "city": "בנימינה",
-      "lat": 32.5128454,
-      "lon": 34.9484798
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5141283,
+      "lon": 34.9483839
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64523066
+  "isActive": true
 }

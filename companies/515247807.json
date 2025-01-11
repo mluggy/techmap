@@ -1,0 +1,31 @@
+{
+  "name": "Rexail",
+  "description": "Rexail is an innovative platform that allows food retail businesses to install a smart cash register that interfaces with the business's website.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/rexail-logo.webp",
+  "websiteUrl": "http://www.rexail.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000393006",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

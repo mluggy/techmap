@@ -6,11 +6,17 @@
   "logoFile": "logos/c_sentinel-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "c-sentinel",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרי אדום",
@@ -19,5 +25,7 @@
       "lat": 31.8898884,
       "lon": 34.779442
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

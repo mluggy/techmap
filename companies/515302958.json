@@ -6,20 +6,26 @@
   "logoFile": "logos/webiks_y_o-logo.webp",
   "websiteUrl": "https://webiks.com/",
   "careersUrl": "https://webiks.com/careers",
-  "isHiring": true,
   "linkedinId": "webiks",
+  "linkedinNum": 40817066,
   "crunchbaseId": "webiks",
+  "ivcId": null,
   "finderId": "webiks",
   "xId": "therealwebiks",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוזס יהודה ונח",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.075798,
       "lon": 34.794728
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 40817066
+  "isActive": true
 }

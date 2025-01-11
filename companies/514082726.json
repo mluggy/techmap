@@ -6,21 +6,26 @@
   "logoFile": "logos/nyxoah-logo.webp",
   "websiteUrl": "https://www.nyxoah.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nyxoah-sa",
+  "linkedinNum": 2521839,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nyxoah",
   "xId": "nyxoah",
+  "facebookId": "Nyxoah-SA-116970793034361",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 126,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074473,
       "lon": 34.795669
     }
   ],
   "isMultinational": false,
-  "facebookId": "Nyxoah-SA-116970793034361",
-  "linkedinNum": 2521839
+  "isActive": true
 }

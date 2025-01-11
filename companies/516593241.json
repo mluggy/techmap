@@ -1,25 +1,31 @@
 {
   "name": "saywhatt",
-  "description": "AI-based Retail Sales Engine",
+  "description": "AI-based Retail Sales Engine.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/saywhatt_online-logo.webp",
   "websiteUrl": "https://www.saywhatt.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "saywhatt",
+  "linkedinNum": 82584740,
   "crunchbaseId": null,
+  "ivcId": "A1000000432789",
   "finderId": "saywhatt",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות ח\"ן",
       "houseNumber": 40,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.077998,
       "lon": 34.780255
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82584740
+  "isActive": true
 }

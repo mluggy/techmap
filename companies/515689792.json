@@ -6,20 +6,26 @@
   "logoFile": "logos/cyabra_strategy-logo.webp",
   "websiteUrl": "https://cyabra.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cyabra",
+  "linkedinNum": 18135073,
   "crunchbaseId": "cyabra",
+  "ivcId": "A1000000239029",
   "finderId": "cyabra",
   "xId": "thecyabra",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שץ גגה גרשון",
+      "street": "גרשון ש\"ץ",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.069126,
-      "lon": 34.789123
+      "city": "תל אביב-יפו",
+      "lat": 32.0691237,
+      "lon": 34.7891055
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18135073
+  "isActive": true
 }

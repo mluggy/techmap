@@ -6,21 +6,26 @@
   "logoFile": "logos/personalics-logo.webp",
   "websiteUrl": "https://personalics.com/",
   "careersUrl": "https://personetics.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 5395882,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "personalics",
   "xId": "personalics",
+  "facebookId": "personalics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מזא\"ה",
       "houseNumber": 53,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065683,
       "lon": 34.779207
     }
   ],
   "isMultinational": false,
-  "facebookId": "personalics",
-  "linkedinNum": 5395882
+  "isActive": true
 }

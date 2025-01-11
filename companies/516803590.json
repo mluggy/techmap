@@ -1,25 +1,31 @@
 {
   "name": "Weft",
-  "description": "Stealth Mode Startup",
-  "categoryId": 10,
-  "size": "xs",
+  "description": "Vayu's billing and revenue platform consolidates data from the users' CRM, ERP, BI and payment platforms to improve B2B billing.",
+  "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/weft.webp",
-  "websiteUrl": "https://www.weftfinance.co/",
+  "websiteUrl": "https://www.withvayu.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000433341",
   "finderId": "weft",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפסגה",
+      "street": "שינקין",
       "houseNumber": null,
-      "city": "גני תקווה",
-      "lat": 32.06239186790639,
-      "lon": 34.87384713256919
+      "city": "תל אביב-יפו",
+      "lat": 32.0687123,
+      "lon": 34.7758191
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

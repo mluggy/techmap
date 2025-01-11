@@ -6,11 +6,17 @@
   "logoFile": "logos/bigvu-logo.webp",
   "websiteUrl": "https://bigvu.tv/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10500794,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bigvu",
   "xId": "videoinspire",
+  "facebookId": "socialvideocreator",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אליהו נאוי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "socialvideocreator",
-  "linkedinNum": 10500794
+  "isActive": true
 }

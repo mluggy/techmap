@@ -6,20 +6,26 @@
   "logoFile": "logos/biomica_ltd-logo.webp",
   "websiteUrl": "https://www.biomicamed.com/",
   "careersUrl": "https://www.biomicamed.com/careers/",
-  "isHiring": true,
   "linkedinId": "biomica-ltd",
+  "linkedinNum": 28646072,
   "crunchbaseId": null,
+  "ivcId": "A1000000243476",
   "finderId": "biomica",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פינשטיין",
-      "houseNumber": 13,
-      "city": "רחובות",
-      "lat": 31.8999536,
-      "lon": 34.79146377703995
+      "street": "פיינשטיין",
+      "houseNumber": null,
+      "city": "גבעת ברנר",
+      "lat": 31.8646325,
+      "lon": 34.8034207
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28646072
+  "isActive": true
 }

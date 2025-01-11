@@ -6,13 +6,26 @@
   "logoFile": "logos/pilogics_hair_technologies-logo.webp",
   "websiteUrl": "https://www.pilogicsltd.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pilogics-ltd",
+  "linkedinNum": 64511157,
   "crunchbaseId": "pilogics",
+  "ivcId": "A1000000287051",
   "finderId": "pilogics",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "pilogicsllp",
-  "linkedinNum": 64511157
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרושת",
+      "houseNumber": 30,
+      "city": "אור יהודה",
+      "lat": 32.0214645,
+      "lon": 34.864517
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

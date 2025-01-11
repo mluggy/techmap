@@ -6,21 +6,26 @@
   "logoFile": "logos/cligal_tech-logo.webp",
   "websiteUrl": "https://cligal.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cligal",
+  "linkedinNum": 19123223,
   "crunchbaseId": null,
+  "ivcId": "A1000000327808",
   "finderId": "cligal-tech",
   "xId": null,
+  "facebookId": "Cligal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
-      "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.111205,
-      "lon": 34.8388694
+      "street": "אלכסנדר פן",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.1229361,
+      "lon": 34.8134284
     }
   ],
   "isMultinational": false,
-  "facebookId": "Cligal",
-  "linkedinNum": 19123223
+  "isActive": true
 }

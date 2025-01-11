@@ -6,12 +6,17 @@
   "logoFile": "logos/continual.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "cellmining",
   "linkedinNum": 3234727,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "continual",
   "xId": "ContinualExp",
   "facebookId": "cellmining",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -21,5 +26,6 @@
       "lon": 35.007261967497165
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

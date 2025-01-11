@@ -6,21 +6,26 @@
   "logoFile": "logos/wiz_invest_a_m-logo.webp",
   "websiteUrl": "https://www.wiz.io/",
   "careersUrl": "https://www.wiz.io/careers",
-  "isHiring": true,
   "linkedinId": "wizsecurity",
+  "linkedinNum": 64890982,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "wiz",
   "xId": "wiz_io",
+  "facebookId": "wiz.io.sec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דניאל פריש",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0745855,
       "lon": 34.7832649
     }
   ],
   "isMultinational": false,
-  "facebookId": "wiz.io.sec",
-  "linkedinNum": 64890982
+  "isActive": true
 }

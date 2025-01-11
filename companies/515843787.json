@@ -6,21 +6,26 @@
   "logoFile": "logos/bny_mellon_tel_aviv-logo.webp",
   "websiteUrl": "https://www.bnymellon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bny-mellon",
+  "linkedinNum": 162750,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bny-mellon",
   "xId": "BNYMellon",
+  "facebookId": "bnymellon",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שץ גגה גרשון",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069126,
       "lon": 34.789123
     }
   ],
-  "isMultinational": true,
-  "facebookId": "bnymellon",
-  "linkedinNum": 162750
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "M.E.A. Testing Systems",
-  "description": "Dynamometers for Motor Testing",
+  "description": "Dynamometers for Motor Testing.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/m_e_a_testing_systems-logo.webp",
   "websiteUrl": "https://meatesting.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "motomea",
+  "linkedinNum": 17994625,
   "crunchbaseId": "mea-testing-systems",
+  "ivcId": "A1000000007017",
   "finderId": "m-e-a-testing-systems",
   "xId": null,
+  "facebookId": "MEAmotortesting",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגביש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MEAmotortesting",
-  "linkedinNum": 17994625
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Hour One AI",
-  "description": "AI-based Synthetic Video Platform",
+  "description": "AI-based Synthetic Video Platform.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/hour-one-ai.webp",
   "websiteUrl": "https://www.hourone.ai/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "hourone",
   "linkedinNum": 12633438,
   "crunchbaseId": null,
+  "ivcId": "A1000000294369",
   "finderId": "hour-one-ai",
   "xId": "HourOneAI",
   "facebookId": "houroneai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המסגר",
-      "houseNumber": 35,
-      "city": "תל אביב - יפו",
-      "lat": 32.06488512183789,
-      "lon": 34.785412834923285
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

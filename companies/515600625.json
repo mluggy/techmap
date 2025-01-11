@@ -6,11 +6,17 @@
   "logoFile": "logos/seatlabs-logo.webp",
   "websiteUrl": "https://seatpick.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11750862,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "seatlabs",
   "xId": "seatpick",
+  "facebookId": "SeatPick",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרוב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SeatPick",
-  "linkedinNum": 11750862
+  "isActive": true
 }

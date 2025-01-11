@@ -6,11 +6,17 @@
   "logoFile": "logos/kinbio-logo.webp",
   "websiteUrl": "https://kinbio.co.il/",
   "careersUrl": "https://kinbio.co.il/careers/",
-  "isHiring": true,
   "linkedinId": "kinbio",
+  "linkedinNum": 18997598,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kinbio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +25,7 @@
       "lat": 31.9132762,
       "lon": 34.8075468
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

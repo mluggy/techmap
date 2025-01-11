@@ -6,19 +6,26 @@
   "logoFile": "logos/novapulse-logo.webp",
   "websiteUrl": "https://www.novapulse.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000404408",
   "finderId": "novapulse",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שרון אריאל",
+      "street": "אריאל שרון",
       "houseNumber": 8,
-      "city": "אור יהודה",
-      "lat": 32.0215775,
-      "lon": 34.854526
+      "city": "גבעתיים",
+      "lat": 32.0799227,
+      "lon": 34.8008861
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

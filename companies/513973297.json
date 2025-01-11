@@ -6,21 +6,26 @@
   "logoFile": "logos/scodix-logo.webp",
   "websiteUrl": "https://scodix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "scodix",
+  "linkedinNum": 587748,
   "crunchbaseId": null,
+  "ivcId": "A1000000002171",
   "finderId": "scodix",
   "xId": "ScodixSense",
+  "facebookId": "Scodix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
-      "houseNumber": 13,
-      "city": "ראש העין",
-      "lat": 32.0970131,
-      "lon": 34.9105972
+      "street": "עבד אל כרים קאסם",
+      "houseNumber": null,
+      "city": "כפר קאסם",
+      "lat": 32.1091501,
+      "lon": 34.9624392
     }
   ],
   "isMultinational": false,
-  "facebookId": "Scodix",
-  "linkedinNum": 587748
+  "isActive": true
 }

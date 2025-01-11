@@ -6,21 +6,26 @@
   "logoFile": "logos/safemode_mobility-logo.webp",
   "websiteUrl": "https://www.safemode.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "safemodemobility",
+  "linkedinNum": 18100184,
   "crunchbaseId": "safemode",
+  "ivcId": "A1000000232158",
   "finderId": "safemode-mobility",
   "xId": "Safe__Mode",
+  "facebookId": "SafeModeMobility",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך קרית עמל",
-      "houseNumber": 22,
-      "city": "קריית טבעון",
-      "lat": 32.713332808649874,
-      "lon": 35.10385814624113
+      "street": "ד\"ר ג'ורג' וייז",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.1092748,
+      "lon": 34.8033493
     }
   ],
   "isMultinational": false,
-  "facebookId": "SafeModeMobility",
-  "linkedinNum": 18100184
+  "isActive": true
 }

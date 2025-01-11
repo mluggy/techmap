@@ -6,21 +6,26 @@
   "logoFile": "logos/strix_drones-logo.webp",
   "websiteUrl": "https://www.strixdrones.com/",
   "careersUrl": "https://www.strixdrones.com/careers-in-strix-drones",
-  "isHiring": true,
   "linkedinId": "strixdrones",
+  "linkedinNum": 56433179,
   "crunchbaseId": null,
+  "ivcId": "A1000000339327",
   "finderId": "strix-drone",
   "xId": null,
+  "facebookId": "Strix-Drones-106803158254406",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרימון",
-      "houseNumber": 130,
-      "city": "נווה ירק",
-      "lat": 32.1340833,
-      "lon": 34.9238792
+      "street": "הנגר",
+      "houseNumber": 1,
+      "city": "הוד השרון",
+      "lat": 32.1313257,
+      "lon": 34.893541
     }
   ],
   "isMultinational": false,
-  "facebookId": "Strix-Drones-106803158254406",
-  "linkedinNum": 56433179
+  "isActive": true
 }

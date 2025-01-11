@@ -6,22 +6,26 @@
   "logoFile": "logos/tipalti_solutions-logo.webp",
   "websiteUrl": "https://tipalti.com/",
   "careersUrl": "https://tipalti.com/careers/",
-  "isHiring": true,
   "linkedinId": "tipalti",
+  "linkedinNum": 1770643,
   "crunchbaseId": null,
+  "ivcId": "A1000000010075",
   "finderId": "tipalti",
   "xId": "tipalti",
+  "facebookId": "Tipalti",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "tipaltisolutions",
+  "leverId": null,
   "addresses": [
     {
-      "street": "רוזן פנחס",
+      "street": "פנחס רוזן",
       "houseNumber": 65,
-      "city": "תל אביב - יפו",
-      "lat": 32.1072592,
-      "lon": 34.8273286
+      "city": "תל אביב-יפו",
+      "lat": 32.1143404,
+      "lon": 34.8250777
     }
   ],
   "isMultinational": false,
-  "facebookId": "Tipalti",
-  "linkedinNum": 1770643,
-  "greenhouseId": "tipaltisolutions"
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/gaviti_akyl-logo.webp",
   "websiteUrl": "https://gaviti.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gaviti",
+  "linkedinNum": 10850993,
   "crunchbaseId": "gaviti",
+  "ivcId": "A1000000245073",
   "finderId": "gaviti",
   "xId": "gaviti_biz",
+  "facebookId": "gavitii",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מוזס יהודה ונח",
-      "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.075798,
-      "lon": 34.794728
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "gavitii",
-  "linkedinNum": 10850993
+  "isActive": true
 }

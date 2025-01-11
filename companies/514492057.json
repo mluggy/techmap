@@ -6,21 +6,26 @@
   "logoFile": "logos/gimmonix_technologies-logo.webp",
   "websiteUrl": "https://gimmonix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gimmonix",
+  "linkedinNum": 17979067,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gimmonix",
   "xId": "gimmonix",
+  "facebookId": "gimmonix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חרוץ",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063167479540034,
       "lon": 34.78915664745618
     }
   ],
   "isMultinational": false,
-  "facebookId": "gimmonix",
-  "linkedinNum": 17979067
+  "isActive": true
 }

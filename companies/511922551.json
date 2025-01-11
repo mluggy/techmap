@@ -1,26 +1,31 @@
 {
   "name": "KELA",
-  "description": "Comprehensive Cyber Intelligence Platform",
+  "description": "Kela is developing an innovative operating system for military systems.",
   "categoryId": 7,
-  "size": "m",
+  "size": "xs",
   "logoFile": "logos/kela_building_1994_ltd-logo.webp",
-  "websiteUrl": "https://www.ke-la.com",
-  "careersUrl": "https://www.kelacyber.com/career-kela/",
-  "isHiring": true,
+  "websiteUrl": "https://www.kelasys.com",
+  "careersUrl": null,
   "linkedinId": "kela-cyber",
+  "linkedinNum": 1205680,
   "crunchbaseId": null,
+  "ivcId": "A1000000485190",
   "finderId": "kela",
   "xId": "Intel_by_KELA",
+  "facebookId": "IntelByKELA",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "IntelByKELA",
-  "linkedinNum": 1205680
+  "isActive": true
 }

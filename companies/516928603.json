@@ -1,0 +1,31 @@
+{
+  "name": "Via.ai",
+  "description": "Via.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/via-ai-logo.webp",
+  "websiteUrl": "https://www.wearevia.ai",
+  "careersUrl": null,
+  "linkedinId": "via-ai",
+  "linkedinNum": 103425144,
+  "crunchbaseId": null,
+  "ivcId": "A1000000490627",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "סלע",
+      "houseNumber": 7,
+      "city": "רמת השרון",
+      "lat": 32.1415224,
+      "lon": 34.8349793
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,11 +6,17 @@
   "logoFile": "logos/payosu-logo.webp",
   "websiteUrl": "https://www.payosu.com/",
   "careersUrl": "https://valasciences.com/careers/",
-  "isHiring": true,
   "linkedinId": "payosu",
+  "linkedinNum": 10555661,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vala",
   "xId": "payosu",
+  "facebookId": "payosu",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בורלא יהודה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "payosu",
-  "linkedinNum": 10555661
+  "isActive": true
 }

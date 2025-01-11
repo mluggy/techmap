@@ -1,26 +1,31 @@
 {
   "name": "venturefy",
-  "description": "Utilizing artificial intelligence, the company offers a public wiki of verified corporate relationships.",
-  "categoryId": 1,
+  "description": "In stealth mode.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/venturefy_technologies-logo.webp",
-  "websiteUrl": "https://www.venturefy.com/",
+  "websiteUrl": "https://www.venturefy.tech",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "venturefyai",
+  "linkedinNum": 84529933,
   "crunchbaseId": "venturefy",
+  "ivcId": "A1000000387449",
   "finderId": "venturefy",
   "xId": "venturefy",
+  "facebookId": "venturefyai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כנפי נשרים",
-      "houseNumber": 68,
-      "city": "ירושלים",
-      "lat": 31.78761,
-      "lon": 35.18095954927904
+      "street": "החי\"ל",
+      "houseNumber": 9,
+      "city": "רמת גן",
+      "lat": 32.0675736,
+      "lon": 34.8226675
     }
   ],
   "isMultinational": false,
-  "facebookId": "venturefyai",
-  "linkedinNum": 84529933
+  "isActive": true
 }

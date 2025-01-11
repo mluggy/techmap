@@ -6,20 +6,26 @@
   "logoFile": "logos/candapi-logo.webp",
   "websiteUrl": "https://candapi.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "candapi",
+  "linkedinNum": 90895772,
   "crunchbaseId": null,
+  "ivcId": "A1000000387302",
   "finderId": "candapi",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בורנשטיין צבי",
-      "houseNumber": 16,
+      "street": "צבי בורנשטיין",
+      "houseNumber": null,
       "city": "ירוחם",
-      "lat": 30.9853286,
-      "lon": 34.9350394
+      "lat": 30.9878317,
+      "lon": 34.9287078
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90895772
+  "isActive": true
 }

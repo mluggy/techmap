@@ -1,16 +1,22 @@
 {
   "name": "Expander Digital",
-  "description": "Data-driven eCommerce Platform",
-  "categoryId": 14,
+  "description": "Expander has developed a robust platform that connects sophisticated market research, production and effective in-platform marketing.",
+  "categoryId": 8,
   "size": "m",
   "logoFile": "logos/expander-logo.webp",
-  "websiteUrl": "https://expander.com",
+  "websiteUrl": "https://expander.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "expanderdigital",
+  "linkedinNum": 71486674,
   "crunchbaseId": null,
+  "ivcId": "A1000000348019",
   "finderId": "expander",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבא הלל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71486674
+  "isActive": true
 }

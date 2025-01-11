@@ -6,21 +6,26 @@
   "logoFile": "logos/docktech-logo.webp",
   "websiteUrl": "https://www.docktech.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "docktech",
+  "linkedinNum": 11291094,
   "crunchbaseId": null,
+  "ivcId": "A1000000246806",
   "finderId": "docktech",
   "xId": "dock_tech",
+  "facebookId": "docktech99",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השלום",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.072245,
-      "lon": 34.796049
+      "street": "השלושה",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
     }
   ],
   "isMultinational": false,
-  "facebookId": "docktech99",
-  "linkedinNum": 11291094
+  "isActive": true
 }

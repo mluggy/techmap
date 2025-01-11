@@ -1,26 +1,31 @@
 {
   "name": "Securepush",
-  "description": "IoT Security Solutions",
+  "description": "IoT Security Solutions.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/securepush-logo.webp",
   "websiteUrl": "https://ioten.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "securepush",
+  "linkedinNum": 18167112,
   "crunchbaseId": "securepush-ltd",
+  "ivcId": "A1000000023995",
   "finderId": "securepush",
   "xId": null,
+  "facebookId": "ioten123",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך היוצרים",
-      "houseNumber": 10,
-      "city": "נהרייה",
-      "lat": 33.0341693,
-      "lon": 35.1031644
+      "street": null,
+      "houseNumber": null,
+      "city": "נהריה",
+      "lat": 33.0085361,
+      "lon": 35.0980514
     }
   ],
   "isMultinational": false,
-  "facebookId": "ioten123",
-  "linkedinNum": 18167112
+  "isActive": true
 }

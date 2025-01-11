@@ -1,0 +1,31 @@
+{
+  "name": "HyDroneTech",
+  "description": "HyDrones is a forward-thinking technology company that specializes in the development of innovative hydrogen drones with a power output of 5000 watts, designed to stay in the air for up to 150 minutes with a payload of 25 kilos.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/hydronetech-logo.webp",
+  "websiteUrl": "https://www.hydrontech.com",
+  "careersUrl": null,
+  "linkedinId": "hydrones-ltd",
+  "linkedinNum": 90985173,
+  "crunchbaseId": null,
+  "ivcId": "A1000000422168",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "חיפה",
+      "lat": 32.7940463,
+      "lon": 34.989571
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

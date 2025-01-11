@@ -6,21 +6,26 @@
   "logoFile": "logos/finnovest_financial_technologies-logo.webp",
   "websiteUrl": "https://www.finnovest.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "finnovest-financial-technologies",
+  "linkedinNum": 4992841,
   "crunchbaseId": "finnovest",
+  "ivcId": "A1000000024047",
   "finderId": "finnovest",
   "xId": null,
+  "facebookId": "finnovest",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יגיע כפיים",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617255,
-      "lon": 34.7821588
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "finnovest",
-  "linkedinNum": 4992841
+  "isActive": true
 }

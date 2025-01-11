@@ -1,16 +1,22 @@
 {
   "name": "Philips",
   "description": "Enhancing lives through innovative solutions in healthcare, consumer lifestyle, and lighting.",
-  "size": "l",
   "categoryId": 12,
+  "size": "l",
   "logoFile": "logos/philips_medical_systems_technologies-logo.webp",
   "websiteUrl": "https://www.philips.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "philips",
+  "linkedinNum": 1090,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "philips-health",
   "xId": "Philips",
+  "facebookId": "PhilipsIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית פיליפס",
@@ -20,7 +26,6 @@
       "lon": 34.95886360405169
     }
   ],
-  "isMultinational": true,
-  "facebookId": "PhilipsIsrael",
-  "linkedinNum": 1090
+  "isMultinational": false,
+  "isActive": true
 }

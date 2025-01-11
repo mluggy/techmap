@@ -1,0 +1,31 @@
+{
+  "name": "AffiliateBuddies",
+  "description": "AffiliateBuddies runs the entire affiliate program for online businesses from top to bottom.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/affiliatebuddies-logo.webp",
+  "websiteUrl": "http://www.affiliatets.com",
+  "careersUrl": "https://affiliatets.com/careers/",
+  "linkedinId": "affiliatets",
+  "linkedinNum": 5204857,
+  "crunchbaseId": null,
+  "ivcId": "A1000000187534",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב אריה שנקר",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1608042,
+      "lon": 34.810067
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

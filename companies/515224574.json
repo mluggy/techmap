@@ -1,0 +1,31 @@
+{
+  "name": "EpiTech",
+  "description": "Epitech MAG develops a noninvasive medical device and method for the treatment of dry eye syndrome.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/epitech-logo.webp",
+  "websiteUrl": "https://epitechmag.com",
+  "careersUrl": null,
+  "linkedinId": "epitech-mag-ltd.",
+  "linkedinNum": 17942686,
+  "crunchbaseId": null,
+  "ivcId": "A1000000182881",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עתיר ידע",
+      "houseNumber": 16,
+      "city": "כפר סבא",
+      "lat": 32.1616519,
+      "lon": 34.9340036
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

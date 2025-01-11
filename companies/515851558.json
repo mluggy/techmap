@@ -6,21 +6,26 @@
   "logoFile": "logos/stuff_that_works-logo.webp",
   "websiteUrl": "https://www.stuffthatworks.health/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "stuffthatworks",
+  "linkedinNum": 26223918,
   "crunchbaseId": null,
+  "ivcId": "A1000000266685",
   "finderId": "stuffthatworks",
   "xId": "StuffThatWorks1",
+  "facebookId": "StuffThatWorks1",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": 7711,
-      "city": "געש",
-      "lat": 32.2288879,
-      "lon": 34.8234798
+      "street": "ברנדייס",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.091152,
+      "lon": 34.7872048
     }
   ],
   "isMultinational": false,
-  "facebookId": "StuffThatWorks1",
-  "linkedinNum": 26223918
+  "isActive": true
 }

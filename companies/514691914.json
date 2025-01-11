@@ -6,21 +6,26 @@
   "logoFile": "logos/peerspot-logo.webp",
   "websiteUrl": "https://www.peerspot.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "it-central-station",
+  "linkedinNum": 2471045,
   "crunchbaseId": null,
+  "ivcId": "A1000000009604",
   "finderId": "it-central-station",
   "xId": "peerspot",
+  "facebookId": "PeerSpotdotcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות דם המכבים",
-      "houseNumber": 32,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.908826,
-      "lon": 35.0135269
+      "street": "האורג",
+      "houseNumber": null,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8844839,
+      "lon": 34.9614803
     }
   ],
   "isMultinational": false,
-  "facebookId": "PeerSpotdotcom",
-  "linkedinNum": 2471045
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/omnix_medical-logo.webp",
   "websiteUrl": "https://omnixmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "omnix-medical",
+  "linkedinNum": 13179766,
   "crunchbaseId": null,
+  "ivcId": "A1000000205174",
   "finderId": "omnix-medical",
   "xId": "MedicalOmnix",
+  "facebookId": "Omnix-Medical-Ltd-998177340289318",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פרופ רקח",
-      "houseNumber": 1,
+      "street": "שדרות וולפסון",
+      "houseNumber": 9,
       "city": "ירושלים",
-      "lat": 31.7679937,
-      "lon": 35.1973517
+      "lat": 31.7783817,
+      "lon": 35.1972593
     }
   ],
   "isMultinational": false,
-  "facebookId": "Omnix-Medical-Ltd-998177340289318",
-  "linkedinNum": 13179766
+  "isActive": true
 }

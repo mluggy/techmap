@@ -1,0 +1,31 @@
+{
+  "name": "IVT Medical",
+  "description": "IVT Medical is a medical device company that specializes in the research, design, and development of wound-healing technologies.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ivt-medical-logo.webp",
+  "websiteUrl": "http://www.topclosure.com",
+  "careersUrl": null,
+  "linkedinId": "ivt-medical",
+  "linkedinNum": 3518321,
+  "crunchbaseId": null,
+  "ivcId": "A1000000176955",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 16,
+      "city": "רעננה",
+      "lat": 32.196197,
+      "lon": 34.8845745
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

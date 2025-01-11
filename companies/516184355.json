@@ -6,21 +6,26 @@
   "logoFile": "logos/remotemdr-logo.webp",
   "websiteUrl": "https://www.remotemdr.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "remotemdr",
+  "linkedinNum": 51680835,
   "crunchbaseId": null,
+  "ivcId": "A1000000314988",
   "finderId": "remotemdr",
   "xId": "remotemdr",
+  "facebookId": "100063562781830",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הערבה",
-      "houseNumber": 1,
-      "city": "מסד",
-      "lat": 32.84352717800809,
-      "lon": 35.42274616774586
+      "street": "הצבר",
+      "houseNumber": null,
+      "city": "מגדל העמק",
+      "lat": 32.671768,
+      "lon": 35.235122
     }
   ],
   "isMultinational": false,
-  "facebookId": "100063562781830",
-  "linkedinNum": 51680835
+  "isActive": true
 }

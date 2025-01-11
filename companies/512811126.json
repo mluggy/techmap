@@ -1,16 +1,22 @@
 {
   "name": "Keysight",
   "description": "Keysight Technologies is a leading provider of electronic design and test solutions, enabling innovation and performance in the aerospace, defense, automotive, communications, and semiconductor industries.",
-  "size": "xl",
   "categoryId": 16,
+  "size": "xl",
   "logoFile": "logos/keysight_technologies_israel_1999-logo.webp",
   "websiteUrl": "https://www.keysight.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "keysight-technologies",
+  "linkedinNum": 3812750,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "keysight",
   "xId": "keysight",
+  "facebookId": "Keysight",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דולב",
@@ -20,7 +26,6 @@
       "lon": 34.8811357
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Keysight",
-  "linkedinNum": 3812750
+  "isMultinational": false,
+  "isActive": true
 }

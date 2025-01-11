@@ -6,21 +6,26 @@
   "logoFile": "logos/seatback_ergo-logo.webp",
   "websiteUrl": "https://seatback.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "seatback",
+  "linkedinNum": 12900240,
   "crunchbaseId": null,
+  "ivcId": "A1000000223079",
   "finderId": "seatback",
   "xId": null,
+  "facebookId": "SeatBack4u",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 45,
+      "street": "הנמל",
+      "houseNumber": 28,
       "city": "חיפה",
-      "lat": 32.819776250000004,
-      "lon": 34.9988252
+      "lat": 32.8193048,
+      "lon": 35.0004499
     }
   ],
   "isMultinational": false,
-  "facebookId": "SeatBack4u",
-  "linkedinNum": 12900240
+  "isActive": true
 }

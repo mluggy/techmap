@@ -6,21 +6,26 @@
   "logoFile": "logos/uniqai_systems-logo.webp",
   "websiteUrl": "https://www.uniqai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "uniqai-systems",
+  "linkedinNum": 10948540,
   "crunchbaseId": null,
+  "ivcId": "A1000000227801",
   "finderId": "uniqai-systems",
   "xId": null,
+  "facebookId": "uniqaiSystems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חביב אבשלום",
+      "street": "אבן חביב",
       "houseNumber": null,
-      "city": "תל אביב - יפו",
-      "lat": 32.12586646692336,
-      "lon": 34.796118802942225
+      "city": "רמת גן",
+      "lat": 32.0686557,
+      "lon": 34.8364259
     }
   ],
   "isMultinational": false,
-  "facebookId": "uniqaiSystems",
-  "linkedinNum": 10948540
+  "isActive": true
 }

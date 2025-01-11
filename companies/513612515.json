@@ -6,21 +6,26 @@
   "logoFile": "logos/brightmerge_israel-logo.webp",
   "websiteUrl": "https://www.brightmerge.com/",
   "careersUrl": "https://www.brightmerge.com/careers",
-  "isHiring": true,
   "linkedinId": "brightmerge",
+  "linkedinNum": 18372395,
   "crunchbaseId": "brightmerge",
+  "ivcId": "A1000000213929",
   "finderId": "brightmerge",
   "xId": "brightmerge",
+  "facebookId": "people",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות דם המכבים",
-      "houseNumber": 28,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.905411899999997,
-      "lon": 35.005662165798086
+      "street": "שד' המכבים",
+      "houseNumber": null,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8884913,
+      "lon": 35.0298492
     }
   ],
   "isMultinational": false,
-  "facebookId": "people",
-  "linkedinNum": 18372395
+  "isActive": true
 }

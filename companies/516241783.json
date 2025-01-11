@@ -6,20 +6,26 @@
   "logoFile": "logos/cynomi-logo.webp",
   "websiteUrl": "https://cynomi.com/",
   "careersUrl": "https://cynomi.com/careers/",
-  "isHiring": true,
   "linkedinId": "cynomi",
+  "linkedinNum": 65576047,
   "crunchbaseId": "cynomi",
+  "ivcId": "A1000000319343",
   "finderId": "cynomi",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הזז חיים",
-      "houseNumber": 16,
+      "street": "אריק איינשטיין",
+      "houseNumber": 3,
       "city": "הרצליה",
-      "lat": 32.1578284,
-      "lon": 34.8450089
+      "lat": 32.1628552,
+      "lon": 34.8148385
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 65576047
+  "isActive": true
 }

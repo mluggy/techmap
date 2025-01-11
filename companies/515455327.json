@@ -6,22 +6,26 @@
   "logoFile": "logos/tictuk_technologies-logo.webp",
   "websiteUrl": "https://www.tictuk.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tictuk",
+  "linkedinNum": 11744087,
   "crunchbaseId": "tictuk-technologies-ltd",
+  "ivcId": null,
   "finderId": "tictuk",
   "xId": null,
+  "facebookId": "tictuktech",
+  "breezyId": null,
+  "comeetId": "tictuk/78.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טיומקין",
       "houseNumber": 16,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063888,
       "lon": 34.779221
     }
   ],
   "isMultinational": false,
-  "facebookId": "tictuktech",
-  "linkedinNum": 11744087,
-  "comeetId": "tictuk/78.002"
+  "isActive": true
 }

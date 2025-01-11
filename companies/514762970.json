@@ -1,26 +1,31 @@
 {
   "name": "Booking.com",
   "description": "A leading online travel agency that helps travelers find and book accommodations, flights, car rentals, and other travel services worldwide.",
-  "size": "xl",
   "categoryId": 9,
+  "size": "xl",
   "logoFile": "logos/booking_com-logo.webp",
   "websiteUrl": "https://www.booking.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "booking.com",
+  "linkedinNum": 11348,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "booking-com",
   "xId": "bookingcom",
+  "facebookId": "bookingcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנחם בגין",
       "houseNumber": 146,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
   ],
-  "isMultinational": true,
-  "facebookId": "bookingcom",
-  "linkedinNum": 11348
+  "isMultinational": false,
+  "isActive": true
 }

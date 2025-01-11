@@ -6,18 +6,26 @@
   "logoFile": "logos/catch_d_i-logo.webp",
   "websiteUrl": "https://www.catchrestaurants.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "catch",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בן צבי",
       "houseNumber": 84,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.041932,
       "lon": 34.771818
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

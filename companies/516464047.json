@@ -1,25 +1,31 @@
 {
   "name": "Lavaa",
-  "description": "Preventive Care Engine Platform",
+  "description": "Preventive Care Engine Platform.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/lavaa-logo.webp",
   "websiteUrl": "https://www.lavaa.health/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lavaa",
+  "linkedinNum": 75588989,
   "crunchbaseId": null,
+  "ivcId": "A1000000364458",
   "finderId": "lavaa",
   "xId": "LAVAALABS",
+  "facebookId": "LAVAALABS",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שומשום",
-      "houseNumber": 7,
-      "city": "אבן יהודה",
-      "lat": 32.276492,
-      "lon": 34.8915466
+      "street": "הטחנה",
+      "houseNumber": 1,
+      "city": "כפר סבא",
+      "lat": 32.1735865,
+      "lon": 34.8914731
     }
   ],
   "isMultinational": false,
-  "facebookId": "LAVAALABS"
+  "isActive": true
 }

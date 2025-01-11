@@ -6,21 +6,26 @@
   "logoFile": "logos/check_point_software_technologies_ltd-logo.webp",
   "websiteUrl": "https://www.checkpoint.com/",
   "careersUrl": "https://careers.checkpoint.com/",
-  "isHiring": true,
   "linkedinId": "check-point-software-technologies",
+  "linkedinNum": 3090,
   "crunchbaseId": null,
+  "ivcId": "A1000000003592",
   "finderId": "check-point-software-technologies",
   "xId": "checkpointsw",
+  "facebookId": "checkpointsoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קפלן שלמה",
+      "street": "שלמה קפלן",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.0694253,
-      "lon": 34.7952639
+      "city": "תל אביב-יפו",
+      "lat": 32.0692589,
+      "lon": 34.7961576
     }
   ],
   "isMultinational": false,
-  "facebookId": "checkpointsoftware",
-  "linkedinNum": 3090
+  "isActive": true
 }

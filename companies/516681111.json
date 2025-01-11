@@ -6,12 +6,26 @@
   "logoFile": "logos/accessit-logo.webp",
   "websiteUrl": "https://accessitlibrary.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "accessitai",
+  "linkedinNum": 85645830,
   "crunchbaseId": null,
+  "ivcId": "A1000000413754",
   "finderId": "accessit",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "בית קמה",
+      "lat": 31.446566,
+      "lon": 34.762248
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 85645830
+  "isActive": true
 }

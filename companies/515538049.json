@@ -6,22 +6,26 @@
   "logoFile": "logos/viz_ai_israel-logo.webp",
   "websiteUrl": "https://www.viz.ai/",
   "careersUrl": "https://www.viz.ai/careers",
-  "isHiring": true,
   "linkedinId": "viz-ai",
+  "linkedinNum": 17897131,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "viz",
   "xId": "Viz_AI",
+  "facebookId": "viz.ai.stroke",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "vizai",
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0608197,
       "lon": 34.7771205
     }
   ],
   "isMultinational": false,
-  "facebookId": "viz.ai.stroke",
-  "linkedinNum": 17897131,
-  "greenhouseId": "vizai"
+  "isActive": true
 }

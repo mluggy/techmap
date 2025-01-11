@@ -1,26 +1,31 @@
 {
   "name": "A2Z Advanced Solutions",
-  "description": "Retail Smart Cart Solutions",
+  "description": "Retail Smart Cart Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/a_2_z_advanced_solutions-logo.webp",
   "websiteUrl": "https://a2zas.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "a2z-advanced-solutions",
+  "linkedinNum": 13057738,
   "crunchbaseId": "a2z-technologies-canada",
+  "ivcId": "A1000000322152",
   "finderId": "a2z-advanced-solutions",
   "xId": null,
+  "facebookId": "A2Z-Advanced-solutions-625403374574560",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "street": "הפרת",
+      "houseNumber": 2,
+      "city": "יבנה",
+      "lat": 31.8878034,
+      "lon": 34.7398507
     }
   ],
   "isMultinational": false,
-  "facebookId": "A2Z-Advanced-solutions-625403374574560",
-  "linkedinNum": 13057738
+  "isActive": true
 }

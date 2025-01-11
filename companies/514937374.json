@@ -1,16 +1,22 @@
 {
   "name": "Sumit",
-  "description": "Accounting Software for Office Management",
-  "categoryId": 10,
+  "description": "OfficeGuy is developing a platform for planning and managing accounting, CRM, credit and billing for SMEs, self-employed persons and NGOs.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/sumit_always_on_it-logo.webp",
-  "websiteUrl": "https://www.sumit.co.il/",
+  "websiteUrl": "https://www.myofficeguy.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "officeguyil",
+  "linkedinNum": 3536535,
   "crunchbaseId": null,
+  "ivcId": "A1000000024521",
   "finderId": "sumit",
   "xId": null,
+  "facebookId": "SUMIT.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מקור חיים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SUMIT.co.il",
-  "linkedinNum": 3536535
+  "isActive": true
 }

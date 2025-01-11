@@ -1,26 +1,31 @@
 {
   "name": "Retym",
-  "description": "Optical Communication Infrastructure",
+  "description": "Optical Communication Infrastructure.",
   "categoryId": 14,
   "size": "s",
-  "logoFile": "logos/retym.webp",
+  "logoFile": "logos/retym-logo.webp",
   "websiteUrl": "https://www.retym.com/",
   "careersUrl": "https://www.retym.com/careers/",
-  "isHiring": false,
-  "linkedinNum": null,
+  "linkedinId": "retym",
+  "linkedinNum": 74681728,
   "crunchbaseId": null,
+  "ivcId": "A1000000370095",
   "finderId": "retym",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": "retym/C6.003",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 82,
-      "city": "תל אביב - יפו",
-      "lat": 32.06630000269537,
-      "lon": 34.792886972624395
+      "city": "תל אביב-יפו",
+      "lat": 32.0662181,
+      "lon": 34.7928935
     }
   ],
   "isMultinational": false,
-  "comeetId": "retym/C6.003"
+  "isActive": true
 }

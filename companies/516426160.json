@@ -6,21 +6,26 @@
   "logoFile": "logos/weforesea-logo.webp",
   "websiteUrl": "https://mermadefoods.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mermade-seafoods",
+  "linkedinNum": 80031552,
   "crunchbaseId": "weforesea-ltd",
+  "ivcId": "A1000000381803",
   "finderId": "weforesea",
   "xId": null,
+  "facebookId": "MermadeSF",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ספיר פנחס",
+      "street": "פרופסור רקח",
       "houseNumber": 3,
-      "city": "נס ציונה",
-      "lat": 31.9145873,
-      "lon": 34.8035501
+      "city": "ירושלים",
+      "lat": 31.7685894,
+      "lon": 35.1977511
     }
   ],
   "isMultinational": false,
-  "facebookId": "MermadeSF",
-  "linkedinNum": 80031552
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/silexion_therapeutics-logo.webp",
   "websiteUrl": "https://silexion.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000001407",
   "finderId": "silexion-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המעיין",
       "houseNumber": 2,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.922288,
-      "lon": 34.9688892
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.921992,
+      "lon": 34.969105
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

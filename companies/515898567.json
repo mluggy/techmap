@@ -1,0 +1,31 @@
+{
+  "name": "AD Knight",
+  "description": "AD Knight solution improves pedestrian safety in obscured and low visibility scenarios, where common ADAS systems often fail to detect.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/ad-knight-logo.webp",
+  "websiteUrl": "https://www.ad-knight.com",
+  "careersUrl": null,
+  "linkedinId": "ad-knight",
+  "linkedinNum": 12582732,
+  "crunchbaseId": null,
+  "ivcId": "A1000000276016",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב דב הוז",
+      "houseNumber": 32,
+      "city": "הרצליה",
+      "lat": 32.1757378,
+      "lon": 34.8185446
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Mavvrik",
+  "description": "Mavvrik offers on-demand car wash services that suit the users' employee's busy schedule.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/mavvrik-logo.webp",
+  "websiteUrl": "https://www.mavvrik.com",
+  "careersUrl": null,
+  "linkedinId": "mavvrik",
+  "linkedinNum": 77602143,
+  "crunchbaseId": null,
+  "ivcId": "A1000000412625",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אליהו בית צורי",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.1224128,
+      "lon": 34.7982345
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

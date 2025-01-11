@@ -6,21 +6,26 @@
   "logoFile": "logos/artlist-logo.webp",
   "websiteUrl": "https://artlist.io/",
   "careersUrl": "https://www.artlistjobs.io/",
-  "isHiring": true,
   "linkedinId": "art-list",
+  "linkedinNum": 10694558,
   "crunchbaseId": null,
+  "ivcId": "A1000000309219",
   "finderId": "artlist",
   "xId": "Artlist_io",
+  "facebookId": "Artlist.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063537,
       "lon": 34.770085
     }
   ],
   "isMultinational": false,
-  "facebookId": "Artlist.io",
-  "linkedinNum": 10694558
+  "isActive": true
 }

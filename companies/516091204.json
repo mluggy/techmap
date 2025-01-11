@@ -1,25 +1,31 @@
 {
   "name": "Canopy",
-  "description": "Intelligent Care Platform for Oncology",
+  "description": "Canopy is a Pre-Clinical Biotech company, developing a novel Immunotherapeutic approach to Autoimmunity and Life-threatening Allergy.",
   "categoryId": 12,
-  "size": "s",
+  "size": "xs",
   "logoFile": "logos/canopy_immuno_therapeutics-logo.webp",
-  "websiteUrl": "https://www.canopycare.us/",
-  "careersUrl": "https://www.canopycare.us/careers",
-  "isHiring": true,
+  "websiteUrl": "http://www.canopy-biotech.com",
+  "careersUrl": null,
   "linkedinId": null,
+  "linkedinNum": 27230672,
   "crunchbaseId": null,
+  "ivcId": "A1000000309047",
   "finderId": "expain",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגלים",
       "houseNumber": 5,
-      "city": "מגדים",
-      "lat": 32.7324707,
-      "lon": 34.9569149
+      "city": "ארסוף",
+      "lat": 32.2150209,
+      "lon": 34.8159785
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27230672
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "GoodDeeds",
-  "description": "AI-Powered Virtual Assistants for NGOs",
-  "categoryId": 14,
+  "description": "GoodDeeds is on a mission to help communities prosper by organizing local giving. The company uses AI to empower social activism and volunteer work in local communities via an online platform.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/gooddeeds.webp",
-  "websiteUrl": "https://GoodDeeds.ai",
+  "websiteUrl": "https://gooddeeds.app",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "gooddeedsai",
   "linkedinNum": 90950690,
   "crunchbaseId": null,
+  "ivcId": "A1000000428864",
   "finderId": "gooddeeds",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך נמיר מרדכי",
-      "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.08101394384901,
-      "lon": 34.7938811137929
+      "street": "‫דרך נמיר מרדכי",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0786555,
+      "lon": 34.7928415
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

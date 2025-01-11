@@ -6,19 +6,26 @@
   "logoFile": "logos/plexivo-logo.webp",
   "websiteUrl": "https://plexivo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "plexivo",
+  "ivcId": null,
   "finderId": "plexivo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מיטב",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065561,
       "lon": 34.795362
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

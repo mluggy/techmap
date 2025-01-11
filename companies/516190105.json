@@ -1,24 +1,31 @@
 {
   "name": "SuperSpectra",
-  "description": "Noninvasive Imaging Device for Alzheimer's Disease",
+  "description": "Noninvasive Imaging Device for Alzheimer's Disease.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/super_spectra-logo.webp",
   "websiteUrl": "https://super-spectra.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000326843",
   "finderId": "superspectra",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נתניהו יהונתן",
-      "houseNumber": 6,
-      "city": "אור יהודה",
-      "lat": 32.0219296,
-      "lon": 34.8566055
+      "street": "לכיש",
+      "houseNumber": 155,
+      "city": "שוהם",
+      "lat": 32.0056324,
+      "lon": 34.9411702
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

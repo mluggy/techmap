@@ -6,21 +6,26 @@
   "logoFile": "logos/d_i_c_network_technologies-logo.webp",
   "websiteUrl": "https://www.mikmak.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "d-i-c-network-technologies",
+  "linkedinNum": 2822600,
   "crunchbaseId": null,
+  "ivcId": "A1000000240446",
   "finderId": "mikmak",
   "xId": null,
+  "facebookId": "MikWorld",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 25,
-      "city": "תל אביב - יפו",
-      "lat": 32.1116915,
-      "lon": 34.8423394
+      "city": "תל אביב-יפו",
+      "lat": 32.1095277,
+      "lon": 34.8400878
     }
   ],
   "isMultinational": false,
-  "facebookId": "MikWorld",
-  "linkedinNum": 2822600
+  "isActive": true
 }

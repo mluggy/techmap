@@ -6,18 +6,26 @@
   "logoFile": "logos/cannadorf-logo.webp",
   "websiteUrl": "https://cannadorf.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000299468",
   "finderId": "cannadorf",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יבנה",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
-      "lat": 32.065334,
-      "lon": 34.773294
+      "city": "תל אביב-יפו",
+      "lat": 32.0653138,
+      "lon": 34.7732611
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

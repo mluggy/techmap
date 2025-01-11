@@ -1,24 +1,31 @@
 {
   "name": "Marvin",
-  "description": "All-In-One Platform to a Sustainable Economy",
+  "description": "All-In-One Platform to a Sustainable Economy.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/marvin_technology_ventures-logo.webp",
   "websiteUrl": "https://www.marvinblue.earth/",
   "careersUrl": "https://www.marvin.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000445734",
   "finderId": "marvin",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": 28,
-      "city": "דור",
-      "lat": 32.6075668,
-      "lon": 34.9230461
+      "street": "בן יהודה",
+      "houseNumber": 32,
+      "city": "תל אביב-יפו",
+      "lat": 32.076317,
+      "lon": 34.7683587
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

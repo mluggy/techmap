@@ -6,21 +6,26 @@
   "logoFile": "logos/fermentek_ltd-logo.webp",
   "websiteUrl": "https://www.fermentek.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fermentek-biotechnology",
+  "linkedinNum": 10309193,
   "crunchbaseId": null,
+  "ivcId": "A1000000022278",
   "finderId": "fermentek",
   "xId": null,
+  "facebookId": "Fermentek",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יציב",
-      "houseNumber": 4,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.8541834,
-      "lon": 35.2150073
+      "lat": 31.768319,
+      "lon": 35.21371
     }
   ],
   "isMultinational": false,
-  "facebookId": "Fermentek",
-  "linkedinNum": 10309193
+  "isActive": true
 }

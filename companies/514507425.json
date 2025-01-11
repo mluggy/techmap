@@ -1,16 +1,22 @@
 {
   "name": "Nano Retina",
-  "description": "Artificial Retina",
+  "description": "Artificial Retina.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/nano_retina-logo.webp",
   "websiteUrl": "https://www.nano-retina.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nano-retina",
+  "linkedinNum": 1342098,
   "crunchbaseId": null,
+  "ivcId": "A1000000002960",
   "finderId": "nano-retina",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1342098
+  "isActive": true
 }

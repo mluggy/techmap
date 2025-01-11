@@ -6,21 +6,26 @@
   "logoFile": "logos/wishi_fashion-logo.webp",
   "websiteUrl": "https://www.wishi.me/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wishi",
+  "linkedinNum": 2405104,
   "crunchbaseId": null,
+  "ivcId": "A1000000001421",
   "finderId": "wishi",
   "xId": "thewishi",
+  "facebookId": "TheWiShi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רופא המחתרות",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.099826,
-      "lon": 34.784571
+      "street": "המלך ג'ורג'",
+      "houseNumber": 48,
+      "city": "תל אביב-יפו",
+      "lat": 32.0743413,
+      "lon": 34.7758535
     }
   ],
   "isMultinational": false,
-  "facebookId": "TheWiShi",
-  "linkedinNum": 2405104
+  "isActive": true
 }

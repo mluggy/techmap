@@ -1,16 +1,22 @@
 {
   "name": "Ofra Aqua Plants",
-  "description": "Ecologic Water and Wastewater Purification Systems",
+  "description": "Ecologic Water and Wastewater Purification Systems.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/ofra_aqua_plants_ltd-logo.webp",
   "websiteUrl": "https://www.ofra-aqua.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "ofra-aqua-plants",
+  "ivcId": "A1000000002272",
   "finderId": "ofra-aqua-plants",
   "xId": null,
+  "facebookId": "100063646132485",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריש לקיש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "100063646132485"
+  "isActive": true
 }

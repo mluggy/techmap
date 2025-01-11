@@ -1,0 +1,31 @@
+{
+  "name": "MiZeMi",
+  "description": "MiZeMi is a location-based application for people.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/mizemi-logo.webp",
+  "websiteUrl": "https://mizemi.app",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000419865",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 72,
+      "city": "תל אביב-יפו",
+      "lat": 32.0649872,
+      "lon": 34.7766383
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

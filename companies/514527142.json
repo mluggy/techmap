@@ -6,21 +6,26 @@
   "logoFile": "logos/vi_labs-logo.webp",
   "websiteUrl": "https://vi.co/",
   "careersUrl": "https://vi.co/careers/",
-  "isHiring": true,
   "linkedinId": "vi",
+  "linkedinNum": 2361966,
   "crunchbaseId": null,
+  "ivcId": "A1000000009427",
   "finderId": "vi-labs",
   "xId": "vi_trainer",
+  "facebookId": "LifeatVi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הארבעה",
-      "houseNumber": 16,
-      "city": "תל אביב - יפו",
-      "lat": 32.070295,
-      "lon": 34.784752
+      "street": "ראול ולנברג",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.1071101,
+      "lon": 34.8345184
     }
   ],
   "isMultinational": false,
-  "facebookId": "LifeatVi",
-  "linkedinNum": 2361966
+  "isActive": true
 }

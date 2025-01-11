@@ -6,21 +6,26 @@
   "logoFile": "logos/double_shoot-logo.webp",
   "websiteUrl": "https://www.double-shoot.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "doubleshoot",
+  "linkedinNum": 71531211,
   "crunchbaseId": null,
+  "ivcId": "A1000000266548",
   "finderId": "double-shoot",
   "xId": null,
+  "facebookId": "100032452552513&paipv=0&eav=Afaa-olIx1dQBro9pA4Ycw8ufIqZyle-yT20aPIApLRZhp97QOc15JgoKZvj7ZLYIPM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חצב",
-      "houseNumber": 2,
-      "city": "נווה זיו",
-      "lat": 33.026767050000004,
-      "lon": 35.1864775961376
+      "street": "המייסדים",
+      "houseNumber": 36,
+      "city": "זכרון יעקב",
+      "lat": 32.5720105,
+      "lon": 34.9541966
     }
   ],
   "isMultinational": false,
-  "facebookId": "100032452552513&paipv=0&eav=Afaa-olIx1dQBro9pA4Ycw8ufIqZyle-yT20aPIApLRZhp97QOc15JgoKZvj7ZLYIPM",
-  "linkedinNum": 71531211
+  "isActive": true
 }

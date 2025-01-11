@@ -6,21 +6,26 @@
   "logoFile": "logos/stellarnova-logo.webp",
   "websiteUrl": "https://stellarnova.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "stellarnova",
+  "linkedinNum": 27096105,
   "crunchbaseId": null,
+  "ivcId": "A1000000184586",
   "finderId": "the-know-it-alls",
   "xId": "StellarNovaCO",
+  "facebookId": "stellarnova.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד בן מימון",
-      "houseNumber": 17,
-      "city": "ירושלים",
-      "lat": 31.773844167982816,
-      "lon": 35.21388334692043
+      "street": null,
+      "houseNumber": null,
+      "city": "רחובות",
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "facebookId": "stellarnova.co",
-  "linkedinNum": 27096105
+  "isActive": true
 }

@@ -3,23 +3,29 @@
   "description": "A fully automated and Amazon-compliant solution for effortlessly gathering product reviews and seller feedback to enhance efficiency and growth.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/lonesome_labs-logo.webp",
+  "logoFile": "logos/lonesome-labs-logo.webp",
   "websiteUrl": "https://lonesomelabs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lonesome-labs",
+  "linkedinNum": 73180287,
   "crunchbaseId": "lonesome-labs",
+  "ivcId": null,
   "finderId": "lonesome-labs",
   "xId": null,
+  "facebookId": "Lonesomelabs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מינץ בנימין",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06949430005784,
       "lon": 34.77042276768771
     }
   ],
   "isMultinational": false,
-  "facebookId": "Lonesomelabs"
+  "isActive": true
 }

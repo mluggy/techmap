@@ -1,16 +1,22 @@
 {
   "name": "TimeStamp",
-  "description": "Smart Sticker Technology for Tracking Medication Adherence",
+  "description": "Smart Sticker Technology for Tracking Medication Adherence.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/timestamp-logo.webp",
   "websiteUrl": "https://www.timestamp-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "timestamp-real-life-adherence-assesment",
+  "linkedinNum": 11806925,
   "crunchbaseId": null,
+  "ivcId": "A1000000314949",
   "finderId": "timestamp",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנת היובל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11806925
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/tinytap-logo.webp",
   "websiteUrl": "https://www.tinytap.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tinytap",
+  "linkedinNum": 2791852,
   "crunchbaseId": null,
+  "ivcId": "A1000000020495",
   "finderId": "tinytap",
   "xId": "TinyTapIt",
+  "facebookId": "tinytapit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנצי\"ב",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.068149,
-      "lon": 34.789976
+      "city": "תל אביב-יפו",
+      "lat": 32.0682734,
+      "lon": 34.7900066
     }
   ],
   "isMultinational": false,
-  "facebookId": "tinytapit",
-  "linkedinNum": 2791852
+  "isActive": true
 }

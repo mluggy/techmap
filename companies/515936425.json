@@ -6,12 +6,17 @@
   "logoFile": "logos/meadow.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "meadowtechnology",
   "linkedinNum": 43258291,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "meadow",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אין רחובות",
@@ -21,5 +26,6 @@
       "lon": 34.943477975907314
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

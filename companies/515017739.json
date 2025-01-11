@@ -6,12 +6,17 @@
   "logoFile": "logos/modularity.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "modularity-ltd",
   "linkedinNum": 13187007,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "modularity",
   "xId": null,
   "facebookId": "modularity.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -21,5 +26,6 @@
       "lon": 34.81483030476735
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

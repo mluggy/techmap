@@ -1,24 +1,31 @@
 {
   "name": "Logtopus",
-  "description": "Automated Storage & Retrieval Systems",
+  "description": "Automated Storage & Retrieval Systems.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/logtopus-logo.webp",
   "websiteUrl": "https://logtopus.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000425267",
   "finderId": "logtopus",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגדוד העברי",
       "houseNumber": 31,
       "city": "ראשון לציון",
-      "lat": 31.9711743,
-      "lon": 34.8101786
+      "lat": 31.9656254,
+      "lon": 34.8101683
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

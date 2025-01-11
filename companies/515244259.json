@@ -6,21 +6,26 @@
   "logoFile": "logos/ipulse_medical-logo.webp",
   "websiteUrl": "https://mylivia.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18854081,
   "crunchbaseId": null,
+  "ivcId": "A1000000213577",
   "finderId": "ipulse-medical",
   "xId": "mylivia_",
+  "facebookId": "MyLiviaOfficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רחל",
-      "houseNumber": 9,
-      "city": "טבריה",
-      "lat": 32.7952739,
-      "lon": 35.5303941
+      "street": null,
+      "houseNumber": null,
+      "city": "רעננה",
+      "lat": 32.1923797,
+      "lon": 34.8745337
     }
   ],
   "isMultinational": false,
-  "facebookId": "MyLiviaOfficial",
-  "linkedinNum": 18854081
+  "isActive": true
 }

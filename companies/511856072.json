@@ -1,26 +1,31 @@
 {
   "name": "Pazkar",
-  "description": "Waterproofing and Insulation Products Manufacturer",
+  "description": "Waterproofing and Insulation Products Manufacturer.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/pazkar_marketing_1993_ltd-logo.webp",
   "websiteUrl": "https://www.pazkar.co.il/en/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pazkar",
+  "linkedinNum": 80894649,
   "crunchbaseId": null,
+  "ivcId": "A1000000024159",
   "finderId": "pazkar",
   "xId": null,
+  "facebookId": "PazkarWaterproofing",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ההדסים",
-      "houseNumber": 2,
+      "street": "אלון",
+      "houseNumber": null,
       "city": "עפולה",
-      "lat": 32.613145042952205,
-      "lon": 35.28804613265434
+      "lat": 32.6360589,
+      "lon": 35.35782380000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "PazkarWaterproofing",
-  "linkedinNum": 80894649
+  "isActive": true
 }

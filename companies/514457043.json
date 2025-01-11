@@ -1,26 +1,31 @@
 {
   "name": "Just Manage",
-  "description": "Management Tool for Construction",
+  "description": "Management Tool for Construction.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/just_manage-logo.webp",
   "websiteUrl": "https://www.justmanage.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "just-manage",
+  "linkedinNum": 10542873,
   "crunchbaseId": null,
+  "ivcId": "A1000000231794",
   "finderId": "just-manage",
   "xId": null,
+  "facebookId": "Just2Manage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עין התכלת",
-      "houseNumber": 1,
-      "city": "חירות",
-      "lat": 32.24220105686256,
-      "lon": 34.90939442287974
+      "street": null,
+      "houseNumber": null,
+      "city": "חרות",
+      "lat": 32.240973,
+      "lon": 34.914127
     }
   ],
   "isMultinational": false,
-  "facebookId": "Just2Manage",
-  "linkedinNum": 10542873
+  "isActive": true
 }

@@ -6,12 +6,26 @@
   "logoFile": "logos/capsule_minimal-logo.webp",
   "websiteUrl": "https://www.capsuleminimal.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "capsule-minimal",
+  "linkedinNum": 86405736,
   "crunchbaseId": null,
+  "ivcId": "A1000000427421",
   "finderId": "capsule-minimal",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "עין הנצי\"ב",
+      "lat": 32.47071,
+      "lon": 35.501973
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 86405736
+  "isActive": true
 }

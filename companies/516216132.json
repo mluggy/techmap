@@ -6,21 +6,26 @@
   "logoFile": "logos/returngo-logo.webp",
   "websiteUrl": "https://returngo.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "returngo",
+  "linkedinNum": 67902660,
   "crunchbaseId": "returngo-ai",
+  "ivcId": "A1000000330930",
   "finderId": "returngo",
   "xId": "returngoai",
+  "facebookId": "returngoai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תובל",
+      "street": "street",
       "houseNumber": 19,
-      "city": "רמת גן",
-      "lat": 32.08442285,
-      "lon": 34.802311095330936
+      "city": "Tel Aviv-Yafo",
+      "lat": 32.0846998,
+      "lon": 34.8022218
     }
   ],
   "isMultinational": false,
-  "facebookId": "returngoai",
-  "linkedinNum": 67902660
+  "isActive": true
 }

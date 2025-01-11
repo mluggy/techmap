@@ -1,16 +1,22 @@
 {
   "name": "Castify",
-  "description": "Video Content Distribution Platform",
+  "description": "Video Content Distribution Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/castify-logo.webp",
   "websiteUrl": "https://castify.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "castify-ai",
+  "linkedinNum": 42295297,
   "crunchbaseId": null,
+  "ivcId": "A1000000347200",
   "finderId": "castify",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42295297
+  "isActive": true
 }

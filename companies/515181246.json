@@ -1,16 +1,22 @@
 {
   "name": "EchoCare Technologies",
-  "description": "Noninvasive Home Monitoring System for Seniors",
+  "description": "EchoCare develops a non-wearable home monitoring system that automatically detects and alerts on various emergencies such as falls and abnormal situations such as deviations in the activities of daily living.",
   "categoryId": 12,
-  "size": "s",
+  "size": "xs",
   "logoFile": "logos/echocare_technologies-logo.webp",
-  "websiteUrl": "https://www.echocare-tech.com/",
+  "websiteUrl": "https://echocare.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "echocare-technologies",
+  "linkedinNum": 9349377,
   "crunchbaseId": null,
+  "ivcId": "A1000000180676",
   "finderId": "echocare",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 9349377
+  "isActive": true
 }

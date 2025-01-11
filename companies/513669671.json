@@ -6,11 +6,17 @@
   "logoFile": "logos/conduit-logo.webp",
   "websiteUrl": "https://www.como.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3281559,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "conduit",
   "xId": "Como",
+  "facebookId": "Como",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Como",
-  "linkedinNum": 3281559
+  "isActive": true
 }

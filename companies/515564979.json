@@ -6,21 +6,26 @@
   "logoFile": "logos/boldwin_ltd-logo.webp",
   "websiteUrl": "https://bold-win.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "boldwin-ltd",
+  "linkedinNum": 17912334,
   "crunchbaseId": "boldwin",
+  "ivcId": "A1000000236958",
   "finderId": "boldwin",
   "xId": null,
+  "facebookId": "Boldwin-LTD-1191657464285828",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המרץ",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.05125,
-      "lon": 34.7726981
+      "street": "הפלך",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.0503025,
+      "lon": 34.7666856
     }
   ],
   "isMultinational": false,
-  "facebookId": "Boldwin-LTD-1191657464285828",
-  "linkedinNum": 17912334
+  "isActive": true
 }

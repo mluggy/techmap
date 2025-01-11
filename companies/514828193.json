@@ -1,0 +1,31 @@
+{
+  "name": "Blue Power",
+  "description": "Blue Power is dedicated to renewable energies all around the world.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/blue-power-logo.webp",
+  "websiteUrl": "https://bluepower.energy",
+  "careersUrl": null,
+  "linkedinId": "bluepower-energy",
+  "linkedinNum": 12994950,
+  "crunchbaseId": null,
+  "ivcId": "A1000000450672",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן יהודה",
+      "houseNumber": 34,
+      "city": "ירושלים",
+      "lat": 31.7812475,
+      "lon": 35.2155456
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

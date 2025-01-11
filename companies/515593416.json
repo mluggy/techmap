@@ -1,16 +1,22 @@
 {
   "name": "CHKP",
-  "description": "Dairy Alternative Products",
+  "description": "Dairy Alternative Products.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/chkp_food_innovation-logo.webp",
   "websiteUrl": "https://www.chkpfoods.com/",
   "careersUrl": "https://planterra.com/company/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "chkpfoods",
+  "linkedinNum": 71544910,
   "crunchbaseId": null,
+  "ivcId": "A1000000338467",
   "finderId": "planterra",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארז",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71544910
+  "isActive": true
 }

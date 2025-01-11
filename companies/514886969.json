@@ -6,22 +6,26 @@
   "logoFile": "logos/forter-logo.webp",
   "websiteUrl": "https://www.forter.com/",
   "careersUrl": "https://www.forter.com/careers/",
-  "isHiring": true,
   "linkedinId": "forter",
+  "linkedinNum": 5071248,
   "crunchbaseId": "forter",
+  "ivcId": null,
   "finderId": "forter",
   "xId": "ForterGlobal",
+  "facebookId": "globalforter",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "forter",
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "greenhouseId": "forter",
-  "facebookId": "globalforter",
-  "linkedinNum": 5071248
+  "isActive": true
 }

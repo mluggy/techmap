@@ -1,0 +1,31 @@
+{
+  "name": "Legacy Capital",
+  "description": "Legacy Capital is a technology real estate company specializing in project initiation around the world, using a system developed to identify investment opportunities that yield high returns with minimum risk.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/legacy_capital-logo.webp",
+  "websiteUrl": "https://www.legacycapital.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000335472",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ג'ורג' וושינגטון",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.773533,
+      "lon": 35.2214223
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

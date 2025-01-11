@@ -1,0 +1,31 @@
+{
+  "name": "ProPhet",
+  "description": "ProPhet is an AI-driven company, transforming small molecule drug discovery with a focus on proteins that are hard to target.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/prophet-logo.webp",
+  "websiteUrl": "https://pro-phet.com",
+  "careersUrl": null,
+  "linkedinId": "pro-phet",
+  "linkedinNum": 105102824,
+  "crunchbaseId": null,
+  "ivcId": "A1000000490242",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אופנהיימר",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.1188697,
+      "lon": 34.800212
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

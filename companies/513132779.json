@@ -6,20 +6,26 @@
   "logoFile": "logos/cellint-logo.webp",
   "websiteUrl": "https://www.cellint.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cellint-traffic-solutions",
+  "linkedinNum": 215036,
   "crunchbaseId": null,
+  "ivcId": "A1000000004895",
   "finderId": "cellint",
   "xId": "Cellint1",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בת שבע",
       "houseNumber": 1,
       "city": "לוד",
-      "lat": 31.9530326,
-      "lon": 34.88971251534439
+      "lat": 31.9533935,
+      "lon": 34.8917808
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 215036
+  "isActive": true
 }

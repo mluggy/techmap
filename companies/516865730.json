@@ -1,0 +1,31 @@
+{
+  "name": "Sanjer AI",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/sanjer_ai-logo.webp",
+  "websiteUrl": "https://sanjer.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000471603",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יהודה מרגוזה",
+      "houseNumber": 33,
+      "city": "תל אביב-יפו",
+      "lat": 32.0509689,
+      "lon": 34.7532595
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

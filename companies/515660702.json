@@ -6,19 +6,26 @@
   "logoFile": "logos/neurai-logo.webp",
   "websiteUrl": "https://www.neu-rai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "neurai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוזנבלום הרצל",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.138242,
       "lon": 34.790435
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

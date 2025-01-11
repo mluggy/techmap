@@ -1,16 +1,22 @@
 {
   "name": "PlastART Medical",
-  "description": "Specializing in advanced thermoplastic films, this seasoned company leverages over three decades of expertise to offer tailored solutions across Medical, Life Science, Cosmetics, Foodtech, Agrotech sectors, enhancing product performance and longevity.",
-  "categoryId": 12,
-  "size": "s",
+  "description": "CannabiDose is at the forefront of cannabinoid dosing solutions.",
+  "categoryId": 17,
+  "size": "xs",
   "logoFile": "logos/plastart-logo.webp",
-  "websiteUrl": "https://www.plastart-medical.com/",
+  "websiteUrl": "https://cannabi-dose.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "plastart",
+  "linkedinNum": 1187127,
   "crunchbaseId": null,
+  "ivcId": "A1000000282472",
   "finderId": "plastart",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התע\"ש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1187127
+  "isActive": true
 }

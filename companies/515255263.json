@@ -6,11 +6,17 @@
   "logoFile": "logos/briefery-logo.webp",
   "websiteUrl": "https://www.briefery.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "briefery",
+  "linkedinNum": 10284218,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "briefery",
   "xId": null,
+  "facebookId": "briefery",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית העם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "briefery",
-  "linkedinNum": 10284218
+  "isActive": true
 }

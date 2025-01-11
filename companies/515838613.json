@@ -1,16 +1,22 @@
 {
   "name": "Reflect Innovation",
-  "description": "Biofeedback-based Stress Management",
+  "description": "Reflect Innovation is a mental health-tech startup creating a groundbreaking biofeedback-based mindfulness experience for enhancing emotional health and wellbeing. .",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/reflect_innovation-logo.webp",
-  "websiteUrl": "https://reflectinnovation.com/",
+  "websiteUrl": "https://www.meetreflect.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "reflect-innovation",
+  "linkedinNum": 18664670,
   "crunchbaseId": "reflect-innovation",
+  "ivcId": "A1000000280738",
   "finderId": "reflect-innovation",
   "xId": null,
+  "facebookId": "reflectinnovation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המנופים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "reflectinnovation",
-  "linkedinNum": 18664670
+  "isActive": true
 }

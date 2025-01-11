@@ -6,11 +6,17 @@
   "logoFile": "logos/cloudwize_owl-logo.webp",
   "websiteUrl": "https://www.cloudwize.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cloudwize-io",
+  "linkedinNum": 18855115,
   "crunchbaseId": "cloudwize",
+  "ivcId": "A1000000298472",
   "finderId": "cloudwize",
   "xId": "cloud_wize",
+  "facebookId": "CloudWize.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תאשור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CloudWize.io",
-  "linkedinNum": 18855115
+  "isActive": true
 }

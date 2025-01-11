@@ -1,0 +1,31 @@
+{
+  "name": "Liliger",
+  "description": "Liliger has developed a science-based line of cosmeceuticals, which renews the skin, while simultaneously extends the effects of cosmetic treatments for maintaining a young & radiant appearance for an extended period.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/liliger-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000417411",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב רחבעם זאבי",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.1622049,
+      "lon": 34.828046
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

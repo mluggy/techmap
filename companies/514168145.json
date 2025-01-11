@@ -6,21 +6,26 @@
   "logoFile": "logos/controlup_technologies-logo.webp",
   "websiteUrl": "https://www.controlup.com/",
   "careersUrl": "https://www.controlup.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "controlup-technology",
+  "linkedinNum": 295466,
   "crunchbaseId": null,
+  "ivcId": "A1000000001962",
   "finderId": "controlup",
   "xId": "ControlUp",
+  "facebookId": "ControllingUp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות נים",
       "houseNumber": 2,
       "city": "ראשון לציון",
-      "lat": 31.949713600000003,
-      "lon": 34.80328505744155
+      "lat": 31.95017679999999,
+      "lon": 34.8029427
     }
   ],
   "isMultinational": false,
-  "facebookId": "ControllingUp",
-  "linkedinNum": 295466
+  "isActive": true
 }

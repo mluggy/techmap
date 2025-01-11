@@ -6,21 +6,26 @@
   "logoFile": "logos/corephotonics-logo.webp",
   "websiteUrl": "https://corephotonics.com/",
   "careersUrl": "https://corephotonics.com/careers/",
-  "isHiring": true,
   "linkedinId": "corephotonics-ltd",
+  "linkedinNum": 2948111,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "corephotonics",
   "xId": "Corephotonics",
+  "facebookId": "Corephotonics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 146,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
   ],
   "isMultinational": false,
-  "facebookId": "Corephotonics",
-  "linkedinNum": 2948111
+  "isActive": true
 }

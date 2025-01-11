@@ -6,21 +6,26 @@
   "logoFile": "logos/astrix_security-logo.webp",
   "websiteUrl": "https://astrix.security/",
   "careersUrl": "https://astrix.security/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "astrix-security",
+  "linkedinNum": 78319864,
   "crunchbaseId": null,
+  "ivcId": "A1000000378522",
   "finderId": "astrix-security",
   "xId": "AstrixSecurity",
+  "facebookId": "AstrixSec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הזוהר",
-      "houseNumber": 43,
-      "city": "תל אביב - יפו",
-      "lat": 32.09643,
-      "lon": 34.79478
+      "street": "יגאל אלון",
+      "houseNumber": 112,
+      "city": "תל אביב-יפו",
+      "lat": 32.0720592,
+      "lon": 34.7946594
     }
   ],
   "isMultinational": false,
-  "facebookId": "AstrixSec",
-  "linkedinNum": 78319864
+  "isActive": true
 }

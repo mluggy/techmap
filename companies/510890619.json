@@ -3,16 +3,29 @@
   "description": "Plaster and Adhesive Materials",
   "categoryId": 14,
   "size": "s",
-  "logoFile": "logos/termokir_industries_1980-logo.webp",
+  "logoFile": "logos/termokir-logo.webp",
   "websiteUrl": "https://termokir.co.il/en/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "termokir",
+  "linkedinNum": 2883688,
   "crunchbaseId": "termokir",
+  "ivcId": null,
   "finderId": "termokir",
   "xId": "termokir",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "termokir",
-  "linkedinNum": 2883688
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ חורשים",
+      "lat": 32.13871396101985,
+      "lon": 34.970893483371604
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

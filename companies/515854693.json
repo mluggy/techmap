@@ -6,11 +6,17 @@
   "logoFile": "logos/cheetahlabs_haifa-logo.webp",
   "websiteUrl": "https://cheetah-labs.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cheetahlabs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מעלה השחרור",
@@ -20,5 +26,6 @@
       "lon": 35.0000688
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

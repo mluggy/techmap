@@ -6,21 +6,26 @@
   "logoFile": "logos/deepdub-logo.webp",
   "websiteUrl": "https://deepdub.ai/",
   "careersUrl": "https://deepdub.ai/careers",
-  "isHiring": true,
   "linkedinId": "deepdub-ai",
+  "linkedinNum": 37251475,
   "crunchbaseId": null,
+  "ivcId": "A1000000321173",
   "finderId": "deepdub",
   "xId": "deepdub_ai",
+  "facebookId": "deepdub.ai.company",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החשמונאים",
-      "houseNumber": 91,
-      "city": "תל אביב - יפו",
-      "lat": 32.069753,
-      "lon": 34.7830543
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.07939100000001,
+      "lon": 34.793797
     }
   ],
   "isMultinational": false,
-  "facebookId": "deepdub.ai.company",
-  "linkedinNum": 37251475
+  "isActive": true
 }

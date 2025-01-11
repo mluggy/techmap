@@ -1,16 +1,22 @@
 {
   "name": "HyFeed",
-  "description": "We specialize in premium, GM-free equine feeds crafted from the finest local ingredients using extrusion and cold pressing techniques.",
-  "categoryId": 9,
+  "description": "HyFeed is an automatic animal feeder, powered by regular domestic running water.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/hyfeed-logo.webp",
-  "websiteUrl": "https://www.hyfeed.com.au/",
+  "websiteUrl": "https://maoftech.org.il/en/startups/hyfeed",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000305360",
   "finderId": "hyfeed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקאי",
@@ -20,5 +26,6 @@
       "lon": 34.8251882
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

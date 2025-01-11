@@ -1,17 +1,31 @@
 {
   "name": "Licompass Tech",
-  "description": "Safe City System and App",
+  "description": "Safe City System and App.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/licompass-logo.webp",
   "websiteUrl": "https://my-city.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18911567,
   "crunchbaseId": null,
+  "ivcId": "A1000000214604",
   "finderId": "licompass",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "שפרעם",
+      "lat": 32.8035805,
+      "lon": 35.1732997
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 18911567
+  "isActive": true
 }

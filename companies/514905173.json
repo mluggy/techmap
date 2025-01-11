@@ -1,23 +1,31 @@
 {
   "name": "M D S Wireless Technologies",
-  "description": "Intelligent Boiler Management Switch.",
-  "categoryId": 13,
+  "description": "MDS developed an app that connect the users' Switcher to control the boiler switch on their Iphone.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/m_d_s_wireless_technologies-logo.webp",
-  "websiteUrl": "https://mds.wirelessvision.com/",
+  "websiteUrl": "https://switcher.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000192299",
   "finderId": "m-d-s-wireless",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית אלפא",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.065572,
-      "lon": 34.789141
+      "city": "תל אביב-יפו",
+      "lat": 32.0655787,
+      "lon": 34.78938550000001
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

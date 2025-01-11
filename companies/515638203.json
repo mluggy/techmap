@@ -6,11 +6,17 @@
   "logoFile": "logos/aseptoray-logo.webp",
   "websiteUrl": "https://www.aseptoray.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aseptoray",
+  "linkedinNum": 10175078,
   "crunchbaseId": null,
+  "ivcId": "A1000000024632",
   "finderId": "aseptoray",
   "xId": "AseptoRay1",
+  "facebookId": "AseptoRay-116288289743863",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איזור התעשיה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AseptoRay-116288289743863",
-  "linkedinNum": 10175078
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Terrific",
-  "description": "Live Shopping Platform",
+  "description": "Live Shopping Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/terrific_digital_marketing-logo.webp",
   "websiteUrl": "https://www.terrificlive.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "terrific-digital",
+  "linkedinNum": 72145691,
   "crunchbaseId": null,
+  "ivcId": "A1000000413076",
   "finderId": "terrific",
   "xId": null,
+  "facebookId": "terrificapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הארבעה",
+      "street": "שמגר",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.0705297,
-      "lon": 34.7872761
+      "city": "ירושלים",
+      "lat": 31.794574,
+      "lon": 35.2078489
     }
   ],
   "isMultinational": false,
-  "facebookId": "terrificapp",
-  "linkedinNum": 72145691
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/edgehawk_security-logo.webp",
   "websiteUrl": "https://edgehawk.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "edgehawk-security",
+  "linkedinNum": 71556894,
   "crunchbaseId": "edgehawk-security",
+  "ivcId": "A1000000336884",
   "finderId": "edgehawk-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
-      "lat": 32.110576,
-      "lon": 34.838285
+      "city": "תל אביב-יפו",
+      "lat": 32.1107099,
+      "lon": 34.8384332
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71556894
+  "isActive": true
 }

@@ -1,23 +1,31 @@
 {
   "name": "In House Health",
-  "description": "We provide data-driven workplace health solutions to enhance employee well-being, boost performance, and increase profitability for digital tech SMEs.",
+  "description": "In-House aims to tackle inefficiencies in hospital staff management through a technology-based approach.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/in_house_health-logo.webp",
-  "websiteUrl": "https://inhousehealth.co.uk/",
+  "logoFile": "logos/in-house-health-logo.webp",
+  "websiteUrl": "https://www.inhouse.health",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "in-house-health",
+  "linkedinNum": 92489442,
   "crunchbaseId": null,
+  "ivcId": "A1000000420436",
   "finderId": "in-house-health",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנביאים",
-      "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.075611,
-      "lon": 34.779601
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

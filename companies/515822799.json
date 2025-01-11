@@ -6,11 +6,17 @@
   "logoFile": "logos/bidgemmer-logo.webp",
   "websiteUrl": "https://bidgemmer.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bidgemmer",
+  "linkedinNum": 25070734,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bidgemmer",
   "xId": "BidGemmer",
+  "facebookId": "bidgemmer",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האגדה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "bidgemmer",
-  "linkedinNum": 25070734
+  "isActive": true
 }

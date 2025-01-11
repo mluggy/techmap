@@ -6,11 +6,17 @@
   "logoFile": "logos/my_town_games-logo.webp",
   "websiteUrl": "https://my-town.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mytowngames",
+  "linkedinNum": 10471596,
   "crunchbaseId": null,
+  "ivcId": "A1000000417050",
   "finderId": "my-town-games",
   "xId": "MyTownGames",
+  "facebookId": "mytowngames",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "mytowngames",
-  "linkedinNum": 10471596
+  "isActive": true
 }

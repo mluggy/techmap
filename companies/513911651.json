@@ -6,21 +6,26 @@
   "logoFile": "logos/hypertales-logo.webp",
   "websiteUrl": "https://hypertal.es/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 13184168,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hypertales",
   "xId": "hyper_tales",
+  "facebookId": "hypertales",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בילטמור",
       "houseNumber": 11,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.088598,
       "lon": 34.787045
     }
   ],
   "isMultinational": false,
-  "facebookId": "hypertales",
-  "linkedinNum": 13184168
+  "isActive": true
 }

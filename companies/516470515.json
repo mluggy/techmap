@@ -6,21 +6,26 @@
   "logoFile": "logos/jika_io-logo.webp",
   "websiteUrl": "https://www.jika.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "jika-io",
+  "linkedinNum": 76530753,
   "crunchbaseId": null,
+  "ivcId": "A1000000369160",
   "finderId": "jika-io",
   "xId": "jika_io",
+  "facebookId": "www.jika.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרליבך",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.06895,
-      "lon": 34.7831904
+      "city": "תל אביב-יפו",
+      "lat": 32.0690074,
+      "lon": 34.7831733
     }
   ],
   "isMultinational": false,
-  "facebookId": "www.jika.io",
-  "linkedinNum": 76530753
+  "isActive": true
 }

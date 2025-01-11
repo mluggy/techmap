@@ -1,16 +1,22 @@
 {
   "name": "Wadis",
-  "description": "Electro-discharge Water Disinfection",
+  "description": "Electro-discharge Water Disinfection.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/wadis-logo.webp",
   "websiteUrl": "https://www.wadis-co.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000010421",
   "finderId": "wadis",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -20,5 +26,6 @@
       "lon": 34.8020721
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

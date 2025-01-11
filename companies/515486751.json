@@ -6,11 +6,17 @@
   "logoFile": "logos/technopulm-logo.webp",
   "websiteUrl": "https://t-pulm.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "technopulm1",
+  "linkedinNum": 54151265,
   "crunchbaseId": null,
+  "ivcId": "A1000000024704",
   "finderId": "technopulm",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חכם עפג'ין אברהם",
@@ -19,5 +25,7 @@
       "lat": 31.887358194597223,
       "lon": 34.824850274528515
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

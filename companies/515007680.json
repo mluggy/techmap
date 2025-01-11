@@ -3,14 +3,20 @@
   "description": "A platform for sharing possessions and discovering new items to purchase.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/gotit_cellular_application-logo.webp",
+  "logoFile": "logos/gotit-logo.webp",
   "websiteUrl": "https://gotitstores.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "got-it-ai",
+  "linkedinNum": 18883030,
   "crunchbaseId": null,
+  "ivcId": "A1000000024435",
   "finderId": "gotit",
   "xId": null,
+  "facebookId": "GOTitApplication",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנוריות",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GOTitApplication"
+  "isActive": true
 }

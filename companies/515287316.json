@@ -6,11 +6,17 @@
   "logoFile": "logos/miraclon_israel-logo.webp",
   "websiteUrl": "https://www.miraclon.com/",
   "careersUrl": "https://www.miraclon.com/about/careers/",
-  "isHiring": true,
   "linkedinId": "miraclon-corporation",
+  "linkedinNum": 19043840,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "miraclon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אם המושבות",
@@ -20,6 +26,6 @@
       "lon": 34.8495503
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 19043840
+  "isMultinational": false,
+  "isActive": true
 }

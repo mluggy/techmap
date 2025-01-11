@@ -6,20 +6,26 @@
   "logoFile": "logos/sea_2_cell-logo.webp",
   "websiteUrl": "https://sea2cell.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sea2cell",
+  "linkedinNum": 78980831,
   "crunchbaseId": null,
+  "ivcId": "A1000000374781",
   "finderId": "sea2cell",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חצב",
       "houseNumber": 30,
-      "city": "קריית שמונה",
-      "lat": 33.2115548,
-      "lon": 35.5787624
+      "city": "קרית שמונה",
+      "lat": 33.21153900000001,
+      "lon": 35.578711
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78980831
+  "isActive": true
 }

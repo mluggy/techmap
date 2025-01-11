@@ -6,18 +6,26 @@
   "logoFile": "logos/tope_ai-logo.webp",
   "websiteUrl": "https://tope.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000464050",
   "finderId": "tope-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הלוטוס",
       "houseNumber": 18,
       "city": "רעננה",
-      "lat": 32.179237,
-      "lon": 34.8558388
+      "lat": 32.1801422,
+      "lon": 34.8561045
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

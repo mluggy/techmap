@@ -6,20 +6,26 @@
   "logoFile": "logos/incredi_ai-logo.webp",
   "websiteUrl": "https://incredi.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "incredi-ai",
+  "linkedinNum": 77668723,
   "crunchbaseId": "incredi-ai",
+  "ivcId": "A1000000370117",
   "finderId": "incredi-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
-      "lat": 32.070693,
-      "lon": 34.785176
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77668723
+  "isActive": true
 }

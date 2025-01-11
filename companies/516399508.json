@@ -6,19 +6,26 @@
   "logoFile": "logos/superfruiter-logo.webp",
   "websiteUrl": "https://www.superfruiter.biz/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "superfruiter-ltd",
+  "linkedinNum": 101299680,
   "crunchbaseId": null,
+  "ivcId": "A1000000467635",
   "finderId": "superfruiter",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שנקר אריה",
+      "street": "רחוב אריה שנקר",
       "houseNumber": 1,
       "city": "הרצליה",
-      "lat": 32.1604703,
-      "lon": 34.809883
+      "lat": 32.1608042,
+      "lon": 34.810067
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

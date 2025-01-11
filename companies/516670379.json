@@ -1,16 +1,22 @@
 {
   "name": "Talkindeed",
-  "description": "We provide learners with real-world fluency through a unique language-learning platform shaped by extensive educational expertise.",
-  "categoryId": 14,
+  "description": "Talkindeed is developing an innovative language learning platform that will transform the online language learning space.",
+  "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/talkindeed-logo.webp",
-  "websiteUrl": "https://ainamannor.com/",
+  "websiteUrl": "https://talkindeed.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "talkindeed",
+  "linkedinNum": 83475080,
   "crunchbaseId": null,
+  "ivcId": "A1000000460325",
   "finderId": "talkindeed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רפאלי שרגא",
@@ -19,5 +25,7 @@
       "lat": 32.106940300000005,
       "lon": 34.88005879773807
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

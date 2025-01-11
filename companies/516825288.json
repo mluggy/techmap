@@ -1,0 +1,31 @@
+{
+  "name": "Publlo",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/publlo-logo.webp",
+  "websiteUrl": "https://publlo.com",
+  "careersUrl": null,
+  "linkedinId": "publlo",
+  "linkedinNum": 101223824,
+  "crunchbaseId": null,
+  "ivcId": "A1000000460194",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עתיר ידע",
+      "houseNumber": 16,
+      "city": "כפר סבא",
+      "lat": 32.1616519,
+      "lon": 34.9340036
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

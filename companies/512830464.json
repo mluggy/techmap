@@ -6,20 +6,26 @@
   "logoFile": "logos/credics_technologies_ltd-logo.webp",
   "websiteUrl": "https://www.credics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "credics-technologies-ltd.",
+  "linkedinNum": 532937,
   "crunchbaseId": null,
+  "ivcId": "A1000000003321",
   "finderId": "credics-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
       "houseNumber": 23,
-      "city": "בני ברק",
-      "lat": 32.0940715,
-      "lon": 34.823239
+      "city": "תל אביב-יפו",
+      "lat": 32.0760455,
+      "lon": 34.772791
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 532937
+  "isActive": true
 }

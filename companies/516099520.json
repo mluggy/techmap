@@ -6,20 +6,26 @@
   "logoFile": "logos/castory-logo.webp",
   "websiteUrl": "https://castory-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 26224205,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "castory",
   "xId": "castory_ai",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.111205,
       "lon": 34.8388694
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 26224205
+  "isActive": true
 }

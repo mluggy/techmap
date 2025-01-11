@@ -1,0 +1,31 @@
+{
+  "name": "Journeez",
+  "description": "Journeez is a smart workforce management platform that optimizes scheduling, enhances efficiency, and empowers businesses to achieve their full potential.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/journeez-logo.webp",
+  "websiteUrl": "https://journeez.io",
+  "careersUrl": null,
+  "linkedinId": "journeez",
+  "linkedinNum": 68870718,
+  "crunchbaseId": null,
+  "ivcId": "A1000000493795",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרצית",
+      "houseNumber": 8,
+      "city": "מגדל העמק",
+      "lat": 32.679264,
+      "lon": 35.2541762
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/olehpay-logo.webp",
   "websiteUrl": "https://olehpay.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "olehpay",
+  "linkedinNum": 18108316,
   "crunchbaseId": null,
+  "ivcId": "A1000000216310",
   "finderId": "olehpay",
   "xId": null,
+  "facebookId": "OlehPayIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יפו",
-      "houseNumber": 155,
+      "street": "דרך חברון",
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7866243,
-      "lon": 35.2098659
+      "lat": 31.7397451,
+      "lon": 35.2125762
     }
   ],
   "isMultinational": false,
-  "facebookId": "OlehPayIsrael",
-  "linkedinNum": 18108316
+  "isActive": true
 }

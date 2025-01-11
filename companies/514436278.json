@@ -6,21 +6,26 @@
   "logoFile": "logos/hairstetics-logo.webp",
   "websiteUrl": "https://hairstetics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hairstetics",
+  "linkedinNum": 11115892,
   "crunchbaseId": null,
+  "ivcId": "A1000000001723",
   "finderId": "hairstetics",
   "xId": "hairstetics",
+  "facebookId": "hairstetics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נתניהו יהונתן",
-      "houseNumber": 6,
-      "city": "אור יהודה",
-      "lat": 32.0219296,
-      "lon": 34.8566055
+      "street": "האומנות",
+      "houseNumber": 4,
+      "city": "נתניה",
+      "lat": 32.2781811,
+      "lon": 34.8594196
     }
   ],
   "isMultinational": false,
-  "facebookId": "hairstetics",
-  "linkedinNum": 11115892
+  "isActive": true
 }

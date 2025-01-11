@@ -1,26 +1,31 @@
 {
   "name": "NAZDAQ",
-  "description": "Document Management Solutions",
+  "description": "Document Management Solutions.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/nazdaq_nazareth_data_quest_ltd-logo.webp",
   "websiteUrl": "https://www.nazdaq-it.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nazdaq",
+  "linkedinNum": 1586677,
   "crunchbaseId": null,
+  "ivcId": "A1000000003923",
   "finderId": "nazdaq",
   "xId": "NAZDAQ_IT",
+  "facebookId": "NAZDAQIT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגליל",
-      "houseNumber": null,
+      "houseNumber": 22,
       "city": "נצרת",
-      "lat": 32.7237693,
-      "lon": 35.2847813
+      "lat": 32.7056274,
+      "lon": 35.3032493
     }
   ],
   "isMultinational": false,
-  "facebookId": "NAZDAQIT",
-  "linkedinNum": 1586677
+  "isActive": true
 }

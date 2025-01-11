@@ -6,21 +6,26 @@
   "logoFile": "logos/ziprecruiter_israel-logo.webp",
   "websiteUrl": "https://www.ziprecruiter.com/",
   "careersUrl": "https://www.ziprecruiter.com/post-a-job",
-  "isHiring": true,
   "linkedinId": "ziprecruiter",
+  "linkedinNum": 967124,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ziprecruiter",
   "xId": "ZipRecruiter",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
-  "isMultinational": true,
-  "facebookId": "pages",
-  "linkedinNum": 967124
+  "isMultinational": false,
+  "isActive": true
 }

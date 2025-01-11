@@ -3,14 +3,20 @@
   "description": "A system designed to educate smart automated systems.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/linguistic_agents-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/linguistic-agents-logo.webp",
+  "websiteUrl": "http://linguisticagents.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "linguisticagents",
+  "linkedinNum": 598562,
   "crunchbaseId": null,
+  "ivcId": "A1000000003336",
   "finderId": "linguistic-agents",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יפו",
@@ -19,5 +25,7 @@
       "lat": 31.7885597,
       "lon": 35.2016694
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

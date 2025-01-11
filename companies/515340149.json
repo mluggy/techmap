@@ -6,21 +6,26 @@
   "logoFile": "logos/zotapay_payments-logo.webp",
   "websiteUrl": "https://zotapay.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "zota-technology",
+  "linkedinNum": 11039650,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zotapay",
   "xId": "zotapay",
+  "facebookId": "zotapay",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אסתר המלכה",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07898,
       "lon": 34.774362
     }
   ],
   "isMultinational": false,
-  "facebookId": "zotapay",
-  "linkedinNum": 11039650
+  "isActive": true
 }

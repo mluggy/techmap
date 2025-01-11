@@ -6,21 +6,26 @@
   "logoFile": "logos/recolabs-logo.webp",
   "websiteUrl": "https://www.reco.ai/",
   "careersUrl": "https://www.reco.ai/careers",
-  "isHiring": true,
   "linkedinId": "recolabs",
+  "linkedinNum": 71180247,
   "crunchbaseId": "reco-67bb",
+  "ivcId": null,
   "finderId": "recolabs",
   "xId": "recolabs_ai",
+  "facebookId": "RecoLabsAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הלוי",
       "houseNumber": 106,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07043964665099,
       "lon": 34.78168796029804
     }
   ],
   "isMultinational": false,
-  "facebookId": "RecoLabsAI",
-  "linkedinNum": 71180247
+  "isActive": true
 }

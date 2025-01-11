@@ -1,26 +1,31 @@
 {
   "name": "Google",
   "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking ...",
-  "size": "xl",
   "categoryId": 8,
+  "size": "xl",
   "logoFile": "logos/google-logo.webp",
   "websiteUrl": "https://careers.google.com/locations/tel-aviv-haifa/",
   "careersUrl": "https://www.google.com/about/careers/applications/",
-  "isHiring": true,
   "linkedinId": "google",
+  "linkedinNum": 1441,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "google",
   "xId": "google",
+  "facebookId": "Google",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 98,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0700073,
       "lon": 34.794193699999994
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Google",
-  "linkedinNum": 1441
+  "isMultinational": false,
+  "isActive": true
 }

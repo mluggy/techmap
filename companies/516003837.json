@@ -6,22 +6,26 @@
   "logoFile": "logos/rapyd_hzdl-logo.webp",
   "websiteUrl": "https://www.rapyd.net/",
   "careersUrl": "https://www.rapyd.net/company/careers/",
-  "isHiring": true,
   "linkedinId": "rapydpayments",
+  "linkedinNum": 18245093,
   "crunchbaseId": "rapyd",
+  "ivcId": null,
   "finderId": "rapyd",
   "xId": "RapydPayments",
+  "facebookId": "rapydpayments",
+  "breezyId": null,
+  "comeetId": "rapyd/73.00E",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "rapydpayments",
-  "linkedinNum": 18245093,
-  "comeetId": "rapyd/73.00E"
+  "isActive": true
 }

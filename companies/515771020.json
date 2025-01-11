@@ -6,21 +6,26 @@
   "logoFile": "logos/wenrix-logo.webp",
   "websiteUrl": "https://www.wenrix.com/",
   "careersUrl": "https://www.wenrix.com/home/careers",
-  "isHiring": true,
   "linkedinId": "wenrix",
+  "linkedinNum": 18318097,
   "crunchbaseId": null,
+  "ivcId": "A1000000253809",
   "finderId": "wenrix",
   "xId": "wenrix_ai",
+  "facebookId": "WenrixAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אירוסים מכבים רעות",
-      "houseNumber": 60,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.88391946963555,
-      "lon": 35.018714091903185
+      "street": "תושיה",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0667236,
+      "lon": 34.7877612
     }
   ],
   "isMultinational": false,
-  "facebookId": "WenrixAI",
-  "linkedinNum": 18318097
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/coralogix-logo.webp",
   "websiteUrl": "https://coralogix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "coralogix",
+  "linkedinNum": 3763125,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "coralogix",
   "xId": "Coralogix",
+  "facebookId": "Coralogix",
+  "breezyId": null,
+  "comeetId": "coralogix/06.004",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Coralogix",
-  "linkedinNum": 3763125,
-  "comeetId": "coralogix/06.004"
+  "isActive": true
 }

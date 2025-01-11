@@ -1,0 +1,31 @@
+{
+  "name": "ChatterBox",
+  "description": "Gaon Education is dedicated to developing innovative Torah educational curriculum and technology for Jewish day schools.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/chatterbox-logo.webp",
+  "websiteUrl": "https://www.gaoneducation.com",
+  "careersUrl": null,
+  "linkedinId": "gaon-education",
+  "linkedinNum": 18468611,
+  "crunchbaseId": null,
+  "ivcId": "A1000000277306",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך חברון",
+      "houseNumber": 24,
+      "city": "ירושלים",
+      "lat": 31.7670343,
+      "lon": 35.2258017
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,20 +6,26 @@
   "logoFile": "logos/solicall-logo.webp",
   "websiteUrl": "https://solicall.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2264744,
   "crunchbaseId": null,
+  "ivcId": "A1000000004802",
   "finderId": "solicall",
   "xId": "solicall",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברוש",
       "houseNumber": 38,
       "city": "תל מונד",
-      "lat": 32.2473895,
-      "lon": 34.9201303
+      "lat": 32.2466203,
+      "lon": 34.9197385
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2264744
+  "isActive": true
 }

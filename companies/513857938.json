@@ -6,11 +6,17 @@
   "logoFile": "logos/moringa_arava_global-logo.webp",
   "websiteUrl": "https://www.moringa-arava.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "moringa-arava",
   "xId": "moringaarava",
+  "facebookId": "moringaarava",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האורנים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "moringaarava"
+  "isActive": true
 }

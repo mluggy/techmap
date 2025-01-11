@@ -6,19 +6,26 @@
   "logoFile": "logos/wandering-logo.webp",
   "websiteUrl": "https://experien.city/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "wandering",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 46,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0661104,
       "lon": 34.7838559
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

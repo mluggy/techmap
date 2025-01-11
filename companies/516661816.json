@@ -1,0 +1,31 @@
+{
+  "name": "Point6 Bio",
+  "description": "Point6 Bio is a computational biology company, focused on capturing multi-omics molecular insights from the proteome, including from subject’s gut microbiome, to identify biomarker signatures, which will eventually affect treatment decision and new drug targets identification in Autism.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/point6-bio-logo.webp",
+  "websiteUrl": "https://point6.bio",
+  "careersUrl": null,
+  "linkedinId": "point6-bio",
+  "linkedinNum": 83023529,
+  "crunchbaseId": null,
+  "ivcId": "A1000000458795",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פרופסור רקח",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.769292,
+      "lon": 35.1975002
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

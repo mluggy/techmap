@@ -3,14 +3,20 @@
   "description": "Delivering innovative climate modeling solutions to address global environmental challenges.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/emnotion_ltd-logo.webp",
+  "logoFile": "logos/emnotion-logo.webp",
   "websiteUrl": "https://www.emnotion.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "emnotion",
+  "linkedinNum": 27045850,
   "crunchbaseId": null,
+  "ivcId": "A1000000227480",
   "finderId": "emnotion",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חיים בר-לב",
@@ -20,5 +26,6 @@
       "lon": 34.783116
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

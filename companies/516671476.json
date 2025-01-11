@@ -1,18 +1,22 @@
 {
   "name": "Remepy",
-  "description": "Digital Innovation Platform for Pharmaceutical Companies",
+  "description": "Digital Innovation Platform for Pharmaceutical Companies.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/remepy.webp",
   "websiteUrl": "https://www.remepy.com/",
   "careersUrl": "https://www.remepy.com/careers",
-  "isHiring": false,
   "linkedinId": "remepy",
   "linkedinNum": 82435157,
   "crunchbaseId": null,
+  "ivcId": "A1000000418403",
   "finderId": "remepy",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרב ריינס",
@@ -22,5 +26,6 @@
       "lon": 34.85226251726528
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

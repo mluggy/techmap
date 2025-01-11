@@ -6,18 +6,26 @@
   "logoFile": "logos/attenti_electronic_monitoring_group-logo.webp",
   "websiteUrl": "https://www.attentigroup.com/",
   "careersUrl": "https://www.attentigroup.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "attenti",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.106471,
       "lon": 34.835657
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

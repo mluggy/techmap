@@ -6,20 +6,26 @@
   "logoFile": "logos/shield_i_o_t-logo.webp",
   "websiteUrl": "https://shieldiot.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "shieldiot",
+  "linkedinNum": 18173639,
   "crunchbaseId": null,
+  "ivcId": "A1000000238189",
   "finderId": "shieldiot",
   "xId": "shieldiot1",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגביש",
-      "houseNumber": 3,
+      "street": "עתיר ידע",
+      "houseNumber": 1,
       "city": "כפר סבא",
-      "lat": 32.176795,
-      "lon": 34.9299507
+      "lat": 32.1674227,
+      "lon": 34.9285291
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18173639
+  "isActive": true
 }

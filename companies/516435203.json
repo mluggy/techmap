@@ -6,12 +6,26 @@
   "logoFile": "logos/nakai_robotics-logo.webp",
   "websiteUrl": "https://www.nakairobotics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nakai-robotics",
+  "linkedinNum": 80944484,
   "crunchbaseId": "nakai-robotics",
+  "ivcId": "A1000000388809",
   "finderId": "nakai-robotics",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הסדנא",
+      "houseNumber": 21,
+      "city": "חולון",
+      "lat": 32.0227717,
+      "lon": 34.8016546
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 80944484
+  "isActive": true
 }

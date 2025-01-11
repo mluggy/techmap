@@ -1,26 +1,31 @@
 {
   "name": "My Tower",
-  "description": "Property and Facility Management Platform",
+  "description": "Property and Facility Management Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/my_tower-logo.webp",
   "websiteUrl": "https://www.mytowerapp.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "my-tower",
+  "linkedinNum": 12957166,
   "crunchbaseId": null,
+  "ivcId": "A1000000225518",
   "finderId": "my-tower",
   "xId": null,
+  "facebookId": "mytowerapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החשמונאים",
-      "houseNumber": 100,
-      "city": "תל אביב - יפו",
-      "lat": 32.069111,
-      "lon": 34.786789
+      "street": "ניסים אלוני",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0881477,
+      "lon": 34.7964711
     }
   ],
   "isMultinational": false,
-  "facebookId": "mytowerapp",
-  "linkedinNum": 12957166
+  "isActive": true
 }

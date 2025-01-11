@@ -1,26 +1,31 @@
 {
   "name": "Papaya",
-  "description": "Skill-based Gaming Platform",
+  "description": "Skill-based Gaming Platform.",
   "categoryId": 8,
   "size": "l",
   "logoFile": "logos/papaya_gaming-logo.webp",
   "websiteUrl": "https://www.papaya.com/",
   "careersUrl": "https://www.papayaglobal.com/careers/",
-  "isHiring": true,
   "linkedinId": "papayaltd",
+  "linkedinNum": 24427744,
   "crunchbaseId": null,
+  "ivcId": "A1000000269306",
   "finderId": "papaya-1",
   "xId": null,
+  "facebookId": "papayagaming",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המסגר",
-      "houseNumber": 35,
-      "city": "תל אביב - יפו",
-      "lat": 32.064654,
-      "lon": 34.785584
+      "street": "איסרליש",
+      "houseNumber": 22,
+      "city": "תל אביב-יפו",
+      "lat": 32.0710128,
+      "lon": 34.7921596
     }
   ],
   "isMultinational": false,
-  "facebookId": "papayagaming",
-  "linkedinNum": 24427744
+  "isActive": true
 }

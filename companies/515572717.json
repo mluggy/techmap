@@ -6,13 +6,26 @@
   "logoFile": "logos/resorcix-logo.webp",
   "websiteUrl": "https://www.resorcix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "resorcix",
+  "linkedinNum": 25017661,
   "crunchbaseId": null,
+  "ivcId": "A1000000227184",
   "finderId": "resorcix",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Resorcix-177417269468935",
-  "linkedinNum": 25017661
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קלמן יעקב מן",
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7651499,
+      "lon": 35.1496315
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

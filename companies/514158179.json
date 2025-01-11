@@ -6,21 +6,26 @@
   "logoFile": "logos/step_hear-logo.webp",
   "websiteUrl": "https://www.step-hear.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "step-hear",
+  "linkedinNum": 19166775,
   "crunchbaseId": null,
+  "ivcId": "A1000000009980",
   "finderId": "step-hear",
   "xId": "step_hear",
+  "facebookId": "StepHearLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 153,
-      "city": "תל אביב - יפו",
-      "lat": 32.078057,
-      "lon": 34.796818
+      "city": "תל אביב-יפו",
+      "lat": 32.0778185,
+      "lon": 34.7968809
     }
   ],
   "isMultinational": false,
-  "facebookId": "StepHearLTD",
-  "linkedinNum": 19166775
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Micro Point Pro",
-  "description": "High-precision Micro-electronics Tools and Probe Heads",
+  "description": "High-precision Micro-electronics Tools and Probe Heads.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/micro_point_pro-logo.webp",
   "websiteUrl": "https://www.mpptools.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "micro-point-pro",
+  "linkedinNum": 1202216,
   "crunchbaseId": null,
+  "ivcId": "A1000000024036",
   "finderId": "micro-point-pro",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התנופה",
-      "houseNumber": 5,
-      "city": "יקנעם עילית",
-      "lat": 32.6672039,
-      "lon": 35.1083867
+      "street": "היצירה",
+      "houseNumber": 6,
+      "city": "יוקנעם עילית",
+      "lat": 32.6595784,
+      "lon": 35.0985963
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1202216
+  "isActive": true
 }

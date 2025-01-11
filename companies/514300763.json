@@ -1,0 +1,31 @@
+{
+  "name": "Quiet Notion",
+  "description": "Quiet Notion is a privately held investment company.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/quiet-notion-logo.webp",
+  "websiteUrl": "https://www.quietnotion.com",
+  "careersUrl": null,
+  "linkedinId": "quiet-notion",
+  "linkedinNum": 2830359,
+  "crunchbaseId": null,
+  "ivcId": "A1000000021914",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מרדכי כספי",
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7578005,
+      "lon": 35.2264732
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

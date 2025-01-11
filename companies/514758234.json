@@ -6,11 +6,17 @@
   "logoFile": "logos/vgi_vega_global_israel-logo.webp",
   "websiteUrl": "https://www.vgi-agro.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vgi",
   "xId": null,
+  "facebookId": "VGI.KF",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שאול המלך",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "VGI.KF"
+  "isActive": true
 }

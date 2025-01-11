@@ -1,16 +1,22 @@
 {
   "name": "FreezeM",
-  "description": "Insect Farming Solutions",
+  "description": "Insect Farming Solutions.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/freezem_cryogenics-logo.webp",
   "websiteUrl": "https://freeze-em.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "freezem",
+  "linkedinNum": 18634509,
   "crunchbaseId": "freezem",
+  "ivcId": "A1000000236988",
   "finderId": "freezem",
   "xId": "FreezeM5",
+  "facebookId": "FreezeM-102195254834998",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצברים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "FreezeM-102195254834998",
-  "linkedinNum": 18634509
+  "isActive": true
 }

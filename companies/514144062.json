@@ -1,25 +1,31 @@
 {
   "name": "WATCHIT",
-  "description": "Advanced Skipper Assistance Solutions",
+  "description": "Advanced Skipper Assistance Solutions.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/watchit.webp",
   "websiteUrl": "https://watchit.ai/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 86828261,
   "crunchbaseId": null,
+  "ivcId": "A1000000459438",
   "finderId": "watchit",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.068636731192754,
-      "lon": 34.79412071409061
+      "street": "השונית",
+      "houseNumber": 2,
+      "city": "הרצליה",
+      "lat": 32.1638496,
+      "lon": 34.7965173
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

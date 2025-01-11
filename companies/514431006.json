@@ -6,13 +6,17 @@
   "logoFile": "logos/teoco.webp",
   "websiteUrl": "https://www.teoco.com/",
   "careersUrl": "https://www.teoco.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "teoco",
   "linkedinNum": 12486,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "teoco",
   "xId": "teoco_corp",
   "facebookId": "teococorporation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -22,5 +26,6 @@
       "lon": 34.96756379890979
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

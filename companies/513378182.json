@@ -6,21 +6,26 @@
   "logoFile": "logos/escape_rescue_systems-logo.webp",
   "websiteUrl": "https://www.escaperescue.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "escape-rescue-systems",
+  "linkedinNum": 8634438,
   "crunchbaseId": "escape-rescue-systems",
+  "ivcId": "A1000000004005",
   "finderId": "escape-rescue-systems",
   "xId": null,
+  "facebookId": "EscapeRescueSystemsLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סנונית",
-      "houseNumber": 26,
-      "city": "נס ציונה",
-      "lat": 31.9058039,
-      "lon": 34.7826031
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "EscapeRescueSystemsLtd",
-  "linkedinNum": 8634438
+  "isActive": true
 }

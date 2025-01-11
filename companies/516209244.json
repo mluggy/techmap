@@ -6,21 +6,26 @@
   "logoFile": "logos/boatclick_digital_solutions-logo.webp",
   "websiteUrl": "https://www.boat-click.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "boat-click",
+  "linkedinNum": 66949036,
   "crunchbaseId": null,
+  "ivcId": "A1000000327683",
   "finderId": "boatclick",
   "xId": null,
+  "facebookId": "BoatClick-111582314558508",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמה",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.119576,
-      "lon": 34.842253
+      "city": "תל אביב-יפו",
+      "lat": 32.1194388,
+      "lon": 34.8419678
     }
   ],
   "isMultinational": false,
-  "facebookId": "BoatClick-111582314558508",
-  "linkedinNum": 66949036
+  "isActive": true
 }

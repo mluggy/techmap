@@ -6,11 +6,17 @@
   "logoFile": "logos/storenext-logo.webp",
   "websiteUrl": "https://www.storenext.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "storenext",
+  "linkedinNum": 95863,
   "crunchbaseId": null,
+  "ivcId": "A1000000003358",
   "finderId": "storenext",
   "xId": null,
+  "facebookId": "StoreNext-B2B-solutions-174336102602933",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המגשימים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "StoreNext-B2B-solutions-174336102602933",
-  "linkedinNum": 95863
+  "isActive": true
 }

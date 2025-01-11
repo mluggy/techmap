@@ -6,11 +6,17 @@
   "logoFile": "logos/flex_systems_ltd-logo.webp",
   "websiteUrl": "https://flex.com/",
   "careersUrl": "https://flex.com/careers",
-  "isHiring": true,
   "linkedinId": "flexintl",
+  "linkedinNum": 2279,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "flextronics",
   "xId": "flextronics",
+  "facebookId": "flexIL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האלה",
@@ -20,7 +26,6 @@
       "lon": 35.4767354
     }
   ],
-  "isMultinational": true,
-  "facebookId": "flexIL",
-  "linkedinNum": 2279
+  "isMultinational": false,
+  "isActive": true
 }

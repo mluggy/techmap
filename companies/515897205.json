@@ -1,0 +1,31 @@
+{
+  "name": "GenetikaPlus",
+  "description": "NeuroKaire is developing personalized medicine solutions to optimize treatment for psychiatric and neurological diseases.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/genetikaplus-logo.webp",
+  "websiteUrl": "https://www.neurokaire.com",
+  "careersUrl": "https://www.neurokaire.com/careers",
+  "linkedinId": "genetika",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000253994",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 126,
+      "city": "תל אביב-יפו",
+      "lat": 32.0744198,
+      "lon": 34.7956552
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

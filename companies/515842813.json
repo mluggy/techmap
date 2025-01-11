@@ -1,0 +1,31 @@
+{
+  "name": "FrateIT",
+  "description": "FrateIT specializes in Intelligent Freight Transportation.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/frateit-logo.webp",
+  "websiteUrl": "https://frateit.com",
+  "careersUrl": null,
+  "linkedinId": "frateit",
+  "linkedinNum": 28673596,
+  "crunchbaseId": null,
+  "ivcId": "A1000000292813",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בנימיני",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0768864,
+      "lon": 34.7985067
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

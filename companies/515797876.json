@@ -6,21 +6,26 @@
   "logoFile": "logos/vulcan_cyber-logo.webp",
   "websiteUrl": "https://vulcan.io/",
   "careersUrl": "https://vulcan.io/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "vulcancyber",
+  "linkedinNum": 18660237,
   "crunchbaseId": null,
+  "ivcId": "A1000000257562",
   "finderId": "vulcan-cyber",
   "xId": "VulcanCyber",
+  "facebookId": "VulcanCyber",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך יפו",
       "houseNumber": 116,
-      "city": "תל אביב - יפו",
-      "lat": 32.0605137,
-      "lon": 34.7759853
+      "city": "תל אביב-יפו",
+      "lat": 32.0605403,
+      "lon": 34.7738407
     }
   ],
   "isMultinational": false,
-  "facebookId": "VulcanCyber",
-  "linkedinNum": 18660237
+  "isActive": true
 }

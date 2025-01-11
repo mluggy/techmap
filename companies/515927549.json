@@ -1,0 +1,31 @@
+{
+  "name": "Ginger Bit",
+  "description": "Ginger is a provider of a custom-tailored international travel insurance service, intended to offer a one-stop insurance to companies.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/ginger-bit-logo.webp",
+  "websiteUrl": "https://gingerbit.co.il",
+  "careersUrl": null,
+  "linkedinId": "ginger-travel-insurance",
+  "linkedinNum": 19099383,
+  "crunchbaseId": null,
+  "ivcId": "A1000000292854",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "סיני",
+      "houseNumber": 12,
+      "city": "רמת השרון",
+      "lat": 32.1434345,
+      "lon": 34.8347022
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

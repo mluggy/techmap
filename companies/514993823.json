@@ -6,11 +6,17 @@
   "logoFile": "logos/takeda_israel-logo.webp",
   "websiteUrl": "https://www.takeda.com/",
   "careersUrl": "https://www.takeda.com/careers/",
-  "isHiring": true,
   "linkedinId": "takeda-pharmaceuticals",
+  "linkedinNum": 5482,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "takeda",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אפעל",
@@ -20,6 +26,6 @@
       "lon": 34.846930395423286
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 5482
+  "isMultinational": false,
+  "isActive": true
 }

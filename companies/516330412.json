@@ -6,11 +6,17 @@
   "logoFile": "logos/dustoss-logo.webp",
   "websiteUrl": "https://www.dustoss.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000353384",
   "finderId": "dustoss",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבוא הרכס",
@@ -20,5 +26,6 @@
       "lon": 35.12812979943212
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

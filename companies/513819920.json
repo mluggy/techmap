@@ -1,26 +1,31 @@
 {
   "name": "ComBtas",
-  "description": "Business Travel Management System",
+  "description": "Business Travel Management System.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/combtas-logo.webp",
   "websiteUrl": "https://www.combtas.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2418568,
   "crunchbaseId": null,
+  "ivcId": "A1000000009668",
   "finderId": "combtas",
   "xId": "tas_combtas",
+  "facebookId": "ComBTAS-Travel-management-solution-%D7%A7%D7%95%D7%9E%D7%91%D7%99%D7%98%D7%A1-%D7%9E%D7%97%D7%A9%D7%95%D7%91-%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%A2%D7%A1%D7%A7%D7%99%D7%95%D7%AA-127922820659713",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אחוה",
-      "houseNumber": 4,
+      "street": "4",
+      "houseNumber": null,
       "city": "הוד השרון",
-      "lat": 32.16167009758706,
-      "lon": 34.89955469143268
+      "lat": 32.1477914,
+      "lon": 34.8734258
     }
   ],
   "isMultinational": false,
-  "facebookId": "ComBTAS-Travel-management-solution-%D7%A7%D7%95%D7%9E%D7%91%D7%99%D7%98%D7%A1-%D7%9E%D7%97%D7%A9%D7%95%D7%91-%D7%A0%D7%A1%D7%99%D7%A2%D7%95%D7%AA-%D7%A2%D7%A1%D7%A7%D7%99%D7%95%D7%AA-127922820659713",
-  "linkedinNum": 2418568
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/bazaart-logo.webp",
   "websiteUrl": "https://www.bazaart.me/",
   "careersUrl": "https://www.bazaart.me/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "bazaart",
+  "linkedinNum": 2577953,
   "crunchbaseId": null,
+  "ivcId": "A1000000009122",
   "finderId": "bazaart",
   "xId": "bazaart",
+  "facebookId": "Bazaart",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לסקוב חיים רא\"ל",
-      "houseNumber": 14,
-      "city": "חיפה",
-      "lat": 32.7707339,
-      "lon": 35.0060697
+      "street": "חיים לסקוב",
+      "houseNumber": null,
+      "city": "חדרה",
+      "lat": 32.4428942,
+      "lon": 34.9109062
     }
   ],
   "isMultinational": false,
-  "facebookId": "Bazaart",
-  "linkedinNum": 2577953
+  "isActive": true
 }

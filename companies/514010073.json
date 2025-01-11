@@ -1,26 +1,31 @@
 {
   "name": "Kala",
-  "description": "Marketing-driven Website Creation",
-  "categoryId": 8,
-  "size": "s",
+  "description": "Kala is a Marketing-driven web content platform, developed by Sortex, that helps create high quality websites and manage them easily, automate business flows and Improve sales operation.",
+  "categoryId": 14,
+  "size": "xs",
   "logoFile": "logos/kala_biliana-logo.webp",
-  "websiteUrl": "https://kala.io/",
+  "websiteUrl": "https://sortex.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3174973,
   "crunchbaseId": null,
+  "ivcId": "A1000000199259",
   "finderId": "kala",
   "xId": "KalaPlatform",
+  "facebookId": "Kala.marketing.driven.website.manager",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נתניהו יהונתן",
-      "houseNumber": 6,
-      "city": "אור יהודה",
-      "lat": 32.0219296,
-      "lon": 34.8566055
+      "street": null,
+      "houseNumber": null,
+      "city": "הוד השרון",
+      "lat": 32.161717,
+      "lon": 34.90079600000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "Kala.marketing.driven.website.manager",
-  "linkedinNum": 3174973
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Podium",
+  "description": "PodiumComp is a platform for managing sports organizations and issuing competitions.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/podium-logo.webp",
+  "websiteUrl": "https://podiumcomp.com",
+  "careersUrl": null,
+  "linkedinId": "podiumcomp",
+  "linkedinNum": 72139361,
+  "crunchbaseId": null,
+  "ivcId": "A1000000410017",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "ראשון לציון",
+      "lat": 31.95908129999999,
+      "lon": 34.8020886
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

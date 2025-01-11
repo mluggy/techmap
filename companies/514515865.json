@@ -6,11 +6,17 @@
   "logoFile": "logos/simplex_consulting-logo.webp",
   "websiteUrl": "https://www.simplex.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "simplexcc",
+  "linkedinNum": 5174336,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "simplex",
   "xId": "SimplexCC",
+  "facebookId": "Simplex.cc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "באדר יוחנן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Simplex.cc",
-  "linkedinNum": 5174336
+  "isActive": true
 }

@@ -1,16 +1,23 @@
 {
   "name": "Microbiome",
-  "description": "We provide authors with complimentary 1-2 minute video summaries of their research papers to enhance dissemination.",
-  "categoryId": 8,
+  "description": "Microbiome has developed a formula that enables beneficial bacteria to reproduce and thrive at the expense of harmful bacteria and pathogens.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/microbiome-logo.webp",
-  "websiteUrl": "https://microbiomejournal.biomedcentral.com/",
+  "websiteUrl": "https://microbiome-pro.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000408050",
   "finderId": "microbiome",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

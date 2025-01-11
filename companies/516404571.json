@@ -1,26 +1,31 @@
 {
   "name": "Buzzer",
-  "description": "AI-powered performance optimization for sales and customer support",
+  "description": "AI-powered performance optimization for sales and customer support.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/buzzer-logo.webp",
   "websiteUrl": "https://www.buzzer.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "buzzer-ai",
+  "linkedinNum": 74527283,
   "crunchbaseId": null,
+  "ivcId": "A1000000431946",
   "finderId": "buzzer",
   "xId": null,
+  "facebookId": "buzzerai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברנר",
-      "houseNumber": 38,
+      "street": "השונית",
+      "houseNumber": 2,
       "city": "הרצליה",
-      "lat": 32.157463,
-      "lon": 34.8463645
+      "lat": 32.1638496,
+      "lon": 34.7965173
     }
   ],
   "isMultinational": false,
-  "facebookId": "buzzerai",
-  "linkedinNum": 74527283
+  "isActive": true
 }

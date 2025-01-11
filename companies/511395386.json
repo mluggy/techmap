@@ -6,12 +6,17 @@
   "logoFile": "logos/hi-g-tek.webp",
   "websiteUrl": "https://www.higtek.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "hi-g-tek",
   "linkedinNum": 1183138,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hi-g-tek",
   "xId": "higteksolutions",
   "facebookId": "higtek",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרושת",
@@ -21,5 +26,6 @@
       "lon": 34.862627808146975
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

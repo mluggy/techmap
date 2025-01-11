@@ -1,0 +1,31 @@
+{
+  "name": "Gumitech",
+  "description": "Gumitech is engaged in the production, development, supply and assembly of rubber products for infrastructure, construction and architectural design.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/gumitech-logo.webp",
+  "websiteUrl": "https://gumitech.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000486444",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חלוצי התעשיה",
+      "houseNumber": 47,
+      "city": "חיפה",
+      "lat": 32.814169,
+      "lon": 35.061874
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

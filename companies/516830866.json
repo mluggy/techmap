@@ -6,11 +6,17 @@
   "logoFile": "logos/endortech-logo.webp",
   "websiteUrl": "https://endortech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "endortech-ltd",
+  "linkedinNum": 101194662,
   "crunchbaseId": null,
+  "ivcId": "A1000000460939",
   "finderId": "endortech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אהבת אדם",
@@ -19,5 +25,7 @@
       "lat": 32.3130368,
       "lon": 34.9466258
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

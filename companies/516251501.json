@@ -6,22 +6,26 @@
   "logoFile": "logos/riverside_fm-logo.webp",
   "websiteUrl": "https://riverside.fm/",
   "careersUrl": "https://careers.riverside.fm/",
-  "isHiring": true,
   "linkedinId": "riverside-fm",
+  "linkedinNum": 37854337,
   "crunchbaseId": "riverside-fm",
+  "ivcId": "A1000000330752",
   "finderId": "riverside-fm",
   "xId": "riversidedotfm",
+  "facebookId": "riversidedotfm",
+  "breezyId": null,
+  "comeetId": "riverside-fm/66.009",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.0694309,
-      "lon": 34.7865283
+      "city": "תל אביב-יפו",
+      "lat": 32.0694588,
+      "lon": 34.7865947
     }
   ],
   "isMultinational": false,
-  "facebookId": "riversidedotfm",
-  "linkedinNum": 37854337,
-  "comeetId": "riverside-fm/66.009"
+  "isActive": true
 }

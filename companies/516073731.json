@@ -1,0 +1,31 @@
+{
+  "name": "Tpredict",
+  "description": "TPredict allows physicians to make smarter, more accurate, faster treatment decisions via analyzing patient's medical information with predictive analytics.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/tpredict-logo.webp",
+  "websiteUrl": "http://tpredict.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000220517",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "לח\"י",
+      "houseNumber": 18,
+      "city": "רמת גן",
+      "lat": 32.0654855,
+      "lon": 34.8345407
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

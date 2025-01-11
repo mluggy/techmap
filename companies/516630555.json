@@ -1,25 +1,31 @@
 {
   "name": "SlideTro",
-  "description": "2D Ferroelectric Memory Devices",
+  "description": "2D Ferroelectric Memory Devices.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/slidetro.webp",
   "websiteUrl": "https://sites.google.com/view/slidetro",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 96376912,
   "crunchbaseId": null,
+  "ivcId": "A1000000429836",
   "finderId": "slidetro",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השדות",
-      "houseNumber": 209,
-      "city": "נהלל",
-      "lat": 32.69041724326368,
-      "lon": 35.19673210710371
+      "street": "השדות",
+      "houseNumber": 109,
+      "city": "כפר סירקין",
+      "lat": 32.0737551,
+      "lon": 34.9302465
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

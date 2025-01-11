@@ -6,20 +6,26 @@
   "logoFile": "logos/fintastic-logo.webp",
   "websiteUrl": "https://www.fintastic.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 70880949,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "fintastic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065253,
       "lon": 34.785664
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70880949
+  "isActive": true
 }

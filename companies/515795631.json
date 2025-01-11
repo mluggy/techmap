@@ -1,0 +1,31 @@
+{
+  "name": "Triplan",
+  "description": "Triplan is an innovative Meta-search platform for the tours & activities industry.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/triplan-logo.webp",
+  "websiteUrl": "https://triplan.travel",
+  "careersUrl": null,
+  "linkedinId": "triplan-smart-travel",
+  "linkedinNum": 42762903,
+  "crunchbaseId": null,
+  "ivcId": "A1000000392306",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משה נקאש",
+      "houseNumber": 6,
+      "city": "פתח תקווה",
+      "lat": 32.0720305,
+      "lon": 34.8605178
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

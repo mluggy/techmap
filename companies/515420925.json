@@ -1,0 +1,31 @@
+{
+  "name": "BeLive",
+  "description": "BeLive is a mobile application that enables users to broadcast live on Facebook to anyone they wish.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/belive-logo.webp",
+  "websiteUrl": "https://be.live/",
+  "careersUrl": null,
+  "linkedinId": "belive.tv",
+  "linkedinNum": 7958847,
+  "crunchbaseId": null,
+  "ivcId": "A1000000215810",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קדיש לוז",
+      "houseNumber": 7,
+      "city": "חיפה",
+      "lat": 32.7855613,
+      "lon": 35.0038232
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,16 +1,22 @@
 {
   "name": "Asine",
-  "description": "Embedded & SSD Flash Disks Technology",
+  "description": "Embedded & SSD Flash Disks Technology.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/asine_ltd-logo.webp",
   "websiteUrl": "https://asinegroup.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "asine",
+  "linkedinNum": 9713198,
   "crunchbaseId": null,
+  "ivcId": "A1000000232426",
   "finderId": "asine",
   "xId": null,
+  "facebookId": "AsineEmbeddedGroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההסתדרות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AsineEmbeddedGroup",
-  "linkedinNum": 9713198
+  "isActive": true
 }

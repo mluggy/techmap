@@ -6,11 +6,17 @@
   "logoFile": "logos/connected_papers-logo.webp",
   "websiteUrl": "https://www.connectedpapers.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "connected-papers",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המעיין",
@@ -19,5 +25,7 @@
       "lat": 32.0710464375,
       "lon": 34.809077175
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

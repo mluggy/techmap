@@ -1,0 +1,31 @@
+{
+  "name": "Se-cure",
+  "description": "Se-cure is a pharmaceutical company founded in 1997, which has developed a proprietary platform for the discovery, development and scaling of therapies from botanical origin.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/se-cure-logo.webp",
+  "websiteUrl": "https://www.se-curepharma.com",
+  "careersUrl": null,
+  "linkedinId": "se-cure-pharmaceuticals-ltd.",
+  "linkedinNum": 774823,
+  "crunchbaseId": null,
+  "ivcId": "A1000000007612",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גולן",
+      "houseNumber": 1,
+      "city": "נתב\"ג",
+      "lat": 31.9879816,
+      "lon": 34.914164
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

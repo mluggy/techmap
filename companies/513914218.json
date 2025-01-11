@@ -1,0 +1,31 @@
+{
+  "name": "Corbomite",
+  "description": "Corbomite Games is an independent Israeli game developer, located in Tel-Aviv, Israel.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/corbomite-logo.webp",
+  "websiteUrl": "http://www.corbomitegames.com",
+  "careersUrl": null,
+  "linkedinId": "corbomite-games",
+  "linkedinNum": 1090682,
+  "crunchbaseId": null,
+  "ivcId": "A1000000008112",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רקנאטי",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.1221168,
+      "lon": 34.802503
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

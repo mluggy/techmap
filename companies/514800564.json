@@ -6,11 +6,17 @@
   "logoFile": "logos/bionic_8_analytics-logo.webp",
   "websiteUrl": "https://www.bionic.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 69611066,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bionic",
   "xId": "BionicAI",
+  "facebookId": "BionicAIP",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפסגות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BionicAIP",
-  "linkedinNum": 69611066
+  "isActive": true
 }

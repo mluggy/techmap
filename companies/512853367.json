@@ -6,20 +6,26 @@
   "logoFile": "logos/novetide-logo.webp",
   "websiteUrl": "https://www.novetide.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "novetide-ltd.",
+  "linkedinNum": 1228122,
   "crunchbaseId": "novetide",
+  "ivcId": null,
   "finderId": "novetide",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דבורה הנביאה",
       "houseNumber": 124,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.113469,
       "lon": 34.841716
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1228122
+  "isActive": true
 }

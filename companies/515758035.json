@@ -1,16 +1,22 @@
 {
   "name": "Bio-Cloud",
-  "description": "Insect-repelling Organic Crop Protection",
+  "description": "Insect-repelling Organic Crop Protection.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/bio_cloud-logo.webp",
   "websiteUrl": "https://www.biocloudglobe.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "biocloud-ltd",
+  "linkedinNum": 71177417,
   "crunchbaseId": null,
+  "ivcId": "A1000000268634",
   "finderId": "biocloud",
   "xId": null,
+  "facebookId": "%D7%91%D7%99%D7%95-%D7%A7%D7%9C%D7%90%D7%95%D7%95%D7%93-Bio-Cloud-106921027749910",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דישון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "%D7%91%D7%99%D7%95-%D7%A7%D7%9C%D7%90%D7%95%D7%95%D7%93-Bio-Cloud-106921027749910",
-  "linkedinNum": 71177417
+  "isActive": true
 }

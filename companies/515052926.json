@@ -6,21 +6,26 @@
   "logoFile": "logos/particula-logo.webp",
   "websiteUrl": "https://particula-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gocube",
+  "linkedinNum": 28974521,
   "crunchbaseId": null,
+  "ivcId": "A1000000284078",
   "finderId": "particula",
   "xId": "gocube_official",
+  "facebookId": "getgocube",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רגב אריה",
-      "houseNumber": 4,
-      "city": "נתניה",
-      "lat": 32.2807699,
-      "lon": 34.8627324
+      "street": "גיבורי ישראל",
+      "houseNumber": 22,
+      "city": "בני ברק",
+      "lat": 32.0823113,
+      "lon": 34.8439199
     }
   ],
   "isMultinational": false,
-  "facebookId": "getgocube",
-  "linkedinNum": 28974521
+  "isActive": true
 }

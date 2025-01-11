@@ -6,20 +6,26 @@
   "logoFile": "logos/eat_id-logo.webp",
   "websiteUrl": "https://www.eat.vision/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "eat-id",
+  "linkedinNum": 90906284,
   "crunchbaseId": null,
+  "ivcId": "A1000000360679",
   "finderId": "eat-id",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בוני העיר",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.100101,
-      "lon": 34.783343
+      "houseNumber": 17,
+      "city": "תל אביב-יפו",
+      "lat": 32.1010699,
+      "lon": 34.7831993
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90906284
+  "isActive": true
 }

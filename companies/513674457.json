@@ -6,11 +6,17 @@
   "logoFile": "logos/singular-logo.webp",
   "websiteUrl": "https://www.singular.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "singular-labs",
+  "linkedinNum": 3739623,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "singular",
   "xId": "TweetSingular",
+  "facebookId": "singularplatform",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרן היסוד",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "singularplatform",
-  "linkedinNum": 3739623
+  "isActive": true
 }

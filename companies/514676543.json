@@ -6,11 +6,17 @@
   "logoFile": "logos/hera_med-logo.webp",
   "websiteUrl": "https://www.hera-med.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "heramed",
+  "linkedinNum": 5047695,
   "crunchbaseId": null,
+  "ivcId": "A1000000181448",
   "finderId": "heramed",
   "xId": null,
+  "facebookId": "herabeatil",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מאיר אריאל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "herabeatil",
-  "linkedinNum": 5047695
+  "isActive": true
 }

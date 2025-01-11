@@ -3,23 +3,29 @@
   "description": "We create apps focused on relaxation and creativity, including interactive experiences like Super Slime Simulator and Squishy Magic.",
   "categoryId": 11,
   "size": "xs",
-  "logoFile": "logos/dramaton_ltd-logo.webp",
+  "logoFile": "logos/dramaton-logo.webp",
   "websiteUrl": "https://dramaton.com/",
   "careersUrl": "https://dramaton.com/jobs.html",
-  "isHiring": true,
   "linkedinId": "dramaton",
+  "linkedinNum": 74511272,
   "crunchbaseId": null,
+  "ivcId": "A1000000229128",
   "finderId": "dramaton",
   "xId": null,
+  "facebookId": "mydramaton",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בלפור",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.068125,
-      "lon": 34.771892
+      "city": "תל אביב-יפו",
+      "lat": 32.0678566,
+      "lon": 34.7723594
     }
   ],
   "isMultinational": false,
-  "facebookId": "mydramaton"
+  "isActive": true
 }

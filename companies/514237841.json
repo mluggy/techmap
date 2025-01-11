@@ -1,26 +1,31 @@
 {
   "name": "LearningZone",
-  "description": "Training Management App for Organizations",
+  "description": "Training Management App for Organizations.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/learningzone-logo.webp",
   "websiteUrl": "https://learningzone.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "learningzone-ekko",
+  "linkedinNum": 3530942,
   "crunchbaseId": null,
+  "ivcId": "A1000000274264",
   "finderId": "learningzone",
   "xId": "LearningZoneMe",
+  "facebookId": "LearningZone-281632045605517",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ארלוזורוב",
-      "houseNumber": 12,
+      "street": "התדהר",
+      "houseNumber": 17,
       "city": "רעננה",
-      "lat": 32.177584,
-      "lon": 34.8783644
+      "lat": 32.1971721,
+      "lon": 34.8839253
     }
   ],
   "isMultinational": false,
-  "facebookId": "LearningZone-281632045605517",
-  "linkedinNum": 3530942
+  "isActive": true
 }

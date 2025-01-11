@@ -1,0 +1,31 @@
+{
+  "name": "Myshop",
+  "description": "Myshop was created with the aim of making a simple, easy and efficient ordering interface accessible to all business owners.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/myshop-logo.webp",
+  "websiteUrl": "https://myshoptechnologies.com",
+  "careersUrl": null,
+  "linkedinId": "myshoptechnology",
+  "linkedinNum": 4870381,
+  "crunchbaseId": null,
+  "ivcId": "A1000000417449",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות ההסתדרות",
+      "houseNumber": 25,
+      "city": "חיפה",
+      "lat": 32.7909455,
+      "lon": 35.0326324
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

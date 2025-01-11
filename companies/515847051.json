@@ -1,0 +1,31 @@
+{
+  "name": "Elector",
+  "description": "Elector developed a voting system for Election Campaigns.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/elector-logo.webp",
+  "websiteUrl": "http://elector.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000282302",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מתתיהו",
+      "houseNumber": 26,
+      "city": "גן יבנה",
+      "lat": 31.78307569999999,
+      "lon": 34.6927169
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,20 +6,26 @@
   "logoFile": "logos/chickp_protein-logo.webp",
   "websiteUrl": "https://www.chickp-protein.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "chickp",
+  "linkedinNum": 18077601,
   "crunchbaseId": null,
+  "ivcId": "A1000000234555",
   "finderId": "chickp-protein",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18077601
+  "isActive": true
 }

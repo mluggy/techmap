@@ -1,25 +1,31 @@
 {
   "name": "Byvalue",
-  "description": "Monetize Code via API",
+  "description": "Byvalue empowers developers by enabling them to deploy, share and monetize their code via API without having to worry about infrastructure.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/byvalue-logo.webp",
-  "websiteUrl": "https://byvalue.org/",
+  "websiteUrl": "https://www.redstrings.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "byvalue-code-marketplace",
+  "linkedinNum": 38101082,
   "crunchbaseId": null,
+  "ivcId": "A1000000341415",
   "finderId": "byvalue",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החירות",
-      "houseNumber": 2,
-      "city": "נורדיה",
-      "lat": 32.31610809111199,
-      "lon": 34.896232876644646
+      "street": "שדה בוקר",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0701661,
+      "lon": 34.8095435
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 38101082
+  "isActive": true
 }

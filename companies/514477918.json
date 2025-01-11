@@ -6,19 +6,26 @@
   "logoFile": "logos/gtech_it-logo.webp",
   "websiteUrl": "https://coreone.co",
   "careersUrl": "https://coreone.com/careers/current-openings/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gtech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריב\"ל",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062477,
       "lon": 34.782957
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

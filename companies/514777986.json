@@ -1,26 +1,31 @@
 {
   "name": "Screenz",
-  "description": "SaaS Platform for Audience Engagement",
+  "description": "SaaS Platform for Audience Engagement.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/screenz_cross_media-logo.webp",
   "websiteUrl": "https://scrnz.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "screenz",
+  "linkedinNum": 2806136,
   "crunchbaseId": null,
+  "ivcId": "A1000000024817",
   "finderId": "screenz",
   "xId": "Scrnz",
+  "facebookId": "scrnz",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תבואות הארץ",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.111398,
-      "lon": 34.82675
+      "city": "תל אביב-יפו",
+      "lat": 32.11162580000001,
+      "lon": 34.82736240000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "scrnz",
-  "linkedinNum": 2806136
+  "isActive": true
 }

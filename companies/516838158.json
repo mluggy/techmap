@@ -3,21 +3,29 @@
   "description": "Transforming the way highway traffic is managed.",
   "categoryId": 5,
   "size": "xs",
-  "logoFile": "logos/cygnus_smart_transportation-logo.webp",
+  "logoFile": "logos/cygnus-smart-transportation-logo.webp",
   "websiteUrl": "https://www.cygnus-traffic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cygnus-traffic",
+  "linkedinNum": 80351131,
   "crunchbaseId": null,
+  "ivcId": "A1000000460812",
   "finderId": "cygnus-smart-transportation",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קוטשר יחזקאל",
-      "houseNumber": 3,
+      "street": "כנפי נשרים",
+      "houseNumber": 35,
       "city": "ירושלים",
-      "lat": 31.8216923,
-      "lon": 35.1871002
+      "lat": 31.7871046,
+      "lon": 35.1813603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

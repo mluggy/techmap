@@ -6,11 +6,17 @@
   "logoFile": "logos/agrosoft-logo.webp",
   "websiteUrl": "https://agrosoft.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "agrosoft",
   "xId": null,
+  "facebookId": "agrosoft.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדובדבן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "agrosoft.co.il"
+  "isActive": true
 }

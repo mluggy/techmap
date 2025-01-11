@@ -6,21 +6,26 @@
   "logoFile": "logos/bioprotect-logo.webp",
   "websiteUrl": "https://bioprotect.com/",
   "careersUrl": "https://app.civi.co.il/promos/id=99JWRWKSL3&src=6797&lang=en",
-  "isHiring": false,
   "linkedinId": "bioprotect-ltd",
+  "linkedinNum": 439364,
   "crunchbaseId": null,
+  "ivcId": "A1000000007701",
   "finderId": "bioprotect",
   "xId": "BioprotectS",
+  "facebookId": "BioProtectSpacers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צור צור יגאל",
+      "street": "צור",
       "houseNumber": 8,
-      "city": "צור יגאל",
-      "lat": 32.2149108,
-      "lon": 34.9891577
+      "city": "כוכב יאיר צור יגאל",
+      "lat": 32.2191573,
+      "lon": 34.9824814
     }
   ],
   "isMultinational": false,
-  "facebookId": "BioProtectSpacers",
-  "linkedinNum": 439364
+  "isActive": true
 }

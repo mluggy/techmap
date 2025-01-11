@@ -6,11 +6,17 @@
   "logoFile": "logos/paymaxs-logo.webp",
   "websiteUrl": "https://paymax.ng/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "paymaxs",
+  "linkedinNum": 27043777,
   "crunchbaseId": "paymaxs",
+  "ivcId": null,
   "finderId": "paymaxs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיבים",
@@ -19,5 +25,7 @@
       "lat": 32.0916612,
       "lon": 34.8571892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

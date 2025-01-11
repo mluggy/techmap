@@ -1,26 +1,31 @@
 {
   "name": "Hypervision",
-  "description": "Compact Immersive FoV Technology for the Metaverse",
+  "description": "Compact Immersive FoV Technology for the Metaverse.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/hypervision-logo.webp",
   "websiteUrl": "https://www.hypervision.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hypervisionxr",
+  "linkedinNum": 70449918,
   "crunchbaseId": null,
+  "ivcId": "A1000000311622",
   "finderId": "hypervision",
   "xId": null,
+  "facebookId": "hypervision.xr",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכרמל",
-      "houseNumber": 5,
-      "city": "יקנעם עילית",
-      "lat": 32.65739155,
-      "lon": 35.09768735
+      "street": null,
+      "houseNumber": null,
+      "city": "יוקנעם עילית",
+      "lat": 32.660225,
+      "lon": 35.104606
     }
   ],
   "isMultinational": false,
-  "facebookId": "hypervision.xr",
-  "linkedinNum": 70449918
+  "isActive": true
 }

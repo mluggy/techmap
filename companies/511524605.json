@@ -6,20 +6,26 @@
   "logoFile": "logos/kamada-logo.webp",
   "websiteUrl": "https://www.kamada.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kamada",
+  "linkedinNum": 117855,
   "crunchbaseId": null,
+  "ivcId": "A1000000007091",
   "finderId": "kamada",
   "xId": "kamada_pharma",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הולצמן חיים",
-      "houseNumber": 2,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.915662249999997,
-      "lon": 34.807746809143225
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 117855
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Interai",
-  "description": "Customer Relationship Intelligence Platform",
+  "description": "Customer Relationship Intelligence Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/interai-logo.webp",
   "websiteUrl": "https://www.inter.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "interai",
+  "linkedinNum": 28673751,
   "crunchbaseId": null,
+  "ivcId": "A1000000281461",
   "finderId": "interai",
   "xId": null,
+  "facebookId": "interaicompany",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד האורנים רמת אפעל",
-      "houseNumber": 51,
-      "city": "רמת גן",
-      "lat": 32.04566344063154,
-      "lon": 34.83806416200094
+      "street": "תושיה",
+      "houseNumber": 17,
+      "city": "תל אביב-יפו",
+      "lat": 32.0666974,
+      "lon": 34.7902611
     }
   ],
   "isMultinational": false,
-  "facebookId": "interaicompany",
-  "linkedinNum": 28673751
+  "isActive": true
 }

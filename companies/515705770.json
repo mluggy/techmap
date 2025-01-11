@@ -6,19 +6,26 @@
   "logoFile": "logos/fortephest-logo.webp",
   "websiteUrl": "https://fortephest.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000271132",
   "finderId": "fortephest",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דן",
+      "street": "פנחס ספיר",
       "houseNumber": 3,
       "city": "נס ציונה",
-      "lat": 31.9289715,
-      "lon": 34.7882439
+      "lat": 31.91451859999999,
+      "lon": 34.8032823
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

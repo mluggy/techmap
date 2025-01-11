@@ -6,20 +6,26 @@
   "logoFile": "logos/biotic_circular_technologies-logo.webp",
   "websiteUrl": "https://biotic-labs.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "biotic-circular",
+  "linkedinNum": null,
   "crunchbaseId": "bio-circular-ltd",
+  "ivcId": "A1000000337719",
   "finderId": "biotic",
   "xId": "bio_circular",
+  "facebookId": "BioticCircularTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כצנלסון ברל",
-      "houseNumber": 26,
-      "city": "כפר סבא",
-      "lat": 32.1866523,
-      "lon": 34.905647
+      "street": null,
+      "houseNumber": null,
+      "city": "קיסריה",
+      "lat": 32.5190504,
+      "lon": 34.9044537
     }
   ],
   "isMultinational": false,
-  "facebookId": "BioticCircularTechnologies"
+  "isActive": true
 }

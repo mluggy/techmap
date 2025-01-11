@@ -6,19 +6,26 @@
   "logoFile": "logos/tonoguard-logo.webp",
   "websiteUrl": "https://tonoguard.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "tonoguard",
+  "ivcId": "A1000000004178",
   "finderId": "tonoguard",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בארי",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.083489,
-      "lon": 34.785679
+      "city": "תל אביב-יפו",
+      "lat": 32.0835434,
+      "lon": 34.785719
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "TABI Learning Technologies",
-  "description": "Personalized Digital Learning Platform for Students with Learning Disabilities",
+  "description": "Personalized Digital Learning Platform for Students with Learning Disabilities.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/tabi_learning_technologies-logo.webp",
   "websiteUrl": "https://www.tabi.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tabi-learning-technologies",
+  "linkedinNum": 68540799,
   "crunchbaseId": "tabi-learning-technologies",
+  "ivcId": "A1000000308579",
   "finderId": "tabi-learning-technologies-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחל לכיש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68540799
+  "isActive": true
 }

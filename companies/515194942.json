@@ -6,21 +6,26 @@
   "logoFile": "logos/covercy-logo.webp",
   "websiteUrl": "https://www.covercy.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "covercy",
+  "linkedinNum": 5236360,
   "crunchbaseId": null,
+  "ivcId": "A1000000194588",
   "finderId": "covercy",
   "xId": "CovercyLtd",
+  "facebookId": "Covercy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "Covercy",
-  "linkedinNum": 5236360
+  "isActive": true
 }

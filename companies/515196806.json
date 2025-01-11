@@ -1,0 +1,31 @@
+{
+  "name": "Alef Alef Beit Tochna",
+  "description": "Folyou developed a responsive website builder.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/alef_alef_beit_tochna-logo.webp",
+  "websiteUrl": "http://www.folyou.com",
+  "careersUrl": "https://www.folyou.co.il/he/jobs",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000180861",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגולן",
+      "houseNumber": 55,
+      "city": "תל אביב-יפו",
+      "lat": 32.1099027,
+      "lon": 34.8356968
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/flying_spark-logo.webp",
   "websiteUrl": "https://www.flyingspark.com/",
   "careersUrl": "https://www.flyingspark.com/careers",
-  "isHiring": true,
   "linkedinId": "flyingsparkltd",
+  "linkedinNum": 11476162,
   "crunchbaseId": null,
+  "ivcId": "A1000000181834",
   "finderId": "flying-spark",
   "xId": null,
+  "facebookId": "FlyingSparktld",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלוף דוד",
-      "houseNumber": 75,
-      "city": "רמת גן",
-      "lat": 32.05909535,
-      "lon": 34.8209004
+      "street": "יצחק מודעי",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.899798,
+      "lon": 34.788637
     }
   ],
   "isMultinational": false,
-  "facebookId": "FlyingSparktld",
-  "linkedinNum": 11476162
+  "isActive": true
 }

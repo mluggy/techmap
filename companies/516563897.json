@@ -6,20 +6,26 @@
   "logoFile": "logos/rubycomm-logo.webp",
   "websiteUrl": "https://www.rubycomm.com/",
   "careersUrl": "https://www.rubycomm.com/careers",
-  "isHiring": true,
   "linkedinId": "ruby-comm",
+  "linkedinNum": 77055407,
   "crunchbaseId": null,
+  "ivcId": "A1000000386845",
   "finderId": "rubycomm",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב נריה משה צבי",
-      "houseNumber": 1,
-      "city": "רחובות",
-      "lat": 31.902112481437776,
-      "lon": 34.824859717021056
+      "street": "התדהר",
+      "houseNumber": 5,
+      "city": "רעננה",
+      "lat": 32.1931842,
+      "lon": 34.8827896
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77055407
+  "isActive": true
 }

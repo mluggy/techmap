@@ -3,16 +3,29 @@
   "description": "A trailblazer in designing and producing advanced infrastructure, construction, and irrigation systems.",
   "categoryId": 17,
   "size": "m",
-  "logoFile": "logos/metzerplas_holdings-logo.webp",
+  "logoFile": "logos/metzer-group-logo.webp",
   "websiteUrl": "https://www.metzer-group.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "metzer",
+  "linkedinNum": 28174777,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "metzerplas",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "metzerplas",
-  "linkedinNum": 28174777
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ מצר",
+      "lat": 32.441747657520075,
+      "lon": 35.049035079317036
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

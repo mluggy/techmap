@@ -6,11 +6,17 @@
   "logoFile": "logos/sealights_technologies-logo.webp",
   "websiteUrl": "https://www.sealights.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sealights-technologies-ltd",
+  "linkedinNum": 10865318,
   "crunchbaseId": "sealights",
+  "ivcId": null,
   "finderId": "sealights",
   "xId": "sealights_io",
+  "facebookId": "LifeatSeaLights",
+  "breezyId": null,
+  "comeetId": "sealights/C5.008",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "LifeatSeaLights",
-  "linkedinNum": 10865318,
-  "comeetId": "sealights/C5.008"
+  "isActive": true
 }

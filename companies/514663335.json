@@ -3,23 +3,29 @@
   "description": "Artificial Intelligence-based Systems for Preventing Accidents.",
   "categoryId": 1,
   "size": "s",
-  "logoFile": "logos/jungo_connectivity-logo.webp",
+  "logoFile": "logos/jungo-connectivity-logo.webp",
   "websiteUrl": "https://jungo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "jungo-connectivity-ltd",
+  "linkedinNum": 3197423,
   "crunchbaseId": null,
+  "ivcId": "A1000000025020",
   "finderId": "jungo-connectivity",
   "xId": "JungoConnect",
+  "facebookId": "JungoConnectivity",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קבוץ גלויות",
-      "houseNumber": 89,
-      "city": "הרצליה",
-      "lat": 32.1691856,
-      "lon": 34.8580241
+      "street": "הרצל",
+      "houseNumber": 28,
+      "city": "נתניה",
+      "lat": 32.3283202,
+      "lon": 34.8570342
     }
   ],
   "isMultinational": false,
-  "facebookId": "JungoConnectivity"
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/easy_cmm-logo.webp",
   "websiteUrl": "https://easycmm.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "easycmm",
+  "linkedinNum": 18696459,
   "crunchbaseId": null,
+  "ivcId": "A1000000341788",
   "finderId": "easycmm",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האופה",
-      "houseNumber": 1,
-      "city": "קדימה",
-      "lat": 32.2760519,
-      "lon": 34.9177744
+      "houseNumber": null,
+      "city": "קדימה צורן",
+      "lat": 32.2759677,
+      "lon": 34.9200385
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18696459
+  "isActive": true
 }

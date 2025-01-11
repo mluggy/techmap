@@ -1,24 +1,31 @@
 {
   "name": "Sol-Del Medical",
-  "description": "Medical PVA Soluble Delivery Platform",
+  "description": "Medical PVA Soluble Delivery Platform.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/sol_del_medical-logo.webp",
   "websiteUrl": "https://ma.soldel-medical.com/sol-del",
   "careersUrl": "https://careers.hcahealthcare.com/pages/del-sol-medical-center",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000387293",
   "finderId": "sol-del-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התע\"ש",
-      "houseNumber": 10,
-      "city": "כפר סבא",
-      "lat": 32.1789899,
-      "lon": 34.9284423
+      "street": "צבי בורנשטיין",
+      "houseNumber": null,
+      "city": "ירוחם",
+      "lat": 30.9848151,
+      "lon": 34.93675460000001
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

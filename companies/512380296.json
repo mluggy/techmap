@@ -6,20 +6,26 @@
   "logoFile": "logos/aposense-logo.webp",
   "websiteUrl": "https://aposense.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aposense",
+  "linkedinNum": 1833144,
   "crunchbaseId": "aposense",
+  "ivcId": "A1000000004975",
   "finderId": "aposense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אודם",
       "houseNumber": 5,
       "city": "פתח תקווה",
-      "lat": 32.0896507,
-      "lon": 34.8577193
+      "lat": 32.090106,
+      "lon": 34.8578941
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1833144
+  "isActive": true
 }

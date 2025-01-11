@@ -1,25 +1,31 @@
 {
   "name": "VIVID",
-  "description": "Creator economy platform for personal growth experts",
+  "description": "Creator economy platform for personal growth experts.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/vivid-logo.webp",
   "websiteUrl": "https://www.vivid.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "joinvivid",
+  "linkedinNum": 78276021,
   "crunchbaseId": null,
+  "ivcId": "A1000000449512",
   "finderId": "vivid",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הא באייר",
-      "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.086834100000004,
-      "lon": 34.78983455852593
+      "street": "בועז",
+      "houseNumber": 6,
+      "city": "רמת השרון",
+      "lat": 32.1407396,
+      "lon": 34.840425
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78276021
+  "isActive": true
 }

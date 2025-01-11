@@ -6,11 +6,17 @@
   "logoFile": "logos/gencell-logo.webp",
   "websiteUrl": "https://www.gencellenergy.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gencell-ltd",
+  "linkedinNum": 3500202,
   "crunchbaseId": null,
+  "ivcId": "A1000000171863",
   "finderId": "gencell",
   "xId": "gencellenergy",
+  "facebookId": "GenCellEnergy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התנופה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GenCellEnergy",
-  "linkedinNum": 3500202
+  "isActive": true
 }

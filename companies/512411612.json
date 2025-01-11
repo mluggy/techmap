@@ -1,16 +1,22 @@
 {
   "name": "Merck",
   "description": "Dedicated to addressing major health challenges through scientific innovation to improve lives.",
-  "size": "l",
   "categoryId": 12,
+  "size": "l",
   "logoFile": "logos/merck_sharp_dohme_israel_1996_company_ltd-logo.webp",
   "websiteUrl": "https://www.merckgroup.com/en/worldwide/merck-in-israel.html",
   "careersUrl": "https://jobs.merck.com/us/en",
-  "isHiring": true,
   "linkedinId": "merck-group",
+  "linkedinNum": 1485,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "merck",
   "xId": "merckgroup",
+  "facebookId": "merckgroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -20,7 +26,6 @@
       "lon": 34.8937285
     }
   ],
-  "isMultinational": true,
-  "facebookId": "merckgroup",
-  "linkedinNum": 1485
+  "isMultinational": false,
+  "isActive": true
 }

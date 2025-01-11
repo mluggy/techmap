@@ -6,21 +6,26 @@
   "logoFile": "logos/hunters_ltd-logo.webp",
   "websiteUrl": "https://www.hunters.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hunters-ai",
+  "linkedinNum": 18950768,
   "crunchbaseId": null,
+  "ivcId": "A1000000386708",
   "finderId": "hunters",
   "xId": "hunters_ai",
+  "facebookId": "hunters.ai.cyber",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היובלים",
-      "houseNumber": 3,
-      "city": "הוד השרון",
-      "lat": 32.13357225,
-      "lon": 34.903327191157686
+      "street": "יגאל אלון",
+      "houseNumber": 82,
+      "city": "תל אביב-יפו",
+      "lat": 32.0662181,
+      "lon": 34.7928935
     }
   ],
   "isMultinational": false,
-  "facebookId": "hunters.ai.cyber",
-  "linkedinNum": 18950768
+  "isActive": true
 }

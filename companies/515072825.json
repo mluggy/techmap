@@ -6,11 +6,17 @@
   "logoFile": "logos/anodot-logo.webp",
   "websiteUrl": "https://www.anodot.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "anodot",
+  "linkedinNum": 5229141,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "anodot",
   "xId": "TeamAnodot",
+  "facebookId": "anodot",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השיזף",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "anodot",
-  "linkedinNum": 5229141
+  "isActive": true
 }

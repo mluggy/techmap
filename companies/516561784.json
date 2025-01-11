@@ -1,0 +1,31 @@
+{
+  "name": "Oneg",
+  "description": "Oneg is helping people with physical disabilities who cannot have sex and people who have been sexually harmed, to use a device that will operate on the erogenous areas of their bodies in order to feel full or partial satisfaction.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/oneg-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": "oneg-tech",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000423823",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרב יצחק ידידיה פרנקל",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.0571844,
+      "lon": 34.7694898
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

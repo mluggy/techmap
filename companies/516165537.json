@@ -3,22 +3,29 @@
   "description": "Unlock meaningful data insights and outcomes with an AI-powered enterprise search platform.",
   "categoryId": 1,
   "size": "m",
-  "logoFile": "logos/elastic_technologies_israel-logo.webp",
+  "logoFile": "logos/elastic-technologies-israel-logo.webp",
   "websiteUrl": "https://www.elastic.co/",
   "careersUrl": "https://www.elastic.co/careers",
-  "isHiring": true,
   "linkedinId": "elastic-co",
+  "linkedinNum": 814025,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "elastic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "elastic",
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 48,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0631601,
       "lon": 34.7803411
     }
   ],
-  "greenhouseId": "elastic"
+  "isMultinational": false,
+  "isActive": true
 }

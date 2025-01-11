@@ -1,25 +1,31 @@
 {
   "name": "Tasq Technologies",
-  "description": "Labeling Solution for Visual Data",
+  "description": "Labeling Solution for Visual Data.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tasq_technologies-logo.webp",
   "websiteUrl": "https://www.tasq.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tasq-ai",
+  "linkedinNum": 14815425,
   "crunchbaseId": "tasq-ai",
+  "ivcId": "A1000000326609",
   "finderId": "tasq-technologies",
   "xId": "tasq_ai",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 58,
-      "city": "תל אביב - יפו",
-      "lat": 32.060334,
-      "lon": 34.782124
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14815425
+  "isActive": true
 }

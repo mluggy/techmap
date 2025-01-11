@@ -6,21 +6,26 @@
   "logoFile": "logos/payoneer_research_and_development-logo.webp",
   "websiteUrl": "https://www.payoneer.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "payoneer",
+  "linkedinNum": 56101,
   "crunchbaseId": null,
+  "ivcId": "A1000000003207",
   "finderId": "payoneer",
   "xId": "Payoneer",
+  "facebookId": "Payoneer",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
       "houseNumber": 13,
       "city": "פתח תקווה",
-      "lat": 32.0960132,
-      "lon": 34.8499068
+      "lat": 32.0959912,
+      "lon": 34.8500147
     }
   ],
   "isMultinational": false,
-  "facebookId": "Payoneer",
-  "linkedinNum": 56101
+  "isActive": true
 }

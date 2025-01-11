@@ -1,16 +1,22 @@
 {
   "name": "3DM Digital Manufacturing",
-  "description": "An innovative Israeli startup specializing in industrial 3D printing for plastic polymers, aiming to revolutionize mass production and expand market applications.",
-  "categoryId": 15,
-  "size": "s",
+  "description": "Solrom specializes in the design and production of electric and electronic systems and equipment for the military market, for a variety of applications such as: target identification and remote sensing in systems such as Directional Infrared Countermeasure (DIRCM) disruptors, sensors, laser markers and observation systems in a variety of tools in the air, land and sea.",
+  "categoryId": 14,
+  "size": "m",
   "logoFile": "logos/3_dm_digital_manufacturing-logo.webp",
-  "websiteUrl": "https://3dm-tech.co.il/",
-  "careersUrl": "https://3dm-tech.co.il/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "websiteUrl": "https://www.solrom.com",
+  "careersUrl": null,
+  "linkedinId": "solrom-electronics-ltd.",
+  "linkedinNum": 74483171,
   "crunchbaseId": null,
+  "ivcId": "A1000000486914",
   "finderId": "3dm-digital-manufacturing",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74483171
+  "isActive": true
 }

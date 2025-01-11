@@ -1,16 +1,22 @@
 {
   "name": "ActiveAging",
-  "description": "AI-driven, Proactive Benefits Optimization and ManagementPlatform for Health Payers",
+  "description": "AI-driven, Proactive Benefits Optimization and ManagementPlatform for Health Payers.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/activeaging_analytics-logo.webp",
   "websiteUrl": "https://www.activeaging.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "activeaging-ai",
+  "linkedinNum": 87238655,
   "crunchbaseId": null,
+  "ivcId": "A1000000413524",
   "finderId": "activeaging",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 87238655
+  "isActive": true
 }

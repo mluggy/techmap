@@ -1,24 +1,31 @@
 {
   "name": "wizdome",
-  "description": "Critical Risk Management",
+  "description": "Critical Risk Management.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/wizdome_trading_algorithms-logo.webp",
   "websiteUrl": "https://www.wizdome.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wizdome",
+  "linkedinNum": null,
   "crunchbaseId": "brandefender-inc",
+  "ivcId": "A1000000259091",
   "finderId": "wizdome",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מגל",
-      "houseNumber": 6,
-      "city": "סביון",
-      "lat": 32.0503785,
-      "lon": 34.8793624
+      "street": "נחמני",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.0655775,
+      "lon": 34.7756822
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

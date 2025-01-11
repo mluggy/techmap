@@ -6,21 +6,26 @@
   "logoFile": "logos/vacayz-logo.webp",
   "websiteUrl": "https://vacayz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vacayz",
+  "linkedinNum": 27201006,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vacayz",
   "xId": "vacayz",
+  "facebookId": "pg",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אילת",
       "houseNumber": 61,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0597437,
       "lon": 34.76674105273763
     }
   ],
   "isMultinational": false,
-  "facebookId": "pg",
-  "linkedinNum": 27201006
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/check_cap-logo.webp",
   "websiteUrl": "https://check-cap.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "check-cap-ltd-",
+  "linkedinNum": 10085721,
   "crunchbaseId": null,
+  "ivcId": "A1000000003030",
   "finderId": "check-cap",
   "xId": "CheckCap_",
+  "facebookId": "CheckCapLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד אבא חושי",
-      "houseNumber": 29,
-      "city": "עספיא",
-      "lat": 32.7294463,
-      "lon": 35.0527308
+      "street": "שדרות אבא חושי",
+      "houseNumber": null,
+      "city": "עיספיא",
+      "lat": 32.7120208,
+      "lon": 35.0678305
     }
   ],
   "isMultinational": false,
-  "facebookId": "CheckCapLTD",
-  "linkedinNum": 10085721
+  "isActive": true
 }

@@ -1,17 +1,31 @@
 {
   "name": "mybouncer",
-  "description": "Drink Spiking Detector",
+  "description": "Drink Spiking Detector.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/mybouncer-logo.webp",
   "websiteUrl": "https://www.my-bouncer.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mybouncer",
+  "linkedinNum": 95955070,
   "crunchbaseId": null,
+  "ivcId": "A1000000435030",
   "finderId": "mybouncer",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "גבעת חיים איחוד",
+      "lat": 32.396745,
+      "lon": 34.932978
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 95955070
+  "isActive": true
 }

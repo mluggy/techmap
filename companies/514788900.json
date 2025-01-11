@@ -6,21 +6,26 @@
   "logoFile": "logos/selectmedia_international-logo.webp",
   "websiteUrl": "https://www.selectmedia.asia/",
   "careersUrl": "https://www.selectmedia.asia/careers/",
-  "isHiring": true,
   "linkedinId": "selectmedia-ltd",
+  "linkedinNum": 2905847,
   "crunchbaseId": null,
+  "ivcId": "A1000000187983",
   "finderId": "select-media",
   "xId": null,
+  "facebookId": "selectmedia",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "facebookId": "selectmedia",
-  "linkedinNum": 2905847
+  "isActive": true
 }

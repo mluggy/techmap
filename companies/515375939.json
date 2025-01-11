@@ -6,21 +6,26 @@
   "logoFile": "logos/skillinn_technologies-logo.webp",
   "websiteUrl": "https://skillinn.com/",
   "careersUrl": "https://skillinn.com/jobseeker/search",
-  "isHiring": true,
   "linkedinId": "joblee-israel",
+  "linkedinNum": 18229567,
   "crunchbaseId": "skillinn-technologies",
+  "ivcId": "A1000000223042",
   "finderId": "skillinn",
   "xId": null,
+  "facebookId": "Skillinn",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן גוריון",
       "houseNumber": 22,
-      "city": "הרצליה",
-      "lat": 32.1624473,
-      "lon": 34.842019629406224
+      "city": "רעננה",
+      "lat": 32.1758874,
+      "lon": 34.8694676
     }
   ],
   "isMultinational": false,
-  "facebookId": "Skillinn",
-  "linkedinNum": 18229567
+  "isActive": true
 }

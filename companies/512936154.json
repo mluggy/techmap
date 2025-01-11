@@ -1,25 +1,31 @@
 {
   "name": "Blue dot",
-  "description": "Automated VAT Recovery and Governance",
+  "description": "Automated VAT Recovery and Governance.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/blue_dot-logo.webp",
   "websiteUrl": "https://www.bluedotcorp.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vatbox",
+  "linkedinNum": 5003406,
   "crunchbaseId": null,
+  "ivcId": "A1000000022702",
   "finderId": "vatbox",
   "xId": "vatbox",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גולומב",
-      "houseNumber": 43,
-      "city": "רמת השרון",
-      "lat": 32.1445152,
-      "lon": 34.8397398
+      "street": "ספיר",
+      "houseNumber": 6,
+      "city": "הרצליה",
+      "lat": 32.1642079,
+      "lon": 34.811649
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5003406
+  "isActive": true
 }

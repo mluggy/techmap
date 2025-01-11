@@ -1,17 +1,22 @@
 {
   "name": "ARTsys360",
-  "description": "Micro-radar Sensors",
+  "description": "Micro-radar Sensors.",
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/artsys360.webp",
   "websiteUrl": "https://www.artsys360.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "cellnets",
   "linkedinNum": 141764,
   "crunchbaseId": null,
+  "ivcId": "A1000000023078",
   "finderId": "artsys360",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרוקמים",
@@ -21,5 +26,6 @@
       "lon": 34.80105057978357
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

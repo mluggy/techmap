@@ -6,20 +6,26 @@
   "logoFile": "logos/takadu-logo.webp",
   "websiteUrl": "https://www.takadu.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "takadu",
+  "linkedinNum": 872847,
   "crunchbaseId": null,
+  "ivcId": "A1000000008536",
   "finderId": "takadu",
   "xId": "TaKaDu",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 40,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0267353,
-      "lon": 34.8933861
+      "street": null,
+      "houseNumber": null,
+      "city": "יהוד מונוסון",
+      "lat": 32.032665,
+      "lon": 34.878849
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 872847
+  "isActive": true
 }

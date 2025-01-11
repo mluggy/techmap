@@ -6,18 +6,26 @@
   "logoFile": "logos/elssway-logo.webp",
   "websiteUrl": "https://www.elssway.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "elssway",
+  "linkedinNum": 100757795,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "elssway",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שגאל מרק",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.117301,
       "lon": 34.789612
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

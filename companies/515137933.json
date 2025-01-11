@@ -6,11 +6,17 @@
   "logoFile": "logos/videocites_id-logo.webp",
   "websiteUrl": "https://www.videocites.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "videocites",
+  "linkedinNum": 10702481,
   "crunchbaseId": "videocites",
+  "ivcId": "A1000000187017",
   "finderId": "videocites",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגביש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10702481
+  "isActive": true
 }

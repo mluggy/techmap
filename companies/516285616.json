@@ -6,20 +6,26 @@
   "logoFile": "logos/datorios-logo.webp",
   "websiteUrl": "https://datorios.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wedatorios",
+  "linkedinNum": 74388779,
   "crunchbaseId": "metrolink-ai",
+  "ivcId": null,
   "finderId": "metrolink-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מרים החשמונאית",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.092037,
       "lon": 34.783987
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74388779
+  "isActive": true
 }

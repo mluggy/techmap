@@ -6,20 +6,26 @@
   "logoFile": "logos/splisense-logo.webp",
   "websiteUrl": "https://splisense.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "splisenseltd",
+  "linkedinNum": 77849119,
   "crunchbaseId": null,
+  "ivcId": "A1000000241828",
   "finderId": "splisense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך מן קלמן",
-      "houseNumber": 1,
+      "street": "קלמן יעקב מן",
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7573052,
-      "lon": 35.1601382
+      "lat": 31.7651499,
+      "lon": 35.1496315
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77849119
+  "isActive": true
 }

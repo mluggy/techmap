@@ -1,26 +1,31 @@
 {
   "name": "VR STEPS",
-  "description": "Remote Patient Monitoring and Rehabilitation Platform",
+  "description": "Remote Patient Monitoring and Rehabilitation Platform.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/vr_steps-logo.webp",
   "websiteUrl": "https://www.vrsteps.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vrsteps",
+  "linkedinNum": 72460124,
   "crunchbaseId": null,
+  "ivcId": "A1000000271646",
   "finderId": "vr-steps",
   "xId": null,
+  "facebookId": "vrsteps",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "העצמאות",
-      "houseNumber": 40,
+      "street": "40",
+      "houseNumber": null,
       "city": "באר שבע",
-      "lat": 31.2428648,
-      "lon": 34.7859073
+      "lat": 31.2597131,
+      "lon": 34.8297456
     }
   ],
   "isMultinational": false,
-  "facebookId": "vrsteps",
-  "linkedinNum": 72460124
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Otipo",
+  "description": "Ronram developed Otipo, Otipo offers revolutionary management tools to improve productivity and organizational well being.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/otipo-logo.webp",
+  "websiteUrl": "http://www.otipo.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010638",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בלפור",
+      "houseNumber": 8,
+      "city": "רמת השרון",
+      "lat": 32.1320844,
+      "lon": 34.8478124
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

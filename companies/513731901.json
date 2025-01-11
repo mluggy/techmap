@@ -6,21 +6,26 @@
   "logoFile": "logos/intlock-logo.webp",
   "websiteUrl": "https://www.intlock.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 133137,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "intlock",
   "xId": "cardiolog",
+  "facebookId": "Intlock",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית שמאי",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069473,
       "lon": 34.789021
     }
   ],
   "isMultinational": false,
-  "facebookId": "Intlock",
-  "linkedinNum": 133137
+  "isActive": true
 }

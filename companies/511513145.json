@@ -3,16 +3,29 @@
   "description": "With over 35 years of expertise, this company specializes in developing and manufacturing general and specialty cell culture media.",
   "categoryId": 12,
   "size": "m",
-  "logoFile": "logos/biological_industries_israel_beit_haemek-logo.webp",
+  "logoFile": "logos/biological-industries-logo.webp",
   "websiteUrl": "https://www.bioind.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "biological-industries",
+  "linkedinNum": 1902252,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "biological-industries",
   "xId": "bio_industries",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "bioind",
-  "linkedinNum": 1902252
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ בית העמק",
+      "lat": 32.971777299593995,
+      "lon": 35.145375545147274
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

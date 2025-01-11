@@ -3,21 +3,29 @@
   "description": "BLST comprehends its clients' API strategies by considering essential factors such as business objectives, user experiences, and IT performance indicators.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/blst_security-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/blst-security-logo.webp",
+  "websiteUrl": "https://blstsecurity.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "blstsecurity",
+  "linkedinNum": 71131700,
   "crunchbaseId": "blst-security",
+  "ivcId": "A1000000347705",
   "finderId": "blst-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חומה ומגדל",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.061152,
-      "lon": 34.785681
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

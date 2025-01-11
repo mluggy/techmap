@@ -1,0 +1,31 @@
+{
+  "name": "Balamuth",
+  "description": "Balamuth is a leading company in the technology equipment market and self-service kiosks ‎and machines. ‎.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/balamuth-logo.webp",
+  "websiteUrl": "http://www.balamuth.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000007231",
+  "finderId": null,
+  "xId": null,
+  "facebookId": "H.Balamuth",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 34,
+      "city": "תל אביב-יפו",
+      "lat": 32.0650243,
+      "lon": 34.7875326
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Inhayle",
+  "description": "Inhayle offers pallet disinfection technology that can help maintain environmental cleanliness in space stations and human colonies.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/inhayle-logo.webp",
+  "websiteUrl": "https://www.inhayle.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000479201",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנח\"ל",
+      "houseNumber": null,
+      "city": "רמת גן",
+      "lat": 32.0752554,
+      "lon": 34.8238909
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/ironsource-logo.webp",
   "websiteUrl": "https://www.is.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2657359,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ironsource",
   "xId": "ironSource",
+  "facebookId": "ironSource",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
   "isMultinational": false,
-  "facebookId": "ironSource",
-  "linkedinNum": 2657359
+  "isActive": true
 }

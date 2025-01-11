@@ -6,20 +6,26 @@
   "logoFile": "logos/privacy_rating-logo.webp",
   "websiteUrl": "https://www.qprivacy.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "qprivacy",
+  "linkedinNum": 29024511,
   "crunchbaseId": null,
+  "ivcId": "A1000000259193",
   "finderId": "privacy-rating",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגליל",
       "houseNumber": 91,
       "city": "גני תקווה",
-      "lat": 32.0574429,
-      "lon": 34.8741102
+      "lat": 32.0563736,
+      "lon": 34.8673135
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 29024511
+  "isActive": true
 }

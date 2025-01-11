@@ -6,21 +6,26 @@
   "logoFile": "logos/netapp_israel_r_d-logo.webp",
   "websiteUrl": "https://www.netapp.com/",
   "careersUrl": "https://careers.netapp.com/",
-  "isHiring": true,
   "linkedinId": "netapp",
+  "linkedinNum": 2105,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "netapp",
   "xId": "netappil",
+  "facebookId": "NetApp-Israel-232820099769",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צומת רחובות אחד העם-מונטיפיורי-השער-אחוזת בית",
       "houseNumber": null,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065846461941014,
       "lon": 34.77479110302345
     }
   ],
-  "isMultinational": true,
-  "facebookId": "NetApp-Israel-232820099769",
-  "linkedinNum": 2105
+  "isMultinational": false,
+  "isActive": true
 }

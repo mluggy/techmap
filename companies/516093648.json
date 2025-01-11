@@ -6,11 +6,17 @@
   "logoFile": "logos/frontegg-logo.webp",
   "websiteUrl": "https://frontegg.com/",
   "careersUrl": "https://frontegg.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 29365766,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "frontegg",
   "xId": "FronteggForSaaS",
+  "facebookId": "frontegg",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "frontegg",
-  "linkedinNum": 29365766
+  "isActive": true
 }

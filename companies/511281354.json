@@ -3,15 +3,20 @@
   "description": "Mobile Workforce Management",
   "categoryId": 14,
   "size": "m",
-  "logoFile": "logos/viryanet.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/viryanet-logo.webp",
+  "websiteUrl": "https://www.accruent.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinNum": 22758,
+  "linkedinId": "accruent",
+  "linkedinNum": 13288,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "viryanet",
   "xId": "viryanet",
   "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרפא",
@@ -21,5 +26,6 @@
       "lon": 35.210073690721
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

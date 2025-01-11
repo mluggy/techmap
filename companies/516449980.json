@@ -1,0 +1,31 @@
+{
+  "name": "CatchMe Therapeutics",
+  "description": "CatchMe-Tx is a biotech company specializing in RNA-based therapies and pioneering work in the epitranscriptome space.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/catchme-therapeutics-logo.webp",
+  "websiteUrl": "http://catchme-tx.com",
+  "careersUrl": null,
+  "linkedinId": "catchme-therapeutics",
+  "linkedinNum": 81306978,
+  "crunchbaseId": null,
+  "ivcId": "A1000000399134",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אילן רמון",
+      "houseNumber": 2,
+      "city": "נס ציונה",
+      "lat": 31.9177971,
+      "lon": 34.804366
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

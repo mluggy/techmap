@@ -1,0 +1,31 @@
+{
+  "name": "Aerodrome",
+  "description": "Aerodrome is an aerial intelligence company transforming the way organizations utilize data acquired through the use of drones and UAVs.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/aerodrome-logo.webp",
+  "websiteUrl": "http://www.aerodrome-ops.com",
+  "careersUrl": null,
+  "linkedinId": "aerodrome_uas_solutions",
+  "linkedinNum": 18317450,
+  "crunchbaseId": null,
+  "ivcId": "A1000000256537",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הפסגות",
+      "houseNumber": 4,
+      "city": "פתח תקווה",
+      "lat": 32.0991428,
+      "lon": 34.8551964
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,18 +6,26 @@
   "logoFile": "logos/3_chron-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "3chron",
+  "ivcId": null,
   "finderId": "3chron",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סגל שמוליק",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.123584,
       "lon": 34.826374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,24 +1,31 @@
 {
   "name": "Verilite",
-  "description": "Energy Asset Management Platform",
+  "description": "Energy Asset Management Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/verilite-logo.webp",
   "websiteUrl": "https://www.verilite-energy.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000001107",
   "finderId": "verilite",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 98,
-      "city": "תל אביב - יפו",
-      "lat": 32.0700073,
-      "lon": 34.794193699999994
+      "street": "ברקוביץ'",
+      "houseNumber": 4,
+      "city": "פתח תקווה",
+      "lat": 32.0881373,
+      "lon": 34.884
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

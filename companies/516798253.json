@@ -1,0 +1,31 @@
+{
+  "name": "Plannter",
+  "description": "Plannter’s smart farm platform gives specialty crop growers unrivaled visibility across all field operations.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/plannter-logo.webp",
+  "websiteUrl": "https://www.plannter.com",
+  "careersUrl": "https://www.plannter.com/company/careers",
+  "linkedinId": "plannter",
+  "linkedinNum": 83006638,
+  "crunchbaseId": null,
+  "ivcId": "A1000000458571",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חלקיקי האור",
+      "houseNumber": 15,
+      "city": "באר שבע",
+      "lat": 31.2637114,
+      "lon": 34.81208549999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

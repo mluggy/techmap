@@ -1,0 +1,31 @@
+{
+  "name": "WakeUp Pension",
+  "description": "Doctor Pension provides an online platform that acts as a \"robo-advisor\" in financial matters for users.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/wakeup-pension-logo.webp",
+  "websiteUrl": "https://www.wakeuppension.com",
+  "careersUrl": null,
+  "linkedinId": "wakeup-pension",
+  "linkedinNum": 17954825,
+  "crunchbaseId": null,
+  "ivcId": "A1000000234333",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יהלום",
+      "houseNumber": 14,
+      "city": "חשמונאים",
+      "lat": 31.9309354,
+      "lon": 35.0202141
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

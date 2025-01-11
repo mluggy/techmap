@@ -8,7 +8,15 @@
   "careersUrl": "https://www.meckano.co.il/%D7%A7%D7%A8%D7%99%D7%99%D7%A8%D7%94-%7Cfwsa%7C-%D7%9E%D7%A9%D7%A8%D7%95%D7%AA-%D7%A4%D7%AA%D7%95%D7%97%D7%95%D7%AA",
   "linkedinId": "meckano",
   "linkedinNum": 14803350,
+  "crunchbaseId": null,
+  "ivcId": "A1000000024122",
+  "finderId": null,
+  "xId": null,
   "facebookId": "Meckano",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות ההסתדרות",
@@ -25,5 +33,6 @@
       "lon": 34.8589112
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

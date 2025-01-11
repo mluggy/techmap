@@ -1,23 +1,31 @@
 {
   "name": "Ardis",
-  "description": "Developed by medical experts, this potent cleansing formula detoxifies spike proteins to support the body's natural inflammatory response.",
+  "description": "Ardis Medical is a digital health startup company that is developing a game-changer in the Pelvic Floor Diseases Diagnostics.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ardis-logo.webp",
-  "websiteUrl": "https://thedrardisshow.com/",
+  "websiteUrl": "https://www.galilofek.com/ardis-medical",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000428749",
   "finderId": "ardis",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברנע",
-      "houseNumber": 4,
+      "street": null,
+      "houseNumber": null,
       "city": "קצרין",
-      "lat": 32.9920262,
-      "lon": 35.6877004
+      "lat": 32.98494,
+      "lon": 35.70803799999999
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

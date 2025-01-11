@@ -6,21 +6,26 @@
   "logoFile": "logos/sivan_innovation-logo.webp",
   "websiteUrl": "https://www.sivan-innovation.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sivan-innovation",
+  "linkedinNum": 10564039,
   "crunchbaseId": "sivan-innovation",
+  "ivcId": "A1000000305458",
   "finderId": "sivan-innovation",
   "xId": "SivanInnovation",
+  "facebookId": "sivaninnovationltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התדהר",
-      "houseNumber": 5,
-      "city": "רעננה",
-      "lat": 32.1985331,
-      "lon": 34.8842596
+      "street": "הרטום",
+      "houseNumber": 19,
+      "city": "ירושלים",
+      "lat": 31.804201,
+      "lon": 35.210861
     }
   ],
   "isMultinational": false,
-  "facebookId": "sivaninnovationltd",
-  "linkedinNum": 10564039
+  "isActive": true
 }

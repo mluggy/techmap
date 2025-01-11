@@ -6,21 +6,26 @@
   "logoFile": "logos/pagaya_investment_israel-logo.webp",
   "websiteUrl": "https://pagaya.com/",
   "careersUrl": "https://pagaya.com/careers/",
-  "isHiring": true,
   "linkedinId": "pagaya",
+  "linkedinNum": 17930214,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pagaya",
   "xId": "Pagayaltd",
+  "facebookId": "pagayaltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
   "isMultinational": false,
-  "facebookId": "pagayaltd",
-  "linkedinNum": 17930214
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/lumen_capital-logo.webp",
   "websiteUrl": "https://www.lumen.me/",
   "careersUrl": "https://jobs.lumen.com/",
-  "isHiring": true,
   "linkedinId": "lumen-me",
+  "linkedinNum": 10582911,
   "crunchbaseId": null,
+  "ivcId": "A1000000024321",
   "finderId": "lumen",
   "xId": "LumenMetabolism",
+  "facebookId": "Lumen.me",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לשם",
-      "houseNumber": 24,
-      "city": "שוהם",
-      "lat": 31.9965335,
-      "lon": 34.9447447
+      "street": "הארבעה",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701722,
+      "lon": 34.7865614
     }
   ],
   "isMultinational": false,
-  "facebookId": "Lumen.me",
-  "linkedinNum": 10582911
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "AceTech",
+  "description": "AceTech is fully integrated medical care company at the forefront of supportive healthcare.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/acetech-logo.webp",
+  "websiteUrl": "https://www.acemanan-tech.com",
+  "careersUrl": null,
+  "linkedinId": "acemanantech",
+  "linkedinNum": 11783194,
+  "crunchbaseId": null,
+  "ivcId": "A1000000271192",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות מנחם בגין",
+      "houseNumber": 121,
+      "city": "אור יהודה",
+      "lat": 32.0278299,
+      "lon": 34.85833
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

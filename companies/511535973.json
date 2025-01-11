@@ -1,16 +1,22 @@
 {
   "name": "Morel",
-  "description": "Audio Drivers and Speakers",
+  "description": "Audio Drivers and Speakers.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/morel_il_ltd-logo.webp",
   "websiteUrl": "https://www.morelhifi.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "morel-hifi",
+  "linkedinNum": 5297372,
   "crunchbaseId": null,
+  "ivcId": "A1000000003232",
   "finderId": "morel",
   "xId": "MorelHiFi",
+  "facebookId": "MorelHiFi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המזמרה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MorelHiFi",
-  "linkedinNum": 5297372
+  "isActive": true
 }

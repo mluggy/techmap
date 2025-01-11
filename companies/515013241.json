@@ -6,21 +6,26 @@
   "logoFile": "logos/novo_dr-logo.webp",
   "websiteUrl": "https://www.novo-dr.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 4862665,
   "crunchbaseId": null,
+  "ivcId": "A1000000212851",
   "finderId": "novo-dr",
   "xId": "novo_dr",
+  "facebookId": "NOVODRltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
       "houseNumber": 18,
       "city": "פתח תקווה",
-      "lat": 32.0926107,
-      "lon": 34.8498332
+      "lat": 32.0965393,
+      "lon": 34.8508427
     }
   ],
   "isMultinational": false,
-  "facebookId": "NOVODRltd",
-  "linkedinNum": 4862665
+  "isActive": true
 }

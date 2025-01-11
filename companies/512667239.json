@@ -1,0 +1,31 @@
+{
+  "name": "Synerion",
+  "description": "Synerion provides technology solutions and services that bridge between daily human resource activities and proactive talent management, to enhance an organization’s business performance.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/synerion-logo.webp",
+  "websiteUrl": "http://www.en.synerion.co.il",
+  "careersUrl": null,
+  "linkedinId": "synerion-systems",
+  "linkedinNum": 1124915,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009847",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "Basel Street",
+      "houseNumber": 25,
+      "city": "Petah Tikva",
+      "lat": 32.1017723,
+      "lon": 34.8671587
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

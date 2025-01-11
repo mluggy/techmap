@@ -6,21 +6,26 @@
   "logoFile": "logos/loora_a_i-logo.webp",
   "websiteUrl": "https://www.loora.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "loora",
+  "linkedinNum": 69173996,
   "crunchbaseId": null,
+  "ivcId": "A1000000353749",
   "finderId": "loora",
   "xId": null,
+  "facebookId": "LooraA.I",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "city": "תל אביב-יפו",
+      "lat": 32.0651359,
+      "lon": 34.7856827
     }
   ],
   "isMultinational": false,
-  "facebookId": "LooraA.I",
-  "linkedinNum": 69173996
+  "isActive": true
 }

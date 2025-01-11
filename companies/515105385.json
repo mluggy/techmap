@@ -6,11 +6,17 @@
   "logoFile": "logos/pfizer_pfe_pharmaceuticals_israel-logo.webp",
   "websiteUrl": "https://www.pfizer.com/",
   "careersUrl": "https://www.pfizer.com/about/careers",
-  "isHiring": true,
   "linkedinId": "pfizer",
+  "linkedinNum": 1185,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pfizer",
   "xId": "Pfizer",
+  "facebookId": "Pfizer",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -20,7 +26,6 @@
       "lon": 34.8088984
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Pfizer",
-  "linkedinNum": 1185
+  "isMultinational": false,
+  "isActive": true
 }

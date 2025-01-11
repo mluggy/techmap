@@ -6,20 +6,26 @@
   "logoFile": "logos/mobile_tornado-logo.webp",
   "websiteUrl": "https://mobiletornado.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mobile-tornado",
+  "linkedinNum": 28757,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mobile-tornado",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אורי צבי גרינברג",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.129119,
       "lon": 34.79434
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28757
+  "isActive": true
 }

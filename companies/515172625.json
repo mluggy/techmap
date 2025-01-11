@@ -1,0 +1,31 @@
+{
+  "name": "getStatus",
+  "description": "getStatus is developing a cloud-based SaaS platform that allows SMB's to present the different stations of their engagement and drive them safely and efficiently to their destination.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/getstatus-logo.webp",
+  "websiteUrl": "https://www.getstatus.online",
+  "careersUrl": null,
+  "linkedinId": "getstatus",
+  "linkedinNum": 10407529,
+  "crunchbaseId": null,
+  "ivcId": "A1000000208528",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

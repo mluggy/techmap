@@ -6,21 +6,26 @@
   "logoFile": "logos/tufin_software_technologies-logo.webp",
   "websiteUrl": "https://www.tufin.com/",
   "careersUrl": "https://www.tufin.com/careers",
-  "isHiring": true,
   "linkedinId": "tufin-technologies",
+  "linkedinNum": 96233,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tufin",
   "xId": "tufintech",
+  "facebookId": "Tufintech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך השלום",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0724997,
       "lon": 34.7947481
     }
   ],
   "isMultinational": false,
-  "facebookId": "Tufintech",
-  "linkedinNum": 96233
+  "isActive": true
 }

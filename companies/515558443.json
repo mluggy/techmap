@@ -6,11 +6,17 @@
   "logoFile": "logos/highiot-logo.webp",
   "websiteUrl": "https://akita.cloud/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 15263112,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "highiot",
   "xId": "HighIoT",
+  "facebookId": "akitasmarthome",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "akitasmarthome",
-  "linkedinNum": 15263112
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/polypid-logo.webp",
   "websiteUrl": "https://www.polypid.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "polypid",
+  "linkedinNum": 3835371,
   "crunchbaseId": null,
+  "ivcId": "A1000000002524",
   "finderId": "polypid",
   "xId": "PolyPidLtd",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיבים",
       "houseNumber": 18,
       "city": "פתח תקווה",
-      "lat": 32.0916612,
-      "lon": 34.8571892
+      "lat": 32.0884756,
+      "lon": 34.8565391
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3835371
+  "isActive": true
 }

@@ -1,18 +1,31 @@
 {
   "name": "SueApp",
-  "description": "Application for Small-claims Filing",
+  "description": "SueApp is developing an intuitive, data-driven solution, for small claims filing.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/sueapp-logo.webp",
-  "websiteUrl": "https://www.sueapp.co.il/",
+  "websiteUrl": "https://www.sue-app.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sueapp",
+  "linkedinNum": 77096440,
   "crunchbaseId": null,
+  "ivcId": "A1000000261133",
   "finderId": "sueapp",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "sueapp.co.il",
-  "linkedinNum": 77096440
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קרליבך",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0690074,
+      "lon": 34.7831733
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

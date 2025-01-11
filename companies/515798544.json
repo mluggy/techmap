@@ -6,11 +6,17 @@
   "logoFile": "logos/beyeonics_surgical-logo.webp",
   "websiteUrl": "https://beyeonics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "beyeonics",
+  "linkedinNum": 18548655,
   "crunchbaseId": null,
+  "ivcId": "A1000000258546",
   "finderId": "beyeonics-surgical",
   "xId": null,
+  "facebookId": "BeyeonicsSurgical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מרכז תעשיות מדע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BeyeonicsSurgical",
-  "linkedinNum": 18548655
+  "isActive": true
 }

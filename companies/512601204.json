@@ -6,21 +6,26 @@
   "logoFile": "logos/gamida_cell-logo.webp",
   "websiteUrl": "https://www.gamida-cell.com/",
   "careersUrl": "https://www.gamida-cell.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "gamida-cell-ltd-",
+  "linkedinNum": 8310772,
   "crunchbaseId": null,
+  "ivcId": "A1000000006073",
   "finderId": "gamida-cell",
   "xId": "GamidaCellTx",
+  "facebookId": "GamidaCellLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לשם",
-      "houseNumber": 12,
-      "city": "קריית גת",
-      "lat": 31.5961366,
-      "lon": 34.7949189
+      "street": null,
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7665875,
+      "lon": 35.1473719
     }
   ],
   "isMultinational": false,
-  "facebookId": "GamidaCellLtd",
-  "linkedinNum": 8310772
+  "isActive": true
 }

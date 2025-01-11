@@ -6,11 +6,17 @@
   "logoFile": "logos/gavriel_clean_tech-logo.webp",
   "websiteUrl": "https://gavrieltech.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gavriel-clean-tech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מעלה אבשלום",
@@ -20,5 +26,6 @@
       "lon": 35.1105843
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

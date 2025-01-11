@@ -1,0 +1,31 @@
+{
+  "name": "Credit24",
+  "description": "Credit24 develops a platform, a \"smart system\" that performs automated financial analysis and has self-learning capability.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/credit_24-logo.webp",
+  "websiteUrl": "https://credit24.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000347477",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ראול ולנברג",
+      "houseNumber": 18,
+      "city": "תל אביב-יפו",
+      "lat": 32.1096992,
+      "lon": 34.8373336
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

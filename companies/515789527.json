@@ -1,17 +1,22 @@
 {
   "name": "Autonomous Pivot",
-  "description": "AI-based Crop Optimization Platform",
+  "description": "AI-based Crop Optimization Platform.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/autonomous-pivot.webp",
   "websiteUrl": "https://www.autonomouspivot.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 34938432,
   "crunchbaseId": null,
+  "ivcId": "A1000000276075",
   "finderId": "autonomous-pivot",
   "xId": null,
   "facebookId": "AutonomousPivot",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -21,5 +26,6 @@
       "lon": 35.0097281841535
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

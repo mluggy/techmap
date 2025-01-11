@@ -1,26 +1,31 @@
 {
   "name": "PIL Marketplace",
-  "description": "Regulation Search and Online Training System",
+  "description": "Regulation Search and Online Training System.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pil_marketplace-logo.webp",
   "websiteUrl": "https://il.globalpil.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "globalpil",
+  "linkedinNum": 64727607,
   "crunchbaseId": "pil-marketplace-ltd",
+  "ivcId": "A1000000314084",
   "finderId": "pil-marketplace",
   "xId": null,
+  "facebookId": "PIL-Marketplace-103281924613595",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך אילות",
-      "houseNumber": 9,
-      "city": "גני תקווה",
-      "lat": 32.063823,
-      "lon": 34.8698464
+      "street": "עמיר",
+      "houseNumber": 30,
+      "city": "הרצליה",
+      "lat": 32.1563223,
+      "lon": 34.8507689
     }
   ],
   "isMultinational": false,
-  "facebookId": "PIL-Marketplace-103281924613595",
-  "linkedinNum": 64727607
+  "isActive": true
 }

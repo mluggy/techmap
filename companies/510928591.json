@@ -6,12 +6,17 @@
   "logoFile": "logos/gett.webp",
   "websiteUrl": "https://gett.com/intl/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "gettaxi",
   "linkedinNum": 1514929,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gett",
   "xId": "Gett_UK",
   "facebookId": "Gett.global",
+  "breezyId": null,
+  "comeetId": "gett/A0.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שמשון",
@@ -22,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinId": "gettaxi",
-  "comeetId": "gett/A0.002"
+  "isActive": true
 }

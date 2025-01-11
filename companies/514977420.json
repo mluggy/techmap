@@ -6,21 +6,26 @@
   "logoFile": "logos/harbo_technologies-logo.webp",
   "websiteUrl": "https://www.harbo-technologies.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "harbo-technologies-ltd",
+  "linkedinNum": 9336679,
   "crunchbaseId": null,
+  "ivcId": "A1000000022591",
   "finderId": "harbo-technologies",
   "xId": "HARBOTech",
+  "facebookId": "harbotechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הירקון",
-      "houseNumber": 39,
-      "city": "בני ברק",
-      "lat": 32.097196499999995,
-      "lon": 34.82800706219513
+      "street": "רפידים",
+      "houseNumber": 14,
+      "city": "תל אביב-יפו",
+      "lat": 32.1111154,
+      "lon": 34.8137259
     }
   ],
   "isMultinational": false,
-  "facebookId": "harbotechnologies",
-  "linkedinNum": 9336679
+  "isActive": true
 }

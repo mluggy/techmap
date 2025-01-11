@@ -6,21 +6,26 @@
   "logoFile": "logos/buywith-logo.webp",
   "websiteUrl": "https://www.buywith.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "buywith",
+  "linkedinNum": 18018554,
   "crunchbaseId": "fly-ai",
+  "ivcId": "A1000000299420",
   "finderId": "fly-ai",
   "xId": null,
+  "facebookId": "buywith-1916036532025816",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד הקונגרס",
-      "houseNumber": 10,
-      "city": "רמת גן",
-      "lat": 32.0625208,
-      "lon": 34.8245232
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "buywith-1916036532025816",
-  "linkedinNum": 18018554
+  "isActive": true
 }

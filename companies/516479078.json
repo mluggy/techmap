@@ -6,20 +6,26 @@
   "logoFile": "logos/rezonate-logo.webp",
   "websiteUrl": "https://www.rezonate.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 81928173,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rezonate",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81928173
+  "isActive": true
 }

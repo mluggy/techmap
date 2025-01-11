@@ -6,21 +6,26 @@
   "logoFile": "logos/netnut-logo.webp",
   "websiteUrl": "https://netnut.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "netnut",
+  "linkedinNum": 18014572,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "netnut",
   "xId": "netnut_io",
+  "facebookId": "NetNut.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.070031,
       "lon": 34.786856
     }
   ],
   "isMultinational": false,
-  "facebookId": "NetNut.io",
-  "linkedinNum": 18014572
+  "isActive": true
 }

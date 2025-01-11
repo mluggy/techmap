@@ -1,16 +1,22 @@
 {
   "name": "DriveNets",
-  "description": "Cloud-native Networking Solutions",
+  "description": "Cloud-native Networking Solutions.",
   "categoryId": 14,
   "size": "l",
   "logoFile": null,
   "websiteUrl": "https://www.drivenets.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "drivenets",
+  "linkedinNum": 11282464,
   "crunchbaseId": null,
+  "ivcId": "A1000000229914",
   "finderId": "drivenets",
   "xId": "drivenets",
+  "facebookId": "drivenets",
+  "breezyId": null,
+  "comeetId": "drivenets/72.006",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השיזף",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "drivenets",
-  "linkedinNum": 11282464,
-  "comeetId": "drivenets/72.006"
+  "isActive": true
 }

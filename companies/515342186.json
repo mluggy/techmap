@@ -6,11 +6,17 @@
   "logoFile": "logos/pentera_security-logo.webp",
   "websiteUrl": "https://pentera.io/",
   "careersUrl": "https://pentera.io/careers/",
-  "isHiring": true,
   "linkedinId": "penterasecurity",
+  "linkedinNum": 18445647,
   "crunchbaseId": null,
+  "ivcId": "A1000000249957",
   "finderId": "pentera",
   "xId": "penterasec",
+  "facebookId": "Penterasec",
+  "breezyId": null,
+  "comeetId": "pentera/C5.00D",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אם המושבות",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Penterasec",
-  "linkedinNum": 18445647,
-  "comeetId": "pentera/C5.00D"
+  "isActive": true
 }

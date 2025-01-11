@@ -6,20 +6,26 @@
   "logoFile": "logos/data_harbor-logo.webp",
   "websiteUrl": "https://www.dataharbor.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dataharbor",
+  "linkedinNum": 26257862,
   "crunchbaseId": null,
+  "ivcId": "A1000000275530",
   "finderId": "data-harbor",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
-      "houseNumber": 3,
+      "street": "גרניט",
+      "houseNumber": 6,
       "city": "פתח תקווה",
-      "lat": 32.0900013,
-      "lon": 34.8601803
+      "lat": 32.1008352,
+      "lon": 34.8654931
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 26257862
+  "isActive": true
 }

@@ -6,13 +6,26 @@
   "logoFile": "logos/capnsub-logo.webp",
   "websiteUrl": "https://www.capnsub.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "capnsub-inc.",
+  "linkedinNum": 626429,
   "crunchbaseId": null,
+  "ivcId": "A1000000010664",
   "finderId": "capnsub",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "capnsub.subtitling",
-  "linkedinNum": 626429
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "גבעת שפירא",
+      "lat": 32.3577644,
+      "lon": 34.8776333
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

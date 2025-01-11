@@ -6,20 +6,26 @@
   "logoFile": "logos/evinced-logo.webp",
   "websiteUrl": "https://www.evinced.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 19104814,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "evinced",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בני דן",
       "houseNumber": 60,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.096071,
       "lon": 34.7913986
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 19104814
+  "isActive": true
 }

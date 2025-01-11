@@ -1,0 +1,31 @@
+{
+  "name": "LendAI",
+  "description": "Lendai enables foreign non-resident borrowers, investing in the U.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/lendai-logo.webp",
+  "websiteUrl": "https://www.lendai.us",
+  "careersUrl": "https://www.lendai.us/careers/",
+  "linkedinId": "lendai",
+  "linkedinNum": 28442520,
+  "crunchbaseId": null,
+  "ivcId": "A1000000307481",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משה שרת",
+      "houseNumber": 6,
+      "city": "ראשון לציון",
+      "lat": 31.9951857,
+      "lon": 34.7510024
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

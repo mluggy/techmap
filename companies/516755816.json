@@ -1,0 +1,31 @@
+{
+  "name": "Receive",
+  "description": "Receive is a provider of virtual credit card, intended to provide more convenient, safer & smarter option to pay other than cash.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/receive-logo.webp",
+  "websiteUrl": "https://www.nowreceive.com",
+  "careersUrl": null,
+  "linkedinId": "nowreceive",
+  "linkedinNum": 96693319,
+  "crunchbaseId": null,
+  "ivcId": "A1000000462204",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "סוקולוב",
+      "houseNumber": 32,
+      "city": "רמת השרון",
+      "lat": 32.1415225,
+      "lon": 34.8370082
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

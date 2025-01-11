@@ -6,20 +6,26 @@
   "logoFile": "logos/coho_ai-logo.webp",
   "websiteUrl": "https://www.coho.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "coho-ai",
+  "linkedinNum": 76089231,
   "crunchbaseId": null,
+  "ivcId": "A1000000384984",
   "finderId": "coho-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "city": "תל אביב-יפו",
+      "lat": 32.0651359,
+      "lon": 34.7856827
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76089231
+  "isActive": true
 }

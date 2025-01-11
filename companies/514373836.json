@@ -6,19 +6,26 @@
   "logoFile": "logos/tracetech_security-logo.webp",
   "websiteUrl": "https://www.tracetechsecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "tracetech-security",
+  "ivcId": "A1000000022784",
   "finderId": "tracetech-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגאל אלון",
       "houseNumber": 65,
-      "city": "תל אביב - יפו",
-      "lat": 32.065766,
-      "lon": 34.792307
+      "city": "תל אביב-יפו",
+      "lat": 32.0657718,
+      "lon": 34.7922834
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

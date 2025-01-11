@@ -3,14 +3,20 @@
   "description": "A startup operating in stealth mode.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/40_kft-logo.webp",
+  "logoFile": "logos/40-kft-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "40k-ft",
+  "linkedinNum": 99922620,
   "crunchbaseId": null,
+  "ivcId": "A1000000459263",
   "finderId": "40kft",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מיכל",
@@ -19,5 +25,7 @@
       "lat": 32.1879136,
       "lon": 34.9351155
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

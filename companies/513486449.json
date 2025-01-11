@@ -6,11 +6,17 @@
   "logoFile": "logos/skeeper_business_counseling-logo.webp",
   "websiteUrl": "https://www.skeeperapp.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "t-saver",
+  "linkedinNum": 2766224,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "t-saver",
   "xId": "skeeperapp",
+  "facebookId": "SkeeperApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרמה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SkeeperApp",
-  "linkedinNum": 2766224
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/callapp_software-logo.webp",
   "websiteUrl": "https://callapp.com/",
   "careersUrl": "https://callapp.com/jobs",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "callapp",
+  "linkedinNum": 2263245,
   "crunchbaseId": null,
+  "ivcId": "A1000000009443",
   "finderId": "callapp",
   "xId": "GetCallApp",
+  "facebookId": "CallApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CallApp",
-  "linkedinNum": 2263245
+  "isActive": true
 }

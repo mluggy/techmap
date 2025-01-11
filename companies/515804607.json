@@ -3,21 +3,29 @@
   "description": "Pioneering a revolutionary drug discovery platform, harnessing nature's vast untapped potential for therapeutic molecules.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/terrapeutics_pharma-logo.webp",
+  "logoFile": "logos/terrapeutics-pharma-logo.webp",
   "websiteUrl": "https://www.terrapeuticspharma.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "terrapeutics-pharma",
+  "linkedinNum": 80039518,
   "crunchbaseId": "terrapeutics-pharma",
+  "ivcId": "A1000000405615",
   "finderId": "terrapeutics-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך חברון",
-      "houseNumber": 58,
+      "street": "לב העברי",
+      "houseNumber": 2,
       "city": "ירושלים",
-      "lat": 31.7591298,
-      "lon": 35.2231677
+      "lat": 31.77062069999999,
+      "lon": 35.2194834
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

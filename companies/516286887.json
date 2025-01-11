@@ -6,21 +6,26 @@
   "logoFile": "logos/goto-logo.webp",
   "websiteUrl": "https://gotoglobal.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "goto",
+  "linkedinNum": 27020854,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "goto",
   "xId": "goto_glob",
+  "facebookId": "gotomobility",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 82,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066186,
       "lon": 34.792954
     }
   ],
   "isMultinational": false,
-  "facebookId": "gotomobility",
-  "linkedinNum": 27020854
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/rainbow_factory-logo.webp",
   "websiteUrl": "https://www.rainbowfactorypreschool.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rainbow-factory",
+  "linkedinNum": 83521891,
   "crunchbaseId": null,
+  "ivcId": "A1000000417039",
   "finderId": "rainbow-factory",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוף מרים",
-      "houseNumber": 2,
+      "street": "מרים החשמונאית",
+      "houseNumber": null,
       "city": "הרצליה",
-      "lat": 32.15845385,
-      "lon": 34.8226515
+      "lat": 32.1670286,
+      "lon": 34.8048996
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 83521891
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/kornit_digital-logo.webp",
   "websiteUrl": "https://www.kornit.com/",
   "careersUrl": "https://careers.kornit.com/",
-  "isHiring": true,
   "linkedinId": "kornit-digital",
+  "linkedinNum": 633366,
   "crunchbaseId": null,
+  "ivcId": "A1000000004561",
   "finderId": "kornit-digital",
   "xId": "kornitdigital",
+  "facebookId": "kornit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
+      "street": "העמל",
       "houseNumber": 12,
-      "city": "ראש העין",
-      "lat": 32.09668,
-      "lon": 34.9066455
+      "city": "הוד השרון",
+      "lat": 32.1569724,
+      "lon": 34.8887164
     }
   ],
   "isMultinational": false,
-  "facebookId": "kornit",
-  "linkedinNum": 633366
+  "isActive": true
 }

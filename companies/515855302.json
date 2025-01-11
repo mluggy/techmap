@@ -6,21 +6,26 @@
   "logoFile": "logos/accessibe-logo.webp",
   "websiteUrl": "https://accessibe.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "accessibe",
+  "linkedinNum": 18986691,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "accessibe",
   "xId": "accessibe",
+  "facebookId": "accessibe",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 52,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0634798,
       "lon": 34.7802841
     }
   ],
   "isMultinational": false,
-  "facebookId": "accessibe",
-  "linkedinNum": 18986691
+  "isActive": true
 }

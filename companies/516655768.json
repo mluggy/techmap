@@ -1,16 +1,22 @@
 {
   "name": "Afront Digital",
-  "description": "Interactive Hebrew Language Learning Platform",
+  "description": "Interactive Hebrew Language Learning Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/afront_digital-logo.webp",
   "websiteUrl": "https://www.aprendehebreo.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "afront-digital",
+  "linkedinNum": 88008468,
   "crunchbaseId": null,
+  "ivcId": "A1000000424142",
   "finderId": "afront-digital",
   "xId": null,
+  "facebookId": "aprendehebreo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "aprendehebreo",
-  "linkedinNum": 88008468
+  "isActive": true
 }

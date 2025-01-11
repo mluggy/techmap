@@ -6,12 +6,17 @@
   "logoFile": "logos/coddy.webp",
   "websiteUrl": "https://coddy.tech/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "coddy-tech",
   "linkedinNum": 76103215,
   "crunchbaseId": null,
+  "ivcId": "A1000000387935",
   "finderId": "coddy",
   "xId": "coddy_tech",
   "facebookId": "coddylearn",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הספורט",
@@ -21,5 +26,6 @@
       "lon": 34.985042774928395
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/sunbit_payment_software-logo.webp",
   "websiteUrl": "https://sunbit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sunbit",
+  "linkedinNum": 7932639,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sunbit",
   "xId": "sunbit_fintech",
+  "facebookId": "sunbitfintech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -22,12 +28,11 @@
     {
       "street": "יגאל אלון",
       "houseNumber": 85,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0542088,
       "lon": 34.7916411
     }
   ],
   "isMultinational": false,
-  "facebookId": "sunbitfintech",
-  "linkedinNum": 7932639
+  "isActive": true
 }

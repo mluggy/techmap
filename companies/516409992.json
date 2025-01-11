@@ -1,25 +1,31 @@
 {
   "name": "Verobotics",
-  "description": "Specializing in UAV and advanced robotics, this co-founder brings a decade of expertise in hardware and systems design from leading companies.",
-  "categoryId": 15,
+  "description": "Verobotics is a developer of robotic systems, designed for high-rise building maintenance tasks.",
+  "categoryId": 13,
   "size": "s",
   "logoFile": "logos/verobotics-logo.webp",
-  "websiteUrl": "https://verobotics.com/",
+  "websiteUrl": "https://verobotics.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "verobotics",
+  "linkedinNum": 18489939,
   "crunchbaseId": null,
+  "ivcId": "A1000000356242",
   "finderId": "verobotics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ויסבורג חיים",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.11966223509908,
       "lon": 34.82837350370933
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18489939
+  "isActive": true
 }

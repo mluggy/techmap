@@ -6,21 +6,26 @@
   "logoFile": "logos/new_relic_israel-logo.webp",
   "websiteUrl": "https://newrelic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "new-relic-inc-",
+  "linkedinNum": 426253,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "new-relic",
   "xId": "newrelic",
+  "facebookId": "NewRelicIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הלוי",
       "houseNumber": 48,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06441,
       "lon": 34.777345
     }
   ],
-  "isMultinational": true,
-  "facebookId": "NewRelicIsrael",
-  "linkedinNum": 426253
+  "isMultinational": false,
+  "isActive": true
 }

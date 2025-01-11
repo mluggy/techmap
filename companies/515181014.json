@@ -6,21 +6,26 @@
   "logoFile": "logos/shamaym_improve-logo.webp",
   "websiteUrl": "https://www.shamaym.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "shamaym",
+  "linkedinNum": 10418270,
   "crunchbaseId": "shamaym",
+  "ivcId": "A1000000237307",
   "finderId": "shamaym",
   "xId": null,
+  "facebookId": "shamaym",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.109818,
-      "lon": 34.841254
+      "city": "תל אביב-יפו",
+      "lat": 32.1097344,
+      "lon": 34.8410314
     }
   ],
   "isMultinational": false,
-  "facebookId": "shamaym",
-  "linkedinNum": 10418270
+  "isActive": true
 }

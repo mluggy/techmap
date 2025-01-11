@@ -1,25 +1,31 @@
 {
   "name": "XtraLit",
-  "description": "Direct Lithium Extraction from Aqueous Sources",
+  "description": "Direct Lithium Extraction from Aqueous Sources.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/xtralit-logo.webp",
   "websiteUrl": "https://www.xtra-lit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "xtralit",
+  "linkedinNum": 95925301,
   "crunchbaseId": null,
+  "ivcId": "A1000000364568",
   "finderId": "xtralit",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.072032,
-      "lon": 34.788987
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 95925301
+  "isActive": true
 }

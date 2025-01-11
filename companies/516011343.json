@@ -6,21 +6,26 @@
   "logoFile": "logos/devek_integrations-logo.webp",
   "websiteUrl": "https://www.devek.cloud/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "devek",
+  "linkedinNum": 19199841,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "devek",
   "xId": null,
+  "facebookId": "devek.cloud",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063669,
       "lon": 34.771299
     }
   ],
   "isMultinational": false,
-  "facebookId": "devek.cloud",
-  "linkedinNum": 19199841
+  "isActive": true
 }

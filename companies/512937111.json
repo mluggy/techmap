@@ -1,26 +1,31 @@
 {
   "name": "Omnisys",
-  "description": "Real-time Decision Support System",
+  "description": "Real-time Decision Support System.",
   "categoryId": 3,
   "size": "m",
   "logoFile": "logos/omnisys-logo.webp",
   "websiteUrl": "https://www.omnisys.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "omnisys",
+  "linkedinNum": 24621,
   "crunchbaseId": null,
+  "ivcId": "A1000000008594",
   "finderId": "omnisys",
   "xId": null,
+  "facebookId": "Omnisys",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
-      "houseNumber": 13,
-      "city": "ראש העין",
-      "lat": 32.09668,
-      "lon": 34.9066455
+      "street": "עבד אל כרים קאסם",
+      "houseNumber": null,
+      "city": "כפר קאסם",
+      "lat": 32.1091501,
+      "lon": 34.9624392
     }
   ],
   "isMultinational": false,
-  "facebookId": "Omnisys",
-  "linkedinNum": 24621
+  "isActive": true
 }

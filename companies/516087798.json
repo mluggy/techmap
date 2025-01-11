@@ -1,0 +1,31 @@
+{
+  "name": "Cogntiv",
+  "description": "In stealth mode.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cogntiv-logo.webp",
+  "websiteUrl": "https://cogntiv.com",
+  "careersUrl": null,
+  "linkedinId": "cogntiv",
+  "linkedinNum": 90990823,
+  "crunchbaseId": null,
+  "ivcId": "A1000000482993",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רפידים",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.1102039,
+      "lon": 34.8126968
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

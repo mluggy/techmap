@@ -6,11 +6,17 @@
   "logoFile": "logos/linkcaring-logo.webp",
   "websiteUrl": "https://www.eng.linkcaring.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "linkcaring",
   "xId": null,
+  "facebookId": "LinkCaring",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עגור",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "LinkCaring"
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Paradigma Systems",
-  "description": "Information Systems for Long-term Healthcare Facilities",
+  "description": "Information Systems for Long-term Healthcare Facilities.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/paradigma_systems-logo.webp",
+  "logoFile": "logos/paradigma-systems-logo.webp",
   "websiteUrl": "https://www.paradigmacare.com/eng",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "paradigm-systems-inc.",
+  "linkedinNum": 10621308,
   "crunchbaseId": null,
+  "ivcId": "A1000000005535",
   "finderId": "paradigma-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,5 +26,6 @@
       "lon": 34.858196076704104
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

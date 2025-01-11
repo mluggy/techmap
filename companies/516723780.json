@@ -6,10 +6,26 @@
   "logoFile": "logos/harp_diagnostics-logo.webp",
   "websiteUrl": "https://www.harpdx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000421318",
   "finderId": "harp-diagnostics",
   "xId": null,
-  "addresses": []
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תכלת",
+      "houseNumber": 17,
+      "city": "משגב",
+      "lat": 32.86743556672143,
+      "lon": 35.280228804651635
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

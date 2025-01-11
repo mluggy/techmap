@@ -6,21 +6,26 @@
   "logoFile": "logos/grip_security-logo.webp",
   "websiteUrl": "https://www.grip.security/",
   "careersUrl": "https://www.grip.security/saas-security-careers-page",
-  "isHiring": true,
   "linkedinId": "grip-security",
+  "linkedinNum": 72376695,
   "crunchbaseId": null,
+  "ivcId": "A1000000347749",
   "finderId": "grip-security",
   "xId": "GripSecurity",
+  "facebookId": "Grip-Security-100362122201071",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כצנלסון",
-      "houseNumber": 24,
-      "city": "גבעתיים",
-      "lat": 32.0751148,
-      "lon": 34.8043949
+      "street": "יגאל אלון",
+      "houseNumber": 82,
+      "city": "תל אביב-יפו",
+      "lat": 32.0662181,
+      "lon": 34.7928935
     }
   ],
   "isMultinational": false,
-  "facebookId": "Grip-Security-100362122201071",
-  "linkedinNum": 72376695
+  "isActive": true
 }

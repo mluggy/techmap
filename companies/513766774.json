@@ -6,21 +6,26 @@
   "logoFile": "logos/broadcom_semiconductors_israel-logo.webp",
   "websiteUrl": "https://www.broadcom.com/",
   "careersUrl": "https://www.broadcom.com/company/careers",
-  "isHiring": true,
   "linkedinId": "broadcom",
+  "linkedinNum": 3072,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "broadcom",
   "xId": "Broadcom",
+  "facebookId": "Broadcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "וייז ג'ורג'",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1102771,
       "lon": 34.807223
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Broadcom",
-  "linkedinNum": 3072
+  "isMultinational": false,
+  "isActive": true
 }

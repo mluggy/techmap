@@ -6,21 +6,26 @@
   "logoFile": "logos/display_io-logo.webp",
   "websiteUrl": "https://www.display.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "display-io",
+  "linkedinNum": 10302421,
   "crunchbaseId": null,
+  "ivcId": "A1000000178178",
   "finderId": "display-io",
   "xId": "display_io",
+  "facebookId": "displayio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אחד העם",
-      "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.06378,
-      "lon": 34.769659
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "displayio",
-  "linkedinNum": 10302421
+  "isActive": true
 }

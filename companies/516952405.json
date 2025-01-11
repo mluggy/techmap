@@ -1,0 +1,31 @@
+{
+  "name": "Onco Access",
+  "description": "In stealth mode.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/onco_access-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485097",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הכובשים",
+      "houseNumber": 95,
+      "city": "זכרון יעקב",
+      "lat": 32.5681815,
+      "lon": 34.953091
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/aspecto-logo.webp",
   "websiteUrl": "https://www.aspecto.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 20565107,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "aspecto",
   "xId": "AspectoInc",
+  "facebookId": "Aspecto-361334331189276",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוקן",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.051717,
       "lon": 34.772405
     }
   ],
   "isMultinational": false,
-  "facebookId": "Aspecto-361334331189276",
-  "linkedinNum": 20565107
+  "isActive": true
 }

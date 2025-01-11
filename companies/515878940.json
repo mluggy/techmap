@@ -6,21 +6,26 @@
   "logoFile": "logos/phytolon-logo.webp",
   "websiteUrl": "https://www.phytolon.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "phytolon",
+  "linkedinNum": 33263959,
   "crunchbaseId": null,
+  "ivcId": "A1000000273615",
   "finderId": "phytolon",
   "xId": "phytolon",
+  "facebookId": "Phytolon-158564361751391",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצמיחה",
+      "street": "Ha-Tsmikha Street",
       "houseNumber": 1,
-      "city": "יקנעם עילית",
-      "lat": 32.668888,
-      "lon": 35.107009
+      "city": "Yokne'am Illit",
+      "lat": 32.6687576,
+      "lon": 35.1075282
     }
   ],
   "isMultinational": false,
-  "facebookId": "Phytolon-158564361751391",
-  "linkedinNum": 33263959
+  "isActive": true
 }

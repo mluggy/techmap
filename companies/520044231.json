@@ -1,0 +1,31 @@
+{
+  "name": "Top Group",
+  "description": "Top Group is a leading and growing company in Israel for advanced software solutions and computer services.",
+  "categoryId": 14,
+  "size": "l",
+  "logoFile": "logos/top_group-logo.webp",
+  "websiteUrl": "https://top-group.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000005238",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ראול ולנברג",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.1112424,
+      "lon": 34.8389386
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

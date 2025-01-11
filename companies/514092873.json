@@ -1,26 +1,31 @@
 {
   "name": "Artimedia",
-  "description": "Video Advertising Platform",
+  "description": "Video Advertising Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/artimedia_technologies-logo.webp",
   "websiteUrl": "https://arti-media.net/en/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "artimedia",
+  "linkedinNum": 2577714,
   "crunchbaseId": null,
+  "ivcId": "A1000000002944",
   "finderId": "artimedia",
   "xId": "artimedia_",
+  "facebookId": "artimediatechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "העצמאות",
-      "houseNumber": 1,
-      "city": "פתח תקווה",
-      "lat": 32.07426925,
-      "lon": 34.88324393283237
+      "street": "לוי אשכול",
+      "houseNumber": 68,
+      "city": "קרית אונו",
+      "lat": 32.0787808,
+      "lon": 34.8567669
     }
   ],
   "isMultinational": false,
-  "facebookId": "artimediatechnologies",
-  "linkedinNum": 2577714
+  "isActive": true
 }

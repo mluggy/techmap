@@ -6,11 +6,17 @@
   "logoFile": "logos/accessily-logo.webp",
   "websiteUrl": "https://accessily.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "accessily",
+  "linkedinNum": 11521504,
   "crunchbaseId": null,
+  "ivcId": "A1000000275437",
   "finderId": "accessily",
   "xId": "Accessily",
+  "facebookId": "Accessily",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לח\"י",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Accessily",
-  "linkedinNum": 11521504
+  "isActive": true
 }

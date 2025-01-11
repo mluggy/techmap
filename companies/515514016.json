@@ -1,16 +1,22 @@
 {
   "name": "Lenovo",
   "description": "Provides comprehensive support services for PCs, including troubleshooting, warranty checks, service requests, repair status tracking, and software updates.",
-  "size": "s",
   "categoryId": 16,
+  "size": "s",
   "logoFile": "logos/lenovo_global_technology-logo.webp",
   "websiteUrl": "https://www.lenovo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3653,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lenovo",
   "xId": "lenovo",
+  "facebookId": "lenovo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפסגות",
@@ -20,7 +26,6 @@
       "lon": 34.8550868
     }
   ],
-  "isMultinational": true,
-  "facebookId": "lenovo",
-  "linkedinNum": 3653
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/aqueduct_medical-logo.webp",
   "websiteUrl": "https://www.withaqueduct.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "aqueduct-medical",
+  "ivcId": null,
   "finderId": "aqueduct-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ואדי אל-חאג'",
@@ -19,5 +25,7 @@
       "lat": 32.6901031,
       "lon": 35.298186
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

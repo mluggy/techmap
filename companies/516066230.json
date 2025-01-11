@@ -1,26 +1,31 @@
 {
   "name": "SIGA",
-  "description": "SCADA Cybersecurity and Anomaly Detection",
+  "description": "SCADA Cybersecurity and Anomaly Detection.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/siga_management_consulting_and_holdings-logo.webp",
   "websiteUrl": "https://www.sigasec.com/",
   "careersUrl": "https://siga-sport.com/siga-careers/",
-  "isHiring": true,
   "linkedinId": "sigaotsolutions",
+  "linkedinNum": 15237215,
   "crunchbaseId": null,
+  "ivcId": "A1000000186637",
   "finderId": "siga",
   "xId": "SIGA_OT",
+  "facebookId": "SIGA-OT-Solutions-2264779526895124",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד ויצמן",
-      "houseNumber": 68,
-      "city": "קריית מוצקין",
-      "lat": 32.8346643,
-      "lon": 35.080348
+      "street": "עומרים",
+      "houseNumber": 15,
+      "city": "עומר",
+      "lat": 31.2728908,
+      "lon": 34.8367778
     }
   ],
   "isMultinational": false,
-  "facebookId": "SIGA-OT-Solutions-2264779526895124",
-  "linkedinNum": 15237215
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/remeant_technologies-logo.webp",
   "websiteUrl": "https://www.remeant.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "remeant",
+  "linkedinNum": 37501313,
   "crunchbaseId": "remeant-technologies-ltd",
+  "ivcId": "A1000000307715",
   "finderId": "remeant-technologies",
   "xId": null,
+  "facebookId": "RemeantCT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חטיבת אלכסנדרוני",
-      "houseNumber": 6,
-      "city": "רמת השרון",
-      "lat": 32.1319861,
-      "lon": 34.8627137
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "RemeantCT",
-  "linkedinNum": 37501313
+  "isActive": true
 }

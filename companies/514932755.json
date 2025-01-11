@@ -6,20 +6,26 @@
   "logoFile": "logos/qspark-logo.webp",
   "websiteUrl": "https://qspark.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "qspark",
+  "linkedinNum": 9299295,
   "crunchbaseId": "qspark-fbad",
+  "ivcId": null,
   "finderId": "qspark",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066035,
       "lon": 34.782959
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 9299295
+  "isActive": true
 }

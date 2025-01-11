@@ -1,0 +1,31 @@
+{
+  "name": "Lemna Pro",
+  "description": "Lemna Pro develops a plant-based protein, derived from duckweed. This innovation allows the company to enhance food's nutritional value and decrease reliance on animal protein.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/lemna-pro-logo.webp",
+  "websiteUrl": "https://www.lemnapro.com",
+  "careersUrl": null,
+  "linkedinId": "lemnaproltd",
+  "linkedinNum": 10995803,
+  "crunchbaseId": null,
+  "ivcId": "A1000000483100",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רציף הרברט סמואל",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0692465,
+      "lon": 34.7635521
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

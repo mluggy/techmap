@@ -6,11 +6,17 @@
   "logoFile": "logos/everysight-logo.webp",
   "websiteUrl": "https://www.everysight.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "everysight",
+  "linkedinNum": 9495827,
   "crunchbaseId": null,
+  "ivcId": "A1000000179475",
   "finderId": "everysight",
   "xId": "goeverysight",
+  "facebookId": "everysight",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "everysight",
-  "linkedinNum": 9495827
+  "isActive": true
 }

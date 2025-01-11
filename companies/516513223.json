@@ -6,19 +6,26 @@
   "logoFile": "logos/cyberridge-logo.webp",
   "websiteUrl": "https://www.cyber-ridge.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cyberridge",
+  "linkedinNum": 58510078,
   "crunchbaseId": null,
+  "ivcId": "A1000000419181",
   "finderId": "cyberridge",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.072032,
-      "lon": 34.788987
+      "city": "תל אביב-יפו",
+      "lat": 32.0718047,
+      "lon": 34.7890239
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

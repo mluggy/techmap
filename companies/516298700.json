@@ -6,20 +6,26 @@
   "logoFile": "logos/storydoc_technologies-logo.webp",
   "websiteUrl": "https://www.storydoc.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "storydocltd",
+  "linkedinNum": 14804044,
   "crunchbaseId": null,
+  "ivcId": "A1000000349282",
   "finderId": "storydoc",
   "xId": "Storydoc1",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פורצי הדרך",
-      "houseNumber": 63,
-      "city": "הרצליה",
-      "lat": 32.1626088,
-      "lon": 34.8632079
+      "street": "התעשייה",
+      "houseNumber": 9,
+      "city": "ראשון לציון",
+      "lat": 32.0672565,
+      "lon": 34.7867327
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14804044
+  "isActive": true
 }

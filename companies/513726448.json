@@ -1,0 +1,31 @@
+{
+  "name": "LandPax",
+  "description": "Paxikid is a new edutainment series for kids.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/landpax-logo.webp",
+  "websiteUrl": "https://www.paxikid.com/about",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000024816",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן סירא",
+      "houseNumber": 16,
+      "city": "תל אביב-יפו",
+      "lat": 32.0963835,
+      "lon": 34.7968778
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

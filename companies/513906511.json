@@ -6,20 +6,26 @@
   "logoFile": "logos/diolan-logo.webp",
   "websiteUrl": "https://diolan.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "diolan",
+  "linkedinNum": 3518135,
   "crunchbaseId": null,
+  "ivcId": "A1000000217034",
   "finderId": "diolan",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חייקה גרוסמן",
-      "houseNumber": 3,
-      "city": "רעננה",
-      "lat": 32.1960467,
-      "lon": 34.8472959
+      "street": "בוסתן",
+      "houseNumber": 5,
+      "city": "רחובות",
+      "lat": 31.8811065,
+      "lon": 34.8137025
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3518135
+  "isActive": true
 }

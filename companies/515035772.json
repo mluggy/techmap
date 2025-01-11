@@ -1,26 +1,31 @@
 {
   "name": "Cydersoft",
-  "description": "Mobile Advertising Solutions",
+  "description": "Mobile Advertising Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/cydersoft_r_b-logo.webp",
   "websiteUrl": "https://www.cydersoft.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cydersoft-ltd",
+  "linkedinNum": 5083467,
   "crunchbaseId": "cydersoft",
+  "ivcId": "A1000000180366",
   "finderId": "cydersoft",
   "xId": "cydersoft",
+  "facebookId": "cydersoft",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההגנה",
       "houseNumber": 10,
       "city": "אור יהודה",
-      "lat": 32.031718,
-      "lon": 34.8532073
+      "lat": 32.0331715,
+      "lon": 34.8482849
     }
   ],
   "isMultinational": false,
-  "facebookId": "cydersoft",
-  "linkedinNum": 5083467
+  "isActive": true
 }

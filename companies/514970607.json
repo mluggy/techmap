@@ -6,21 +6,26 @@
   "logoFile": "logos/aniview-logo.webp",
   "websiteUrl": "https://aniview.com/",
   "careersUrl": "https://www.aniview.com/careers/",
-  "isHiring": true,
   "linkedinId": "aniview",
+  "linkedinNum": 5124785,
   "crunchbaseId": null,
+  "ivcId": "A1000000218364",
   "finderId": "aniview",
   "xId": "aniview_",
+  "facebookId": "aniview.av",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שנקר אריה",
-      "houseNumber": 1,
-      "city": "הרצליה",
-      "lat": 32.1604703,
-      "lon": 34.809883
+      "street": "אלוף אלברט מנדלר",
+      "houseNumber": 18,
+      "city": "תל אביב-יפו",
+      "lat": 32.0717087,
+      "lon": 34.7869851
     }
   ],
   "isMultinational": false,
-  "facebookId": "aniview.av",
-  "linkedinNum": 5124785
+  "isActive": true
 }

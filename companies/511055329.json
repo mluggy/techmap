@@ -6,11 +6,17 @@
   "logoFile": "logos/schneider_electric_israel-logo.webp",
   "websiteUrl": "https://www.se.com/",
   "careersUrl": "https://www.se.com/us/en/about-us/careers/overview.jsp",
-  "isHiring": true,
   "linkedinId": "schneider-electric",
+  "linkedinNum": 2329,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "schneider-electric",
   "xId": "SchneiderElec",
+  "facebookId": "SchneiderElectric",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המעלית",
@@ -20,7 +26,6 @@
       "lon": 34.9199989
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SchneiderElectric",
-  "linkedinNum": 2329
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Yofix Probiotics",
-  "description": "Offering clean-label, dairy and soy-free probiotic yogurt from Israel.",
-  "categoryId": 12,
+  "description": "Yofix Probiotics develops and manufactures vegan & soy-free fermented plant-based prebiotic & probiotic foods.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/yofix_probiotics-logo.webp",
-  "websiteUrl": "https://www.yofix.co.il/",
+  "websiteUrl": "https://yofix-plantbased.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "yofixbio",
+  "linkedinNum": 18520938,
   "crunchbaseId": null,
+  "ivcId": "A1000000195896",
   "finderId": "yofix-probiotics",
   "xId": null,
+  "facebookId": "YofixIL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "העמל",
-      "houseNumber": 21,
-      "city": "אשקלון",
-      "lat": 31.6372609,
-      "lon": 34.5515891
+      "street": "הבושם",
+      "houseNumber": 3,
+      "city": "אשדוד",
+      "lat": 31.8193731,
+      "lon": 34.6667796
     }
   ],
   "isMultinational": false,
-  "facebookId": "YofixIL",
-  "linkedinNum": 18520938
+  "isActive": true
 }

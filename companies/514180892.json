@@ -1,0 +1,31 @@
+{
+  "name": "ProCore",
+  "description": "Procore is a biotechnology company focused on developing solutions that improve the quality of lives of patients suffering from joint and bone diseases.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/procore-logo.webp",
+  "websiteUrl": "https://regenogel.co.il",
+  "careersUrl": null,
+  "linkedinId": "procore-ltd",
+  "linkedinNum": 37545653,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001990",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גולדה מאיר",
+      "houseNumber": 7,
+      "city": "נס ציונה",
+      "lat": 31.9149187,
+      "lon": 34.8024562
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

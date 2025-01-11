@@ -6,13 +6,26 @@
   "logoFile": "logos/enzymocore-logo.webp",
   "websiteUrl": "https://enzymocore.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "transbiodiesel",
+  "linkedinNum": 990737,
   "crunchbaseId": null,
+  "ivcId": "A1000000008500",
   "finderId": "transbiodiesel",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Transbiodiesel",
-  "linkedinNum": 990737
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "שפרעם",
+      "lat": 32.8035805,
+      "lon": 35.1732997
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

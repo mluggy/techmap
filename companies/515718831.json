@@ -1,16 +1,22 @@
 {
   "name": "Design With Friends",
-  "description": "3D Design Platform and Marketplace",
+  "description": "3D Design Platform and Marketplace.",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/design_with_friends-logo.webp",
   "websiteUrl": "https://www.designwithfriends.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "design-with-friends",
+  "linkedinNum": 18734285,
   "crunchbaseId": null,
+  "ivcId": "A1000000307569",
   "finderId": "design-with-friends",
   "xId": null,
+  "facebookId": "designwithfriends",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד' אלי לנדאו",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "designwithfriends",
-  "linkedinNum": 18734285
+  "isActive": true
 }

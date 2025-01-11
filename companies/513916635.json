@@ -1,0 +1,31 @@
+{
+  "name": "Olive Engineering",
+  "description": "Olive Engineering specializes in designing unique solutions involving helicopters for search and rescue missions.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/olive_engineering-logo.webp",
+  "websiteUrl": "https://www.olive-eng.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000003149",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "הושעיה",
+      "lat": 32.757927,
+      "lon": 35.29522499999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

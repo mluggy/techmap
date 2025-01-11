@@ -6,11 +6,17 @@
   "logoFile": "logos/exabeam_israel-logo.webp",
   "websiteUrl": "https://www.exabeam.com/",
   "careersUrl": "https://www.exabeam.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "exabeam",
+  "linkedinNum": 3181474,
   "crunchbaseId": "exabeam",
+  "ivcId": null,
   "finderId": "exabeam",
   "xId": "exabeam",
+  "facebookId": "exabeam",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "exabeam",
-  "linkedinNum": 3181474
+  "isActive": true
 }

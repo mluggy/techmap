@@ -1,0 +1,31 @@
+{
+  "name": "YCD Atmosphere",
+  "description": "YCD Atmosphere is Israel's leading in-store digital media service provider. \r.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/ycd_atmosphere-logo.webp",
+  "websiteUrl": "http://www.ycd-a.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000220056",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אהרון קרון",
+      "houseNumber": 3,
+      "city": "ראשון לציון",
+      "lat": 31.9605793,
+      "lon": 34.8035096
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

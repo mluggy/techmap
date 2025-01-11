@@ -6,20 +6,26 @@
   "logoFile": "logos/acculine-logo.webp",
   "websiteUrl": "https://acculine-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "acculine-medical",
+  "linkedinNum": 82039359,
   "crunchbaseId": null,
+  "ivcId": "A1000000374691",
   "finderId": "acculine",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רפאל איתן",
-      "houseNumber": 2,
+      "street": "הפסגות",
+      "houseNumber": 9,
       "city": "פתח תקווה",
-      "lat": 32.1035566,
-      "lon": 34.8825501
+      "lat": 32.0997838,
+      "lon": 34.8545756
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82039359
+  "isActive": true
 }

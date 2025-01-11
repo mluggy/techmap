@@ -6,21 +6,26 @@
   "logoFile": "logos/vmware_israel-logo.webp",
   "websiteUrl": "https://www.vmware.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2988,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vmware",
   "xId": "VMware",
+  "facebookId": "vmwarecareernew",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "וייז ג'ורג'",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1067709,
       "lon": 34.804941
     }
   ],
-  "isMultinational": true,
-  "facebookId": "vmwarecareernew",
-  "linkedinNum": 2988
+  "isMultinational": false,
+  "isActive": true
 }

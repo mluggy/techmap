@@ -6,11 +6,17 @@
   "logoFile": "logos/haier_investments_h_y_2015-logo.webp",
   "websiteUrl": "https://www.haierappliances.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "haier-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הר סיני",
@@ -19,5 +25,7 @@
       "lat": 32.059839,
       "lon": 34.8760688
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

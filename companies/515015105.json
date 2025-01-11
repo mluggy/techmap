@@ -6,11 +6,17 @@
   "logoFile": "logos/incredo-logo.webp",
   "websiteUrl": "https://www.incredosugar.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "incredo1",
+  "linkedinNum": 6374257,
   "crunchbaseId": null,
+  "ivcId": "A1000000173108",
   "finderId": "incredo",
   "xId": null,
+  "facebookId": "incredosugar",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שמשון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "incredosugar",
-  "linkedinNum": 6374257
+  "isActive": true
 }

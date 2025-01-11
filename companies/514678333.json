@@ -1,0 +1,31 @@
+{
+  "name": "Servul",
+  "description": "SherutNet is a service that manages relationships with service suppliers.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/servul-logo.webp",
+  "websiteUrl": "https://www.sherut.net",
+  "careersUrl": null,
+  "linkedinId": "sherut.net",
+  "linkedinNum": 805392,
+  "crunchbaseId": null,
+  "ivcId": "A1000000020488",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קרית ענבים",
+      "lat": 31.8106686,
+      "lon": 35.1198822
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

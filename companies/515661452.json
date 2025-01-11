@@ -1,26 +1,31 @@
 {
   "name": "Eatsane",
-  "description": "Eatsane creates delicious, low-carb foods without artificial sweeteners, developed by a team of chefs, doctors, dietitians, and food technologists.",
-  "categoryId": 9,
-  "size": "xs",
+  "description": "Eatsane was founded by an endocrinologist and an entrepreneur whos' daughter is a type 1 diabetic.",
+  "categoryId": 12,
+  "size": "s",
   "logoFile": "logos/eatsane-logo.webp",
-  "websiteUrl": "https://eatsane.co.il/",
+  "websiteUrl": "https://eatsane.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eatsane",
+  "linkedinNum": 53250749,
   "crunchbaseId": null,
+  "ivcId": "A1000000254872",
   "finderId": "eatsane",
   "xId": "EatsaneBread",
+  "facebookId": "eatsanebread",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 43,
+      "street": "היצירה",
+      "houseNumber": 3,
       "city": "רמת גן",
-      "lat": 32.0693338,
-      "lon": 34.8501728
+      "lat": 32.0848734,
+      "lon": 34.8025955
     }
   ],
   "isMultinational": false,
-  "facebookId": "eatsanebread",
-  "linkedinNum": 53250749
+  "isActive": true
 }

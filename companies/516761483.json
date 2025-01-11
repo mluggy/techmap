@@ -1,16 +1,22 @@
 {
   "name": "Smartflow",
-  "description": "Data-driven Rain Flood Control",
+  "description": "Data-driven Rain Flood Control.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/smartflow_rws-logo.webp",
   "websiteUrl": "https://smartflow-rws.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000436939",
   "finderId": "smartflow",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זהבי דוד",
@@ -20,5 +26,6 @@
       "lon": 34.891729
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

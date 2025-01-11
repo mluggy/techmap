@@ -6,21 +6,26 @@
   "logoFile": "logos/supercom-logo.webp",
   "websiteUrl": "https://www.supercom.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "supercom",
+  "linkedinNum": 2989525,
   "crunchbaseId": null,
+  "ivcId": "A1000000007816",
   "finderId": "supercom",
   "xId": "supercomgroup",
+  "facebookId": "SuperCom.group",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.0720324,
-      "lon": 34.779107
+      "city": "תל אביב-יפו",
+      "lat": 32.0630027,
+      "lon": 34.7692988
     }
   ],
   "isMultinational": false,
-  "facebookId": "SuperCom.group",
-  "linkedinNum": 2989525
+  "isActive": true
 }

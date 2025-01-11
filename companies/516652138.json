@@ -3,21 +3,29 @@
   "description": "Providing businesses with robust protection against price volatility through an intuitive platform.",
   "categoryId": 10,
   "size": "xs",
-  "logoFile": "logos/hedgify_a_i-logo.webp",
+  "logoFile": "logos/hedgify-a-i-logo.webp",
   "websiteUrl": "https://www.hedgify.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hedgify",
+  "linkedinNum": 97906198,
   "crunchbaseId": "hedgify",
+  "ivcId": "A1000000398320",
   "finderId": "hedgify",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השומר",
-      "houseNumber": 6,
-      "city": "גבעתיים",
-      "lat": 32.0794549,
-      "lon": 34.8082601708152
+      "street": "המנופים",
+      "houseNumber": 9,
+      "city": "הרצליה",
+      "lat": 32.1607509,
+      "lon": 34.8077773
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

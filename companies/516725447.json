@@ -1,23 +1,31 @@
 {
   "name": "Rsda Technologies",
-  "description": "With nearly two decades of experience, the company specializes in innovative solutions for large-scale civil infrastructure challenges, particularly for the Federal sector.",
-  "categoryId": 3,
+  "description": "In stealth mode.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/rsda_technologies-logo.webp",
-  "websiteUrl": "https://rsaprotect.com/",
+  "websiteUrl": "https://rollingcard.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000437308",
   "finderId": "rsda-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הימית",
       "houseNumber": 25,
-      "city": "תל אביב - יפו",
-      "lat": 32.04963,
-      "lon": 34.756837
+      "city": "תל אביב-יפו",
+      "lat": 32.0497033,
+      "lon": 34.7569122
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

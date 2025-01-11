@@ -3,14 +3,20 @@
   "description": "A global market leader in advanced weighing technologies and autonomous retail solutions · The future of retail is now. · Latest News · Investor Centre. Latest ...",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/shekel_brainweigh-logo.webp",
+  "logoFile": "logos/shekel-brainweigh-logo.webp",
   "websiteUrl": "https://shekelbrainweigh.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "shekel-brainweigh-asx-sbw",
+  "linkedinNum": 80066321,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "shekel-brainweigh",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרכבה",
@@ -20,5 +26,6 @@
       "lon": 35.3199
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

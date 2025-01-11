@@ -6,21 +6,26 @@
   "logoFile": "logos/weka.webp",
   "websiteUrl": "https://www.weka.io/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "weka-io",
   "linkedinNum": 9334204,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "weka",
   "xId": "wekaio",
   "facebookId": "WekaIOIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
       "city": "תל אביב",
-      "lat": 32.07025940211982, 
+      "lat": 32.07025940211982,
       "lon": 34.78648806745106
     }
   ],
   "isMultinational": false,
-  "linkedinId": "weka-io"
+  "isActive": true
 }

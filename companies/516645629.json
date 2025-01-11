@@ -1,16 +1,22 @@
 {
   "name": "VComm",
-  "description": "AI-based Predictive Decisions Platform for Connected Vehicles",
+  "description": "AI-based Predictive Decisions Platform for Connected Vehicles.",
   "categoryId": 5,
   "size": "xs",
-  "logoFile": "logos/vcomm_smart_transportation-logo.webp",
+  "logoFile": "logos/vcomm-logo.webp",
   "websiteUrl": "https://www.vcomm.tech/",
   "careersUrl": "https://www.vcomm-eng.com/careers/",
-  "isHiring": true,
   "linkedinId": "vcomm-eng",
+  "linkedinNum": 271274,
   "crunchbaseId": null,
+  "ivcId": "A1000000389382",
   "finderId": "vcomm",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בזלת",
@@ -20,5 +26,6 @@
       "lon": 35.2417013176341
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

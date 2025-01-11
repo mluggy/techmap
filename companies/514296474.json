@@ -1,26 +1,31 @@
 {
   "name": "Scouting4U",
-  "description": "A platform enhancing basketball player scouting and recruitment through advanced analytics and data-driven insights.",
-  "categoryId": 1,
+  "description": "Scouting4U is a unique scouting service that combines a reliable, up-to-date and comprehensive statistical and video database of basketball games online with a sophisticated statistics software.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/scouting_4_u-logo.webp",
-  "websiteUrl": "https://www.scouting4u.com/",
+  "websiteUrl": "http://www.s4upro.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 4173589,
   "crunchbaseId": null,
+  "ivcId": "A1000000214663",
   "finderId": "scouting4u",
   "xId": "S4UPro",
+  "facebookId": "s4upro",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מוריה",
-      "houseNumber": 37,
-      "city": "חיפה",
-      "lat": 32.7984429,
-      "lon": 34.984797176475794
+      "street": "ההדרים",
+      "houseNumber": 111,
+      "city": "אבן יהודה",
+      "lat": 32.2689754,
+      "lon": 34.8907422
     }
   ],
   "isMultinational": false,
-  "facebookId": "s4upro",
-  "linkedinNum": 4173589
+  "isActive": true
 }

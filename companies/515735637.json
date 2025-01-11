@@ -6,21 +6,26 @@
   "logoFile": "logos/resident_home-logo.webp",
   "websiteUrl": "https://www.residenthome.com/",
   "careersUrl": "https://www.residenthome.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 19147972,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "resident",
   "xId": "homeresident",
+  "facebookId": "pg",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דה וינצ'י לאונרדו",
       "houseNumber": 12,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0761833,
       "lon": 34.7843512
     }
   ],
   "isMultinational": false,
-  "facebookId": "pg",
-  "linkedinNum": 19147972
+  "isActive": true
 }

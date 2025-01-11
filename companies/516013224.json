@@ -6,20 +6,26 @@
   "logoFile": "logos/patensee-logo.webp",
   "websiteUrl": "https://patensee.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "patensee",
+  "linkedinNum": 54099781,
   "crunchbaseId": null,
+  "ivcId": "A1000000296644",
   "finderId": "patensee",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שרון אריאל",
+      "street": "אריאל שרון",
       "houseNumber": 1,
-      "city": "אור יהודה",
-      "lat": 32.0215775,
-      "lon": 34.854526
+      "city": "תל אביב-יפו",
+      "lat": 32.0798722,
+      "lon": 34.8007022
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 54099781
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/libi_diagnostics-logo.webp",
   "websiteUrl": "https://www.libi-diagnostics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "libi-diagnostics",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages"
+  "isActive": true
 }

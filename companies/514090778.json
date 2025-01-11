@@ -6,12 +6,17 @@
   "logoFile": "logos/enel.webp",
   "websiteUrl": "https://openinnovability.enel.com/startup-ecosystem/israel",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 163630,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "enel",
   "xId": "enelstartup",
   "facebookId": "EnelGroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הבונים",
@@ -21,5 +26,6 @@
       "lon": 34.859619731057336
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

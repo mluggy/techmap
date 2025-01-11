@@ -6,12 +6,26 @@
   "logoFile": "logos/tosca-logo.webp",
   "websiteUrl": "https://www.toscaltd.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tosca-ltd",
+  "linkedinNum": 109082,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tosca",
   "xId": null,
-  "addresses": [],
-  "isMultinational": true,
-  "linkedinNum": 109082
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 4,
+      "city": "הוד השרון",
+      "lat": 32.1331783378826,
+      "lon": 34.89881409519766
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

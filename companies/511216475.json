@@ -1,16 +1,31 @@
 {
   "name": "COPIA Magnificent",
-  "description": "Inhibiting Biofilm Formation in Dairy Products",
+  "description": "Inhibiting Biofilm Formation in Dairy Products.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/magnificent-logo.webp",
   "websiteUrl": "https://copia-agro.com/portfolio/innovative-bio-stimulant-disposable-device/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000283520",
   "finderId": "magnificent",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "Shankar St",
+      "houseNumber": 1,
+      "city": "Herzliya",
+      "lat": 32.1602777,
+      "lon": 34.810068
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

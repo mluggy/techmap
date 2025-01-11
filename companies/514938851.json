@@ -6,21 +6,26 @@
   "logoFile": "logos/healthy_io-logo.webp",
   "websiteUrl": "https://healthy.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "www-healthy-io",
+  "linkedinNum": 10088862,
   "crunchbaseId": null,
+  "ivcId": "A1000000024665",
   "finderId": "healthy-io",
   "xId": "healthyio1",
+  "facebookId": "healthy.ioLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "city": "תל אביב-יפו",
+      "lat": 32.0651359,
+      "lon": 34.7856827
     }
   ],
   "isMultinational": false,
-  "facebookId": "healthy.ioLTD",
-  "linkedinNum": 10088862
+  "isActive": true
 }

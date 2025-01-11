@@ -1,0 +1,31 @@
+{
+  "name": "Zsmile",
+  "description": "Dror Orthodesign was founded with the goal of offering millions of people a chance to correct their smile in a more discreet and less painful manner even while they sleep.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/zsmile-logo.webp",
+  "websiteUrl": "https://zsmile.com",
+  "careersUrl": "https://zsmile.com/our-product/join-us/",
+  "linkedinId": "aerodentis",
+  "linkedinNum": 1737954,
+  "crunchbaseId": null,
+  "ivcId": "A1000000007707",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרטום",
+      "houseNumber": 7,
+      "city": "ירושלים",
+      "lat": 31.8021372,
+      "lon": 35.2132744
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

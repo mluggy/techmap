@@ -1,25 +1,31 @@
 {
   "name": "Innosphere",
-  "description": "AI-based Brain Stimulation Device for Treatment of ADHD",
+  "description": "AI-based Brain Stimulation Device for Treatment of ADHD.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/innosphere-logo.webp",
   "websiteUrl": "https://www.inno-sphere.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "innosphereventures",
+  "linkedinNum": 13194209,
   "crunchbaseId": null,
+  "ivcId": "A1000000223052",
   "finderId": "innosphere",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גיבשטיין יהושע",
-      "houseNumber": 50,
-      "city": "ראשון לציון",
-      "lat": 31.9511367,
-      "lon": 34.80980600256321
+      "street": "שדרות בן גוריון",
+      "houseNumber": 2,
+      "city": "חיפה",
+      "lat": 32.8235526,
+      "lon": 34.9924912
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13194209
+  "isActive": true
 }

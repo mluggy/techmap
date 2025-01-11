@@ -6,21 +6,26 @@
   "logoFile": "logos/sapiens_international_capital-logo.webp",
   "websiteUrl": "https://sapiens.com/",
   "careersUrl": "https://careers.sapiens.com/",
-  "isHiring": true,
   "linkedinId": "sapiens",
+  "linkedinNum": 9659,
   "crunchbaseId": null,
+  "ivcId": "A1000000004860",
   "finderId": "sapiens",
   "xId": "sapiensins",
+  "facebookId": "SapiensIntCorp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": null,
+      "street": "הרוקמים",
+      "houseNumber": 26,
       "city": "חולון",
-      "lat": 32.00767676856025,
-      "lon": 34.799425993220844
+      "lat": 32.0076095,
+      "lon": 34.8010583
     }
   ],
   "isMultinational": false,
-  "facebookId": "SapiensIntCorp",
-  "linkedinNum": 9659
+  "isActive": true
 }

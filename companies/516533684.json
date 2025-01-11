@@ -6,18 +6,26 @@
   "logoFile": "logos/giftoin-logo.webp",
   "websiteUrl": "https://giftoin.com/?trk=public_post_main-feed-card-text",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "giftoin-the-future-of-gifting",
+  "linkedinNum": 82522110,
   "crunchbaseId": null,
+  "ivcId": "A1000000407033",
   "finderId": "giftoin",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "העינב",
-      "houseNumber": 38,
-      "city": "בנימינה",
-      "lat": 32.5158341,
-      "lon": 35.0020584
+      "street": "חלמיש",
+      "houseNumber": 8,
+      "city": "קיסריה",
+      "lat": 32.4824496,
+      "lon": 34.9481088
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

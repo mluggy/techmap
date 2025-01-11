@@ -6,18 +6,26 @@
   "logoFile": "logos/ingrediome-logo.webp",
   "websiteUrl": "https://www.ingrediome.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ingrediome",
+  "linkedinNum": 82122691,
   "crunchbaseId": null,
+  "ivcId": "A1000000455687",
   "finderId": "ingrediome",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 158,
-      "city": "תל אביב - יפו",
-      "lat": 32.080276,
-      "lon": 34.79588
+      "street": "פנחס ספיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.91451859999999,
+      "lon": 34.8032823
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

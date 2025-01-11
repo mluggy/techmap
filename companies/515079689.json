@@ -6,21 +6,26 @@
   "logoFile": "logos/softil-logo.webp",
   "websiteUrl": "https://www.softil.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "softil",
+  "linkedinNum": 11200242,
   "crunchbaseId": null,
+  "ivcId": "A1000000245988",
   "finderId": "softil",
   "xId": "SOFTIL_WW",
+  "facebookId": "SoftilWW",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.1114482,
-      "lon": 34.8390358
+      "city": "תל אביב-יפו",
+      "lat": 32.1112424,
+      "lon": 34.8389386
     }
   ],
   "isMultinational": false,
-  "facebookId": "SoftilWW",
-  "linkedinNum": 11200242
+  "isActive": true
 }

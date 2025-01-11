@@ -6,21 +6,26 @@
   "logoFile": "logos/avenews_managment-logo.webp",
   "websiteUrl": "https://www.avenews-gt.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "avenews-gt",
+  "linkedinNum": 10961166,
   "crunchbaseId": "avenews-gt",
+  "ivcId": "A1000000235419",
   "finderId": "avenews-gt",
   "xId": "Avenews_gt",
+  "facebookId": "AvenewsGT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אחד העם",
-      "houseNumber": 54,
-      "city": "תל אביב - יפו",
-      "lat": 32.064594,
-      "lon": 34.774322
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "AvenewsGT",
-  "linkedinNum": 10961166
+  "isActive": true
 }

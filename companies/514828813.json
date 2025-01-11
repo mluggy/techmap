@@ -6,21 +6,26 @@
   "logoFile": "logos/imonomy_interactive-logo.webp",
   "websiteUrl": "https://imonomy.com/",
   "careersUrl": "https://imonomy.com/career/",
-  "isHiring": true,
   "linkedinId": "imonomy",
+  "linkedinNum": 2433209,
   "crunchbaseId": "imonomy-interactive",
+  "ivcId": "A1000000020649",
   "finderId": "imonomy",
   "xId": "imonomy",
+  "facebookId": "imonomy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תובל",
-      "houseNumber": 32,
-      "city": "רמת גן",
-      "lat": 32.083993,
-      "lon": 34.8007991
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0793735,
+      "lon": 34.7673335
     }
   ],
   "isMultinational": false,
-  "facebookId": "imonomy",
-  "linkedinNum": 2433209
+  "isActive": true
 }

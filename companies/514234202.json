@@ -6,21 +6,26 @@
   "logoFile": "logos/uveye-logo.webp",
   "websiteUrl": "https://www.uveye.com/",
   "careersUrl": "https://www.uveye.com/careers/",
-  "isHiring": true,
   "linkedinId": "uveye",
+  "linkedinNum": 15160113,
   "crunchbaseId": "uveye",
+  "ivcId": "A1000000223201",
   "finderId": "uveye",
   "xId": "teamuveye",
+  "facebookId": "UVEye.Ltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמינדב",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.064839,
-      "lon": 34.795597
+      "city": "תל אביב-יפו",
+      "lat": 32.0648522,
+      "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "facebookId": "UVEye.Ltd",
-  "linkedinNum": 15160113
+  "isActive": true
 }

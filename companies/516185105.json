@@ -6,20 +6,26 @@
   "logoFile": "logos/xmetix-logo.webp",
   "websiteUrl": "https://xmetix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "xemetix",
+  "linkedinNum": 40779084,
   "crunchbaseId": null,
+  "ivcId": "A1000000324032",
   "finderId": "xmetix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
+      "street": "ואדי אל חאג'",
       "houseNumber": 13,
       "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "lat": 32.6900962,
+      "lon": 35.3001352
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 40779084
+  "isActive": true
 }

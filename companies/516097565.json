@@ -6,20 +6,26 @@
   "logoFile": "logos/celluflux-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "celluflux-ltd",
+  "linkedinNum": 80958267,
   "crunchbaseId": null,
+  "ivcId": "A1000000320640",
   "finderId": "celluflux",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קול משה",
-      "houseNumber": 30,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7696193,
-      "lon": 35.1907581
+      "lat": 31.768319,
+      "lon": 35.21371
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80958267
+  "isActive": true
 }

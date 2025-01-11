@@ -6,20 +6,26 @@
   "logoFile": "logos/axiom_security-logo.webp",
   "websiteUrl": "https://axiom.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "axiomsecurity",
+  "linkedinNum": 83056253,
   "crunchbaseId": "axiom-security",
+  "ivcId": "A1000000414815",
   "finderId": "axiom-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבצע חירם",
       "houseNumber": 19,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9089789,
-      "lon": 35.0004548
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.90906399999999,
+      "lon": 35.00058569999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 83056253
+  "isActive": true
 }

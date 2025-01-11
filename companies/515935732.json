@@ -1,16 +1,22 @@
 {
   "name": "Artbrain",
-  "description": "Connecting collectors with their favorite pieces through technology to enhance the business and customer relations of auction houses and art galleries.",
-  "categoryId": 2,
+  "description": "Artbrain's mission is to grow the art and collectibles market by creating a technology that matches collectors with the items they love.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/artbrain-logo.webp",
-  "websiteUrl": "https://www.artbrain.ai/",
+  "websiteUrl": "https://www.artbrain.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "artbrain-ai",
+  "linkedinNum": 33270922,
   "crunchbaseId": null,
+  "ivcId": "A1000000322814",
   "finderId": "artbrain",
   "xId": null,
+  "facebookId": "ArtbrainHQ",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמב\"ן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ArtbrainHQ",
-  "linkedinNum": 33270922
+  "isActive": true
 }

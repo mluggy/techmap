@@ -6,21 +6,26 @@
   "logoFile": "logos/panorama_software_israel_2002-logo.webp",
   "websiteUrl": "https://panorama.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 13163,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "panorama-software",
   "xId": "panoramasw",
+  "facebookId": "PanoramaSw",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.107529,
       "lon": 34.827772
     }
   ],
   "isMultinational": false,
-  "facebookId": "PanoramaSw",
-  "linkedinNum": 13163
+  "isActive": true
 }

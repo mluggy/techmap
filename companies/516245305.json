@@ -1,0 +1,31 @@
+{
+  "name": "OutAirNet",
+  "description": "OutAirNet is a location-based network of community that redefines collaboration and personal interactions.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/outairnet-logo.webp",
+  "websiteUrl": "http://www.outairnet.com",
+  "careersUrl": null,
+  "linkedinId": "outairnet",
+  "linkedinNum": 69014417,
+  "crunchbaseId": null,
+  "ivcId": "A1000000469227",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגולן",
+      "houseNumber": 124,
+      "city": "תל אביב-יפו",
+      "lat": 32.1137535,
+      "lon": 34.8389393
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

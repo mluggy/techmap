@@ -6,11 +6,17 @@
   "logoFile": "logos/fast_simon_israel-logo.webp",
   "websiteUrl": "https://www.fastsimon.com/",
   "careersUrl": "https://www.fastsimon.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "fast-simon-inc-",
+  "linkedinNum": 5058749,
   "crunchbaseId": null,
+  "ivcId": "A1000000023983",
   "finderId": "instantsearch",
   "xId": "InstantSearch_",
+  "facebookId": "instantsearchplus",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברנשטיין פרץ",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "instantsearchplus",
-  "linkedinNum": 5058749
+  "isActive": true
 }

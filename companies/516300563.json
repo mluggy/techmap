@@ -6,20 +6,26 @@
   "logoFile": "logos/firefly-logo.webp",
   "websiteUrl": "https://www.firefly.ai/",
   "careersUrl": "https://www.comeet.com/jobs/firefly/39.000",
-  "isHiring": true,
   "linkedinId": "fireflyai",
+  "linkedinNum": 76526616,
   "crunchbaseId": null,
+  "ivcId": "A1000000367293",
   "finderId": "firefly",
   "xId": "goFireflyio",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שאול המלך",
+      "street": "שדרות שאול המלך",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.0753114,
-      "lon": 34.7838583
+      "city": "תל אביב-יפו",
+      "lat": 32.0753059,
+      "lon": 34.7839623
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76526616
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Atlas",
+  "description": "Foundation Atlas developed information portal to enhance the fundraising process in community outreach organizations.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/atlas-logo.webp",
+  "websiteUrl": "https://atlas.org.il",
+  "careersUrl": "https://atlas.org.il/careers/",
+  "linkedinId": "foundation-atlas",
+  "linkedinNum": 3745885,
+  "crunchbaseId": null,
+  "ivcId": "A1000000300540",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דקל",
+      "houseNumber": 6,
+      "city": "באר שבע",
+      "lat": 31.239165,
+      "lon": 34.8019749
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,19 +6,26 @@
   "logoFile": "logos/ayana_pharma-logo.webp",
   "websiteUrl": "https://www.ayanapharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000021722",
   "finderId": "ayana-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עין כרם",
+      "street": "קלמן יעקב מן",
       "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7681468,
-      "lon": 35.1621008
+      "lat": 31.7651499,
+      "lon": 35.1496315
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/attengo-logo.webp",
   "websiteUrl": "https://attengo.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "attengo",
   "xId": "attengo_adhd",
+  "facebookId": "AttenGoADHD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כבוש העבודה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AttenGoADHD"
+  "isActive": true
 }

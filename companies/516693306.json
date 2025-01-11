@@ -1,25 +1,31 @@
 {
   "name": "Hemico Imaging",
-  "description": "Healthcare Visualization Technology.",
+  "description": "Hemico's core technology is an X-ray computational ghost imaging (CGI), with which it can replace the large image intensifier or flat panel by a single compact detector.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/hemico_imaging-logo.webp",
-  "websiteUrl": "https://www.hemicoinc.com/",
+  "websiteUrl": "https://www.hemico.co",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hemico-imaging",
+  "linkedinNum": 74326501,
   "crunchbaseId": null,
+  "ivcId": "A1000000354824",
   "finderId": "hemico-imaging",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
-      "houseNumber": 13,
-      "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "street": "מקס ואנה ווב",
+      "houseNumber": 1,
+      "city": "רמת גן",
+      "lat": 32.0707209,
+      "lon": 34.8454309
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74326501
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/grid_4_c-logo.webp",
   "websiteUrl": "https://www.grid4c.com/",
   "careersUrl": "https://www.grid4c.com/careers",
-  "isHiring": true,
   "linkedinId": "grid4c",
+  "linkedinNum": 7322672,
   "crunchbaseId": null,
+  "ivcId": "A1000000177598",
   "finderId": "grid4c",
   "xId": null,
+  "facebookId": "grid4c",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שפירא משה",
-      "houseNumber": 19,
-      "city": "רעננה",
-      "lat": 32.1932185,
-      "lon": 34.8506881
+      "street": "דרך השלום",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747508,
+      "lon": 34.7924254
     }
   ],
   "isMultinational": false,
-  "facebookId": "grid4c",
-  "linkedinNum": 7322672
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "AtlasCT",
+  "description": "AtlasCT is a developer of worldwide mapping solutions.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/atlasct-logo.webp",
+  "websiteUrl": "http://www.atlasct.com",
+  "careersUrl": null,
+  "linkedinId": "atlasct",
+  "linkedinNum": 355773,
+  "crunchbaseId": null,
+  "ivcId": "A1000000008994",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון",
+      "houseNumber": 24,
+      "city": "פתח תקווה",
+      "lat": 32.07905,
+      "lon": 34.869862
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

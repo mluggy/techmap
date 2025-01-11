@@ -6,20 +6,26 @@
   "logoFile": "logos/ownid_o_d-logo.webp",
   "websiteUrl": "https://www.ownid.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "own-id",
+  "linkedinNum": 68744626,
   "crunchbaseId": "ownid",
+  "ivcId": "A1000000387482",
   "finderId": "ownid",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הר סיני",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.064412,
-      "lon": 34.771751
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.0646607,
+      "lon": 34.772322
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68744626
+  "isActive": true
 }

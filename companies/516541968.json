@@ -1,0 +1,31 @@
+{
+  "name": "Workkit",
+  "description": "Workkit is reinventing the way businesses and job seekers find each other and connect.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/workkit-logo.webp",
+  "websiteUrl": "https://www.workkit.io",
+  "careersUrl": null,
+  "linkedinId": "workkit-io",
+  "linkedinNum": 79025140,
+  "crunchbaseId": null,
+  "ivcId": "A1000000431936",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "צה\"ל",
+      "houseNumber": 99,
+      "city": "אשקלון",
+      "lat": 31.662071,
+      "lon": 34.5950901
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

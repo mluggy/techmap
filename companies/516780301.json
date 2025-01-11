@@ -1,0 +1,31 @@
+{
+  "name": "Smartest",
+  "description": "Smartest is a developer of a medical device, intended to detect blood glucose levels The company's device is a one-time-use glucose test that is intuitive and simple to operate with results, automatically transferred from the device to an accompanying app on the phone and offers the same level of precision as regular glucose monitors, enabling prediabetic patients to take proactive steps towards managing their condition and reducing their risk.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/smartest-logo.webp",
+  "websiteUrl": "https://www.smarttest.io",
+  "careersUrl": null,
+  "linkedinId": "smartest-medical",
+  "linkedinNum": 97863080,
+  "crunchbaseId": null,
+  "ivcId": "A1000000430035",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פרופסור יחזקאל קויפמן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0630953,
+      "lon": 34.7622538
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

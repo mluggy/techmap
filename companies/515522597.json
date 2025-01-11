@@ -6,11 +6,17 @@
   "logoFile": "logos/nvidia_israel_technologies-logo.webp",
   "websiteUrl": "https://www.nvidia.com",
   "careersUrl": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-  "isHiring": true,
   "linkedinId": "nvidia",
+  "linkedinNum": 3608,
   "crunchbaseId": "nvidia",
+  "ivcId": null,
   "finderId": "nvidia",
   "xId": "nvidia",
+  "facebookId": "NVIDIA",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקידמה",
@@ -29,7 +35,7 @@
     {
       "street": null,
       "houseNumber": null,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066906958709886,
       "lon": 34.785027374406376
     },
@@ -41,7 +47,6 @@
       "lon": 34.881332428114874
     }
   ],
-  "isMultinational": true,
-  "facebookId": "NVIDIA",
-  "linkedinNum": 3608
+  "isMultinational": false,
+  "isActive": true
 }

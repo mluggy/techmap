@@ -6,11 +6,17 @@
   "logoFile": "logos/marvell_israel_m_i_s_l-logo.webp",
   "websiteUrl": "https://www.marvell.com/",
   "careersUrl": "https://www.marvell.com/company/careers.html",
-  "isHiring": true,
   "linkedinId": "marvell-israel-ltd",
+  "linkedinNum": 1509977,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "marvell",
   "xId": "marvellsemi",
+  "facebookId": "MarvellIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -20,7 +26,6 @@
       "lon": 35.10048197115782
     }
   ],
-  "isMultinational": true,
-  "facebookId": "MarvellIsrael",
-  "linkedinNum": 1509977
+  "isMultinational": false,
+  "isActive": true
 }

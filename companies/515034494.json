@@ -6,21 +6,26 @@
   "logoFile": "logos/skysaver_rescue-logo.webp",
   "websiteUrl": "https://skysaver.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "skysaverinternational",
+  "linkedinNum": 11805288,
   "crunchbaseId": null,
+  "ivcId": "A1000000195375",
   "finderId": "skysaver",
   "xId": "SkySaverUSA",
+  "facebookId": "SkySaverUSA?fref=ts",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 9,
-      "city": "בני ברק",
-      "lat": 32.0919976,
-      "lon": 34.8257445
+      "street": "המרפא",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.800401,
+      "lon": 35.212041
     }
   ],
   "isMultinational": false,
-  "facebookId": "SkySaverUSA?fref=ts",
-  "linkedinNum": 11805288
+  "isActive": true
 }

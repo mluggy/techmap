@@ -6,22 +6,26 @@
   "logoFile": "logos/gloat-logo.webp",
   "websiteUrl": "https://gloat.com/",
   "careersUrl": "https://gloat.com/careers/",
-  "isHiring": true,
   "linkedinId": "gloat",
+  "linkedinNum": 5322109,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "workey",
   "xId": "gloat_com",
+  "facebookId": "Workey",
+  "breezyId": null,
+  "comeetId": "gloat/E5.000",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דה וינצ'י לאונרדו",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07418525,
       "lon": 34.78524499360144
     }
   ],
   "isMultinational": false,
-  "facebookId": "Workey",
-  "linkedinNum": 5322109,
-  "comeetId": "gloat/E5.000"
+  "isActive": true
 }

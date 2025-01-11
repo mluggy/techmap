@@ -6,11 +6,17 @@
   "logoFile": "logos/phoneoptika-logo.webp",
   "websiteUrl": "https://www.phoneoptika.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "phoneoptika",
+  "ivcId": "A1000000362970",
   "finderId": "phoneoptika",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך ההדרים",
@@ -20,5 +26,6 @@
       "lon": 34.905538803716205
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

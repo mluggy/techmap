@@ -6,19 +6,26 @@
   "logoFile": "logos/dispersebio-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000416588",
   "finderId": "dispersebio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קהילת לבוב",
-      "houseNumber": 27,
-      "city": "תל אביב - יפו",
-      "lat": 32.11174,
-      "lon": 34.820605
+      "street": "יד המעביר",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.1079079,
+      "lon": 34.8245895
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

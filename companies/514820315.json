@@ -6,20 +6,26 @@
   "logoFile": "logos/datacrushers-logo.webp",
   "websiteUrl": "https://www.datacrushers.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "datacrushers",
+  "linkedinNum": 17949919,
   "crunchbaseId": null,
+  "ivcId": "A1000000227539",
   "finderId": "datacrushers",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נוב",
-      "houseNumber": 1,
+      "street": "הנביאים",
+      "houseNumber": 31,
       "city": "ירושלים",
-      "lat": 31.7817273,
-      "lon": 35.2117125
+      "lat": 31.7835134,
+      "lon": 35.222094
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17949919
+  "isActive": true
 }

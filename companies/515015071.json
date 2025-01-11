@@ -3,14 +3,20 @@
   "description": "Innovative technology combats climate change by eliminating CO2 through treatment of harmful algal blooms.",
   "categoryId": 17,
   "size": "s",
-  "logoFile": "logos/bluegreen_water_technologies-logo.webp",
+  "logoFile": "logos/bluegreen-water-technologies-logo.webp",
   "websiteUrl": "https://bluegreenwatertech.com/",
   "careersUrl": "https://bluegreenwatertech.com/careers/",
-  "isHiring": true,
   "linkedinId": "bluegreen-water-tech",
+  "linkedinNum": 10295585,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bluegreen-water-technologies",
   "xId": "bluegreenwatert",
+  "facebookId": "bluegreenwatertechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד המקצועות",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "bluegreenwatertechnologies"
+  "isActive": true
 }

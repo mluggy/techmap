@@ -1,26 +1,31 @@
 {
   "name": "Stands",
-  "description": "Fair and Equitable Ad Blocker",
+  "description": "Fair and Equitable Ad Blocker.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/stands-logo.webp",
   "websiteUrl": "https://www.standsapp.org/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 4868326,
   "crunchbaseId": null,
+  "ivcId": "A1000000181763",
   "finderId": "stands",
   "xId": "standsapp",
+  "facebookId": "stndzapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החשמונאים",
-      "houseNumber": 103,
-      "city": "תל אביב - יפו",
-      "lat": 32.0696175,
-      "lon": 34.7842349
+      "street": "יוסף קארו",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.0709022,
+      "lon": 34.7900594
     }
   ],
   "isMultinational": false,
-  "facebookId": "stndzapp",
-  "linkedinNum": 4868326
+  "isActive": true
 }

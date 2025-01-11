@@ -6,21 +6,26 @@
   "logoFile": "logos/tenable_israel-logo.webp",
   "websiteUrl": "https://www.tenable.com/",
   "careersUrl": "https://www.tenable.com/careers",
-  "isHiring": true,
   "linkedinId": "tenableinc",
+  "linkedinNum": 25452,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tenable",
   "xId": "tenablesecurity",
+  "facebookId": "Tenable.Inc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0687595,
       "lon": 34.7939327
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Tenable.Inc",
-  "linkedinNum": 25452
+  "isMultinational": false,
+  "isActive": true
 }

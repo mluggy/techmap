@@ -1,24 +1,31 @@
 {
   "name": "CORDiguide",
-  "description": "AI Technology for Navigating the Catheter in Cardiological and Cerebral Interventions",
+  "description": "AI Technology for Navigating the Catheter in Cardiological and Cerebral Interventions.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cordiguide-logo.webp",
   "websiteUrl": "https://cordiguide.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cordiguide",
+  "linkedinNum": 80758876,
   "crunchbaseId": null,
+  "ivcId": "A1000000343447",
   "finderId": "cordiguide",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד רוז",
-      "houseNumber": 1,
-      "city": "חיפה",
-      "lat": 32.7807063,
-      "lon": 35.0231835
+      "street": "מונטיפיורי",
+      "houseNumber": 39,
+      "city": "תל אביב-יפו",
+      "lat": 32.065849,
+      "lon": 34.7739466
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

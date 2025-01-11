@@ -1,0 +1,31 @@
+{
+  "name": "LeadLike",
+  "description": "LeadLike is a unique strategic digital marketing company that specializes in using social media and online marketing to generate sales.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/leadlike-logo.webp",
+  "websiteUrl": "https://www.leadlike.com/",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000172053",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 10,
+      "city": "ירושלים",
+      "lat": 31.7539326,
+      "lon": 35.2168708
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

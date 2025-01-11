@@ -6,20 +6,26 @@
   "logoFile": "logos/serenno_medical-logo.webp",
   "websiteUrl": "https://www.serenno-med.com/",
   "careersUrl": "https://www.serenno-med.com/jobs",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 18208494,
   "crunchbaseId": null,
+  "ivcId": "A1000000223202",
   "finderId": "serenno-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הקידמה",
-      "houseNumber": 26,
-      "city": "יקנעם עילית",
-      "lat": 32.6651531,
-      "lon": 35.10516992921238
+      "street": null,
+      "houseNumber": null,
+      "city": "יוקנעם עילית",
+      "lat": 32.6654874,
+      "lon": 35.1038925
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18208494
+  "isActive": true
 }

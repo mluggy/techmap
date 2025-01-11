@@ -6,20 +6,26 @@
   "logoFile": "logos/techsomed_medical_technologies-logo.webp",
   "websiteUrl": "https://www.techsomed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "techsomed",
+  "linkedinNum": 8141297,
   "crunchbaseId": null,
+  "ivcId": "A1000000023199",
   "finderId": "techsomed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך ויסגל מאיר",
+      "street": "גולדה מאיר",
       "houseNumber": 2,
       "city": "רחובות",
-      "lat": 31.913008462861836,
-      "lon": 34.804079690354044
+      "lat": 31.8823315,
+      "lon": 34.805232
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 8141297
+  "isActive": true
 }

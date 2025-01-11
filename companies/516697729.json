@@ -3,21 +3,29 @@
   "description": "An AI-driven platform transforming 3D avatars into autonomous entities with unique personalities and learning capabilities for enriched digital interactions.",
   "categoryId": 4,
   "size": "xs",
-  "logoFile": "logos/aime_metaverse_technologies-logo.webp",
+  "logoFile": "logos/aime-metaverse-technologies-logo.webp",
   "websiteUrl": "https://aimeverse.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "aimeverse",
+  "linkedinNum": 82618967,
   "crunchbaseId": null,
+  "ivcId": "A1000000418716",
   "finderId": "aime-metaverse-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.070524,
-      "lon": 34.786887
+      "city": "תל אביב-יפו",
+      "lat": 32.0704879,
+      "lon": 34.7867549
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

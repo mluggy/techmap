@@ -1,0 +1,31 @@
+{
+  "name": "Promise Bio",
+  "description": "Promise Bio has developed a system that allows for the identification of changes in proteins (post-translational modifications) on a large scale without the need for complex laboratory processes.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/promise-bio-logo.webp",
+  "websiteUrl": "https://www.promise.bio",
+  "careersUrl": null,
+  "linkedinId": "promise-bio",
+  "linkedinNum": 82083896,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485961",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 90,
+      "city": "תל אביב-יפו",
+      "lat": 32.0672221,
+      "lon": 34.7769883
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

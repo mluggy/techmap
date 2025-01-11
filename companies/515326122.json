@@ -6,21 +6,26 @@
   "logoFile": "logos/snyk_israel-logo.webp",
   "websiteUrl": "https://snyk.io/",
   "careersUrl": "https://snyk.io/careers/",
-  "isHiring": true,
   "linkedinId": "snyk",
+  "linkedinNum": 10043614,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "snyk",
   "xId": "snyksec",
+  "facebookId": "snyksec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "facebookId": "snyksec",
-  "linkedinNum": 10043614
+  "isActive": true
 }

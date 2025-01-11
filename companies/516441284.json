@@ -1,23 +1,31 @@
 {
   "name": "Everblue Labs",
-  "description": "A sustainable aquaculture solution enabling farmers worldwide to cultivate fish in optimal, eco-friendly conditions.",
+  "description": "Inland Ocean is a developer of fish farming technology, designed to address the industry's pressing challenges.",
   "categoryId": 17,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/everblue_labs-logo.webp",
-  "websiteUrl": "https://www.everblue-labs.com/",
+  "websiteUrl": "https://www.inlandocean.co",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "everblue-labs",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000403423",
   "finderId": "everblue-labs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 48,
-      "city": "תל אביב - יפו",
-      "lat": 32.0631601,
-      "lon": 34.7803411
+      "city": "בני ברק",
+      "lat": 32.092679,
+      "lon": 34.831622
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

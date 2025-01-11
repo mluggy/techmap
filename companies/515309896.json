@@ -6,11 +6,17 @@
   "logoFile": "logos/loglig-logo.webp",
   "websiteUrl": "https://loglig.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000191977",
   "finderId": "loglig",
   "xId": null,
+  "facebookId": "loglig.sport",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצהר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "loglig.sport"
+  "isActive": true
 }

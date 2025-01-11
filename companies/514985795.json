@@ -1,0 +1,31 @@
+{
+  "name": "LawGeex",
+  "description": "LawGeex uses artificial intelligence to automate contract analysis and testing.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/lawgeex-logo.webp",
+  "websiteUrl": "https://www.lawgeex.com",
+  "careersUrl": "https://www.lawgeex.com/company/careers/",
+  "linkedinId": "lawgeex",
+  "linkedinNum": 9435398,
+  "crunchbaseId": null,
+  "ivcId": "A1000000182273",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יוסף קארו",
+      "houseNumber": 19,
+      "city": "תל אביב-יפו",
+      "lat": 32.0707291,
+      "lon": 34.791305
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

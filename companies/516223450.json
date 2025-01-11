@@ -6,11 +6,17 @@
   "logoFile": "logos/envario-logo.webp",
   "websiteUrl": "https://envar.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 69695052,
   "crunchbaseId": "envario",
+  "ivcId": null,
   "finderId": "envario",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חוחית",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69695052
+  "isActive": true
 }

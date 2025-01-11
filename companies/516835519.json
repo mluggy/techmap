@@ -3,21 +3,29 @@
   "description": "Defending the forefront of AI, we provide cutting-edge solutions to enhance your cybersecurity against exploitation.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/lasso_security-logo.webp",
+  "logoFile": "logos/lasso-security-logo.webp",
   "websiteUrl": "https://www.lasso.security/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lasso-security",
+  "linkedinNum": 96053161,
   "crunchbaseId": null,
+  "ivcId": "A1000000458513",
   "finderId": "lasso-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תושיה",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.066664,
-      "lon": 34.788182
+      "city": "תל אביב-יפו",
+      "lat": 32.06663390000001,
+      "lon": 34.788253
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

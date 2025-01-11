@@ -6,21 +6,26 @@
   "logoFile": "logos/razor_labs-logo.webp",
   "websiteUrl": "https://www.razor-labs.com/",
   "careersUrl": "https://www.razor-labs.com/careers/",
-  "isHiring": true,
   "linkedinId": "razor-technologies-inc",
+  "linkedinNum": 7948169,
   "crunchbaseId": null,
+  "ivcId": "A1000000248493",
   "finderId": "razor-labs",
   "xId": null,
+  "facebookId": "RazorLabsTeam",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
-      "lat": 32.0605137,
-      "lon": 34.7759853
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322717
     }
   ],
   "isMultinational": false,
-  "facebookId": "RazorLabsTeam",
-  "linkedinNum": 7948169
+  "isActive": true
 }

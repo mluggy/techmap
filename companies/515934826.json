@@ -6,20 +6,26 @@
   "logoFile": "logos/netop_cld-logo.webp",
   "websiteUrl": "https://netop.cloud/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "netop-cloud",
+  "linkedinNum": 37837961,
   "crunchbaseId": null,
+  "ivcId": "A1000000288395",
   "finderId": "netop-cld",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך חברון",
-      "houseNumber": 24,
-      "city": "ירושלים",
-      "lat": 31.7316844,
-      "lon": 35.20565
+      "street": "ברקוביץ'",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0785529,
+      "lon": 34.7869819
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37837961
+  "isActive": true
 }

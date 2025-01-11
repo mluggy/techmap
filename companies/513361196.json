@@ -6,11 +6,17 @@
   "logoFile": "logos/isragor_protective_gear_systems-logo.webp",
   "websiteUrl": "https://www.israeldefensestore.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "isragor",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמז",
@@ -19,5 +25,7 @@
       "lat": 32.1613564,
       "lon": 34.882341
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/asmedic-logo.webp",
   "websiteUrl": "https://asmedic.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "asmedic",
+  "ivcId": "A1000000009257",
   "finderId": "asmedic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התיכון",
@@ -20,5 +26,6 @@
       "lon": 35.0160846
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

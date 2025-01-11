@@ -6,21 +6,26 @@
   "logoFile": "logos/maradin-logo.webp",
   "websiteUrl": "https://www.maradin.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "maradin",
+  "linkedinNum": 2909619,
   "crunchbaseId": null,
+  "ivcId": "A1000000008823",
   "finderId": "maradin",
   "xId": null,
+  "facebookId": "MaradinLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
       "houseNumber": 2,
-      "city": "יקנעם עילית",
-      "lat": 32.6578027,
-      "lon": 35.1002987
+      "city": "יוקנעם עילית",
+      "lat": 32.6624558,
+      "lon": 35.1049443
     }
   ],
   "isMultinational": false,
-  "facebookId": "MaradinLtd",
-  "linkedinNum": 2909619
+  "isActive": true
 }

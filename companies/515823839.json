@@ -6,20 +6,26 @@
   "logoFile": "logos/pangea_biomed-logo.webp",
   "websiteUrl": "https://pangeabiomed.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pangea-biomed",
+  "linkedinNum": 71201409,
   "crunchbaseId": null,
+  "ivcId": "A1000000324044",
   "finderId": "pangea-biomed",
   "xId": "PangeaBiomed",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.106408,
-      "lon": 34.833651
+      "city": "תל אביב-יפו",
+      "lat": 32.106356,
+      "lon": 34.834755
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71201409
+  "isActive": true
 }

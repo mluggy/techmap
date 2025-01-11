@@ -6,21 +6,26 @@
   "logoFile": "logos/holisto-logo.webp",
   "websiteUrl": "https://www.holisto.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "holistohq",
+  "linkedinNum": 10340686,
   "crunchbaseId": null,
+  "ivcId": "A1000000207128",
   "finderId": "splitty-travel",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "holisto/76.001",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד נים",
+      "street": "שדרות נים",
       "houseNumber": 2,
       "city": "ראשון לציון",
-      "lat": 31.949713600000003,
-      "lon": 34.80328505744155
+      "lat": 31.95017679999999,
+      "lon": 34.8029427
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10340686,
-  "comeetId": "holisto/76.001"
+  "isActive": true
 }

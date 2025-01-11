@@ -6,21 +6,26 @@
   "logoFile": "logos/g_medical_innovations-logo.webp",
   "websiteUrl": "https://gmedinnovations.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "g-medical-innovations",
+  "linkedinNum": 9423816,
   "crunchbaseId": null,
+  "ivcId": "A1000000232846",
   "finderId": "g-medical-innovations",
   "xId": "gmedicalinno",
+  "facebookId": "GMedicalinnovations",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
       "houseNumber": 5,
-      "city": "רחובות",
-      "lat": 31.9109154,
-      "lon": 34.8067877
+      "city": "תל אביב-יפו",
+      "lat": 32.1194149,
+      "lon": 34.7998769
     }
   ],
   "isMultinational": false,
-  "facebookId": "GMedicalinnovations",
-  "linkedinNum": 9423816
+  "isActive": true
 }

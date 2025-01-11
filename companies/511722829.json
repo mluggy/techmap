@@ -1,0 +1,31 @@
+{
+  "name": "Exent",
+  "description": "Exent is specializing in the marketing, merchandising, distribution and monetization of mobile and PC games.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/exent-logo.webp",
+  "websiteUrl": "http://www.exent.com",
+  "careersUrl": null,
+  "linkedinId": "exent-technologies",
+  "linkedinNum": 18770,
+  "crunchbaseId": null,
+  "ivcId": "A1000000006240",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "Basel Street",
+      "houseNumber": 25,
+      "city": "Petah Tikva",
+      "lat": 32.1017723,
+      "lon": 34.8671587
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

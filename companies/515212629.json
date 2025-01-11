@@ -6,22 +6,26 @@
   "logoFile": "logos/shopic_technologies-logo.webp",
   "websiteUrl": "https://www.shopic.co/",
   "careersUrl": "https://www.shopic.co/career/",
-  "isHiring": true,
   "linkedinId": "shopic",
+  "linkedinNum": 6383009,
   "crunchbaseId": null,
+  "ivcId": "A1000000183799",
   "finderId": "shopic",
   "xId": "UseShopic",
+  "facebookId": "ShopicAI",
+  "breezyId": null,
+  "comeetId": "shopic/E6.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
-      "lat": 32.0797181,
-      "lon": 34.7957816
+      "city": "תל אביב-יפו",
+      "lat": 32.0930883,
+      "lon": 34.8322717
     }
   ],
   "isMultinational": false,
-  "facebookId": "ShopicAI",
-  "linkedinNum": 6383009,
-  "comeetId": "shopic/E6.002"
+  "isActive": true
 }

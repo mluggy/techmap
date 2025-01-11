@@ -6,21 +6,26 @@
   "logoFile": "logos/wild_biotech-logo.webp",
   "websiteUrl": "https://wildbio.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wild-biotech",
+  "linkedinNum": 36102965,
   "crunchbaseId": "wild-biotech-ltd",
+  "ivcId": "A1000000307468",
   "finderId": "wild-biotech",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ב\"ק ישראל",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.068744,
-      "lon": 34.788052
+      "street": "המדע",
+      "houseNumber": 8,
+      "city": "רחובות",
+      "lat": 31.9122495,
+      "lon": 34.8051502
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 36102965
+  "isActive": true
 }

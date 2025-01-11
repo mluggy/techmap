@@ -6,21 +6,26 @@
   "logoFile": "logos/seecares-logo.webp",
   "websiteUrl": "https://seecares.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "seecares",
+  "linkedinNum": 15821065,
   "crunchbaseId": null,
+  "ivcId": "A1000000331153",
   "finderId": "seecares",
   "xId": null,
+  "facebookId": "SeeCaresTechnology",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השייטת",
-      "houseNumber": 2,
-      "city": "ראשון לציון",
-      "lat": 31.9987463,
-      "lon": 34.7357214
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "SeeCaresTechnology",
-  "linkedinNum": 15821065
+  "isActive": true
 }

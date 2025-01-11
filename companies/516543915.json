@@ -1,0 +1,31 @@
+{
+  "name": "TeXperience",
+  "description": "TeXperience is a tech company, addressing the food industry's need to supply high-quality, alternative protein whole cuts that answer consumer demand for a tasty, multi-textural, affordable, and healthy product.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/texperience-logo.webp",
+  "websiteUrl": "https://www.texperience.tech",
+  "careersUrl": null,
+  "linkedinId": "texperience-pbm",
+  "linkedinNum": 83025244,
+  "crunchbaseId": null,
+  "ivcId": "A1000000412677",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שלמה בן יוסף",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.123529,
+      "lon": 34.7976711
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

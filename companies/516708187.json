@@ -1,0 +1,31 @@
+{
+  "name": "SellPay",
+  "description": "SellPay develops an app that allows developers and online merchants to delight their customers by offering rewards and discounts in exchange for trade-in of used goods.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/sellpay-logo.webp",
+  "websiteUrl": "https://www.sellpay.ai",
+  "careersUrl": null,
+  "linkedinId": "sellpay-ltd",
+  "linkedinNum": 101321220,
+  "crunchbaseId": null,
+  "ivcId": "A1000000493307",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "5",
+      "houseNumber": null,
+      "city": null,
+      "lat": 32.1218838,
+      "lon": 34.8620931
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

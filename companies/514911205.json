@@ -6,11 +6,17 @@
   "logoFile": "logos/hopon_mobility-logo.webp",
   "websiteUrl": "https://hopon.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hopon---travel-smart",
+  "linkedinNum": 10426792,
   "crunchbaseId": null,
+  "ivcId": "A1000000023164",
   "finderId": "hopon",
   "xId": "HopOn_App",
+  "facebookId": "apphopon",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "apphopon",
-  "linkedinNum": 10426792
+  "isActive": true
 }

@@ -6,18 +6,26 @@
   "logoFile": "logos/lendbuzz-logo.webp",
   "websiteUrl": "https://www.lendbuzz.com/",
   "careersUrl": "https://www.lendbuzz.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lendbuzz",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0687595,
       "lon": 34.7939327
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

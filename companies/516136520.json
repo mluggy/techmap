@@ -6,21 +6,26 @@
   "logoFile": "logos/shanenli-logo.webp",
   "websiteUrl": "https://shanen.li/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "shanenli",
+  "linkedinNum": 28545040,
   "crunchbaseId": null,
+  "ivcId": "A1000000312428",
   "finderId": "shanenli",
   "xId": "AShanenli",
+  "facebookId": "--Shanen-Li-393941848038218",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצבי",
-      "houseNumber": 15,
+      "street": "הועד הלאומי",
+      "houseNumber": 21,
       "city": "ירושלים",
-      "lat": 31.789555,
-      "lon": 35.2032004
+      "lat": 31.7650671,
+      "lon": 35.1912116
     }
   ],
   "isMultinational": false,
-  "facebookId": "--Shanen-Li-393941848038218",
-  "linkedinNum": 28545040
+  "isActive": true
 }

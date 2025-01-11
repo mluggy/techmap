@@ -1,0 +1,31 @@
+{
+  "name": "Gravez",
+  "description": "Gravez is a mobile app that helps people navigate cemeteries to find a specific day.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/gravez-logo.webp",
+  "websiteUrl": "https://gravez.me/en",
+  "careersUrl": null,
+  "linkedinId": "corido-ltd",
+  "linkedinNum": 42419281,
+  "crunchbaseId": null,
+  "ivcId": "A1000000321821",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מקלף",
+      "houseNumber": 3,
+      "city": "חיפה",
+      "lat": 32.788929,
+      "lon": 35.029857
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

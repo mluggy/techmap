@@ -6,11 +6,17 @@
   "logoFile": "logos/pando_cyber_security-logo.webp",
   "websiteUrl": "https://network.hellopando.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000424377",
   "finderId": "pando-cyber-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן אליעזר אריה",
@@ -19,5 +25,7 @@
       "lat": 32.0642785,
       "lon": 34.8330244
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

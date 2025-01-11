@@ -6,21 +6,26 @@
   "logoFile": "logos/wolt_enterprises_israel-logo.webp",
   "websiteUrl": "https://wolt.com/",
   "careersUrl": "https://careers.wolt.com/",
-  "isHiring": true,
   "linkedinId": "wolt-oy",
+  "linkedinNum": 3995846,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "wolt",
   "xId": "woltapp",
+  "facebookId": "Wolt-100511894917083",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066331,
       "lon": 34.786433
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Wolt-100511894917083",
-  "linkedinNum": 3995846
+  "isMultinational": false,
+  "isActive": true
 }

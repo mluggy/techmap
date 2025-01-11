@@ -1,0 +1,31 @@
+{
+  "name": "MyBusiness CRM",
+  "description": "Syrinx's product, MyBusiness, is a CRM system for SMBs which enables the management of customer relationships, marketing and sales, projects, work hours, contact persons, and events.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/mybusiness_crm-logo.webp",
+  "websiteUrl": "https://www.mybusiness.co.il",
+  "careersUrl": "https://www.mybusiness.co.il/jobs/",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001349",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0616539,
+      "lon": 34.7827339
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

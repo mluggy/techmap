@@ -6,11 +6,17 @@
   "logoFile": "logos/eko_h_mediterranean-logo.webp",
   "websiteUrl": "https://eko.com/",
   "careersUrl": "https://eko.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 1027016,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "interlude",
   "xId": "ekovideo",
+  "facebookId": "helloeko",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ראש פינה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "helloeko",
-  "linkedinNum": 1027016
+  "isActive": true
 }

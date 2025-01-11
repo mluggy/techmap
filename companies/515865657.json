@@ -6,20 +6,26 @@
   "logoFile": "logos/solidrip-logo.webp",
   "websiteUrl": "https://solidrip.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "solidrip",
+  "linkedinNum": 10181611,
   "crunchbaseId": null,
+  "ivcId": "A1000000277203",
   "finderId": "solidrip1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 144,
-      "city": "תל אביב - יפו",
-      "lat": 32.07734524999999,
-      "lon": 34.79332549438699
+      "street": null,
+      "houseNumber": null,
+      "city": "נען",
+      "lat": 31.883208,
+      "lon": 34.859237
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10181611
+  "isActive": true
 }

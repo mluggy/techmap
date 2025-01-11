@@ -1,16 +1,22 @@
 {
   "name": "Gama Operations",
-  "description": "Enterprise Secure PBXs and IP PBX Systems",
-  "categoryId": 14,
+  "description": "GAMA Operations is an international company based in Israel and since 1995 has specialized in advanced telecommunications systems – in particular for Voice Processing, Interactive Voice Response (IVR (and Unified Messaging applications.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/gama_operations-logo.webp",
-  "websiteUrl": "https://www.gamaoperations.com",
-  "careersUrl": "https://www.gamaaviation.com/careers/",
-  "isHiring": true,
+  "websiteUrl": "http://gamaoperations.com.preview8.logate.co.il/press.php?lang=1",
+  "careersUrl": null,
   "linkedinId": "gama-operations-ltd",
+  "linkedinNum": 1919115,
   "crunchbaseId": null,
+  "ivcId": "A1000000008071",
   "finderId": "gama-operations",
   "xId": "gamaoperations",
+  "facebookId": "Gama-Operations-171944459650082",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המפלסים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Gama-Operations-171944459650082",
-  "linkedinNum": 1919115
+  "isActive": true
 }

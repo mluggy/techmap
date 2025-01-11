@@ -1,16 +1,22 @@
 {
   "name": "Wellplay",
-  "description": "AI Platform for Mental Health Therapists and Patients",
+  "description": "AI Platform for Mental Health Therapists and Patients.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/wellplay-logo.webp",
   "websiteUrl": "https://www.wellplayapp.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wellplayapp",
+  "linkedinNum": 77913873,
   "crunchbaseId": null,
+  "ivcId": "A1000000371690",
   "finderId": "wellplay-ltd",
   "xId": null,
+  "facebookId": "Wellplayapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חורגין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Wellplayapp",
-  "linkedinNum": 77913873
+  "isActive": true
 }

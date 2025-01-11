@@ -6,21 +6,26 @@
   "logoFile": "logos/oxeye_security-logo.webp",
   "websiteUrl": "https://www.oxeye.io/",
   "careersUrl": "https://www.oxeye.io/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 72734261,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "oxeye",
   "xId": "OxeyeSecurity",
+  "facebookId": "oxeyecloudnative",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0605137,
       "lon": 34.7759853
     }
   ],
   "isMultinational": false,
-  "facebookId": "oxeyecloudnative",
-  "linkedinNum": 72734261
+  "isActive": true
 }

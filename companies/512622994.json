@@ -6,21 +6,26 @@
   "logoFile": "logos/medinol_ltd-logo.webp",
   "websiteUrl": "https://medinol.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "medinol",
+  "linkedinNum": 145260,
   "crunchbaseId": null,
+  "ivcId": "A1000000008199",
   "finderId": "medinol",
   "xId": "medinol_stents",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רח 2184",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0377129,
       "lon": 34.7484665
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 145260
+  "isActive": true
 }

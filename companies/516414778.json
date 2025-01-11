@@ -1,0 +1,31 @@
+{
+  "name": "Eco City Green",
+  "description": "Eco City Green developed the Ecodrum system for handling all types of organic waste and provides solutions to deal with environmental challenges by converting troublesome waste into fertilizer, a valuable product, efficiently and quickly.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/eco_city_green-logo.webp",
+  "websiteUrl": "https://www.ecodrum.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000454200",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הדקל",
+      "houseNumber": 53,
+      "city": "חרב לאת",
+      "lat": 32.3994904,
+      "lon": 34.9241428
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

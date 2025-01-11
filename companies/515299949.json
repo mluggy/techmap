@@ -1,16 +1,22 @@
 {
   "name": "Biopuremax",
-  "description": "Water Purification for the Pharmaceutical Industry",
+  "description": "Water Purification for the Pharmaceutical Industry.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/biopuremax_2015-logo.webp",
   "websiteUrl": "https://www.biopuremax.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "biopuremax",
+  "linkedinNum": 10514661,
   "crunchbaseId": null,
+  "ivcId": "A1000000175441",
   "finderId": "biopuremax",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנאות",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10514661
+  "isActive": true
 }

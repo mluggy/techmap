@@ -1,0 +1,31 @@
+{
+  "name": "PocketLink",
+  "description": "PocketLink is a company that focuses on mobile sales force solutions.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/pocketlink-logo.webp",
+  "websiteUrl": "http://www.pocketlink.co.il",
+  "careersUrl": "https://www.pocketlink.co.il/jobs/",
+  "linkedinId": "pocket-link-n",
+  "linkedinNum": 3594694,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009996",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ישראל גלילי",
+      "houseNumber": null,
+      "city": "נתניה",
+      "lat": 32.2701333,
+      "lon": 34.8442341
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

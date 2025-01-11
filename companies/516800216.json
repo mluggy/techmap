@@ -1,23 +1,31 @@
 {
   "name": "Apex Security",
-  "description": "Instantly identifying, probing, and countering cyberattacks aimed at AI systems.",
-  "categoryId": 1,
+  "description": "Apex is focused on resolving the exposure of the users to risks, like data leaks, privacy, intellectual property breaches or dedicated AI attacks by using an innovative framework that actively mitigates AI risks on a large scale.",
+  "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/apex_security-logo.webp",
-  "websiteUrl": "https://apexsgi.com/",
-  "careersUrl": "https://apexsecurityinc.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "logoFile": "logos/apex-security-logo.webp",
+  "websiteUrl": "https://apexhq.ai",
+  "careersUrl": null,
+  "linkedinId": "apexhq-ai",
+  "linkedinNum": 102439338,
   "crunchbaseId": null,
+  "ivcId": "A1000000473146",
   "finderId": "apex-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תבין אלי",
+      "street": "אלי כהן",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.12749,
-      "lon": 34.829477
+      "city": "תל אביב-יפו",
+      "lat": 32.1218956,
+      "lon": 34.7926924
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

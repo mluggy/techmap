@@ -1,23 +1,31 @@
 {
   "name": "Natan Labs",
-  "description": "A leading force in Agrifood Tech, facilitating global collaboration and innovation within a vast ecosystem of over 400 companies in Israel.",
-  "categoryId": 17,
+  "description": "Natan Labs is developing a home-use real time paper-based test using Imaging Technology.",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/natan_labs-logo.webp",
-  "websiteUrl": "https://startupnationcentral.org/",
+  "websiteUrl": "http://natanlabs.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000279297",
   "finderId": "natan-labs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריאל שרון",
+      "street": "השיזף",
       "houseNumber": 4,
-      "city": "גבעתיים",
-      "lat": 32.08005635,
-      "lon": 34.799938614641945
+      "city": "רעננה",
+      "lat": 32.1923939,
+      "lon": 34.8847885
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

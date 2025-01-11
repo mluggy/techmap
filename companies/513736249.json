@@ -6,20 +6,26 @@
   "logoFile": "logos/kahr_medical-logo.webp",
   "websiteUrl": "https://kahrbio.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kahr-medical-ltd-",
+  "linkedinNum": 6724763,
   "crunchbaseId": null,
+  "ivcId": "A1000000009096",
   "finderId": "kahr-medical",
   "xId": "KahrMedical",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות דם המכבים",
+      "street": "דם המכבים",
       "houseNumber": 28,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.905411899999997,
-      "lon": 35.005662165798086
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.9061025,
+      "lon": 35.005832
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 6724763
+  "isActive": true
 }

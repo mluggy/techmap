@@ -1,0 +1,31 @@
+{
+  "name": "ONTOPO",
+  "description": "Ontopo is a Tel-Aviv based start-up, established on 2015.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/ontopo-logo.webp",
+  "websiteUrl": "https://ontopo.co.il",
+  "careersUrl": null,
+  "linkedinId": "ontopo",
+  "linkedinNum": 81635787,
+  "crunchbaseId": null,
+  "ivcId": "A1000000281716",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן שמן",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.075347,
+      "lon": 34.7945564
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

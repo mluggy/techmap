@@ -1,25 +1,31 @@
 {
   "name": "Vetric Technology",
-  "description": "Data Collection Platform",
+  "description": "Data Collection Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/vetric_technology-logo.webp",
   "websiteUrl": "https://vetric.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vetric",
+  "linkedinNum": 80661971,
   "crunchbaseId": null,
+  "ivcId": "A1000000410034",
   "finderId": "vetric-technology",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמישב",
-      "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.062837,
-      "lon": 34.804812
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80661971
+  "isActive": true
 }

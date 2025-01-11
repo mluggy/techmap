@@ -1,16 +1,22 @@
 {
   "name": "Admonis",
-  "description": "eCommerce Automation Platform",
+  "description": "eCommerce Automation Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/admonis_e_commerce-logo.webp",
   "websiteUrl": "https://admonis.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "admonis-e-commerce-ltd",
+  "linkedinNum": 28956723,
   "crunchbaseId": null,
+  "ivcId": "A1000000429535",
   "finderId": "admonis",
   "xId": null,
+  "facebookId": "admonisltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "admonisltd",
-  "linkedinNum": 28956723
+  "isActive": true
 }

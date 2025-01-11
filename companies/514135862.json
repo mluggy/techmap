@@ -1,26 +1,31 @@
 {
   "name": "Shekel Scales",
-  "description": "Innovating with cutting-edge technology, this company excels in high-performance precision weighing solutions.",
-  "categoryId": 9,
+  "description": "Shekel Scales is a leading global provider of electronic weighing systems and electronic scales for high end retail, industrial and healthcare applications.",
+  "categoryId": 14,
   "size": "m",
   "logoFile": "logos/shekel_scales_2008-logo.webp",
-  "websiteUrl": "https://www.shekel.ai/",
+  "websiteUrl": "http://www.shekelonline.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "shekel-smart-gravity-solutions",
+  "linkedinNum": 2418683,
   "crunchbaseId": null,
+  "ivcId": "A1000000003227",
   "finderId": "shekel-scales",
   "xId": null,
+  "facebookId": "LTDShekel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרכבה",
       "houseNumber": 7,
       "city": "נוף הגליל",
-      "lat": 32.759674,
-      "lon": 35.3199
+      "lat": 32.7629653,
+      "lon": 35.3195809
     }
   ],
   "isMultinational": false,
-  "facebookId": "LTDShekel",
-  "linkedinNum": 2418683
+  "isActive": true
 }

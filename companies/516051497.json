@@ -6,20 +6,26 @@
   "logoFile": "logos/bio_refine-logo.webp",
   "websiteUrl": "https://www.refine.bio/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 101043680,
   "crunchbaseId": null,
+  "ivcId": "A1000000302901",
   "finderId": "bio-refine",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נתניהו יהונתן",
-      "houseNumber": 6,
-      "city": "אור יהודה",
-      "lat": 32.0219296,
-      "lon": 34.8566055
+      "street": "ענתות",
+      "houseNumber": 36,
+      "city": "תל אביב-יפו",
+      "lat": 32.1249016,
+      "lon": 34.8307966
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 101043680
+  "isActive": true
 }

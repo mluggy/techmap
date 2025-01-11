@@ -6,21 +6,26 @@
   "logoFile": "logos/telesofia_medical-logo.webp",
   "websiteUrl": "https://www.telesofia.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "telesofia-medical",
+  "linkedinNum": 2242342,
   "crunchbaseId": null,
+  "ivcId": "A1000000010448",
   "finderId": "telesofia-medical",
   "xId": "telesofia",
+  "facebookId": "TelesofiaMedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פינסקר",
-      "houseNumber": 70,
-      "city": "פתח תקווה",
-      "lat": 32.0980264,
-      "lon": 34.8813922
+      "street": null,
+      "houseNumber": null,
+      "city": "רמת גן",
+      "lat": 32.0837559,
+      "lon": 34.8038516
     }
   ],
   "isMultinational": false,
-  "facebookId": "TelesofiaMedical",
-  "linkedinNum": 2242342
+  "isActive": true
 }

@@ -1,24 +1,31 @@
 {
   "name": "HADRAN",
-  "description": "Automated Labeling System for Fruit and Vegetables",
+  "description": "Hadran has developed a new generation \"Multi line applicators\" for both labeling systems over the grader and HDTLR new tray labeler systems applying labels on fruits and vegetables.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/hadran_citrus_products-logo.webp",
-  "websiteUrl": "https://hurstcanada.ca/hadran-labelers",
+  "websiteUrl": "https://www.hadran-labelers.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000238352",
   "finderId": "hadran-advanced-labeling-solutions",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אזור תעשיה",
-      "houseNumber": null,
-      "city": "רחובות",
-      "lat": 31.889247992222792,
-      "lon": 34.7827127167572
+      "street": "האופה",
+      "houseNumber": 7,
+      "city": "אשקלון",
+      "lat": 31.6387953,
+      "lon": 34.54954310000001
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

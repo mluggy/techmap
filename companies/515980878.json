@@ -6,21 +6,26 @@
   "logoFile": "logos/buildos-logo.webp",
   "websiteUrl": "https://www.swapp.ai/",
   "careersUrl": "https://www.swapp.ai/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "swapp-ai",
+  "linkedinNum": 35520324,
   "crunchbaseId": null,
+  "ivcId": "A1000000288165",
   "finderId": "buildos",
   "xId": "SwappArchitech",
+  "facebookId": "swapparchitecture",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חפץ חיים",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.074988,
-      "lon": 34.799384
+      "street": "ליאונרדו דה וינצ'י",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.0739578,
+      "lon": 34.7846003
     }
   ],
   "isMultinational": false,
-  "facebookId": "swapparchitecture",
-  "linkedinNum": 35520324
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/moebius_medical-logo.webp",
   "websiteUrl": "https://moebiusmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "moebius-medical-ltd-",
+  "linkedinNum": 10531864,
   "crunchbaseId": null,
+  "ivcId": "A1000000002136",
   "finderId": "moebius-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
-      "houseNumber": 31,
-      "city": "תל אביב - יפו",
-      "lat": 32.110287,
-      "lon": 34.841116
+      "houseNumber": 27,
+      "city": "תל אביב-יפו",
+      "lat": 32.1099675,
+      "lon": 34.8405233
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10531864
+  "isActive": true
 }

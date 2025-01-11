@@ -6,11 +6,17 @@
   "logoFile": "logos/verifresh-logo.webp",
   "websiteUrl": "https://www.verifresh.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "verifresh",
+  "linkedinNum": 2945273,
   "crunchbaseId": null,
+  "ivcId": "A1000000008636",
   "finderId": "verifresh",
   "xId": "verifresnatural",
+  "facebookId": "Verifresh",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גיחון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Verifresh",
-  "linkedinNum": 2945273
+  "isActive": true
 }

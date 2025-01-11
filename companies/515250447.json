@@ -6,21 +6,26 @@
   "logoFile": "logos/syte_visual_conception-logo.webp",
   "websiteUrl": "https://www.syte.ai/",
   "careersUrl": "https://www.syte.ai/careers/",
-  "isHiring": true,
   "linkedinId": "syte-ai",
+  "linkedinNum": 9490547,
   "crunchbaseId": "syte-visual-conception",
+  "ivcId": "A1000000197960",
   "finderId": "syte",
   "xId": "SyteAI",
+  "facebookId": "SyteVisualAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.05865,
-      "lon": 34.784414
+      "city": "תל אביב-יפו",
+      "lat": 32.0588715,
+      "lon": 34.7845818
     }
   ],
   "isMultinational": false,
-  "facebookId": "SyteVisualAI",
-  "linkedinNum": 9490547
+  "isActive": true
 }

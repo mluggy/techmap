@@ -1,0 +1,31 @@
+{
+  "name": "ProScout.AI",
+  "description": "ProScout.",
+  "categoryId": 15,
+  "size": "xs",
+  "logoFile": "logos/proscout-ai-logo.webp",
+  "websiteUrl": "https://proscout.ai",
+  "careersUrl": null,
+  "linkedinId": "proscout-ai",
+  "linkedinNum": 105186066,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491983",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השרון",
+      "houseNumber": 46,
+      "city": "יבנה",
+      "lat": 31.8809326,
+      "lon": 34.7277352
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

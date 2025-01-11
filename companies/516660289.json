@@ -6,11 +6,17 @@
   "logoFile": "logos/trail_access-logo.webp",
   "websiteUrl": "https://trailaccess1.wixsite.com/website",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "trailaccess",
   "xId": null,
+  "facebookId": "trailaccess",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההרים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "trailaccess"
+  "isActive": true
 }

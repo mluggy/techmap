@@ -6,20 +6,26 @@
   "logoFile": "logos/actics_medical-logo.webp",
   "websiteUrl": "https://www.acticsmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "actics-medical",
+  "linkedinNum": 67922544,
   "crunchbaseId": "actics-medical",
+  "ivcId": "A1000000350364",
   "finderId": "actics-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הזית",
       "houseNumber": 12,
-      "city": "רחובות",
-      "lat": 31.9018689,
-      "lon": 34.7999654
+      "city": "כפר קאסם",
+      "lat": 32.1079952,
+      "lon": 34.95544890000001
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 67922544
+  "isActive": true
 }

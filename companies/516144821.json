@@ -3,21 +3,29 @@
   "description": "Innovative Two-Dimensional Materials.",
   "categoryId": 16,
   "size": "xs",
-  "logoFile": null,
+  "logoFile": "logos/2-d-generation-logo.webp",
   "websiteUrl": "https://2ndgenerationwu.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "2d-generation",
+  "linkedinNum": 72465694,
   "crunchbaseId": null,
+  "ivcId": "A1000000476934",
   "finderId": "2d-generation",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האלמוג נוה אפרים",
+      "street": "אלמוג",
       "houseNumber": 17,
-      "city": "יהוד-מונוסון",
-      "lat": 32.03190055657842,
-      "lon": 34.869155904738385
+      "city": "יהוד מונוסון",
+      "lat": 32.0316742,
+      "lon": 34.8691585
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

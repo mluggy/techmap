@@ -6,19 +6,26 @@
   "logoFile": "logos/myform-logo.webp",
   "websiteUrl": "https://www.myformgroup.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "myform",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.067078,
       "lon": 34.781747
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

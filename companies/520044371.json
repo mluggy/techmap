@@ -6,21 +6,26 @@
   "logoFile": "logos/radware_ltd-logo.webp",
   "websiteUrl": "https://www.radware.com/",
   "careersUrl": "https://www.radware.com/careers/",
-  "isHiring": true,
   "linkedinId": "radware",
+  "linkedinNum": 165642,
   "crunchbaseId": null,
+  "ivcId": "A1000000005074",
   "finderId": "radware",
   "xId": "radware",
+  "facebookId": "Radware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
-      "lat": 32.110576,
-      "lon": 34.838285
+      "city": "תל אביב-יפו",
+      "lat": 32.1107099,
+      "lon": 34.8384332
     }
   ],
   "isMultinational": false,
-  "facebookId": "Radware",
-  "linkedinNum": 165642
+  "isActive": true
 }

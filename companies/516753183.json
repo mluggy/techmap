@@ -1,0 +1,31 @@
+{
+  "name": "Orb AR",
+  "description": "Orb is on a mission to make AR accessible, personalized and scalable for businesses.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/orb_ar-logo.webp",
+  "websiteUrl": "https://orb-ar.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000465661",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלנבי",
+      "houseNumber": 68,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686952,
+      "lon": 34.7706847
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/anagog-logo.webp",
   "websiteUrl": "https://www.anagog.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "anagog",
+  "linkedinNum": 5393746,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "anagog",
   "xId": "@anagogSDK",
+  "facebookId": "AnagogSDK",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07003,
       "lon": 34.786371
     }
   ],
   "isMultinational": false,
-  "facebookId": "AnagogSDK",
-  "linkedinNum": 5393746
+  "isActive": true
 }

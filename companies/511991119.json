@@ -1,25 +1,31 @@
 {
   "name": "oddin",
-  "description": "Web3 User Acquisition Platform",
+  "description": "Web3 User Acquisition Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/oddin_software_services_1994_ltd-logo.webp",
   "websiteUrl": "https://oddin.ai/",
   "careersUrl": "https://oddin.gg/careers/",
-  "isHiring": true,
   "linkedinId": "oddin-design",
+  "linkedinNum": 81648399,
   "crunchbaseId": "oddin-gg",
+  "ivcId": "A1000000418712",
   "finderId": "oddin",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ספיר",
-      "houseNumber": 1,
-      "city": "הרצליה",
-      "lat": 32.1646025,
-      "lon": 34.8122231
+      "street": "דרך אבא הלל",
+      "houseNumber": 15,
+      "city": "רמת גן",
+      "lat": 32.085569,
+      "lon": 34.803969
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81648399
+  "isActive": true
 }

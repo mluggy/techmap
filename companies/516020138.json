@@ -6,20 +6,26 @@
   "logoFile": "logos/bailam-logo.webp",
   "websiteUrl": "https://www.bailam.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bailam",
+  "linkedinNum": 50805669,
   "crunchbaseId": null,
+  "ivcId": "A1000000308734",
   "finderId": "bailam",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השריון",
-      "houseNumber": 8,
+      "street": "החרושת",
+      "houseNumber": 27,
       "city": "רעננה",
-      "lat": 32.18891395144931,
-      "lon": 34.88012492031904
+      "lat": 32.1961693,
+      "lon": 34.8802393
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 50805669
+  "isActive": true
 }

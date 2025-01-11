@@ -1,0 +1,31 @@
+{
+  "name": "SurgiAI",
+  "description": "SurgiAI's technology automatically detects and segments anatomical structures, aligning preoperative images with the patient’s actual anatomy to enhance precision and decision-making in complex surgeries.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/surgiai-logo.webp",
+  "websiteUrl": "https://surgi.ai",
+  "careersUrl": null,
+  "linkedinId": "surgiai",
+  "linkedinNum": 103920244,
+  "crunchbaseId": null,
+  "ivcId": "A1000000466796",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "היובלים",
+      "houseNumber": 295,
+      "city": "בארותיים",
+      "lat": 32.3208417,
+      "lon": 34.989913
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

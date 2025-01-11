@@ -6,20 +6,26 @@
   "logoFile": "logos/playstream-logo.webp",
   "websiteUrl": "https://www.playstream.gg/",
   "careersUrl": "https://www.playstream.gg/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "playstreamgg",
+  "linkedinNum": 74753880,
   "crunchbaseId": null,
+  "ivcId": "A1000000337144",
   "finderId": "playstream",
   "xId": "CAbyPlaystream",
+  "facebookId": "Playstream.GG",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחל נטפים",
       "houseNumber": 20,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.8955158,
-      "lon": 35.0241228
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8955159,
+      "lon": 35.0239476
     }
   ],
   "isMultinational": false,
-  "facebookId": "Playstream.GG"
+  "isActive": true
 }

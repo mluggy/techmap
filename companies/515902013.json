@@ -6,21 +6,26 @@
   "logoFile": "logos/identiq_protocol-logo.webp",
   "websiteUrl": "https://www.identiq.com/",
   "careersUrl": "https://www.identiq.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "identiqprotocol",
+  "linkedinNum": 19077299,
   "crunchbaseId": null,
+  "ivcId": "A1000000273977",
   "finderId": "identiq-protocol",
   "xId": "identiqprotocol",
+  "facebookId": "identiqprotocol",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "identiqprotocol",
-  "linkedinNum": 19077299
+  "isActive": true
 }

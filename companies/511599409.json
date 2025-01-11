@@ -1,25 +1,31 @@
 {
   "name": "Ivory Software Systems",
-  "description": "Core Capital Markets Platform for Banks",
+  "description": "Core Capital Markets Platform for Banks.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/ivory_software_systems-logo.webp",
   "websiteUrl": "https://www.ivory-sw.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ivory-software",
+  "linkedinNum": 4395322,
   "crunchbaseId": null,
+  "ivcId": "A1000000001927",
   "finderId": "ivory-software-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריב\"ל",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.062831,
-      "lon": 34.782228
+      "city": "תל אביב-יפו",
+      "lat": 32.0629028,
+      "lon": 34.7822646
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 4395322
+  "isActive": true
 }

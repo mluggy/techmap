@@ -6,20 +6,26 @@
   "logoFile": "logos/axilion-logo.webp",
   "websiteUrl": "https://axilion.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "axilion-ltd",
+  "linkedinNum": 2036166,
   "crunchbaseId": null,
+  "ivcId": "A1000000023271",
   "finderId": "axilion",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סחרוב אנדרה",
-      "houseNumber": 9,
-      "city": "חיפה",
-      "lat": 32.7897925,
-      "lon": 34.9593655
+      "street": "דרך מנחם בגין",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.0718047,
+      "lon": 34.7890239
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2036166
+  "isActive": true
 }

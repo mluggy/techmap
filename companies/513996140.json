@@ -6,21 +6,26 @@
   "logoFile": "logos/autodesk-logo.webp",
   "websiteUrl": "https://autodesktlv.com/",
   "careersUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext?locationCountry=084562884af243748dad7c84c304d89a",
-  "isHiring": true,
   "linkedinId": "autodesk",
+  "linkedinNum": 1879,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "autodesk",
   "xId": "autodesk",
+  "facebookId": "autodesktlv",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוטשילד",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062921387139376,
       "lon": 34.771464874202316
     }
   ],
-  "isMultinational": true,
-  "facebookId": "autodesktlv",
-  "linkedinNum": 1879
+  "isMultinational": false,
+  "isActive": true
 }

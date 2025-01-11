@@ -1,17 +1,22 @@
 {
   "name": "Aquanity Living Water Tech",
-  "description": "Water-revitalizing Technology",
+  "description": "Water-revitalizing Technology.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/aquanity-living-water-tech.webp",
   "websiteUrl": "https://aquanity.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 958143,
   "crunchbaseId": null,
+  "ivcId": "A1000000001082",
   "finderId": "aquanity-living-water-tech",
   "xId": "Aquanity",
   "facebookId": "aquanity18",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנצח",
@@ -21,5 +26,6 @@
       "lon": 34.84409208960284
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

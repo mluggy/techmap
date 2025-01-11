@@ -6,21 +6,26 @@
   "logoFile": "logos/rumble_talk-logo.webp",
   "websiteUrl": "https://rumbletalk.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3316366,
   "crunchbaseId": null,
+  "ivcId": "A1000000020500",
   "finderId": "rumbletalk",
   "xId": "RumbleTalk",
+  "facebookId": "rumbletalk",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הר הצופים",
-      "houseNumber": 18,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.8951706,
-      "lon": 34.7797263
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "facebookId": "rumbletalk",
-  "linkedinNum": 3316366
+  "isActive": true
 }

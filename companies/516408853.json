@@ -1,25 +1,31 @@
 {
   "name": "Heka",
-  "description": "Data-enabled Solutions for Non-performing Assets",
+  "description": "Data-enabled Solutions for Non-performing Assets.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/heka_solutions-logo.webp",
   "websiteUrl": "https://www.hekaglobal.com/",
   "careersUrl": "https://www.hekainc.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "heka-global",
+  "linkedinNum": 70379840,
   "crunchbaseId": null,
+  "ivcId": "A1000000358209",
   "finderId": "heka",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
-      "lat": 32.0626915,
-      "lon": 34.7796374
+      "city": "תל אביב-יפו",
+      "lat": 32.0626655,
+      "lon": 34.7806907
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70379840
+  "isActive": true
 }

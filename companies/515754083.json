@@ -6,20 +6,26 @@
   "logoFile": "logos/pyrogss-logo.webp",
   "websiteUrl": "https://joni.pyrogss.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pyrogss",
   "xId": null,
+  "facebookId": "pYrogss",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דיזנגוף",
       "houseNumber": 69,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0762702,
       "lon": 34.7745048
     }
   ],
   "isMultinational": false,
-  "facebookId": "pYrogss"
+  "isActive": true
 }

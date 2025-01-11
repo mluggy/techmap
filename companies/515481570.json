@@ -3,14 +3,20 @@
   "description": "Customer Experience Enrichment",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/freetail_technologies-logo.webp",
+  "logoFile": "logos/freetail-technologies-logo.webp",
   "websiteUrl": "https://www.freetail.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "freetail-technologies-ltd",
+  "linkedinNum": 19047187,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "freetail-technologies-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יואל",
@@ -20,5 +26,6 @@
       "lon": 34.8376307
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/settlewize-logo.webp",
   "websiteUrl": "https://www.settlewize.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "settlewize",
+  "ivcId": null,
   "finderId": "settlewize",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העליה השניה",
@@ -19,5 +25,7 @@
       "lat": 32.17253565,
       "lon": 34.84520900043368
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,12 +6,17 @@
   "logoFile": "logos/starhome-mach.webp",
   "websiteUrl": "https://www.tomiaglobal.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 10550261,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "starhome-mach",
   "xId": "StarhomeOnline",
   "facebookId": "tomiaglobal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צמרות",
@@ -21,5 +26,6 @@
       "lon": 34.845139575952636
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

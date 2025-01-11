@@ -3,14 +3,20 @@
   "description": "Virtual Ports maneuvering system, enables surgeons control of the surgical space without the need to rely on an assistant or to let less experienced staffers ...",
   "categoryId": 15,
   "size": "s",
-  "logoFile": "logos/virtual_ports-logo.webp",
+  "logoFile": "logos/virtual-ports-logo.webp",
   "websiteUrl": "https://virtual-ports.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "virtual-ports-laparoscopic-surgical-equipment",
+  "linkedinNum": 11797601,
   "crunchbaseId": null,
+  "ivcId": "A1000000005949",
   "finderId": "virtual-ports",
   "xId": null,
+  "facebookId": "100054599568184",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הבנאי",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "100054599568184"
+  "isActive": true
 }

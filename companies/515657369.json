@@ -6,11 +6,17 @@
   "logoFile": "logos/nine_plus_life-logo.webp",
   "websiteUrl": "https://nineplus.life/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "nine-plus-life",
+  "ivcId": null,
   "finderId": "nine-plus-life",
   "xId": null,
+  "facebookId": "NinePlusLife",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התור",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "NinePlusLife"
+  "isActive": true
 }

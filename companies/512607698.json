@@ -6,21 +6,26 @@
   "logoFile": "logos/stratasys-logo.webp",
   "websiteUrl": "https://www.stratasys.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "stratasys",
+  "linkedinNum": 415728,
   "crunchbaseId": null,
+  "ivcId": "A1000000007080",
   "finderId": "stratasys",
   "xId": "Stratasys",
+  "facebookId": "stratasys",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הולצמן חיים",
-      "houseNumber": 1,
+      "street": "פרופ דניאל כהנמן",
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.915662249999997,
-      "lon": 34.807746809143225
+      "lat": 31.9049039,
+      "lon": 34.8222228
     }
   ],
   "isMultinational": false,
-  "facebookId": "stratasys",
-  "linkedinNum": 415728
+  "isActive": true
 }

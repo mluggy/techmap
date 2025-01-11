@@ -1,26 +1,31 @@
 {
   "name": "EXAI",
-  "description": "Website Design Software",
+  "description": "Website Design Software.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/exai_web_solutions-logo.webp",
   "websiteUrl": "https://www.exai.com",
   "careersUrl": "https://www.exai.bio/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "exai-ltd-",
+  "linkedinNum": 2566694,
   "crunchbaseId": null,
+  "ivcId": "A1000000021107",
   "finderId": "exai",
   "xId": "EXAI_com",
+  "facebookId": "EXAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דיסנצ'יק אריה",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.117143,
-      "lon": 34.826886
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "EXAI",
-  "linkedinNum": 2566694
+  "isActive": true
 }

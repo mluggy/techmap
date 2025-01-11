@@ -1,25 +1,31 @@
 {
   "name": "Watchful",
-  "description": "Competitive Data Platform",
+  "description": "Competitive Data Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/watchful_technologies-logo.webp",
   "websiteUrl": "https://www.watchful.ai/",
   "careersUrl": "https://www.watchful.io/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "watchful",
+  "linkedinNum": 28598834,
   "crunchbaseId": null,
+  "ivcId": "A1000000273458",
   "finderId": "watchful-technologies",
   "xId": "WatchfulAi",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גיבורי ישראל",
-      "houseNumber": 7,
-      "city": "נתניה",
-      "lat": 32.2787263,
-      "lon": 34.8610014
+      "street": "קרליבך",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.067314,
+      "lon": 34.7831762
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28598834
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/brainq_technologies-logo.webp",
   "websiteUrl": "https://brainqtech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "brainq-technologies",
+  "linkedinNum": 5549321,
   "crunchbaseId": "brainq",
+  "ivcId": "A1000000024608",
   "finderId": "brainq-technologies",
   "xId": "brainqtech",
+  "facebookId": "BrainQTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האוניברסיטה העברית",
-      "houseNumber": 3,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7974674,
-      "lon": 35.234702
+      "lat": 31.7742708,
+      "lon": 35.2007044
     }
   ],
   "isMultinational": false,
-  "facebookId": "BrainQTech",
-  "linkedinNum": 5549321
+  "isActive": true
 }

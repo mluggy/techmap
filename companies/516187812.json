@@ -1,0 +1,31 @@
+{
+  "name": "Clickto",
+  "description": "Clickto is a online program platform that lets the users easily adjust the in-person program structure to an online environment.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/clickto-logo.webp",
+  "websiteUrl": "https://clickto.live",
+  "careersUrl": null,
+  "linkedinId": "clickto",
+  "linkedinNum": 68249679,
+  "crunchbaseId": null,
+  "ivcId": "A1000000332473",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חומה ומגדל",
+      "houseNumber": 29,
+      "city": "תל אביב-יפו",
+      "lat": 32.0639677,
+      "lon": 34.7865952
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

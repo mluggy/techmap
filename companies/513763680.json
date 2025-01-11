@@ -6,20 +6,26 @@
   "logoFile": "logos/elfi_tech-logo.webp",
   "websiteUrl": "https://elfi-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "elfi-tech-ltd",
+  "linkedinNum": 37419143,
   "crunchbaseId": "elfi-tech",
+  "ivcId": "A1000000003237",
   "finderId": "elfi-tech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
-      "lat": 32.0605137,
-      "lon": 34.7759853
+      "city": "תל אביב-יפו",
+      "lat": 32.0792259,
+      "lon": 34.7949402
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37419143
+  "isActive": true
 }

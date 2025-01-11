@@ -1,0 +1,31 @@
+{
+  "name": "Slide",
+  "description": "Slide is a pioneering medical technology company, dedicated to developing affordable, compact and user-friendly defibrillators.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/slide-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": "slidehealth",
+  "linkedinNum": 82148835,
+  "crunchbaseId": null,
+  "ivcId": "A1000000486245",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שירת הים",
+      "houseNumber": 12,
+      "city": "ניצן",
+      "lat": 31.741476,
+      "lon": 34.63377
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

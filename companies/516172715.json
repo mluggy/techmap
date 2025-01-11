@@ -6,21 +6,26 @@
   "logoFile": "logos/alike-logo.webp",
   "websiteUrl": "https://www.alike.health/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "alike-health",
+  "linkedinNum": 42907942,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "alike-health",
   "xId": null,
+  "facebookId": "Alike.Health",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בלוך דוד",
       "houseNumber": 33,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.083343,
       "lon": 34.78447
     }
   ],
   "isMultinational": false,
-  "facebookId": "Alike.Health",
-  "linkedinNum": 42907942
+  "isActive": true
 }

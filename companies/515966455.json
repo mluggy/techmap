@@ -6,11 +6,17 @@
   "logoFile": "logos/ev_kinetics_technologies-logo.webp",
   "websiteUrl": "https://evkinetics.com",
   "careersUrl": "https://www.kinetic.auto/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ev-kinetics-technologies-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנביאים",
@@ -20,5 +26,6 @@
       "lon": 34.7414285
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

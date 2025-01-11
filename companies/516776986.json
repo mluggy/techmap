@@ -1,0 +1,31 @@
+{
+  "name": "NeuroHagana",
+  "description": "NeuroHagana Ltd develops an injectable emergency treatment targeting neurotrauma to prevent irreversible neuronal damage and long-term disabilities.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/neurohagana-logo.webp",
+  "websiteUrl": "https://www.neurohagana.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000492556",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יונה הנביא",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.0724897,
+      "lon": 34.7667046
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,20 +6,26 @@
   "logoFile": "logos/mov-ai.webp",
   "websiteUrl": "https://mov.ai/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 15232836,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mov-ai",
   "xId": "MovAIRobots",
   "facebookId": "MovAIRobotics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074572496319455,
       "lon": 34.79215180793938
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

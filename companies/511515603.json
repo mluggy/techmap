@@ -3,14 +3,20 @@
   "description": "A century-long leader in technological innovation, specializing in AI, automation, and hybrid cloud solutions for businesses.",
   "categoryId": 1,
   "size": "l",
-  "logoFile": "logos/ibm_global_services_israel-logo.webp",
+  "logoFile": "logos/ibm-logo.webp",
   "websiteUrl": "https://www.ibm.com/",
   "careersUrl": "https://www.ibm.com/careers",
-  "isHiring": true,
   "linkedinId": "ibm",
+  "linkedinNum": 1009,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ibm",
   "xId": null,
+  "facebookId": "IBM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שלמה",
@@ -20,6 +26,6 @@
       "lon": 34.9030299
     }
   ],
-  "isMultinational": true,
-  "facebookId": "IBM"
+  "isMultinational": false,
+  "isActive": true
 }

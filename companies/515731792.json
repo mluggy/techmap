@@ -6,21 +6,26 @@
   "logoFile": "logos/epm_group_israel-logo.webp",
   "websiteUrl": "https://epmip.com/",
   "careersUrl": "https://www.epm-inc.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 54275941,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "epm",
   "xId": "EPMIP",
+  "facebookId": "EPMIP",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
   "isMultinational": false,
-  "facebookId": "EPMIP",
-  "linkedinNum": 54275941
+  "isActive": true
 }

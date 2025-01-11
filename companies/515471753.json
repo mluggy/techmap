@@ -6,20 +6,26 @@
   "logoFile": "logos/koglo-logo.webp",
   "websiteUrl": "https://www.kogloltd.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "koglo-ltd",
+  "linkedinNum": 18990982,
   "crunchbaseId": "koglo",
+  "ivcId": null,
   "finderId": "koglo-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
       "houseNumber": 40,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.088905,
       "lon": 34.77712
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18990982
+  "isActive": true
 }

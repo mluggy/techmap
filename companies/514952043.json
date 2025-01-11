@@ -3,21 +3,29 @@
   "description": "A Tel Aviv-based software development company established in 2005, specializing in creating successful online gaming platforms with over 60 proprietary games.",
   "categoryId": 11,
   "size": "m",
-  "logoFile": "logos/gth_software-logo.webp",
+  "logoFile": "logos/gth-software-logo.webp",
   "websiteUrl": "https://gthsoftware.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gth-software",
+  "linkedinNum": 10346262,
   "crunchbaseId": "gth-software",
+  "ivcId": null,
   "finderId": "gth-software",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 52,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0634798,
       "lon": 34.7802841
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

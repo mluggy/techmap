@@ -1,16 +1,22 @@
 {
   "name": "THERAPiN",
-  "description": "Cannabis-based Drug Preparations",
+  "description": "Cannabis-based Drug Preparations.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/therapin-logo.webp",
   "websiteUrl": "https://www.therapin.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "therapin-ltd",
+  "linkedinNum": 72697842,
   "crunchbaseId": "therapin",
+  "ivcId": "A1000000379702",
   "finderId": "hi-pharma",
   "xId": null,
+  "facebookId": "therapin.Israel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העליה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "therapin.Israel",
-  "linkedinNum": 72697842
+  "isActive": true
 }

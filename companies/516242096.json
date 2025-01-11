@@ -6,11 +6,17 @@
   "logoFile": "logos/captains_eye-logo.webp",
   "websiteUrl": "https://captain-eye.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "captain-eye",
+  "linkedinNum": 42701213,
   "crunchbaseId": null,
+  "ivcId": "A1000000327670",
   "finderId": "captain-s-eye1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42701213
+  "isActive": true
 }

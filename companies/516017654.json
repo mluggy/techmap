@@ -6,20 +6,26 @@
   "logoFile": "logos/omnysense-logo.webp",
   "websiteUrl": "https://omnysense.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "omnysense",
+  "linkedinNum": 76080803,
   "crunchbaseId": null,
+  "ivcId": "A1000000293578",
   "finderId": "omnysense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זעירא מרדכי",
+      "street": "מרדכי זעירא",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.12572,
-      "lon": 34.835064
+      "city": "תל אביב-יפו",
+      "lat": 32.1257167,
+      "lon": 34.8350626
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76080803
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/composedoc-logo.webp",
   "websiteUrl": "https://composedoc.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1457387,
   "crunchbaseId": null,
+  "ivcId": "A1000000021986",
   "finderId": "composedoc",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דוכיפת",
-      "houseNumber": 10,
-      "city": "הוד השרון",
-      "lat": 32.1419475,
-      "lon": 34.8898114
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.0841855,
+      "lon": 34.8091283
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1457387
+  "isActive": true
 }

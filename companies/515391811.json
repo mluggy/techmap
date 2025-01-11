@@ -6,21 +6,26 @@
   "logoFile": "logos/bigid-logo.webp",
   "websiteUrl": "https://bigid.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bigid",
+  "linkedinNum": 7594728,
   "crunchbaseId": null,
+  "ivcId": "A1000000200946",
   "finderId": "bigid",
   "xId": "bigidsecure",
+  "facebookId": "bigidsecure",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מקוה ישראל",
+      "street": "מקווה ישראל",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.062818,
-      "lon": 34.776052
+      "city": "תל אביב-יפו",
+      "lat": 32.0628544,
+      "lon": 34.7762439
     }
   ],
   "isMultinational": false,
-  "facebookId": "bigidsecure",
-  "linkedinNum": 7594728
+  "isActive": true
 }

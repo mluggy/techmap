@@ -6,20 +6,26 @@
   "logoFile": "logos/herd_itt-logo.webp",
   "websiteUrl": "https://www.herd-itt.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "herd-itt",
+  "linkedinNum": 72313033,
   "crunchbaseId": null,
+  "ivcId": "A1000000368756",
   "finderId": "cattlewatch",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סמילנסקי",
-      "houseNumber": 15,
+      "street": "יעקב",
+      "houseNumber": 42,
       "city": "רחובות",
-      "lat": 31.8962509,
-      "lon": 34.8077433
+      "lat": 31.89649649999999,
+      "lon": 34.81544480000001
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72313033
+  "isActive": true
 }

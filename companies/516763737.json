@@ -6,11 +6,17 @@
   "logoFile": "logos/efi_gershon-logo.webp",
   "websiteUrl": "https://www.efi.com/",
   "careersUrl": "https://www.efi.com/about-efi/careers/",
-  "isHiring": true,
   "linkedinId": "efiprint",
+  "linkedinNum": 4303,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "efi",
   "xId": "EFIPrint",
+  "facebookId": "EFIPrint",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -20,7 +26,6 @@
       "lon": 34.967654999988504
     }
   ],
-  "isMultinational": true,
-  "facebookId": "EFIPrint",
-  "linkedinNum": 4303
+  "isMultinational": false,
+  "isActive": true
 }

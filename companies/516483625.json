@@ -6,20 +6,26 @@
   "logoFile": "logos/diversion_israel-logo.webp",
   "websiteUrl": "https://www.diversion.dev/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "diversion-company-inc",
+  "linkedinNum": 79021186,
   "crunchbaseId": null,
+  "ivcId": "A1000000414483",
   "finderId": "diversion",
   "xId": "diversion_hq",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מגידו",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.080542,
-      "lon": 34.778275
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0805784,
+      "lon": 34.7780711
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79021186
+  "isActive": true
 }

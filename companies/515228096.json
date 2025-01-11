@@ -6,21 +6,26 @@
   "logoFile": "logos/proyoli_gaming-logo.webp",
   "websiteUrl": "https://www.funatix.club/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "funatix-club",
+  "linkedinNum": 11792098,
   "crunchbaseId": "funatix-club",
+  "ivcId": "A1000000233005",
   "finderId": "proyoli-gaming",
   "xId": "FunatixClub",
+  "facebookId": "funatixclub",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דקל",
       "houseNumber": 6,
       "city": "באר שבע",
-      "lat": 31.2737857,
-      "lon": 34.8549213
+      "lat": 31.239165,
+      "lon": 34.8019749
     }
   ],
   "isMultinational": false,
-  "facebookId": "funatixclub",
-  "linkedinNum": 11792098
+  "isActive": true
 }

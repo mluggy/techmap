@@ -1,0 +1,31 @@
+{
+  "name": "Ibook Israel",
+  "description": "Etouri Ticketing Ltd provides online business solutions for the travel and tourism market. They run the portal www.ibookisrael.com.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/ibook_israel-logo.webp",
+  "websiteUrl": "http://www.ibookisrael.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000208312",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מחנה יוסף",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.0639727,
+      "lon": 34.7665513
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

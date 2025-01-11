@@ -1,25 +1,31 @@
 {
   "name": "FUGU",
-  "description": "Post-purchase Payment Tracking",
+  "description": "Post-purchase Payment Tracking.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/fugu_japan-logo.webp",
   "websiteUrl": "https://fugu-it.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fugurisk",
+  "linkedinNum": 53142630,
   "crunchbaseId": null,
+  "ivcId": "A1000000315787",
   "finderId": "fugu",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עצמון",
-      "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.065339,
-      "lon": 34.767599
+      "street": "אחד העם",
+      "houseNumber": 99,
+      "city": "תל אביב-יפו",
+      "lat": 32.071805,
+      "lon": 34.7781557
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 53142630
+  "isActive": true
 }

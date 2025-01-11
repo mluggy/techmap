@@ -3,14 +3,20 @@
   "description": "Automatic Meter Reading for Electrical Systems",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/unique_technology_1993_ltd-logo.webp",
+  "logoFile": "logos/unique-technology-logo.webp",
   "websiteUrl": "https://www.uniquesmartmeters.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "u-techsupports",
+  "linkedinNum": 82137457,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "unique-technology",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היוזמים",
@@ -20,5 +26,6 @@
       "lon": 34.8638754
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

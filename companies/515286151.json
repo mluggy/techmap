@@ -6,20 +6,26 @@
   "logoFile": "logos/facense-logo.webp",
   "websiteUrl": "https://www.facense.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "facense",
+  "linkedinNum": 28630277,
   "crunchbaseId": "facense",
+  "ivcId": "A1000000265212",
   "finderId": "facense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רות",
-      "houseNumber": 43,
-      "city": "חיפה",
-      "lat": 32.795366099999995,
-      "lon": 34.97516594999999
+      "street": null,
+      "houseNumber": null,
+      "city": "קרית טבעון",
+      "lat": 32.715288,
+      "lon": 35.124644
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28630277
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Readerx Therapeutics",
-  "description": "Cancer treatments utilizing RNA technology.",
+  "description": "ReadeRx is developing small molecule inhibitors, targeting the RNA binding protein IGF2BP1 as a novel treatment for cancer.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/readerx_therapeutics-logo.webp",
-  "websiteUrl": "https://www.integra-holdings.com/portfolio/readerx-therapeutics/",
+  "websiteUrl": "http://readerx-tx.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000458824",
   "finderId": "readerx-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -19,5 +25,7 @@
       "lat": 31.9177299,
       "lon": 34.80439671200948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

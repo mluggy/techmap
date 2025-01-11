@@ -6,20 +6,26 @@
   "logoFile": "logos/bomvento-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bom-vento",
+  "linkedinNum": 93239034,
   "crunchbaseId": null,
+  "ivcId": "A1000000432299",
   "finderId": "bomvento",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פלי\"ם",
-      "houseNumber": 2,
-      "city": "חיפה",
-      "lat": 32.8167554,
-      "lon": 35.0000812
+      "street": "לילינבלום",
+      "houseNumber": 14,
+      "city": "תל אביב-יפו",
+      "lat": 32.0619556,
+      "lon": 34.7686573
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 93239034
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "IO River",
-  "description": "Unified Security and Traffic Control Services",
+  "description": "Unified Security and Traffic Control Services.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/io-river.webp",
   "websiteUrl": "https://www.ioriver.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "io-river",
   "linkedinNum": 87452355,
   "crunchbaseId": null,
+  "ivcId": "A1000000413333",
   "finderId": "io-river",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד בגין",
-      "houseNumber": 1,
-      "city": "יהוד-מונוסון",
-      "lat": 32.03074655812423,
-      "lon": 34.880470008661405
+      "street": "דרך מנחם בגין",
+      "houseNumber": 132,
+      "city": "תל אביב-יפו",
+      "lat": 32.074573,
+      "lon": 34.7918101
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

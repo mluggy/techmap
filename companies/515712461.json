@@ -1,0 +1,31 @@
+{
+  "name": "Mixed.Place",
+  "description": "Mixed Place is developing an infrastructure to cover real streets with mixed reality layers.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/mixed-place-logo.webp",
+  "websiteUrl": "https://www.mixed.place",
+  "careersUrl": null,
+  "linkedinId": "mixed-place-mr-ar-vr",
+  "linkedinNum": 18369219,
+  "crunchbaseId": null,
+  "ivcId": "A1000000252236",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 2,
+      "city": "רעננה",
+      "lat": 32.19732080000001,
+      "lon": 34.8784694
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

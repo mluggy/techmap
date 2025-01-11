@@ -3,14 +3,20 @@
   "description": "We are an Israeli foodtech company, on a mission to make natural beverages healthier and more accessible – for everyone.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/lamu_tech-logo.webp",
+  "logoFile": "logos/lamu-logo.webp",
   "websiteUrl": "https://www.drinklamu.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lamufoodtech",
+  "linkedinNum": 79996897,
   "crunchbaseId": null,
+  "ivcId": "A1000000331628",
   "finderId": "lamu",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרושת",
@@ -20,5 +26,6 @@
       "lon": 35.0390043
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "SeatGeek",
   "description": "A comprehensive event ticket search engine that helps users find and compare the best deals on tickets from various sites.",
-  "size": "l",
   "categoryId": 9,
+  "size": "l",
   "logoFile": "logos/seatgeek_israel-logo.webp",
   "websiteUrl": "https://enterprise.seatgeek.com",
   "careersUrl": "https://seatgeek.com/jobs",
-  "isHiring": true,
   "linkedinId": "seatgeek",
+  "linkedinNum": 431105,
   "crunchbaseId": "seatgeek",
+  "ivcId": null,
   "finderId": "seatgeek",
   "xId": "seatgeek",
+  "facebookId": "SeatGeek",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "seatgeek",
+  "leverId": null,
   "addresses": [
     {
       "street": "הדולב",
@@ -20,8 +26,6 @@
       "lon": 35.18817842372995
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SeatGeek",
-  "linkedinNum": 431105,
-  "greenhouseId": "seatgeek"
+  "isMultinational": false,
+  "isActive": true
 }

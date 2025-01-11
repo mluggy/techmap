@@ -1,16 +1,22 @@
 {
   "name": "SolOr",
-  "description": "Solar Paint that Converts Sunlight into Electricity",
+  "description": "Solar Paint that Converts Sunlight into Electricity.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/solor_gs-logo.webp",
   "websiteUrl": "https://www.solor.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "solorpv",
+  "linkedinNum": 79579765,
   "crunchbaseId": null,
+  "ivcId": "A1000000377830",
   "finderId": "solor",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרב קוק",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79579765
+  "isActive": true
 }

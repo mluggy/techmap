@@ -1,23 +1,31 @@
 {
   "name": "Tengable",
-  "description": "Human-technology interface designed to restore the sense of touch.",
-  "categoryId": 4,
+  "description": "TengAble vision is to restore tactile sensation to those who have lost it as a result of injury or illness by developing a medical device that is simple, safe and maintenance-free.",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/tengable-logo.webp",
-  "websiteUrl": "https://tangible.store/",
+  "websiteUrl": "https://teng-able.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tengable-sensing-touch-again",
+  "linkedinNum": 96048033,
   "crunchbaseId": null,
+  "ivcId": "A1000000449577",
   "finderId": "tengable",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברנע",
-      "houseNumber": 4,
+      "street": null,
+      "houseNumber": null,
       "city": "קצרין",
-      "lat": 32.9920262,
-      "lon": 35.6877004
+      "lat": 32.9876448,
+      "lon": 35.7095442
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

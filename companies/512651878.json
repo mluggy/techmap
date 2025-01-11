@@ -1,0 +1,31 @@
+{
+  "name": "InTime",
+  "description": "InTime develops and provides AI (Artificial Intelligence) solutions with real time decision support capabilities.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/intime-logo.webp",
+  "websiteUrl": "https://www.intime.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001897",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עומרים",
+      "houseNumber": 8,
+      "city": "עומר",
+      "lat": 31.2723374,
+      "lon": 34.8357073
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

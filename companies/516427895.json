@@ -6,20 +6,26 @@
   "logoFile": "logos/protai_bio-logo.webp",
   "websiteUrl": "https://www.protai.bio/",
   "careersUrl": "https://www.protai.bio/careers",
-  "isHiring": true,
   "linkedinId": "protai-bio",
+  "linkedinNum": 74514047,
   "crunchbaseId": "protai",
+  "ivcId": "A1000000366788",
   "finderId": "protai",
   "xId": "ProtaiBio",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שוהם",
-      "houseNumber": 5,
-      "city": "רמת גן",
-      "lat": 32.0845733,
-      "lon": 34.8009733
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74514047
+  "isActive": true
 }

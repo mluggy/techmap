@@ -6,21 +6,26 @@
   "logoFile": "logos/steakholder_foods-logo.webp",
   "websiteUrl": "https://www.steakholderfoods.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "steakholderfoods",
+  "linkedinNum": 28824633,
   "crunchbaseId": null,
+  "ivcId": "A1000000259905",
   "finderId": "steakholder-foods",
   "xId": "stkhfoods",
+  "facebookId": "SteakholderFoods",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פייקס דוד",
+      "street": "דוד פייקס",
       "houseNumber": 5,
       "city": "רחובות",
-      "lat": 31.9159391,
-      "lon": 34.8103557
+      "lat": 31.9141345,
+      "lon": 34.8089621
     }
   ],
   "isMultinational": false,
-  "facebookId": "SteakholderFoods",
-  "linkedinNum": 28824633
+  "isActive": true
 }

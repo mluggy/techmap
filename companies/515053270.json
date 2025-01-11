@@ -6,21 +6,26 @@
   "logoFile": "logos/motionize_israel-logo.webp",
   "websiteUrl": "https://www.playermaker.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "playermaker",
+  "linkedinNum": 12621685,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "motionize",
   "xId": "playermakertech",
+  "facebookId": "Playermaker-101432772170839",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד' יהודית",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069976,
       "lon": 34.792175
     }
   ],
   "isMultinational": false,
-  "facebookId": "Playermaker-101432772170839",
-  "linkedinNum": 12621685
+  "isActive": true
 }

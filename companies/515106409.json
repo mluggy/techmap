@@ -6,21 +6,26 @@
   "logoFile": "logos/carbyne-logo.webp",
   "websiteUrl": "https://www.carbyne911.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "carbyne",
+  "linkedinNum": 5337585,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "reporty",
   "xId": "carbyne911",
+  "facebookId": "Carbyneglobal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0687595,
       "lon": 34.7939327
     }
   ],
   "isMultinational": false,
-  "facebookId": "Carbyneglobal",
-  "linkedinNum": 5337585
+  "isActive": true
 }

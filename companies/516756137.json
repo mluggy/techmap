@@ -6,11 +6,17 @@
   "logoFile": "logos/gainguard-logo.webp",
   "websiteUrl": "https://www.gainguard.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gainguard",
+  "linkedinNum": 79943416,
   "crunchbaseId": null,
+  "ivcId": "A1000000369504",
   "finderId": "gainguard",
   "xId": null,
+  "facebookId": "GainGuard.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יוספזון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GainGuard.io",
-  "linkedinNum": 79943416
+  "isActive": true
 }

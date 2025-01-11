@@ -6,11 +6,17 @@
   "logoFile": "logos/sequans_communications_israel_2009-logo.webp",
   "websiteUrl": "https://sequans.com/",
   "careersUrl": "https://sequans.com/company/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 28625,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sequans-communications4",
   "xId": "Sequans",
+  "facebookId": "Sequans",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אהליאב",
@@ -20,7 +26,6 @@
       "lon": 34.80221080531113
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Sequans",
-  "linkedinNum": 28625
+  "isMultinational": false,
+  "isActive": true
 }

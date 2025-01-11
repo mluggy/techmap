@@ -6,18 +6,26 @@
   "logoFile": "logos/doti_ai-logo.webp",
   "websiteUrl": "https://www.doti.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000464747",
   "finderId": "doti-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקשת",
       "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.043504,
-      "lon": 34.776204
+      "city": "תל אביב-יפו",
+      "lat": 32.0436092,
+      "lon": 34.7761361
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

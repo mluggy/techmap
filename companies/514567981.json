@@ -6,21 +6,26 @@
   "logoFile": "logos/uvision_air-logo.webp",
   "websiteUrl": "https://uvisionuav.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "uvisionuav",
+  "linkedinNum": 10473452,
   "crunchbaseId": null,
+  "ivcId": "A1000000023308",
   "finderId": "uvision-air",
   "xId": null,
+  "facebookId": "100063475057616",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בזלת צור יגאל",
+      "street": "בזלת",
       "houseNumber": 4,
-      "city": "צור יגאל",
-      "lat": 32.2179505,
-      "lon": 34.9827171
+      "city": "כוכב יאיר צור יגאל",
+      "lat": 32.217198,
+      "lon": 34.9841208
     }
   ],
   "isMultinational": false,
-  "facebookId": "100063475057616",
-  "linkedinNum": 10473452
+  "isActive": true
 }

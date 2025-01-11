@@ -6,11 +6,17 @@
   "logoFile": "logos/dealhub-logo.webp",
   "websiteUrl": "https://dealhub.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dealhubio",
+  "linkedinNum": 5013510,
   "crunchbaseId": null,
+  "ivcId": "A1000000024934",
   "finderId": "valooto",
   "xId": "DealHubIO",
+  "facebookId": "DealHub.io",
+  "breezyId": null,
+  "comeetId": "dealhub/86.005",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרוקמים",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "DealHub.io",
-  "linkedinNum": 5013510,
-  "comeetId": "dealhub/86.005"
+  "isActive": true
 }

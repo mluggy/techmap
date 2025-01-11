@@ -3,14 +3,20 @@
   "description": "Membrane Filters for Purifying Wastewater.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/advanced_mem_tech-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/advanced-mem-tech-logo.webp",
+  "websiteUrl": "http://www.advanced-mem-tech.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "advanced-mem-tech-ltd-",
+  "linkedinNum": 3268645,
   "crunchbaseId": "advanced-mem-tech",
+  "ivcId": "A1000000010757",
   "finderId": "advanced-mem-tech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המזמרה",
@@ -19,5 +25,7 @@
       "lat": 31.9207412,
       "lon": 34.7942983
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

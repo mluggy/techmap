@@ -1,0 +1,31 @@
+{
+  "name": "Gravy",
+  "description": "Gravy is the new generation of digital QR menus for restaurants.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/gravy-logo.webp",
+  "websiteUrl": "https://www.ertinex.co.il",
+  "careersUrl": null,
+  "linkedinId": "ertinex",
+  "linkedinNum": 88459252,
+  "crunchbaseId": null,
+  "ivcId": "A1000000484941",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות ירושלים",
+      "houseNumber": null,
+      "city": "אשדוד",
+      "lat": 31.790764,
+      "lon": 34.652235
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

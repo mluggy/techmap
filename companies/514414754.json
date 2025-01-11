@@ -6,11 +6,17 @@
   "logoFile": "logos/perflow_medical-logo.webp",
   "websiteUrl": "https://perflow.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "perflow-medical",
+  "linkedinNum": 18872166,
   "crunchbaseId": null,
+  "ivcId": "A1000000010305",
   "finderId": "perflow-medical",
   "xId": "PerflowM",
+  "facebookId": "perflowmedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצורן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "perflowmedical",
-  "linkedinNum": 18872166
+  "isActive": true
 }

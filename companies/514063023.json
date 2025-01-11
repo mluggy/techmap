@@ -1,26 +1,31 @@
 {
   "name": "GABRIEL",
-  "description": "Emergency Response and Management",
+  "description": "Emergency Response and Management.",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/gabriel_57-logo.webp",
   "websiteUrl": "https://www.gabrielprotects.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gabrielnetwork",
+  "linkedinNum": 27103270,
   "crunchbaseId": null,
+  "ivcId": "A1000000234243",
   "finderId": "gabriel",
   "xId": null,
+  "facebookId": "GABRIEL.Network.Safety",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
-      "houseNumber": 21,
-      "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "street": "השדרה המרכזית",
+      "houseNumber": 15,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.9239251,
+      "lon": 34.9662611
     }
   ],
   "isMultinational": false,
-  "facebookId": "GABRIEL.Network.Safety",
-  "linkedinNum": 27103270
+  "isActive": true
 }

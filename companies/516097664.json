@@ -6,21 +6,26 @@
   "logoFile": "logos/centrefy-logo.webp",
   "websiteUrl": "https://centrefy.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "centrefy",
+  "linkedinNum": 67346873,
   "crunchbaseId": null,
+  "ivcId": "A1000000329053",
   "finderId": "centrefy",
   "xId": null,
+  "facebookId": "Centrefy-107973414179690",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המאבק",
-      "houseNumber": 16,
+      "street": null,
+      "houseNumber": null,
       "city": "גבעתיים",
-      "lat": 32.06503671991209,
-      "lon": 34.80886593486964
+      "lat": 32.075318,
+      "lon": 34.8086113
     }
   ],
   "isMultinational": false,
-  "facebookId": "Centrefy-107973414179690",
-  "linkedinNum": 67346873
+  "isActive": true
 }

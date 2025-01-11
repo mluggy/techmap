@@ -6,21 +6,26 @@
   "logoFile": "logos/nuvei_consulting_services_israel-logo.webp",
   "websiteUrl": "https://nuvei.com/",
   "careersUrl": "https://nuvei.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "nuvei",
+  "linkedinNum": 18869693,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nuvei",
   "xId": "NuveiTech",
+  "facebookId": "NuveiTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
-  "isMultinational": true,
-  "facebookId": "NuveiTech",
-  "linkedinNum": 18869693
+  "isMultinational": false,
+  "isActive": true
 }

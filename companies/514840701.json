@@ -6,22 +6,26 @@
   "logoFile": "logos/konnecto_top_tech-logo.webp",
   "websiteUrl": "https://www.konnecto.com/",
   "careersUrl": "https://www.konnecto.com/careers",
-  "isHiring": true,
   "linkedinId": "konnectoconsumerintelligence",
+  "linkedinNum": 10481143,
   "crunchbaseId": "konnecto",
+  "ivcId": "A1000000222976",
   "finderId": "konnecto",
   "xId": "konnecto_",
+  "facebookId": "konnecto.io",
+  "breezyId": null,
+  "comeetId": "konnecto/36.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פריש דניאל",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07463945,
-      "lon": 34.78327163578098
+      "street": "החשמונאים",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.0694588,
+      "lon": 34.7865947
     }
   ],
   "isMultinational": false,
-  "facebookId": "konnecto.io",
-  "linkedinNum": 10481143,
-  "comeetId": "konnecto/36.00C"
+  "isActive": true
 }

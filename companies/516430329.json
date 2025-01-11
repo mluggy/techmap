@@ -6,11 +6,17 @@
   "logoFile": "logos/n_i_p_up-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "n-i-p-up",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לרר משה",
@@ -19,5 +25,7 @@
       "lat": 31.9297693,
       "lon": 34.7853497
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

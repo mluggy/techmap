@@ -6,11 +6,17 @@
   "logoFile": "logos/spiral_frame-logo.webp",
   "websiteUrl": "https://spiral.dev/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "spiral-frame",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ראובן",
@@ -19,5 +25,7 @@
       "lat": 31.758949,
       "lon": 35.2198996
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

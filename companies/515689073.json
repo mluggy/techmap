@@ -1,16 +1,22 @@
 {
   "name": "SPHEREO",
-  "description": "Sound Customization Technology for Mobile Devices",
-  "categoryId": 8,
-  "size": "xs",
+  "description": "Sphereo develops Mixit, a sound studio for mobile devices.",
+  "categoryId": 18,
+  "size": "s",
   "logoFile": "logos/sphereo_sound-logo.webp",
-  "websiteUrl": "https://www.sphereo.co",
+  "websiteUrl": "https://www.mixit-sound.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sphereo",
+  "linkedinNum": 18729300,
   "crunchbaseId": "sphereo",
+  "ivcId": "A1000000275942",
   "finderId": "intuitive-audio-labs1",
   "xId": null,
+  "facebookId": "mixitsound",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בצלאל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "mixitsound",
-  "linkedinNum": 18729300
+  "isActive": true
 }

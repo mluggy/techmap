@@ -6,18 +6,26 @@
   "logoFile": "logos/yuki_shemesh-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "yuki",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בארי",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.083008,
       "lon": 34.788615
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

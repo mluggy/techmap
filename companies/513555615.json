@@ -1,25 +1,31 @@
 {
   "name": "Paragon",
-  "description": "Providing data management, safety, and recovery solutions for individuals, businesses, IT professionals, and OEMs.",
+  "description": "Paragon Solutions is a smartphone surveillance company intended to offer digital intelligence for smartphone and internet surveillance.",
   "categoryId": 7,
   "size": "l",
   "logoFile": "logos/paragon_creations-logo.webp",
-  "websiteUrl": "https://www.paragon-software.com/",
+  "websiteUrl": "https://www.paragonsolutions.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "paragon-cyber",
+  "linkedinNum": 37572495,
   "crunchbaseId": null,
+  "ivcId": "A1000000331492",
   "finderId": "paragon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דן",
-      "houseNumber": 10,
-      "city": "אבן יהודה",
-      "lat": 31.5197605,
-      "lon": 34.5941625
+      "street": "יהודה הלוי",
+      "houseNumber": 23,
+      "city": "תל אביב-יפו",
+      "lat": 32.0617135,
+      "lon": 34.7707378
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37572495
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/spartonix-logo.webp",
   "websiteUrl": "https://www.smartonix.cz/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "spartonix",
+  "linkedinNum": 10280926,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "spartonix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבוא החורש",
@@ -19,5 +25,7 @@
       "lat": 31.823973973997237,
       "lon": 35.12574225247453
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

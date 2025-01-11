@@ -6,21 +6,26 @@
   "logoFile": "logos/abilisense-logo.webp",
   "websiteUrl": "https://www.abilisense.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "abilisense",
+  "linkedinNum": 15206309,
   "crunchbaseId": "abilisense",
+  "ivcId": "A1000000203931",
   "finderId": "abilisense",
   "xId": "AbiliSense",
+  "facebookId": "AbiliSense",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלי כהן",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
-      "lat": 32.121988,
-      "lon": 34.7921
+      "city": "תל אביב-יפו",
+      "lat": 32.1217914,
+      "lon": 34.7923198
     }
   ],
   "isMultinational": false,
-  "facebookId": "AbiliSense",
-  "linkedinNum": 15206309
+  "isActive": true
 }

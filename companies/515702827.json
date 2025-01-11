@@ -6,11 +6,17 @@
   "logoFile": "logos/next_silicon-logo.webp",
   "websiteUrl": "https://www.nextsilicon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nextsilicon",
+  "linkedinNum": 23745478,
   "crunchbaseId": "next-silicon",
+  "ivcId": "A1000000249027",
   "finderId": "nextsilicon",
   "xId": "NextSilicon",
+  "facebookId": "nextsilicon",
+  "breezyId": null,
+  "comeetId": "nextsilicon/18.007",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך יצחק רבין",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "nextsilicon",
-  "linkedinNum": 23745478,
-  "comeetId": "nextsilicon/18.007"
+  "isActive": true
 }

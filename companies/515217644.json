@@ -6,21 +6,26 @@
   "logoFile": "logos/gap_600-logo.webp",
   "websiteUrl": "https://www.gap600.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gap600",
+  "linkedinNum": 10523872,
   "crunchbaseId": null,
+  "ivcId": "A1000000234956",
   "finderId": "gap600",
   "xId": "bgap600",
+  "facebookId": "Gap600-101627861229673",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכרכום",
-      "houseNumber": 20,
-      "city": "כוכב יאיר",
-      "lat": 32.2256791,
-      "lon": 35.0042018
+      "street": "התעשייה",
+      "houseNumber": 21,
+      "city": "תל אביב-יפו",
+      "lat": 32.067264,
+      "lon": 34.7867334
     }
   ],
   "isMultinational": false,
-  "facebookId": "Gap600-101627861229673",
-  "linkedinNum": 10523872
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/beach_bum-logo.webp",
   "websiteUrl": "https://www.bbumgames.com/",
   "careersUrl": "https://www.bbumgames.com/careers/",
-  "isHiring": true,
   "linkedinId": "beach-bum-ltd",
+  "linkedinNum": 10455226,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "beach-bum",
   "xId": "BeachBumLOB",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התדהר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10455226
+  "isActive": true
 }

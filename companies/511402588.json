@@ -1,17 +1,22 @@
 {
   "name": "Galcon",
-  "description": "Control Systems for Water Infrastructures",
+  "description": "Galcon is a world leader in the production of computerized irrigation systems and controllers, as well as control systems for use in home gardens, professional and municipal gardening and agriculture.",
   "categoryId": 17,
   "size": "m",
   "logoFile": "logos/galcon.webp",
-  "websiteUrl": "https://www.galcon.co.il/",
+  "websiteUrl": "https://www.galconc.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "galcon-ltd.-whitewater-group-",
   "linkedinNum": 1200869,
   "crunchbaseId": null,
+  "ivcId": "A1000000009497",
   "finderId": "galcon",
   "xId": null,
   "facebookId": "Galcon-Computerized-Control-Systems-233034380109441",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המייסדים",
@@ -21,5 +26,6 @@
       "lon": 34.80029868499431
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

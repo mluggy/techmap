@@ -6,21 +6,26 @@
   "logoFile": "logos/scytale_ai-logo.webp",
   "websiteUrl": "https://scytale.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "scytale-ai",
+  "linkedinNum": 77334688,
   "crunchbaseId": null,
+  "ivcId": "A1000000376475",
   "finderId": "scytale-ai",
   "xId": "scytaleai",
+  "facebookId": "Scytale-AI-105510865051797",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.072032,
-      "lon": 34.788987
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.07939100000001,
+      "lon": 34.793797
     }
   ],
   "isMultinational": false,
-  "facebookId": "Scytale-AI-105510865051797",
-  "linkedinNum": 77334688
+  "isActive": true
 }

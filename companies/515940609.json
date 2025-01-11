@@ -1,16 +1,22 @@
 {
   "name": "Veego Software",
-  "description": "Connected Home Experience Solutions",
+  "description": "Connected Home Experience Solutions.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/veego_software-logo.webp",
   "websiteUrl": "https://www.veego.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "veego",
+  "linkedinNum": 13028336,
   "crunchbaseId": "veego",
+  "ivcId": "A1000000276751",
   "finderId": "veego-software",
   "xId": "veegosmarthome",
+  "facebookId": "VeegoTeam",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "VeegoTeam",
-  "linkedinNum": 13028336
+  "isActive": true
 }

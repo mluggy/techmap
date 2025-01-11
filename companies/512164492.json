@@ -1,0 +1,31 @@
+{
+  "name": "My Medi",
+  "description": "My Medi is the first app for guided meditations in Hebrew that will help the users deal with anxieties and tensions, help them sleep better and be focused on their goals.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/my_medi-logo.webp",
+  "websiteUrl": "https://mymedi.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000458979",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "זרובבל",
+      "houseNumber": 24,
+      "city": "רמת השרון",
+      "lat": 32.1418535,
+      "lon": 34.8350431
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

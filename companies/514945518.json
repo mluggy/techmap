@@ -1,0 +1,31 @@
+{
+  "name": "BetterReach",
+  "description": "Better Reach's technology provides cost effective advertising solutions for large multinational brands and advertising agencies.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/betterreach-logo.webp",
+  "websiteUrl": "http://www.btreach.com",
+  "careersUrl": "http://btreach.com/careers/",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000233571",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פרופסור רקח",
+      "houseNumber": 2,
+      "city": "ירושלים",
+      "lat": 31.7672362,
+      "lon": 35.1990837
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

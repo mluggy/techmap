@@ -1,16 +1,22 @@
 {
   "name": "Capitan",
-  "description": "Enterprise Management Solutions",
+  "description": "Enterprise Management Solutions.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/capitan-logo.webp",
   "websiteUrl": "https://capitan.solutions/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "capit%C3%A1n",
+  "linkedinNum": 4861965,
   "crunchbaseId": null,
+  "ivcId": "A1000000188807",
   "finderId": "capit-n",
   "xId": "CapitanSystems",
+  "facebookId": "Capitan.Systems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההגנה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Capitan.Systems",
-  "linkedinNum": 4861965
+  "isActive": true
 }

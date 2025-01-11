@@ -1,26 +1,31 @@
 {
   "name": "Voiceable",
-  "description": "Real-time Customer Assistance for Online Businesses",
+  "description": "Real-time Customer Assistance for Online Businesses.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/voiceable-logo.webp",
   "websiteUrl": "https://www.voiceable.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "voiceable",
+  "linkedinNum": 18381681,
   "crunchbaseId": null,
+  "ivcId": "A1000000277243",
   "finderId": "voiceable",
   "xId": "Voiceable1",
+  "facebookId": "Voiceable-283025162317591",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רות",
-      "houseNumber": 1,
-      "city": "חיפה",
-      "lat": 32.4557181,
-      "lon": 35.0622832
+      "houseNumber": 11,
+      "city": "תל אביב-יפו",
+      "lat": 32.0795632,
+      "lon": 34.7760551
     }
   ],
   "isMultinational": false,
-  "facebookId": "Voiceable-283025162317591",
-  "linkedinNum": 18381681
+  "isActive": true
 }

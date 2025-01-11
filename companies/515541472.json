@@ -6,21 +6,26 @@
   "logoFile": "logos/medorion_technologies-logo.webp",
   "websiteUrl": "https://medorion.com/",
   "careersUrl": "https://medorion.com/careers/",
-  "isHiring": true,
   "linkedinId": "medorion",
+  "linkedinNum": 10372142,
   "crunchbaseId": "medorion",
+  "ivcId": "A1000000224536",
   "finderId": "medorion",
   "xId": "Medorion1",
+  "facebookId": "Medorion2017",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יד חרוצים",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617073,
-      "lon": 34.7831325
+      "city": "תל אביב-יפו",
+      "lat": 32.0615048,
+      "lon": 34.7833141
     }
   ],
   "isMultinational": false,
-  "facebookId": "Medorion2017",
-  "linkedinNum": 10372142
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/lumigo-logo.webp",
   "websiteUrl": "https://lumigo.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lumigo",
+  "linkedinNum": 11839899,
   "crunchbaseId": null,
+  "ivcId": "A1000000260181",
   "finderId": "lumigo",
   "xId": "lumigo",
+  "facebookId": "lumigo.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שפינוזה",
-      "houseNumber": 41,
-      "city": "תל אביב - יפו",
-      "lat": 32.083002,
-      "lon": 34.776628
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "lumigo.io",
-  "linkedinNum": 11839899
+  "isActive": true
 }

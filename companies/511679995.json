@@ -1,16 +1,22 @@
 {
   "name": "ST Microelectronics",
   "description": "A thriving online community offering solutions, discussions, and courses to enhance your design skills.",
-  "size": "s",
   "categoryId": 16,
+  "size": "s",
   "logoFile": "logos/st_microelectronics-logo.webp",
   "websiteUrl": "https://www.st.com",
   "careersUrl": "https://www.st.com/content/st_com/en/about/careers.html",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "stmicroelectronics",
+  "linkedinNum": 1618,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "st-microelectronics",
   "xId": "ST_World?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+  "facebookId": "STMicroelectronics.NV",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גיבורי ישראל",
@@ -20,7 +26,6 @@
       "lon": 34.8610014
     }
   ],
-  "isMultinational": true,
-  "facebookId": "STMicroelectronics.NV",
-  "linkedinNum": 1618
+  "isMultinational": false,
+  "isActive": true
 }

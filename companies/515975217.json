@@ -6,21 +6,26 @@
   "logoFile": "logos/hi_auto-logo.webp",
   "websiteUrl": "https://hi.auto/",
   "careersUrl": "https://hi.auto/careers/",
-  "isHiring": true,
   "linkedinId": "hi-auto",
+  "linkedinNum": 35515454,
   "crunchbaseId": null,
+  "ivcId": "A1000000281140",
   "finderId": "hi-auto",
   "xId": null,
+  "facebookId": "Hi-Auto-116578069738359",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכפר",
-      "houseNumber": 6,
-      "city": "קריית אונו",
-      "lat": 32.0545578,
-      "lon": 34.8532831
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727773,
+      "lon": 34.79492
     }
   ],
   "isMultinational": false,
-  "facebookId": "Hi-Auto-116578069738359",
-  "linkedinNum": 35515454
+  "isActive": true
 }

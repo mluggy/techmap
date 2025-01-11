@@ -1,16 +1,22 @@
 {
   "name": "BioGenCell",
-  "description": "Stem Cell Therapy Platform for Degenerative Diseases",
+  "description": "Stem Cell Therapy Platform for Degenerative Diseases.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/biogencell-logo.webp",
   "websiteUrl": "https://biogencell.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "biogencell-ltd",
+  "linkedinNum": 69232576,
   "crunchbaseId": null,
+  "ivcId": "A1000000001589",
   "finderId": "biogencell",
   "xId": null,
+  "facebookId": "www.BioGenCell.net",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דברי חיים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "www.BioGenCell.net",
-  "linkedinNum": 69232576
+  "isActive": true
 }

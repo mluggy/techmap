@@ -6,21 +6,26 @@
   "logoFile": "logos/rst_cleantech-logo.webp",
   "websiteUrl": "https://www.rst-cleantech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rst-cleantech",
+  "linkedinNum": 5258526,
   "crunchbaseId": null,
+  "ivcId": "A1000000357236",
   "finderId": "rst-cleantech",
   "xId": "RSTCleanTech",
+  "facebookId": "RSTCleanTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שטריקר",
-      "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.091558,
-      "lon": 34.788068
+      "street": "ועידת קטוביץ",
+      "houseNumber": 38,
+      "city": "תל אביב-יפו",
+      "lat": 32.0946061,
+      "lon": 34.7924471
     }
   ],
   "isMultinational": false,
-  "facebookId": "RSTCleanTech",
-  "linkedinNum": 5258526
+  "isActive": true
 }

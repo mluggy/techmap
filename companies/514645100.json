@@ -1,0 +1,31 @@
+{
+  "name": "SophistiCart",
+  "description": "SophistiCart's current medical carts are the Anti-Bacterial NG17 products line for nurses.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/sophisticart-logo.webp",
+  "websiteUrl": "http://www.sophisti-cart.com",
+  "careersUrl": null,
+  "linkedinId": "adi-medical-equipment",
+  "linkedinNum": 18210352,
+  "crunchbaseId": null,
+  "ivcId": "A1000000312117",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלכסנדר ינאי",
+      "houseNumber": 29,
+      "city": "פתח תקווה",
+      "lat": 32.1075455,
+      "lon": 34.8984951
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

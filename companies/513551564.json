@@ -1,26 +1,31 @@
 {
   "name": "Exom",
-  "description": "Protective Habitats for Lunar and Martian Environments",
+  "description": "Protective Habitats for Lunar and Martian Environments.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/exom-logo.webp",
   "websiteUrl": "https://exom.space/",
   "careersUrl": "https://corporate.exxonmobil.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "pcmspace",
+  "linkedinNum": 77664120,
   "crunchbaseId": null,
+  "ivcId": "A1000000377002",
   "finderId": "exom",
   "xId": null,
+  "facebookId": "PCM-Space-104835315412622",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויסוצקי",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.088014,
-      "lon": 34.794807
+      "street": "נירים",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0626972,
+      "lon": 34.7905643
     }
   ],
   "isMultinational": false,
-  "facebookId": "PCM-Space-104835315412622",
-  "linkedinNum": 77664120
+  "isActive": true
 }

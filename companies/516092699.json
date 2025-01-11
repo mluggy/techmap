@@ -1,26 +1,31 @@
 {
   "name": "Plannie",
-  "description": "Streamlining appointment scheduling to save clients significant time and effort.",
-  "categoryId": 14,
+  "description": "Plannie is a mobile first platform, designed for single operators and small businesses.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/plannie-logo.webp",
-  "websiteUrl": "https://www.plannie.co.il/",
+  "websiteUrl": "https://www.plannieapp.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "plannie",
+  "linkedinNum": 29345502,
   "crunchbaseId": null,
+  "ivcId": "A1000000303256",
   "finderId": "plannie",
   "xId": null,
+  "facebookId": "plannie.chenyo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עזר וייצמן",
-      "houseNumber": 2,
-      "city": "הוד השרון",
-      "lat": 32.1652468,
-      "lon": 34.9032801
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "facebookId": "plannie.chenyo",
-  "linkedinNum": 29345502
+  "isActive": true
 }

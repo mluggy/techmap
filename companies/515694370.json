@@ -6,21 +6,26 @@
   "logoFile": "logos/deel_e_o_r_israel-logo.webp",
   "websiteUrl": "https://www.letsdeel.com/",
   "careersUrl": "https://www.deel.com/careers",
-  "isHiring": true,
   "linkedinId": "deel",
+  "linkedinNum": 18922914,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "deel",
   "xId": "deel",
+  "facebookId": "GetDeel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0702921,
       "lon": 34.7853047
     }
   ],
   "isMultinational": false,
-  "facebookId": "GetDeel",
-  "linkedinNum": 18922914
+  "isActive": true
 }

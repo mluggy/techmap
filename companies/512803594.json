@@ -6,11 +6,17 @@
   "logoFile": "logos/gigaspaces_technologies-logo.webp",
   "websiteUrl": "https://www.gigaspaces.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gigaspaces",
+  "linkedinNum": 25628,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gigaspaces-technologies",
   "xId": "GigaSpaces",
+  "facebookId": "GigaSpaces",
+  "breezyId": null,
+  "comeetId": "gigaspaces/C5.00E",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנאות",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GigaSpaces",
-  "linkedinNum": 25628,
-  "comeetId": "gigaspaces/C5.00E"
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/cymbio_digital-logo.webp",
   "websiteUrl": "https://www.cym.bio/",
   "careersUrl": "https://www.cym.bio/careers/",
-  "isHiring": true,
   "linkedinId": "cymbio",
+  "linkedinNum": 6378164,
   "crunchbaseId": "cymbio",
+  "ivcId": "A1000000188914",
   "finderId": "cymbio",
   "xId": "Cymbio_",
+  "facebookId": "cymbio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האחים מסלוויטה",
-      "houseNumber": 12,
-      "city": "תל אביב - יפו",
-      "lat": 32.06773100750828,
-      "lon": 34.790868513431676
+      "street": "אליעזר קפלן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0733456,
+      "lon": 34.78202479999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "cymbio",
-  "linkedinNum": 6378164
+  "isActive": true
 }

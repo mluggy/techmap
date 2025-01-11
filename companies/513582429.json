@@ -1,0 +1,31 @@
+{
+  "name": "Ascarit",
+  "description": "Ascarit Ltd.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/ascarit-logo.webp",
+  "websiteUrl": "https://en.ascarit.co.il",
+  "careersUrl": null,
+  "linkedinId": "ascarit-ltd",
+  "linkedinNum": 18477767,
+  "crunchbaseId": null,
+  "ivcId": "A1000000249649",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המפלסים",
+      "houseNumber": 10,
+      "city": "פתח תקווה",
+      "lat": 32.1010036,
+      "lon": 34.8628735
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

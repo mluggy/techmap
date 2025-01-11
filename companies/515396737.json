@@ -6,21 +6,26 @@
   "logoFile": "logos/shoptimally-logo.webp",
   "websiteUrl": "https://www.neowize.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10580249,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "shoptimally",
   "xId": null,
+  "facebookId": "NeoWize",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוממה",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.119322,
       "lon": 34.82452
     }
   ],
   "isMultinational": false,
-  "facebookId": "NeoWize",
-  "linkedinNum": 10580249
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/openlegacy_technologies-logo.webp",
   "websiteUrl": "https://www.openlegacy.com/",
   "careersUrl": "https://www.openlegacy.com/company/careers",
-  "isHiring": true,
   "linkedinId": "openlegacy-inc",
+  "linkedinNum": 2762833,
   "crunchbaseId": null,
+  "ivcId": "A1000000169644",
   "finderId": "openlegacy",
   "xId": "openlegacy",
+  "facebookId": "openlegacy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מוטה גור",
-      "houseNumber": 7,
-      "city": "פתח תקווה",
-      "lat": 32.0938214,
-      "lon": 34.8648016
+      "street": "דרך מנחם בגין",
+      "houseNumber": 132,
+      "city": "תל אביב-יפו",
+      "lat": 32.074573,
+      "lon": 34.7918101
     }
   ],
   "isMultinational": false,
-  "facebookId": "openlegacy",
-  "linkedinNum": 2762833
+  "isActive": true
 }

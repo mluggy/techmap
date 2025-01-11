@@ -6,20 +6,26 @@
   "logoFile": "logos/insoundz-logo.webp",
   "websiteUrl": "https://insoundz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "insoundz",
+  "linkedinNum": 12901999,
   "crunchbaseId": null,
+  "ivcId": "A1000000183963",
   "finderId": "insoundz",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.066035,
-      "lon": 34.782959
+      "city": "תל אביב-יפו",
+      "lat": 32.0658042,
+      "lon": 34.7829381
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12901999
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/appendad-logo.webp",
   "websiteUrl": "https://www.firstimpression.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 4803096,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "appendad",
   "xId": "firstimptech",
+  "facebookId": "firstimpression.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלוף מגן קלמן",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07110345,
       "lon": 34.78706174292169
     }
   ],
   "isMultinational": false,
-  "facebookId": "firstimpression.io",
-  "linkedinNum": 4803096
+  "isActive": true
 }

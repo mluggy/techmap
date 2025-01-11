@@ -6,20 +6,26 @@
   "logoFile": "logos/diagnostic_robotics-logo.webp",
   "websiteUrl": "https://www.diagnosticrobotics.com/",
   "careersUrl": "https://www.diagnosticrobotics.com/careers",
-  "isHiring": true,
   "linkedinId": "diagnostic-robotics",
+  "linkedinNum": 28162124,
   "crunchbaseId": "diagnostic-robotics",
+  "ivcId": "A1000000264828",
   "finderId": "diagnostic-robotics",
   "xId": "diagnosticrobo",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28162124
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Annabella Tech",
-  "description": "Smart Breast Milk Pump",
+  "description": "Annabella is on a mission to empower the lives of mothers throughout all stages of their life with state-of-the-art femtech products.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/annabella_tech-logo.webp",
-  "websiteUrl": "https://www.annabella-pump.co.il/en",
+  "websiteUrl": "https://www.annabella-pump.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "annabella-pump",
+  "linkedinNum": 86703248,
   "crunchbaseId": null,
+  "ivcId": "A1000000241889",
   "finderId": "annabella-tech",
   "xId": null,
+  "facebookId": "Anabellamilk",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התע\"ש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Anabellamilk",
-  "linkedinNum": 86703248
+  "isActive": true
 }

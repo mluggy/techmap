@@ -6,21 +6,26 @@
   "logoFile": "logos/greenonyx-logo.webp",
   "websiteUrl": "https://www.greenonyx.ag/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "greenonyx",
+  "linkedinNum": 51879520,
   "crunchbaseId": null,
+  "ivcId": "A1000000020626",
   "finderId": "greenonyx",
   "xId": "_GreenOnyx",
+  "facebookId": "GreenOnyx.ag",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בן צבי",
-      "houseNumber": 84,
-      "city": "תל אביב - יפו",
-      "lat": 32.041932,
-      "lon": 34.771818
+      "street": "שדרות ההשכלה",
+      "houseNumber": 9,
+      "city": "תל אביב-יפו",
+      "lat": 32.0660192,
+      "lon": 34.7959762
     }
   ],
   "isMultinational": false,
-  "facebookId": "GreenOnyx.ag",
-  "linkedinNum": 51879520
+  "isActive": true
 }

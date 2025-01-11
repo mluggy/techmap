@@ -1,25 +1,31 @@
 {
   "name": "Mindfly",
-  "description": "AI-powered Bodycam for Sports Footage",
+  "description": "AI-powered Bodycam for Sports Footage.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/mindfly-logo.webp",
   "websiteUrl": "https://www.mindfly.live/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mindflylive",
+  "linkedinNum": 71295899,
   "crunchbaseId": null,
+  "ivcId": "A1000000363496",
   "finderId": "mindfly",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71295899
+  "isActive": true
 }

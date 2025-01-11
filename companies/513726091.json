@@ -6,11 +6,17 @@
   "logoFile": "logos/viora-logo.webp",
   "websiteUrl": "https://www.vioramed.com/int/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 818922,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "viora",
   "xId": "vioramed",
+  "facebookId": "vioramed",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פארק תעשיות שגיא 2000",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "vioramed",
-  "linkedinNum": 818922
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Nanomedic Technologies",
-  "description": "Portable Wound Treatment System",
+  "description": "Portable Wound Treatment System.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/nanomedic_technologies-logo.webp",
   "websiteUrl": "https://nanomedic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nanomedic-technologies-ltd",
+  "linkedinNum": 19098236,
   "crunchbaseId": null,
+  "ivcId": "A1000000280855",
   "finderId": "nanomedic-technologies",
   "xId": "NanomedicL",
+  "facebookId": "nanomedic",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יודפת",
       "houseNumber": 2,
       "city": "לוד",
-      "lat": 31.9614502,
-      "lon": 34.8993993
+      "lat": 31.9612208,
+      "lon": 34.9002501
     }
   ],
   "isMultinational": false,
-  "facebookId": "nanomedic",
-  "linkedinNum": 19098236
+  "isActive": true
 }

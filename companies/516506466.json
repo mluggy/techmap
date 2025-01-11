@@ -6,18 +6,26 @@
   "logoFile": "logos/snowmate-logo.webp",
   "websiteUrl": "https://www.snowmate.io/",
   "careersUrl": "https://www.snowmate.io/careers",
-  "isHiring": true,
   "linkedinId": "snowmate",
+  "linkedinNum": 100979400,
   "crunchbaseId": "snowmate",
+  "ivcId": "A1000000387139",
   "finderId": "snowmate",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חרמון",
-      "houseNumber": 1,
-      "city": "שוהם",
-      "lat": 31.9978797,
-      "lon": 34.9489579
+      "street": "מנחם בגין",
+      "houseNumber": 144,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322718
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

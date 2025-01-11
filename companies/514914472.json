@@ -6,21 +6,26 @@
   "logoFile": "logos/origami_information_systems-logo.webp",
   "websiteUrl": "https://origami.ms/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "origami-ms",
+  "linkedinNum": 18973701,
   "crunchbaseId": null,
+  "ivcId": "A1000000317114",
   "finderId": "origami",
   "xId": "origami_ms",
+  "facebookId": "origami.ms",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
-      "houseNumber": 14,
+      "street": "הסדנה",
+      "houseNumber": 6,
       "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "lat": 32.1717205,
+      "lon": 34.9263803
     }
   ],
   "isMultinational": false,
-  "facebookId": "origami.ms",
-  "linkedinNum": 18973701
+  "isActive": true
 }

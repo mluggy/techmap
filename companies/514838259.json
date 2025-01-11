@@ -6,11 +6,17 @@
   "logoFile": "logos/marketman-logo.webp",
   "websiteUrl": "https://www.marketman.com",
   "careersUrl": "https://marketman.co.il/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 3089769,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "marketman",
   "xId": "MarketManHQ",
+  "facebookId": "MarketManHQ",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרושת",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MarketManHQ",
-  "linkedinNum": 3089769
+  "isActive": true
 }

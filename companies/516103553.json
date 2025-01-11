@@ -1,25 +1,31 @@
 {
   "name": "EZCheck.me",
-  "description": "Smartphone-based Check-in Platform",
+  "description": "Smartphone-based Check-in Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ezcheck-me.webp",
   "websiteUrl": "https://ezcheck.me/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 20496563,
   "crunchbaseId": null,
+  "ivcId": "A1000000294300",
   "finderId": "ezcheck-me",
   "xId": null,
   "facebookId": "EZCheck.Me",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בלפור",
       "houseNumber": 33,
-      "city": "תל אביב - יפו",
-      "lat": 32.06778554282406,
-      "lon": 34.77449726468702
+      "city": "תל אביב-יפו",
+      "lat": 32.0676225,
+      "lon": 34.774517
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

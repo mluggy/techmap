@@ -1,17 +1,31 @@
 {
   "name": "Nanomill Dental Solutions",
-  "description": "Prosthodontic Devices",
+  "description": "Prosthodontic Devices.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/nanomill_technologies-logo.webp",
   "websiteUrl": "https://www.nanomillds.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "nanomill-dental-solutions",
+  "ivcId": "A1000000210086",
   "finderId": "nanomill",
   "xId": null,
-  "addresses": [],
+  "facebookId": "nanomillds",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דולב",
+      "houseNumber": 2,
+      "city": "תפן",
+      "lat": 32.976718,
+      "lon": 35.275979
+    }
+  ],
   "isMultinational": false,
-  "facebookId": "nanomillds"
+  "isActive": true
 }

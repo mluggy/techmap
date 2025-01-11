@@ -6,18 +6,26 @@
   "logoFile": "logos/juno_ai-logo.webp",
   "websiteUrl": "https://heyjuno.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "juno-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מונטיפיורי",
       "houseNumber": 39,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065888,
       "lon": 34.773888
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

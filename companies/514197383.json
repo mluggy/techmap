@@ -1,16 +1,22 @@
 {
   "name": "Fixread",
-  "description": "Platform for Online English Courses",
+  "description": "Platform for Online English Courses.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/fixread-logo.webp",
   "websiteUrl": "https://fixread.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1857465,
   "crunchbaseId": null,
+  "ivcId": "A1000000415652",
   "finderId": "fixread",
   "xId": "fixread",
+  "facebookId": "fixreadESL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קריית ספר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "fixreadESL",
-  "linkedinNum": 1857465
+  "isActive": true
 }

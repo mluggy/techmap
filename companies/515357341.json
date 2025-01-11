@@ -6,20 +6,26 @@
   "logoFile": "logos/unispectral-logo.webp",
   "websiteUrl": "https://unispectral.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "unispectral",
+  "linkedinNum": 10469068,
   "crunchbaseId": null,
+  "ivcId": "A1000000186217",
   "finderId": "unispectral",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
+      "street": "מנחם בגין",
       "houseNumber": 12,
-      "city": "רמת גן",
-      "lat": 32.0852442,
-      "lon": 34.8003868
+      "city": "בני ברק",
+      "lat": 32.092447,
+      "lon": 34.82777
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10469068
+  "isActive": true
 }

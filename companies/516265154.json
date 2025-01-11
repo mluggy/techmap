@@ -3,21 +3,29 @@
   "description": "Offering comprehensive AI-powered communication solutions including phone, messaging, video, contact centers, and virtual events on a unified cloud platform.",
   "categoryId": 6,
   "size": "s",
-  "logoFile": "logos/ringcentral_israel-logo.webp",
+  "logoFile": "logos/ringcentral-israel-logo.webp",
   "websiteUrl": "https://www.ringcentral.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ringcentral",
+  "linkedinNum": 60868,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ringcentral",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 58,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.060334,
       "lon": 34.782124
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

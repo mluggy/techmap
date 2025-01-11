@@ -6,11 +6,17 @@
   "logoFile": "logos/intsite-logo.webp",
   "websiteUrl": "https://www.intsite.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "intsite",
+  "linkedinNum": 17918618,
   "crunchbaseId": "intsite",
+  "ivcId": null,
   "finderId": "intsite",
   "xId": "IntsiteAI",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלמיש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17918618
+  "isActive": true
 }

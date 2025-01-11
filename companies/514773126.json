@@ -1,16 +1,22 @@
 {
   "name": "Endless Technologies",
-  "description": "Mobile Camera Software and Hardware Development",
+  "description": "Mobile Camera Software and Hardware Development.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/endless_technologies-logo.webp",
   "websiteUrl": "https://wristcam.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "glide-talk-ltd-",
+  "linkedinNum": 3020582,
   "crunchbaseId": null,
+  "ivcId": "A1000000009616",
   "finderId": "glide",
   "xId": "wristcam",
+  "facebookId": "wristcam",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוהם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "wristcam",
-  "linkedinNum": 3020582
+  "isActive": true
 }

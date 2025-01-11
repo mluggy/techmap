@@ -1,26 +1,31 @@
 {
   "name": "Kiami",
-  "description": "Smart Troubleshooting and Maintenance Software for Manufacturing Teams",
+  "description": "Smart Troubleshooting and Maintenance Software for Manufacturing Teams.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/kiami-logo.webp",
   "websiteUrl": "https://www.kiami-solutions.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kiami",
+  "linkedinNum": 13181317,
   "crunchbaseId": null,
+  "ivcId": "A1000000299141",
   "finderId": "kiami",
   "xId": null,
+  "facebookId": "KIAMI-606158792870432",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רום יעל",
-      "houseNumber": 3,
+      "street": "התנופה",
+      "houseNumber": 7,
       "city": "פתח תקווה",
-      "lat": 32.0990658,
-      "lon": 34.88073582934503
+      "lat": 32.0998117,
+      "lon": 34.8574492
     }
   ],
   "isMultinational": false,
-  "facebookId": "KIAMI-606158792870432",
-  "linkedinNum": 13181317
+  "isActive": true
 }

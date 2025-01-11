@@ -6,21 +6,26 @@
   "logoFile": "logos/hyro_ai-logo.webp",
   "websiteUrl": "https://www.hyro.ai/",
   "careersUrl": "https://www.hyro.ai/careers/",
-  "isHiring": true,
   "linkedinId": "hyroai",
+  "linkedinNum": 11742085,
   "crunchbaseId": "airbud-technologies-inc",
+  "ivcId": null,
   "finderId": "airbud-technologies",
   "xId": "hyro_ai",
+  "facebookId": "hyroAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07003,
       "lon": 34.786371
     }
   ],
   "isMultinational": false,
-  "facebookId": "hyroAI",
-  "linkedinNum": 11742085
+  "isActive": true
 }

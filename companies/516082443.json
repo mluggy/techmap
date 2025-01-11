@@ -1,0 +1,31 @@
+{
+  "name": "Phone.do",
+  "description": "Phone.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/phone_do-logo.webp",
+  "websiteUrl": "https://www.phone.do",
+  "careersUrl": null,
+  "linkedinId": "phone-do",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000386068",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חכם שמואל ברוכים",
+      "houseNumber": 3,
+      "city": "ירושלים",
+      "lat": 31.7942251,
+      "lon": 35.216241
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

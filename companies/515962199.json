@@ -6,21 +6,26 @@
   "logoFile": "logos/eureka_world-logo.webp",
   "websiteUrl": "https://www.eurekaworld.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eurekaworld",
+  "linkedinNum": 19018960,
   "crunchbaseId": null,
+  "ivcId": "A1000000285510",
   "finderId": "eureka-world",
   "xId": null,
+  "facebookId": "2015eurekaworld",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השקד",
-      "houseNumber": 98,
-      "city": "כפר חנניה",
-      "lat": 32.9184113,
-      "lon": 35.4234276
+      "street": "הל\"ה",
+      "houseNumber": 28,
+      "city": "תל אביב-יפו",
+      "lat": 32.1169457,
+      "lon": 34.8375991
     }
   ],
   "isMultinational": false,
-  "facebookId": "2015eurekaworld",
-  "linkedinNum": 19018960
+  "isActive": true
 }

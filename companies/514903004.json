@@ -6,21 +6,26 @@
   "logoFile": "logos/palantir_engineering_israel-logo.webp",
   "websiteUrl": "https://www.palantir.com/",
   "careersUrl": "https://www.palantir.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 20708,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "palantir",
   "xId": "palantirtech",
+  "facebookId": "Palantir",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 46,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063755,
       "lon": 34.774745
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Palantir",
-  "linkedinNum": 20708
+  "isMultinational": false,
+  "isActive": true
 }

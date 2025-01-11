@@ -1,16 +1,22 @@
 {
   "name": "Breeze Creative",
-  "description": "A company specializing in creative solutions based in Moshav Bnei Atarot, providing design and innovation services.",
-  "categoryId": 4,
+  "description": "Breeze Creative is an interactive experience design company.",
+  "categoryId": 14,
   "size": "s",
-  "logoFile": "logos/breeze_creative-logo.webp",
-  "websiteUrl": "https://breezecreative.co.il/",
+  "logoFile": "logos/breeze-creative-logo.webp",
+  "websiteUrl": "http://breezecreative.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "breeze-creative-llc",
+  "linkedinNum": 17973855,
   "crunchbaseId": null,
+  "ivcId": "A1000000270795",
   "finderId": "breeze-creative",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "",
@@ -19,5 +25,7 @@
       "lat": 32.0235637,
       "lon": 34.9118719
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

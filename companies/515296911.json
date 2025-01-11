@@ -6,21 +6,26 @@
   "logoFile": "logos/beame_io-logo.webp",
   "websiteUrl": "https://www.beame.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10304224,
   "crunchbaseId": "beame-io",
+  "ivcId": null,
   "finderId": "beame-io",
   "xId": "beame_io",
+  "facebookId": "beameio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.109582,
       "lon": 34.839068
     }
   ],
   "isMultinational": false,
-  "facebookId": "beameio",
-  "linkedinNum": 10304224
+  "isActive": true
 }

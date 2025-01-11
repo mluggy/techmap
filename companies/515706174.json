@@ -6,11 +6,17 @@
   "logoFile": "logos/rivery_technologies-logo.webp",
   "websiteUrl": "https://rivery.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rivery",
+  "linkedinNum": 10688010,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rivery",
   "xId": "RiveryData",
+  "facebookId": "rivery.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "rivery.io",
-  "linkedinNum": 10688010
+  "isActive": true
 }

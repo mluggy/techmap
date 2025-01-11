@@ -6,21 +6,26 @@
   "logoFile": "logos/de_identification-logo.webp",
   "websiteUrl": "https://www.d-id.com/",
   "careersUrl": "https://www.d-id.com/careers/",
-  "isHiring": true,
   "linkedinId": "deidentification",
+  "linkedinNum": 18161372,
   "crunchbaseId": "d-id",
+  "ivcId": "A1000000237069",
   "finderId": "de-identification",
   "xId": "D_ID_",
+  "facebookId": "deidentification",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 84,
-      "city": "תל אביב - יפו",
-      "lat": 32.06948,
-      "lon": 34.782409
+      "city": "תל אביב-יפו",
+      "lat": 32.0694615,
+      "lon": 34.7824692
     }
   ],
   "isMultinational": false,
-  "facebookId": "deidentification",
-  "linkedinNum": 18161372
+  "isActive": true
 }

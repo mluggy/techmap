@@ -1,26 +1,31 @@
 {
   "name": "Kando",
-  "description": "Wastewater Intelligence Solution",
+  "description": "Wastewater Intelligence Solution.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/kando_environmental_sevices-logo.webp",
   "websiteUrl": "https://www.kando.eco",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kando-environmental-services",
+  "linkedinNum": 17894729,
   "crunchbaseId": "kando-73d5",
+  "ivcId": "A1000000194472",
   "finderId": "kando",
   "xId": "kandopulse",
+  "facebookId": "KandoPulse",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צור",
       "houseNumber": 8,
-      "city": "צור יגאל",
-      "lat": 32.2187395,
-      "lon": 34.9835317
+      "city": "כוכב יאיר צור יגאל",
+      "lat": 32.2191573,
+      "lon": 34.9824814
     }
   ],
   "isMultinational": false,
-  "facebookId": "KandoPulse",
-  "linkedinNum": 17894729
+  "isActive": true
 }

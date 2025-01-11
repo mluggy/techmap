@@ -6,20 +6,26 @@
   "logoFile": "logos/digma_medical-logo.webp",
   "websiteUrl": "https://www.digmamedical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "digma-medical",
+  "linkedinNum": 6142779,
   "crunchbaseId": null,
+  "ivcId": "A1000000023093",
   "finderId": "digma-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הערבה",
-      "houseNumber": 1,
-      "city": "גבעת שמואל",
-      "lat": 32.0836051,
-      "lon": 34.8551272
+      "street": "שחם",
+      "houseNumber": 30,
+      "city": "פתח תקווה",
+      "lat": 32.0873756,
+      "lon": 34.8586924
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 6142779
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "An AI-driven platform that enhances clinical trial success by predicting patient drug responses and potential side effects for informed decision-making and better patient outcomes.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/panacea_ml-logo.webp",
+  "logoFile": "logos/panacea-ml-logo.webp",
   "websiteUrl": "https://www.panacea-ml.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "panacea-ml",
+  "linkedinNum": 93346721,
   "crunchbaseId": null,
+  "ivcId": "A1000000326670",
   "finderId": "panacea-ml",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -20,5 +26,6 @@
       "lon": 34.8811941
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

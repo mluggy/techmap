@@ -6,12 +6,17 @@
   "logoFile": "logos/cyren.webp",
   "websiteUrl": "https://www.cyren.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "cyren",
   "linkedinNum": 5025637,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cyren",
   "xId": "CYRENInc",
   "facebookId": "CyrenWeb",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המנופים",
@@ -21,5 +26,6 @@
       "lon": 34.808364139120165
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

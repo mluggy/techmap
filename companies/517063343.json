@@ -1,0 +1,31 @@
+{
+  "name": "StarbirdAI",
+  "description": "Startbird AI develops StarPod, a product that detects various non-GPS electromagnetic signals and leverages advanced AI and sensor fusion models to accurately determine the location of the vehicle in any area or environmental condition.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/starbirdai-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000493014",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "טשרניחובסקי",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.074048,
+      "lon": 34.7730099
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

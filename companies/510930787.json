@@ -1,26 +1,31 @@
 {
   "name": "Micronet",
-  "description": "Fleet Integration and Workforce Management Solutions",
+  "description": "Fleet Integration and Workforce Management Solutions.",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/micronet-logo.webp",
   "websiteUrl": "https://www.micronet-inc.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "micronet",
+  "linkedinNum": 17769,
   "crunchbaseId": null,
+  "ivcId": "A1000000006037",
   "finderId": "micronet",
   "xId": null,
+  "facebookId": "Micronetmict",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 16,
-      "city": "ראש העין",
-      "lat": 32.1088976,
-      "lon": 34.9653972
+      "street": "מדינת היהודים",
+      "houseNumber": 85,
+      "city": "הרצליה",
+      "lat": 32.1666328,
+      "lon": 34.8100707
     }
   ],
   "isMultinational": false,
-  "facebookId": "Micronetmict",
-  "linkedinNum": 17769
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/innodraw-logo.webp",
   "websiteUrl": "https://innodraw.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "innodraw",
+  "linkedinNum": 400641,
   "crunchbaseId": null,
+  "ivcId": "A1000000010319",
   "finderId": "innodraw",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יד הבנים",
-      "houseNumber": 44,
+      "street": "הבנים",
+      "houseNumber": null,
       "city": "פתח תקווה",
-      "lat": 32.072479084913255,
-      "lon": 34.87945374669919
+      "lat": 32.0951368,
+      "lon": 34.8839607
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 400641
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/restar-logo.webp",
   "websiteUrl": "https://www.rest-ar.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11399157,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "restar",
   "xId": null,
+  "facebookId": "RestAR3D",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך מנחם בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
   "isMultinational": false,
-  "facebookId": "RestAR3D",
-  "linkedinNum": 11399157
+  "isActive": true
 }

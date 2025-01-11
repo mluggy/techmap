@@ -6,18 +6,26 @@
   "logoFile": "logos/refundit-logo.webp",
   "websiteUrl": "https://www.refundid.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "refundit",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גרונר דב",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.12661,
       "lon": 34.807745
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

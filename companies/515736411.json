@@ -3,14 +3,20 @@
   "description": "Founded in 2013, this company specializes in developing minimally invasive treatments for structural heart conditions, leveraging its expertise in cardiovascular device R&D and global regulatory affairs.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/coramaze_technologies-logo.webp",
+  "logoFile": "logos/coramaze-technologies-logo.webp",
   "websiteUrl": "https://www.coramaze.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "coramaze",
+  "linkedinNum": 5337531,
   "crunchbaseId": "coramaze-technologies",
+  "ivcId": null,
   "finderId": "coramaze",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוטה גור",
@@ -20,5 +26,6 @@
       "lon": 34.8646062
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "ALMA Technologies",
-  "description": "Localization Technology Based on Inertial Sensors",
+  "description": "Localization Technology Based on Inertial Sensors.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/alma_technologies-logo.webp",
   "websiteUrl": "https://www.almatechnologies.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "alma-technologies",
+  "linkedinNum": 71188539,
   "crunchbaseId": "alma-technologies-ltd",
+  "ivcId": "A1000000388744",
   "finderId": "alma-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שינדלר אוסקר",
-      "houseNumber": 3,
+      "street": "אנדרי סחרוב",
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.7668032,
-      "lon": 35.0163919
+      "lat": 32.791394,
+      "lon": 34.958441
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71188539
+  "isActive": true
 }

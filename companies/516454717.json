@@ -1,16 +1,22 @@
 {
   "name": "Go4A",
-  "description": "Stealth Mode Company",
+  "description": "Stealth Mode Company.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/go_4_a-logo.webp",
   "websiteUrl": "https://go4a.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "go4a",
+  "linkedinNum": 75068365,
   "crunchbaseId": null,
+  "ivcId": "A1000000453327",
   "finderId": "go4a",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברקת",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75068365
+  "isActive": true
 }

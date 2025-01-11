@@ -3,16 +3,29 @@
   "description": "Carl Zeiss is a renowned global leader in optics and optoelectronics, delivering cutting-edge solutions across healthcare, research, and industrial sectors.",
   "categoryId": 12,
   "size": "xl",
-  "logoFile": "logos/carl_zeiss_sms-logo.webp",
+  "logoFile": "logos/carl-zeiss-logo.webp",
   "websiteUrl": "https://www.zeiss.com/",
   "careersUrl": "https://www.zeiss.com/semiconductor-manufacturing-technology/career.html",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "zeiss",
+  "linkedinNum": 938659,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zeiss",
   "xId": "ZEISS_Group",
-  "addresses": [],
-  "isMultinational": true,
   "facebookId": "zeissgroup",
-  "linkedinNum": 938659
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השיטה",
+      "houseNumber": 8,
+      "city": "קיסריה",
+      "lat": 32.4745332062756,
+      "lon": 34.94220761621742
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

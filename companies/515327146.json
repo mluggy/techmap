@@ -6,11 +6,17 @@
   "logoFile": "logos/skf_ai-logo.webp",
   "websiteUrl": "https://www.skf.com/",
   "careersUrl": "https://career.skf.com/",
-  "isHiring": true,
   "linkedinId": "skf",
+  "linkedinNum": 4592,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "skf",
   "xId": "skfgroup",
+  "facebookId": "SKFGroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סחרוב אנדרה",
@@ -20,7 +26,6 @@
       "lon": 34.9579664
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SKFGroup",
-  "linkedinNum": 4592
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/synvaccine-logo.webp",
   "websiteUrl": "https://www.synvaccine.com/",
   "careersUrl": "https://www.synvaccine.com/careers--synvaccine",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "syn-vaccine",
+  "ivcId": "A1000000169598",
   "finderId": "synvaccine",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גולדה מאיר",
-      "houseNumber": 3,
-      "city": "נס ציונה",
-      "lat": 31.9137859,
-      "lon": 34.8024773
+      "street": "הברזל",
+      "houseNumber": 27,
+      "city": "תל אביב-יפו",
+      "lat": 32.1099675,
+      "lon": 34.8405233
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

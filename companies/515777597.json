@@ -6,21 +6,26 @@
   "logoFile": "logos/shipbook-logo.webp",
   "websiteUrl": "https://www.shipbook.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "shipbook",
+  "linkedinNum": 18500824,
   "crunchbaseId": null,
+  "ivcId": "A1000000294132",
   "finderId": "shipbook",
   "xId": null,
+  "facebookId": "shipbook.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בית לחם",
+      "street": "בית לחם",
       "houseNumber": 71,
       "city": "ירושלים",
-      "lat": 31.7505713,
-      "lon": 35.2178446
+      "lat": 31.7550923,
+      "lon": 35.2203878
     }
   ],
   "isMultinational": false,
-  "facebookId": "shipbook.io",
-  "linkedinNum": 18500824
+  "isActive": true
 }

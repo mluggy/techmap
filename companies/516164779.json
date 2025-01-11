@@ -6,11 +6,17 @@
   "logoFile": "logos/jubaan-logo.webp",
   "websiteUrl": "https://jubaan.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "jubaan",
+  "linkedinNum": 30644006,
   "crunchbaseId": null,
+  "ivcId": "A1000000328229",
   "finderId": "jubaan",
   "xId": null,
+  "facebookId": "jubaanai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית תבור 2",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "jubaanai",
-  "linkedinNum": 30644006
+  "isActive": true
 }

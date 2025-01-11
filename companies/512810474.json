@@ -6,12 +6,17 @@
   "logoFile": "logos/oneg-hakarmel.webp",
   "websiteUrl": "https://www.hemaclear.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "ohk-medical-devices",
   "linkedinNum": 147009,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "oneg-hakarmel",
   "xId": "HemaClear",
   "facebookId": "HemaClear",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אתגר",
@@ -21,5 +26,6 @@
       "lon": 34.96840025057518
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

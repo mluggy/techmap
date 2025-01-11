@@ -1,16 +1,22 @@
 {
   "name": "Bottomline Technologies",
   "description": "Bottomline Technologies provides innovative financial technology solutions that streamline complex business payments, banking, and financial document workflows to enhance efficiency and security for organizations worldwide.",
-  "size": "xl",
   "categoryId": 10,
+  "size": "xl",
   "logoFile": "logos/bottomline_technologies-logo.webp",
   "websiteUrl": "https://www.bottomline.com/",
   "careersUrl": "https://www.bottomline.com/us/about/careers",
-  "isHiring": true,
   "linkedinId": "bottomline-payments",
+  "linkedinNum": 6001,
   "crunchbaseId": "bottomline-technologies",
+  "ivcId": null,
   "finderId": "bottomline-technologies",
   "xId": "bottomlinetech",
+  "facebookId": "Bottomline-Technologies-167389723273681",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שרון אריאל",
@@ -20,7 +26,6 @@
       "lon": 34.854526
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Bottomline-Technologies-167389723273681",
-  "linkedinNum": 6001
+  "isMultinational": false,
+  "isActive": true
 }

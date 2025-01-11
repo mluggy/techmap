@@ -1,0 +1,31 @@
+{
+  "name": "Ideeza",
+  "description": "IDEEZA developed an AI-powered product development platform that streamlines end-to-end workflow, enabling makers, innovators and entrepreneurs to create a finished and customized product in a single development cycle and identify the optimal production progress, even without prior technology know-how and resources.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/ideeza-logo.webp",
+  "websiteUrl": "https://www.ideeza.com",
+  "careersUrl": null,
+  "linkedinId": "makeideeza",
+  "linkedinNum": 18756691,
+  "crunchbaseId": null,
+  "ivcId": "A1000000238705",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרטום",
+      "houseNumber": 10,
+      "city": "ירושלים",
+      "lat": 31.8039842,
+      "lon": 35.213438
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

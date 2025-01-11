@@ -1,26 +1,31 @@
 {
   "name": "Atomation",
-  "description": "End-to-end IoT Platform",
+  "description": "End-to-end IoT Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/atomation_net-logo.webp",
   "websiteUrl": "https://atomation.net",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10471051,
   "crunchbaseId": null,
+  "ivcId": "A1000000181157",
   "finderId": "atomation",
   "xId": null,
+  "facebookId": "atomation.net",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.063834,
-      "lon": 34.780027
+      "city": "בני ברק",
+      "lat": 32.0929164,
+      "lon": 34.8295488
     }
   ],
   "isMultinational": false,
-  "facebookId": "atomation.net",
-  "linkedinNum": 10471051
+  "isActive": true
 }

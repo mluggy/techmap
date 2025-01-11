@@ -6,21 +6,26 @@
   "logoFile": "logos/dynamicam-logo.webp",
   "websiteUrl": "https://www.dynami-cam.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dynamicam-ltd",
+  "linkedinNum": 12907648,
   "crunchbaseId": null,
+  "ivcId": "A1000000203739",
   "finderId": "dynamicam",
   "xId": null,
+  "facebookId": "DynamiCamSystem",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 10,
+      "street": null,
+      "houseNumber": null,
       "city": "ראש העין",
-      "lat": 32.1088976,
-      "lon": 34.9653972
+      "lat": 32.095838,
+      "lon": 34.952177
     }
   ],
   "isMultinational": false,
-  "facebookId": "DynamiCamSystem",
-  "linkedinNum": 12907648
+  "isActive": true
 }

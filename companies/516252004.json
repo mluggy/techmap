@@ -1,0 +1,31 @@
+{
+  "name": "Moon Steak",
+  "description": "Moon Steak is a biotech company, aiming to transform the meat industry by fabricating high quality artisanal meat cuts using proprietary metamaterials and molding platform.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/moon_steak-logo.webp",
+  "websiteUrl": "https://www.moonsteaks.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000470071",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חיל השריון",
+      "houseNumber": 5,
+      "city": "ראשון לציון",
+      "lat": 31.9988146,
+      "lon": 34.74062380000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

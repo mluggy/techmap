@@ -1,16 +1,22 @@
 {
   "name": "Hop Engineering",
-  "description": "Prevention and Elimination of Scale and Rust in Water Systems",
+  "description": "Hop Engineering LTD.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/hop_engineering-logo.webp",
-  "websiteUrl": "https://www.hop-pth.com",
-  "careersUrl": "https://www.hop.uk.com/careers/current-opportunities/",
-  "isHiring": true,
+  "websiteUrl": "http://www.hop-pth.co.il",
+  "careersUrl": null,
   "linkedinId": "hop-engineering-ltd",
+  "linkedinNum": 11690892,
   "crunchbaseId": null,
+  "ivcId": "A1000000023310",
   "finderId": "hop-engineering",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גרניט",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11690892
+  "isActive": true
 }

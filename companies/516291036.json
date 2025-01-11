@@ -1,16 +1,22 @@
 {
   "name": "Cellotex Development",
-  "description": "An instant calculator for determining insulation thickness and product options accurately.",
-  "categoryId": 14,
-  "size": "xs",
-  "logoFile": "logos/cellotex_development-logo.webp",
-  "websiteUrl": "https://celotex.co.uk/",
+  "description": "Cellotex develops standardized, customizable, full-spectrum, medical-grade cannabis extracts for inhalation.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/cellotex-development-logo.webp",
+  "websiteUrl": "https://www.cellotex.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cellotex",
+  "linkedinNum": 74518854,
   "crunchbaseId": null,
+  "ivcId": "A1000000400216",
   "finderId": "cellotex",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרוקמים",
@@ -19,5 +25,7 @@
       "lat": 32.0077054,
       "lon": 34.80060304320986
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/blix-logo.webp",
   "websiteUrl": "https://myblix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "myblix",
+  "linkedinNum": 27155392,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "blix",
   "xId": "myblix",
+  "facebookId": "myblix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלוסקין",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.086556,
       "lon": 34.793352
     }
   ],
   "isMultinational": false,
-  "facebookId": "myblix",
-  "linkedinNum": 27155392
+  "isActive": true
 }

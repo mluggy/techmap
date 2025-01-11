@@ -6,11 +6,17 @@
   "logoFile": "logos/sense_bisum-logo.webp",
   "websiteUrl": "https://www.53n53.com/",
   "careersUrl": "https://sense.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "53n53-sense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הערבה",
@@ -20,5 +26,6 @@
       "lon": 34.8551272
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

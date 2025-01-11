@@ -6,21 +6,26 @@
   "logoFile": "logos/coolautomation-logo.webp",
   "websiteUrl": "https://coolautomation.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cool-automation",
+  "linkedinNum": 1456190,
   "crunchbaseId": null,
+  "ivcId": "A1000000178685",
   "finderId": "CoolAutomation",
   "xId": "cool_automation",
+  "facebookId": "CoolAutomation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מבטחים",
-      "houseNumber": 2,
+      "street": "ההסתדרות",
+      "houseNumber": 4,
       "city": "פתח תקווה",
-      "lat": 32.087326,
-      "lon": 34.8543625
+      "lat": 32.085826,
+      "lon": 34.8835597
     }
   ],
   "isMultinational": false,
-  "facebookId": "CoolAutomation",
-  "linkedinNum": 1456190
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "NOVOS",
-  "description": "Training Platform for Gamers",
+  "description": "Training Platform for Gamers.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/novos_gg-logo.webp",
   "websiteUrl": "https://novos.gg/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "novos",
+  "linkedinNum": 18469335,
   "crunchbaseId": null,
+  "ivcId": "A1000000274109",
   "finderId": "novos",
   "xId": "novosgg",
+  "facebookId": "novos.gg",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שוידלסון",
-      "houseNumber": 3,
-      "city": "הרצליה",
-      "lat": 32.161140634959864,
-      "lon": 34.84316158866636
+      "street": "דרך מנחם בגין",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.0718027,
+      "lon": 34.7890235
     }
   ],
   "isMultinational": false,
-  "facebookId": "novos.gg",
-  "linkedinNum": 18469335
+  "isActive": true
 }

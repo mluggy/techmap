@@ -6,11 +6,17 @@
   "logoFile": "logos/anyclip-logo.webp",
   "websiteUrl": "https://anyclip.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "anyclip",
+  "linkedinNum": 515737,
   "crunchbaseId": null,
+  "ivcId": "A1000000002315",
   "finderId": "anyclip",
   "xId": "AnyClip",
+  "facebookId": "AnyClip",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AnyClip",
-  "linkedinNum": 515737
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/nemesysco-logo.webp",
   "websiteUrl": "https://www.nemesysco.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nemesysco",
+  "linkedinNum": 120053,
   "crunchbaseId": null,
+  "ivcId": "A1000000003386",
   "finderId": "nemesysco",
   "xId": "NemesyscoLtd",
+  "facebookId": "NemesyscoLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הזרם",
-      "houseNumber": 12,
-      "city": "קדימה",
-      "lat": 32.273676,
-      "lon": 34.9195755
+      "street": "האופה",
+      "houseNumber": 1,
+      "city": "קדימה צורן",
+      "lat": 32.2762509,
+      "lon": 34.9192936
     }
   ],
   "isMultinational": false,
-  "facebookId": "NemesyscoLtd",
-  "linkedinNum": 120053
+  "isActive": true
 }

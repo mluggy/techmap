@@ -6,21 +6,26 @@
   "logoFile": "logos/galileo_wheel-logo.webp",
   "websiteUrl": "https://www.galileowheel.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "galileo-wheel",
+  "linkedinNum": 12981162,
   "crunchbaseId": null,
+  "ivcId": "A1000000004369",
   "finderId": "galileo-wheel",
   "xId": "GalileoCupWheel",
+  "facebookId": "GalileoWheel-FR-2157273167663157",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטוחן",
       "houseNumber": 2,
       "city": "קיסריה",
-      "lat": 32.4863102,
-      "lon": 34.9521262
+      "lat": 32.4850244,
+      "lon": 34.9455816
     }
   ],
   "isMultinational": false,
-  "facebookId": "GalileoWheel-FR-2157273167663157",
-  "linkedinNum": 12981162
+  "isActive": true
 }

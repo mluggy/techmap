@@ -1,25 +1,31 @@
 {
   "name": "Regatta",
-  "description": "Universal Data Management Platform",
+  "description": "Universal Data Management Platform.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/regatta_data-logo.webp",
   "websiteUrl": "https://regatta.dev/",
   "careersUrl": "https://www.regattacentral.com/regatta/?job_id=8937",
-  "isHiring": true,
   "linkedinId": "regatta",
+  "linkedinNum": 64525232,
   "crunchbaseId": null,
+  "ivcId": "A1000000307718",
   "finderId": "paramount-data",
   "xId": "Regatta_Data",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך הים",
-      "houseNumber": null,
+      "houseNumber": 63,
       "city": "בית חנניה",
-      "lat": 32.5255364,
-      "lon": 34.9236857
+      "lat": 32.530687,
+      "lon": 34.92543
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64525232
+  "isActive": true
 }

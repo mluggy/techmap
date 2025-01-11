@@ -6,20 +6,26 @@
   "logoFile": "logos/infinidome-logo.webp",
   "websiteUrl": "https://infinidome.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gps-dome-ltd",
+  "linkedinNum": 10881324,
   "crunchbaseId": null,
+  "ivcId": "A1000000215241",
   "finderId": "gps-dome",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האשל",
+      "street": "חלמיש",
       "houseNumber": 7,
       "city": "קיסריה",
-      "lat": 32.4774943,
-      "lon": 34.9447996
+      "lat": 32.4818848,
+      "lon": 34.9477286
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10881324
+  "isActive": true
 }

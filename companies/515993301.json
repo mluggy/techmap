@@ -1,0 +1,31 @@
+{
+  "name": "REPOP",
+  "description": "REPOP stores are flexible retail spaces designed for brands and businesses who look to easily open a pop up shop in prime locations, worldwide.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/repop-logo.webp",
+  "websiteUrl": "https://repop.shop",
+  "careersUrl": null,
+  "linkedinId": "spotango",
+  "linkedinNum": 18996500,
+  "crunchbaseId": null,
+  "ivcId": "A1000000285557",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הפלך",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.0503025,
+      "lon": 34.7666856
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

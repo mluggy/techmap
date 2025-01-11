@@ -6,21 +6,26 @@
   "logoFile": "logos/lisuto_israel-logo.webp",
   "websiteUrl": "https://lisuto.com/",
   "careersUrl": "https://lisuto.com/career/",
-  "isHiring": true,
   "linkedinId": "lisuto-ai",
+  "linkedinNum": 10259204,
   "crunchbaseId": "lisuto-ai",
+  "ivcId": null,
   "finderId": "lisuto",
   "xId": "lisuto_ai",
+  "facebookId": "lisuto",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איסרליש",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07103585,
       "lon": 34.79219333800788
     }
   ],
   "isMultinational": false,
-  "facebookId": "lisuto",
-  "linkedinNum": 10259204
+  "isActive": true
 }

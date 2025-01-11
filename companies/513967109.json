@@ -6,21 +6,26 @@
   "logoFile": "logos/sade_group_building_and_developing-logo.webp",
   "websiteUrl": "https://www.sade.group/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 35452848,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sade-group",
   "xId": null,
+  "facebookId": "sade.biotech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברודצקי",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.106598,
       "lon": 34.797414
     }
   ],
   "isMultinational": false,
-  "facebookId": "sade.biotech",
-  "linkedinNum": 35452848
+  "isActive": true
 }

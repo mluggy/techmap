@@ -6,11 +6,17 @@
   "logoFile": "logos/pots_farms-logo.webp",
   "websiteUrl": "https://potsfarms.wixsite.com/mysite",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pots-farms-llc",
   "xId": null,
+  "facebookId": "PotsFarmsLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זמנהוף",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "PotsFarmsLTD"
+  "isActive": true
 }

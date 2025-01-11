@@ -1,16 +1,22 @@
 {
   "name": "CogMe",
-  "description": "Boost your working memory and attention with personalized training, progress tracking, and dedicated coach support.",
+  "description": "CogMe is developing a platform to reduce cognitive drops in populations at risk, initially focusing on delirium, an acute condition that most commonly arises in an inpatient setting.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cogme-logo.webp",
-  "websiteUrl": "https://app.cogmed.com/",
+  "websiteUrl": "https://www.cogme.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cogme",
+  "linkedinNum": 70928870,
   "crunchbaseId": null,
+  "ivcId": "A1000000339555",
   "finderId": "cogme",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתיב האור",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70928870
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/qualitalk-logo.webp",
   "websiteUrl": "https://qualitalk.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "qualitalk",
+  "linkedinNum": 18651107,
   "crunchbaseId": null,
+  "ivcId": "A1000000310445",
   "finderId": "mindecipher",
   "xId": "QualiTalk",
+  "facebookId": "qualitalk",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חטיבת גולני",
-      "houseNumber": 6,
-      "city": "כפר סבא",
-      "lat": 32.184101,
-      "lon": 34.9038324
+      "street": "האומנים",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.071286,
+      "lon": 34.7951862
     }
   ],
   "isMultinational": false,
-  "facebookId": "qualitalk",
-  "linkedinNum": 18651107
+  "isActive": true
 }

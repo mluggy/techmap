@@ -6,20 +6,26 @@
   "logoFile": "logos/clearmash_solutions-logo.webp",
   "websiteUrl": "https://www.clearmash.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "clearmash",
+  "linkedinNum": 926148,
   "crunchbaseId": "clearmash-solutions",
+  "ivcId": "A1000000002254",
   "finderId": "clearmash",
   "xId": "ClearMash",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עטרות",
-      "houseNumber": 5,
-      "city": "רעננה",
-      "lat": 32.1877773,
-      "lon": 34.859199
+      "street": "גלגלי הפלדה",
+      "houseNumber": 11,
+      "city": "הרצליה",
+      "lat": 32.1639213,
+      "lon": 34.8080474
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 926148
+  "isActive": true
 }

@@ -3,23 +3,29 @@
   "description": "Providing hyper-realistic medical and combat training tools validated by top medical and military institutions.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/extreme_simulations-logo.webp",
+  "logoFile": "logos/extreme-simulations-logo.webp",
   "websiteUrl": "https://extremesimulations.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "extreme-simulations",
+  "linkedinNum": 65495634,
   "crunchbaseId": null,
+  "ivcId": "A1000000224842",
   "finderId": "xtreme-simulation",
   "xId": "ExtremeSimulat1",
+  "facebookId": "extremesimulations",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ליפסקי לואי",
       "houseNumber": 16,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.089730362170556,
       "lon": 34.78797700421083
     }
   ],
   "isMultinational": false,
-  "facebookId": "extremesimulations"
+  "isActive": true
 }

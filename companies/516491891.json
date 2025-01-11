@@ -6,21 +6,26 @@
   "logoFile": "logos/selina_operation_capsule-logo.webp",
   "websiteUrl": "https://www.selina.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "selina",
+  "linkedinNum": 5157123,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "selina",
   "xId": null,
+  "facebookId": "selinathenomad",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האחים מסלאויטה",
       "houseNumber": 12,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.067373,
       "lon": 34.790942
     }
   ],
-  "isMultinational": true,
-  "facebookId": "selinathenomad",
-  "linkedinNum": 5157123
+  "isMultinational": false,
+  "isActive": true
 }

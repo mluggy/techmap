@@ -6,11 +6,17 @@
   "logoFile": "logos/rfisee-logo.webp",
   "websiteUrl": "https://rfisee.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rfisee",
+  "linkedinNum": 18498096,
   "crunchbaseId": null,
+  "ivcId": "A1000000010713",
   "finderId": "rfisee",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18498096
+  "isActive": true
 }

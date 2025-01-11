@@ -6,20 +6,26 @@
   "logoFile": "logos/harness_technologies_israel-logo.webp",
   "websiteUrl": "https://www.harness.io/",
   "careersUrl": "https://www.harness.io/company/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 18249313,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "harness",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוזן פנחס",
       "houseNumber": 72,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1147382,
       "lon": 34.825767
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 18249313
+  "isMultinational": false,
+  "isActive": true
 }

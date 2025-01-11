@@ -6,21 +6,26 @@
   "logoFile": "logos/blazemeter-logo.webp",
   "websiteUrl": "https://www.blazemeter.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2364558,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "blazemeter",
   "xId": "BlazeMeter",
+  "facebookId": "BlazeMeter",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "וייז ג'ורג'",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1067709,
       "lon": 34.804941
     }
   ],
   "isMultinational": false,
-  "facebookId": "BlazeMeter",
-  "linkedinNum": 2364558
+  "isActive": true
 }

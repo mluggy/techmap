@@ -6,20 +6,26 @@
   "logoFile": "logos/qbiqai-logo.webp",
   "websiteUrl": "https://qbiq.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "qbiq-ai",
+  "linkedinNum": 18956664,
   "crunchbaseId": null,
+  "ivcId": "A1000000292802",
   "finderId": "qbiq",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 144,
-      "city": "תל אביב - יפו",
-      "lat": 32.07734524999999,
-      "lon": 34.79332549438699
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18956664
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/workito-logo.webp",
   "websiteUrl": "https://www.workito.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "workito",
+  "linkedinNum": 12580810,
   "crunchbaseId": null,
+  "ivcId": "A1000000335891",
   "finderId": "workito",
   "xId": null,
+  "facebookId": "workitoapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוקן",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.051553,
-      "lon": 34.771982
+      "city": "תל אביב-יפו",
+      "lat": 32.0509009,
+      "lon": 34.7715214
     }
   ],
   "isMultinational": false,
-  "facebookId": "workitoapp",
-  "linkedinNum": 12580810
+  "isActive": true
 }

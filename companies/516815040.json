@@ -1,16 +1,22 @@
 {
   "name": "Lumi Networks",
-  "description": "Lumi offers engaging, AI-enabled online programs guided by Innovation Facilitators, empowering participants to develop tech solutions for global and business challenges.",
-  "categoryId": 1,
+  "description": "Lumi Networks helps law enforcement and other government agencies reveal digital criminals, regardless of the tools they are using to cover their tracks.",
+  "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/lumi_networks-logo.webp",
-  "websiteUrl": "https://www.lumi.network/",
+  "logoFile": "logos/lumi-networks-logo.webp",
+  "websiteUrl": "https://lumi-networks.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lumi-network",
+  "linkedinNum": 74798208,
   "crunchbaseId": null,
+  "ivcId": "A1000000461358",
   "finderId": "lumi-networks",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ספיר",
@@ -19,5 +25,7 @@
       "lat": 32.1641016,
       "lon": 34.8117212
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

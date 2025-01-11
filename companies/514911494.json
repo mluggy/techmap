@@ -6,11 +6,17 @@
   "logoFile": "logos/octopus_systems-logo.webp",
   "websiteUrl": "https://www.octopus-app.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "octopus---psim",
+  "linkedinNum": 10241912,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "octopus",
   "xId": "app_octopus",
+  "facebookId": "octopusPSIM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": "octopus",
   "addresses": [
     {
       "street": "בן גוריון דוד",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "octopusPSIM",
-  "linkedinNum": 10241912,
-  "leverId": "octopus"
+  "isActive": true
 }

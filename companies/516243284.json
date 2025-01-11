@@ -6,21 +6,26 @@
   "logoFile": "logos/mia_dynamics-logo.webp",
   "websiteUrl": "https://www.miadynamics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 72039340,
   "crunchbaseId": null,
+  "ivcId": "A1000000366724",
   "finderId": "mia-dynamics",
   "xId": null,
+  "facebookId": "Mia-Dynamics-100797038695799",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "street": "ולטר מוזס",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0674817,
+      "lon": 34.7946844
     }
   ],
   "isMultinational": false,
-  "facebookId": "Mia-Dynamics-100797038695799",
-  "linkedinNum": 72039340
+  "isActive": true
 }

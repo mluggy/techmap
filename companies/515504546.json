@@ -6,21 +6,26 @@
   "logoFile": "logos/swathly_ltd-logo.webp",
   "websiteUrl": "https://www.swathly.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "swathly",
+  "linkedinNum": 10655797,
   "crunchbaseId": null,
+  "ivcId": "A1000000225356",
   "finderId": "swathly",
   "xId": "SwathlyBigdata",
+  "facebookId": "swathly",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רום יעל",
-      "houseNumber": 9,
-      "city": "פתח תקווה",
-      "lat": 32.1001812,
-      "lon": 34.881173655832924
+      "street": "הברזל",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.1093129,
+      "lon": 34.8405444
     }
   ],
   "isMultinational": false,
-  "facebookId": "swathly",
-  "linkedinNum": 10655797
+  "isActive": true
 }

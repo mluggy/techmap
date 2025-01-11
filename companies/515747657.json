@@ -1,0 +1,31 @@
+{
+  "name": "Shinez",
+  "description": "Shinez is a developer of advertising software, designed to assist advertisers and publishers.",
+  "categoryId": 8,
+  "size": "m",
+  "logoFile": "logos/shinez-logo.webp",
+  "websiteUrl": "https://shinez.io",
+  "careersUrl": "http://www.shinez.io/careers",
+  "linkedinId": "shinez-io",
+  "linkedinNum": 18584761,
+  "crunchbaseId": null,
+  "ivcId": "A1000000479843",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שלמה אבן גבירול",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.0750419,
+      "lon": 34.7819586
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

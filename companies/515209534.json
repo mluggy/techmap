@@ -1,0 +1,31 @@
+{
+  "name": "Cooknet",
+  "description": "Cooknet CRM is a web based CRM for food-delivery management linked with cooknet website.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/cooknet-logo.webp",
+  "websiteUrl": "https://cooknet.me",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000190690",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "נצרת",
+      "lat": 32.699635,
+      "lon": 35.303546
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

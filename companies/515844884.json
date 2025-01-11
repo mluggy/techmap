@@ -6,20 +6,26 @@
   "logoFile": "logos/tamar_robotics-logo.webp",
   "websiteUrl": "https://tamarrobotics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tamar-robotics-ltd",
+  "linkedinNum": 19151121,
   "crunchbaseId": null,
+  "ivcId": "A1000000290154",
   "finderId": "tamar-robotics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שביל החוף",
-      "houseNumber": 3,
-      "city": "בוסתן הגליל",
-      "lat": 32.94901661428875,
-      "lon": 35.07534265942054
+      "street": null,
+      "houseNumber": null,
+      "city": "יגור",
+      "lat": 32.741532,
+      "lon": 35.076826
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 19151121
+  "isActive": true
 }

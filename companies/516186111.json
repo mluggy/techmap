@@ -1,0 +1,31 @@
+{
+  "name": "In Case",
+  "description": "In Case is a dedicated application for lawyers and professionals who provide complementary services to lawyers, which enables the creation of collaborations and engagements of various types throughout the country.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/in-case-logo.webp",
+  "websiteUrl": "https://www.incase-app.com",
+  "careersUrl": null,
+  "linkedinId": "in-case-app",
+  "linkedinNum": 68221717,
+  "crunchbaseId": null,
+  "ivcId": "A1000000355399",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

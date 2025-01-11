@@ -6,20 +6,26 @@
   "logoFile": "logos/baibys_fertility-logo.webp",
   "websiteUrl": "https://www.baibys.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "baibys%E2%84%A2-fertility",
+  "linkedinNum": 74928950,
   "crunchbaseId": null,
+  "ivcId": "A1000000339216",
   "finderId": "baibys-fertility",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצלע",
-      "houseNumber": 5,
-      "city": "רמת גן",
-      "lat": 32.0950213,
-      "lon": 34.8201833
+      "street": "הברזל",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.1093129,
+      "lon": 34.8405444
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74928950
+  "isActive": true
 }

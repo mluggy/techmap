@@ -6,21 +6,26 @@
   "logoFile": "logos/poloriz-logo.webp",
   "websiteUrl": "https://www.poloriz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "poloriz",
+  "linkedinNum": 11869844,
   "crunchbaseId": "poloriz",
+  "ivcId": "A1000000275889",
   "finderId": "poloriz",
   "xId": null,
+  "facebookId": "poloriz.ltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הבנים",
-      "houseNumber": 46,
-      "city": "אזור",
-      "lat": 32.0179316,
-      "lon": 34.8119483
+      "street": "שדרות שאול המלך",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0753545,
+      "lon": 34.7825281
     }
   ],
   "isMultinational": false,
-  "facebookId": "poloriz.ltd",
-  "linkedinNum": 11869844
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/bruker_technologies-logo.webp",
   "websiteUrl": "https://www.bruker.com/",
   "careersUrl": "https://www.bruker.com/en/careers.html",
-  "isHiring": true,
   "linkedinId": "bruker-corporation",
+  "linkedinNum": 5174388,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bruker",
   "xId": "bruker",
+  "facebookId": "bruker.corp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המחקר",
@@ -20,7 +26,6 @@
       "lon": 35.2435595
     }
   ],
-  "isMultinational": true,
-  "facebookId": "bruker.corp",
-  "linkedinNum": 5174388
+  "isMultinational": false,
+  "isActive": true
 }

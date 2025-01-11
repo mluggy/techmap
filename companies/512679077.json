@@ -6,21 +6,26 @@
   "logoFile": "logos/geosoft_systems_ltd-logo.webp",
   "websiteUrl": "https://www.geosoft-sys.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "geosoft-systems-ltd",
+  "linkedinNum": 5249959,
   "crunchbaseId": null,
+  "ivcId": "A1000000186851",
   "finderId": "geosoft-systems",
   "xId": "GeosoftSystems",
+  "facebookId": "Geosoft-Systems-Ltd-181347785241792",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד ההסתדרות",
+      "street": "שדרות ההסתדרות",
       "houseNumber": 177,
       "city": "חיפה",
-      "lat": 32.8173444,
-      "lon": 35.0773521
+      "lat": 32.8068576,
+      "lon": 35.0574211
     }
   ],
   "isMultinational": false,
-  "facebookId": "Geosoft-Systems-Ltd-181347785241792",
-  "linkedinNum": 5249959
+  "isActive": true
 }

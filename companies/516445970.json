@@ -6,21 +6,26 @@
   "logoFile": "logos/screenz_live-logo.webp",
   "websiteUrl": "https://www.screenz.live/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "screenz-live",
+  "linkedinNum": 80351878,
   "crunchbaseId": "screenz-live",
+  "ivcId": "A1000000370483",
   "finderId": "screenz-live",
   "xId": null,
+  "facebookId": "screenzlive",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תבואות הארץ",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.111398,
-      "lon": 34.82675
+      "city": "תל אביב-יפו",
+      "lat": 32.11162580000001,
+      "lon": 34.82736240000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "screenzlive",
-  "linkedinNum": 80351878
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "NUVIAD",
-  "description": "Algorithmic Mobile Marketing Solution",
+  "description": "Algorithmic Mobile Marketing Solution.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/nuviad-logo.webp",
   "websiteUrl": "https://www.nuviad.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nuviad",
+  "linkedinNum": 9360430,
   "crunchbaseId": null,
+  "ivcId": "A1000000195609",
   "finderId": "nuviad",
   "xId": "nuviadmobile",
+  "facebookId": "nuviadmobile",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היצירה",
-      "houseNumber": 1,
-      "city": "יקנעם עילית",
-      "lat": 32.6595495,
-      "lon": 35.0982599
+      "street": "הגביש",
+      "houseNumber": 6,
+      "city": "נתניה",
+      "lat": 32.2884307,
+      "lon": 34.8618749
     }
   ],
   "isMultinational": false,
-  "facebookId": "nuviadmobile",
-  "linkedinNum": 9360430
+  "isActive": true
 }

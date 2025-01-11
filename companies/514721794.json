@@ -6,20 +6,26 @@
   "logoFile": "logos/captain_up-logo.webp",
   "websiteUrl": "https://captainup.com/?ref=toole.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "captainup",
+  "linkedinNum": 3170665,
   "crunchbaseId": null,
+  "ivcId": "A1000000022535",
   "finderId": "captain-up",
   "xId": "cptup",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברנדיס",
-      "houseNumber": 33,
-      "city": "תל אביב - יפו",
-      "lat": 32.094281,
-      "lon": 34.787039
+      "street": "אליעזר קפלן",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0732978,
+      "lon": 34.7833946
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3170665
+  "isActive": true
 }

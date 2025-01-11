@@ -6,21 +6,26 @@
   "logoFile": "logos/nutrino_health-logo.webp",
   "websiteUrl": "https://www.nutrinohealth.com/",
   "careersUrl": "https://www.nutrinohealth.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 2329594,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nutrino",
   "xId": "Nutrino",
+  "facebookId": "nutrino.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 58,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.060334,
       "lon": 34.782124
     }
   ],
   "isMultinational": false,
-  "facebookId": "nutrino.co",
-  "linkedinNum": 2329594
+  "isActive": true
 }

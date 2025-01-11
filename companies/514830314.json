@@ -6,21 +6,26 @@
   "logoFile": "logos/mobileodt-logo.webp",
   "websiteUrl": "https://www.mobileodt.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mobileodt",
+  "linkedinNum": 2817437,
   "crunchbaseId": null,
+  "ivcId": "A1000000021614",
   "finderId": "mobileodt",
   "xId": "mobileodt",
+  "facebookId": "MobileODT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן אביגדור",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.067242,
-      "lon": 34.788291
+      "city": "תל אביב-יפו",
+      "lat": 32.0673086,
+      "lon": 34.7881197
     }
   ],
   "isMultinational": false,
-  "facebookId": "MobileODT",
-  "linkedinNum": 2817437
+  "isActive": true
 }

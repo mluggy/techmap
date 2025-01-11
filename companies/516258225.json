@@ -6,20 +6,26 @@
   "logoFile": "logos/velotix-logo.webp",
   "websiteUrl": "https://www.velotix.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "velotix",
+  "linkedinNum": 72393853,
   "crunchbaseId": "velotix",
+  "ivcId": "A1000000356690",
   "finderId": "velotix",
   "xId": "velotixai",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
-      "houseNumber": 14,
-      "city": "רמת גן",
-      "lat": 32.0838947,
-      "lon": 34.79965
+      "street": "מנחם בגין",
+      "houseNumber": 7,
+      "city": "בני ברק",
+      "lat": 32.092876,
+      "lon": 34.827268
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72393853
+  "isActive": true
 }

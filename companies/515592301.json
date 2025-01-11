@@ -6,20 +6,26 @@
   "logoFile": "logos/seamless_vision_2017-logo.webp",
   "websiteUrl": "https://www.seamless-vision.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "seamlessvision",
+  "linkedinNum": 14064448,
   "crunchbaseId": null,
+  "ivcId": "A1000000285457",
   "finderId": "seamless-vision",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארלוזורוב",
       "houseNumber": 54,
-      "city": "תל אביב - יפו",
-      "lat": 32.086397,
-      "lon": 34.77652
+      "city": "תל אביב-יפו",
+      "lat": 32.08643410000001,
+      "lon": 34.776495
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14064448
+  "isActive": true
 }

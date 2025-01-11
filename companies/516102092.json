@@ -1,25 +1,31 @@
 {
   "name": "LiteBC",
-  "description": "Noninvasive Blood Count Analyzer",
+  "description": "Noninvasive Blood Count Analyzer.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/litebc-logo.webp",
   "websiteUrl": "https://www.litebc.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "litebc",
+  "linkedinNum": 75042724,
   "crunchbaseId": "litebc-ltd",
+  "ivcId": "A1000000319103",
   "finderId": "litebc-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 2,
-      "city": "יקנעם עילית",
-      "lat": 32.6611393,
-      "lon": 35.1063611
+      "city": "יוקנעם עילית",
+      "lat": 32.6611693,
+      "lon": 35.1062117
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75042724
+  "isActive": true
 }

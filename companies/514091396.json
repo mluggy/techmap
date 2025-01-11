@@ -6,11 +6,17 @@
   "logoFile": "logos/ivri_goren_management_services-logo.webp",
   "websiteUrl": "https://www.ivri.nic.in/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ivri",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפיקוס",
@@ -19,5 +25,7 @@
       "lat": 32.24090884346509,
       "lon": 34.91365154491249
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

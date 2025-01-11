@@ -6,21 +6,26 @@
   "logoFile": "logos/obscure_games-logo.webp",
   "websiteUrl": "https://www.obscuregames.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "obscure-games",
+  "linkedinNum": 27238265,
   "crunchbaseId": null,
+  "ivcId": "A1000000310234",
   "finderId": "obscure-games",
   "xId": null,
+  "facebookId": "obscuregames",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
+      "street": "שלמה אבן גבירול",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.075175,
-      "lon": 34.78205
+      "city": "תל אביב-יפו",
+      "lat": 32.0750419,
+      "lon": 34.7819586
     }
   ],
   "isMultinational": false,
-  "facebookId": "obscuregames",
-  "linkedinNum": 27238265
+  "isActive": true
 }

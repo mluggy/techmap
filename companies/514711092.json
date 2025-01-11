@@ -6,11 +6,17 @@
   "logoFile": "logos/datum_dental-logo.webp",
   "websiteUrl": "https://translate.google.co.uk/",
   "careersUrl": "https://www.datumdental.com/en/company/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "datum-dental-ltd-datum-biotech-s-subsidiary",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הירקון",
@@ -19,5 +25,7 @@
       "lat": 31.8993238,
       "lon": 34.7403121
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

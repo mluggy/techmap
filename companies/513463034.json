@@ -1,18 +1,31 @@
 {
   "name": "VERTO",
-  "description": "Product Imaging for Online Retailers",
+  "description": "Product Imaging for Online Retailers.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/verto-logo.webp",
   "websiteUrl": "https://verto.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vertofx",
+  "linkedinNum": 11773001,
   "crunchbaseId": null,
+  "ivcId": "A1000000336284",
   "finderId": "verto",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "verto3d",
-  "linkedinNum": 11773001
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/zenity-logo.webp",
   "websiteUrl": "https://www.zenity.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "zenitysec",
+  "linkedinNum": 71272776,
   "crunchbaseId": null,
+  "ivcId": "A1000000366249",
   "finderId": "zenity",
   "xId": "zenitysec",
+  "facebookId": "zenitysec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דובנוב",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.0750294,
-      "lon": 34.7838325
+      "city": "תל אביב-יפו",
+      "lat": 32.0749514,
+      "lon": 34.7838708
     }
   ],
   "isMultinational": false,
-  "facebookId": "zenitysec",
-  "linkedinNum": 71272776
+  "isActive": true
 }

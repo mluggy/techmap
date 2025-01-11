@@ -6,21 +6,26 @@
   "logoFile": "logos/appnext_technologies-logo.webp",
   "websiteUrl": "https://www.appnext.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "appnext",
+  "linkedinNum": 2651924,
   "crunchbaseId": "appnext",
+  "ivcId": null,
   "finderId": "appnext",
   "xId": "appnext_updates",
+  "facebookId": "Appnext",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "Appnext",
-  "linkedinNum": 2651924
+  "isActive": true
 }

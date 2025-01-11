@@ -1,0 +1,31 @@
+{
+  "name": "Grappa",
+  "description": "Grappa is a developer of a authenticated digital reputation network, intended to showcase accomplishments and skills.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/grappa-logo.webp",
+  "websiteUrl": "https://www.grappa.xyz",
+  "careersUrl": null,
+  "linkedinId": "grappa-xyz",
+  "linkedinNum": 86732587,
+  "crunchbaseId": null,
+  "ivcId": "A1000000424437",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך מנחם בגין",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0740769,
+      "lon": 34.7922028
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

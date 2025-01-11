@@ -6,21 +6,26 @@
   "logoFile": "logos/trekace_technologies-logo.webp",
   "websiteUrl": "https://www.trekace.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trekace",
+  "linkedinNum": 30225613,
   "crunchbaseId": null,
+  "ivcId": "A1000000204808",
   "finderId": "trekace-technologies",
   "xId": "TrekAceGlobal",
+  "facebookId": "TrekAce",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמק עירון",
-      "houseNumber": 12,
-      "city": "כפר סבא",
-      "lat": 32.1779503,
-      "lon": 34.9352401
+      "street": "ויצמן‬",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0775668,
+      "lon": 34.7891393
     }
   ],
   "isMultinational": false,
-  "facebookId": "TrekAce",
-  "linkedinNum": 30225613
+  "isActive": true
 }

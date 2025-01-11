@@ -6,18 +6,26 @@
   "logoFile": "logos/falkordb-logo.webp",
   "websiteUrl": "https://www.falkordb.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "falkordb",
+  "linkedinNum": 96678593,
   "crunchbaseId": null,
+  "ivcId": "A1000000458297",
   "finderId": "falkordb",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ראש פינה",
-      "houseNumber": 8,
-      "city": "פתח תקווה",
-      "lat": 32.10465,
-      "lon": 34.872969
+      "street": null,
+      "houseNumber": null,
+      "city": "ראש פינה",
+      "lat": 32.9690188,
+      "lon": 35.5428591
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

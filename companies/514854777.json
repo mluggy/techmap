@@ -6,11 +6,17 @@
   "logoFile": "logos/real_capital-logo.webp",
   "websiteUrl": "https://www.joinreal.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5098287,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "real",
   "xId": "joinreal",
+  "facebookId": "realbrokerage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק אלחנן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "realbrokerage",
-  "linkedinNum": 5098287
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/komodor_automation-logo.webp",
   "websiteUrl": "https://komodor.com/",
   "careersUrl": "https://komodor.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "komodor-ltd",
+  "linkedinNum": 69529378,
   "crunchbaseId": null,
+  "ivcId": "A1000000317307",
   "finderId": "komodor-automation",
   "xId": "Komodor_com",
+  "facebookId": "KomodorTroubleshooting",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 82,
-      "city": "תל אביב - יפו",
-      "lat": 32.066186,
-      "lon": 34.792954
+      "street": "עליית הנוער",
+      "houseNumber": 16,
+      "city": "תל אביב-יפו",
+      "lat": 32.0763475,
+      "lon": 34.8018636
     }
   ],
   "isMultinational": false,
-  "facebookId": "KomodorTroubleshooting",
-  "linkedinNum": 69529378
+  "isActive": true
 }

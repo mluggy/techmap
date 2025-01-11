@@ -3,16 +3,29 @@
   "description": "A global leader in life science research and clinical diagnostics is offering student workstations to the first 30 U.S. registrants from the Out of the Blue CRISPR Kit.",
   "categoryId": 12,
   "size": "xl",
-  "logoFile": "logos/bio_rad_laboratories-logo.webp",
+  "logoFile": "logos/bio-rad-laboratories-logo.webp",
   "websiteUrl": "https://www.bio-rad.com/",
   "careersUrl": "https://www.bio-rad.com/en-in/corporate/careers?ID=1004",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "bio-rad",
+  "linkedinNum": 1613226,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bio-rad-laboratories",
   "xId": "biorad",
-  "addresses": [],
-  "isMultinational": true,
   "facebookId": "biorad",
-  "linkedinNum": 1613226
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חומה",
+      "houseNumber": 14,
+      "city": "ראשון לציון",
+      "lat": 31.99246061571507,
+      "lon": 34.77200194002573
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

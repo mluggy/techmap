@@ -1,16 +1,22 @@
 {
   "name": "English Adventure",
-  "description": "English-learning Programs for Young Learners",
-  "categoryId": 14,
+  "description": "English Adventure is a leading provider of comprehensive EFL programs for young learners around the world, combining rich content with proven academic methodology to produce EFL programs which are both groundbreaking and highly effective.",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/english_adventure_ltd-logo.webp",
-  "websiteUrl": "https://www.englishadventure.com",
+  "websiteUrl": "http://www.eadventure.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "english-adventure-ltd.",
+  "linkedinNum": 7969517,
   "crunchbaseId": null,
+  "ivcId": "A1000000022252",
   "finderId": "english-adventure",
   "xId": null,
+  "facebookId": "EngAdven",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "EngAdven",
-  "linkedinNum": 7969517
+  "isActive": true
 }

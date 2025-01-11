@@ -1,16 +1,22 @@
 {
   "name": "UNFO Med",
-  "description": "Neonatal Foot Orthotics",
+  "description": "Neonatal Foot Orthotics.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/unfo_med-logo.webp",
   "websiteUrl": "https://www.unfo-med.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "unfo-med-ltd",
+  "linkedinNum": 18357876,
   "crunchbaseId": null,
+  "ivcId": "A1000000024949",
   "finderId": "unfo-med",
   "xId": null,
+  "facebookId": "UNFOMed",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ויצמן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "UNFOMed",
-  "linkedinNum": 18357876
+  "isActive": true
 }

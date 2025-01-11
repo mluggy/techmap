@@ -6,11 +6,17 @@
   "logoFile": "logos/team_cymru_israel-logo.webp",
   "websiteUrl": "https://www.team-cymru.com/",
   "careersUrl": "https://www.team-cymru.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 3231546,
   "crunchbaseId": "team-cymru",
+  "ivcId": null,
   "finderId": "cymru",
   "xId": "teamcymru",
+  "facebookId": "teamcymru",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -20,7 +26,6 @@
       "lon": 34.8042074
     }
   ],
-  "isMultinational": true,
-  "facebookId": "teamcymru",
-  "linkedinNum": 3231546
+  "isMultinational": false,
+  "isActive": true
 }

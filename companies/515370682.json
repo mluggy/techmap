@@ -6,21 +6,26 @@
   "logoFile": "logos/gamoshi-logo.webp",
   "websiteUrl": "https://www.gamoshi.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gamoshi",
+  "linkedinNum": 10435056,
   "crunchbaseId": null,
+  "ivcId": "A1000000208134",
   "finderId": "gamoshi",
   "xId": "gamoshi_inc",
+  "facebookId": "gamoshi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רפפורט",
-      "houseNumber": 3,
+      "street": "עתיר ידע",
+      "houseNumber": 1,
       "city": "כפר סבא",
-      "lat": 32.1920641,
-      "lon": 34.8913155
+      "lat": 32.1674227,
+      "lon": 34.9285291
     }
   ],
   "isMultinational": false,
-  "facebookId": "gamoshi",
-  "linkedinNum": 10435056
+  "isActive": true
 }

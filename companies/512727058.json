@@ -6,11 +6,17 @@
   "logoFile": "logos/zooz_n_dance_ltd-logo.webp",
   "websiteUrl": "https://www.zooz.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "payuenterprise",
+  "linkedinNum": 2371919,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zooz",
   "xId": "ZooZpayments",
+  "facebookId": "ZooZpayments",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לב העיר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZooZpayments",
-  "linkedinNum": 2371919
+  "isActive": true
 }

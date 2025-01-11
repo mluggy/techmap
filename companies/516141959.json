@@ -6,21 +6,26 @@
   "logoFile": "logos/renbizz_tech-logo.webp",
   "websiteUrl": "https://www.renbizz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "renbizz",
+  "linkedinNum": 74493953,
   "crunchbaseId": "renbizz",
+  "ivcId": null,
   "finderId": "renbizz",
   "xId": null,
+  "facebookId": "Renbizz-103248412099580",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרויאנוב",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.077144,
       "lon": 34.770985
     }
   ],
   "isMultinational": false,
-  "facebookId": "Renbizz-103248412099580",
-  "linkedinNum": 74493953
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/phoebus_energy-logo.webp",
   "websiteUrl": "https://www.phoebus-energy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "phoebus-energy",
+  "linkedinNum": 10343546,
   "crunchbaseId": "phoebus-energy",
+  "ivcId": "A1000000008434",
   "finderId": "phoebus-energy",
   "xId": null,
+  "facebookId": "phoebus.energy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפלך",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.050538,
-      "lon": 34.766862
+      "city": "תל אביב-יפו",
+      "lat": 32.0503025,
+      "lon": 34.7666856
     }
   ],
   "isMultinational": false,
-  "facebookId": "phoebus.energy",
-  "linkedinNum": 10343546
+  "isActive": true
 }

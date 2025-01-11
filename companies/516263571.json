@@ -6,21 +6,26 @@
   "logoFile": "logos/briya_labs-logo.webp",
   "websiteUrl": "https://briya.com/",
   "careersUrl": "https://www.linkedin.com/company/briyahealth/jobs/",
-  "isHiring": true,
   "linkedinId": "briyahealth",
+  "linkedinNum": 79982772,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bria-interoperability",
   "xId": "BriyaHealth",
+  "facebookId": "briya.health",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שאול המלך",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0777064,
       "lon": 34.78983779282785
     }
   ],
   "isMultinational": false,
-  "facebookId": "briya.health",
-  "linkedinNum": 79982772
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Weather It Is",
-  "description": "Weather Forecasting for a Resilient Future",
+  "description": "Weather Forecasting for a Resilient Future.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/weather_it_is-logo.webp",
   "websiteUrl": "https://www.weather-it-is.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "weather-it-is",
+  "linkedinNum": 73418771,
   "crunchbaseId": null,
+  "ivcId": "A1000000389077",
   "finderId": "weather-it-is",
   "xId": null,
+  "facebookId": "WeatherItIs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן ציון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WeatherItIs",
-  "linkedinNum": 73418771
+  "isActive": true
 }

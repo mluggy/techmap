@@ -1,24 +1,31 @@
 {
   "name": "Exegiline Pharma",
-  "description": "Multifactorial Treatment of Alzheimer's Disease",
+  "description": "Multifactorial Treatment of Alzheimer's Disease.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/exegiline_pharma-logo.webp",
+  "logoFile": "logos/exegiline-pharma-logo.webp",
   "websiteUrl": "https://www.exegiline.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "exegiline",
+  "linkedinNum": 77315334,
   "crunchbaseId": "exegiline",
+  "ivcId": "A1000000344205",
   "finderId": "exegiline",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכרמל",
+      "street": "כרמל",
       "houseNumber": 6,
-      "city": "קריית טבעון",
-      "lat": 32.7150024,
-      "lon": 35.1179578
+      "city": "קרית טבעון",
+      "lat": 32.7128828,
+      "lon": 35.11950119999999
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

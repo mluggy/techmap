@@ -6,21 +6,26 @@
   "logoFile": "logos/coverr_platform-logo.webp",
   "websiteUrl": "https://coverr.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18119218,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "coverr",
   "xId": "coverrco",
+  "facebookId": "coverrco",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד' בן ציון",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072423,
       "lon": 34.777883
     }
   ],
   "isMultinational": false,
-  "facebookId": "coverrco",
-  "linkedinNum": 18119218
+  "isActive": true
 }

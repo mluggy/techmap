@@ -6,11 +6,17 @@
   "logoFile": "logos/replantin-logo.webp",
   "websiteUrl": "https://replantin.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "replantin",
+  "linkedinNum": 88642988,
   "crunchbaseId": null,
+  "ivcId": "A1000000439404",
   "finderId": "replantin",
   "xId": null,
+  "facebookId": "100086147884169",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הלוי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "100086147884169",
-  "linkedinNum": 88642988
+  "isActive": true
 }

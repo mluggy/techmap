@@ -6,11 +6,17 @@
   "logoFile": "logos/ichannel_io-logo.webp",
   "websiteUrl": "https://www.evrideo.com/",
   "careersUrl": "https://www.evrideo.com/careers",
-  "isHiring": true,
   "linkedinId": "evrideo-playout",
+  "linkedinNum": 17911725,
   "crunchbaseId": "ichannel-io",
+  "ivcId": null,
   "finderId": "ichannel",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17911725
+  "isActive": true
 }

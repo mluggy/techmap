@@ -6,11 +6,17 @@
   "logoFile": "logos/to_be_education-logo.webp",
   "websiteUrl": "https://www.boldapproach.org/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "to-be-education",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד ויצמן",
@@ -19,5 +25,7 @@
       "lat": 32.1467467,
       "lon": 34.8363336
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

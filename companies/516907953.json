@@ -1,23 +1,31 @@
 {
   "name": "Talma Medical Diagnostics",
-  "description": "A device that diagnoses acute middle ear infections using EEG technology.",
+  "description": "OtiSence develops an innovative technology for accurate clinical diagnostic at home. The company's device is easy to use and accurate device that will improve way AOM is diagnosed.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/talma_medical_diagnostics-logo.webp",
-  "websiteUrl": "https://telmamedical.com.au/",
+  "websiteUrl": "http://otisense.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000464578",
   "finderId": "talma-medical-diagnostics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קויפמן יחזקאל",
+      "street": "פרופסור יחזקאל קויפמן",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.063117,
-      "lon": 34.762003
+      "city": "תל אביב-יפו",
+      "lat": 32.0630953,
+      "lon": 34.7622538
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

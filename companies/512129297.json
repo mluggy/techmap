@@ -1,0 +1,31 @@
+{
+  "name": "Margaliot",
+  "description": "Margaliot  is a leading soil fumigation company.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/margaliot-logo.webp",
+  "websiteUrl": "http://margaliot.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000185961",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אריה רגב",
+      "houseNumber": null,
+      "city": "נתניה",
+      "lat": 32.2811851,
+      "lon": 34.8630052
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

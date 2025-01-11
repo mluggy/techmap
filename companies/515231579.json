@@ -1,26 +1,31 @@
 {
   "name": "Solomoto",
-  "description": "SaaS Platform for SMBs",
+  "description": "SaaS Platform for SMBs.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/solomoto_il-logo.webp",
   "websiteUrl": "https://www.solomoto.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3691792,
   "crunchbaseId": null,
+  "ivcId": "A1000000194101",
   "finderId": "solomoto",
   "xId": "SolomotoGlobal",
+  "facebookId": "solomotoglobal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך האגמים",
-      "houseNumber": 4,
-      "city": "גני תקווה",
-      "lat": 32.0630352,
-      "lon": 34.869824
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "solomotoglobal",
-  "linkedinNum": 3691792
+  "isActive": true
 }

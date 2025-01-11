@@ -6,21 +6,26 @@
   "logoFile": "logos/melio-logo.webp",
   "websiteUrl": "https://meliopayments.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "meliopayments",
+  "linkedinNum": 18696467,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "melio",
   "xId": "MelioPayments",
+  "facebookId": "meliopayments",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.070693,
       "lon": 34.785176
     }
   ],
   "isMultinational": false,
-  "facebookId": "meliopayments",
-  "linkedinNum": 18696467
+  "isActive": true
 }

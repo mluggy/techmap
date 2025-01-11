@@ -1,26 +1,31 @@
 {
   "name": "BlazePod",
-  "description": "Interactive Fitness Training via Mobile Device",
-  "categoryId": 8,
+  "description": "BlazePod is a Flash-Reflex training system.",
+  "categoryId": 18,
   "size": "s",
   "logoFile": "logos/blazepod_israel-logo.webp",
-  "websiteUrl": "https://blazepod.co.il/",
+  "websiteUrl": "https://blazepod.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "blazepod",
+  "linkedinNum": 17978803,
   "crunchbaseId": null,
+  "ivcId": "A1000000187372",
   "finderId": "play-coyotta1",
   "xId": null,
+  "facebookId": "blazepodIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רימון",
-      "houseNumber": 13,
-      "city": "בני דרור",
-      "lat": 32.2642704,
-      "lon": 34.9002023
+      "street": "לילינבלום",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.0621447,
+      "lon": 34.7708148
     }
   ],
   "isMultinational": false,
-  "facebookId": "blazepodIsrael",
-  "linkedinNum": 17978803
+  "isActive": true
 }

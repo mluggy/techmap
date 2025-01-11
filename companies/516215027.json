@@ -1,0 +1,31 @@
+{
+  "name": "Aysko",
+  "description": "Aysko is a smart and affordable solution for all the users' business management needs to be built to facilitate small business owners.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/aysko-logo.webp",
+  "websiteUrl": "https://www.aysko.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000424649",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ארלוזורוב",
+      "houseNumber": 8,
+      "city": "חיפה",
+      "lat": 32.8067455,
+      "lon": 35.0005992
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

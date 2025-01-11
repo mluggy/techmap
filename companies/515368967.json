@@ -1,25 +1,31 @@
 {
   "name": "PolyGreen",
-  "description": "Superabsorbent Polymer Technology for Reduction of Disposable Diaper Waste",
+  "description": "Superabsorbent Polymer Technology for Reduction of Disposable Diaper Waste.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/polygreen-logo.webp",
   "websiteUrl": "https://www.polygreen-group.com",
   "careersUrl": "https://www.polygreen.eco/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "polygreen",
+  "linkedinNum": 51623569,
   "crunchbaseId": null,
+  "ivcId": "A1000000299907",
   "finderId": "polygreen",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גרונר דב",
-      "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.125854,
-      "lon": 34.806836
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 51623569
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/neurotrigger-logo.webp",
   "websiteUrl": "https://www.nt-med.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "neurotrigger",
+  "linkedinNum": 69221549,
   "crunchbaseId": null,
+  "ivcId": "A1000000297296",
   "finderId": "neurotrigger",
   "xId": null,
+  "facebookId": "neuro.trigger.7",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השיזף",
-      "houseNumber": 4,
-      "city": "רעננה",
-      "lat": 32.1919424,
-      "lon": 34.8855377
+      "street": "נירים",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0626972,
+      "lon": 34.7905643
     }
   ],
   "isMultinational": false,
-  "facebookId": "neuro.trigger.7",
-  "linkedinNum": 69221549
+  "isActive": true
 }

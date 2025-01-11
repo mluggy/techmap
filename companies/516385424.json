@@ -6,19 +6,26 @@
   "logoFile": "logos/space_plasmatics-logo.webp",
   "websiteUrl": "https://space-plasmatics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000373074",
   "finderId": "space-plasmatics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך הים",
-      "houseNumber": 24,
-      "city": "חיפה",
-      "lat": 32.8075576,
-      "lon": 34.9793019
+      "street": "ווג'ווד",
+      "houseNumber": 8,
+      "city": "נורדיה",
+      "lat": 32.3145348,
+      "lon": 34.896483
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

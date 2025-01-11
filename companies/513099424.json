@@ -1,29 +1,31 @@
 {
-    "name": "Final",
-    "description": "Since 2001, Final has taken a leading role in algorithmic trading, pioneering and championing High Frequency Trading based on math, physics, and advanced computer science",
-    "categoryId": 10,
-    "size": "l",
-    "logoFile": "logos/final-logo.webp",
-    "websiteUrl": "https://www.final.co.il/",
-    "careersUrl": "https://www.final.co.il/career/",
-    "linkedinId": "finalisrael",
-    "linkedinNum": 31518153,
-    "crunchbaseId": null,
-    "finderId": null,
-    "xId": null,
-    "facebookId": null,
-    "addresses": [
-        {
-            "street": "יד חרוצים",
-            "houseNumber": "7",
-            "city": "הרצליה",
-            "lat": 32.16330116790854,
-            "lon": 34.8091436592438
-        }
-    ],
-    "comeetId": "final/C0.009",
-    "greenhouseId": null,
-    "breezyId": null,
-    "leverId": null,
-    "isMultinational": false
+  "name": "Final",
+  "description": "Since 2001, Final has taken a leading role in algorithmic trading, pioneering and championing High Frequency Trading based on math, physics, and advanced computer science.",
+  "categoryId": 10,
+  "size": "l",
+  "logoFile": "logos/final-logo.webp",
+  "websiteUrl": "https://www.final.co.il/",
+  "careersUrl": "https://www.final.co.il/career/",
+  "linkedinId": "finalisrael",
+  "linkedinNum": 31518153,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004103",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "final/C0.009",
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": "7",
+      "city": "הרצליה",
+      "lat": 32.16330116790854,
+      "lon": 34.8091436592438
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

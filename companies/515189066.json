@@ -6,21 +6,26 @@
   "logoFile": "logos/facetrom-logo.webp",
   "websiteUrl": "https://www.facetrom.com/",
   "careersUrl": "https://www.facetrom.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "facetrom",
+  "linkedinNum": 18537457,
   "crunchbaseId": null,
+  "ivcId": "A1000000188143",
   "finderId": "facetrom",
   "xId": null,
+  "facebookId": "facetrom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לבונטין",
-      "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.0616467,
-      "lon": 34.7747429
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "facebookId": "facetrom",
-  "linkedinNum": 18537457
+  "isActive": true
 }

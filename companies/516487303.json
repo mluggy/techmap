@@ -6,20 +6,26 @@
   "logoFile": "logos/entor_software-logo.webp",
   "websiteUrl": "https://www.entor.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "entor",
+  "linkedinNum": 76242106,
   "crunchbaseId": "entor-fcc9",
+  "ivcId": null,
   "finderId": "entor",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אד\"ם הכהן",
       "houseNumber": 16,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.084887,
       "lon": 34.777334
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76242106
+  "isActive": true
 }

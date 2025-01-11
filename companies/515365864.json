@@ -6,21 +6,26 @@
   "logoFile": "logos/pilltracker_2015-logo.webp",
   "websiteUrl": "https://www.pilltracker.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pilltrackerltd",
+  "linkedinNum": 10967337,
   "crunchbaseId": "pilltracker-ltd",
+  "ivcId": "A1000000236756",
   "finderId": "pilltracker",
   "xId": "Pilltracker",
+  "facebookId": "PillTrackerLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפלך",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.050538,
-      "lon": 34.766862
+      "city": "תל אביב-יפו",
+      "lat": 32.0503025,
+      "lon": 34.7666856
     }
   ],
   "isMultinational": false,
-  "facebookId": "PillTrackerLtd",
-  "linkedinNum": 10967337
+  "isActive": true
 }

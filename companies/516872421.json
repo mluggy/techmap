@@ -1,0 +1,31 @@
+{
+  "name": "Novolight",
+  "description": "NovoLight offers a solution for the effectiveness of conventional treatments, such as oral medications.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/novolight-logo.webp",
+  "websiteUrl": "https://www.novolightdx.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485706",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אליהו בית צורי",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.1228461,
+      "lon": 34.799246
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

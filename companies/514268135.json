@@ -1,0 +1,31 @@
+{
+  "name": "SafeWay",
+  "description": "Safeway is an integration company in Israel in the field of information and cybersecurity.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/safeway-logo.webp",
+  "websiteUrl": "http://www.safeway.co.il",
+  "careersUrl": null,
+  "linkedinId": "safeway-security-solutions",
+  "linkedinNum": 35077543,
+  "crunchbaseId": null,
+  "ivcId": "A1000000020347",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 13,
+      "city": "ראש העין",
+      "lat": 32.10603860000001,
+      "lon": 34.9688448
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

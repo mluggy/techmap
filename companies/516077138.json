@@ -6,21 +6,26 @@
   "logoFile": "logos/memotree-logo.webp",
   "websiteUrl": "https://www.memotree.info/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "btr-rest",
+  "linkedinNum": 18626055,
   "crunchbaseId": null,
+  "ivcId": "A1000000298723",
   "finderId": "memotree",
   "xId": null,
+  "facebookId": "memotree8",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תרשיש",
       "houseNumber": 2,
-      "city": "קריית שמונה",
-      "lat": 33.1957972,
-      "lon": 35.5757431
+      "city": "קרית שמונה",
+      "lat": 33.1960806,
+      "lon": 35.5746864
     }
   ],
   "isMultinational": false,
-  "facebookId": "memotree8",
-  "linkedinNum": 18626055
+  "isActive": true
 }

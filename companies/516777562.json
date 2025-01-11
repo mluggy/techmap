@@ -1,25 +1,31 @@
 {
   "name": "Deeb",
-  "description": "Flexible Employment Solutions",
+  "description": "Flexible Employment Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/deeb.webp",
   "websiteUrl": "https://deebapp.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "deeb",
   "linkedinNum": 77312323,
   "crunchbaseId": null,
+  "ivcId": "A1000000370108",
   "finderId": "deeb",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד הציונות",
-      "houseNumber": 48,
-      "city": "חיפה",
-      "lat": 32.81276074830482,
-      "lon": 34.99118971589739
+      "street": "בית הלל",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0694459,
+      "lon": 34.7892937
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

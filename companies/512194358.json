@@ -6,13 +6,17 @@
   "logoFile": "logos/helios-1.webp",
   "websiteUrl": "https://gethelios.dev/",
   "careersUrl": "https://snyk.io/careers/",
-  "isHiring": false,
   "linkedinId": "helios-dev",
   "linkedinNum": 76638405,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "helios-1",
   "xId": "GetHelios",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התע\"ש",
@@ -22,5 +26,6 @@
       "lon": 34.927524524362425
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,17 +1,22 @@
 {
   "name": "factoRee",
-  "description": "Emissions Management Solution for Manufacturers",
+  "description": "Emissions Management Solution for Manufacturers.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/factoree.webp",
   "websiteUrl": "https://www.factoree.ai",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 80501253,
   "crunchbaseId": null,
+  "ivcId": "A1000000390847",
   "finderId": "factoree",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הירח",
@@ -21,5 +26,6 @@
       "lon": 35.081117098917765
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

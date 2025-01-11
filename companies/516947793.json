@@ -1,0 +1,31 @@
+{
+  "name": "Brakxi",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/brakxi-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000492683",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "Ha-Tsmikha Street",
+      "houseNumber": 1,
+      "city": "Yokne'am Illit",
+      "lat": 32.6687576,
+      "lon": 35.1075282
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

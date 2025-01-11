@@ -1,25 +1,31 @@
 {
   "name": "BillRun Technologies",
-  "description": "An open-source Telecom BSS platform offering transparency, reduced complexity, and lower OPEX costs without vendor lock-in, benefiting from community-driven solutions.",
-  "categoryId": 18,
+  "description": "BillRun provides a revolutionary Open Source BSS (Business Support Systems)   solution, intended for companies of all sizes, including Telcos, MVNOs, IoT companies, and the enterprise sector in general.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/billrun_technologies-logo.webp",
-  "websiteUrl": "https://bill.run/",
+  "websiteUrl": "https://billrun.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "billrun-ltd.",
+  "linkedinNum": 10518310,
   "crunchbaseId": null,
+  "ivcId": "A1000000185455",
   "finderId": "billrun",
   "xId": "billrun_billing",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לנדאו חיים",
-      "houseNumber": 16,
-      "city": "בני ברק",
-      "lat": 32.0932043,
-      "lon": 34.8420365
+      "street": "דרך השלום",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.0721997,
+      "lon": 34.796344
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10518310
+  "isActive": true
 }

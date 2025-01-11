@@ -6,21 +6,26 @@
   "logoFile": "logos/honeybook-logo.webp",
   "websiteUrl": "https://www.honeybook.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "honeybook",
+  "linkedinNum": 2527444,
   "crunchbaseId": null,
+  "ivcId": "A1000000000010",
   "finderId": "honeybook",
   "xId": "honeybook",
+  "facebookId": "honeybook.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.075175,
-      "lon": 34.78205
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "honeybook.co",
-  "linkedinNum": 2527444
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Jedify",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/jedify-logo.webp",
+  "websiteUrl": "https://jedify.com",
+  "careersUrl": null,
+  "linkedinId": "jedify-com",
+  "linkedinNum": 94090727,
+  "crunchbaseId": null,
+  "ivcId": "A1000000465155",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שלמה המלך",
+      "houseNumber": 93,
+      "city": "תל אביב-יפו",
+      "lat": 32.0845088,
+      "lon": 34.7785936
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

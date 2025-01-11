@@ -6,11 +6,17 @@
   "logoFile": "logos/perigen_solutions-logo.webp",
   "websiteUrl": "https://perigen.com/",
   "careersUrl": "https://perigen.com/careers/",
-  "isHiring": true,
   "linkedinId": "perigen",
+  "linkedinNum": 292393,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "perigen",
   "xId": "PeriGen",
+  "facebookId": "perigeninc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד נים",
@@ -20,7 +26,6 @@
       "lon": 34.80328505744155
     }
   ],
-  "isMultinational": true,
-  "facebookId": "perigeninc",
-  "linkedinNum": 292393
+  "isMultinational": false,
+  "isActive": true
 }

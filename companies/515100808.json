@@ -6,21 +6,26 @@
   "logoFile": "logos/familybiz-logo.webp",
   "websiteUrl": "https://www.familybiz.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "familybiz",
+  "linkedinNum": 18263293,
   "crunchbaseId": null,
+  "ivcId": "A1000000250619",
   "finderId": "familybiz",
   "xId": null,
+  "facebookId": "FamilyBiz.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הדוגית",
-      "houseNumber": 20,
-      "city": "יבנה",
-      "lat": 31.8674963,
-      "lon": 34.736029
+      "street": "הנגר",
+      "houseNumber": 24,
+      "city": "הוד השרון",
+      "lat": 32.1303856,
+      "lon": 34.8949535
     }
   ],
   "isMultinational": false,
-  "facebookId": "FamilyBiz.co.il",
-  "linkedinNum": 18263293
+  "isActive": true
 }

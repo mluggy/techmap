@@ -1,16 +1,22 @@
 {
   "name": "Tissue Dynamics",
-  "description": "Sensor Illuminated Drug Discovery",
+  "description": "Sensor Illuminated Drug Discovery.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/tissue_dynamics-logo.webp",
   "websiteUrl": "https://www.tissuedynamics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tissuedynamics",
+  "linkedinNum": 77048454,
   "crunchbaseId": null,
+  "ivcId": "A1000000239012",
   "finderId": "tissue-dynamics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פלאוט מנחם",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77048454
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/geospotx-logo.webp",
   "websiteUrl": "https://geospotx.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "geospotx",
+  "linkedinNum": 3474884,
   "crunchbaseId": null,
+  "ivcId": "A1000000023127",
   "finderId": "geospotx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בני דן",
       "houseNumber": 50,
-      "city": "תל אביב - יפו",
-      "lat": 32.09583,
-      "lon": 34.789869
+      "city": "תל אביב-יפו",
+      "lat": 32.0958266,
+      "lon": 34.7897614
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3474884
+  "isActive": true
 }

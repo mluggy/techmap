@@ -1,26 +1,31 @@
 {
   "name": "TazMaz",
-  "description": "Financial Manager for Small Businesses",
+  "description": "Financial Manager for Small Businesses.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/tazmaz-logo.webp",
   "websiteUrl": "https://www.tazmaz.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tazmaz",
+  "linkedinNum": 55045060,
   "crunchbaseId": null,
+  "ivcId": "A1000000302727",
   "finderId": "tazmaz",
   "xId": null,
+  "facebookId": "tazmazapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סוסיתא",
-      "houseNumber": 12,
+      "street": "6",
+      "houseNumber": null,
       "city": "קצרין",
-      "lat": 32.9962134,
-      "lon": 35.6818546
+      "lat": 32.9903281,
+      "lon": 35.7084704
     }
   ],
   "isMultinational": false,
-  "facebookId": "tazmazapp",
-  "linkedinNum": 55045060
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/cyrus_capital-logo.webp",
   "websiteUrl": "https://cyrus.app/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cyrus-security",
+  "linkedinNum": 30664194,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cyrus-security",
   "xId": "safe_with_cyrus",
+  "facebookId": "cyruslabsusa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הילדסהיימר",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.093499,
       "lon": 34.791937
     }
   ],
   "isMultinational": false,
-  "facebookId": "cyruslabsusa",
-  "linkedinNum": 30664194
+  "isActive": true
 }

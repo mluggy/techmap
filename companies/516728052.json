@@ -1,16 +1,22 @@
 {
   "name": "Cell-Lipo",
-  "description": "Personalized Cell Therapy",
+  "description": "Personalized Cell Therapy.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cell_lipo-logo.webp",
   "websiteUrl": "https://www.cell-lipo.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cell-lipo",
+  "linkedinNum": 86838230,
   "crunchbaseId": null,
+  "ivcId": "A1000000421747",
   "finderId": "cell-lipo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרם",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86838230
+  "isActive": true
 }

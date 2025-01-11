@@ -1,16 +1,22 @@
 {
   "name": "KAYA Instruments",
-  "description": "Machine Vision Hardware and Software Developer",
+  "description": "Machine Vision Hardware and Software Developer.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/kaya_instruments-logo.webp",
   "websiteUrl": "https://www.kayainstruments.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5003362,
   "crunchbaseId": null,
+  "ivcId": "A1000000024881",
   "finderId": "kaya-instruments1",
   "xId": null,
+  "facebookId": "KAYAInstruments",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסילה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "KAYAInstruments",
-  "linkedinNum": 5003362
+  "isActive": true
 }

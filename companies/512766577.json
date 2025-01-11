@@ -6,11 +6,17 @@
   "logoFile": "logos/cellebrite_di-logo.webp",
   "websiteUrl": "https://cellebrite.com/",
   "careersUrl": "https://cellebrite.com/en/about/careers/",
-  "isHiring": true,
   "linkedinId": "cellebrite",
+  "linkedinNum": 100045,
   "crunchbaseId": null,
+  "ivcId": "A1000000006805",
   "finderId": "cellebrite",
   "xId": "cellebrite",
+  "facebookId": "cellebritedigitalintelligence",
+  "breezyId": null,
+  "comeetId": "Cellebrite/C3.00F",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אם המושבות",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "cellebritedigitalintelligence",
-  "linkedinNum": 100045,
-  "comeetId": "Cellebrite/C3.00F"
+  "isActive": true
 }

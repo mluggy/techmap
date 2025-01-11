@@ -1,0 +1,31 @@
+{
+  "name": "Multipass",
+  "description": "Multipass Payments is a private clearing and processing platform.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/multipass-logo.webp",
+  "websiteUrl": "https://multipass.co.il",
+  "careersUrl": null,
+  "linkedinId": "multipass",
+  "linkedinNum": 2989913,
+  "crunchbaseId": null,
+  "ivcId": "A1000000211162",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אתגר",
+      "houseNumber": 4,
+      "city": "טירת כרמל",
+      "lat": 32.7727197,
+      "lon": 34.9684156
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

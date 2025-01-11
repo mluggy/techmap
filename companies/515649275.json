@@ -6,20 +6,26 @@
   "logoFile": "logos/inspekto_a_m_v-logo.webp",
   "websiteUrl": "https://inspekto.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18075724,
   "crunchbaseId": "inspekto",
+  "ivcId": "A1000000257316",
   "finderId": "inspekto",
   "xId": "Inspekto_amv",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 7,
-      "city": "רמת גן",
-      "lat": 32.0835579,
-      "lon": 34.8040988
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18075724
+  "isActive": true
 }

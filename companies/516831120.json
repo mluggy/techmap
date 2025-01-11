@@ -1,18 +1,22 @@
 {
   "name": "Kerberus Cyber Security",
-  "description": "Web3 Security Protection",
+  "description": "Web3 Security Protection.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/kerberus-cyber-security.webp",
   "websiteUrl": "https://www.kerberus.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kerberus-inc",
   "linkedinNum": 81893498,
   "crunchbaseId": null,
+  "ivcId": "A1000000417441",
   "finderId": "kerberus-cyber-security",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהושע בן חנניה",
@@ -22,5 +26,6 @@
       "lon": 34.77467712267654
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

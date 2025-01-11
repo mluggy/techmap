@@ -6,11 +6,17 @@
   "logoFile": "logos/intact_labs_m_g-logo.webp",
   "websiteUrl": "https://www.intactspecialty.com/",
   "careersUrl": "https://intact-systems.com/company/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "intact",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "1",
@@ -19,5 +25,7 @@
       "lat": 32.7872153,
       "lon": 34.9684078
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

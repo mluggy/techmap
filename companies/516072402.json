@@ -1,16 +1,22 @@
 {
   "name": "MTL-3D",
-  "description": "Optical 3D Inspection Solutions",
+  "description": "Optical 3D Inspection Solutions.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/mtl_3_d-logo.webp",
+  "logoFile": "logos/mtl-3d-logo.webp",
   "websiteUrl": "https://www.mtl-3d.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mtl-3d",
+  "linkedinNum": 68291157,
   "crunchbaseId": null,
+  "ivcId": "A1000000417749",
   "finderId": "mtl-3d",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דבורה",
@@ -20,5 +26,6 @@
       "lon": 35.0783758
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

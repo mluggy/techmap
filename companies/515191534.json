@@ -6,21 +6,26 @@
   "logoFile": "logos/bam_medical-logo.webp",
   "websiteUrl": "https://liper-device.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "liper",
+  "linkedinNum": 12656729,
   "crunchbaseId": null,
+  "ivcId": "A1000000295805",
   "finderId": "liper",
   "xId": null,
+  "facebookId": "Liperdevice4tonguetie",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מלצ'ט",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.068928,
-      "lon": 34.775714
+      "city": "תל אביב-יפו",
+      "lat": 32.068944,
+      "lon": 34.775729
     }
   ],
   "isMultinational": false,
-  "facebookId": "Liperdevice4tonguetie",
-  "linkedinNum": 12656729
+  "isActive": true
 }

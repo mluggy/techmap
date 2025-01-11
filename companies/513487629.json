@@ -6,11 +6,17 @@
   "logoFile": "logos/endymed-logo.webp",
   "websiteUrl": "https://endymed.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "endymed-ltd",
+  "linkedinNum": 1405508,
   "crunchbaseId": null,
+  "ivcId": "A1000000003505",
   "finderId": "endymed",
   "xId": "EndyMed",
+  "facebookId": "EndyMed",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לשם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "EndyMed",
-  "linkedinNum": 1405508
+  "isActive": true
 }

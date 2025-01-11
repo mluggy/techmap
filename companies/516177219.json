@@ -6,20 +6,26 @@
   "logoFile": "logos/tera_pass-logo.webp",
   "websiteUrl": "https://www.tera-pass.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ip-light",
+  "linkedinNum": 1035345,
   "crunchbaseId": null,
+  "ivcId": "A1000000002331",
   "finderId": "ip-light",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מרים ילן שטקליס",
-      "houseNumber": 21,
+      "street": "4",
+      "houseNumber": null,
       "city": "פתח תקווה",
-      "lat": 32.0786227,
-      "lon": 34.8615553
+      "lat": 32.104883,
+      "lon": 34.848894
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1035345
+  "isActive": true
 }

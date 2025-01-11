@@ -6,11 +6,17 @@
   "logoFile": "logos/bio_view-logo.webp",
   "websiteUrl": "https://bioview.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bioview",
+  "linkedinNum": 80102,
   "crunchbaseId": null,
+  "ivcId": "A1000000005500",
   "finderId": "bioview",
   "xId": "bio_view",
+  "facebookId": "BioViewInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פקריס",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BioViewInc",
-  "linkedinNum": 80102
+  "isActive": true
 }

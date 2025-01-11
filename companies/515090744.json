@@ -1,25 +1,31 @@
 {
   "name": "with",
-  "description": "Management Platform for Online Communities",
+  "description": "With.",
   "categoryId": 8,
-  "size": "s",
+  "size": "xs",
   "logoFile": "logos/with_love_internet-logo.webp",
-  "websiteUrl": "https://bewith.io/",
+  "websiteUrl": "https://withloveinternet.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "withco",
+  "linkedinNum": 49129969,
   "crunchbaseId": "coing-c24c",
+  "ivcId": "A1000000216116",
   "finderId": "co-ing",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבא אבן",
       "houseNumber": 2,
       "city": "ירושלים",
-      "lat": 31.7861729,
-      "lon": 35.2055856
+      "lat": 31.7861947,
+      "lon": 35.2056462
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 49129969
+  "isActive": true
 }

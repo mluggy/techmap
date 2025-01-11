@@ -6,21 +6,26 @@
   "logoFile": "logos/anymaint-logo.webp",
   "websiteUrl": "https://anymaint.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "anymaint",
+  "linkedinNum": 70954557,
   "crunchbaseId": null,
+  "ivcId": "A1000000335851",
   "finderId": "AnyMaint",
   "xId": null,
+  "facebookId": "Anymaint-237141041586512",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.109727,
       "lon": 34.838141
     }
   ],
   "isMultinational": false,
-  "facebookId": "Anymaint-237141041586512",
-  "linkedinNum": 70954557
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Comtec",
-  "description": "Software for Insurance, Finance, and Enterprise Security",
+  "description": "Software for Insurance, Finance, and Enterprise Security.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/comtec-logo.webp",
   "websiteUrl": "https://www.comtecglobal.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "comtec-ltd.",
+  "linkedinNum": 625255,
   "crunchbaseId": null,
+  "ivcId": "A1000000009222",
   "finderId": "comtec",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסיבים",
       "houseNumber": 18,
       "city": "פתח תקווה",
-      "lat": 32.0916612,
-      "lon": 34.8571892
+      "lat": 32.0884756,
+      "lon": 34.8565391
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 625255
+  "isActive": true
 }

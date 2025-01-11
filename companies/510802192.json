@@ -1,0 +1,31 @@
+{
+  "name": "Idan",
+  "description": "Idan Computers develops software providing image analysis, CAD, and 3-D modeling tools.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/idan-logo.webp",
+  "websiteUrl": "https://www.idan.com",
+  "careersUrl": null,
+  "linkedinId": "idan-computers-ltd.",
+  "linkedinNum": 792737,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023933",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משה לוי",
+      "houseNumber": 11,
+      "city": "ראשון לציון",
+      "lat": 31.9890412,
+      "lon": 34.77390949999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

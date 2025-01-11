@@ -6,21 +6,26 @@
   "logoFile": "logos/medial_earlysign-logo.webp",
   "websiteUrl": "https://earlysign.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "medial-earlysign",
+  "linkedinNum": 7959149,
   "crunchbaseId": null,
+  "ivcId": "A1000000172572",
   "finderId": "medial-earlysign",
   "xId": "medialearlysign",
+  "facebookId": "MedialEarlySign",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
       "houseNumber": 6,
       "city": "הוד השרון",
-      "lat": 32.12984109999999,
-      "lon": 34.89354939995229
+      "lat": 32.130223,
+      "lon": 34.892814
     }
   ],
   "isMultinational": false,
-  "facebookId": "MedialEarlySign",
-  "linkedinNum": 7959149
+  "isActive": true
 }

@@ -6,13 +6,26 @@
   "logoFile": "logos/kapro_industries_ltd-logo.webp",
   "websiteUrl": "https://kapro.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kapro-industries-ltd",
+  "linkedinNum": 33255427,
   "crunchbaseId": null,
+  "ivcId": "A1000000008873",
   "finderId": "kapro",
   "xId": "kaprotools",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "kaprotoolsco",
-  "linkedinNum": 33255427
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קדרים",
+      "lat": 32.898886,
+      "lon": 35.471565
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

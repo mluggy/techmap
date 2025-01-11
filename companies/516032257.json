@@ -1,26 +1,31 @@
 {
   "name": "Mad Brain Games",
-  "description": "Mobile Game Development Company",
+  "description": "Mobile Game Development Company.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/mad_brain_games-logo.webp",
   "websiteUrl": "https://braingames.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mad-brain-games-ltd",
+  "linkedinNum": 28428868,
   "crunchbaseId": null,
+  "ivcId": "A1000000320941",
   "finderId": "mad-brain-games",
   "xId": null,
+  "facebookId": "Mad-Brain-Games-LTD-107732383945332",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זמנהוף",
-      "houseNumber": 29,
+      "street": null,
+      "houseNumber": null,
       "city": "הרצליה",
-      "lat": 32.1798799,
-      "lon": 34.8172886
+      "lat": 32.162413,
+      "lon": 34.844675
     }
   ],
   "isMultinational": false,
-  "facebookId": "Mad-Brain-Games-LTD-107732383945332",
-  "linkedinNum": 28428868
+  "isActive": true
 }

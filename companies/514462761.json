@@ -1,0 +1,31 @@
+{
+  "name": "Kimico",
+  "description": "Kimico is a software development company focused on bringing state of the art applications for iPhone and iPod Touch.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/kimico-logo.webp",
+  "websiteUrl": "http://www.kimicoapps.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001766",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הדר",
+      "houseNumber": 60,
+      "city": "הרצליה",
+      "lat": 32.174949,
+      "lon": 34.8486294
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

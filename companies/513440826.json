@@ -1,0 +1,31 @@
+{
+  "name": "SiOnet",
+  "description": "SiOnet is a Technology Holding Company which specializes in search engines, data mining, and database technologies via its subsidiary, IQlue, and high-level scientific solutions and Intellectual Property management via its subsidiary, IPQlue.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/sionet-logo.webp",
+  "websiteUrl": "https://www.si-o-net.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000002115",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יאיר",
+      "houseNumber": 4,
+      "city": "רמת השרון",
+      "lat": 32.1438289,
+      "lon": 34.8290545
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

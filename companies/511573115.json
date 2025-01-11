@@ -6,13 +6,26 @@
   "logoFile": "logos/graphitech_ltd-logo.webp",
   "websiteUrl": "https://www.graphitech.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "graphitech",
+  "linkedinNum": 692319,
   "crunchbaseId": null,
+  "ivcId": "A1000000023332",
   "finderId": "graphitech",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "GraphiTech-1251305361551854",
-  "linkedinNum": 692319
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "שפיים",
+      "lat": 32.216586,
+      "lon": 34.822409
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

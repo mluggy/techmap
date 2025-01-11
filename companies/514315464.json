@@ -6,21 +6,26 @@
   "logoFile": "logos/critifence_technologies-logo.webp",
   "websiteUrl": "https://www.critifence.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "critifence",
+  "linkedinNum": 10684086,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "critifence",
   "xId": null,
+  "facebookId": "critifence",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 65,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065766,
       "lon": 34.792307
     }
   ],
   "isMultinational": false,
-  "facebookId": "critifence",
-  "linkedinNum": 10684086
+  "isActive": true
 }

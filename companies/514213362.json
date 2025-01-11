@@ -1,18 +1,31 @@
 {
   "name": "Amiad",
-  "description": "Water Treatment and Filtration Solutions",
+  "description": "Water Treatment and Filtration Solutions.",
   "categoryId": 17,
   "size": "l",
   "logoFile": "logos/amiad_car_serving_center_ltd-logo.webp",
   "websiteUrl": "https://www.amiad.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "amiad-filtration-systems-ltd",
+  "linkedinNum": 711932,
   "crunchbaseId": null,
+  "ivcId": "A1000000006537",
   "finderId": "amiad",
   "xId": "AmiadWaterSyst",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "AmiadWaterSystems",
-  "linkedinNum": 711932
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "עמיעד",
+      "lat": 32.930354,
+      "lon": 35.54052100000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

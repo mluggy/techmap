@@ -6,21 +6,26 @@
   "logoFile": "logos/identytech_solutions-logo.webp",
   "websiteUrl": "https://identytech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "identytech-ltd.",
+  "linkedinNum": 1296704,
   "crunchbaseId": null,
+  "ivcId": "A1000000022982",
   "finderId": "identytech",
   "xId": "identytech",
+  "facebookId": "IdentytechSolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
-      "houseNumber": 58,
+      "street": "אפעל",
+      "houseNumber": 35,
       "city": "פתח תקווה",
-      "lat": 32.0953971,
-      "lon": 34.8531501
+      "lat": 32.0982894,
+      "lon": 34.84803
     }
   ],
   "isMultinational": false,
-  "facebookId": "IdentytechSolutions",
-  "linkedinNum": 1296704
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/wi_charge-logo.webp",
   "websiteUrl": "https://www.wi-charge.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wi-charge",
+  "linkedinNum": 10459221,
   "crunchbaseId": null,
+  "ivcId": "A1000000002918",
   "finderId": "wi-charge",
   "xId": "wichargeltd",
+  "facebookId": "WiCharge",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פקריס",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WiCharge",
-  "linkedinNum": 10459221
+  "isActive": true
 }

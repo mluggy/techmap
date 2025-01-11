@@ -1,0 +1,31 @@
+{
+  "name": "(P.A.M)",
+  "description": "The company develops unmanned remote sensing systems, algorithms and software for detecting anomalies in agricultural and soil crops, systems for detecting gas leaks and internal combustion sources in landfills.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/p_a_m-logo.webp",
+  "websiteUrl": "http://pam-can.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000268565",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אורי צבי גרינברג",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.1290571,
+      "lon": 34.7948294
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

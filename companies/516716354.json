@@ -6,19 +6,26 @@
   "logoFile": "logos/latent_energy-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000424521",
   "finderId": "latent-energy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.1114482,
-      "lon": 34.8390358
+      "city": "תל אביב-יפו",
+      "lat": 32.1112424,
+      "lon": 34.8389386
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

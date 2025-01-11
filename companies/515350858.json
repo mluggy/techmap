@@ -6,20 +6,26 @@
   "logoFile": "logos/smartbull-logo.webp",
   "websiteUrl": "https://www.smartbull.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "smartbull",
+  "linkedinNum": 33212923,
   "crunchbaseId": null,
+  "ivcId": "A1000000417102",
   "finderId": "smartbull",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אשכול לוי",
+      "street": "לוי אשכול",
       "houseNumber": 63,
-      "city": "תל אביב - יפו",
-      "lat": 32.115616,
-      "lon": 34.789598
+      "city": "הרצליה",
+      "lat": 32.1686925,
+      "lon": 34.8052401
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 33212923
+  "isActive": true
 }

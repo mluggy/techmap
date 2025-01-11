@@ -6,19 +6,26 @@
   "logoFile": "logos/art_bioscience-logo.webp",
   "websiteUrl": "https://www.artbioscience.com/",
   "careersUrl": "https://www.artbioscience.com/career",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "art-bioscience",
+  "ivcId": "A1000000412508",
   "finderId": "art-bioscience",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברגמן",
       "houseNumber": 2,
-      "city": "רחובות",
-      "lat": 31.9113645,
-      "lon": 34.8090693
+      "city": "ראשון לציון",
+      "lat": 31.981167,
+      "lon": 34.770544
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

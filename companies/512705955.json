@@ -6,21 +6,26 @@
   "logoFile": "logos/g_stat-logo.webp",
   "websiteUrl": "https://g-stat.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "g-stat",
+  "linkedinNum": 58994,
   "crunchbaseId": null,
+  "ivcId": "A1000000004502",
   "finderId": "g-stat-software-solutions",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
-      "houseNumber": 3,
+      "street": "גרניט",
+      "houseNumber": 6,
       "city": "פתח תקווה",
-      "lat": 32.0900013,
-      "lon": 34.8601803
+      "lat": 32.1008352,
+      "lon": 34.8654931
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 58994
+  "isActive": true
 }

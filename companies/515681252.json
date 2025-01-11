@@ -6,11 +6,17 @@
   "logoFile": "logos/aleph_farms-logo.webp",
   "websiteUrl": "https://aleph-farms.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aleph-farms",
+  "linkedinNum": 18542901,
   "crunchbaseId": null,
+  "ivcId": "A1000000234545",
   "finderId": "aleph-farms",
   "xId": "AlephFarms",
+  "facebookId": "AlephFarms",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הולצמן חיים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AlephFarms",
-  "linkedinNum": 18542901
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Valid.it Evaluation Solutions",
-  "description": "AI-based Trust Validation Platform",
+  "description": "AI-based Trust Validation Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/valid_it_evaluation_solutions-logo.webp",
   "websiteUrl": "https://validit.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "valid-evaluation-inc-",
+  "linkedinNum": 81324436,
   "crunchbaseId": "valid-it",
+  "ivcId": "A1000000382194",
   "finderId": "valid-it",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פלי\"ם",
-      "houseNumber": 2,
-      "city": "חיפה",
-      "lat": 32.8167554,
-      "lon": 35.0000812
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81324436
+  "isActive": true
 }

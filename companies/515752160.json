@@ -1,0 +1,31 @@
+{
+  "name": "Skypick",
+  "description": "Skypick provides an e-commerce and content platform on board, at the airplane passenger’s fingertips.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/skypick-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": "skypick",
+  "linkedinNum": 29215074,
+  "crunchbaseId": null,
+  "ivcId": "A1000000326319",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך קיבוץ גלויות",
+      "houseNumber": 34,
+      "city": "תל אביב-יפו",
+      "lat": 32.0514822,
+      "lon": 34.768942
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

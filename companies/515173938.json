@@ -1,25 +1,31 @@
 {
   "name": "Imagry",
-  "description": "Mapless Autonomous Driving",
+  "description": "Mapless Autonomous Driving.",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/imagry_israel-logo.webp",
   "websiteUrl": "https://www.imagry.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "imagry",
+  "linkedinNum": 3235709,
   "crunchbaseId": null,
+  "ivcId": "A1000000022037",
   "finderId": "imagry",
   "xId": "imagryco",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 53,
-      "city": "חיפה",
-      "lat": 32.8228261,
-      "lon": 34.9943882
+      "street": "העצמאות",
+      "houseNumber": 39,
+      "city": "קרית אתא",
+      "lat": 32.8036729,
+      "lon": 35.1032094
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3235709
+  "isActive": true
 }

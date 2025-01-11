@@ -6,11 +6,17 @@
   "logoFile": "logos/similarweb-logo.webp",
   "websiteUrl": "https://www.similarweb.com/",
   "careersUrl": "https://www.similarweb.com/corp/careers/",
-  "isHiring": true,
   "linkedinId": "similarweb",
+  "linkedinNum": 429838,
   "crunchbaseId": "similarweb",
+  "ivcId": "A1000000002606",
   "finderId": "similarweb",
   "xId": "SimilarWeb",
+  "facebookId": "SimilarWeb",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "similarweb",
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך יצחק רבין",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SimilarWeb",
-  "linkedinNum": 429838,
-  "greenhouseId": "similarweb"
+  "isActive": true
 }

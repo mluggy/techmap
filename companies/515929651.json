@@ -6,21 +6,26 @@
   "logoFile": "logos/crispify-logo.webp",
   "websiteUrl": "https://www.crispify.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "crispifyio",
+  "linkedinNum": 18933950,
   "crunchbaseId": null,
+  "ivcId": "A1000000275292",
   "finderId": "crispify",
   "xId": null,
+  "facebookId": "Crispifyio-317054408912730",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שוחט ישראל",
-      "houseNumber": 5,
+      "street": "אריק איינשטיין",
+      "houseNumber": 3,
       "city": "הרצליה",
-      "lat": 32.1655485,
-      "lon": 34.858256
+      "lat": 32.1628552,
+      "lon": 34.8148385
     }
   ],
   "isMultinational": false,
-  "facebookId": "Crispifyio-317054408912730",
-  "linkedinNum": 18933950
+  "isActive": true
 }

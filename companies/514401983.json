@@ -1,16 +1,22 @@
 {
   "name": "Essence",
-  "description": "Security, Smart Home, and Telecare",
-  "categoryId": 7,
-  "size": "l",
+  "description": "Essence SmartCare develops pioneering IoT platforms for market-leading healthcare and senior care providers, enabling smart preventive care and emergency response, so seniors can live life to the fullest with a peace of mind.",
+  "categoryId": 12,
+  "size": "s",
   "logoFile": "logos/essence_smartcare-logo.webp",
-  "websiteUrl": "https://essence-grp.com",
+  "websiteUrl": "https://www.essencesmartcare.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "essence-smartcare",
+  "linkedinNum": 865102,
   "crunchbaseId": null,
+  "ivcId": "A1000000001446",
   "finderId": "essence-smartcare",
   "xId": "Essence_grp",
+  "facebookId": "essencegrp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "essencegrp",
-  "linkedinNum": 865102
+  "isActive": true
 }

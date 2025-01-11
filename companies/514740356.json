@@ -1,26 +1,31 @@
 {
   "name": "Yummi Home Food",
-  "description": "Marketplace for Homemade Food",
+  "description": "Marketplace for Homemade Food.",
   "categoryId": 9,
   "size": "s",
   "logoFile": "logos/yummi_home_food-logo.webp",
   "websiteUrl": "https://www.yummi.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "yummi-home-food-ltd-",
+  "linkedinNum": 5137932,
   "crunchbaseId": "yummi-home-food",
+  "ivcId": "A1000000176869",
   "finderId": "yummi-home-food",
   "xId": null,
+  "facebookId": "yummi.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השדות",
-      "houseNumber": 16,
-      "city": "עדנים",
-      "lat": 32.14262555155356,
-      "lon": 34.903569733379015
+      "street": null,
+      "houseNumber": null,
+      "city": "כפר סבא",
+      "lat": 32.178195,
+      "lon": 34.90761
     }
   ],
   "isMultinational": false,
-  "facebookId": "yummi.il",
-  "linkedinNum": 5137932
+  "isActive": true
 }

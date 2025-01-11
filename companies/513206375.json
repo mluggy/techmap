@@ -6,19 +6,26 @@
   "logoFile": "logos/r_jet_engineering-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000009090",
   "finderId": "r-jet-engineering",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוהליבר",
-      "houseNumber": 1,
-      "city": "הרצליה",
-      "lat": 32.1658199,
-      "lon": 34.8503281
+      "houseNumber": 62,
+      "city": "יהוד מונוסון",
+      "lat": 32.0343106,
+      "lon": 34.8978729
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

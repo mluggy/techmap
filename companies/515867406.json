@@ -6,20 +6,26 @@
   "logoFile": "logos/thinkz-logo.webp",
   "websiteUrl": "https://thinkz.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "thinkz-iot-com",
+  "linkedinNum": 40953328,
   "crunchbaseId": null,
+  "ivcId": "A1000000268037",
   "finderId": "thinkz",
   "xId": null,
+  "facebookId": "ThinkzIoT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "street": "ויצמן‬",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0801258,
+      "lon": 34.7898816
     }
   ],
   "isMultinational": false,
-  "facebookId": "ThinkzIoT"
+  "isActive": true
 }

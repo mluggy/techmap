@@ -6,20 +6,26 @@
   "logoFile": "logos/profuse_technology-logo.webp",
   "websiteUrl": "https://profuse-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "profuse-tech",
+  "linkedinNum": 79932996,
   "crunchbaseId": null,
+  "ivcId": "A1000000360683",
   "finderId": "profuse-technology",
   "xId": "profusebio",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חצב",
-      "houseNumber": 30,
-      "city": "קריית שמונה",
-      "lat": 33.2115548,
-      "lon": 35.5787624
+      "street": "יוזמה",
+      "houseNumber": null,
+      "city": "טירת כרמל",
+      "lat": 32.7723769,
+      "lon": 34.9658303
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79932996
+  "isActive": true
 }

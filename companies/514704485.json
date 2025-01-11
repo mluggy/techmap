@@ -1,16 +1,22 @@
 {
   "name": "Minovia Therapeutics",
-  "description": "Pioneering mitochondrial cell therapy for transformative treatments of mitochondrial dysfunction, rare diseases, and aging.",
+  "description": "Minovia Therapeutics is the first company to use cell therapy to treat mitochondrial diseases, through the company's Mitochondrial Augmentation Therapy (MAT) platform.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/minovia_therapeutics-logo.webp",
-  "websiteUrl": "https://minoviatx.com/",
+  "websiteUrl": "http://minovia.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "minoviatherapeutics",
+  "linkedinNum": 40691057,
   "crunchbaseId": null,
+  "ivcId": "A1000000290689",
   "finderId": "minovia-therapeutics",
   "xId": "minoviatx",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנא",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 40691057
+  "isActive": true
 }

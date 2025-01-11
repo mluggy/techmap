@@ -6,20 +6,26 @@
   "logoFile": "logos/cloud_wise-logo.webp",
   "websiteUrl": "https://www.cloud-wise.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cloud-wise-ltd",
+  "linkedinNum": 35443088,
   "crunchbaseId": null,
+  "ivcId": "A1000000228980",
   "finderId": "cloud-wise1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגביש",
-      "houseNumber": 5,
+      "street": "עתיר ידע",
+      "houseNumber": 15,
       "city": "כפר סבא",
-      "lat": 32.176795,
-      "lon": 34.9299507
+      "lat": 32.1620848,
+      "lon": 34.9341066
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35443088
+  "isActive": true
 }

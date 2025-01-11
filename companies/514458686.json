@@ -1,0 +1,31 @@
+{
+  "name": "DownWind",
+  "description": "Founded in 2008 by IDF ex-IAF pilots, DownWind is a well established brand in the unmanned air vehicles space.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/downwind-logo.webp",
+  "websiteUrl": "https://down-wind.co.il",
+  "careersUrl": null,
+  "linkedinId": "down-wind-il",
+  "linkedinNum": 71769085,
+  "crunchbaseId": null,
+  "ivcId": "A1000000384081",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משאבים",
+      "houseNumber": 64,
+      "city": "הוד השרון",
+      "lat": 32.1629777,
+      "lon": 34.8901541
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

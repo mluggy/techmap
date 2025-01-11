@@ -6,11 +6,17 @@
   "logoFile": "logos/skm_aeronautics-logo.webp",
   "websiteUrl": "https://skm.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "skm-aeronautics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחשון",
@@ -20,5 +26,6 @@
       "lon": 34.8929843
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/asterix_foods-logo.webp",
   "websiteUrl": "https://www.asterixfoods.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "asterix-foods",
+  "linkedinNum": 84057956,
   "crunchbaseId": null,
+  "ivcId": "A1000000432644",
   "finderId": "asterix-foods-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יערי מאיר",
+      "street": "מאיר יערי",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.099325,
-      "lon": 34.784373
+      "city": "תל אביב-יפו",
+      "lat": 32.0994116,
+      "lon": 34.7845423
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 84057956
+  "isActive": true
 }

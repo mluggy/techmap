@@ -6,22 +6,26 @@
   "logoFile": "logos/duda_mobile_d_m-logo.webp",
   "websiteUrl": "https://www.duda.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "duda",
+  "linkedinNum": 2046165,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "duda",
   "xId": "Duda_Inc",
+  "facebookId": "duda",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "duda",
+  "leverId": null,
   "addresses": [
     {
       "street": "ארניה",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0693445,
       "lon": 34.7860947
     }
   ],
   "isMultinational": false,
-  "facebookId": "duda",
-  "linkedinNum": 2046165,
-  "greenhouseId": "duda"
+  "isActive": true
 }

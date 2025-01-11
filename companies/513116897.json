@@ -1,16 +1,22 @@
 {
   "name": "Oorym",
-  "description": "Near-to-eye Displays",
+  "description": "Near-to-eye Displays.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/oorym_optics-logo.webp",
   "websiteUrl": "https://oorym.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "oorym",
+  "linkedinNum": 11507014,
   "crunchbaseId": null,
+  "ivcId": "A1000000265308",
   "finderId": "oorym",
   "xId": "OorymAR",
+  "facebookId": "oorym",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סירני",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "oorym",
-  "linkedinNum": 11507014
+  "isActive": true
 }

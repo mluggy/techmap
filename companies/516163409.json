@@ -1,16 +1,22 @@
 {
   "name": "Snax",
-  "description": "Casual Games Social Platform and Network",
+  "description": "Casual Games Social Platform and Network.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/snax_games-logo.webp",
   "websiteUrl": "https://www.snaxgames.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "snaxgames",
+  "linkedinNum": 97922852,
   "crunchbaseId": null,
+  "ivcId": "A1000000343436",
   "finderId": "snax",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הזיתים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 97922852
+  "isActive": true
 }

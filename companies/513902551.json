@@ -1,16 +1,22 @@
 {
   "name": "General Motors",
   "description": "A pioneering automotive company committed to innovation, heritage, and community through its Buick, Cadillac, GMC, and Chevrolet brands.",
-  "size": "l",
   "categoryId": 5,
+  "size": "l",
   "logoFile": "logos/general_motors_israel-logo.webp",
   "websiteUrl": "https://search-careers.gm.com/en/locations/israel/",
   "careersUrl": "https://search-careers.gm.com/en/",
-  "isHiring": true,
   "linkedinId": "general-motors",
+  "linkedinNum": 1472,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "general-motors",
   "xId": "GM",
+  "facebookId": "GeneralMotorsIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -20,7 +26,6 @@
       "lon": 34.8129412
     }
   ],
-  "isMultinational": true,
-  "facebookId": "GeneralMotorsIsrael",
-  "linkedinNum": 1472
+  "isMultinational": false,
+  "isActive": true
 }

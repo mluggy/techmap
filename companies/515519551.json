@@ -1,26 +1,31 @@
 {
   "name": "Omnistream",
-  "description": "Live Broadcasting Platform",
+  "description": "Live Broadcasting Platform.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/omnistream-logo.webp",
   "websiteUrl": "https://omnistream.live",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "omnistream.live",
+  "linkedinNum": 18177680,
   "crunchbaseId": null,
+  "ivcId": "A1000000300783",
   "finderId": "omnistream",
   "xId": null,
+  "facebookId": "omnistreamlive",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סוקולוב",
-      "houseNumber": 64,
-      "city": "רמת השרון",
-      "lat": 32.144916,
-      "lon": 34.83844968838688
+      "street": "גרניט",
+      "houseNumber": 10,
+      "city": "הוד השרון",
+      "lat": 32.1535212,
+      "lon": 34.8852451
     }
   ],
   "isMultinational": false,
-  "facebookId": "omnistreamlive",
-  "linkedinNum": 18177680
+  "isActive": true
 }

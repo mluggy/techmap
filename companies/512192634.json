@@ -6,13 +6,17 @@
   "logoFile": "logos/viaccess-orca.webp",
   "websiteUrl": "https://www.viaccess-orca.com/",
   "careersUrl": "https://www.viaccess-orca.com/careers",
-  "isHiring": false,
   "linkedinId": "viaccess-orca",
   "linkedinNum": 2625246,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "viaccess-orca",
   "xId": "ViaccessOrca",
   "facebookId": "VO-Israel-109442234164074",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -22,5 +26,6 @@
       "lon": 34.88337779687025
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

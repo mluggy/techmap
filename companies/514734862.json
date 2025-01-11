@@ -6,11 +6,17 @@
   "logoFile": "logos/petpace-logo.webp",
   "websiteUrl": "https://petpace.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 9965560,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "petpace",
   "xId": "petpaceinc",
+  "facebookId": "petpace",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מרכז מסחרי חוצות שפיים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "petpace",
-  "linkedinNum": 9965560
+  "isActive": true
 }

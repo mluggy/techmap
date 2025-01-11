@@ -1,25 +1,31 @@
 {
   "name": "Drimz Technologies",
-  "description": "Collaborative Platform for Web Application Development",
+  "description": "JUX is bridging the gap between designers and developers.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/drimz_technologies-logo.webp",
-  "websiteUrl": "https://www.drimz.io/",
+  "websiteUrl": "https://www.jux.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "drimz-io",
+  "linkedinNum": 76173208,
   "crunchbaseId": "digital-drimz",
+  "ivcId": "A1000000384864",
   "finderId": "drimz-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פינסקר",
-      "houseNumber": 35,
-      "city": "תל אביב - יפו",
-      "lat": 32.075401,
-      "lon": 34.771115
+      "street": "המסגר",
+      "houseNumber": 39,
+      "city": "תל אביב-יפו",
+      "lat": 32.0657506,
+      "lon": 34.7860288
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76173208
+  "isActive": true
 }

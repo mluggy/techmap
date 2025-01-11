@@ -6,21 +6,26 @@
   "logoFile": "logos/lifebiotic_medical_research-logo.webp",
   "websiteUrl": "https://www.lifebiotic.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lifebiotic",
+  "linkedinNum": 35502873,
   "crunchbaseId": null,
+  "ivcId": "A1000000229452",
   "finderId": "lifebiotic",
   "xId": null,
+  "facebookId": "LifeBiotic",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שז\"ר",
-      "houseNumber": 10,
-      "city": "רמת גן",
-      "lat": 32.053673,
-      "lon": 34.8315311
+      "street": "דיזנגוף",
+      "houseNumber": 18,
+      "city": "תל אביב-יפו",
+      "lat": 32.0743364,
+      "lon": 34.7789563
     }
   ],
   "isMultinational": false,
-  "facebookId": "LifeBiotic",
-  "linkedinNum": 35502873
+  "isActive": true
 }

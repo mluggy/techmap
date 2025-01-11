@@ -1,25 +1,31 @@
 {
   "name": "Slice",
-  "description": "Cross-Border B2B Solution in Fintech and Legaltech",
+  "description": "Cross-Border B2B Solution in Fintech and Legaltech.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/slice_pizza_ramat_hasharon-logo.webp",
   "websiteUrl": "https://www.sliceglobal.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "globalslice",
+  "linkedinNum": 88391962,
   "crunchbaseId": null,
+  "ivcId": "A1000000419902",
   "finderId": "slice",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הורדים גני יהודה",
-      "houseNumber": 27,
-      "city": "סביון",
-      "lat": 32.04031487465118,
-      "lon": 34.87898721982376
+      "street": "גולדה מאיר",
+      "houseNumber": 1,
+      "city": "הוד השרון",
+      "lat": 32.1650023,
+      "lon": 34.8987073
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 88391962
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Redefine Technologies",
-  "description": "Risk Management for Decentralized Finance Investors",
+  "description": "Risk Management for Decentralized Finance Investors.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/redefine_technologies-logo.webp",
   "websiteUrl": "https://redefine.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "redefine-io",
+  "linkedinNum": 79830906,
   "crunchbaseId": null,
+  "ivcId": "A1000000362845",
   "finderId": "redefine-technologies",
   "xId": "redefine_io",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ירושלים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79830906
+  "isActive": true
 }

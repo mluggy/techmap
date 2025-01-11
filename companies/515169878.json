@@ -6,21 +6,26 @@
   "logoFile": "logos/tangelo_games_holdings-logo.webp",
   "websiteUrl": "https://tangelogames.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10864350,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tangelo-games",
   "xId": "TangeloGames",
+  "facebookId": "Tangelogames",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066035,
       "lon": 34.782959
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Tangelogames",
-  "linkedinNum": 10864350
+  "isMultinational": false,
+  "isActive": true
 }

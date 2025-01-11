@@ -6,11 +6,17 @@
   "logoFile": "logos/phasor-logo.webp",
   "websiteUrl": "https://phasor.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "phasor",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנשר",
@@ -20,5 +26,6 @@
       "lon": 34.8523723
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

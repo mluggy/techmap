@@ -6,11 +6,17 @@
   "logoFile": "logos/unilever_israel_home_and_personal_care-logo.webp",
   "websiteUrl": "https://www.unilever.com/",
   "careersUrl": "https://www.unilever.com/careers/",
-  "isHiring": true,
   "linkedinId": "unilever",
+  "linkedinNum": 1248,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "unilever",
   "xId": "Unilever",
+  "facebookId": "unilever",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יוליוס סימון",
@@ -20,7 +26,6 @@
       "lon": 35.051309
     }
   ],
-  "isMultinational": true,
-  "facebookId": "unilever",
-  "linkedinNum": 1248
+  "isMultinational": false,
+  "isActive": true
 }

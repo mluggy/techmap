@@ -6,21 +6,26 @@
   "logoFile": "logos/speakizi-logo.webp",
   "websiteUrl": "https://www.speakizi.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "speakizi",
+  "linkedinNum": 10568518,
   "crunchbaseId": "speakizi",
+  "ivcId": null,
   "finderId": "speakizi",
   "xId": "speakizi",
+  "facebookId": "speakizi.usa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 118,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069284,
       "lon": 34.778734
     }
   ],
   "isMultinational": false,
-  "facebookId": "speakizi.usa",
-  "linkedinNum": 10568518
+  "isActive": true
 }

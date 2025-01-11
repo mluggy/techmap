@@ -1,26 +1,31 @@
 {
   "name": "Sensorz",
-  "description": "Wireless Observability Platform (WOP) for Private 5G/LTE Networks",
+  "description": "Wireless Observability Platform (WOP) for Private 5G/LTE Networks.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/sensorz_ltd-logo.webp",
   "websiteUrl": "https://www.sensorz.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sensorz",
+  "linkedinNum": 80068994,
   "crunchbaseId": null,
+  "ivcId": "A1000000412912",
   "finderId": "sensorz",
   "xId": "Sensorzio",
+  "facebookId": "people",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חיסין",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.07423,
-      "lon": 34.776756
+      "street": "נתן",
+      "houseNumber": 3,
+      "city": "כפר סבא",
+      "lat": 32.1927186,
+      "lon": 34.8916048
     }
   ],
   "isMultinational": false,
-  "facebookId": "people",
-  "linkedinNum": 80068994
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Reeco",
+  "description": "Reeco provides a streamlined process for hotels and other hospitality buyers to order everything from food and beverage to cleaning supplies.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/reeco-logo.webp",
+  "websiteUrl": "https://www.reeco.io",
+  "careersUrl": null,
+  "linkedinId": "re-eco",
+  "linkedinNum": 72472085,
+  "crunchbaseId": null,
+  "ivcId": "A1000000378928",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן אביגדור",
+      "houseNumber": 18,
+      "city": "תל אביב-יפו",
+      "lat": 32.0671161,
+      "lon": 34.7894015
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

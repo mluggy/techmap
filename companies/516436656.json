@@ -6,11 +6,17 @@
   "logoFile": "logos/therapp-logo.webp",
   "websiteUrl": "https://secure.therapconnect.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "therapp",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדס",
@@ -19,5 +25,7 @@
       "lat": 32.1603486,
       "lon": 34.9733538
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

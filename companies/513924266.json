@@ -1,0 +1,31 @@
+{
+  "name": "Tradomatics",
+  "description": "Tradomatics is specializing in high-frequency trading.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/tradomatics-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000367062",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מאיר נקר",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.124238,
+      "lon": 34.807116
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

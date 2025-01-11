@@ -6,11 +6,17 @@
   "logoFile": "logos/plataine-logo.webp",
   "websiteUrl": "https://www.plataine.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "plataine",
+  "linkedinNum": 847450,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "plataine",
   "xId": "Plataine_IIoT",
+  "facebookId": "plataine",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אפעל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "plataine",
-  "linkedinNum": 847450
+  "isActive": true
 }

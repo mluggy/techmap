@@ -6,11 +6,17 @@
   "logoFile": "logos/arineta-logo.webp",
   "websiteUrl": "https://www.arineta.com/",
   "careersUrl": "https://www.arineta.com/israel/",
-  "isHiring": true,
   "linkedinId": "arineta-ltd-",
+  "linkedinNum": 9485382,
   "crunchbaseId": null,
+  "ivcId": "A1000000009135",
   "finderId": "arineta",
   "xId": "ArinetaCardio",
+  "facebookId": "arinetaltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלמיש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "arinetaltd",
-  "linkedinNum": 9485382
+  "isActive": true
 }

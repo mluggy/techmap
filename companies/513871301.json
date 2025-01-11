@@ -6,11 +6,17 @@
   "logoFile": "logos/outbrain_israel-logo.webp",
   "websiteUrl": "https://www.outbrain.com/",
   "careersUrl": "https://www.outbrain.com/careers/",
-  "isHiring": true,
   "linkedinId": "outbrain",
+  "linkedinNum": 147120,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "outbrain",
   "xId": "Outbrain",
+  "facebookId": "Outbrain",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רגב אריה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Outbrain",
-  "linkedinNum": 147120
+  "isActive": true
 }

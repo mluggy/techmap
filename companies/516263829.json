@@ -1,0 +1,31 @@
+{
+  "name": "CheckWiz",
+  "description": "CheckWiz is an app is a platform for business owners, real estate companies and individuals, who use and receive checks regularly.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/checkwiz-logo.webp",
+  "websiteUrl": "https://checkwiz.co.il",
+  "careersUrl": null,
+  "linkedinId": "checkwiz-ltd",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000387647",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

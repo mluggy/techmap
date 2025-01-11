@@ -1,0 +1,31 @@
+{
+  "name": "PBM",
+  "description": "PBM's mission is to provide effective, affordable and innovative home-based eye care treatments for patients, suffering from retinal diseases.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pbm-logo.webp",
+  "websiteUrl": "https://pbm-medical.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485681",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יוסף אהרונוביץ'",
+      "houseNumber": 25,
+      "city": "חולון",
+      "lat": 32.0110005,
+      "lon": 34.7696803
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

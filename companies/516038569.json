@@ -6,11 +6,17 @@
   "logoFile": "logos/trustpeers-logo.webp",
   "websiteUrl": "https://trustpeers.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 40868062,
   "crunchbaseId": "trustpeers",
+  "ivcId": null,
   "finderId": "trustpeers1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך הבשמים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 40868062
+  "isActive": true
 }

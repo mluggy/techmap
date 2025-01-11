@@ -6,20 +6,26 @@
   "logoFile": "logos/rapidocad-logo.webp",
   "websiteUrl": "https://rapidocad.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rapidocad",
+  "linkedinNum": 68229436,
   "crunchbaseId": null,
+  "ivcId": "A1000000320572",
   "finderId": "rapidocad",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "משאת משה",
-      "houseNumber": 3,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7638783,
-      "lon": 35.197052
+      "lat": 31.768319,
+      "lon": 35.21371
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68229436
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Fair",
+  "description": "Fair develops a digital platform that accompanies the users in the process of purchasing the mutual fund, starting from the initial search for investment and ending with trading in the funds available in the capital market.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/fair-logo.webp",
+  "websiteUrl": "https://www.fair.co.il",
+  "careersUrl": null,
+  "linkedinId": "fair-fintech",
+  "linkedinNum": 77060146,
+  "crunchbaseId": null,
+  "ivcId": "A1000000417840",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 17,
+      "city": "תל אביב-יפו",
+      "lat": 32.0657521,
+      "lon": 34.7860322
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,11 +6,17 @@
   "logoFile": "logos/agrematch-logo.webp",
   "websiteUrl": "https://www.agrematch.com/",
   "careersUrl": "https://www.agrematch.com/careers",
-  "isHiring": true,
   "linkedinId": "agrematch",
+  "linkedinNum": 18113331,
   "crunchbaseId": "agrematch",
+  "ivcId": "A1000000237241",
   "finderId": "agrematch",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פלאוט מנחם",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18113331
+  "isActive": true
 }

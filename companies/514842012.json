@@ -1,0 +1,31 @@
+{
+  "name": "Dreame",
+  "description": "Dreame is an art platform for custom-created art sourced by the global imagination.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/dreame-logo.webp",
+  "websiteUrl": "http://www.dreame.me",
+  "careersUrl": null,
+  "linkedinId": "dreame",
+  "linkedinNum": 3148915,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023346",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יהודה בורלא",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.1063948,
+      "lon": 34.79040500000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

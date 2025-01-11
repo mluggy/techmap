@@ -1,16 +1,22 @@
 {
   "name": "Saola",
-  "description": "A rare, recently discovered bovid, the saola is known for its distinct horns and striking head markings.",
-  "categoryId": 9,
+  "description": "Saola builds an AI-platform that will impact and change the R&D process.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/saola-logo.webp",
-  "websiteUrl": "https://www.savethesaola.org/",
+  "websiteUrl": "https://www.saola.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000473725",
   "finderId": "saola",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -19,5 +25,7 @@
       "lat": 32.08254365,
       "lon": 34.801384906098356
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

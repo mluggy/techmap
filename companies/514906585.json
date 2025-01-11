@@ -1,16 +1,22 @@
 {
   "name": "Adopt Media",
-  "description": "Advertising Monetization Platform",
+  "description": "Advertising Monetization Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/adopt_media-logo.webp",
   "websiteUrl": "https://www.adopt-media.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5113195,
   "crunchbaseId": null,
+  "ivcId": "A1000000023875",
   "finderId": "adopt-media",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טיומקין",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5113195
+  "isActive": true
 }

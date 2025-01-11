@@ -6,21 +6,26 @@
   "logoFile": "logos/vtool-logo.webp",
   "websiteUrl": "https://www.thevtool.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vtool-ltd",
+  "linkedinNum": 9350366,
   "crunchbaseId": null,
+  "ivcId": "A1000000024071",
   "finderId": "vtool",
   "xId": "_vtool",
+  "facebookId": "TheVtool",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות רוטשילד",
+      "street": "רוטשילד",
       "houseNumber": 45,
-      "city": "תל אביב - יפו",
-      "lat": 32.064232399999995,
-      "lon": 34.77442479088546
+      "city": "בת ים",
+      "lat": 32.0273739,
+      "lon": 34.75076
     }
   ],
   "isMultinational": false,
-  "facebookId": "TheVtool",
-  "linkedinNum": 9350366
+  "isActive": true
 }

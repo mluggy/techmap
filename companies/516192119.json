@@ -6,20 +6,26 @@
   "logoFile": "logos/radarv-logo.webp",
   "websiteUrl": "https://www.radar-v.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "radarv",
+  "linkedinNum": 53101821,
   "crunchbaseId": null,
+  "ivcId": "A1000000368309",
   "finderId": "radarv",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
       "houseNumber": 6,
       "city": "גני תקווה",
-      "lat": 32.0592087,
-      "lon": 34.8819389
+      "lat": 32.0614331,
+      "lon": 34.8817072
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 53101821
+  "isActive": true
 }

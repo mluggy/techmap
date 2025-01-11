@@ -1,26 +1,31 @@
 {
   "name": "Pro4tech",
-  "description": "Specializing in covert, self-contained tactical surveillance systems, this company serves law enforcement and government agencies with expertise-driven designs.",
+  "description": "Pro4tech designs, manufactures, and markets sophisticated tactical surveillance systems.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/pro_4_tech-logo.webp",
-  "websiteUrl": "https://www.pro4tech.com/",
+  "websiteUrl": "https://pro4tech.com.br",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pro4tech",
+  "linkedinNum": 14054533,
   "crunchbaseId": "pro4tech",
+  "ivcId": "A1000000188206",
   "finderId": "pro4tech",
   "xId": null,
+  "facebookId": "Pro4TechDigitalTransformation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכרמל",
-      "houseNumber": 1,
-      "city": "יקנעם עילית",
-      "lat": 32.662423450000006,
-      "lon": 35.104844443125
+      "street": "אחד העם",
+      "houseNumber": 9,
+      "city": "תל אביב-יפו",
+      "lat": 32.0640664,
+      "lon": 34.7696096
     }
   ],
   "isMultinational": false,
-  "facebookId": "Pro4TechDigitalTransformation",
-  "linkedinNum": 14054533
+  "isActive": true
 }

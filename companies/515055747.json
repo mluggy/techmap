@@ -6,21 +6,26 @@
   "logoFile": "logos/safebreach-logo.webp",
   "websiteUrl": "https://www.safebreach.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "safebreach",
+  "linkedinNum": 9398701,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "safebreach",
   "xId": "safebreach",
+  "facebookId": "search",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064654,
       "lon": 34.785584
     }
   ],
   "isMultinational": false,
-  "facebookId": "search",
-  "linkedinNum": 9398701
+  "isActive": true
 }

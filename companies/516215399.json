@@ -6,21 +6,26 @@
   "logoFile": "logos/jit_security-logo.webp",
   "websiteUrl": "https://www.jit.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "jit",
+  "linkedinNum": 76113252,
   "crunchbaseId": null,
+  "ivcId": "A1000000365370",
   "finderId": "jit-security",
   "xId": "jit_io",
+  "facebookId": "thejitcompany",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.070524,
-      "lon": 34.786887
+      "city": "תל אביב-יפו",
+      "lat": 32.0704879,
+      "lon": 34.7867549
     }
   ],
   "isMultinational": false,
-  "facebookId": "thejitcompany",
-  "linkedinNum": 76113252
+  "isActive": true
 }

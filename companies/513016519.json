@@ -3,21 +3,29 @@
   "description": "Eco-friendly solutions for treating water and wastewater using biological processes.",
   "categoryId": 17,
   "size": "m",
-  "logoFile": "logos/aqwise_wise_water_technologies_ltd-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/aqwise-wise-water-technologies-logo.webp",
+  "websiteUrl": "http://www.bluegencorp.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aqwise---wise-water-technologies-ltd.",
+  "linkedinNum": 831565,
   "crunchbaseId": "aqwise",
+  "ivcId": "A1000000004799",
   "finderId": "aqwise",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות מנחם בגין",
-      "houseNumber": 35,
-      "city": "טירת כרמל",
-      "lat": 32.7503045,
-      "lon": 34.9675787
+      "street": "המנופים",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.1595821,
+      "lon": 34.8071746
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

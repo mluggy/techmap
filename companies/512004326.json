@@ -1,0 +1,31 @@
+{
+  "name": "Ecotop",
+  "description": "Ecotop is a multi-discipline engineering and consulting company, specializing in energy conservation, environmental protection, services for water treatment and chemical cleaning services.\r.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/ecotop-logo.webp",
+  "websiteUrl": "https://www.ecotop-at.co.il/Ecotop-profile/",
+  "careersUrl": null,
+  "linkedinId": "ecotop-applied-technologies",
+  "linkedinNum": 11550054,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004300",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הבנאי",
+      "houseNumber": 1,
+      "city": "כרמיאל",
+      "lat": 32.9208096,
+      "lon": 35.3107221
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

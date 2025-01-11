@@ -6,20 +6,26 @@
   "logoFile": "logos/emris_pharma-logo.webp",
   "websiteUrl": "https://www.emris-pharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "emris-pharma",
+  "linkedinNum": 93267280,
   "crunchbaseId": null,
+  "ivcId": "A1000000426753",
   "finderId": "emris-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
+      "street": "ואדי אל חאג'",
       "houseNumber": 13,
       "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "lat": 32.6900962,
+      "lon": 35.3001352
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 93267280
+  "isActive": true
 }

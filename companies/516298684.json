@@ -6,11 +6,17 @@
   "logoFile": "logos/sighteer-logo.webp",
   "websiteUrl": "https://www.sighteer.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 64708226,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sighteer",
   "xId": "sighteerus",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זמיר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64708226
+  "isActive": true
 }

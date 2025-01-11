@@ -6,11 +6,17 @@
   "logoFile": "logos/mobichem_scientific_engineering-logo.webp",
   "websiteUrl": "https://mobichem-sci.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000173831",
   "finderId": "mobichem-scientific-engineering",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרטום",
@@ -20,5 +26,6 @@
       "lon": 35.2105915
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

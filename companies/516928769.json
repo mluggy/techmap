@@ -6,12 +6,17 @@
   "logoFile": "logos/dynamacs.webp",
   "websiteUrl": "https://www.dynamacsiot.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "dynamacs",
   "linkedinNum": 81427774,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dynamacs",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שבטה",
@@ -21,5 +26,6 @@
       "lon": 34.94301110680244
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

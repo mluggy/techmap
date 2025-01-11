@@ -6,11 +6,17 @@
   "logoFile": "logos/edwards_lifesciences_innovation_israel-logo.webp",
   "websiteUrl": "https://www.edwards.com/",
   "careersUrl": "https://www.edwards.com/careers",
-  "isHiring": true,
   "linkedinId": "edwards-lifesciences",
+  "linkedinNum": 163578,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "edwards-lifesciences",
   "xId": "edwardslifesci",
+  "facebookId": "Edwardslifesciences",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטוחן",
@@ -20,7 +26,6 @@
       "lon": 34.9462968
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Edwardslifesciences",
-  "linkedinNum": 163578
+  "isMultinational": false,
+  "isActive": true
 }

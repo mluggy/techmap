@@ -6,20 +6,26 @@
   "logoFile": "logos/cielo_inertial_solutions-logo.webp",
   "websiteUrl": "https://www.cielo-inertial.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cielo-ltd",
+  "linkedinNum": 1143983,
   "crunchbaseId": null,
+  "ivcId": "A1000000197476",
   "finderId": "al-cielo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חפצדי נחום",
-      "houseNumber": 5,
+      "street": "בית אל",
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7895588,
-      "lon": 35.1871223
+      "lat": 31.7748946,
+      "lon": 35.231529
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1143983
+  "isActive": true
 }

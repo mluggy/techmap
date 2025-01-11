@@ -1,16 +1,22 @@
 {
   "name": "Dynamo",
-  "description": "AI-Driven Individual Retargeting at Scale",
+  "description": "AI-Driven Individual Retargeting at Scale.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/dynamo_tech-logo.webp",
   "websiteUrl": "https://www.dynamo.fyi",
   "careersUrl": "https://www.dynamosoftware.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "dynamo-seamless-learning",
+  "linkedinNum": 11774633,
   "crunchbaseId": null,
+  "ivcId": "A1000000276515",
   "finderId": "dynamo-2",
   "xId": "dynamo_10x",
+  "facebookId": "100086697821387",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משושים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "100086697821387",
-  "linkedinNum": 11774633
+  "isActive": true
 }

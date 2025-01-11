@@ -1,16 +1,22 @@
 {
   "name": "PerSys Medical",
   "description": "PerSys Medical specializes in innovative, life-saving medical solutions and emergency response products for military, emergency responders, and healthcare professionals.",
-  "size": "l",
   "categoryId": 12,
+  "size": "l",
   "logoFile": "logos/persys_medical-logo.webp",
   "websiteUrl": "https://persysmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "persys-medical",
+  "linkedinNum": 947002,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "persys-medical",
   "xId": "persys_medical",
+  "facebookId": "persysmedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתרן",
@@ -20,7 +26,6 @@
       "lon": 34.7777381
     }
   ],
-  "isMultinational": true,
-  "facebookId": "persysmedical",
-  "linkedinNum": 947002
+  "isMultinational": false,
+  "isActive": true
 }

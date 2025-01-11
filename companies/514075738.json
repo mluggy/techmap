@@ -3,14 +3,20 @@
   "description": "Platform for Securing APIs.",
   "categoryId": 7,
   "size": "m",
-  "logoFile": "logos/wib_systems-logo.webp",
+  "logoFile": "logos/wib-systems-logo.webp",
   "websiteUrl": "https://www.wibtec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wibsecurity",
+  "linkedinNum": 76491877,
   "crunchbaseId": "wib",
+  "ivcId": null,
   "finderId": "wib",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רא\"ל יגאל ידין",
@@ -19,5 +25,7 @@
       "lat": 31.90674396665894,
       "lon": 35.003413258978206
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

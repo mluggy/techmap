@@ -6,11 +6,17 @@
   "logoFile": "logos/homismart-logo.webp",
   "websiteUrl": "https://www.homismart.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "homi-smart",
+  "linkedinNum": 5197514,
   "crunchbaseId": null,
+  "ivcId": "A1000000174891",
   "finderId": "homismart",
   "xId": null,
+  "facebookId": "HomiSmart",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוטה גור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "HomiSmart",
-  "linkedinNum": 5197514
+  "isActive": true
 }

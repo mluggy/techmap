@@ -6,21 +6,26 @@
   "logoFile": "logos/vectorious_medical_technologies-logo.webp",
   "websiteUrl": "https://vectoriousmedtech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vectorious-medical-technologies",
+  "linkedinNum": 5395385,
   "crunchbaseId": null,
+  "ivcId": "A1000000009713",
   "finderId": "vectorious-medical-technologies",
   "xId": "vectorioustech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "vectoriousmedtech/68.003",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.111205,
-      "lon": 34.8388694
+      "city": "תל אביב-יפו",
+      "lat": 32.1112424,
+      "lon": 34.8389386
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5395385,
-  "comeetId": "vectoriousmedtech/68.003"
+  "isActive": true
 }

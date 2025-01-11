@@ -6,21 +6,26 @@
   "logoFile": "logos/otailo_returns-logo.webp",
   "websiteUrl": "https://otailo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "otailo",
+  "linkedinNum": 35532792,
   "crunchbaseId": "otailo-returns",
+  "ivcId": "A1000000288301",
   "finderId": "otailo",
   "xId": null,
+  "facebookId": "otailoPlatform",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המחתרת",
-      "houseNumber": 11,
+      "street": null,
+      "houseNumber": null,
       "city": "רמת השרון",
-      "lat": 32.1467459,
-      "lon": 34.842099
+      "lat": 32.137793,
+      "lon": 34.840278
     }
   ],
   "isMultinational": false,
-  "facebookId": "otailoPlatform",
-  "linkedinNum": 35532792
+  "isActive": true
 }

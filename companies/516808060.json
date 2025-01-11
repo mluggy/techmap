@@ -3,13 +3,29 @@
   "description": "Our software utilizes real-time data and advanced algorithms to optimize the operation of multi-asset energy storage systems.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/ageera_evron_general_partner-logo.webp",
+  "logoFile": "logos/ageera-evron-general-partner-logo.webp",
   "websiteUrl": "https://www.ageera.org/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ageera-energy-storage-systems",
+  "linkedinNum": 88005687,
   "crunchbaseId": null,
+  "ivcId": "A1000000398354",
   "finderId": "ageera",
   "xId": null,
-  "addresses": []
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "חיפה",
+      "lat": 32.7940463,
+      "lon": 34.989571
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

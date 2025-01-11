@@ -1,26 +1,31 @@
 {
   "name": "4Girls",
-  "description": "Platform for Detecting Mental Distress",
+  "description": "Platform for Detecting Mental Distress.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/4_girls-logo.webp",
   "websiteUrl": "https://www.moodknight.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "4girls.co.il",
+  "linkedinNum": 1242224,
   "crunchbaseId": null,
+  "ivcId": "A1000000316536",
   "finderId": "4girls",
   "xId": null,
+  "facebookId": "4girls.official",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סוקולוב",
       "houseNumber": 34,
-      "city": "תל אביב - יפו",
-      "lat": 32.08933,
-      "lon": 34.777877
+      "city": "רמת השרון",
+      "lat": 32.1418902,
+      "lon": 34.8369925
     }
   ],
   "isMultinational": false,
-  "facebookId": "4girls.official",
-  "linkedinNum": 1242224
+  "isActive": true
 }

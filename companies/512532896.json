@@ -6,11 +6,17 @@
   "logoFile": "logos/afron_machinery-logo.webp",
   "websiteUrl": "https://www.afron.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "afron",
   "xId": null,
+  "facebookId": "afron.machines",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך פיק\"א",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "afron.machines"
+  "isActive": true
 }

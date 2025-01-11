@@ -6,20 +6,26 @@
   "logoFile": "logos/cognifiber-logo.webp",
   "websiteUrl": "https://www.cognifiber.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cognifiber-ltd",
+  "linkedinNum": 67874518,
   "crunchbaseId": "cognifiber",
+  "ivcId": "A1000000252039",
   "finderId": "cognifiber",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אחווה",
-      "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.062283,
-      "lon": 34.764451
+      "street": "המלאכה",
+      "houseNumber": 23,
+      "city": "ראש העין",
+      "lat": 32.1079328,
+      "lon": 34.9706967
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 67874518
+  "isActive": true
 }

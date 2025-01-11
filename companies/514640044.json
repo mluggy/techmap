@@ -6,21 +6,26 @@
   "logoFile": "logos/spivitech-logo.webp",
   "websiteUrl": "https://www.spivi.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "spivitech",
+  "linkedinNum": 720922,
   "crunchbaseId": null,
+  "ivcId": "A1000000001233",
   "finderId": "spivitech",
   "xId": "spivitech",
+  "facebookId": "spivitech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השקמה",
+      "street": "השיקמה",
       "houseNumber": 2,
       "city": "אזור",
-      "lat": 32.0320199,
-      "lon": 34.7973339
+      "lat": 32.0298008,
+      "lon": 34.7980327
     }
   ],
   "isMultinational": false,
-  "facebookId": "spivitech",
-  "linkedinNum": 720922
+  "isActive": true
 }

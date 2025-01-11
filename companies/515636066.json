@@ -6,11 +6,17 @@
   "logoFile": "logos/lonza_israel-logo.webp",
   "websiteUrl": "https://www.lonza.com/",
   "careersUrl": "https://www.lonza.com/careers",
-  "isHiring": true,
   "linkedinId": "lonza",
+  "linkedinNum": 7462,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lonza",
   "xId": "LonzaGroup",
+  "facebookId": "LonzaGroupAG",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתיב האור",
@@ -20,7 +26,6 @@
       "lon": 34.96565267465318
     }
   ],
-  "isMultinational": true,
-  "facebookId": "LonzaGroupAG",
-  "linkedinNum": 7462
+  "isMultinational": false,
+  "isActive": true
 }

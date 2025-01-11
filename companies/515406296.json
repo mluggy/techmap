@@ -1,0 +1,31 @@
+{
+  "name": "SSLcalls",
+  "description": "SSLcalls, developed by Rovux Group, provides customers a full calling, texting and voice mail features, without compromising personal information or having to change SIM cards.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/sslcalls-logo.webp",
+  "websiteUrl": "http://www.sslcalls.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000224139",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרוקמים",
+      "houseNumber": 26,
+      "city": "חולון",
+      "lat": 32.0076095,
+      "lon": 34.8010583
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

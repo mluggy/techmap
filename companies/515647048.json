@@ -6,21 +6,26 @@
   "logoFile": "logos/yes_chef-logo.webp",
   "websiteUrl": "https://yeschef.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "yeschef",
+  "linkedinNum": 11170996,
   "crunchbaseId": null,
+  "ivcId": "A1000000249063",
   "finderId": "yeschef",
   "xId": "yeschefhq",
+  "facebookId": "YesChefHQ",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלוני ניסים",
-      "houseNumber": 17,
-      "city": "תל אביב - יפו",
-      "lat": 32.089891,
-      "lon": 34.79648
+      "street": "רחוב אריה שנקר",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1608042,
+      "lon": 34.810067
     }
   ],
   "isMultinational": false,
-  "facebookId": "YesChefHQ",
-  "linkedinNum": 11170996
+  "isActive": true
 }

@@ -6,18 +6,26 @@
   "logoFile": "logos/curical_technologies-logo.webp",
   "websiteUrl": "https://www.curicaltech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "curical-technologies-ltd-",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "curical-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קהילת סופיה",
       "houseNumber": 40,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.119289,
       "lon": 34.816708
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

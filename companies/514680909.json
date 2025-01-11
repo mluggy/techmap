@@ -1,26 +1,31 @@
 {
   "name": "iFact",
-  "description": "Financial Operations Management Software",
+  "description": "Financial Operations Management Software.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/i_fact-logo.webp",
   "websiteUrl": "https://bizibox.biz/en/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bizibox",
+  "linkedinNum": 2740416,
   "crunchbaseId": null,
+  "ivcId": "A1000000195489",
   "finderId": "ifact",
   "xId": null,
+  "facebookId": "bizibox",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תובל",
-      "houseNumber": 40,
-      "city": "רמת גן",
-      "lat": 32.08501775,
-      "lon": 34.80164595917552
+      "street": "מוזס יהודה ונח",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.0760978,
+      "lon": 34.7948347
     }
   ],
   "isMultinational": false,
-  "facebookId": "bizibox",
-  "linkedinNum": 2740416
+  "isActive": true
 }

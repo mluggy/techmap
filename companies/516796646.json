@@ -1,16 +1,22 @@
 {
   "name": "Calodar",
-  "description": "Nutritional Scanning Solution",
+  "description": "Nutritional Scanning Solution.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/calodar-logo.webp",
   "websiteUrl": "https://calodar.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "calodar-ai",
+  "linkedinNum": 82640071,
   "crunchbaseId": null,
+  "ivcId": "A1000000412600",
   "finderId": "calodar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82640071
+  "isActive": true
 }

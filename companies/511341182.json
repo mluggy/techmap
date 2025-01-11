@@ -6,21 +6,26 @@
   "logoFile": "logos/compedia_software_and_hardware_development-logo.webp",
   "websiteUrl": "https://www.compedia.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "compedia",
+  "linkedinNum": 67814,
   "crunchbaseId": null,
+  "ivcId": "A1000000005049",
   "finderId": "compedia",
   "xId": "Compedia1988",
+  "facebookId": "compedialtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בן גוריון דוד",
+      "street": "בן גוריון",
       "houseNumber": 2,
-      "city": "רמת גן",
-      "lat": 32.0952767,
-      "lon": 34.8214828
+      "city": "פתח תקווה",
+      "lat": 32.0815746,
+      "lon": 34.8704668
     }
   ],
   "isMultinational": false,
-  "facebookId": "compedialtd",
-  "linkedinNum": 67814
+  "isActive": true
 }

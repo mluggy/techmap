@@ -6,19 +6,26 @@
   "logoFile": "logos/biomarkerz-logo.webp",
   "websiteUrl": "https://www.biomarkerz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "biomarkerz",
+  "ivcId": null,
   "finderId": "biomarkerz",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלי כהן",
       "houseNumber": 11,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.121775,
       "lon": 34.793306
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

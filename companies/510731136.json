@@ -6,12 +6,17 @@
   "logoFile": "logos/joshu.webp",
   "websiteUrl": "https://joshuins.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "joshu",
   "linkedinNum": 67560087,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "joshu",
   "xId": "JoinJoshu",
   "facebookId": "100077134941648",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,5 +26,6 @@
       "lon": 34.84954330252248
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

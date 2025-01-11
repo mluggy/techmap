@@ -6,21 +6,26 @@
   "logoFile": "logos/shl_telemedicine_international_ltd-logo.webp",
   "websiteUrl": "https://www.shl-telemedicine.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "shl-telemedicine",
+  "linkedinNum": 351032,
   "crunchbaseId": null,
+  "ivcId": "A1000000007238",
   "finderId": "shl-telemedicine",
   "xId": null,
+  "facebookId": "shahal.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 90,
-      "city": "תל אביב - יפו",
-      "lat": 32.0672,
-      "lon": 34.793221
+      "city": "תל אביב-יפו",
+      "lat": 32.0672003,
+      "lon": 34.7936643
     }
   ],
   "isMultinational": false,
-  "facebookId": "shahal.co.il",
-  "linkedinNum": 351032
+  "isActive": true
 }

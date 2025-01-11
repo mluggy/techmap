@@ -1,25 +1,31 @@
 {
   "name": "Munch",
-  "description": "AI-based Content Creation Platform",
+  "description": "AI-based Content Creation Platform.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/munch-logo.webp",
   "websiteUrl": "https://www.getmunch.com/",
   "careersUrl": null,
   "linkedinId": "mnch",
+  "linkedinNum": 76155176,
   "crunchbaseId": "munch-d0fc",
+  "ivcId": "A1000000381744",
   "finderId": "munch",
   "xId": null,
+  "facebookId": "GetMunchIL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יהודה הלוי",
-      "houseNumber": 48,
-      "city": "תל אביב - יפו",
-      "lat": 32.06458053643905,
-      "lon": 34.7773261577069
+      "street": "לסל",
+      "houseNumber": 14,
+      "city": "תל אביב-יפו",
+      "lat": 32.0857838,
+      "lon": 34.7715126
     }
   ],
   "isMultinational": false,
-  "facebookId": "GetMunchIL",
-  "linkedinNum": 76155176
+  "isActive": true
 }

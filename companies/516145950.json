@@ -6,20 +6,26 @@
   "logoFile": "logos/skill_real-logo.webp",
   "websiteUrl": "https://www.skillreal.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "skillreal",
+  "linkedinNum": 27204106,
   "crunchbaseId": null,
+  "ivcId": "A1000000326433",
   "finderId": "skillreal",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בן גוריון דוד",
+      "street": "בן גוריון",
       "houseNumber": 2,
-      "city": "רמת גן",
-      "lat": 32.0952767,
-      "lon": 34.8214828
+      "city": "פתח תקווה",
+      "lat": 32.0815746,
+      "lon": 34.8704668
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27204106
+  "isActive": true
 }

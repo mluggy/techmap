@@ -6,20 +6,26 @@
   "logoFile": "logos/imagindairy-logo.webp",
   "websiteUrl": "https://imagindairy.com/",
   "careersUrl": "https://imagindairy.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "imagindairy-ltd",
+  "linkedinNum": 68846529,
   "crunchbaseId": null,
+  "ivcId": "A1000000333133",
   "finderId": "imagindairy",
   "xId": "imagindairy",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חת נחום",
+      "street": "נחום חת",
       "houseNumber": 7,
-      "city": "טירת כרמל",
-      "lat": 32.7845356,
-      "lon": 34.9577195
+      "city": "חיפה",
+      "lat": 32.7837926,
+      "lon": 34.9604202
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68846529
+  "isActive": true
 }

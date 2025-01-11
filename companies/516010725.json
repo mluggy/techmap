@@ -6,20 +6,26 @@
   "logoFile": "logos/empress_medical-logo.webp",
   "websiteUrl": "https://empressmed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "empress-medical",
+  "linkedinNum": 9015864,
   "crunchbaseId": null,
+  "ivcId": "A1000000277026",
   "finderId": "empress-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
-      "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.108647,
-      "lon": 34.838493
+      "houseNumber": 22,
+      "city": "תל אביב-יפו",
+      "lat": 32.1111939,
+      "lon": 34.8401369
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 9015864
+  "isActive": true
 }

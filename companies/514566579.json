@@ -6,21 +6,26 @@
   "logoFile": "logos/xcircular-logo.webp",
   "websiteUrl": "https://www.xcircular.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "xcircular",
+  "linkedinNum": 1528171,
   "crunchbaseId": null,
+  "ivcId": "A1000000021230",
   "finderId": "xcircular",
   "xId": null,
+  "facebookId": "xcircular",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נחל חרמון",
-      "houseNumber": 74,
-      "city": "חמד",
-      "lat": 32.016740345050486,
-      "lon": 34.837861509993004
+      "street": "הרצפלד",
+      "houseNumber": 30,
+      "city": "חולון",
+      "lat": 32.020109,
+      "lon": 34.7706588
     }
   ],
   "isMultinational": false,
-  "facebookId": "xcircular",
-  "linkedinNum": 1528171
+  "isActive": true
 }

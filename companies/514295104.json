@@ -1,0 +1,31 @@
+{
+  "name": "Smarty",
+  "description": "Smarty is an internet system that will serve as a tool for the users to manage, control, monitor and control employee activities in the areas of maintenance, cleaning, guarding, the supply chain and more.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/smarty-logo.webp",
+  "websiteUrl": "https://smarty.co.il",
+  "careersUrl": null,
+  "linkedinId": "smartyplatform",
+  "linkedinNum": 80964552,
+  "crunchbaseId": null,
+  "ivcId": "A1000000444791",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עמל",
+      "houseNumber": 11,
+      "city": "ראש העין",
+      "lat": 32.1067859,
+      "lon": 34.9705838
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/mitiga-logo.webp",
   "websiteUrl": "https://www.mitiga.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mitiga-io",
+  "linkedinNum": 15800109,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mitiga",
   "xId": "mitiga_io",
+  "facebookId": "mitiga.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065253,
       "lon": 34.785664
     }
   ],
   "isMultinational": false,
-  "facebookId": "mitiga.io",
-  "linkedinNum": 15800109
+  "isActive": true
 }

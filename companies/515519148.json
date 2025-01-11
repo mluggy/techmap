@@ -1,24 +1,31 @@
 {
   "name": "FMR",
-  "description": "Software for Brokers and Investment Houses",
+  "description": "Software for Brokers and Investment Houses.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/fmr_operation_services-logo.webp",
   "websiteUrl": "https://www.fmr.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000008705",
   "finderId": "fmr",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
-      "lat": 32.0657345,
-      "lon": 34.7857836
+      "city": "תל אביב-יפו",
+      "lat": 32.0657521,
+      "lon": 34.7860322
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

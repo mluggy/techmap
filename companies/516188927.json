@@ -6,20 +6,26 @@
   "logoFile": "logos/classiq_technologies-logo.webp",
   "websiteUrl": "https://www.classiq.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "classiq-technologies",
+  "linkedinNum": 67283179,
   "crunchbaseId": null,
+  "ivcId": "A1000000312213",
   "finderId": "classiq-technologies",
   "xId": "ClassiqTech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פריש דניאל",
+      "street": "דניאל פריש",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07463945,
-      "lon": 34.78327163578098
+      "city": "תל אביב-יפו",
+      "lat": 32.0745707,
+      "lon": 34.7832566
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 67283179
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Namogoo",
-  "description": "We eliminate disruptions in the customer journey and utilize distinctive data to provide personalized experiences.",
-  "categoryId": 2,
+  "description": "Wandz.",
+  "categoryId": 7,
   "size": "m",
   "logoFile": "logos/namogoo_technologies-logo.webp",
-  "websiteUrl": "https://www.namogoo.com/",
-  "careersUrl": "https://www.namogoo.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "websiteUrl": "https://wandz.ai",
+  "careersUrl": null,
+  "linkedinId": "wandzai",
+  "linkedinNum": 9247866,
   "crunchbaseId": null,
+  "ivcId": "A1000000175037",
   "finderId": "namogoo",
   "xId": "Namogoo",
+  "facebookId": "namogoo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנאות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "namogoo",
-  "linkedinNum": 9247866
+  "isActive": true
 }

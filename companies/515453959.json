@@ -1,25 +1,31 @@
 {
   "name": "Cubic",
-  "description": "Digital Supply Chain Solutions",
+  "description": "Tuatarix develops a freight forwarding and logistics solution.",
   "categoryId": 14,
-  "size": "s",
+  "size": "xs",
   "logoFile": "logos/cubic_wealth_management-logo.webp",
-  "websiteUrl": "https://www.gocubic.io/",
-  "careersUrl": "https://www.cubic.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "websiteUrl": "https://www.tuatarix.com",
+  "careersUrl": null,
+  "linkedinId": "gocubic",
+  "linkedinNum": 82137446,
   "crunchbaseId": null,
+  "ivcId": "A1000000367698",
   "finderId": "cubic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב אורבוך",
-      "houseNumber": 31,
-      "city": "רמת השרון",
-      "lat": 32.14153047593507,
-      "lon": 34.84240219248671
+      "street": "פרופ' יובל נאמן",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.111375,
+      "lon": 34.787775
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82137446
+  "isActive": true
 }

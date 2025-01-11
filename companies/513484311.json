@@ -1,25 +1,31 @@
 {
   "name": "Velox",
-  "description": "Direct-to-shape Digital Decoration",
+  "description": "Direct-to-shape Digital Decoration.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/velox-logo.webp",
   "websiteUrl": "https://www.velox-digital.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "velox-puredigital-ltd-",
+  "linkedinNum": 3147670,
   "crunchbaseId": null,
+  "ivcId": "A1000000020780",
   "finderId": "velox",
   "xId": "Velox_DigiPrint",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגולן",
-      "houseNumber": 6,
-      "city": "אבן יהודה",
-      "lat": 32.2675706,
-      "lon": 34.8890845
+      "street": "המלאכה",
+      "houseNumber": 8,
+      "city": "ראש העין",
+      "lat": 32.1092817,
+      "lon": 34.9671409
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3147670
+  "isActive": true
 }

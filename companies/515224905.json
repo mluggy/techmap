@@ -6,21 +6,26 @@
   "logoFile": "logos/fortvision-logo.webp",
   "websiteUrl": "https://www.fortvision.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "forvision",
+  "linkedinNum": 5308571,
   "crunchbaseId": null,
+  "ivcId": "A1000000188300",
   "finderId": "fortvision",
   "xId": "fortvision",
+  "facebookId": "FORTVISION-1554894801444575",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התעשיה",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.0670683,
-      "lon": 34.7856051
+      "street": "החשמונאים",
+      "houseNumber": 88,
+      "city": "תל אביב-יפו",
+      "lat": 32.069375,
+      "lon": 34.7835128
     }
   ],
   "isMultinational": false,
-  "facebookId": "FORTVISION-1554894801444575",
-  "linkedinNum": 5308571
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "AirGreen",
-  "description": "Air Conditioning Solutions",
+  "description": "Air Conditioning Solutions.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/airgreen-logo.webp",
   "websiteUrl": "https://www.airgreen.co.il/airgreen-home/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000002546",
   "finderId": "airgreen",
   "xId": "AirGreen8",
+  "facebookId": "airgreenofficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אד\"ם הכהן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "airgreenofficial"
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Future Ecommerce",
-  "description": "A comprehensive solution for online business operations.",
-  "categoryId": 9,
+  "description": "FutureEcom has developed an eCommerce platform that levels the playing field and provides enterprise features to small and medium businesses.",
+  "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/future_ecommerce-logo.webp",
-  "websiteUrl": "https://www.futurecommerce.com/",
+  "logoFile": "logos/future-ecommerce-logo.webp",
+  "websiteUrl": "https://www.futureecom.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "futureecom",
+  "linkedinNum": 19002953,
   "crunchbaseId": null,
+  "ivcId": "A1000000478019",
   "finderId": "future-ecommerce-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סיתוונית",
@@ -19,5 +25,7 @@
       "lat": 31.7361216,
       "lon": 34.9833601
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

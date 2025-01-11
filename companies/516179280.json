@@ -1,25 +1,31 @@
 {
   "name": "PointAR",
-  "description": "Remote Assistance Solutions",
+  "description": "Remote Assistance Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pointar-logo.webp",
   "websiteUrl": "https://www.point-ar.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pointar",
+  "linkedinNum": 71239252,
   "crunchbaseId": null,
+  "ivcId": "A1000000382726",
   "finderId": "pointar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המעיין",
-      "houseNumber": 2,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.922288,
-      "lon": 34.9688892
+      "street": "הנגר",
+      "houseNumber": 6,
+      "city": "הוד השרון",
+      "lat": 32.130223,
+      "lon": 34.892814
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71239252
+  "isActive": true
 }

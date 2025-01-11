@@ -6,11 +6,17 @@
   "logoFile": "logos/cyviation-logo.webp",
   "websiteUrl": "https://cyviation.aero/",
   "careersUrl": "https://cyviation.aero/careers/",
-  "isHiring": true,
   "linkedinId": "cyviation",
+  "linkedinNum": 77076872,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cyviation",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +25,7 @@
       "lat": 32.1589166,
       "lon": 34.8088984
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

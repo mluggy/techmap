@@ -1,26 +1,31 @@
 {
   "name": "ACID Technologies",
-  "description": "This company provides continuous dark web monitoring and cyber intelligence to protect organizations from cyber attacks.",
+  "description": "ACID implements a proactive approach to cyber security: it provides a supplementary layer of protection by initiating widespread searches to detect potential threats and risks long before actual attacks commence, as opposed to responding to hostile action once it takes place, after damage has been done.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/acid_technologies-logo.webp",
-  "websiteUrl": "https://www.acid-tech.com/",
+  "websiteUrl": "https://www.acid-tech.co",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "acid-technologies",
+  "linkedinNum": 4854877,
   "crunchbaseId": null,
+  "ivcId": "A1000000188757",
   "finderId": "acid-technologies",
   "xId": "AcidTec",
+  "facebookId": "AcidTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לסקוב חיים",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.1746968,
-      "lon": 34.8419719
+      "street": "ברקוביץ'",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0785529,
+      "lon": 34.7869819
     }
   ],
   "isMultinational": false,
-  "facebookId": "AcidTechnologies",
-  "linkedinNum": 4854877
+  "isActive": true
 }

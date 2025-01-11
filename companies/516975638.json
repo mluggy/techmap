@@ -6,20 +6,26 @@
   "logoFile": "logos/sharkbiit-logo.webp",
   "websiteUrl": "https://sharkbiit.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sharkbiit",
+  "linkedinNum": 80961694,
   "crunchbaseId": null,
+  "ivcId": "A1000000371336",
   "finderId": "sharkbiit",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרגות",
       "houseNumber": 44,
-      "city": "כוכב יאיר",
-      "lat": 32.2298352,
-      "lon": 35.0066472
+      "city": "כוכב יאיר צור יגאל",
+      "lat": 32.2324819,
+      "lon": 35.0058247
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80961694
+  "isActive": true
 }

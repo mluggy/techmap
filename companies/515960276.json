@@ -6,11 +6,17 @@
   "logoFile": "logos/flashyapp-logo.webp",
   "websiteUrl": "https://flashy.app/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18053532,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "flashyapp",
   "xId": null,
+  "facebookId": "Flashyapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Flashyapp",
-  "linkedinNum": 18053532
+  "isActive": true
 }

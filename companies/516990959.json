@@ -1,0 +1,31 @@
+{
+  "name": "Popai Health",
+  "description": "Popai processes care management calls with AI, uncovers key aggregated insights from patient calls and enables easy automated actions elevating the patient care experience to new heights.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/popai-health-logo.webp",
+  "websiteUrl": "https://www.popai.health",
+  "careersUrl": null,
+  "linkedinId": "popai-health",
+  "linkedinNum": 105812767,
+  "crunchbaseId": null,
+  "ivcId": "A1000000494679",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תוצרת הארץ",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.0732734,
+      "lon": 34.7970061
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

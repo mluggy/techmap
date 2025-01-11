@@ -1,26 +1,31 @@
 {
   "name": "Vaica Medical",
-  "description": "Digital Support Platform for Patient Monitoring and Medication Adherence Management",
+  "description": "Digital Support Platform for Patient Monitoring and Medication Adherence Management.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/vaica_medical-logo.webp",
   "websiteUrl": "https://www.vaica.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vaica",
+  "linkedinNum": 10535016,
   "crunchbaseId": "vaica",
+  "ivcId": "A1000000005467",
   "finderId": "vaica-medical",
   "xId": "VaicaMed",
+  "facebookId": "vaicamedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בית הלל",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.069608,
-      "lon": 34.789739
+      "street": "דרך מנחם בגין",
+      "houseNumber": 11,
+      "city": "רמת גן",
+      "lat": 32.0864082,
+      "lon": 34.8004541
     }
   ],
   "isMultinational": false,
-  "facebookId": "vaicamedical",
-  "linkedinNum": 10535016
+  "isActive": true
 }

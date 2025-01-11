@@ -6,20 +6,26 @@
   "logoFile": "logos/biobetter-logo.webp",
   "websiteUrl": "https://biobetter.bio/",
   "careersUrl": "https://biobetter.bio/careers/",
-  "isHiring": true,
   "linkedinId": "biobetter",
+  "linkedinNum": 53427282,
   "crunchbaseId": null,
+  "ivcId": "A1000000217850",
   "finderId": "biobetter",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גן תעשייה",
-      "houseNumber": null,
-      "city": "תל חי",
-      "lat": 33.236547896715905,
-      "lon": 35.583145131724606
+      "street": "תרשיש",
+      "houseNumber": 6,
+      "city": "קרית שמונה",
+      "lat": 33.1963584,
+      "lon": 35.5747168
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 53427282
+  "isActive": true
 }

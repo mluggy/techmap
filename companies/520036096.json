@@ -1,25 +1,31 @@
 {
   "name": "Tectona",
-  "description": "Online Platform for Creating, Trading, and Investing in Digital Assets",
+  "description": "Online Platform for Creating, Trading, and Investing in Digital Assets.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/tectona-logo.webp",
   "websiteUrl": "https://www.tectona.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tectona_ltd",
+  "linkedinNum": 78456007,
   "crunchbaseId": null,
+  "ivcId": "A1000000005694",
   "finderId": "tectona",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
+      "street": "דרך מנחם בגין",
       "houseNumber": 7,
-      "city": "רמת גן",
-      "lat": 32.08566465,
-      "lon": 34.799904568972636
+      "city": "תל אביב-יפו",
+      "lat": 32.0606288,
+      "lon": 34.7752815
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78456007
+  "isActive": true
 }

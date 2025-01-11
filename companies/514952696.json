@@ -6,21 +6,26 @@
   "logoFile": "logos/cathetrix-logo.webp",
   "websiteUrl": "https://cathetrix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cathetrix",
+  "linkedinNum": 48759463,
   "crunchbaseId": null,
+  "ivcId": "A1000000023410",
   "finderId": "cathetrix",
   "xId": "cathetrix",
+  "facebookId": "cathetrix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריב\"ל",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
-      "lat": 32.062477,
-      "lon": 34.782957
+      "city": "תל אביב-יפו",
+      "lat": 32.0624677,
+      "lon": 34.7829068
     }
   ],
   "isMultinational": false,
-  "facebookId": "cathetrix",
-  "linkedinNum": 48759463
+  "isActive": true
 }

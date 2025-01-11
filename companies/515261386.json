@@ -1,16 +1,22 @@
 {
   "name": "ATLASense Biomed",
-  "description": "Wearable Solution for Clinical Decision Support",
+  "description": "Wearable Solution for Clinical Decision Support.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/atlasense_biomed-logo.webp",
   "websiteUrl": "https://www.atlasensebiomed.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "atlasensebiomed",
+  "linkedinNum": 16168862,
   "crunchbaseId": "atlasense-biomed",
+  "ivcId": "A1000000175224",
   "finderId": "atlasense-biomed",
   "xId": null,
+  "facebookId": "ATLASense",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עזר וייצמן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ATLASense",
-  "linkedinNum": 16168862
+  "isActive": true
 }

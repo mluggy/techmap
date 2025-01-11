@@ -6,11 +6,17 @@
   "logoFile": "logos/ncr_global-logo.webp",
   "websiteUrl": "https://www.ncr.com/",
   "careersUrl": "https://www.ncratleos.com/careers",
-  "isHiring": true,
   "linkedinId": "ncr-corporation",
+  "linkedinNum": 1467,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ncr",
   "xId": "NCRCorporation",
+  "facebookId": "ncrcorp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דפנה",
@@ -20,7 +26,6 @@
       "lon": 34.88010202850285
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ncrcorp",
-  "linkedinNum": 1467
+  "isMultinational": false,
+  "isActive": true
 }

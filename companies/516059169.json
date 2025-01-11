@@ -6,20 +6,26 @@
   "logoFile": "logos/vanti_analytics-logo.webp",
   "websiteUrl": "https://www.vanti.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vanti-ai",
+  "linkedinNum": 26535059,
   "crunchbaseId": "vanti-analytics",
+  "ivcId": "A1000000304507",
   "finderId": "vanti-analytics",
   "xId": "AnalyticsVanti",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "street": "החרש",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.0588715,
+      "lon": 34.7845818
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 26535059
+  "isActive": true
 }

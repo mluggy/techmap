@@ -6,20 +6,26 @@
   "logoFile": "logos/compass_33-logo.webp",
   "websiteUrl": "https://compass33.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "compass-33",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000477534",
   "finderId": "compass-33-ltd",
   "xId": null,
+  "facebookId": "compass33",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כיכר קדומים",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
-      "lat": 32.054218399999996,
-      "lon": 34.751754404212036
+      "city": "תל אביב-יפו",
+      "lat": 32.0539808,
+      "lon": 34.7512703
     }
   ],
   "isMultinational": false,
-  "facebookId": "compass33"
+  "isActive": true
 }

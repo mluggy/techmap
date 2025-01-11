@@ -6,21 +6,26 @@
   "logoFile": "logos/brenmiller_energy-logo.webp",
   "websiteUrl": "https://bren-energy.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "brenmiller-energy",
+  "linkedinNum": 5040869,
   "crunchbaseId": null,
+  "ivcId": "A1000000023736",
   "finderId": "brenmiller-energy",
   "xId": "brenenergy",
+  "facebookId": "brenmillerenergy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
       "houseNumber": 13,
       "city": "ראש העין",
-      "lat": 32.0970131,
-      "lon": 34.9105972
+      "lat": 32.10603860000001,
+      "lon": 34.9688448
     }
   ],
   "isMultinational": false,
-  "facebookId": "brenmillerenergy",
-  "linkedinNum": 5040869
+  "isActive": true
 }

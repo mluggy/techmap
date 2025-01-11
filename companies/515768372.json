@@ -6,21 +6,26 @@
   "logoFile": "logos/aivf-logo.webp",
   "websiteUrl": "https://aivf.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aivf",
+  "linkedinNum": 27952236,
   "crunchbaseId": null,
+  "ivcId": "A1000000253523",
   "finderId": "aivf1",
   "xId": "AiVFtech",
+  "facebookId": "100070652641691",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.1091103,
-      "lon": 34.8404939
+      "city": "תל אביב-יפו",
+      "lat": 32.1093129,
+      "lon": 34.8405444
     }
   ],
   "isMultinational": false,
-  "facebookId": "100070652641691",
-  "linkedinNum": 27952236
+  "isActive": true
 }

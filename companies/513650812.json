@@ -1,0 +1,31 @@
+{
+  "name": "BugSec",
+  "description": "Bugsec is providing high-end consulting and managed security services (MSSP).",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/bugsec-logo.webp",
+  "websiteUrl": "https://bugsec.com",
+  "careersUrl": null,
+  "linkedinId": "bugsec",
+  "linkedinNum": 1875566,
+  "crunchbaseId": null,
+  "ivcId": "A1000000008646",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות נים",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.95017679999999,
+      "lon": 34.8029427
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

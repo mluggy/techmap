@@ -1,0 +1,31 @@
+{
+  "name": "InBe",
+  "description": "InBe provides a personalized сareer development platform, creating the next generation of career development and personal growth.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/inbe-logo.webp",
+  "websiteUrl": "https://www.inbe.me",
+  "careersUrl": null,
+  "linkedinId": "inbe-tech",
+  "linkedinNum": 40816538,
+  "crunchbaseId": null,
+  "ivcId": "A1000000306199",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "אלעד",
+      "lat": 32.0490642,
+      "lon": 34.9651704
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

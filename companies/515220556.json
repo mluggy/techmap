@@ -6,11 +6,17 @@
   "logoFile": "logos/biomx-logo.webp",
   "websiteUrl": "https://www.biomx.com/",
   "careersUrl": "https://www.biomx.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "biomxbio",
+  "linkedinNum": 18049975,
   "crunchbaseId": null,
+  "ivcId": "A1000000208263",
   "finderId": "mbcure",
   "xId": "BiomX_Inc",
+  "facebookId": "Biomx-2286421221606645",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אינשטיין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Biomx-2286421221606645",
-  "linkedinNum": 18049975
+  "isActive": true
 }

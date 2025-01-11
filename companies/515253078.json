@@ -1,0 +1,31 @@
+{
+  "name": "Inteller",
+  "description": "IntelFinder is the world’s first fully automated and scalable SaaS-based solution for customer-specific and actionable threat intelligence.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/inteller-logo.webp",
+  "websiteUrl": "http://inteller.com",
+  "careersUrl": null,
+  "linkedinId": "intelfinder",
+  "linkedinNum": 64725245,
+  "crunchbaseId": null,
+  "ivcId": "A1000000219785",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב מצפה-ים",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.16582620000001,
+      "lon": 34.8159201
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

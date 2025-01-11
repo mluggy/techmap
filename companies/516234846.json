@@ -6,21 +6,26 @@
   "logoFile": "logos/vii_events-logo.webp",
   "websiteUrl": "https://www.vii.events/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vii-events",
+  "linkedinNum": 64973204,
   "crunchbaseId": null,
+  "ivcId": "A1000000330064",
   "finderId": "vii-events",
   "xId": "viievents",
+  "facebookId": "VIIEvents2020",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ילין מור נתן",
+      "street": "נתן ילין מור",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.06902338218648,
-      "lon": 34.791230491362704
+      "city": "תל אביב-יפו",
+      "lat": 32.0688416,
+      "lon": 34.7911983
     }
   ],
   "isMultinational": false,
-  "facebookId": "VIIEvents2020",
-  "linkedinNum": 64973204
+  "isActive": true
 }

@@ -1,24 +1,31 @@
 {
   "name": "Read Twogether",
-  "description": "Text-based Solution for Learning a New Language",
+  "description": "Text-based Solution for Learning a New Language.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/read_twogether-logo.webp",
   "websiteUrl": "https://drive.google.com/file/d/1IZxubRz64L8DOz4O15ZuB5A3tMKJS83n/view?usp=drivesdk",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000333891",
   "finderId": "read-twogether",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ניימן שמואל",
-      "houseNumber": 14,
-      "city": "ירושלים",
-      "lat": 31.8422827,
-      "lon": 35.2487798
+      "street": "רבי עקיבא",
+      "houseNumber": 86,
+      "city": "בני ברק",
+      "lat": 32.0860941,
+      "lon": 34.8304054
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

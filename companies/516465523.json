@@ -1,16 +1,23 @@
 {
   "name": "Coool Energy",
-  "description": "Stealth Mode",
+  "description": "Stealth Mode.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/coool_energy-logo.webp",
   "websiteUrl": "https://coool.energy/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000453903",
   "finderId": "coool-energy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

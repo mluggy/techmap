@@ -6,21 +6,26 @@
   "logoFile": "logos/fornova-logo.webp",
   "websiteUrl": "https://www.fornova.com/",
   "careersUrl": "https://www.fornova.com/careers",
-  "isHiring": true,
   "linkedinId": "fornova",
+  "linkedinNum": 603615,
   "crunchbaseId": null,
+  "ivcId": "A1000000002770",
   "finderId": "fornova",
   "xId": "fornova",
+  "facebookId": "fornovaltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חורש האלונים",
-      "houseNumber": 12,
-      "city": "רמת ישי",
-      "lat": 32.7084175,
-      "lon": 35.1744669
+      "street": "המדע",
+      "houseNumber": 6,
+      "city": "יוקנעם עילית",
+      "lat": 32.6586323,
+      "lon": 35.10039039999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "fornovaltd",
-  "linkedinNum": 603615
+  "isActive": true
 }

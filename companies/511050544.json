@@ -6,11 +6,17 @@
   "logoFile": "logos/vidisco-logo.webp",
   "websiteUrl": "https://vidisco.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vidisco",
+  "linkedinNum": 127506,
   "crunchbaseId": null,
+  "ivcId": "A1000000005870",
   "finderId": "vidisco",
   "xId": "Vidisco54",
+  "facebookId": "vidisco.xray",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרושת",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "vidisco.xray",
-  "linkedinNum": 127506
+  "isActive": true
 }

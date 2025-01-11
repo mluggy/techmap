@@ -6,21 +6,26 @@
   "logoFile": "logos/scribe_security-logo.webp",
   "websiteUrl": "https://scribesecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "scribe-security",
+  "linkedinNum": 77925111,
   "crunchbaseId": null,
+  "ivcId": "A1000000375616",
   "finderId": "scribe-security",
   "xId": "ScribeSecurity",
+  "facebookId": "Scribe-Security-108639205049370",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ק\"ם",
-      "houseNumber": 57,
-      "city": "תל אביב - יפו",
-      "lat": 32.116847,
-      "lon": 34.83718
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "Scribe-Security-108639205049370",
-  "linkedinNum": 77925111
+  "isActive": true
 }

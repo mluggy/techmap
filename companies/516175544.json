@@ -1,0 +1,31 @@
+{
+  "name": "IFovea",
+  "description": "IFovea is solving critical problems of brain health in ICUs by creating solutions for clinical needs in the brain-health domain.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ifovea-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000415870",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך אבא הלל",
+      "houseNumber": 16,
+      "city": "רמת גן",
+      "lat": 32.086091,
+      "lon": 34.8054923
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

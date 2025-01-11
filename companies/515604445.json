@@ -6,21 +6,26 @@
   "logoFile": "logos/hailo_technologies-logo.webp",
   "websiteUrl": "https://hailo.ai/",
   "careersUrl": "https://hailo.ai/company-overview/careers/",
-  "isHiring": true,
   "linkedinId": "hailo-ai",
+  "linkedinNum": 18349833,
   "crunchbaseId": null,
+  "ivcId": "A1000000243190",
   "finderId": "hailo",
   "xId": "Hailo_ai",
+  "facebookId": "HailoTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגאל אלון",
       "houseNumber": 82,
-      "city": "תל אביב - יפו",
-      "lat": 32.066186,
-      "lon": 34.792954
+      "city": "תל אביב-יפו",
+      "lat": 32.0662181,
+      "lon": 34.7928935
     }
   ],
   "isMultinational": false,
-  "facebookId": "HailoTech",
-  "linkedinNum": 18349833
+  "isActive": true
 }

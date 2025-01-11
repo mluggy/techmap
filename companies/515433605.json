@@ -1,26 +1,31 @@
 {
   "name": "ada",
   "description": "Advocating for civil rights, this organization ensures legal protections for individuals with disabilities across various public domains.",
-  "size": "l",
   "categoryId": 14,
+  "size": "l",
   "logoFile": "logos/ada_karmi_melamede_architects-logo.webp",
   "websiteUrl": "https://www.ada.cx/",
   "careersUrl": "https://www.ada.org/jobs-at-the-ada",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 16194366,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ada",
   "xId": "ada_cx",
+  "facebookId": "getadasupport",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קפלן",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073729,
       "lon": 34.784469
     }
   ],
-  "isMultinational": true,
-  "facebookId": "getadasupport",
-  "linkedinNum": 16194366
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/doconvert-logo.webp",
   "websiteUrl": "https://doconvert.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "doconvert",
+  "linkedinNum": 80161988,
   "crunchbaseId": null,
+  "ivcId": "A1000000493287",
   "finderId": "doconvert",
   "xId": null,
+  "facebookId": "DOConvert",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לוי יצחק",
+      "street": "הרב לוי יצחק",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.08755,
-      "lon": 34.776458
+      "city": "תל אביב-יפו",
+      "lat": 32.0875691,
+      "lon": 34.7764068
     }
   ],
   "isMultinational": false,
-  "facebookId": "DOConvert"
+  "isActive": true
 }

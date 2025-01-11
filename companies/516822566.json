@@ -6,12 +6,17 @@
   "logoFile": "logos/myshops.webp",
   "websiteUrl": "https://myshops.town/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "myshops-town",
   "linkedinNum": 90953827,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "myshops",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הלויים",
@@ -21,5 +26,6 @@
       "lon": 34.889486801675154
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

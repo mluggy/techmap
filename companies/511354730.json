@@ -3,14 +3,20 @@
   "description": "Offering Managed Services, Cybersecurity, and IT solutions for SMB and Enterprise clients across the US.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/amsys_ltd-logo.webp",
+  "logoFile": "logos/amsys-logo.webp",
   "websiteUrl": "https://amsysis.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "amsys-innovative-solutions",
+  "linkedinNum": 639615,
   "crunchbaseId": null,
+  "ivcId": "A1000000003433",
   "finderId": "amsys",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מיצרי טירן",
@@ -20,5 +26,6 @@
       "lon": 35.23269036045786
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

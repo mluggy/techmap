@@ -6,11 +6,17 @@
   "logoFile": "logos/yavo_app-logo.webp",
   "websiteUrl": "https://yavo.app/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 69529714,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "yavo",
   "xId": null,
+  "facebookId": "yavoapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרצל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "yavoapp",
-  "linkedinNum": 69529714
+  "isActive": true
 }

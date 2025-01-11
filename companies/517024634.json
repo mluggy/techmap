@@ -1,0 +1,31 @@
+{
+  "name": "Subtex",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/subtex-logo.webp",
+  "websiteUrl": "https://subtex.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000486782",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ירמיהו",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0952932,
+      "lon": 34.7746882
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

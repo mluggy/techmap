@@ -1,0 +1,31 @@
+{
+  "name": "Dagan",
+  "description": "Dagan is a worldwide multi-business company and one of Israel's leading companies in the field of Agriculture.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/dagan-logo.webp",
+  "websiteUrl": "http://www.dagan.co.il",
+  "careersUrl": null,
+  "linkedinId": "daganagriculturalautomationltd",
+  "linkedinNum": 1361624,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009494",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגבעה",
+      "houseNumber": 19,
+      "city": "חניאל",
+      "lat": 32.3348952,
+      "lon": 34.9449768
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

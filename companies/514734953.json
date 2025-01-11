@@ -1,18 +1,31 @@
 {
   "name": "Xsense",
-  "description": "Real-time Cold Chain Management",
-  "categoryId": 17,
+  "description": "BT9 is an end-to-end, real-time cold chain management (CCM) solution provider. Its Xsense® CCM technology is currently used around the globe by large as well as small-medium companies.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/xsense-logo.webp",
   "websiteUrl": "https://www.xsense.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bt9-ltd-",
+  "linkedinNum": 2735347,
   "crunchbaseId": null,
+  "ivcId": "A1000000021634",
   "finderId": "xsense",
   "xId": "XsenseM",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "XsenseCCM",
-  "linkedinNum": 2735347
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דולב",
+      "houseNumber": 33,
+      "city": "תפן",
+      "lat": 32.97268966359163,
+      "lon": 35.27945867584805
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

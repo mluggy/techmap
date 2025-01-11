@@ -1,16 +1,22 @@
 {
   "name": "Intelis",
-  "description": "Shopping Comparison Engine",
+  "description": "Intelis enables eCommerce SMBs to be more successful by providing intelligence and optimization capabilities in their stores and markets with a SaaS platform that utilizes AI to seamlessly provide product-level actionable insights, no-code automation and market intelligence.",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/ecoprice-logo.webp",
-  "websiteUrl": "https://www.ecoprice.shop/",
+  "websiteUrl": "https://intelis.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "intelisai",
+  "linkedinNum": 67753259,
   "crunchbaseId": null,
+  "ivcId": "A1000000327060",
   "finderId": "ecoprice",
   "xId": "eco_price",
+  "facebookId": "ec0price",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שרת משה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ec0price",
-  "linkedinNum": 67753259
+  "isActive": true
 }

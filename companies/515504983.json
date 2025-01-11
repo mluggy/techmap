@@ -1,17 +1,31 @@
 {
   "name": "AgriWare",
-  "description": "Tree-thinning Solution",
+  "description": "Tree-thinning Solution.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/agriware_agricultural_solutions-logo.webp",
   "websiteUrl": "https://www.agriware.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "agriware-inc-",
+  "linkedinNum": 78840961,
   "crunchbaseId": null,
+  "ivcId": "A1000000392113",
   "finderId": "agriware",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "גשור",
+      "lat": 32.819941,
+      "lon": 35.715708
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 78840961
+  "isActive": true
 }

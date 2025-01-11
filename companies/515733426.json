@@ -1,16 +1,22 @@
 {
   "name": "iPIPE",
-  "description": "Water Pipelines Inspection System",
+  "description": "Water Pipelines Inspection System.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ipipe-logo.webp",
   "websiteUrl": "https://www.ipipe-tec.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ipipe-ltd",
+  "linkedinNum": 30147401,
   "crunchbaseId": null,
+  "ivcId": "A1000000300068",
   "finderId": "ipipe",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נבון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 30147401
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "SPS",
-  "description": "Real-time Business Navigation Platform",
+  "description": "Real-time Business Navigation Platform.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/sps.webp",
   "websiteUrl": "https://sps-app.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "sps-real-time-business-navigation-platform",
   "linkedinNum": 28382100,
   "crunchbaseId": null,
+  "ivcId": "A1000000232765",
   "finderId": "sps",
   "xId": null,
   "facebookId": "SPSAPP",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אסתר המלכה",
-      "houseNumber": 34,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.883208552409474,
-      "lon": 35.00936159495536
+      "street": "הפלך",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.0503025,
+      "lon": 34.7666856
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

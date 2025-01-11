@@ -6,11 +6,17 @@
   "logoFile": "logos/avantis-logo.webp",
   "websiteUrl": "https://www.avantisteam.com/",
   "careersUrl": "https://www.avantisteam.com/join-us/",
-  "isHiring": true,
   "linkedinId": "avantis-team",
+  "linkedinNum": 4852665,
   "crunchbaseId": "avantis-team",
+  "ivcId": "A1000000022350",
   "finderId": "avantis",
   "xId": "AvantisTeam",
+  "facebookId": "avantisteam",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "avantisteam",
-  "linkedinNum": 4852665
+  "isActive": true
 }

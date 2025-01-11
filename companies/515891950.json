@@ -3,14 +3,29 @@
   "description": "A unique program that offers comprehensive support and continuous empowerment throughout and beyond your academic journey.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/bariks_health-logo.webp",
+  "logoFile": "logos/bariks-health-logo.webp",
   "websiteUrl": "https://moshalprogram.org.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bariks-health-ltd",
+  "linkedinNum": 101377294,
   "crunchbaseId": null,
+  "ivcId": "A1000000273266",
   "finderId": "bariks-health",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנ\"ץ",
+      "houseNumber": 4,
+      "city": "רמת השרון",
+      "lat": 32.1491697,
+      "lon": 34.832376
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

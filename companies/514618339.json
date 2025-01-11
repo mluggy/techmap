@@ -1,0 +1,31 @@
+{
+  "name": "Hip Hope",
+  "description": "Hip Hope Technologies (HHT)  driven by a high motivation for providing a viable solution to the deadly epidemic of hip fractures among senior people.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/hip_hope-logo.webp",
+  "websiteUrl": "http://www.hip-hope.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000182066",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נחל הדס",
+      "houseNumber": 4,
+      "city": "הוד השרון",
+      "lat": 32.1396964,
+      "lon": 34.8808997
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

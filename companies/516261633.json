@@ -6,20 +6,26 @@
   "logoFile": "logos/viven_tec-logo.webp",
   "websiteUrl": "https://www.viven-tec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vivent-immersive-events",
+  "linkedinNum": 53416891,
   "crunchbaseId": null,
+  "ivcId": "A1000000331401",
   "finderId": "vivent",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הזית",
-      "houseNumber": 606,
-      "city": "בית אלעזרי",
-      "lat": 31.8359291,
-      "lon": 34.7966801
+      "street": "יצחק בן צבי",
+      "houseNumber": 84,
+      "city": "פתח תקווה",
+      "lat": 32.0716858,
+      "lon": 34.8894215
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 53416891
+  "isActive": true
 }

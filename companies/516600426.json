@@ -1,0 +1,31 @@
+{
+  "name": "Braavos",
+  "description": "Braavos develops crypto wallets, which give the holder access to the digital assets stored within.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/braavos-logo.webp",
+  "websiteUrl": "https://braavos.app",
+  "careersUrl": null,
+  "linkedinId": "braavos-web3",
+  "linkedinNum": 81822930,
+  "crunchbaseId": null,
+  "ivcId": "A1000000412256",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משה ברזאני",
+      "houseNumber": 11,
+      "city": "תל אביב-יפו",
+      "lat": 32.1279205,
+      "lon": 34.7963897
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

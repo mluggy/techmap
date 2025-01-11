@@ -6,21 +6,26 @@
   "logoFile": "logos/incredibuild_software-logo.webp",
   "websiteUrl": "https://www.incredibuild.com/",
   "careersUrl": "https://www.incredibuild.com/career",
-  "isHiring": true,
   "linkedinId": "incredibuild",
+  "linkedinNum": 1266629,
   "crunchbaseId": null,
+  "ivcId": "A1000000008556",
   "finderId": "incredibuild",
   "xId": "incredibuild",
+  "facebookId": "incredibuild",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "city": "תל אביב-יפו",
+      "lat": 32.0727773,
+      "lon": 34.79492
     }
   ],
   "isMultinational": false,
-  "facebookId": "incredibuild",
-  "linkedinNum": 1266629
+  "isActive": true
 }

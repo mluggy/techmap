@@ -1,26 +1,31 @@
 {
   "name": "Sonovia",
-  "description": "Sustainable Technology for Ultrasonic Dyeing and Finishing",
+  "description": "Sustainable Technology for Ultrasonic Dyeing and Finishing.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/sonovia-logo.webp",
   "websiteUrl": "https://sonoviatech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sonovia-ltd",
+  "linkedinNum": 35663685,
   "crunchbaseId": null,
+  "ivcId": "A1000000180443",
   "finderId": "sonovia",
   "xId": "sonovialtd",
+  "facebookId": "sonovialtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדה יצחק",
-      "houseNumber": 14,
-      "city": "נהרייה",
-      "lat": 33.0227188,
-      "lon": 35.1002083
+      "street": "רוזן",
+      "houseNumber": null,
+      "city": "רמת גן",
+      "lat": 32.0558178,
+      "lon": 34.8147903
     }
   ],
   "isMultinational": false,
-  "facebookId": "sonovialtd",
-  "linkedinNum": 35663685
+  "isActive": true
 }

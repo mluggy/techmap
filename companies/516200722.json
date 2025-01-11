@@ -6,11 +6,17 @@
   "logoFile": "logos/inerticx_m_d_t-logo.webp",
   "websiteUrl": "https://inerticx.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "inerticx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חנה רובינא",
@@ -20,5 +26,6 @@
       "lon": 34.829324086011596
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

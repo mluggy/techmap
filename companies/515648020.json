@@ -6,21 +6,26 @@
   "logoFile": "logos/tuqqi_systems-logo.webp",
   "websiteUrl": "https://www.tuqqi.com/",
   "careersUrl": "https://www.tuqqi.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "tuqqi",
+  "linkedinNum": 17873952,
   "crunchbaseId": "tuqqi",
+  "ivcId": "A1000000256581",
   "finderId": "tuqqi",
   "xId": "ituqqi",
+  "facebookId": "ituqqi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השלושה",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617382,
-      "lon": 34.7882304
+      "street": "הרכבת",
+      "houseNumber": 68,
+      "city": "Tel Aviv Yaffo",
+      "lat": 32.0642807,
+      "lon": 34.774554
     }
   ],
   "isMultinational": false,
-  "facebookId": "ituqqi",
-  "linkedinNum": 17873952
+  "isActive": true
 }

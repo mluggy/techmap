@@ -6,21 +6,26 @@
   "logoFile": "logos/gable_r_d-logo.webp",
   "websiteUrl": "https://www.gable.to/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 68662367,
   "crunchbaseId": null,
+  "ivcId": "A1000000337704",
   "finderId": "gable",
   "xId": "gable_inc",
+  "facebookId": "gable.inc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יערי מאיר",
+      "street": "מאיר יערי",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.099396,
-      "lon": 34.784823
+      "city": "תל אביב-יפו",
+      "lat": 32.0993271,
+      "lon": 34.7849073
     }
   ],
   "isMultinational": false,
-  "facebookId": "gable.inc",
-  "linkedinNum": 68662367
+  "isActive": true
 }

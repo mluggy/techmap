@@ -1,16 +1,22 @@
 {
   "name": "Skip Therapeutics",
-  "description": "Utilizing a proprietary computational discovery engine, a biotech firm develops RNA-based Antisense Oligonucleotide therapies to treat rare genetic disorders and common diseases by restoring gene function.",
+  "description": "Skip Therapeutics develops precision, RNA-based, treatments for rare genetic diseases by applying a novel, proprietary, computational engine to directly identify patient cohorts and determine therapeutic designs.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/skip_therapeutics-logo.webp",
-  "websiteUrl": "https://www.skiptx.com/",
+  "websiteUrl": "https://www.futurx.co.il/portfolio/skip-therapeutics",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "skiptx",
+  "linkedinNum": 74985481,
   "crunchbaseId": null,
+  "ivcId": "A1000000373415",
   "finderId": "skip-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74985481
+  "isActive": true
 }

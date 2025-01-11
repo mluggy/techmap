@@ -6,11 +6,17 @@
   "logoFile": "logos/trego-logo.webp",
   "websiteUrl": "https://trego-trolley.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "trego",
   "xId": null,
+  "facebookId": "tregobikes",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבניצקי",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "tregobikes"
+  "isActive": true
 }

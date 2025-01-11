@@ -1,26 +1,31 @@
 {
   "name": "SecureTeam",
-  "description": "Application Protection Solution",
+  "description": "Application Protection Solution.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/secureteam_software-logo.webp",
   "websiteUrl": "https://secureteam.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "secureteam-software-ltd-",
+  "linkedinNum": 2237163,
   "crunchbaseId": null,
+  "ivcId": "A1000000269718",
   "finderId": "secureteam",
   "xId": "steamdotnet",
+  "facebookId": "steamdotnet",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנגב",
-      "houseNumber": 63,
-      "city": "יבנה",
-      "lat": 31.8752804,
-      "lon": 34.7246855
+      "street": "משה שרת",
+      "houseNumber": 6,
+      "city": "ראשון לציון",
+      "lat": 31.9951857,
+      "lon": 34.7510024
     }
   ],
   "isMultinational": false,
-  "facebookId": "steamdotnet",
-  "linkedinNum": 2237163
+  "isActive": true
 }

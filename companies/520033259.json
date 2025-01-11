@@ -1,0 +1,31 @@
+{
+  "name": "Wize Pharma",
+  "description": "Wize Pharma is focused on the treatment of ophthalmic disorders, including Dry Eye Syndrome and other inflammatory conditions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/wize_pharma-logo.webp",
+  "websiteUrl": "http://www.wizepharma.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000212381",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנגר",
+      "houseNumber": 24,
+      "city": "הוד השרון",
+      "lat": 32.1303856,
+      "lon": 34.8949535
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

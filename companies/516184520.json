@@ -1,0 +1,31 @@
+{
+  "name": "Solvo",
+  "description": "Solvo enables security teams and other stakeholders to automatically uncover, prioritize, mitigate and remediate cloud infrastructure access risks.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/solvo-logo.webp",
+  "websiteUrl": "https://www.solvo.cloud",
+  "careersUrl": "https://www.solvo.cloud/careers/",
+  "linkedinId": "solvo-cloud",
+  "linkedinNum": 42372333,
+  "crunchbaseId": null,
+  "ivcId": "A1000000323210",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ליאונרדו דה וינצ'י",
+      "houseNumber": 21,
+      "city": "תל אביב-יפו",
+      "lat": 32.0751305,
+      "lon": 34.7843955
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

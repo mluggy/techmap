@@ -1,0 +1,31 @@
+{
+  "name": "Westham",
+  "description": "Westham is a biotech company that provides advanced solutions for controlling adult mosquitoes which are vectors for various transmissible diseases like malaria, dengue, and yellow fever.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/westham-logo.webp",
+  "websiteUrl": "https://westhamco.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000022340",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הבנאי",
+      "houseNumber": 5,
+      "city": "הוד השרון",
+      "lat": 32.1557263,
+      "lon": 34.9228673
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

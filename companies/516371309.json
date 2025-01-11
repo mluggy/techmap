@@ -1,25 +1,31 @@
 {
   "name": "Slate Therapeutics",
-  "description": "Effervescent Foam System for Treatment of Chronic Sinusitis",
+  "description": "Slate Therapeutics develops a novel Effervescent Foam System, consisted of nano-structured MF delivered locally into every sinus via dedicated delivery device during office and surgical procedures.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/slate_therapeutics-logo.webp",
-  "websiteUrl": "https://ngt-healthcare2.com/slate-therapeutics/",
+  "websiteUrl": "https://slatetherapeutics.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "slate-therapeutics-ltd",
+  "linkedinNum": 82163710,
   "crunchbaseId": null,
+  "ivcId": "A1000000424784",
   "finderId": "slate-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכרמים",
-      "houseNumber": 27,
-      "city": "נס ציונה",
-      "lat": 31.9126256,
-      "lon": 34.7887749
+      "street": "ואדי אל חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6900962,
+      "lon": 35.3001352
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82163710
+  "isActive": true
 }

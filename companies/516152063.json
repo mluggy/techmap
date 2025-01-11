@@ -6,21 +6,26 @@
   "logoFile": "logos/medime-logo.webp",
   "websiteUrl": "https://themedime.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "themedime",
+  "linkedinNum": 34692034,
   "crunchbaseId": null,
+  "ivcId": "A1000000320605",
   "finderId": "medime",
   "xId": null,
+  "facebookId": "Themedime-104718937698644",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מנחם",
+      "street": "מנחם בגין",
       "houseNumber": 9,
       "city": "בני ברק",
-      "lat": 32.0876155,
-      "lon": 34.8248832
+      "lat": 32.0928527,
+      "lon": 34.8277175
     }
   ],
   "isMultinational": false,
-  "facebookId": "Themedime-104718937698644",
-  "linkedinNum": 34692034
+  "isActive": true
 }

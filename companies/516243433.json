@@ -1,0 +1,31 @@
+{
+  "name": "Lokali",
+  "description": "Lokali's app coordinates people to request, give, and lend to and from each other and create events.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/lokali-logo.webp",
+  "websiteUrl": "https://www.lokali.website",
+  "careersUrl": null,
+  "linkedinId": "lokali-community",
+  "linkedinNum": 67682937,
+  "crunchbaseId": null,
+  "ivcId": "A1000000330635",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שגב",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.053483,
+      "lon": 34.7507493
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

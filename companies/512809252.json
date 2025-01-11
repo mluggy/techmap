@@ -1,16 +1,22 @@
 {
   "name": "Medintec",
-  "description": "Insurance Claim Management Solution",
+  "description": "Insurance Claim Management Solution.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/medintec-logo.webp",
   "websiteUrl": "https://www.medin-tec.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "medintec-ltd.",
+  "linkedinNum": 17946072,
   "crunchbaseId": null,
+  "ivcId": "A1000000181424",
   "finderId": "medintec",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אפעל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17946072
+  "isActive": true
 }

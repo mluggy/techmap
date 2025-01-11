@@ -1,0 +1,31 @@
+{
+  "name": "CASS",
+  "description": "CASS is a a leading provider of HPC, HPeC (embedded HPC) and GPU Computing (GPGPU) solutions.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/cass-logo.webp",
+  "websiteUrl": "http://www.cass-hpc.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010729",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בשמת",
+      "houseNumber": 2,
+      "city": "שוהם",
+      "lat": 32.0057465,
+      "lon": 34.9470397
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

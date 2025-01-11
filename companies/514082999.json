@@ -6,21 +6,26 @@
   "logoFile": "logos/akamai_technologies_israel-logo.webp",
   "websiteUrl": "https://www.akamai.com/",
   "careersUrl": "https://www.akamai.com/careers",
-  "isHiring": true,
   "linkedinId": "akamai-technologies",
+  "linkedinNum": 3925,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "akamai-technologies",
   "xId": "akamai",
+  "facebookId": "akamaiisrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073003,
       "lon": 34.796789
     }
   ],
-  "isMultinational": true,
-  "facebookId": "akamaiisrael",
-  "linkedinNum": 3925
+  "isMultinational": false,
+  "isActive": true
 }

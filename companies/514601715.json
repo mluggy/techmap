@@ -1,0 +1,31 @@
+{
+  "name": "Poow",
+  "description": "PooW Innovation is developed eye-tracking technology, based on images acquired by a USB, VGA video sensor at 30-240 Hz.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/poow-logo.webp",
+  "websiteUrl": "http://www.poow-i.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000186646",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלברט שווייצר",
+      "houseNumber": 68,
+      "city": "חיפה",
+      "lat": 32.7804509,
+      "lon": 34.9821696
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

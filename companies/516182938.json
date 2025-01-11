@@ -6,11 +6,17 @@
   "logoFile": "logos/san_26_raynes_petah_tikva-logo.webp",
   "websiteUrl": "https://www.san.org/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "san",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מפי",
@@ -19,5 +25,7 @@
       "lat": 32.2746979,
       "lon": 34.8602605
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

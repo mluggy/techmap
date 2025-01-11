@@ -6,13 +6,17 @@
   "logoFile": "logos/fullpath-logo.webp",
   "websiteUrl": "https://www.fullpath.com",
   "careersUrl": "https://www.fullpath.com/careers",
-  "isHiring": true,
   "linkedinId": "fullpathcdxp",
   "linkedinNum": 10677106,
+  "crunchbaseId": "autoleadstar",
+  "ivcId": null,
+  "finderId": "fullpath",
   "xId": "FullpathCDXP",
   "facebookId": "fullpathcdxp",
-  "crunchbaseId": "autoleadstar",
-  "finderId": "fullpath",
+  "breezyId": null,
+  "comeetId": "fullpath/54.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פועלי צדק",
@@ -24,12 +28,11 @@
     {
       "street": "יגאל אלון",
       "houseNumber": "94",
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0684862,
       "lon": 34.7915705
     }
   ],
-  "comeetId": "fullpath/54.002",
-  "glassdoorId": "EI_IE2257168.11,19",
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

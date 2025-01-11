@@ -6,11 +6,17 @@
   "logoFile": "logos/astrazeneca_israel-logo.webp",
   "websiteUrl": "https://www.astrazeneca.com/",
   "careersUrl": "https://careers.astrazeneca.com/",
-  "isHiring": true,
   "linkedinId": "astrazeneca",
+  "linkedinNum": 1603,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "astrazeneca",
   "xId": "astrazeneca",
+  "facebookId": "AstraZeneca",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -20,7 +26,6 @@
       "lon": 34.9337429
     }
   ],
-  "isMultinational": true,
-  "facebookId": "AstraZeneca",
-  "linkedinNum": 1603
+  "isMultinational": false,
+  "isActive": true
 }

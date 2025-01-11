@@ -3,14 +3,20 @@
   "description": "A unified DevSecOps platform enhancing accuracy and productivity by integrating security and development.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/contrast_security_israel-logo.webp",
+  "logoFile": "logos/contrast-security-israel-logo.webp",
   "websiteUrl": "https://www.contrastsecurity.com/",
   "careersUrl": "https://www.contrastsecurity.com/contrast-careers",
-  "isHiring": true,
   "linkedinId": "contrast-security",
+  "linkedinNum": 2908247,
   "crunchbaseId": "contrast-security",
+  "ivcId": null,
   "finderId": "contrast-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": "contrastsecurity",
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,5 +26,6 @@
       "lon": 34.80419494318181
     }
   ],
-  "leverId": "contrastsecurity"
+  "isMultinational": false,
+  "isActive": true
 }

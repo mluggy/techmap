@@ -6,20 +6,26 @@
   "logoFile": "logos/homeconnex-logo.webp",
   "websiteUrl": "https://www.home-connex.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000279807",
   "finderId": "home-connex",
   "xId": "homeconnexcom",
+  "facebookId": "HomeConnex.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יפו",
-      "houseNumber": 216,
-      "city": "ירושלים",
-      "lat": 31.7890021,
-      "lon": 35.2053137
+      "street": "הכינור",
+      "houseNumber": 5,
+      "city": "מעלה אדומים",
+      "lat": 31.7818252,
+      "lon": 35.2964671
     }
   ],
   "isMultinational": false,
-  "facebookId": "HomeConnex.il"
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Guide In Medical",
+  "description": "Guide In Medical is a developer of a medical device, designed to reduce intubation time and complications.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/guide_in_medical-logo.webp",
+  "websiteUrl": "http://www.guideinmed.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023596",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ואדי אל חאג'",
+      "houseNumber": 13,
+      "city": "נצרת",
+      "lat": 32.6900962,
+      "lon": 35.3001352
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

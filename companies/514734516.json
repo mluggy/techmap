@@ -6,13 +6,26 @@
   "logoFile": "logos/novasight-logo.webp",
   "websiteUrl": "https://nova-sight.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "novasight",
+  "linkedinNum": 11101854,
   "crunchbaseId": null,
+  "ivcId": "A1000000193865",
   "finderId": "novasight",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "NovaSight-625963984551740",
-  "linkedinNum": 11101854
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גולן",
+      "houseNumber": 1,
+      "city": "נתב\"ג",
+      "lat": 31.9879816,
+      "lon": 34.914164
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

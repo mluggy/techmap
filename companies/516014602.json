@@ -6,21 +6,26 @@
   "logoFile": "logos/biskits_technologies-logo.webp",
   "websiteUrl": "https://biskits.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "biskits",
+  "linkedinNum": 19210020,
   "crunchbaseId": null,
+  "ivcId": "A1000000417781",
   "finderId": "biskits-technologies",
   "xId": null,
+  "facebookId": "BiskitsTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הדרור",
-      "houseNumber": 17,
-      "city": "קריית אונו",
-      "lat": 32.0589616,
-      "lon": 34.86052815253146
+      "street": "בן שמן",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.0752153,
+      "lon": 34.7944609
     }
   ],
   "isMultinational": false,
-  "facebookId": "BiskitsTech",
-  "linkedinNum": 19210020
+  "isActive": true
 }

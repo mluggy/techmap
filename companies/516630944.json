@@ -6,21 +6,26 @@
   "logoFile": "logos/mamay_technologies-logo.webp",
   "websiteUrl": "https://www.tastegage.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mamay-technologies",
+  "linkedinNum": 85667967,
   "crunchbaseId": "mamay-technologies",
+  "ivcId": "A1000000409649",
   "finderId": "mamay-technologies",
   "xId": null,
+  "facebookId": "MAMAYTECHNOLOGIES",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד תל חי",
-      "houseNumber": 98,
-      "city": "קריית שמונה",
-      "lat": 33.2081443,
-      "lon": 35.5695304
+      "street": null,
+      "houseNumber": null,
+      "city": "קרית שמונה",
+      "lat": 33.20809,
+      "lon": 35.5699622
     }
   ],
   "isMultinational": false,
-  "facebookId": "MAMAYTECHNOLOGIES",
-  "linkedinNum": 85667967
+  "isActive": true
 }

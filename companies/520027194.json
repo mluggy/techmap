@@ -6,11 +6,17 @@
   "logoFile": "logos/israel_aerospace_industries_ltd-logo.webp",
   "websiteUrl": "https://www.iai.co.il/",
   "careersUrl": "https://www.iai.co.il/about/working-at-iai",
-  "isHiring": true,
   "linkedinId": "iai",
+  "linkedinNum": 10057737,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "IAI",
   "xId": "ilaerospaceiai",
+  "facebookId": "iai.official",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רשות שדות התעופה",
@@ -56,6 +62,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "iai.official",
-  "linkedinNum": 10057737
+  "isActive": true
 }

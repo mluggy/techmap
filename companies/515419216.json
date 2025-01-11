@@ -6,20 +6,26 @@
   "logoFile": "logos/linkedin_technology_israel-logo.webp",
   "websiteUrl": "https://www.linkedin.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "linkedin",
   "xId": "LinkedIn",
+  "facebookId": "LinkedIn",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוקח שמעון",
       "houseNumber": 101,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.060472,
       "lon": 34.7657446
     }
   ],
-  "isMultinational": true,
-  "facebookId": "LinkedIn"
+  "isMultinational": false,
+  "isActive": true
 }

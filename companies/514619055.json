@@ -6,20 +6,26 @@
   "logoFile": "logos/total_viz-logo.webp",
   "websiteUrl": "https://www.totalviz.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "total-viz",
+  "linkedinNum": 5042723,
   "crunchbaseId": "total-viz",
+  "ivcId": "A1000000233147",
   "finderId": "total-viz",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כלנית",
       "houseNumber": 28,
       "city": "מתן",
-      "lat": 32.1610116,
-      "lon": 34.9710028
+      "lat": 32.159893,
+      "lon": 34.9712662
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5042723
+  "isActive": true
 }

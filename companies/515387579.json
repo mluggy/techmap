@@ -6,21 +6,26 @@
   "logoFile": "logos/mayu_water_art-logo.webp",
   "websiteUrl": "https://mayuwater.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mayu-water",
+  "linkedinNum": 17923470,
   "crunchbaseId": null,
+  "ivcId": "A1000000331788",
   "finderId": "mayu-water",
   "xId": "MAYUWater_",
+  "facebookId": "MAYUWaterOfficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נוף ילדות",
-      "houseNumber": null,
-      "city": "חגלה",
-      "lat": 32.3868998,
-      "lon": 34.9277458
+      "houseNumber": 23,
+      "city": "חוגלה",
+      "lat": 32.3855109,
+      "lon": 34.9272956
     }
   ],
   "isMultinational": false,
-  "facebookId": "MAYUWaterOfficial",
-  "linkedinNum": 17923470
+  "isActive": true
 }

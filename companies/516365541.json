@@ -3,23 +3,29 @@
   "description": "A platform providing professional, no-code widgets to enhance websites, streamline management, and foster collaboration from a unified dashboard.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/common_ninja-logo.webp",
+  "logoFile": "logos/common-ninja-logo.webp",
   "websiteUrl": "https://www.commoninja.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "common-ninja",
+  "linkedinNum": 70928890,
   "crunchbaseId": null,
+  "ivcId": "A1000000021084",
   "finderId": "common-ninja",
   "xId": "commonninja",
+  "facebookId": "CommonNinja",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מפי",
-      "houseNumber": 5,
+      "street": null,
+      "houseNumber": null,
       "city": "נתניה",
-      "lat": 32.2746979,
-      "lon": 34.8602605
+      "lat": 32.321458,
+      "lon": 34.853196
     }
   ],
   "isMultinational": false,
-  "facebookId": "CommonNinja"
+  "isActive": true
 }

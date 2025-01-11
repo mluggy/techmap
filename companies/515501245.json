@@ -6,11 +6,17 @@
   "logoFile": "logos/barclays_dead_sea-logo.webp",
   "websiteUrl": "https://home.barclays/",
   "careersUrl": "https://home.barclays/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "barclays",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כנפי נשרים",
@@ -19,5 +25,7 @@
       "lat": 31.787849,
       "lon": 35.1866516
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

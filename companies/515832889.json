@@ -6,21 +6,26 @@
   "logoFile": "logos/fundguard-logo.webp",
   "websiteUrl": "https://www.fundguard.com/",
   "careersUrl": "https://www.fundguard.com/careers",
-  "isHiring": true,
   "linkedinId": "fundguard",
+  "linkedinNum": 33262287,
   "crunchbaseId": null,
+  "ivcId": "A1000000260213",
   "finderId": "fundguard",
   "xId": "FundGuard",
+  "facebookId": "FundGuardPlatform",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "street": "דרך מנחם בגין",
+      "houseNumber": 134,
+      "city": "תל אביב-יפו",
+      "lat": 32.0750015,
+      "lon": 34.7919276
     }
   ],
   "isMultinational": false,
-  "facebookId": "FundGuardPlatform",
-  "linkedinNum": 33262287
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Terra Security",
+  "description": "In stealth mode.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/terra_security-logo.webp",
+  "websiteUrl": "https://www.terra.security",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000488567",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המרד",
+      "houseNumber": 25,
+      "city": "תל אביב-יפו",
+      "lat": 32.0627763,
+      "lon": 34.7629012
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

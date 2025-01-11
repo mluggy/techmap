@@ -6,11 +6,17 @@
   "logoFile": "logos/etgar_holdings_group-logo.webp",
   "websiteUrl": "https://www.eladetgar.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "etgar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד בן גוריון",
@@ -20,5 +26,6 @@
       "lon": 34.950383
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

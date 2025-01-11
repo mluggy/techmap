@@ -1,26 +1,31 @@
 {
   "name": "PayMe",
-  "description": "Embedded Financial Platform",
+  "description": "Embedded Financial Platform.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/payme-logo.webp",
   "websiteUrl": "https://payme.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "payme-io",
+  "linkedinNum": 9185039,
   "crunchbaseId": null,
+  "ivcId": "A1000000024463",
   "finderId": "payme",
   "xId": null,
+  "facebookId": "PayMeService",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
-      "houseNumber": 18,
-      "city": "תל אביב - יפו",
-      "lat": 32.0723,
-      "lon": 34.797175
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "facebookId": "PayMeService",
-  "linkedinNum": 9185039
+  "isActive": true
 }

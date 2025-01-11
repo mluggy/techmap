@@ -6,21 +6,26 @@
   "logoFile": "logos/nutritional_growth_solutions-logo.webp",
   "websiteUrl": "https://ngsolutions.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ng-solutions",
+  "linkedinNum": 4846578,
   "crunchbaseId": null,
+  "ivcId": "A1000000224117",
   "finderId": "nutritional-growth-solutions",
   "xId": null,
+  "facebookId": "HealthyHeight",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מצדה",
-      "houseNumber": 7,
-      "city": "בני ברק",
-      "lat": 32.0935847,
-      "lon": 34.8251159
+      "street": "ברקוביץ'",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0785529,
+      "lon": 34.7869819
     }
   ],
   "isMultinational": false,
-  "facebookId": "HealthyHeight",
-  "linkedinNum": 4846578
+  "isActive": true
 }

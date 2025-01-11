@@ -6,12 +6,17 @@
   "logoFile": "logos/bitum.webp",
   "websiteUrl": "https://www.bitum.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bitum",
   "xId": null,
   "facebookId": "bitum.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
@@ -21,5 +26,6 @@
       "lon": 35.06263381709358
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

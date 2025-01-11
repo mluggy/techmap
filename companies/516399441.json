@@ -6,20 +6,26 @@
   "logoFile": "logos/panax-logo.webp",
   "websiteUrl": "https://www.thepanax.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 90915183,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "panax",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איסרליש",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.071361,
       "lon": 34.791194
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90915183
+  "isActive": true
 }

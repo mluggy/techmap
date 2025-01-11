@@ -6,11 +6,17 @@
   "logoFile": "logos/fuse_autotech-logo.webp",
   "websiteUrl": "https://fuseautotech.com/",
   "careersUrl": "https://fuseautotech.com/careers",
-  "isHiring": true,
   "linkedinId": "fuse-autotech",
+  "linkedinNum": 71402078,
   "crunchbaseId": "fuse-autotech",
+  "ivcId": null,
   "finderId": "fuse-autotech",
   "xId": null,
+  "facebookId": "FUSEautotech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יד חרוצים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "FUSEautotech",
-  "linkedinNum": 71402078
+  "isActive": true
 }

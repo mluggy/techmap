@@ -3,14 +3,20 @@
   "description": "A pioneer in recreating the taste, texture, and nutrition of traditional meat through advanced 3D suspension technology, offering sustainable and scalable alternatives.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/mealiways_technologies-logo.webp",
+  "logoFile": "logos/mealiways-technologies-logo.webp",
   "websiteUrl": "https://mealiways.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mealiways",
+  "linkedinNum": 97871029,
   "crunchbaseId": null,
+  "ivcId": "A1000000408236",
   "finderId": "mealiways-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד שיקגו",
@@ -20,5 +26,6 @@
       "lon": 35.02418568819216
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

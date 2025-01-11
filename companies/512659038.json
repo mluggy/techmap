@@ -3,16 +3,29 @@
   "description": "A trailblazer in fire protection systems with over 70 years of expertise.",
   "categoryId": 15,
   "size": "s",
-  "logoFile": "logos/lehavot_haviva_alon_holdings-logo.webp",
+  "logoFile": "logos/lehavot-logo.webp",
   "websiteUrl": "https://lehavot.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lehavot-advance-fire-protection-systems",
+  "linkedinNum": 18284947,
   "crunchbaseId": null,
+  "ivcId": "A1000000015612",
   "finderId": "lehavot",
   "xId": "lehavotlvt",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Lehavot-Advanced-Fire-Protection-Systems-383074955455956",
-  "linkedinNum": 18284947
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ להבות הבשן",
+      "lat": 33.14099547939565,
+      "lon": 35.650015450351184
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

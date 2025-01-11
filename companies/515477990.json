@@ -1,0 +1,31 @@
+{
+  "name": "FreshKeep (Silo)",
+  "description": "Silo is a revolutionary simple vacuum-sealing container system that keeps food fresher for longer.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/freshkeep-silo--logo.webp",
+  "websiteUrl": "https://www.heysilo.com",
+  "careersUrl": null,
+  "linkedinId": "silokitchen",
+  "linkedinNum": 17934504,
+  "crunchbaseId": null,
+  "ivcId": "A1000000226259",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ריב\"ל",
+      "houseNumber": 22,
+      "city": "תל אביב-יפו",
+      "lat": 32.0624803,
+      "lon": 34.7832982
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

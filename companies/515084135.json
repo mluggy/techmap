@@ -6,21 +6,26 @@
   "logoFile": "logos/ubeya_technologies-logo.webp",
   "websiteUrl": "https://www.ubeya.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5256906,
   "crunchbaseId": "ubeya",
+  "ivcId": null,
   "finderId": "contacit",
   "xId": "Ubeya2",
+  "facebookId": "ubeya",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קארו יוסף",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0705553,
       "lon": 34.7911589
     }
   ],
   "isMultinational": false,
-  "facebookId": "ubeya",
-  "linkedinNum": 5256906
+  "isActive": true
 }

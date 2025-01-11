@@ -6,21 +6,26 @@
   "logoFile": "logos/crosphera_israel-logo.webp",
   "websiteUrl": "https://crosphera.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "crosphera",
+  "linkedinNum": 10107246,
   "crunchbaseId": "crosphera",
+  "ivcId": "A1000000199447",
   "finderId": "crosphera-israel-ltd",
   "xId": null,
+  "facebookId": "crosphera",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ורד",
-      "houseNumber": 32,
+      "street": null,
+      "houseNumber": null,
       "city": "בית דגן",
-      "lat": 31.9952181,
-      "lon": 34.8264481
+      "lat": 32.002465,
+      "lon": 34.8295485
     }
   ],
   "isMultinational": false,
-  "facebookId": "crosphera",
-  "linkedinNum": 10107246
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Newsight Imaging",
-  "description": "CMOS Image Sensor Chips for Machine Vision and Spectral Analysis",
+  "description": "CMOS Image Sensor Chips for Machine Vision and Spectral Analysis.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/newsight_imaging-logo.webp",
   "websiteUrl": "https://www.nstimg.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "newsight-imaging",
+  "linkedinNum": 17893953,
   "crunchbaseId": "newsight-imaging",
+  "ivcId": "A1000000215508",
   "finderId": "newsight-imaging",
   "xId": "newsightimaging",
+  "facebookId": "NewsightImaging",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "NewsightImaging",
-  "linkedinNum": 17893953
+  "isActive": true
 }

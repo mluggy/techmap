@@ -1,26 +1,31 @@
 {
   "name": "Pick a Pier",
-  "description": "Sustainability Platform for Boaters and Marinas",
+  "description": "Sustainability Platform for Boaters and Marinas.",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/pick_a_pier-logo.webp",
   "websiteUrl": "https://www.pickapier.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pickapier",
+  "linkedinNum": 18226477,
   "crunchbaseId": null,
+  "ivcId": "A1000000246817",
   "finderId": "pick-a-pier",
   "xId": "PickaPier",
+  "facebookId": "Pickapier",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
+      "street": "העצמאות",
       "houseNumber": 45,
-      "city": "חיפה",
-      "lat": 32.819776250000004,
-      "lon": 34.9988252
+      "city": "קרית אתא",
+      "lat": 32.8044528,
+      "lon": 35.1039705
     }
   ],
   "isMultinational": false,
-  "facebookId": "Pickapier",
-  "linkedinNum": 18226477
+  "isActive": true
 }

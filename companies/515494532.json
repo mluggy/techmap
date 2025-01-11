@@ -6,19 +6,26 @@
   "logoFile": "logos/hys_energy-logo.webp",
   "websiteUrl": "https://hys-energy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000400292",
   "finderId": "hys-energy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד יוספטל גיורא",
-      "houseNumber": 102,
+      "street": "שדרות יוספטל",
+      "houseNumber": null,
       "city": "בת ים",
-      "lat": 32.0151318,
-      "lon": 34.7528142
+      "lat": 32.0148169,
+      "lon": 34.7634994
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

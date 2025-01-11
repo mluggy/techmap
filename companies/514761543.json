@@ -6,21 +6,26 @@
   "logoFile": "logos/wochit_i_l-logo.webp",
   "websiteUrl": "https://www.wochit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wochit",
+  "linkedinNum": 2470245,
   "crunchbaseId": null,
+  "ivcId": "A1000000001516",
   "finderId": "wochit",
   "xId": "wochit",
+  "facebookId": "Wochit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.0705297,
-      "lon": 34.7872761
+      "city": "תל אביב-יפו",
+      "lat": 32.0704496,
+      "lon": 34.7870971
     }
   ],
   "isMultinational": false,
-  "facebookId": "Wochit",
-  "linkedinNum": 2470245
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/processgene-logo.webp",
   "websiteUrl": "https://processgene.com/",
   "careersUrl": "https://processgene.com/company/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "processgene-ltd",
+  "linkedinNum": 2923290,
   "crunchbaseId": null,
+  "ivcId": "A1000000004272",
   "finderId": "processgene",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חת נחום",
+      "street": "נחום חת",
       "houseNumber": 5,
-      "city": "חיפה",
-      "lat": 32.7835851,
-      "lon": 34.9609592
+      "city": "טירת כרמל",
+      "lat": 32.7830898,
+      "lon": 34.9594551
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2923290
+  "isActive": true
 }

@@ -3,23 +3,29 @@
   "description": "Make every interaction count. Tune into each patient's unique rhythm with Well-Beat's highly personalized automated interventions and easy-to-follow, ...",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/well_beat-logo.webp",
+  "logoFile": "logos/well-beat-logo.webp",
   "websiteUrl": "https://www.well-beat.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "well-beat",
+  "linkedinNum": 30689766,
   "crunchbaseId": "well-beat",
+  "ivcId": "A1000000193499",
   "finderId": "well-beat",
   "xId": null,
+  "facebookId": "Well-Beat-125275605941721",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שיינפיין",
-      "houseNumber": 4,
+      "street": "4",
+      "houseNumber": null,
       "city": "כפר סבא",
-      "lat": 32.19428085,
-      "lon": 34.89123392567874
+      "lat": 32.1857111,
+      "lon": 34.889888
     }
   ],
   "isMultinational": false,
-  "facebookId": "Well-Beat-125275605941721"
+  "isActive": true
 }

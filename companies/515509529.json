@@ -6,11 +6,17 @@
   "logoFile": "logos/stops_com-logo.webp",
   "websiteUrl": "https://stops.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "stopscom",
+  "linkedinNum": 16153516,
   "crunchbaseId": "stops-com",
+  "ivcId": "A1000000285351",
   "finderId": "stops-com",
   "xId": "stopscom",
+  "facebookId": "stopscom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נוף הירדן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "stopscom",
-  "linkedinNum": 16153516
+  "isActive": true
 }

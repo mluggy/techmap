@@ -6,11 +6,17 @@
   "logoFile": "logos/silverstream_medical-logo.webp",
   "websiteUrl": "https://silverstreammed.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "silverstreammed",
+  "linkedinNum": 1386412,
   "crunchbaseId": null,
+  "ivcId": "A1000000006761",
   "finderId": "silverstream-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חוף הזהב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1386412
+  "isActive": true
 }

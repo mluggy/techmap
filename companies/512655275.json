@@ -6,21 +6,26 @@
   "logoFile": "logos/novidea-logo.webp",
   "websiteUrl": "https://novidea.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "novidea-software",
+  "linkedinNum": 1624099,
   "crunchbaseId": null,
+  "ivcId": "A1000000010127",
   "finderId": "novidea",
   "xId": "Novidea_soft",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "novidea/E5.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הדקלים",
-      "houseNumber": 144,
-      "city": "פרדס חנה-כרכור",
-      "lat": 32.4755881,
-      "lon": 34.9723583
+      "street": "הרצל",
+      "houseNumber": 28,
+      "city": "נתניה",
+      "lat": 32.3283202,
+      "lon": 34.8570342
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1624099,
-  "comeetId": "novidea/E5.00A"
+  "isActive": true
 }

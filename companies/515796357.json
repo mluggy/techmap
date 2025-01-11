@@ -1,26 +1,31 @@
 {
   "name": "ReSight",
-  "description": "AI-powered Spatial Indexing",
+  "description": "AI-powered Spatial Indexing.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/resight-logo.webp",
   "websiteUrl": "https://resight.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "resightio",
+  "linkedinNum": 27174821,
   "crunchbaseId": null,
+  "ivcId": "A1000000249642",
   "finderId": "resight",
   "xId": "ReSight_MR",
+  "facebookId": "ReSight.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות רוטשילד",
-      "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.063157,
-      "lon": 34.770193
+      "street": "מנחם בגין",
+      "houseNumber": 37,
+      "city": "בני ברק",
+      "lat": 32.092936,
+      "lon": 34.831299
     }
   ],
   "isMultinational": false,
-  "facebookId": "ReSight.io",
-  "linkedinNum": 27174821
+  "isActive": true
 }

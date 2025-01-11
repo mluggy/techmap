@@ -6,18 +6,26 @@
   "logoFile": "logos/appcharge-logo.webp",
   "websiteUrl": "https://appcharge.com/",
   "careersUrl": "https://appcharge.com/jobs/game-designer/",
-  "isHiring": true,
   "linkedinId": "appcharge",
+  "linkedinNum": 91048198,
   "crunchbaseId": null,
+  "ivcId": "A1000000462543",
   "finderId": "appcharge",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
-      "lat": 32.06488,
-      "lon": 34.774494
+      "city": "תל אביב-יפו",
+      "lat": 32.0648915,
+      "lon": 34.7744453
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

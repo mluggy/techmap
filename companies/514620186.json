@@ -6,22 +6,26 @@
   "logoFile": "logos/optibus-logo.webp",
   "websiteUrl": "https://optibus.com/",
   "careersUrl": "https://optibus.com/company/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "optibus-ltd",
+  "linkedinNum": 3023213,
   "crunchbaseId": null,
+  "ivcId": "A1000000173432",
   "finderId": "optibus",
   "xId": "OptibusHQ",
+  "facebookId": "Optibusltd",
+  "breezyId": null,
+  "comeetId": "optibus/D1.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 125,
-      "city": "תל אביב - יפו",
-      "lat": 32.0730925,
-      "lon": 34.7893649
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727773,
+      "lon": 34.79492
     }
   ],
   "isMultinational": false,
-  "facebookId": "Optibusltd",
-  "linkedinNum": 3023213,
-  "comeetId": "optibus/D1.00C"
+  "isActive": true
 }

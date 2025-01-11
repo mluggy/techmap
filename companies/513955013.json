@@ -1,25 +1,31 @@
 {
   "name": "Citi",
   "description": "Provides comprehensive financial services, including credit cards, banking, savings accounts, and mortgages.",
-  "size": "l",
   "categoryId": 10,
+  "size": "l",
   "logoFile": "logos/citi_venture_tel_aviv-logo.webp",
   "websiteUrl": "https://www.citigroup.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "citi",
+  "linkedinNum": 11448,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "citi",
   "xId": "Citi",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 91,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069753,
       "lon": 34.7830543
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 11448
+  "isMultinational": false,
+  "isActive": true
 }

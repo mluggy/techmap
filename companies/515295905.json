@@ -6,19 +6,26 @@
   "logoFile": "logos/bullpup_scientific-logo.webp",
   "websiteUrl": "https://bullpupscientific.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000293819",
   "finderId": "bullpup-scientific",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלעזר דוד",
-      "houseNumber": 10,
-      "city": "חיפה",
-      "lat": 32.8060769,
-      "lon": 34.956810453335535
+      "street": "דוד אלעזר",
+      "houseNumber": 805,
+      "city": "אור עקיבא",
+      "lat": 32.5133867,
+      "lon": 34.9162874
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

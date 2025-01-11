@@ -6,21 +6,26 @@
   "logoFile": "logos/zencity_technologies-logo.webp",
   "websiteUrl": "https://zencity.io/",
   "careersUrl": "https://zencity.io/careers/",
-  "isHiring": true,
   "linkedinId": "zencity",
+  "linkedinNum": 9180416,
   "crunchbaseId": null,
+  "ivcId": "A1000000188904",
   "finderId": "zencity",
   "xId": "zencityio",
+  "facebookId": "ZenCityOfficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרליבך",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.070956,
-      "lon": 34.782358
+      "city": "תל אביב-יפו",
+      "lat": 32.071049,
+      "lon": 34.7823216
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZenCityOfficial",
-  "linkedinNum": 9180416
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/senseer-logo.webp",
   "websiteUrl": "https://senseer.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18010706,
   "crunchbaseId": null,
+  "ivcId": "A1000000024618",
   "finderId": "senseer",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חלמיש",
-      "houseNumber": 14,
-      "city": "קיסריה",
-      "lat": 32.4852088,
-      "lon": 34.9486528645006
+      "street": "השונית",
+      "houseNumber": 2,
+      "city": "הרצליה",
+      "lat": 32.1638496,
+      "lon": 34.7965173
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18010706
+  "isActive": true
 }

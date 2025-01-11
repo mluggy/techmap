@@ -6,11 +6,17 @@
   "logoFile": "logos/ever_co-logo.webp",
   "websiteUrl": "https://ever.co",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10153744,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ever-co",
   "xId": "everplatform",
+  "facebookId": "everplatform",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העצמאות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "everplatform",
-  "linkedinNum": 10153744
+  "isActive": true
 }

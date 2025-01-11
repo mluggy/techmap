@@ -6,11 +6,17 @@
   "logoFile": "logos/sigma_aldrich_israel_ltd-logo.webp",
   "websiteUrl": "https://www.sigmaaldrich.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sigma-aldrich",
+  "linkedinNum": 165965,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sigma-aldrich",
   "xId": "SigmaAldrich",
+  "facebookId": "SigmaAldrich",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פלאוט מנחם",
@@ -20,7 +26,6 @@
       "lon": 34.8065818
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SigmaAldrich",
-  "linkedinNum": 165965
+  "isMultinational": false,
+  "isActive": true
 }

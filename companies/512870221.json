@@ -6,21 +6,26 @@
   "logoFile": "logos/beta-o2-technologies.webp",
   "websiteUrl": "https://beta-o2.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "beta-o2-technologies-ltd.",
+  "linkedinNum": 10999514,
   "crunchbaseId": "beta-o2-technologies",
+  "ivcId": "A1000000007615",
   "finderId": "beta-o2",
   "xId": "beta_o2",
+  "facebookId": "Beta-O2-Technologies-Ltd-715701275277592",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
-      "houseNumber": 1,
+      "houseNumber": 11,
       "city": "ראש העין",
-      "lat": 32.0970131,
-      "lon": 34.9105972
+      "lat": 32.1067859,
+      "lon": 34.9705838
     }
   ],
   "isMultinational": false,
-  "facebookId": "Beta-O2-Technologies-Ltd-715701275277592",
-  "linkedinNum": 10999514
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "NimBio",
-  "description": "Remote Care for Chronic Inflammatory Diseases",
+  "description": "Remote Care for Chronic Inflammatory Diseases.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/nimbio-logo.webp",
   "websiteUrl": "https://www.nimbio.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nimbio-ai",
+  "linkedinNum": 83554003,
   "crunchbaseId": null,
+  "ivcId": "A1000000296944",
   "finderId": "nimbio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצבעוני",
-      "houseNumber": 1,
-      "city": "תל מונד",
-      "lat": 32.2497804,
-      "lon": 34.9105929
+      "street": "פרופסור יחזקאל קויפמן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0630953,
+      "lon": 34.7622538
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 83554003
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Tomax",
-  "description": "Document Scanning and Management Solutions",
+  "description": "Tomax develops and distributes document scanning and management software (ScanDox - an archive scanning and management system; Tomadox - a document scanning and management system).",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tomax_technologies-logo.webp",
-  "websiteUrl": "https://tomaxltd.com/",
+  "websiteUrl": "http://www.tomadox.co.uk",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tomax-think-academy",
+  "linkedinNum": 27022526,
   "crunchbaseId": null,
+  "ivcId": "A1000000184462",
   "finderId": "tomax",
   "xId": "TomaxThink",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך הפרחים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27022526
+  "isActive": true
 }

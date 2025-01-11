@@ -6,21 +6,26 @@
   "logoFile": "logos/strigo-logo.webp",
   "websiteUrl": "https://www.strigo.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "strigo",
+  "linkedinNum": 10520137,
   "crunchbaseId": null,
+  "ivcId": "A1000000219757",
   "finderId": "strigo",
   "xId": "StrigoIO",
+  "facebookId": "strigoio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
-      "lat": 32.070281,
-      "lon": 34.784982
+      "city": "תל אביב-יפו",
+      "lat": 32.0702743,
+      "lon": 34.7852716
     }
   ],
   "isMultinational": false,
-  "facebookId": "strigoio",
-  "linkedinNum": 10520137
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "EVolution",
-  "description": "Cell-level, Dynamic Battery Power Management Solution",
-  "categoryId": 5,
-  "size": "s",
-  "logoFile": "logos/evolution_intelligence-logo.webp",
-  "websiteUrl": "https://www.ev-olution.co/",
+  "description": "eVolution provides operators with a purely software-based solution that slashes energy consumption on the base station level, providing unmatched savings and the ability to dramatically reduce energy consumption by up to 35% annually, even for operators that already employ efficient cooling solutions and which have already implemented energy-saving software features provided by equipment vendors.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/evolution-logo.webp",
+  "websiteUrl": "http://www.evolution-networks.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "evolution-networks",
+  "linkedinNum": 89802,
   "crunchbaseId": null,
+  "ivcId": "A1000000021859",
   "finderId": "evolution",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -20,5 +26,6 @@
       "lon": 34.80164595917552
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/tyto_care-logo.webp",
   "websiteUrl": "https://www.tytocare.com/",
   "careersUrl": "https://www.tytocare.com/careers/",
-  "isHiring": true,
   "linkedinId": "tytocare-ltd",
+  "linkedinNum": 3259539,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tytocare",
   "xId": "TytoCare",
+  "facebookId": "TytoCare",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גאון בני",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TytoCare",
-  "linkedinNum": 3259539
+  "isActive": true
 }

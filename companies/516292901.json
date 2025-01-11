@@ -3,14 +3,20 @@
   "description": "A platform dedicated to the eyewear and optical sector.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/global_optic_hub-logo.webp",
+  "logoFile": "logos/global-optic-hub-logo.webp",
   "websiteUrl": "https://www.goptichub.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "goptichub",
+  "linkedinNum": 79661137,
   "crunchbaseId": null,
+  "ivcId": "A1000000456618",
   "finderId": "global-optic-hub",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אודם",
@@ -19,5 +25,7 @@
       "lat": 32.0896507,
       "lon": 34.8577193
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

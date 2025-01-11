@@ -6,21 +6,26 @@
   "logoFile": "logos/vision_bi-logo.webp",
   "websiteUrl": "https://www.vision.bi/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 480901,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vision-bi",
   "xId": "visionbiusa",
+  "facebookId": "Vision.bi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.10981,
       "lon": 34.838876
     }
   ],
   "isMultinational": false,
-  "facebookId": "Vision.bi",
-  "linkedinNum": 480901
+  "isActive": true
 }

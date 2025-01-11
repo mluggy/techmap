@@ -6,20 +6,26 @@
   "logoFile": "logos/automonx-logo.webp",
   "websiteUrl": "https://www.automonx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "automonx",
+  "linkedinNum": 37210775,
   "crunchbaseId": null,
+  "ivcId": "A1000000304517",
   "finderId": "automonx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פינברג יוסף",
-      "houseNumber": 6,
+      "street": null,
+      "houseNumber": null,
       "city": "ראשון לציון",
-      "lat": 31.968430369982222,
-      "lon": 34.805555460702244
+      "lat": 31.95908129999999,
+      "lon": 34.8020886
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37210775
+  "isActive": true
 }

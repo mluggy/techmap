@@ -6,19 +6,26 @@
   "logoFile": "logos/addon_optics-logo.webp",
   "websiteUrl": "https://www.addonnetworks.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "addon-optics",
+  "ivcId": "A1000000307608",
   "finderId": "addon-optics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 30,
-      "city": "נתניה",
-      "lat": 32.283315349999995,
-      "lon": 34.8595275
+      "street": "האורג",
+      "houseNumber": 4,
+      "city": "קדימה צורן",
+      "lat": 32.2768946,
+      "lon": 34.9212972
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

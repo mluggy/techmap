@@ -6,11 +6,17 @@
   "logoFile": "logos/ferring_pharmaceuticals_ltd-logo.webp",
   "websiteUrl": "https://www.ferring.com/",
   "careersUrl": "https://www.ferring.com/join-us/your-career-at-ferring/",
-  "isHiring": true,
   "linkedinId": "ferring-pharmaceuticals",
+  "linkedinNum": 163789,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ferring-pharmaceuticals",
   "xId": "ferring",
+  "facebookId": "ferringpharmaceuticals",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השיטה",
@@ -20,7 +26,6 @@
       "lon": 34.9429075
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ferringpharmaceuticals",
-  "linkedinNum": 163789
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Parkings",
+  "description": "ParKings Holdings is all about finding advanced transportation solutions in the modern life urban environment.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/parkings-logo.webp",
+  "websiteUrl": "http://www.parkings.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000232333",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האימהות",
+      "houseNumber": 14,
+      "city": "נס ציונה",
+      "lat": 31.9223542,
+      "lon": 34.8127739
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

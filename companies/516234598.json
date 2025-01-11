@@ -1,26 +1,31 @@
 {
   "name": "Balena Science",
-  "description": "Developing cutting-edge biopolymer materials, leveraging FlexTex3D technology and collaborating with innovators like Brigitte Kock.",
+  "description": "Balena is the first compostable fashion brand.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/balena-logo.webp",
-  "websiteUrl": "https://balena.science/",
+  "websiteUrl": "https://www.balena.global",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "balenascience",
+  "linkedinNum": 37055219,
   "crunchbaseId": null,
+  "ivcId": "A1000000324544",
   "finderId": "balena",
   "xId": "BalenaScience",
+  "facebookId": "Balena.science",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שוקן",
-      "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.051553,
-      "lon": 34.771982
+      "street": "ביל\"ו",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.068061,
+      "lon": 34.7793249
     }
   ],
   "isMultinational": false,
-  "facebookId": "Balena.science",
-  "linkedinNum": 37055219
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/powermat_technologies-logo.webp",
   "websiteUrl": "https://powermat.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "powermat",
+  "linkedinNum": 940993,
   "crunchbaseId": null,
+  "ivcId": "A1000000004927",
   "finderId": "powermat-technologies",
   "xId": "powermat",
+  "facebookId": "PowermatTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קריית התקשורת",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "PowermatTechnologies",
-  "linkedinNum": 940993
+  "isActive": true
 }

@@ -6,22 +6,26 @@
   "logoFile": "logos/zero_networks-logo.webp",
   "websiteUrl": "https://zeronetworks.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "zeronetworks",
+  "linkedinNum": 13060675,
   "crunchbaseId": null,
+  "ivcId": "A1000000294607",
   "finderId": "zero-networks",
   "xId": "zeronetworks",
+  "facebookId": "ZeroNetworksSec",
+  "breezyId": null,
+  "comeetId": "zeronetworks/39.00F",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקוביץ",
+      "street": "ברקוביץ'",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.078703,
-      "lon": 34.7870616
+      "city": "תל אביב-יפו",
+      "lat": 32.0785419,
+      "lon": 34.7869996
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZeroNetworksSec",
-  "linkedinNum": 13060675,
-  "comeetId": "zeronetworks/39.00F"
+  "isActive": true
 }

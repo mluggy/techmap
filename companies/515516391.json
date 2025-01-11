@@ -6,21 +6,26 @@
   "logoFile": "logos/kissterra_capital-logo.webp",
   "websiteUrl": "https://kissterra.com/",
   "careersUrl": "https://kissterra.com/careers",
-  "isHiring": true,
   "linkedinId": "kissterra",
+  "linkedinNum": 18123524,
   "crunchbaseId": null,
+  "ivcId": "A1000000225688",
   "finderId": "kissterra",
   "xId": null,
+  "facebookId": "kissterra",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.107085,
-      "lon": 34.836911
+      "city": "תל אביב-יפו",
+      "lat": 32.1071058,
+      "lon": 34.8368215
     }
   ],
   "isMultinational": false,
-  "facebookId": "kissterra",
-  "linkedinNum": 18123524
+  "isActive": true
 }

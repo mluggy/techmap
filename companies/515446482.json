@@ -6,21 +6,26 @@
   "logoFile": "logos/globekeeper_tech-logo.webp",
   "websiteUrl": "https://www.globekeeper.com/",
   "careersUrl": "https://www.globekeeper.com/career",
-  "isHiring": true,
   "linkedinId": "globekeeper",
+  "linkedinNum": 6599304,
   "crunchbaseId": "globekeeper",
+  "ivcId": "A1000000207848",
   "finderId": "globekeeper",
   "xId": "globekeeper",
+  "facebookId": "globekeeperofficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לבנון חיים",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.1203825,
-      "lon": 34.8021072
+      "street": "החשמונאים",
+      "houseNumber": 88,
+      "city": "תל אביב-יפו",
+      "lat": 32.069375,
+      "lon": 34.7835128
     }
   ],
   "isMultinational": false,
-  "facebookId": "globekeeperofficial",
-  "linkedinNum": 6599304
+  "isActive": true
 }

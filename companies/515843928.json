@@ -6,21 +6,26 @@
   "logoFile": "logos/baseline_vision-logo.webp",
   "websiteUrl": "https://www.baselinevision.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "baselinevision",
+  "linkedinNum": 18739937,
   "crunchbaseId": null,
+  "ivcId": "A1000000278083",
   "finderId": "baseline-vision",
   "xId": null,
+  "facebookId": "baselinevision",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתן החכם",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.0827571,
-      "lon": 34.7717865
+      "city": "תל אביב-יפו",
+      "lat": 32.0827369,
+      "lon": 34.7717708
     }
   ],
   "isMultinational": false,
-  "facebookId": "baselinevision",
-  "linkedinNum": 18739937
+  "isActive": true
 }

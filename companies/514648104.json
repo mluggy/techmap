@@ -1,26 +1,31 @@
 {
   "name": "Curve Tech",
-  "description": "Reduce Employee Attrition",
+  "description": "Reduce Employee Attrition.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/curve_tech-logo.webp",
   "websiteUrl": "https://curvetech.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "curvetechai",
+  "linkedinNum": 10411524,
   "crunchbaseId": "curve-tech-israel",
+  "ivcId": "A1000000023861",
   "finderId": "curve-tech",
   "xId": null,
+  "facebookId": "CurveInsights",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.1105162,
-      "lon": 34.8376966
+      "city": "תל אביב-יפו",
+      "lat": 32.1100501,
+      "lon": 34.8376485
     }
   ],
   "isMultinational": false,
-  "facebookId": "CurveInsights",
-  "linkedinNum": 10411524
+  "isActive": true
 }

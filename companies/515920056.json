@@ -6,21 +6,26 @@
   "logoFile": "logos/slitled-logo.webp",
   "websiteUrl": "https://slitled.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "slitled",
+  "linkedinNum": 11496257,
   "crunchbaseId": null,
+  "ivcId": "A1000000221092",
   "finderId": "slitled",
   "xId": null,
+  "facebookId": "Slitled",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצמיחה",
+      "street": "Ha-Tsmikha Street",
       "houseNumber": 1,
-      "city": "יקנעם עילית",
-      "lat": 32.668888,
-      "lon": 35.107009
+      "city": "Yokne'am Illit",
+      "lat": 32.6687576,
+      "lon": 35.1075282
     }
   ],
   "isMultinational": false,
-  "facebookId": "Slitled",
-  "linkedinNum": 11496257
+  "isActive": true
 }

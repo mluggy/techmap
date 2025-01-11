@@ -6,18 +6,26 @@
   "logoFile": "logos/tpcera-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "tpcera",
+  "ivcId": "A1000000217801",
   "finderId": "tpcera",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פרופ רקח",
+      "street": "שמעון רוקח",
       "houseNumber": 1,
       "city": "ירושלים",
-      "lat": 31.7679937,
-      "lon": 35.1973517
+      "lat": 31.7895907,
+      "lon": 35.2225576
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/syneron_medical-logo.webp",
   "websiteUrl": "https://candelamedical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "candelamedical",
+  "linkedinNum": 28628504,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "syneron-medical",
   "xId": "CandelaMedical",
+  "facebookId": "candelamedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקידמה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "candelamedical",
-  "linkedinNum": 28628504
+  "isActive": true
 }

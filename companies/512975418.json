@@ -6,11 +6,17 @@
   "logoFile": "logos/f5-logo.webp",
   "websiteUrl": "https://www.f5.com/",
   "careersUrl": "https://www.f5.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "f5",
+  "linkedinNum": 4841,
   "crunchbaseId": "f5-networks",
+  "ivcId": null,
   "finderId": "f5",
   "xId": "f5networks",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,7 +26,6 @@
       "lon": 34.80462284403944
     }
   ],
-  "isMultinational": true,
-  "facebookId": "pages",
-  "linkedinNum": 4841
+  "isMultinational": false,
+  "isActive": true
 }

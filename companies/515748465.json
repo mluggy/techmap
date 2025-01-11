@@ -6,20 +6,26 @@
   "logoFile": "logos/loola_communication-logo.webp",
   "websiteUrl": "https://loola.tv/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "loola-tv",
+  "linkedinNum": 11505105,
   "crunchbaseId": null,
+  "ivcId": "A1000000257035",
   "finderId": "loola-communication",
   "xId": "LoolaTv",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "city": "תל אביב-יפו",
+      "lat": 32.0743897,
+      "lon": 34.7921693
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11505105
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Soy Technologies",
+  "description": "Soy Technologies develops plant based protein technologies. Its latest development is a gluten and egg free soy snack.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/soy_technologies-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000194219",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדמה",
+      "houseNumber": 29,
+      "city": "כרמיאל",
+      "lat": 32.9131137,
+      "lon": 35.2852989
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

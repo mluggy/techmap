@@ -1,16 +1,22 @@
 {
   "name": "HyperMode",
-  "description": "Mobile Games Creator",
+  "description": "Mobile Games Creator.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/hypermode-logo.webp",
   "websiteUrl": "https://hypermode.gg/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hypermode-games",
+  "linkedinNum": 74538963,
   "crunchbaseId": null,
+  "ivcId": "A1000000368170",
   "finderId": "hypermode",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המשביר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74538963
+  "isActive": true
 }

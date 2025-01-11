@@ -1,0 +1,31 @@
+{
+  "name": "Promo",
+  "description": "Promo.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/promo-logo.webp",
+  "websiteUrl": "https://promo.com",
+  "careersUrl": "https://promo.com/careers",
+  "linkedinId": "promodotcom",
+  "linkedinNum": 1059993,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001621",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 9,
+      "city": "תל אביב-יפו",
+      "lat": 32.1071008,
+      "lon": 34.8363001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

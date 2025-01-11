@@ -6,11 +6,17 @@
   "logoFile": "logos/printcb-logo.webp",
   "websiteUrl": "https://www.printcb.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "printcb",
+  "linkedinNum": 10277122,
   "crunchbaseId": null,
+  "ivcId": "A1000000215350",
   "finderId": "printcb",
   "xId": null,
+  "facebookId": "Printcb",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Printcb",
-  "linkedinNum": 10277122
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/maxlinear_israel-logo.webp",
   "websiteUrl": "https://www.maxlinear.com/",
   "careersUrl": "https://www.maxlinear.com/company/careers",
-  "isHiring": true,
   "linkedinId": "maxlinear",
+  "linkedinNum": 47129,
   "crunchbaseId": "maxlinear",
+  "ivcId": null,
   "finderId": "maxlinear",
   "xId": null,
+  "facebookId": "MaxLinear-Inc-1413368732212585",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שלמה שמלצר",
@@ -20,7 +26,6 @@
       "lon": 34.84918964759569
     }
   ],
-  "isMultinational": true,
-  "facebookId": "MaxLinear-Inc-1413368732212585",
-  "linkedinNum": 47129
+  "isMultinational": false,
+  "isActive": true
 }

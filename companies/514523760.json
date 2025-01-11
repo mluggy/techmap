@@ -6,21 +6,26 @@
   "logoFile": "logos/yarok_technology_transfer-logo.webp",
   "websiteUrl": "https://www.yaroktt.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "yarok-technology-transfer",
+  "linkedinNum": 10548998,
   "crunchbaseId": null,
+  "ivcId": "A1000000220313",
   "finderId": "yarok-technology-transfer",
   "xId": "yaroktt",
+  "facebookId": "yarokmicrobio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ניל\"י",
-      "houseNumber": 10,
+      "street": "קלמן יעקב מן",
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7667716,
-      "lon": 35.2078784
+      "lat": 31.76674379999999,
+      "lon": 35.1471338
     }
   ],
   "isMultinational": false,
-  "facebookId": "yarokmicrobio",
-  "linkedinNum": 10548998
+  "isActive": true
 }

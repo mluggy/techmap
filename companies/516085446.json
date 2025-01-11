@@ -6,19 +6,26 @@
   "logoFile": "logos/yonalink-logo.webp",
   "websiteUrl": "https://www.yonalink.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "yonalink",
+  "linkedinNum": 69179008,
   "crunchbaseId": null,
+  "ivcId": "A1000000313317",
   "finderId": "yonalink",
   "xId": "YonaLink_",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.073249,
-      "lon": 34.796032
+      "street": "קלמן יעקב מן",
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7651499,
+      "lon": 35.1496315
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

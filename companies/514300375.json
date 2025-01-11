@@ -6,11 +6,17 @@
   "logoFile": "logos/watergen-logo.webp",
   "websiteUrl": "https://www.watergen.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "watergen",
+  "linkedinNum": 824932,
   "crunchbaseId": null,
+  "ivcId": "A1000000001706",
   "finderId": "water-gen",
   "xId": "WaterGen_Inc",
+  "facebookId": "water.gen.official",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גרניט",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "water.gen.official",
-  "linkedinNum": 824932
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/sion_land_survying-logo.webp",
   "websiteUrl": "https://www.sion-israel.com/english/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sion",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד בן גוריון",
@@ -20,5 +26,6 @@
       "lon": 34.737589
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

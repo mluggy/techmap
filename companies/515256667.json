@@ -6,11 +6,17 @@
   "logoFile": "logos/canomix-logo.webp",
   "websiteUrl": "https://www.canomix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "canomix",
+  "ivcId": null,
   "finderId": "canomix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קציעות",
@@ -20,5 +26,6 @@
       "lon": 34.9410063
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

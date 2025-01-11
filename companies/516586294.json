@@ -1,16 +1,22 @@
 {
   "name": "Quantum Art",
-  "description": "Ion Trap Quantum Computers",
+  "description": "Ion Trap Quantum Computers.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/quantum_art-logo.webp",
   "websiteUrl": "https://www.quantum-art.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "quantum-art-tech",
+  "linkedinNum": 88394173,
   "crunchbaseId": null,
+  "ivcId": "A1000000384415",
   "finderId": "quantum-art-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אינשטיין",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 88394173
+  "isActive": true
 }

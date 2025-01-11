@@ -6,21 +6,26 @@
   "logoFile": "logos/trenario-logo.webp",
   "websiteUrl": "https://www.trenario.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trenario",
+  "linkedinNum": 10675195,
   "crunchbaseId": null,
+  "ivcId": "A1000000261950",
   "finderId": "trenario",
   "xId": "TrenarioAI",
+  "facebookId": "trenario",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרא\"ה",
       "houseNumber": 18,
       "city": "רמת גן",
-      "lat": 32.0763787,
-      "lon": 34.8251512
+      "lat": 32.0838135,
+      "lon": 34.8180887
     }
   ],
   "isMultinational": false,
-  "facebookId": "trenario",
-  "linkedinNum": 10675195
+  "isActive": true
 }

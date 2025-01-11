@@ -3,14 +3,20 @@
   "description": "A mobile device that performs automated eye examinations.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/hooke_eye_exam_solutions-logo.webp",
+  "logoFile": "logos/hooke-eye-exam-solutions-logo.webp",
   "websiteUrl": "https://www.hookeyecare.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hooke-eye-exam-solutions",
+  "linkedinNum": 90952189,
   "crunchbaseId": null,
+  "ivcId": "A1000000415429",
   "finderId": "hooke-eye-exam-solutions",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חזן יעקב",
@@ -20,5 +26,6 @@
       "lon": 34.8606759
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

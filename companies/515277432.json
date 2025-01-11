@@ -6,21 +6,26 @@
   "logoFile": "logos/lemonade-logo.webp",
   "websiteUrl": "https://www.lemonade.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lemonade-inc-",
+  "linkedinNum": 1201453,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lemonade",
   "xId": "Lemonade_Inc",
+  "facebookId": "lemonadeinc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דובנוב",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.075065,
       "lon": 34.783164
     }
   ],
   "isMultinational": false,
-  "facebookId": "lemonadeinc",
-  "linkedinNum": 1201453
+  "isActive": true
 }

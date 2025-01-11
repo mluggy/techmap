@@ -1,0 +1,31 @@
+{
+  "name": "Pickoto",
+  "description": "Pickoto is on a mission to improve the way people buy and sell cars.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/pickoto-logo.webp",
+  "websiteUrl": "https://www.pickoto.co.il",
+  "careersUrl": null,
+  "linkedinId": "pickoto",
+  "linkedinNum": 89628647,
+  "crunchbaseId": null,
+  "ivcId": "A1000000416599",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "מעיין צבי",
+      "lat": 32.568484,
+      "lon": 34.940623
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

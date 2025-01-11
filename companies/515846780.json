@@ -6,21 +6,26 @@
   "logoFile": "logos/sternum-logo.webp",
   "websiteUrl": "https://sternumiot.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sternum",
+  "linkedinNum": 12609514,
   "crunchbaseId": null,
+  "ivcId": "A1000000266425",
   "finderId": "sternum",
   "xId": "SternumIoT",
+  "facebookId": "sternumiot",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "sternumiot",
-  "linkedinNum": 12609514
+  "isActive": true
 }

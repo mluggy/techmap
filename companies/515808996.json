@@ -6,19 +6,26 @@
   "logoFile": "logos/targene_advanced_agriculture-logo.webp",
   "websiteUrl": "https://www.targene.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "targene-advanced-agriculture",
+  "ivcId": "A1000000225167",
   "finderId": "targene-advanced-agriculture",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פעמי אביב",
       "houseNumber": 23,
-      "city": "גבעת ח\"ן",
-      "lat": 32.1675833,
-      "lon": 34.8753422
+      "city": "גבעת חן",
+      "lat": 32.1685057,
+      "lon": 34.8754019
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

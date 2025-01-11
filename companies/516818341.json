@@ -6,18 +6,26 @@
   "logoFile": "logos/mocart-logo.webp",
   "websiteUrl": "https://www.mozzartbet.mk/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mocart",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבי אברהם",
       "houseNumber": 25,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06295910004803,
       "lon": 34.800326447833235
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

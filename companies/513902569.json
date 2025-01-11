@@ -6,11 +6,17 @@
   "logoFile": "logos/procatid_medical-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gardia-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האילן",
@@ -20,5 +26,6 @@
       "lon": 34.9222881
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

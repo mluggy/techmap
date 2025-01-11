@@ -1,25 +1,31 @@
 {
   "name": "Neragon Networks",
-  "description": "Compact Wireless Communication Devices",
+  "description": "Compact Wireless Communication Devices.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ceragon_networks-logo.webp",
   "websiteUrl": "https://www.neragon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ceragon-networks",
+  "linkedinNum": 68911440,
   "crunchbaseId": null,
+  "ivcId": "A1000000184005",
   "finderId": "neragon-networks",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פרופ רקח",
-      "houseNumber": 1,
-      "city": "ירושלים",
-      "lat": 31.7679937,
-      "lon": 35.1973517
+      "street": "החרושת",
+      "houseNumber": 10,
+      "city": "כפר סבא",
+      "lat": 32.1764605,
+      "lon": 34.9284147
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68911440
+  "isActive": true
 }

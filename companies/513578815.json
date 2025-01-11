@@ -1,0 +1,31 @@
+{
+  "name": "nFrnds",
+  "description": "nFrnds is a platform developed by VascoDe Technologies that enables low-cost user interaction without the need for internet access or SMS, thereby connecting borrowers, lenders, retailers, and customers, and bringing social networking & email services to mobile phone users in emerging markets.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/nfrnds-logo.webp",
+  "websiteUrl": "https://andfrnds.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000008875",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בצלאל",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.0866901,
+      "lon": 34.8016386
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

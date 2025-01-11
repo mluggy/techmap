@@ -6,21 +6,26 @@
   "logoFile": "logos/wide_view_data-logo.webp",
   "websiteUrl": "https://wideview.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 82166717,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "wideview",
   "xId": null,
+  "facebookId": "wideview.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 50,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063072,
       "lon": 34.780219
     }
   ],
   "isMultinational": false,
-  "facebookId": "wideview.io",
-  "linkedinNum": 82166717
+  "isActive": true
 }

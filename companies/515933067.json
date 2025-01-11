@@ -6,20 +6,26 @@
   "logoFile": "logos/aeye_health-logo.webp",
   "websiteUrl": "https://www.aeyehealth.com/",
   "careersUrl": "https://www.aeyehealth.com/our-careers",
-  "isHiring": true,
   "linkedinId": "aeyehealth",
+  "linkedinNum": 52141090,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "aeye-health",
   "xId": "aeyehealth",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 115,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069533,
       "lon": 34.785594
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 52141090
+  "isActive": true
 }

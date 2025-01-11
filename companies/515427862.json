@@ -6,20 +6,26 @@
   "logoFile": "logos/novoroll_israel-logo.webp",
   "websiteUrl": "https://www.novoroll.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "novoroll",
+  "linkedinNum": 7590748,
   "crunchbaseId": "novoroll",
+  "ivcId": null,
   "finderId": "novoroll",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 54,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064594,
       "lon": 34.774322
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 7590748
+  "isActive": true
 }

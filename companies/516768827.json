@@ -6,20 +6,26 @@
   "logoFile": "logos/koala_ops-logo.webp",
   "websiteUrl": "https://www.koalaops.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "koala-ops",
+  "linkedinNum": 88063603,
   "crunchbaseId": null,
+  "ivcId": "A1000000453831",
   "finderId": "koala-ops",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הבנים",
-      "houseNumber": 41,
+      "street": "נתן אלתרמן",
+      "houseNumber": 12,
       "city": "הרצליה",
-      "lat": 32.1626358,
-      "lon": 34.8448684
+      "lat": 32.1748553,
+      "lon": 34.8389557
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 88063603
+  "isActive": true
 }

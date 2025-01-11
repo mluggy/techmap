@@ -6,21 +6,26 @@
   "logoFile": "logos/botanohealth-logo.webp",
   "websiteUrl": "https://botanohealth.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "botanohealth",
+  "linkedinNum": 19171081,
   "crunchbaseId": null,
+  "ivcId": "A1000000279630",
   "finderId": "botanohealth",
   "xId": null,
+  "facebookId": "100077749680572",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הצבי",
-      "houseNumber": 15,
+      "street": "הועד הלאומי",
+      "houseNumber": 21,
       "city": "ירושלים",
-      "lat": 31.790832,
-      "lon": 35.2011661
+      "lat": 31.7650671,
+      "lon": 35.1912116
     }
   ],
   "isMultinational": false,
-  "facebookId": "100077749680572",
-  "linkedinNum": 19171081
+  "isActive": true
 }

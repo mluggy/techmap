@@ -6,20 +6,26 @@
   "logoFile": "logos/starget_pharma-logo.webp",
   "websiteUrl": "https://stargetpharma.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "starget-pharma",
+  "linkedinNum": 34613787,
   "crunchbaseId": null,
+  "ivcId": "A1000000323231",
   "finderId": "starget-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שניר",
       "houseNumber": 26,
       "city": "רמת השרון",
-      "lat": 32.13981,
-      "lon": 34.831537
+      "lat": 32.1408169,
+      "lon": 34.8321472
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 34613787
+  "isActive": true
 }

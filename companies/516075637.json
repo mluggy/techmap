@@ -1,26 +1,31 @@
 {
   "name": "Brew",
-  "description": "Marketing Strategy Platform",
+  "description": "Marketing Strategy Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/brew_investments-logo.webp",
   "websiteUrl": "https://www.getbrew.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "getbrew",
+  "linkedinNum": 73982974,
   "crunchbaseId": null,
+  "ivcId": "A1000000024605",
   "finderId": "brew",
   "xId": "get_brew",
+  "facebookId": "getbrewhq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סנש חנה",
-      "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.057832,
-      "lon": 34.787837
+      "street": "מנחם בגין",
+      "houseNumber": 11,
+      "city": "בני ברק",
+      "lat": 32.0929703,
+      "lon": 34.8277913
     }
   ],
   "isMultinational": false,
-  "facebookId": "getbrewhq",
-  "linkedinNum": 73982974
+  "isActive": true
 }

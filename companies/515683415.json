@@ -1,0 +1,31 @@
+{
+  "name": "SelfWelcome",
+  "description": "Self Reception developed a self service option on a hotel kiosk that is an alternative to traditional front desk service.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/selfwelcome-logo.webp",
+  "websiteUrl": "https://www.selfwelcome.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000301759",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רימון",
+      "houseNumber": 7,
+      "city": "שוהם",
+      "lat": 31.9874783,
+      "lon": 34.9374384
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

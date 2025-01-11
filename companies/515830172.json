@@ -6,19 +6,26 @@
   "logoFile": "logos/nematoeat-logo.webp",
   "websiteUrl": "https://copia-agro.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000283480",
   "finderId": "nematoeat",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שנקר אריה",
+      "street": "Shankar St",
       "houseNumber": 1,
-      "city": "הרצליה",
-      "lat": 32.1604703,
-      "lon": 34.809883
+      "city": "Herzliya",
+      "lat": 32.1602777,
+      "lon": 34.810068
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

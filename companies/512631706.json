@@ -1,16 +1,22 @@
 {
   "name": "Leorex",
-  "description": "Dermocosmetic Skincare Products",
+  "description": "Leorex develops derma-cosmetic products based on nanotechnology for treating skin problems. The company manufactures a patent-pending product for Acne.",
   "categoryId": 12,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/leorex-logo.webp",
-  "websiteUrl": "https://leorexboost.com/",
+  "websiteUrl": "https://leorexisrael.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000003260",
   "finderId": "leorex",
   "xId": null,
+  "facebookId": "LEOREXISRAEL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חת נחום",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "LEOREXISRAEL"
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/solarwinds_itsm_israel-logo.webp",
   "websiteUrl": "https://www.solarwinds.com/",
   "careersUrl": "https://jobs.solarwinds.com/",
-  "isHiring": true,
   "linkedinId": "solarwinds",
+  "linkedinNum": 166039,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "solarwinds1",
   "xId": "solarwinds",
+  "facebookId": "SolarWinds",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -20,7 +26,6 @@
       "lon": 34.8584354
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SolarWinds",
-  "linkedinNum": 166039
+  "isMultinational": false,
+  "isActive": true
 }

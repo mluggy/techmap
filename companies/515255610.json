@@ -3,22 +3,29 @@
   "description": "A platform for booking airline tickets and accessing retail services.",
   "categoryId": 9,
   "size": "s",
-  "logoFile": "logos/bidflyer_labs-logo.webp",
+  "logoFile": "logos/bidflyer-labs-logo.webp",
   "websiteUrl": "https://www.fareplace.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fareplace",
+  "linkedinNum": 4849764,
   "crunchbaseId": "bidflyer",
+  "ivcId": "A1000000188750",
   "finderId": "bidflyer",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": null,
-      "city": "להבות הבשן",
-      "lat": 33.1406178,
-      "lon": 35.646246
+      "street": "דרך מנחם בגין",
+      "houseNumber": 144,
+      "city": "תל אביב-יפו",
+      "lat": 32.077331,
+      "lon": 34.7932911
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

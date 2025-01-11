@@ -6,20 +6,26 @@
   "logoFile": "logos/addionics_il-logo.webp",
   "websiteUrl": "https://www.addionics.com/",
   "careersUrl": "https://www.addionics.com/career",
-  "isHiring": true,
   "linkedinId": "addionics",
+  "linkedinNum": 18323880,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "addionics",
   "xId": "addionics",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072927,
       "lon": 34.797046
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18323880
+  "isActive": true
 }

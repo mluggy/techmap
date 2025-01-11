@@ -6,11 +6,17 @@
   "logoFile": "logos/rockwell_automation-logo.webp",
   "websiteUrl": "https://www.rockwellautomation.com/",
   "careersUrl": "https://www.rockwellautomation.com/en-us/company/careers.html",
-  "isHiring": true,
   "linkedinId": "rockwell-automation",
+  "linkedinNum": 2498,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rockwell-automation",
   "xId": null,
+  "facebookId": "ROKAutomation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרוקמים",
@@ -20,7 +26,6 @@
       "lon": 34.80060304320986
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ROKAutomation",
-  "linkedinNum": 2498
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/buildots-logo.webp",
   "websiteUrl": "https://buildots.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "buildots",
+  "linkedinNum": 29118298,
   "crunchbaseId": null,
+  "ivcId": "A1000000274720",
   "finderId": "buildots",
   "xId": "buildots",
+  "facebookId": "buildots",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 98,
-      "city": "תל אביב - יפו",
-      "lat": 32.0700073,
-      "lon": 34.794193699999994
+      "city": "תל אביב-יפו",
+      "lat": 32.07003520000001,
+      "lon": 34.7942584
     }
   ],
   "isMultinational": false,
-  "facebookId": "buildots",
-  "linkedinNum": 29118298
+  "isActive": true
 }

@@ -6,22 +6,26 @@
   "logoFile": "logos/silverfort-logo.webp",
   "websiteUrl": "https://www.silverfort.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "silverfort",
+  "linkedinNum": 10681356,
   "crunchbaseId": null,
+  "ivcId": "A1000000218840",
   "finderId": "silverfort",
   "xId": "silverfort",
+  "facebookId": "silverfort",
+  "breezyId": null,
+  "comeetId": "silverfort/54.007",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.070031,
-      "lon": 34.786856
+      "city": "תל אביב-יפו",
+      "lat": 32.0701722,
+      "lon": 34.7865614
     }
   ],
   "isMultinational": false,
-  "facebookId": "silverfort",
-  "linkedinNum": 10681356,
-  "comeetId": "silverfort/54.007"
+  "isActive": true
 }

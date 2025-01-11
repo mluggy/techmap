@@ -6,11 +6,17 @@
   "logoFile": "logos/intellisen-logo.webp",
   "websiteUrl": "https://intellisen.wixsite.com/intellisen",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "intellisen",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן גוריון",
@@ -20,5 +26,6 @@
       "lon": 34.84585
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

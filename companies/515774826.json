@@ -3,14 +3,20 @@
   "description": "Revolutionizing radiology with an AI-driven quality management system.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/imedis_ai-logo.webp",
+  "logoFile": "logos/imedis-logo.webp",
   "websiteUrl": "https://www.imedis.ai/",
   "careersUrl": "https://www.imedis.ai/careers",
-  "isHiring": true,
   "linkedinId": "imedis-medical",
+  "linkedinNum": 18213740,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "imedis-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -20,5 +26,6 @@
       "lon": 34.8811941
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

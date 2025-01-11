@@ -6,12 +6,17 @@
   "logoFile": "logos/pragma.webp",
   "websiteUrl": "https://www.pragma.ai/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 72374758,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pragma",
   "xId": "pragmaai",
   "facebookId": "InLoveWithPragma",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,5 +26,6 @@
       "lon": 34.8059188191354
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

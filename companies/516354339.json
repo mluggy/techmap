@@ -6,20 +6,26 @@
   "logoFile": "logos/ikko_health-logo.webp",
   "websiteUrl": "https://www.ikko.health/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ikko-health",
+  "linkedinNum": 72699754,
   "crunchbaseId": null,
+  "ivcId": "A1000000372433",
   "finderId": "ikko-health",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שונצינו",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.065848,
-      "lon": 34.787199
+      "street": "שלוש",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.060739,
+      "lon": 34.765093
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72699754
+  "isActive": true
 }

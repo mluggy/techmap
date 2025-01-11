@@ -6,19 +6,26 @@
   "logoFile": "logos/flux_life-logo.webp",
   "websiteUrl": "https://runonflux.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000415264",
   "finderId": "flux",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארלוזורוב",
       "houseNumber": 111,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.084431,
       "lon": 34.786971
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

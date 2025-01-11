@@ -6,21 +6,26 @@
   "logoFile": "logos/cycognito-logo.webp",
   "websiteUrl": "https://www.cycognito.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cycognito",
+  "linkedinNum": 22298209,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cycognito",
   "xId": "cycognito",
+  "facebookId": "CyCognito",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 34,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06412,
       "lon": 34.785929
     }
   ],
   "isMultinational": false,
-  "facebookId": "CyCognito",
-  "linkedinNum": 22298209
+  "isActive": true
 }

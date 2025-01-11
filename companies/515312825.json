@@ -6,20 +6,26 @@
   "logoFile": "logos/enigmatos-logo.webp",
   "websiteUrl": "https://www.enigmatos.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "enigmatos",
+  "linkedinNum": 18144753,
   "crunchbaseId": null,
+  "ivcId": "A1000000233120",
   "finderId": "enigmatos",
   "xId": "Enigmatos_Sec",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד גן רווה",
+      "street": "שדרות גן רווה",
       "houseNumber": 13,
       "city": "יבנה",
-      "lat": 31.9011613,
-      "lon": 34.738844
+      "lat": 31.900825,
+      "lon": 34.740174
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18144753
+  "isActive": true
 }

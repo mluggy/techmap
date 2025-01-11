@@ -6,19 +6,26 @@
   "logoFile": "logos/eyecuracy-logo.webp",
   "websiteUrl": "https://eyecuracy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000416189",
   "finderId": "eyecuracy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן יוסף שלמה",
+      "street": "שלמה בן יוסף",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.123813,
-      "lon": 34.798076
+      "city": "תל אביב-יפו",
+      "lat": 32.1238018,
+      "lon": 34.798026
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

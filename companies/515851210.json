@@ -6,20 +6,26 @@
   "logoFile": "logos/xiologic-logo.webp",
   "websiteUrl": "https://www.xiologic.com",
   "careersUrl": "https://www.xiologix.com/careers/",
-  "isHiring": true,
   "linkedinId": "xiologic",
+  "linkedinNum": 20559492,
   "crunchbaseId": "xiologic",
+  "ivcId": null,
   "finderId": "xiologic-ltd",
   "xId": "xiologic",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0736302,
       "lon": 34.7963872
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 20559492
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/growin-logo.webp",
   "websiteUrl": "https://growin.ag/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "growin.ag",
+  "linkedinNum": 81872396,
   "crunchbaseId": null,
+  "ivcId": "A1000000400281",
   "finderId": "growin",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עציון",
-      "houseNumber": 35,
-      "city": "רעננה",
-      "lat": 32.19003135,
-      "lon": 34.86041334473991
+      "street": "הערבה",
+      "houseNumber": 76,
+      "city": "גנות",
+      "lat": 32.0148342,
+      "lon": 34.8287186
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

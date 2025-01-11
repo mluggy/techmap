@@ -1,0 +1,31 @@
+{
+  "name": "Xpertesy",
+  "description": "Xpertesy is a media ecosystem created to make the studying & communication process easier and more efficient.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/xpertesy-logo.webp",
+  "websiteUrl": "https://xpertesy.com",
+  "careersUrl": null,
+  "linkedinId": "xpertesy1",
+  "linkedinNum": 83513774,
+  "crunchbaseId": null,
+  "ivcId": "A1000000432021",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רוטשילד",
+      "houseNumber": 20,
+      "city": "כפר סבא",
+      "lat": 32.1721995,
+      "lon": 34.9077334
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

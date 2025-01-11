@@ -1,26 +1,31 @@
 {
   "name": "Mapme",
-  "description": "Create interactive, customizable maps with multimedia content to suit your audience and goals.",
+  "description": "Mapme enables companies and organizations to leverage maps in order to share their stories, generate more transactions, and improve their customers’ experience.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/mapme-logo.webp",
-  "websiteUrl": "https://mapme.com/",
+  "websiteUrl": "http://mapme.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 9199493,
   "crunchbaseId": null,
+  "ivcId": "A1000000180215",
   "finderId": "mapme",
   "xId": "mapmeapp",
+  "facebookId": "mappedly",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנביאים",
-      "houseNumber": 31,
-      "city": "ירושלים",
-      "lat": 31.783554,
-      "lon": 35.2223102
+      "street": "יעקב",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.1200593,
+      "lon": 34.81234
     }
   ],
   "isMultinational": false,
-  "facebookId": "mappedly",
-  "linkedinNum": 9199493
+  "isActive": true
 }

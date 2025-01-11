@@ -6,20 +6,26 @@
   "logoFile": "logos/mindsview_technologies-logo.webp",
   "websiteUrl": "https://www.mindsview-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mindsview-technologies-ltd",
+  "linkedinNum": 74491235,
   "crunchbaseId": null,
+  "ivcId": "A1000000348310",
   "finderId": "mindsview-technologies-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שרת משה",
+      "street": "משה שרת",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
-      "lat": 32.087945,
-      "lon": 34.787829
+      "city": "תל אביב-יפו",
+      "lat": 32.0879276,
+      "lon": 34.7878438
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74491235
+  "isActive": true
 }

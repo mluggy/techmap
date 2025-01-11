@@ -6,20 +6,26 @@
   "logoFile": "logos/eva_board-logo.webp",
   "websiteUrl": "https://www.evagreentech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 15855587,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "eva",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לונץ",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069842,
       "lon": 34.780331
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 15855587
+  "isActive": true
 }

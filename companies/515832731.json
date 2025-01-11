@@ -6,11 +6,17 @@
   "logoFile": "logos/arjeannie-logo.webp",
   "websiteUrl": "https://www.arjeannie.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "arjeannie",
+  "linkedinNum": 37865495,
   "crunchbaseId": null,
+  "ivcId": "A1000000310245",
   "finderId": "arjeannie",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סוקולוב",
@@ -20,5 +26,6 @@
       "lon": 34.83844968838688
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

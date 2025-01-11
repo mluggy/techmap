@@ -6,21 +6,26 @@
   "logoFile": "logos/exigence-logo.webp",
   "websiteUrl": "https://www.exigence.io/",
   "careersUrl": "https://www.exigence.com.au/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "exigence-ltd-",
+  "linkedinNum": 9334946,
   "crunchbaseId": null,
+  "ivcId": "A1000000179943",
   "finderId": "statuscloud",
   "xId": "exigence_ltd",
+  "facebookId": "exigence.ltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "משעול עוזרד",
-      "houseNumber": 13,
-      "city": "ירושלים",
-      "lat": 31.807811035821043,
-      "lon": 35.19922814561841
+      "street": "שדרות רוקח",
+      "houseNumber": 101,
+      "city": "תל אביב-יפו",
+      "lat": 32.1055966,
+      "lon": 34.8102176
     }
   ],
   "isMultinational": false,
-  "facebookId": "exigence.ltd",
-  "linkedinNum": 9334946
+  "isActive": true
 }

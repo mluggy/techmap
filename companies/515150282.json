@@ -6,21 +6,26 @@
   "logoFile": "logos/uppler-logo.webp",
   "websiteUrl": "https://www.uppler.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "uppler",
+  "linkedinNum": 5255842,
   "crunchbaseId": null,
+  "ivcId": "A1000000199521",
   "finderId": "uppler",
   "xId": "_Uppler",
+  "facebookId": "upplernetwork",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הוז דב",
+      "street": "דב הוז",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.081719,
-      "lon": 34.772595
+      "city": "תל אביב-יפו",
+      "lat": 32.0816963,
+      "lon": 34.7725217
     }
   ],
   "isMultinational": false,
-  "facebookId": "upplernetwork",
-  "linkedinNum": 5255842
+  "isActive": true
 }

@@ -3,21 +3,29 @@
   "description": "Optimizing cannabis and hemp genetics for growers and consumers alike.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/canbreed_seeds-logo.webp",
+  "logoFile": "logos/canbreed-seeds-logo.webp",
   "websiteUrl": "https://www.canbreedseeds.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "can-breed",
+  "linkedinNum": 28990940,
   "crunchbaseId": "canbreed",
+  "ivcId": "A1000000335728",
   "finderId": "canbreed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.06530465,
-      "lon": 34.784687671749694
+      "street": "ברכת עם",
+      "houseNumber": 54,
+      "city": "גבעת חן",
+      "lat": 32.1673631,
+      "lon": 34.8721029
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

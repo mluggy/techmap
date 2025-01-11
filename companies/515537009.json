@@ -1,26 +1,31 @@
 {
   "name": "MTtech",
-  "description": "Smart Kitchen and Office Systems",
-  "categoryId": 14,
+  "description": "MedDesk-AI is a touchscreen workstation designed to streamline doctors' workflows and access to medical data using voice commands and advanced AI.",
+  "categoryId": 13,
   "size": "xs",
   "logoFile": "logos/mttech_interactive_multimedia_systems-logo.webp",
-  "websiteUrl": "https://www.mttechs.com",
+  "websiteUrl": "https://meddesk-ai.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mttech",
+  "linkedinNum": 13275635,
   "crunchbaseId": null,
+  "ivcId": "A1000000237167",
   "finderId": "mttech-interactive-multimedia-systems",
   "xId": null,
+  "facebookId": "mttechIL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אייזנברג",
-      "houseNumber": 33,
-      "city": "רחובות",
-      "lat": 31.9016469,
-      "lon": 34.8141438
+      "street": "מנחם בגין",
+      "houseNumber": 36,
+      "city": "בני ברק",
+      "lat": 32.092315,
+      "lon": 34.830441
     }
   ],
   "isMultinational": false,
-  "facebookId": "mttechIL",
-  "linkedinNum": 13275635
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/cardinalops-logo.webp",
   "websiteUrl": "https://cardinalops.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cardinalops",
+  "linkedinNum": 66575494,
   "crunchbaseId": null,
+  "ivcId": "A1000000322092",
   "finderId": "cardinalops",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "cardinalops/66.005",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
-      "lat": 32.07734524999999,
-      "lon": 34.79332549438699
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322718
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 66575494,
-  "comeetId": "cardinalops/66.005"
+  "isActive": true
 }

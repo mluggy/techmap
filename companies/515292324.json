@@ -3,14 +3,29 @@
   "description": "Provides eco-friendly, long-lasting industrial solutions with a competitive edge.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/coreteel_technologies-logo.webp",
+  "logoFile": "logos/coreteel-logo.webp",
   "websiteUrl": "https://coreteel.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "green-icps",
+  "linkedinNum": 18707968,
   "crunchbaseId": null,
+  "ivcId": "A1000000227706",
   "finderId": "coreteel",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ צורעה",
+      "lat": 31.76288968919622,
+      "lon": 34.96974849999896
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

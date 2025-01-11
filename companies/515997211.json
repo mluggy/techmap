@@ -6,20 +6,26 @@
   "logoFile": "logos/xinteza_api-logo.webp",
   "websiteUrl": "https://xinteza.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 77669925,
   "crunchbaseId": null,
+  "ivcId": "A1000000320127",
   "finderId": "xinteza-api",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רובינא חנה",
+      "street": "חנה רובינא",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.12204935,
-      "lon": 34.81933269664718
+      "city": "תל אביב-יפו",
+      "lat": 32.1216504,
+      "lon": 34.8194015
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77669925
+  "isActive": true
 }

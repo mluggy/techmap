@@ -3,14 +3,20 @@
   "description": "Integrating high-throughput flow cytometry with live-cell microscopy, this company revolutionizes cellular analysis by enabling profound insights from complex datasets.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/teracyte_analytics-logo.webp",
+  "logoFile": "logos/teracyte-analytics-logo.webp",
   "websiteUrl": "https://www.teracyte.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "teracyte-analytics",
+  "linkedinNum": 80273523,
   "crunchbaseId": null,
+  "ivcId": "A1000000429334",
   "finderId": "teracyte-analytics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטוחן",
@@ -19,5 +25,7 @@
       "lat": 32.4857297,
       "lon": 34.9462968
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "Leveraging AI and psychological models, this system enhances and sustains exercisers' motivation to reduce drop-out rates in fitness centers.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/synergym_ai-logo.webp",
+  "logoFile": "logos/synergym-ai-logo.webp",
   "websiteUrl": "https://www.synergym.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "synergym-ai",
+  "linkedinNum": 81610282,
   "crunchbaseId": "synergym-ai",
+  "ivcId": "A1000000359688",
   "finderId": "synergym-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -20,5 +26,6 @@
       "lon": 34.799938614641945
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

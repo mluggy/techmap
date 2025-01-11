@@ -6,11 +6,17 @@
   "logoFile": "logos/panaya-logo.webp",
   "websiteUrl": "https://www.panaya.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "panaya",
+  "linkedinNum": 35280,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "panaya",
   "xId": "panaya",
+  "facebookId": "mypanaya",
+  "breezyId": null,
+  "comeetId": "panaya/61.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "mypanaya",
-  "linkedinNum": 35280,
-  "comeetId": "panaya/61.00C"
+  "isActive": true
 }

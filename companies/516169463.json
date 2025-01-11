@@ -1,16 +1,22 @@
 {
   "name": "WhoMi Avatar",
-  "description": "Behavioral Finance and AI Solutions for Traders",
-  "categoryId": 10,
+  "description": "WhoMi is improving the wealth management market with AI-backed, Behavioral Finance personalization for next generation trading, research and asset management.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/whomi_avatar-logo.webp",
-  "websiteUrl": "https://www.whomi.biz/",
+  "websiteUrl": "https://www.whomiavatar.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000345415",
   "finderId": "whomi-avatar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -20,5 +26,6 @@
       "lon": 34.9462929
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/younity_technologies-logo.webp",
   "websiteUrl": "https://www.younity.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "younityio",
+  "linkedinNum": 11692909,
   "crunchbaseId": null,
+  "ivcId": "A1000000269451",
   "finderId": "younity",
   "xId": "younity_global",
+  "facebookId": "younity.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפלך",
+      "street": "אחד העם",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.050538,
-      "lon": 34.766862
+      "city": "תל אביב-יפו",
+      "lat": 32.0635898,
+      "lon": 34.7687513
     }
   ],
   "isMultinational": false,
-  "facebookId": "younity.io",
-  "linkedinNum": 11692909
+  "isActive": true
 }

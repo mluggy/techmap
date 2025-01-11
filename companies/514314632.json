@@ -6,21 +6,26 @@
   "logoFile": "logos/k_2_view-logo.webp",
   "websiteUrl": "https://www.k2view.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "k2view",
+  "linkedinNum": 1012853,
   "crunchbaseId": null,
+  "ivcId": "A1000000024111",
   "finderId": "k2view",
   "xId": "k2viewdata",
+  "facebookId": "K2View",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
       "houseNumber": 6,
-      "city": "יקנעם עילית",
-      "lat": 32.659574899999996,
-      "lon": 35.0987182394682
+      "city": "יוקנעם עילית",
+      "lat": 32.6595784,
+      "lon": 35.0985963
     }
   ],
   "isMultinational": false,
-  "facebookId": "K2View",
-  "linkedinNum": 1012853
+  "isActive": true
 }

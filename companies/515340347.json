@@ -6,11 +6,17 @@
   "logoFile": "logos/viridix-logo.webp",
   "websiteUrl": "https://www.viridix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "viridix",
+  "linkedinNum": 18199377,
   "crunchbaseId": null,
+  "ivcId": "A1000000223927",
   "finderId": "viridix",
   "xId": null,
+  "facebookId": "Viridix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האורנים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Viridix",
-  "linkedinNum": 18199377
+  "isActive": true
 }

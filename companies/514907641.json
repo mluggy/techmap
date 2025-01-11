@@ -1,16 +1,22 @@
 {
   "name": "Hulyo Tourism",
-  "description": "Mobile App for Last-minute Flights",
+  "description": "Mobile App for Last-minute Flights.",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/hulyo_tourism-logo.webp",
   "websiteUrl": "https://www.hulyo.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hulyo-tourism",
+  "linkedinNum": 5309528,
   "crunchbaseId": "hulyo-tourism",
+  "ivcId": "A1000000021175",
   "finderId": "hulyo-tourism",
   "xId": null,
+  "facebookId": "%D7%97%D7%95%D7%9C%D7%99%D7%95-%D7%98%D7%99%D7%A1%D7%95%D7%AA-%D7%9E%D7%95%D7%96%D7%9C%D7%95%D7%AA-Hulyo-318088008270570",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדובדבן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "%D7%97%D7%95%D7%9C%D7%99%D7%95-%D7%98%D7%99%D7%A1%D7%95%D7%AA-%D7%9E%D7%95%D7%96%D7%9C%D7%95%D7%AA-Hulyo-318088008270570",
-  "linkedinNum": 5309528
+  "isActive": true
 }

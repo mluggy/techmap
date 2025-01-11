@@ -3,14 +3,20 @@
   "description": "Leveraging AI technology to design and engineer plants for protein production.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/finally_foods-logo.webp",
+  "logoFile": "logos/finally-foods-logo.webp",
   "websiteUrl": "https://www.finally-foods.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "finally-foods-ltd",
+  "linkedinNum": 102210314,
   "crunchbaseId": null,
+  "ivcId": "A1000000470849",
   "finderId": "finally-foods",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האלוף פרי יעקב",
@@ -19,5 +25,7 @@
       "lat": 31.8971232,
       "lon": 34.7870119
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

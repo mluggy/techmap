@@ -6,21 +6,26 @@
   "logoFile": "logos/deep_optics-logo.webp",
   "websiteUrl": "https://www.deepoptics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "deep-optics",
+  "linkedinNum": 3824365,
   "crunchbaseId": null,
+  "ivcId": "A1000000021482",
   "finderId": "deepoptics",
   "xId": "32onSunglasses",
+  "facebookId": "32Neyewear",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אזור התעשיה",
-      "houseNumber": null,
-      "city": "עכו",
-      "lat": 32.979171,
-      "lon": 35.271973
+      "street": "ברקת",
+      "houseNumber": 9,
+      "city": "פתח תקווה",
+      "lat": 32.0893163,
+      "lon": 34.8586132
     }
   ],
   "isMultinational": false,
-  "facebookId": "32Neyewear",
-  "linkedinNum": 3824365
+  "isActive": true
 }

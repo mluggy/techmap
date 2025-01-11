@@ -1,26 +1,31 @@
 {
   "name": "Fireberry",
-  "description": "A premier CRM solution for managing clients, leads, and tasks, providing real-time comprehensive insights into company performance.",
+  "description": "Powerlink builds simple CRM products and convenient tools for managing customer relationships in businesses.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/fireberry-logo.webp",
-  "websiteUrl": "https://www.powerlink.co.il/",
+  "websiteUrl": "https://www.fireberry.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fireberry-software-ltd",
+  "linkedinNum": 2365062,
   "crunchbaseId": null,
+  "ivcId": "A1000000185125",
   "finderId": "powerlink-software",
   "xId": "PowerlinkCRM",
+  "facebookId": "PowerLinkCRM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
-      "lat": 32.070693,
-      "lon": 34.785176
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
   "isMultinational": false,
-  "facebookId": "PowerLinkCRM",
-  "linkedinNum": 2365062
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/yahoo-logo.webp",
   "websiteUrl": "https://www.yahoo.com/",
   "careersUrl": "https://www.yahooinc.com/careers/",
-  "isHiring": true,
   "linkedinId": "yahoo",
+  "linkedinNum": 1288,
   "crunchbaseId": "yahoo",
+  "ivcId": null,
   "finderId": "yahoo",
   "xId": "Yahoo",
+  "facebookId": "YahooIL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זבוטינסקי",
@@ -20,7 +26,6 @@
       "lon": 34.80136522885679
     }
   ],
-  "isMultinational": true,
-  "facebookId": "YahooIL",
-  "linkedinNum": 1288
+  "isMultinational": false,
+  "isActive": true
 }

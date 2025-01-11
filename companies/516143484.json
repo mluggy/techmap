@@ -1,0 +1,31 @@
+{
+  "name": "Loris",
+  "description": "Loris has developed an AI software that can craft real-time suggested responses, based on the tone of the customers.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/loris-logo.webp",
+  "websiteUrl": "https://loris.ai",
+  "careersUrl": "https://loris.ai/careers/",
+  "linkedinId": "loris-ai",
+  "linkedinNum": 11465498,
+  "crunchbaseId": null,
+  "ivcId": "A1000000384530",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 120,
+      "city": "בני ברק",
+      "lat": 32.0930892,
+      "lon": 34.8322703
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,11 +6,17 @@
   "logoFile": "logos/genefron-logo.webp",
   "websiteUrl": "https://www.genefron.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "genefron",
+  "linkedinNum": 64717842,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "genefron",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבוא החרוב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64717842
+  "isActive": true
 }

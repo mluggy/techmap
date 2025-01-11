@@ -6,11 +6,26 @@
   "logoFile": "logos/vinerobotiqs-logo.webp",
   "websiteUrl": "https://vinerobotiqs.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vinerobotiqs",
+  "linkedinNum": 97864814,
   "crunchbaseId": null,
+  "ivcId": "A1000000435514",
   "finderId": "vinerobotiqs",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המייסדים",
+      "houseNumber": 28,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5211856,
+      "lon": 34.948781
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

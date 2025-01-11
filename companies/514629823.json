@@ -6,12 +6,26 @@
   "logoFile": "logos/agro_shelef-logo.webp",
   "websiteUrl": "https://www.agroshelef.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000002005",
   "finderId": "agro-shelef",
   "xId": null,
-  "addresses": [],
+  "facebookId": "Agro-Shelef-325101044196536",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ימית",
+      "houseNumber": 67,
+      "city": "עין הבשור",
+      "lat": 31.2789171,
+      "lon": 34.4444008
+    }
+  ],
   "isMultinational": false,
-  "facebookId": "Agro-Shelef-325101044196536"
+  "isActive": true
 }

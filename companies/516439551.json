@@ -6,20 +6,26 @@
   "logoFile": "logos/twill_isr-logo.webp",
   "websiteUrl": "https://www.twill.health/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3155228,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "twill",
   "xId": "twillhealth",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.109636,
       "lon": 34.837396
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3155228
+  "isActive": true
 }

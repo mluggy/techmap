@@ -1,0 +1,31 @@
+{
+  "name": "RealBio",
+  "description": "RealBio Technologies is an R&D company established in 2003 by Dr.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/realbio-logo.webp",
+  "websiteUrl": "http://www.realbiodx.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000006207",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האלה",
+      "houseNumber": 259,
+      "city": "כפר הנגיד",
+      "lat": 31.892103,
+      "lon": 34.7515411
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

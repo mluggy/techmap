@@ -6,21 +6,26 @@
   "logoFile": "logos/crowdsense-logo.webp",
   "websiteUrl": "https://www.crowdsense.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "crowdsenseai",
+  "linkedinNum": 18084751,
   "crunchbaseId": null,
+  "ivcId": "A1000000277559",
   "finderId": "crowdsense",
   "xId": "Crowdsenseai",
+  "facebookId": "Crowdsenseai-2070664129695666",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התאנה",
-      "houseNumber": 5,
-      "city": "ראשון לציון",
-      "lat": 31.963366100000002,
-      "lon": 34.7988019
+      "street": "קרליבך",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0690074,
+      "lon": 34.7831733
     }
   ],
   "isMultinational": false,
-  "facebookId": "Crowdsenseai-2070664129695666",
-  "linkedinNum": 18084751
+  "isActive": true
 }

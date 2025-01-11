@@ -1,16 +1,22 @@
 {
   "name": "Remote Energy",
-  "description": "Everyone should have access to high-quality solar PV training as their first step to join the rapidly growing renewable energy industry.",
+  "description": "Remote Energy’s developments utilize electric field charging, a solution that enhances cost-effectiveness, employs lightweight and compact components and grants exceptional freedom to drivers and operators.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/remote_energy-logo.webp",
-  "websiteUrl": "https://www.remoteenergy.org/",
+  "logoFile": "logos/remote-energy-logo.webp",
+  "websiteUrl": "https://remot.energy",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "remote-energy",
+  "linkedinNum": 16244083,
   "crunchbaseId": null,
+  "ivcId": "A1000000494775",
   "finderId": "remote-energy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרזנר יחיאל",
@@ -19,5 +25,7 @@
       "lat": 32.1057744,
       "lon": 34.895154
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Rekah",
+  "description": "Rekah Pharmaceutical Industry is a public company traded on the Israel Stock Exchange.",
+  "categoryId": 12,
+  "size": "l",
+  "logoFile": "logos/rekah-logo.webp",
+  "websiteUrl": "https://rekah.co.il",
+  "careersUrl": null,
+  "linkedinId": "rekah-pharmaceutical-industries",
+  "linkedinNum": 19016127,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004258",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 30,
+      "city": "חולון",
+      "lat": 32.0151441,
+      "lon": 34.7988185
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

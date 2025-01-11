@@ -6,21 +6,26 @@
   "logoFile": "logos/autofleet_systems-logo.webp",
   "websiteUrl": "https://autofleet.io/",
   "careersUrl": "https://autofleet.io/careers",
-  "isHiring": true,
   "linkedinId": "autofleet",
+  "linkedinNum": 11456468,
   "crunchbaseId": "autofleet-tel-aviv-israel",
+  "ivcId": null,
   "finderId": "autofleet",
   "xId": "autofleet_io",
+  "facebookId": "autofleet.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066645,
       "lon": 34.78582
     }
   ],
   "isMultinational": false,
-  "facebookId": "autofleet.io",
-  "linkedinNum": 11456468
+  "isActive": true
 }

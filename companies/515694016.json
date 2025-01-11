@@ -6,11 +6,17 @@
   "logoFile": "logos/flexable_orthopedics-logo.webp",
   "websiteUrl": "https://www.flexibletechnologies.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "flexable-orthopedics",
+  "ivcId": null,
   "finderId": "flexable",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בנימין מטודלה",
@@ -19,5 +25,7 @@
       "lat": 31.7715641,
       "lon": 35.2117608
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

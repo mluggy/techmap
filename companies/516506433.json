@@ -6,21 +6,26 @@
   "logoFile": "logos/reason_labs-logo.webp",
   "websiteUrl": "https://reasonlabs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 6428902,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "reasonlabs",
   "xId": "Reasonsecurity",
+  "facebookId": "ReasonLabsCyberSec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
   "isMultinational": false,
-  "facebookId": "ReasonLabsCyberSec",
-  "linkedinNum": 6428902
+  "isActive": true
 }

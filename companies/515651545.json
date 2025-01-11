@@ -1,26 +1,31 @@
 {
   "name": "Make My Day",
-  "description": "Charging Optimization for Electric Vehicle Drivers and Fleets",
+  "description": "Charging Optimization for Electric Vehicle Drivers and Fleets.",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/make_my_day-logo.webp",
   "websiteUrl": "https://www.makemydayapp.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "make-my-day-app",
+  "linkedinNum": 27151331,
   "crunchbaseId": null,
+  "ivcId": "A1000000222154",
   "finderId": "makemyday",
   "xId": "Make_My_Day_App",
+  "facebookId": "MakeMyDayApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דבורה הנביאה",
-      "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.113198,
-      "lon": 34.844295
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "MakeMyDayApp",
-  "linkedinNum": 27151331
+  "isActive": true
 }

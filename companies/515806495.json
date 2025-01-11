@@ -6,21 +6,26 @@
   "logoFile": "logos/inspira_technologies_oxy_b_h_n-logo.webp",
   "websiteUrl": "https://inspira-technologies.com/",
   "careersUrl": "https://inspira-technologies.com/careers/",
-  "isHiring": true,
   "linkedinId": "inspiratechnologies",
+  "linkedinNum": 18356393,
   "crunchbaseId": null,
+  "ivcId": "A1000000289176",
   "finderId": "insense-medical",
   "xId": "InspiraTechnol1",
+  "facebookId": "Inspira-Technologies-102505695273996",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התדהר",
+      "street": "תדהר",
       "houseNumber": 2,
-      "city": "רעננה",
-      "lat": 32.1985331,
-      "lon": 34.8842596
+      "city": "כפר סבא",
+      "lat": 32.1811145,
+      "lon": 34.9116425
     }
   ],
   "isMultinational": false,
-  "facebookId": "Inspira-Technologies-102505695273996",
-  "linkedinNum": 18356393
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Algamed Therapeutics",
-  "description": "Bioactive Platform for Treatment of Vaginal Dryness",
+  "description": "Algamed Therapiutics developed a natural, safe and efficient bio-active platform for treating the most common vaginal issues which affect two out of three women of all ages all over the world including infections, vaginal dryness, menstruation pains and more.",
   "categoryId": 12,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/algamed_therapeutics_a_m_t-logo.webp",
-  "websiteUrl": "https://www.secretdejoie.co.il/",
+  "websiteUrl": "https://www.secretdejoie.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "algamed-therapeutics",
+  "linkedinNum": 74034183,
   "crunchbaseId": null,
+  "ivcId": "A1000000356208",
   "finderId": "algamed-therapeutics",
   "xId": null,
+  "facebookId": "Secretdejoie-104548224758087",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אזור תעשיה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Secretdejoie-104548224758087",
-  "linkedinNum": 74034183
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "ConRaD",
+  "description": "ConRaD Disinfection is part of Concept for Pharmacy Ltd.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/conrad-logo.webp",
+  "websiteUrl": "https://www.concept-rx.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000006719",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עתיר ידע",
+      "houseNumber": 21,
+      "city": "כפר סבא",
+      "lat": 32.1611024,
+      "lon": 34.9363919
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

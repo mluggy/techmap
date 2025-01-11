@@ -6,21 +6,26 @@
   "logoFile": "logos/else_nutrition_gh-logo.webp",
   "websiteUrl": "https://elsenutrition.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "else-nutrition",
+  "linkedinNum": 20126450,
   "crunchbaseId": null,
+  "ivcId": "A1000000288992",
   "finderId": "else-nutrition",
   "xId": "ElseNutrition",
+  "facebookId": "elsenutrition",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.10981,
-      "lon": 34.838876
+      "city": "תל אביב-יפו",
+      "lat": 32.1097786,
+      "lon": 34.8392628
     }
   ],
   "isMultinational": false,
-  "facebookId": "elsenutrition",
-  "linkedinNum": 20126450
+  "isActive": true
 }

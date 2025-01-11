@@ -1,16 +1,22 @@
 {
   "name": "Qlik",
   "description": "An educational platform offering self-paced courses on topics from visualizations to installation.",
-  "size": "m",
   "categoryId": 14,
+  "size": "m",
   "logoFile": "logos/qlik_analytics_isr-logo.webp",
   "websiteUrl": "https://www.qlik.com/",
   "careersUrl": "https://www.qlik.com/us/company/careers",
-  "isHiring": true,
   "linkedinId": "qlik",
+  "linkedinNum": 10162,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "qlik",
   "xId": "qlik",
+  "facebookId": "Qlik-Israel-275221079182973",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -20,7 +26,6 @@
       "lon": 34.9281644
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Qlik-Israel-275221079182973",
-  "linkedinNum": 10162
+  "isMultinational": false,
+  "isActive": true
 }

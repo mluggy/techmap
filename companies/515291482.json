@@ -6,11 +6,17 @@
   "logoFile": "logos/qognify-logo.webp",
   "websiteUrl": "https://hxgnsecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hxgn-physical-security",
+  "linkedinNum": 10196543,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "qognify",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התדהר",
@@ -19,5 +25,7 @@
       "lat": 32.19630935,
       "lon": 34.88423473965118
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

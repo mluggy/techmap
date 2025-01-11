@@ -6,11 +6,17 @@
   "logoFile": "logos/do_4_brain-logo.webp",
   "websiteUrl": "https://www.do4brain.com/eng",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "do4brain",
   "xId": null,
+  "facebookId": "Do4Brain",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הבשור",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Do4Brain"
+  "isActive": true
 }

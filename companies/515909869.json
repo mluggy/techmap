@@ -6,20 +6,26 @@
   "logoFile": "logos/trulyprotect_israel-logo.webp",
   "websiteUrl": "https://www.tpil.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trulyprotect",
+  "linkedinNum": 81354619,
   "crunchbaseId": "truly-protect",
+  "ivcId": "A1000000022329",
   "finderId": "trulyprotect",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלפרט",
       "houseNumber": 3,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0343636,
-      "lon": 34.8929794
+      "city": "יהוד מונוסון",
+      "lat": 32.035159,
+      "lon": 34.8941217
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81354619
+  "isActive": true
 }

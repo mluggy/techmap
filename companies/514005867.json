@@ -6,21 +6,26 @@
   "logoFile": "logos/alice_estate_investment-logo.webp",
   "websiteUrl": "https://www.alice.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 29013736,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "btl-travel",
   "xId": null,
+  "facebookId": "alice.flights.search",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": null,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.108034265749346,
       "lon": 34.83800200344961
     }
   ],
   "isMultinational": false,
-  "facebookId": "alice.flights.search",
-  "linkedinNum": 29013736
+  "isActive": true
 }

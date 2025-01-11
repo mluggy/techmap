@@ -6,11 +6,17 @@
   "logoFile": "logos/laguna_health-logo.webp",
   "websiteUrl": "https://lagunahealth.com/",
   "careersUrl": "https://www.lagunahealth.com/our-team#open-positions-section",
-  "isHiring": true,
   "linkedinId": "lagunahealth",
+  "linkedinNum": 66893616,
   "crunchbaseId": null,
+  "ivcId": "A1000000332735",
   "finderId": "laguna-health",
   "xId": "laguna_health",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
@@ -20,6 +26,6 @@
       "lon": 34.802004
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 66893616
+  "isMultinational": false,
+  "isActive": true
 }

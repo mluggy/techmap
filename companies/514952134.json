@@ -6,21 +6,26 @@
   "logoFile": "logos/reignn_platform-logo.webp",
   "websiteUrl": "https://www.reignn.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11813821,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kumma1",
   "xId": "reignnplatform",
+  "facebookId": "ReigNNPlatform",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0720324,
       "lon": 34.779107
     }
   ],
   "isMultinational": false,
-  "facebookId": "ReigNNPlatform",
-  "linkedinNum": 11813821
+  "isActive": true
 }

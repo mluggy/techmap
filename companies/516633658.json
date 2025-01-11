@@ -6,20 +6,26 @@
   "logoFile": "logos/tencyle-logo.webp",
   "websiteUrl": "https://www.tencyle.com",
   "careersUrl": "https://www.comeet.com/jobs/tencyle/59.00A/fe-engineer/F5.24B",
-  "isHiring": true,
   "linkedinId": "tencyle",
+  "linkedinNum": 101531964,
   "crunchbaseId": null,
+  "ivcId": "A1000000420524",
   "finderId": "tencyle",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זבולון המר",
+      "street": "אנה טיכו",
       "houseNumber": 4,
       "city": "ראשון לציון",
-      "lat": 31.968866249999998,
-      "lon": 34.78207655
+      "lat": 31.9722369,
+      "lon": 34.7671305
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 101531964
+  "isActive": true
 }

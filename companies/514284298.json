@@ -6,11 +6,17 @@
   "logoFile": "logos/anaplan_israel-logo.webp",
   "websiteUrl": "https://www.anaplan.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "anaplan",
+  "linkedinNum": 658814,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "anaplan",
   "xId": "anaplan",
+  "facebookId": "anaplan",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רפפורט",
@@ -20,7 +26,6 @@
       "lon": 34.8920687
     }
   ],
-  "isMultinational": true,
-  "facebookId": "anaplan",
-  "linkedinNum": 658814
+  "isMultinational": false,
+  "isActive": true
 }

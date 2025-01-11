@@ -6,21 +6,26 @@
   "logoFile": "logos/anachoic-logo.webp",
   "websiteUrl": "https://www.anachoic.com/",
   "careersUrl": "https://www.anachoic.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "anachoic",
+  "linkedinNum": 11859801,
   "crunchbaseId": null,
+  "ivcId": "A1000000308212",
   "finderId": "anachoic",
   "xId": null,
+  "facebookId": "Anachoic",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שני",
-      "houseNumber": 25,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9000316,
-      "lon": 34.9966327
+      "street": "דרך אבא הלל",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0844574,
+      "lon": 34.803052
     }
   ],
   "isMultinational": false,
-  "facebookId": "Anachoic",
-  "linkedinNum": 11859801
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "OnSoft",
-  "description": "Credit Card Transaction Monitoring and Control",
+  "description": "Credit Card Transaction Monitoring and Control.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/onsoft_financial_solutions-logo.webp",
   "websiteUrl": "https://www.onsoft.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "matchbox-ltd-",
+  "linkedinNum": 10401896,
   "crunchbaseId": null,
+  "ivcId": "A1000000213683",
   "finderId": "matchbox",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בובר מרטין",
-      "houseNumber": 29,
-      "city": "ראשון לציון",
-      "lat": 31.9809285,
-      "lon": 34.771985
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 33,
+      "city": "רמת גן",
+      "lat": 32.0836277,
+      "lon": 34.80592
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10401896
+  "isActive": true
 }

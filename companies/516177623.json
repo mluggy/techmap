@@ -6,20 +6,26 @@
   "logoFile": "logos/ulvera_ai-logo.webp",
   "websiteUrl": "https://www.ulvera-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 79742467,
   "crunchbaseId": null,
+  "ivcId": "A1000000331832",
   "finderId": "ulvera-ai-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79742467
+  "isActive": true
 }

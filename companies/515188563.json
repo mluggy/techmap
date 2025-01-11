@@ -1,25 +1,31 @@
 {
   "name": "Xsite",
-  "description": "Digital AR / VR Platform for Attraction Site Owners",
+  "description": "Digital AR / VR Platform for Attraction Site Owners.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/xsite.webp",
   "websiteUrl": "https://xsite.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 87393971,
   "crunchbaseId": null,
+  "ivcId": "A1000000450890",
   "finderId": "xsite",
   "xId": null,
   "facebookId": "xsitecom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": 0,
-      "city": "גבעת יואב",
-      "lat": 32.798639824863095,
-      "lon": 35.68117959689355
+      "street": "צייטלין",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0792084,
+      "lon": 34.7823302
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

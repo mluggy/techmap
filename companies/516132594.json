@@ -6,11 +6,17 @@
   "logoFile": "logos/beyond_metrology-logo.webp",
   "websiteUrl": "https://www.matchid.eu/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "beyond-metrology-ltd",
+  "ivcId": null,
   "finderId": "beyond-metrology1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -19,5 +25,7 @@
       "lat": 32.6437923,
       "lon": 35.1206465
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

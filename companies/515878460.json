@@ -6,21 +6,26 @@
   "logoFile": "logos/geneyx_genomex-logo.webp",
   "websiteUrl": "https://geneyx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "geneyxgenomex",
+  "linkedinNum": 40735774,
   "crunchbaseId": null,
+  "ivcId": "A1000000276400",
   "finderId": "geneyx-genomex",
   "xId": "Geneyx2",
+  "facebookId": "geneyx.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גלגל הפלדה",
-      "houseNumber": 11,
+      "street": "גלגלי הפלדה",
+      "houseNumber": null,
       "city": "הרצליה",
-      "lat": 32.1726475,
-      "lon": 34.8071901
+      "lat": 32.164334,
+      "lon": 34.808923
     }
   ],
   "isMultinational": false,
-  "facebookId": "geneyx.io",
-  "linkedinNum": 40735774
+  "isActive": true
 }

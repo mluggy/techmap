@@ -6,21 +6,26 @@
   "logoFile": "logos/resonai-logo.webp",
   "websiteUrl": "https://www.resonai.com/",
   "careersUrl": "https://www.resonai.com/jobs",
-  "isHiring": true,
   "linkedinId": "resonai",
+  "linkedinNum": 18087360,
   "crunchbaseId": null,
+  "ivcId": "A1000000024377",
   "finderId": "Resonai",
   "xId": "resonai_xr",
+  "facebookId": "Resonai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התעשיה",
+      "street": "התעשייה",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.067271,
-      "lon": 34.78668
+      "city": "ראשון לציון",
+      "lat": 32.0672565,
+      "lon": 34.7867327
     }
   ],
   "isMultinational": false,
-  "facebookId": "Resonai",
-  "linkedinNum": 18087360
+  "isActive": true
 }

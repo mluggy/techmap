@@ -1,25 +1,31 @@
 {
   "name": "Bite",
-  "description": "Management Platform for Restaurateurs",
-  "categoryId": 14,
+  "description": "Bite Tech provides a comprehensive solution for the fast food industry, enabling each menu to be converted into a custom White Label application.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/bite_technology_ltd-logo.webp",
-  "websiteUrl": "https://bitetechusa.com/",
+  "websiteUrl": "https://bite.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000267458",
   "finderId": "bite-technologies",
   "xId": null,
+  "facebookId": "bite.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אזור תעשיה דרומי",
+      "street": "כביש 2",
       "houseNumber": null,
-      "city": "מגדל העמק",
-      "lat": 32.666644685255406,
-      "lon": 35.24325856275964
+      "city": "חיפה",
+      "lat": 32.7790528,
+      "lon": 34.9563597
     }
   ],
   "isMultinational": false,
-  "facebookId": "bite.il"
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/bosco_r_b_y-logo.webp",
   "websiteUrl": "https://www.boscoapp.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3575818,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bosco",
   "xId": "boscoapp",
+  "facebookId": "BoscoApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רקנאטי",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.124282,
       "lon": 34.803129
     }
   ],
   "isMultinational": false,
-  "facebookId": "BoscoApp",
-  "linkedinNum": 3575818
+  "isActive": true
 }

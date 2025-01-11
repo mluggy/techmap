@@ -1,16 +1,22 @@
 {
   "name": "Dell EMC",
   "description": "Dell EMC provides infrastructure solutions that enable organizations to modernize, automate, and transform their data centers using industry-leading converged infrastructure, servers, storage, and cybersecurity technologies.",
-  "size": "l",
   "categoryId": 6,
+  "size": "l",
   "logoFile": "logos/emc_amazon_lifetree-logo.webp",
   "websiteUrl": "https://www.dell.com/he-il/dt/corporate/coe/index.htm",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1128,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "emc",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הלל",
@@ -20,6 +26,6 @@
       "lon": 35.2167191
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 1128
+  "isMultinational": false,
+  "isActive": true
 }

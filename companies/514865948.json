@@ -1,0 +1,31 @@
+{
+  "name": "Therapnea Labs",
+  "description": "Therapnea Labs is developing an innovative Obstructive Sleep Apnea (OSA) therapy device, currently in stealth mode. Unlike any other, the Therapnea™ device does not require a mask, hose or compressor.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/therapnea_labs-logo.webp",
+  "websiteUrl": "https://www.therapnea.net",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000254480",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "לכיש",
+      "houseNumber": 10,
+      "city": "חדרה",
+      "lat": 32.4282903,
+      "lon": 34.9369321
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

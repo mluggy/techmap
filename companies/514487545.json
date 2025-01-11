@@ -6,21 +6,26 @@
   "logoFile": "logos/t_rex-logo.webp",
   "websiteUrl": "https://www.trexgroup.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2823258,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "t-rex",
   "xId": "TREXTALK",
+  "facebookId": "TREXanalytics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 33,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07527,
       "lon": 34.781445
     }
   ],
   "isMultinational": false,
-  "facebookId": "TREXanalytics",
-  "linkedinNum": 2823258
+  "isActive": true
 }

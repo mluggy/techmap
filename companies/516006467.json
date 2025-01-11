@@ -1,0 +1,31 @@
+{
+  "name": "Torr FoodTech",
+  "description": "Torr is an innovative food tech startup, aiming to challenge multi ingredient snacking categories with its breakthrough technology.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/torr-foodtech-logo.webp",
+  "websiteUrl": "https://torrfoodtech.com",
+  "careersUrl": null,
+  "linkedinId": "torr-foodtech",
+  "linkedinNum": 69541181,
+  "crunchbaseId": null,
+  "ivcId": "A1000000331227",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המסילה",
+      "houseNumber": 13,
+      "city": "הרצליה",
+      "lat": 32.1685682,
+      "lon": 34.81681030000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

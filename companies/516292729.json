@@ -6,21 +6,26 @@
   "logoFile": "logos/pumba_parking-logo.webp",
   "websiteUrl": "https://pumbaparking.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pumbaparking",
+  "linkedinNum": 72690177,
   "crunchbaseId": null,
+  "ivcId": "A1000000356369",
   "finderId": "pumba",
   "xId": null,
+  "facebookId": "pumbaparking",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
+      "street": "שלמה אבן גבירול",
       "houseNumber": 71,
-      "city": "תל אביב - יפו",
-      "lat": 32.0827759,
-      "lon": 34.7806588
+      "city": "תל אביב-יפו",
+      "lat": 32.0822869,
+      "lon": 34.7801509
     }
   ],
   "isMultinational": false,
-  "facebookId": "pumbaparking",
-  "linkedinNum": 72690177
+  "isActive": true
 }

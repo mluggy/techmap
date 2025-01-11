@@ -1,26 +1,31 @@
 {
   "name": "E2C",
-  "description": "Simple Smartphone for Seniors",
+  "description": "Simple Smartphone for Seniors.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/e_2_c-logo.webp",
   "websiteUrl": "https://e2c.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "e2c---easy-to-connect",
+  "linkedinNum": 3088244,
   "crunchbaseId": null,
+  "ivcId": "A1000000024718",
   "finderId": "e2c",
   "xId": null,
+  "facebookId": "BasicSmartphone",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רבין יצחק",
+      "street": "יצחק רבין",
       "houseNumber": 21,
-      "city": "קריית אונו",
-      "lat": 32.0647098,
-      "lon": 34.8649952
+      "city": "קרית אונו",
+      "lat": 32.0649355,
+      "lon": 34.8661412
     }
   ],
   "isMultinational": false,
-  "facebookId": "BasicSmartphone",
-  "linkedinNum": 3088244
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Cytora",
-  "description": "Oral Mucosa Stem Cell Therapy",
+  "description": "Oral Mucosa Stem Cell Therapy.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/cytora-logo.webp",
   "websiteUrl": "https://www.cytorastem.com/",
   "careersUrl": "https://www.cytora.com/about-careers",
-  "isHiring": true,
   "linkedinId": "cytora",
+  "linkedinNum": 77067876,
   "crunchbaseId": null,
+  "ivcId": "A1000000303829",
   "finderId": "cytora",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התנופה",
-      "houseNumber": 3,
-      "city": "יקנעם עילית",
-      "lat": 32.666821299999995,
-      "lon": 35.1073974779977
+      "street": "אריה בן אליעזר",
+      "houseNumber": 46,
+      "city": "רמת גן",
+      "lat": 32.0619588,
+      "lon": 34.8318822
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77067876
+  "isActive": true
 }

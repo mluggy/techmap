@@ -1,0 +1,31 @@
+{
+  "name": "Formulex",
+  "description": "Formulex specializes in the field of nano-technology based drug delivery and formulation.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/formulex-logo.webp",
+  "websiteUrl": "https://www.formulex-pi.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000318304",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "איינשטיין",
+      "houseNumber": 18,
+      "city": "נס ציונה",
+      "lat": 31.9158295,
+      "lon": 34.8068795
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

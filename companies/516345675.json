@@ -6,21 +6,26 @@
   "logoFile": "logos/finout-logo.webp",
   "websiteUrl": "https://www.finout.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "finout-io",
+  "linkedinNum": 71690614,
   "crunchbaseId": null,
+  "ivcId": "A1000000348237",
   "finderId": "finout",
   "xId": "finout_io",
+  "facebookId": "finout.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
-      "lat": 32.064654,
-      "lon": 34.785584
+      "city": "תל אביב-יפו",
+      "lat": 32.0646001,
+      "lon": 34.7853961
     }
   ],
   "isMultinational": false,
-  "facebookId": "finout.io",
-  "linkedinNum": 71690614
+  "isActive": true
 }

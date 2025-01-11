@@ -6,18 +6,26 @@
   "logoFile": "logos/sima_analytics-logo.webp",
   "websiteUrl": "https://www.simaanalytics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000464212",
   "finderId": "sima-analytics-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 45,
-      "city": "חיפה",
-      "lat": 32.819776250000004,
-      "lon": 34.9988252
+      "street": "גלבוע",
+      "houseNumber": 9,
+      "city": "גבעתיים",
+      "lat": 32.0732202,
+      "lon": 34.8173924
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

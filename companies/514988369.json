@@ -1,0 +1,31 @@
+{
+  "name": "Azezo",
+  "description": "Azezo aims to bring IoT (Internet of Things) into the children’s playground, bridging the gap between active sports and advanced technology.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/azezo-logo.webp",
+  "websiteUrl": "https://bogolog.com",
+  "careersUrl": null,
+  "linkedinId": "bogolog-game",
+  "linkedinNum": 76443819,
+  "crunchbaseId": null,
+  "ivcId": "A1000000024683",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות בנימין",
+      "houseNumber": 44,
+      "city": "נתניה",
+      "lat": 32.322772,
+      "lon": 34.8559591
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

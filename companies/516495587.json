@@ -1,16 +1,22 @@
 {
   "name": "Symbol Therapeutics",
-  "description": "Modified Protein for Treatment of Autoimmune Diseases",
+  "description": "Symbol Therapeutics is a drug discovery company developing a novel immunoregulatory therapeutic protein, which is a modified form of the endogenous Semaphorin3A, for the treatment of Systemic Lupus Erythematosus (SLE) and other autoimmune diseases.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/symbol_therapeutics-logo.webp",
-  "websiteUrl": "https://www.futurx.co.il/portfolio/symbol-therapeutics/",
+  "websiteUrl": "http://symboltx.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "symbol-therapeutics",
+  "ivcId": "A1000000400847",
   "finderId": "symbol-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -20,5 +26,6 @@
       "lon": 34.80439671200948
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

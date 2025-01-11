@@ -3,14 +3,20 @@
   "description": "A leading provider of advanced semiconductor solutions for microcontrollers, sensors, automotive systems, power management, and connectivity.",
   "categoryId": 16,
   "size": "m",
-  "logoFile": "logos/infineon_technologies_memory_solutions_israel-logo.webp",
+  "logoFile": "logos/infineon-logo.webp",
   "websiteUrl": "https://www.infineon.com/",
   "careersUrl": "https://www.infineon.com/cms/en/careers/",
-  "isHiring": true,
   "linkedinId": "infineon-technologies",
+  "linkedinNum": 2148,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "infineon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד לנטוס טום",
@@ -20,5 +26,6 @@
       "lon": 34.87013047302717
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

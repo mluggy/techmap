@@ -6,21 +6,26 @@
   "logoFile": "logos/notraffic-logo.webp",
   "websiteUrl": "https://notraffic.tech/",
   "careersUrl": "https://notraffic.tech/careers/",
-  "isHiring": true,
   "linkedinId": "notraffic",
+  "linkedinNum": 18038775,
   "crunchbaseId": null,
+  "ivcId": "A1000000232217",
   "finderId": "notraffic",
   "xId": "notraffic_",
+  "facebookId": "NoTraffic.ltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 53,
-      "city": "תל אביב - יפו",
-      "lat": 32.062391,
-      "lon": 34.791838
+      "city": "תל אביב-יפו",
+      "lat": 32.0621854,
+      "lon": 34.7917857
     }
   ],
   "isMultinational": false,
-  "facebookId": "NoTraffic.ltd",
-  "linkedinNum": 18038775
+  "isActive": true
 }

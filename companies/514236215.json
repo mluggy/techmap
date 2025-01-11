@@ -1,0 +1,31 @@
+{
+  "name": "Scooper",
+  "description": "Scooper has developed an innovative search engine for people who wish to find out useful information about organizations, individuals, celebrities, and many other topics.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/scooper-logo.webp",
+  "websiteUrl": "https://digital.scooper.co.il/en/",
+  "careersUrl": null,
+  "linkedinId": "scooperdigital",
+  "linkedinNum": 19009599,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010529",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ברוך הירש",
+      "houseNumber": 22,
+      "city": "בני ברק",
+      "lat": 32.0974617,
+      "lon": 34.8270806
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

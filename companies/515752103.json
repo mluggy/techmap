@@ -6,21 +6,26 @@
   "logoFile": "logos/otorio-logo.webp",
   "websiteUrl": "https://www.otorio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "otorio",
+  "linkedinNum": 19059899,
   "crunchbaseId": null,
+  "ivcId": "A1000000276827",
   "finderId": "otorio",
   "xId": "OTORIO_Cyber",
+  "facebookId": "OTORIO.CYBER",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המסגר",
-      "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.0658477,
-      "lon": 34.7859941
+      "street": "המלאכה",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0664443,
+      "lon": 34.7860508
     }
   ],
   "isMultinational": false,
-  "facebookId": "OTORIO.CYBER",
-  "linkedinNum": 19059899
+  "isActive": true
 }

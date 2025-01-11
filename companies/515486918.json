@@ -1,0 +1,31 @@
+{
+  "name": "Shipit.to",
+  "description": "Shipit.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/shipit-to-logo.webp",
+  "websiteUrl": "https://shipit.to",
+  "careersUrl": null,
+  "linkedinId": "shipit-to",
+  "linkedinNum": 10161622,
+  "crunchbaseId": null,
+  "ivcId": "A1000000200095",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 132,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930881,
+      "lon": 34.8322718
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

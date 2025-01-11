@@ -6,11 +6,17 @@
   "logoFile": "logos/digital_turbine_il-logo.webp",
   "websiteUrl": "https://www.digitalturbine.com/",
   "careersUrl": "https://www.digitalturbine.com/careers/",
-  "isHiring": true,
   "linkedinId": "digital-turbine",
+  "linkedinNum": 611576,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "digital-turbine",
   "xId": "digitalturbine",
+  "facebookId": "DigitalTurbineInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": "digitalturbine",
   "addresses": [
     {
       "street": "הפסגות",
@@ -20,8 +26,6 @@
       "lon": 34.8552419
     }
   ],
-  "isMultinational": true,
-  "facebookId": "DigitalTurbineInc",
-  "linkedinNum": 611576,
-  "leverId": "digitalturbine"
+  "isMultinational": false,
+  "isActive": true
 }

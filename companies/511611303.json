@@ -6,13 +6,26 @@
   "logoFile": "logos/gaash_lighting_products_ltd-logo.webp",
   "websiteUrl": "https://www.gaashlighting.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gaash-lighting",
+  "linkedinNum": 2478114,
   "crunchbaseId": null,
+  "ivcId": "A1000000010497",
   "finderId": "gaash-lighting",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "GAASHLIGHTINGCONTROL",
-  "linkedinNum": 2478114
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "געש",
+      "lat": 32.228477,
+      "lon": 34.824411
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

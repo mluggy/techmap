@@ -6,21 +6,26 @@
   "logoFile": "logos/cropx_technologies-logo.webp",
   "websiteUrl": "https://cropx.com/",
   "careersUrl": "https://cropx.com/careers/",
-  "isHiring": true,
   "linkedinId": "cropx-ltd",
+  "linkedinNum": 10147582,
   "crunchbaseId": null,
+  "ivcId": "A1000000024384",
   "finderId": "cropx",
   "xId": "crop_x",
+  "facebookId": "CropXGlobal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גבורי ישראל",
+      "street": "גיבורי ישראל",
       "houseNumber": 5,
-      "city": "נתניה",
-      "lat": 32.276021814444555,
-      "lon": 34.86095337458108
+      "city": "בני ברק",
+      "lat": 32.08159,
+      "lon": 34.8419371
     }
   ],
   "isMultinational": false,
-  "facebookId": "CropXGlobal",
-  "linkedinNum": 10147582
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/annoto-logo.webp",
   "websiteUrl": "https://www.annoto.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "annotoltd",
+  "linkedinNum": 16263494,
   "crunchbaseId": null,
+  "ivcId": "A1000000231193",
   "finderId": "annoto",
   "xId": "annoto_",
+  "facebookId": "Annoto.net",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עזריאל",
-      "houseNumber": 6,
-      "city": "פתח תקווה",
-      "lat": 32.09981415,
-      "lon": 34.89133846533079
+      "street": "דרך אבא הלל",
+      "houseNumber": 23,
+      "city": "רמת גן",
+      "lat": 32.0868681,
+      "lon": 34.8051666
     }
   ],
   "isMultinational": false,
-  "facebookId": "Annoto.net",
-  "linkedinNum": 16263494
+  "isActive": true
 }

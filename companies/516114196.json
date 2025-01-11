@@ -6,20 +6,26 @@
   "logoFile": "logos/634_ai-logo.webp",
   "websiteUrl": "https://www.634.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "634ai",
+  "linkedinNum": 64535943,
   "crunchbaseId": null,
+  "ivcId": "A1000000322393",
   "finderId": "musashi-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אפק",
-      "houseNumber": 6,
-      "city": "כפר סבא",
-      "lat": 32.1975969,
-      "lon": 34.9565286
+      "houseNumber": null,
+      "city": "ראש העין",
+      "lat": 32.090165,
+      "lon": 34.946501
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64535943
+  "isActive": true
 }

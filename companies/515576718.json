@@ -1,25 +1,31 @@
 {
   "name": "EyeDo",
-  "description": "Field Operation Management Solutions",
+  "description": "Field Operation Management Solutions.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/eyedo_fielding_technologies-logo.webp",
+  "logoFile": "logos/eyedo-logo.webp",
   "websiteUrl": "https://eye.do",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eyedoltd",
+  "linkedinNum": 77095600,
   "crunchbaseId": null,
+  "ivcId": "A1000000023809",
   "finderId": "eyedo",
   "xId": null,
+  "facebookId": "Eyedofieldoptimization",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נהר הירדן",
-      "houseNumber": 2,
-      "city": "לוד",
-      "lat": 32.0243218,
-      "lon": 34.8302716
+      "street": "ראול ולנברג",
+      "houseNumber": 14,
+      "city": "תל אביב-יפו",
+      "lat": 32.1090274,
+      "lon": 34.8366211
     }
   ],
   "isMultinational": false,
-  "facebookId": "Eyedofieldoptimization"
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/kenaf_ventures-logo.webp",
   "websiteUrl": "https://www.kenafventures.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kenaf-ventures",
+  "linkedinNum": 14792217,
   "crunchbaseId": null,
+  "ivcId": "A1000000263465",
   "finderId": "kenaf-ventures",
   "xId": null,
+  "facebookId": "kenafventures",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": 1,
-      "city": "כפר עזה",
-      "lat": 31.4833351,
-      "lon": 34.5333225
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "facebookId": "kenafventures",
-  "linkedinNum": 14792217
+  "isActive": true
 }

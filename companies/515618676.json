@@ -6,11 +6,17 @@
   "logoFile": "logos/gskure-logo.webp",
   "websiteUrl": "https://gskure.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000202978",
   "finderId": "cerebramed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד עמק איילון",
@@ -20,5 +26,6 @@
       "lon": 34.946045
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

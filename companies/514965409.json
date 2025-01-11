@@ -6,21 +6,26 @@
   "logoFile": "logos/simbla-logo.webp",
   "websiteUrl": "https://www.simbla.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "simbla",
+  "linkedinNum": 6641123,
   "crunchbaseId": null,
+  "ivcId": "A1000000172057",
   "finderId": "simbla",
   "xId": "simblaofficial",
+  "facebookId": "TheSimbla",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מוטה גור",
-      "houseNumber": 9,
-      "city": "פתח תקווה",
-      "lat": 32.0938214,
-      "lon": 34.8648016
+      "street": "יד חרוצים",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0616539,
+      "lon": 34.7827339
     }
   ],
   "isMultinational": false,
-  "facebookId": "TheSimbla",
-  "linkedinNum": 6641123
+  "isActive": true
 }

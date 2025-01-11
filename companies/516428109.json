@@ -6,21 +6,26 @@
   "logoFile": "logos/mycast_tv-logo.webp",
   "websiteUrl": "https://www.my-cast.tv",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 17967392,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "woo-media",
   "xId": null,
+  "facebookId": "mycasttv",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קבוץ גלויות",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1691856,
       "lon": 34.8580241
     }
   ],
   "isMultinational": false,
-  "facebookId": "mycasttv",
-  "linkedinNum": 17967392
+  "isActive": true
 }

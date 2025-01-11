@@ -6,21 +6,26 @@
   "logoFile": "logos/speedsize-logo.webp",
   "websiteUrl": "https://speedsize.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "speedsize",
+  "linkedinNum": 42424479,
   "crunchbaseId": "speedsize",
+  "ivcId": "A1000000308569",
   "finderId": "speedsize",
   "xId": null,
+  "facebookId": "SpeedSize-112114417154876",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך דגניה",
-      "houseNumber": 80,
+      "street": null,
+      "houseNumber": null,
       "city": "נתניה",
-      "lat": 32.2985988,
-      "lon": 34.8731981
+      "lat": 32.321458,
+      "lon": 34.853196
     }
   ],
   "isMultinational": false,
-  "facebookId": "SpeedSize-112114417154876",
-  "linkedinNum": 42424479
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/lipomedix_pharmaceuticals-logo.webp",
   "websiteUrl": "https://www.lipomedix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "lipomedix",
+  "ivcId": "A1000000000027",
   "finderId": "lipomedix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגן הטכנולוגי",
+      "street": null,
       "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.75025875,
-      "lon": 35.18612507516873
+      "lat": 31.7945578,
+      "lon": 35.2414009
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

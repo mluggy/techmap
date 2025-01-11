@@ -6,21 +6,26 @@
   "logoFile": "logos/feelter_sales_tools-logo.webp",
   "websiteUrl": "https://www.feelter.com/",
   "careersUrl": "https://www.feelter.com/careers.html",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "feelter",
+  "linkedinNum": 5349673,
   "crunchbaseId": null,
+  "ivcId": "A1000000185827",
   "finderId": "feelter",
   "xId": "feelterinc",
+  "facebookId": "FeelterSystems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוקן",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.053118,
-      "lon": 34.772401
+      "city": "תל אביב-יפו",
+      "lat": 32.053194,
+      "lon": 34.7723811
     }
   ],
   "isMultinational": false,
-  "facebookId": "FeelterSystems",
-  "linkedinNum": 5349673
+  "isActive": true
 }

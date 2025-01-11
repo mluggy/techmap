@@ -1,0 +1,31 @@
+{
+  "name": "KobGames",
+  "description": "KobGames Studios is a game development studio specializing in creating casual games for iOS and Android. The company's offerings include the puzzle game Mazit.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/kobgames-logo.webp",
+  "websiteUrl": "http://www.kobgames.com",
+  "careersUrl": null,
+  "linkedinId": "kobgames-studios",
+  "linkedinNum": 11464512,
+  "crunchbaseId": null,
+  "ivcId": "A1000000261587",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גורדון",
+      "houseNumber": 28,
+      "city": "תל אביב-יפו",
+      "lat": 32.0821006,
+      "lon": 34.7716561
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

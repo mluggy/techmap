@@ -1,23 +1,31 @@
 {
   "name": "Pointfive",
-  "description": "Leading the way in limited-distance golf ball technology, providing a full golf experience in half the time on eco-friendly courses since 1990.",
-  "categoryId": 17,
+  "description": "PointFive is a developer of an actionable cloud cost efficiency platform, designed to eliminate cloud waste and make their cloud operations.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/pointfive-logo.webp",
-  "websiteUrl": "https://www.pointfivegolf.com/",
+  "websiteUrl": "https://pointfive.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pointfive-us",
+  "linkedinNum": 103218618,
   "crunchbaseId": null,
+  "ivcId": "A1000000434737",
   "finderId": "pointfive",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

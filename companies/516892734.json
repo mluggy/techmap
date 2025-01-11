@@ -1,0 +1,31 @@
+{
+  "name": "Prime",
+  "description": "Prime develops a product that secure SDLC (or systems development life cycle) during the design and code writing phase.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/prime-logo.webp",
+  "websiteUrl": "https://www.primesec.ai",
+  "careersUrl": "https://www.primesec.ai/careers",
+  "linkedinId": "primesecurityai",
+  "linkedinNum": 101133883,
+  "crunchbaseId": null,
+  "ivcId": "A1000000489054",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המיתר",
+      "houseNumber": 10,
+      "city": "רעננה",
+      "lat": 32.1830435,
+      "lon": 34.8569197
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Tedooo",
+  "description": "Tedooo is a social network dedicated and customized for the trade world.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/tedooo-logo.webp",
+  "websiteUrl": "http://www.tedooo.com",
+  "careersUrl": null,
+  "linkedinId": "tedooo",
+  "linkedinNum": 69922979,
+  "crunchbaseId": null,
+  "ivcId": "A1000000392479",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דיזנגוף",
+      "houseNumber": 149,
+      "city": "תל אביב-יפו",
+      "lat": 32.0831651,
+      "lon": 34.7739128
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Xplore",
+  "description": "Xplore is a new revolutionary self-serve data discovery platform designed to enable fast and accurate discovery and analysis of enterprise data.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/xplore-logo.webp",
+  "websiteUrl": "http://www.xplore.io",
+  "careersUrl": null,
+  "linkedinId": "xplore.io",
+  "linkedinNum": 17998939,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023089",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "Shankar St",
+      "houseNumber": 1,
+      "city": "Herzliya",
+      "lat": 32.1602777,
+      "lon": 34.810068
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

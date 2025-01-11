@@ -6,21 +6,26 @@
   "logoFile": "logos/sorezki-logo.webp",
   "websiteUrl": "https://www.sorezki.com/",
   "careersUrl": "https://www.sorezki.com/careers/",
-  "isHiring": true,
   "linkedinId": "sorezki",
+  "linkedinNum": 1505710,
   "crunchbaseId": null,
+  "ivcId": "A1000000023185",
   "finderId": "sorezki",
   "xId": "sorezki",
+  "facebookId": "sorezki.labs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בוגרשוב",
-      "houseNumber": 69,
-      "city": "תל אביב - יפו",
-      "lat": 32.075042,
-      "lon": 34.773695
+      "street": "אחד העם",
+      "houseNumber": 19,
+      "city": "תל אביב-יפו",
+      "lat": 32.0639443,
+      "lon": 34.7715272
     }
   ],
   "isMultinational": false,
-  "facebookId": "sorezki.labs",
-  "linkedinNum": 1505710
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/riverbed_technology-logo.webp",
   "websiteUrl": "https://www.riverbed.com/",
   "careersUrl": "https://www.riverbed.com/careers/",
-  "isHiring": true,
   "linkedinId": "riverbed-technology",
+  "linkedinNum": 7796,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "riverbed-technology",
   "xId": "riverbed",
+  "facebookId": "riverbed",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריבלין יוסף",
@@ -20,7 +26,6 @@
       "lon": 35.2204697
     }
   ],
-  "isMultinational": true,
-  "facebookId": "riverbed",
-  "linkedinNum": 7796
+  "isMultinational": false,
+  "isActive": true
 }

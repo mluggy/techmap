@@ -6,20 +6,26 @@
   "logoFile": "logos/screenpeaks-logo.webp",
   "websiteUrl": "https://www.screenpeaks.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "screenpeaks",
+  "linkedinNum": 70562,
   "crunchbaseId": "screenpeaks",
+  "ivcId": "A1000000007501",
   "finderId": "screenpeaks",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היסמין",
       "houseNumber": 13,
-      "city": "קדימה",
-      "lat": 32.2813201,
-      "lon": 34.9057433
+      "city": "קדימה צורן",
+      "lat": 32.2814485,
+      "lon": 34.9052698
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70562
+  "isActive": true
 }

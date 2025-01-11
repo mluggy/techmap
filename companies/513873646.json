@@ -6,21 +6,26 @@
   "logoFile": "logos/sundaysky-logo.webp",
   "websiteUrl": "https://sundaysky.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 96089,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sundaysky",
   "xId": "sundaysky",
+  "facebookId": "SundaySkyVideo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.108224,
       "lon": 34.838086
     }
   ],
   "isMultinational": false,
-  "facebookId": "SundaySkyVideo",
-  "linkedinNum": 96089
+  "isActive": true
 }

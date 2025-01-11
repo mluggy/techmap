@@ -6,21 +6,26 @@
   "logoFile": "logos/sale_freaks-logo.webp",
   "websiteUrl": "https://salefreaks.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sale-freaks",
+  "linkedinNum": 3518415,
   "crunchbaseId": null,
+  "ivcId": "A1000000021551",
   "finderId": "salefreaks",
   "xId": null,
+  "facebookId": "SaleFreaksOfficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לשם",
-      "houseNumber": 7,
+      "street": "הלפיד",
+      "houseNumber": 10,
       "city": "פתח תקווה",
-      "lat": 32.0887336,
-      "lon": 34.8583998
+      "lat": 32.0915126,
+      "lon": 34.8550972
     }
   ],
   "isMultinational": false,
-  "facebookId": "SaleFreaksOfficial",
-  "linkedinNum": 3518415
+  "isActive": true
 }

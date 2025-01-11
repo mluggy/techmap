@@ -6,11 +6,17 @@
   "logoFile": "logos/click_ins-logo.webp",
   "websiteUrl": "https://www.click-ins.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "click-ins-ltd",
+  "linkedinNum": 9360771,
   "crunchbaseId": null,
+  "ivcId": "A1000000202948",
   "finderId": "Click-Ins",
   "xId": "click_ins",
+  "facebookId": "automaticvehicledamageassessment",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצורן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "automaticvehicledamageassessment",
-  "linkedinNum": 9360771
+  "isActive": true
 }

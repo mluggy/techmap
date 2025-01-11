@@ -6,11 +6,17 @@
   "logoFile": "logos/wetrip-logo.webp",
   "websiteUrl": "https://www.weski.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "weski",
+  "linkedinNum": 10695873,
   "crunchbaseId": null,
+  "ivcId": "A1000000197282",
   "finderId": "weski",
   "xId": "WeSkiTravel",
+  "facebookId": "WeSkiOfficialPage",
+  "breezyId": null,
+  "comeetId": "weski/F8.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המנופים",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WeSkiOfficialPage",
-  "linkedinNum": 10695873,
-  "comeetId": "weski/F8.00C"
+  "isActive": true
 }

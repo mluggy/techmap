@@ -6,13 +6,26 @@
   "logoFile": "logos/sagarmatha_ltd-logo.webp",
   "websiteUrl": "https://www.sag121.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sagarmatha",
+  "linkedinNum": 2008374,
   "crunchbaseId": null,
+  "ivcId": "A1000000006101",
   "finderId": "sagarmatha",
   "xId": "sag121marketing",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "sag121marketing",
-  "linkedinNum": 2008374
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "יקום",
+      "lat": 32.249196,
+      "lon": 34.84190299999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

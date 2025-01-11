@@ -1,0 +1,31 @@
+{
+  "name": "Kipp",
+  "description": "Kipp enables card issuers and merchants to approve more purchases, leading to higher customer satisfaction and greater revenue.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/kipp-logo.webp",
+  "websiteUrl": "https://www.letskipp.com",
+  "careersUrl": "https://letskipp.com/careers/",
+  "linkedinId": "kipp-authorize-more",
+  "linkedinNum": 76768611,
+  "crunchbaseId": null,
+  "ivcId": "A1000000357347",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "היקב",
+      "houseNumber": 11,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5205244,
+      "lon": 34.944599
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,23 +1,31 @@
 {
   "name": "Xplorisk",
-  "description": "A pioneering solution for automating risk and fraud prevention in the crypto space, offering comprehensive visibility into all cryptocurrency-related activities and entities.",
-  "categoryId": 10,
+  "description": "Nominis is an operator of an automated crypto or web3 risk mitigation platform, intended for fraud prevention for internal and external threats.",
+  "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/xplorisk-logo.webp",
-  "websiteUrl": "https://www.xplorisk.com/",
+  "websiteUrl": "https://www.nominis.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "xplorisk",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000459619",
   "finderId": "xplorisk",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 58,
-      "city": "תל אביב - יפו",
-      "lat": 32.060334,
-      "lon": 34.782124
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

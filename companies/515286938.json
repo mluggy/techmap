@@ -1,26 +1,31 @@
 {
   "name": "Woohoo",
-  "description": "Gamification Pop-ups",
+  "description": "Gamification Pop-ups.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/play_ecommerce_solutions-logo.webp",
   "websiteUrl": "https://getwoohoo.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "getwoohoo",
+  "linkedinNum": 11386939,
   "crunchbaseId": null,
+  "ivcId": "A1000000251227",
   "finderId": "play-ecommerce-solutions",
   "xId": "getwoohoo",
+  "facebookId": "getWoohoo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אנגל",
+      "street": "אחד העם",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.067454,
-      "lon": 34.779302
+      "city": "תל אביב-יפו",
+      "lat": 32.0640664,
+      "lon": 34.7696096
     }
   ],
   "isMultinational": false,
-  "facebookId": "getWoohoo",
-  "linkedinNum": 11386939
+  "isActive": true
 }

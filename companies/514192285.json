@@ -6,11 +6,17 @@
   "logoFile": "logos/sync_me-logo.webp",
   "websiteUrl": "https://sync.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sync-me",
+  "linkedinNum": 2779103,
   "crunchbaseId": null,
+  "ivcId": "A1000000009652",
   "finderId": "sync-me",
   "xId": "syncme",
+  "facebookId": "syncmeapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "syncmeapp",
-  "linkedinNum": 2779103
+  "isActive": true
 }

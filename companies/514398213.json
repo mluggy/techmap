@@ -1,0 +1,31 @@
+{
+  "name": "SGTech",
+  "description": "Sustainable Green Technologies (SGTech) was born out of the desire to create a more sustainable world.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/sgtech-logo.webp",
+  "websiteUrl": "http://sgtech.co.il",
+  "careersUrl": null,
+  "linkedinId": "sgtech.co.il",
+  "linkedinNum": 22325745,
+  "crunchbaseId": null,
+  "ivcId": "A1000000244151",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 12,
+      "city": "נתניה",
+      "lat": 32.278557,
+      "lon": 34.858314
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

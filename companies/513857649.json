@@ -1,0 +1,31 @@
+{
+  "name": "Smart Opportunity Management",
+  "description": "Smart Opportunity Management has developed an innovative information management system.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/smart_opportunity_management-logo.webp",
+  "websiteUrl": "http://www.smart-om.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010272",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קשת",
+      "houseNumber": 6,
+      "city": "ראש העין",
+      "lat": 32.0949084,
+      "lon": 34.9797501
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

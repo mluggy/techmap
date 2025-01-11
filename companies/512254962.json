@@ -1,26 +1,31 @@
 {
   "name": "RT",
-  "description": "Balloons for Military and Civilian Use",
+  "description": "Balloons for Military and Civilian Use.",
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/rt_lta_systems-logo.webp",
   "websiteUrl": "https://www.rt.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rtaerostats",
+  "linkedinNum": 18812623,
   "crunchbaseId": null,
+  "ivcId": "A1000000016737",
   "finderId": "rt",
   "xId": "RTAerostats",
+  "facebookId": "RTLTA",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חידקל",
-      "houseNumber": 18,
-      "city": "יבנה",
-      "lat": 31.8898874,
-      "lon": 34.7381896
+      "street": "נחל שניר",
+      "houseNumber": 10,
+      "city": "אשדוד",
+      "lat": 31.7815202,
+      "lon": 34.6337159
     }
   ],
   "isMultinational": false,
-  "facebookId": "RTLTA",
-  "linkedinNum": 18812623
+  "isActive": true
 }

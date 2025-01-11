@@ -6,11 +6,17 @@
   "logoFile": "logos/novobatt-logo.webp",
   "websiteUrl": "https://www.novobatt.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "novobatt",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000455651",
   "finderId": "novobatt",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבוא הכרמים",
@@ -19,5 +25,7 @@
       "lat": 31.83145353853,
       "lon": 35.13103315778218
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

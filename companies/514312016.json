@@ -6,21 +6,26 @@
   "logoFile": "logos/timocco-logo.webp",
   "websiteUrl": "https://www.timocco.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "timocco",
+  "linkedinNum": 434892,
   "crunchbaseId": null,
+  "ivcId": "A1000000007376",
   "finderId": "timocco",
   "xId": "Timocco",
+  "facebookId": "playtimocco",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חומה ומגדל",
       "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.063521,
-      "lon": 34.786788
+      "city": "תל אביב-יפו",
+      "lat": 32.0634097,
+      "lon": 34.78706820000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "playtimocco",
-  "linkedinNum": 434892
+  "isActive": true
 }

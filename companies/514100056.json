@@ -6,21 +6,26 @@
   "logoFile": "logos/waze_mobile-logo.webp",
   "websiteUrl": "https://www.waze.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 379681,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "waze",
   "xId": "waze",
+  "facebookId": "Waze",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 98,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0700073,
       "lon": 34.794193699999994
     }
   ],
   "isMultinational": false,
-  "facebookId": "Waze",
-  "linkedinNum": 379681
+  "isActive": true
 }

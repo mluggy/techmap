@@ -1,0 +1,31 @@
+{
+  "name": "Hotelo",
+  "description": "Hotelo is Israel's major supplier of large integrated projects for total building management, and a leading developer and manufacturer of building management systems including energy-saving low-voltage/low-current systems for hotels, commercial centers, shopping malls, and office buildings.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/hotelo-logo.webp",
+  "websiteUrl": "http://www.hotelo.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001956",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ההסתדרות",
+      "houseNumber": 4,
+      "city": "פתח תקווה",
+      "lat": 32.085826,
+      "lon": 34.8835597
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,11 +6,17 @@
   "logoFile": "logos/lycored-logo.webp",
   "websiteUrl": "https://www.lycored.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lycored",
+  "linkedinNum": 132386,
   "crunchbaseId": null,
+  "ivcId": "A1000000004204",
   "finderId": "lycored",
   "xId": "Lycored",
+  "facebookId": "Lycored",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך חברון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Lycored",
-  "linkedinNum": 132386
+  "isActive": true
 }

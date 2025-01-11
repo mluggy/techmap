@@ -6,19 +6,26 @@
   "logoFile": "logos/fvmat-logo.webp",
   "websiteUrl": "https://fvmat.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fvmat",
+  "linkedinNum": 33261207,
   "crunchbaseId": null,
+  "ivcId": "A1000000288947",
   "finderId": "fvmat",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנמל",
-      "houseNumber": 28,
-      "city": "חיפה",
-      "lat": 32.8191508,
-      "lon": 35.0004706
+      "street": "שדרות נשיאי ישראל",
+      "houseNumber": 11,
+      "city": "כרמיאל",
+      "lat": 32.9196005,
+      "lon": 35.3030183
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -3,16 +3,29 @@
   "description": "Dedicated to the efficient and sustainable operation of critical industries.",
   "categoryId": 17,
   "size": "s",
-  "logoFile": "logos/tefen_flow_and_dosing_technologies-logo.webp",
+  "logoFile": "logos/tefen-flow-and-dosing-technologies-logo.webp",
   "websiteUrl": "https://tefentech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tefen-flow-and-dosing-technologies-ltd.",
+  "linkedinNum": 10200713,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tefen",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "TEFEN-864219263627226",
-  "linkedinNum": 10200713
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ נחשולים",
+      "lat": 32.61480561753196,
+      "lon": 34.923405603551885
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

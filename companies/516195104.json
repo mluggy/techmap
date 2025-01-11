@@ -1,0 +1,31 @@
+{
+  "name": "Seazone",
+  "description": "Seazone is designed for yacht operators and fleet managers specific needs with a user-friendly and accessible interface.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/seazone-logo.webp",
+  "websiteUrl": "https://seazone.app",
+  "careersUrl": null,
+  "linkedinId": "sea-zone",
+  "linkedinNum": 71529395,
+  "crunchbaseId": null,
+  "ivcId": "A1000000426706",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות בן גוריון",
+      "houseNumber": 2,
+      "city": "הרצליה",
+      "lat": 32.1669945,
+      "lon": 34.8424397
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

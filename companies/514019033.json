@@ -1,25 +1,31 @@
 {
   "name": "La-Mark Vision",
-  "description": "Digital Solutions for Language Learning",
+  "description": "Digital Solutions for Language Learning.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/la_mark_vision-logo.webp",
   "websiteUrl": "https://www.kantoo.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "la-mark-vision-ltd.",
+  "linkedinNum": 1509673,
   "crunchbaseId": "la-mark-vision-kantoo",
+  "ivcId": "A1000000010291",
   "finderId": "kantoo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המנופים",
-      "houseNumber": 8,
+      "street": null,
+      "houseNumber": null,
       "city": "הרצליה",
-      "lat": 32.1599547,
-      "lon": 34.8071821
+      "lat": 32.174202,
+      "lon": 34.802932
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1509673
+  "isActive": true
 }

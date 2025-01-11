@@ -6,21 +6,26 @@
   "logoFile": "logos/twik_technologies-logo.webp",
   "websiteUrl": "https://www.twik.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "twik",
+  "linkedinNum": 17936857,
   "crunchbaseId": null,
+  "ivcId": "A1000000281048",
   "finderId": "twik-technologies",
   "xId": "TwikPlatform",
+  "facebookId": "twik.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוקן",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.053118,
-      "lon": 34.772401
+      "city": "תל אביב-יפו",
+      "lat": 32.053194,
+      "lon": 34.7723811
     }
   ],
   "isMultinational": false,
-  "facebookId": "twik.io",
-  "linkedinNum": 17936857
+  "isActive": true
 }

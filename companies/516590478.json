@@ -1,0 +1,31 @@
+{
+  "name": "Lunar.dev",
+  "description": "Lunar.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/lunar-dev-logo.webp",
+  "websiteUrl": "https://www.lunar.dev",
+  "careersUrl": "https://www.lunar.dev/about-us#careers",
+  "linkedinId": "lunar-api",
+  "linkedinNum": 86808319,
+  "crunchbaseId": null,
+  "ivcId": "A1000000415528",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תלפיות",
+      "houseNumber": 23,
+      "city": "רמת גן",
+      "lat": 32.0871622,
+      "lon": 34.8098473
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

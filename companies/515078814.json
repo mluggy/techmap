@@ -6,21 +6,26 @@
   "logoFile": "logos/zoom_analytics-logo.webp",
   "websiteUrl": "https://zoomanalytics.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "zoomanalytics",
+  "linkedinNum": 2773896,
   "crunchbaseId": null,
+  "ivcId": "A1000000021708",
   "finderId": "zoom-analytics",
   "xId": "ZoomAnalytics",
+  "facebookId": "ZoomAnalytics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך הפארק",
-      "houseNumber": 15,
-      "city": "נתניה",
-      "lat": 32.3037419,
-      "lon": 34.8804146
+      "street": "גונן",
+      "houseNumber": 17,
+      "city": "פתח תקווה",
+      "lat": 32.0909893,
+      "lon": 34.8554065
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZoomAnalytics",
-  "linkedinNum": 2773896
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/fitto-logo.webp",
   "websiteUrl": "https://www.fitto.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 12896200,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "fitto-world",
   "xId": null,
+  "facebookId": "fittoworld",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מזא\"ה",
       "houseNumber": 67,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065214,
       "lon": 34.780785
     }
   ],
   "isMultinational": false,
-  "facebookId": "fittoworld",
-  "linkedinNum": 12896200
+  "isActive": true
 }

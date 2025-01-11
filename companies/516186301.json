@@ -6,11 +6,17 @@
   "logoFile": "logos/crops_guard-logo.webp",
   "websiteUrl": "https://www.cropsguard.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000337313",
   "finderId": "crops-guard",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גבעת רם",
@@ -20,5 +26,6 @@
       "lon": 35.197994954152726
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

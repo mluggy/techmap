@@ -1,26 +1,31 @@
 {
   "name": "Upflow",
-  "description": "Industrial and Agricultural Wastewater Treatment",
+  "description": "Industrial and Agricultural Wastewater Treatment.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/upflow-logo.webp",
   "websiteUrl": "https://www.upflow-tec.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "upflow-modular-wastewater-solution",
+  "linkedinNum": 38144202,
   "crunchbaseId": null,
+  "ivcId": "A1000000284521",
   "finderId": "upflow",
   "xId": null,
+  "facebookId": "UpFlow-wastewater-solutions-%D7%98%D7%99%D7%A4%D7%95%D7%9C-%D7%91%D7%A9%D7%A4%D7%9B%D7%99%D7%9D-%D7%AA%D7%A2%D7%A9%D7%99%D7%99%D7%AA%D7%99%D7%99%D7%9D-336029540377232",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ביצרון",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.067306,
-      "lon": 34.79802
+      "street": "יהודה הימית",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.0500355,
+      "lon": 34.7548786
     }
   ],
   "isMultinational": false,
-  "facebookId": "UpFlow-wastewater-solutions-%D7%98%D7%99%D7%A4%D7%95%D7%9C-%D7%91%D7%A9%D7%A4%D7%9B%D7%99%D7%9D-%D7%AA%D7%A2%D7%A9%D7%99%D7%99%D7%AA%D7%99%D7%99%D7%9D-336029540377232",
-  "linkedinNum": 38144202
+  "isActive": true
 }

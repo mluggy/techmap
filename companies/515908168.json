@@ -1,26 +1,31 @@
 {
   "name": "hellopurple",
-  "description": "Event Planning Marketplace for Businesses",
+  "description": "Event Planning Marketplace for Businesses.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/hellopurple-logo.webp",
   "websiteUrl": "https://hellopurple.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hellopurple",
+  "linkedinNum": 12630418,
   "crunchbaseId": null,
+  "ivcId": "A1000000272704",
   "finderId": "hellopurple",
   "xId": "i",
+  "facebookId": "hellopurpleevents",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חזה עופרה",
-      "houseNumber": 940,
-      "city": "בית אריה",
-      "lat": 32.04287483454876,
-      "lon": 35.04732573363285
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "hellopurpleevents",
-  "linkedinNum": 12630418
+  "isActive": true
 }

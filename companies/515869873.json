@@ -1,25 +1,31 @@
 {
   "name": "MultiKol B.T",
-  "description": "Voice-based Behavioral Biometric Authentication Solutions",
+  "description": "Multikol is a developer of a voice recognition platform, designed to offer protection for people, assets and data by blocking deep fake, impersonation and imitations.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/multikol_b_t-logo.webp",
-  "websiteUrl": "https://www.multikol.com/",
+  "websiteUrl": "https://www.multibt.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "multikol",
+  "linkedinNum": 20498252,
   "crunchbaseId": null,
+  "ivcId": "A1000000297283",
   "finderId": "multikol-b-t",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פלי\"ם",
-      "houseNumber": 2,
+      "street": "כביש 2",
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.8167554,
-      "lon": 35.0000812
+      "lat": 32.7790528,
+      "lon": 34.9563597
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 20498252
+  "isActive": true
 }

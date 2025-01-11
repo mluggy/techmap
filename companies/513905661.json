@@ -3,22 +3,29 @@
   "description": "Providing global military forces with advanced concealment and protection against various sensor threats and enemy targeting.",
   "categoryId": 3,
   "size": "xs",
-  "logoFile": "logos/fibrotex_technologies-logo.webp",
+  "logoFile": "logos/fibrotex-logo.webp",
   "websiteUrl": "https://fibrotex-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fibrotex-technologies-ltd",
+  "linkedinNum": 88377653,
   "crunchbaseId": null,
+  "ivcId": "A1000000200217",
   "finderId": "fibrotex",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "משכית",
-      "houseNumber": 26,
-      "city": "הרצליה",
-      "lat": 32.1658392,
-      "lon": 34.8116146
+      "street": null,
+      "houseNumber": null,
+      "city": "פתח תקווה",
+      "lat": 32.090276,
+      "lon": 34.84932
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

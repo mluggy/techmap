@@ -6,21 +6,26 @@
   "logoFile": "logos/renovai_interior_design-logo.webp",
   "websiteUrl": "https://www.renovai.com/",
   "careersUrl": "https://www.renovai.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "renovai",
+  "linkedinNum": 11748426,
   "crunchbaseId": "renovai-inc",
+  "ivcId": null,
   "finderId": "renovai",
   "xId": null,
+  "facebookId": "Renovai.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השופטים",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.076125,
       "lon": 34.781129
     }
   ],
   "isMultinational": false,
-  "facebookId": "Renovai.co",
-  "linkedinNum": 11748426
+  "isActive": true
 }

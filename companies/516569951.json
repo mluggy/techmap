@@ -1,16 +1,22 @@
 {
   "name": "IronVest",
-  "description": "Digital Security and Privacy",
+  "description": "IronVest has developed a biometric account-access security that protects personal accounts and personal data from fraud.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/ironvest_israel-logo.webp",
-  "websiteUrl": "https://www.ironvest.io",
+  "websiteUrl": "https://ironvest.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ironvest-app",
+  "linkedinNum": 80978403,
   "crunchbaseId": null,
+  "ivcId": "A1000000379649",
   "finderId": "ironvest",
   "xId": "ironvesthq",
+  "facebookId": "ironvestHQ",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קורנית צור יגאל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ironvestHQ",
-  "linkedinNum": 80978403
+  "isActive": true
 }

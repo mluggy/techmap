@@ -6,11 +6,17 @@
   "logoFile": "logos/dip_tech-logo.webp",
   "websiteUrl": "https://www.dip-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 863855,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dip-tech",
   "xId": "DipTechGlass",
+  "facebookId": "DipTechGlass",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "DipTechGlass",
-  "linkedinNum": 863855
+  "isActive": true
 }

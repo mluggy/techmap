@@ -1,0 +1,31 @@
+{
+  "name": "Diamsense",
+  "description": "DiamSense Ltd.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/diamsense-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000489980",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בצלאל",
+      "houseNumber": 14,
+      "city": "רמת גן",
+      "lat": 32.0863743,
+      "lon": 34.8009344
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

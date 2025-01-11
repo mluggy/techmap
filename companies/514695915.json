@@ -6,21 +6,26 @@
   "logoFile": "logos/vayyar_imaging-logo.webp",
   "websiteUrl": "https://vayyar.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vayyar",
+  "linkedinNum": 5094711,
   "crunchbaseId": null,
+  "ivcId": "A1000000021240",
   "finderId": "vayyar",
   "xId": "VayyarInc",
+  "facebookId": "VayyarLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שבזי",
       "houseNumber": 26,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0268448,
-      "lon": 34.8936273
+      "city": "יהוד מונוסון",
+      "lat": 32.0278854,
+      "lon": 34.89731
     }
   ],
   "isMultinational": false,
-  "facebookId": "VayyarLTD",
-  "linkedinNum": 5094711
+  "isActive": true
 }

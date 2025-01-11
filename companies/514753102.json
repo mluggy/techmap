@@ -6,11 +6,17 @@
   "logoFile": "logos/inuitive-logo.webp",
   "websiteUrl": "https://www.inuitive-tech.com/",
   "careersUrl": "https://www.inuitive-tech.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "inuitive",
+  "linkedinNum": 10252340,
   "crunchbaseId": null,
+  "ivcId": "A1000000020400",
   "finderId": "inuitive",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התדהר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10252340
+  "isActive": true
 }

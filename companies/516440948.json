@@ -6,20 +6,26 @@
   "logoFile": "logos/solra_pv-logo.webp",
   "websiteUrl": "https://www.solra-pv.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "solra2",
+  "linkedinNum": 76263446,
   "crunchbaseId": null,
+  "ivcId": "A1000000372190",
   "finderId": "solra-pv",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגן הטכנולוגי",
+      "street": null,
       "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.75025875,
-      "lon": 35.18612507516873
+      "lat": 31.7493122,
+      "lon": 35.1867546
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76263446
+  "isActive": true
 }

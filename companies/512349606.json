@@ -6,19 +6,26 @@
   "logoFile": "logos/green_vision_systems-logo.webp",
   "websiteUrl": "https://www.greenvs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "green-vision-systems",
+  "ivcId": "A1000000006644",
   "finderId": "greenvision-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דבורה הנביאה",
-      "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.113198,
-      "lon": 34.844295
+      "street": "הברזל",
+      "houseNumber": 27,
+      "city": "תל אביב-יפו",
+      "lat": 32.1099675,
+      "lon": 34.8405233
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

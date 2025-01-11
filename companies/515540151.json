@@ -6,20 +6,26 @@
   "logoFile": "logos/edocate-logo.webp",
   "websiteUrl": "https://www.edocate.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "edocate-ltd",
+  "linkedinNum": 17890113,
   "crunchbaseId": null,
+  "ivcId": "A1000000229136",
   "finderId": "edocate1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קורולנקו",
-      "houseNumber": 1,
-      "city": "תל אביב - יפו",
-      "lat": 32.0842367,
-      "lon": 34.7729104
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17890113
+  "isActive": true
 }

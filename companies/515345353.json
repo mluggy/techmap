@@ -6,11 +6,17 @@
   "logoFile": "logos/wellbe_digital-logo.webp",
   "websiteUrl": "https://wellbemedic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "wellbe",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איכסאל",
@@ -19,5 +25,7 @@
       "lat": 32.697093,
       "lon": 35.3028905
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/voyage_81-logo.webp",
   "websiteUrl": "https://voyage81.com/",
   "careersUrl": "https://voyage81.com/careers/",
-  "isHiring": true,
   "linkedinId": "voyage81",
+  "linkedinNum": 33273841,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "voyage81",
   "xId": null,
+  "facebookId": "Voyage81",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0687595,
       "lon": 34.7939327
     }
   ],
   "isMultinational": false,
-  "facebookId": "Voyage81",
-  "linkedinNum": 33273841
+  "isActive": true
 }

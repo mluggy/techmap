@@ -1,0 +1,31 @@
+{
+  "name": "TruLeaf Medical",
+  "description": "TruLeaf Medical is a medical device startup company, focusing on the development of solutions in the healthcare sector.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/truleaf-medical-logo.webp",
+  "websiteUrl": "https://www.truleaf-medical.com",
+  "careersUrl": null,
+  "linkedinId": "truleaf-medical",
+  "linkedinNum": 77941673,
+  "crunchbaseId": null,
+  "ivcId": "A1000000313092",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האילן",
+      "houseNumber": 12,
+      "city": "אור עקיבא",
+      "lat": 32.516091,
+      "lon": 34.9225446
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

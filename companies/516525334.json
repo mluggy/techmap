@@ -1,20 +1,31 @@
 {
-    "name": "Cariboulabs",
-    "description": "We develop software defined communication solutions, specializing in robotics applications",
-    "categoryId": 3,
-    "size": "xs",
-    "logoFile": "logos/cariboulabs-logo.webp",
-    "websiteUrl": "https://www.cariboulabs.co/",
-    "isHiring": true,
-    "addresses": [
-      {
-        "street": "אלחנן",
-        "houseNumber": "3",
-        "city": "חיפה",
-        "lat":  32.80372270673506,
-        "lon": 34.98776939664051
-      }
-    ]
-  }
-
-  
+  "name": "Cariboulabs",
+  "description": "We develop software defined communication solutions, specializing in robotics applications",
+  "categoryId": 3,
+  "size": "xs",
+  "logoFile": "logos/cariboulabs-logo.webp",
+  "websiteUrl": "https://www.cariboulabs.co/",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": null,
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלחנן",
+      "houseNumber": "3",
+      "city": "חיפה",
+      "lat": 32.80372270673506,
+      "lon": 34.98776939664051
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

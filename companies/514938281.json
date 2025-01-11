@@ -6,21 +6,26 @@
   "logoFile": "logos/bringg_delivery_technologies-logo.webp",
   "websiteUrl": "https://www.bringg.com/",
   "careersUrl": "https://www.bringg.com/careers/",
-  "isHiring": true,
   "linkedinId": "bringg",
+  "linkedinNum": 3276916,
   "crunchbaseId": "bringg",
+  "ivcId": "A1000000023822",
   "finderId": "bringg",
   "xId": "bringg",
+  "facebookId": "bringgapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "city": "תל אביב-יפו",
+      "lat": 32.0743897,
+      "lon": 34.7921693
     }
   ],
   "isMultinational": false,
-  "facebookId": "bringgapp",
-  "linkedinNum": 3276916
+  "isActive": true
 }

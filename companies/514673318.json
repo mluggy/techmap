@@ -6,21 +6,26 @@
   "logoFile": "logos/ourcart-logo.webp",
   "websiteUrl": "https://www.ourcart.com/",
   "careersUrl": "https://www.ourcart.com/careers",
-  "isHiring": true,
   "linkedinId": "ourcart",
+  "linkedinNum": 10175170,
   "crunchbaseId": "ourcart",
+  "ivcId": "A1000000001406",
   "finderId": "ourcart",
   "xId": "ourcartapp",
+  "facebookId": "ourcartapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריק איינשטיין",
-      "houseNumber": 3,
-      "city": "הרצליה",
-      "lat": 32.1640314,
-      "lon": 34.8154209
+      "street": "גאולה",
+      "houseNumber": 31,
+      "city": "תל אביב-יפו",
+      "lat": 32.0717262,
+      "lon": 34.7677606
     }
   ],
   "isMultinational": false,
-  "facebookId": "ourcartapp",
-  "linkedinNum": 10175170
+  "isActive": true
 }

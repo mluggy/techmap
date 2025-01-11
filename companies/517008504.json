@@ -1,0 +1,31 @@
+{
+  "name": "Covenant",
+  "description": "In stealth mode.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/covenant-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491873",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.0653973,
+      "lon": 34.7849433
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/qwak_ai-logo.webp",
   "websiteUrl": "https://www.qwak.com/",
   "careersUrl": "https://www.qwak.com/careers",
-  "isHiring": true,
   "linkedinId": "qwakai",
+  "linkedinNum": 70376634,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "qwak",
   "xId": "Qwak_ai",
+  "facebookId": "Qwak-101159811867748",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 154,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0796864,
       "lon": 34.7955201
     }
   ],
   "isMultinational": false,
-  "facebookId": "Qwak-101159811867748",
-  "linkedinNum": 70376634
+  "isActive": true
 }

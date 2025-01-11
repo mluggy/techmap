@@ -1,26 +1,31 @@
 {
   "name": "Vootto",
-  "description": "Indoor and Automotive Air Purification",
+  "description": "Wise Smoker (Vootto) is a manufacturer of a car air purifier intended to eliminate all types of smoke from the vehicle.",
   "categoryId": 14,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/vootto_air_purifier-logo.webp",
-  "websiteUrl": "https://vootto.co.il/",
+  "websiteUrl": "https://vootto.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wisesmoker",
+  "linkedinNum": 14797244,
   "crunchbaseId": "wise-smoker",
+  "ivcId": "A1000000290203",
   "finderId": "wise-smoker",
   "xId": null,
+  "facebookId": "VoottoSafeAir",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "איסרליש",
+      "street": "קומפרט",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.071544,
-      "lon": 34.790344
+      "city": "תל אביב-יפו",
+      "lat": 32.0581579,
+      "lon": 34.7658865
     }
   ],
   "isMultinational": false,
-  "facebookId": "VoottoSafeAir",
-  "linkedinNum": 14797244
+  "isActive": true
 }

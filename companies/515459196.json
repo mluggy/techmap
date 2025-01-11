@@ -1,26 +1,31 @@
 {
   "name": "Pure Blue Fish",
-  "description": "Land Based Aquaculture Solution",
+  "description": "Land Based Aquaculture Solution.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/pure_blue_fish-logo.webp",
   "websiteUrl": "https://purebluefish.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "purebluefish",
+  "linkedinNum": 78983973,
   "crunchbaseId": null,
+  "ivcId": "A1000000488047",
   "finderId": "pure-blue-fish",
   "xId": "purebluefish",
+  "facebookId": "purebluefish",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מעגל הרימון",
-      "houseNumber": 101,
-      "city": "ירוחם",
-      "lat": 30.99004650178298,
-      "lon": 34.9207838195407
+      "street": null,
+      "houseNumber": null,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.517078,
+      "lon": 34.955096
     }
   ],
   "isMultinational": false,
-  "facebookId": "purebluefish",
-  "linkedinNum": 78983973
+  "isActive": true
 }

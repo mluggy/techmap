@@ -6,11 +6,17 @@
   "logoFile": "logos/viber_lab-logo.webp",
   "websiteUrl": "https://www.viber.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rakuten-viber",
+  "linkedinNum": 1710293,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "viber",
   "xId": "viber",
+  "facebookId": "viber",
+  "breezyId": null,
+  "comeetId": "viber/04.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "viber",
-  "linkedinNum": 1710293,
-  "comeetId": "viber/04.002"
+  "isActive": true
 }

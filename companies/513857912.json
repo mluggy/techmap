@@ -3,21 +3,29 @@
   "description": "Delivering quality through expertise in development, design, communication, and marketing.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/trusted_partners_israel_company-logo.webp",
+  "logoFile": "logos/trusted-partners-israel-logo.webp",
   "websiteUrl": "https://www.trustedpartners.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trusted-partners-consulting-llc",
+  "linkedinNum": 3560811,
   "crunchbaseId": null,
+  "ivcId": "A1000000002621",
   "finderId": "trusted-partners",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 4,
-      "city": "לוד",
-      "lat": 31.9702691,
-      "lon": 34.8981695
+      "street": "דרך השלום",
+      "houseNumber": 53,
+      "city": "גבעתיים",
+      "lat": 32.066902,
+      "lon": 34.803277
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "Unmanned Aerial Vehicles",
   "categoryId": 3,
   "size": "xs",
-  "logoFile": "logos/innocon_innovative_controllers-logo.webp",
+  "logoFile": "logos/innocon-logo.webp",
   "websiteUrl": "https://www.innoconltd.com/",
   "careersUrl": "https://www.innocon.on.ca/careers",
-  "isHiring": true,
   "linkedinId": "innocon-inc",
+  "linkedinNum": 8533820,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "innocon",
   "xId": null,
+  "facebookId": "Innocon-249647495113674",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Innocon-249647495113674"
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/cellium_technologies-logo.webp",
   "websiteUrl": "https://cellium.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cellium",
+  "linkedinNum": 16180629,
   "crunchbaseId": null,
+  "ivcId": "A1000000235566",
   "finderId": "cellium-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.1091103,
-      "lon": 34.8404939
+      "city": "תל אביב-יפו",
+      "lat": 32.1093129,
+      "lon": 34.8405444
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 16180629
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Ringle",
+  "description": "Ringle is a dating app, designed for religious and traditional people.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/ringle-logo.webp",
+  "websiteUrl": "https://www.ringledating.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000460729",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אבא אבן",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.785963,
+      "lon": 35.205393
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

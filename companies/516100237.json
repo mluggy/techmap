@@ -6,20 +6,26 @@
   "logoFile": "logos/power_iq-logo.webp",
   "websiteUrl": "https://poweriq.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "power-iq-ltd",
+  "linkedinNum": 37443785,
   "crunchbaseId": null,
+  "ivcId": "A1000000307888",
   "finderId": "poweriq",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן יהודה",
-      "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.0764083,
-      "lon": 34.7682924
+      "street": "שדרות רוטשילד",
+      "houseNumber": 19,
+      "city": "תל אביב-יפו",
+      "lat": 32.0632887,
+      "lon": 34.7714821
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37443785
+  "isActive": true
 }

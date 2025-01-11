@@ -6,20 +6,26 @@
   "logoFile": "logos/sufresca-logo.webp",
   "websiteUrl": "https://sufresca.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sufresca",
+  "linkedinNum": 64517646,
   "crunchbaseId": null,
+  "ivcId": "A1000000280149",
   "finderId": "sufresca",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המחלבה",
-      "houseNumber": 117,
-      "city": "כפר ויתקין",
-      "lat": 32.37901945,
-      "lon": 34.87469669304825
+      "street": "פנחס ספיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.91451859999999,
+      "lon": 34.8032823
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64517646
+  "isActive": true
 }

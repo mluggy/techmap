@@ -1,0 +1,31 @@
+{
+  "name": "Nick Academy",
+  "description": "Nick Academy is a unique platform that combines a wide range of technological education activities with entertainment for children.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/nick-academy-logo.webp",
+  "websiteUrl": "https://nick.academy",
+  "careersUrl": null,
+  "linkedinId": "nick-academy",
+  "linkedinNum": 99826579,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491131",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נחלת יצחק",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.074944,
+      "lon": 34.7967832
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/appalgo-logo.webp",
   "websiteUrl": "https://www.appalgo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "appalgo-l-t-d",
+  "linkedinNum": 5062415,
   "crunchbaseId": null,
+  "ivcId": "A1000000180438",
   "finderId": "appalgo",
   "xId": null,
+  "facebookId": "appalgo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
-      "houseNumber": 7,
-      "city": "רמת גן",
-      "lat": 32.08566465,
-      "lon": 34.799904568972636
+      "street": "בר כוכבא",
+      "houseNumber": 16,
+      "city": "בני ברק",
+      "lat": 32.0941956,
+      "lon": 34.8236057
     }
   ],
   "isMultinational": false,
-  "facebookId": "appalgo",
-  "linkedinNum": 5062415
+  "isActive": true
 }

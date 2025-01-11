@@ -6,11 +6,17 @@
   "logoFile": "logos/linkthat-logo.webp",
   "websiteUrl": "https://link-shoes.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "link",
   "xId": null,
+  "facebookId": "link.flipshoe",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סער",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "link.flipshoe"
+  "isActive": true
 }

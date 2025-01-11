@@ -6,20 +6,26 @@
   "logoFile": "logos/body_vision_medical-logo.webp",
   "websiteUrl": "https://bodyvisionmedical.com/",
   "careersUrl": "https://bodyvisionmedical.com/jobs",
-  "isHiring": true,
   "linkedinId": "body-vision-medical",
+  "linkedinNum": 10175076,
   "crunchbaseId": null,
+  "ivcId": "A1000000203804",
   "finderId": "body-vision-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המדע",
-      "houseNumber": 7,
-      "city": "הרצליה",
-      "lat": 32.1669051,
-      "lon": 34.8129412
+      "street": "בן גוריון",
+      "houseNumber": null,
+      "city": "רעננה",
+      "lat": 32.1757045,
+      "lon": 34.8694123
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10175076
+  "isActive": true
 }

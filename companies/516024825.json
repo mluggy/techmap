@@ -6,12 +6,26 @@
   "logoFile": "logos/carrar-logo.webp",
   "websiteUrl": "https://www.carrar.net/",
   "careersUrl": "https://www.carrar.net/careers",
-  "isHiring": true,
   "linkedinId": "carrar",
+  "linkedinNum": 68160673,
   "crunchbaseId": null,
+  "ivcId": "A1000000306647",
   "finderId": "carrar",
   "xId": "Carrar__",
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התמר",
+      "houseNumber": 7,
+      "city": "שער הנגב",
+      "lat": 31.513800555814385,
+      "lon": 34.603590409978295
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 68160673
+  "isActive": true
 }

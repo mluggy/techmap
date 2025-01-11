@@ -6,11 +6,17 @@
   "logoFile": "logos/proxymity_tlv-logo.webp",
   "websiteUrl": "https://www.proxymity.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "proxymityic",
+  "linkedinNum": 65494091,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "proxymity",
   "xId": "ProxymityIC",
+  "facebookId": "ProxymityIC",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תע\"ש",
@@ -20,7 +26,6 @@
       "lon": 34.8015247
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ProxymityIC",
-  "linkedinNum": 65494091
+  "isMultinational": false,
+  "isActive": true
 }

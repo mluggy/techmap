@@ -1,25 +1,31 @@
 {
   "name": "Mona",
-  "description": "Intelligent Monitoring Solution for AI and Data-driven Applications",
+  "description": "Intelligent Monitoring Solution for AI and Data-driven Applications.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/mona_medical-logo.webp",
   "websiteUrl": "https://www.monalabs.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mona-labs",
+  "linkedinNum": 35506044,
   "crunchbaseId": null,
+  "ivcId": "A1000000282978",
   "finderId": "mona",
   "xId": "mona_labs",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כנפי נשרים",
-      "houseNumber": 15,
-      "city": "ירושלים",
-      "lat": 31.7873914,
-      "lon": 35.1837336
+      "street": "האודם",
+      "houseNumber": 30,
+      "city": "תל מונד",
+      "lat": 32.2512731,
+      "lon": 34.90655479999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35506044
+  "isActive": true
 }

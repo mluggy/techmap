@@ -1,0 +1,31 @@
+{
+  "name": "ShippingToGo",
+  "description": "ShippingToGo makes shipping easy and affordable.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/shippingtogo-logo.webp",
+  "websiteUrl": "https://shippingtogo.com",
+  "careersUrl": null,
+  "linkedinId": "shippingtogo",
+  "linkedinNum": 67685496,
+  "crunchbaseId": null,
+  "ivcId": "A1000000204180",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הלפרין",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0879343,
+      "lon": 34.77252989999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

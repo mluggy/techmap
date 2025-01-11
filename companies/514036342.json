@@ -6,12 +6,26 @@
   "logoFile": "logos/sp_nano-logo.webp",
   "websiteUrl": "https://www.spnano.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 82592951,
   "crunchbaseId": null,
+  "ivcId": "A1000000008629",
   "finderId": "sp-nano",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פארן",
+      "houseNumber": 2,
+      "city": "יבנה",
+      "lat": 31.8932543,
+      "lon": 34.7356317
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 82592951
+  "isActive": true
 }

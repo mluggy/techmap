@@ -6,11 +6,17 @@
   "logoFile": "logos/nanoscent-logo.webp",
   "websiteUrl": "https://www.nanoscentlabs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nanoscent",
+  "linkedinNum": 18383186,
   "crunchbaseId": "nanoscent",
+  "ivcId": "A1000000247475",
   "finderId": "nanoscent",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כחול",
@@ -19,5 +25,7 @@
       "lat": 32.8660848,
       "lon": 35.2732892
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

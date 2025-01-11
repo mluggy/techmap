@@ -3,14 +3,20 @@
   "description": "A stylish wearable offering real-time self-defense features, including a loud siren, video recording, and instant alerts to personal contacts and authorities, with a focus on wellbeing and safety.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/wonder_jewel-logo.webp",
+  "logoFile": "logos/wonder-jewel-logo.webp",
   "websiteUrl": "https://wonder-jewel.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wonderjewel",
+  "linkedinNum": 91008476,
   "crunchbaseId": null,
+  "ivcId": "A1000000450015",
   "finderId": "wonder-jewel",
   "xId": null,
+  "facebookId": "WONDERJEWELsafetech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלמיש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WONDERJEWELsafetech"
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "VOCs Medical",
+  "description": "VOC's Medical is developing innovative technology for breast cancer detection by exhaling air.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/vocs_medical-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000308188",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 21,
+      "city": "ראש העין",
+      "lat": 32.1080349,
+      "lon": 34.9702141
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

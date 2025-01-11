@@ -6,20 +6,26 @@
   "logoFile": "logos/hexagate-logo.webp",
   "websiteUrl": "https://www.hexagate.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "gethexagate",
+  "linkedinNum": 86824951,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hexagate",
   "xId": "hexagate_",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072746,
       "lon": 34.794968
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86824951
+  "isActive": true
 }

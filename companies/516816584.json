@@ -1,0 +1,31 @@
+{
+  "name": "Proov.ai",
+  "description": "Proov.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/proov-ai-logo.webp",
+  "websiteUrl": "https://www.proov.ai",
+  "careersUrl": null,
+  "linkedinId": "proovai",
+  "linkedinNum": 100601157,
+  "crunchbaseId": null,
+  "ivcId": "A1000000462540",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קהילת ונציה",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.1131433,
+      "lon": 34.8220117
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

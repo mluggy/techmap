@@ -6,11 +6,17 @@
   "logoFile": "logos/salicrop-logo.webp",
   "websiteUrl": "https://www.salicrop.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "salicrop",
+  "linkedinNum": 26527330,
   "crunchbaseId": null,
+  "ivcId": "A1000000170885",
   "finderId": "salicrop",
   "xId": null,
+  "facebookId": "SaliCrop-105957484105334",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך הכפר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SaliCrop-105957484105334",
-  "linkedinNum": 26527330
+  "isActive": true
 }

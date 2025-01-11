@@ -6,21 +6,26 @@
   "logoFile": "logos/powtoon-logo.webp",
   "websiteUrl": "https://www.powtoon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "powtoon-ltd",
+  "linkedinNum": 2565844,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "powtoon",
   "xId": "powtoon",
+  "facebookId": "PowToon",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.070501,
       "lon": 34.785145
     }
   ],
   "isMultinational": false,
-  "facebookId": "PowToon",
-  "linkedinNum": 2565844
+  "isActive": true
 }

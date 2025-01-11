@@ -1,0 +1,31 @@
+{
+  "name": "Machshavot SmartJOB",
+  "description": "SmartJOB was founded as a cutting edge technology and services company for legal recruitment and HR management.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/machshavot-smartjob-logo.webp",
+  "websiteUrl": "https://www.smartjob.co.il",
+  "careersUrl": null,
+  "linkedinId": "machshavot-smartjob",
+  "linkedinNum": 2967713,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010458",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יד חרוצים",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0616539,
+      "lon": 34.7827339
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

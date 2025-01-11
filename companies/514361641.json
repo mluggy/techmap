@@ -6,11 +6,17 @@
   "logoFile": "logos/my_polymers-logo.webp",
   "websiteUrl": "https://www.mypolymers.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "my-polymers-ltd-",
+  "linkedinNum": 7041633,
   "crunchbaseId": null,
+  "ivcId": "A1000000443414",
   "finderId": "my-polymers",
   "xId": "mypolymers",
+  "facebookId": "mypolymers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "mypolymers",
-  "linkedinNum": 7041633
+  "isActive": true
 }

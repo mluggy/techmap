@@ -1,0 +1,31 @@
+{
+  "name": "Newton Tech",
+  "description": "Newton Tech is improving physical rehabilitation with its system.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/newton_tech-logo.webp",
+  "websiteUrl": "https://www.newton-tech.net",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000320180",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": null,
+      "lat": 31.046051,
+      "lon": 34.851612
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

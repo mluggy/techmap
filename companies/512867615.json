@@ -6,12 +6,17 @@
   "logoFile": "logos/ezchip.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "ezchip",
   "linkedinNum": 21321,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ezchip",
   "xId": null,
   "facebookId": "EZchip.Semiconductor",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התמר",
@@ -21,5 +26,6 @@
       "lon": 35.105721390286774
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

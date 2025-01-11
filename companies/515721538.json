@@ -1,26 +1,31 @@
 {
   "name": "ARMO",
-  "description": "Open-source Kubernetes Security Platform",
+  "description": "Open-source Kubernetes Security Platform.",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/cyber_armor-logo.webp",
   "websiteUrl": "https://www.armosec.io/",
   "careersUrl": "https://cyberarmor.ch/careers.html",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "armosec",
+  "linkedinNum": 18384257,
   "crunchbaseId": "cyber-armor",
+  "ivcId": "A1000000272390",
   "finderId": "cyber-armor",
   "xId": "RealCyberArmor",
+  "facebookId": "CyberArmor-Ltd-302808823641334",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מיטב",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.065561,
-      "lon": 34.795362
+      "city": "תל אביב-יפו",
+      "lat": 32.0655878,
+      "lon": 34.7951278
     }
   ],
   "isMultinational": false,
-  "facebookId": "CyberArmor-Ltd-302808823641334",
-  "linkedinNum": 18384257
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "ACLIM Intelligence",
-  "description": "Climate Risk Assessments for Asset Managers",
+  "description": "Climate Risk Assessments for Asset Managers.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/aclim_intelligence-logo.webp",
   "websiteUrl": "https://www.aclimintelligence.com/",
   "careersUrl": "https://www.aclima.io/careers",
-  "isHiring": true,
   "linkedinId": "aclim-intelligence",
+  "linkedinNum": 75017403,
   "crunchbaseId": null,
+  "ivcId": "A1000000393498",
   "finderId": "aclim-intelligence",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נחום",
-      "houseNumber": 14,
-      "city": "כפר סבא",
-      "lat": 32.1840085,
-      "lon": 34.9336129
+      "street": "הגפן",
+      "houseNumber": 67,
+      "city": "קדרון",
+      "lat": 31.8167472,
+      "lon": 34.7893809
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75017403
+  "isActive": true
 }

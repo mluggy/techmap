@@ -6,22 +6,26 @@
   "logoFile": "logos/axonius_solutions-logo.webp",
   "websiteUrl": "https://www.axonius.com/",
   "careersUrl": "https://www.axonius.com/company/careers",
-  "isHiring": true,
   "linkedinId": "axonius",
+  "linkedinNum": 18226665,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "axonius",
   "xId": "axoniusinc",
+  "facebookId": "Axonius",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "axonius",
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "Axonius",
-  "linkedinNum": 18226665,
-  "greenhouseId": "axonius"
+  "isActive": true
 }

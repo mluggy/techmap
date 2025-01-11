@@ -6,11 +6,17 @@
   "logoFile": "logos/cclearly-logo.webp",
   "websiteUrl": "https://www.cclearly.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 6258238,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cclearly",
   "xId": "cclearlyinc",
+  "facebookId": "cclearlyinc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגפן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "cclearlyinc",
-  "linkedinNum": 6258238
+  "isActive": true
 }

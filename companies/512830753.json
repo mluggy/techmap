@@ -6,21 +6,26 @@
   "logoFile": "logos/universal_mccann_israel-logo.webp",
   "websiteUrl": "https://www.umww.com/",
   "careersUrl": "https://www.umww.com/jobs/",
-  "isHiring": true,
   "linkedinId": "um-ww",
+  "linkedinNum": 1734739,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "universal-mccann",
   "xId": "umworldwide",
+  "facebookId": "UMCuriosity",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ראול ולנברג 2 א'",
       "houseNumber": null,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.106848,
       "lon": 34.828894
     }
   ],
-  "isMultinational": true,
-  "facebookId": "UMCuriosity",
-  "linkedinNum": 1734739
+  "isMultinational": false,
+  "isActive": true
 }

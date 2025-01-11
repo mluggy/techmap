@@ -1,26 +1,31 @@
 {
   "name": "Karma",
-  "description": "Smart Online Shopping Assistant",
+  "description": "Smart Online Shopping Assistant.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/karma_metals_import_and_recycling-logo.webp",
   "websiteUrl": "https://www.karmanow.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "karma-assistant",
+  "linkedinNum": 5013178,
   "crunchbaseId": null,
+  "ivcId": "A1000000024480",
   "finderId": "karma",
   "xId": "shopwithkarma",
+  "facebookId": "shopwithkarma",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנשיא",
-      "houseNumber": 55,
-      "city": "גבעת שמואל",
-      "lat": 32.0826871,
-      "lon": 34.8472107
+      "street": "דרך מנחם בגין",
+      "houseNumber": 156,
+      "city": "תל אביב-יפו",
+      "lat": 32.0798437,
+      "lon": 34.7957496
     }
   ],
   "isMultinational": false,
-  "facebookId": "shopwithkarma",
-  "linkedinNum": 5013178
+  "isActive": true
 }

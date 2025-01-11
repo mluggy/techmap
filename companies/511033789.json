@@ -1,25 +1,31 @@
 {
   "name": "Rafa Laboratories",
-  "description": "Prescription and Over-the-Counter Medicines",
+  "description": "Prescription and Over-the-Counter Medicines.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/rafa_laboratories_marketing_1984_ltd-logo.webp",
   "websiteUrl": "https://www.rafa.co.il/en",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rafa-labartories",
+  "linkedinNum": 1031613,
   "crunchbaseId": null,
+  "ivcId": "A1000000007284",
   "finderId": "rafa-laboratories",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הלוי שלמה (מומו)",
-      "houseNumber": 5,
+      "street": "אליעזר הלוי",
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.8020782,
-      "lon": 35.2072023
+      "lat": 31.7857171,
+      "lon": 35.1933862
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1031613
+  "isActive": true
 }

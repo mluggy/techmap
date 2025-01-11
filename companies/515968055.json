@@ -6,20 +6,26 @@
   "logoFile": "logos/unipaas_payments_technologies-logo.webp",
   "websiteUrl": "https://www.unipaas.com/",
   "careersUrl": "https://www.unipaas.com/careers",
-  "isHiring": true,
   "linkedinId": "unipaas",
+  "linkedinNum": 65409798,
   "crunchbaseId": "unipaas-payments-technologies-ltd",
+  "ivcId": "A1000000309056",
   "finderId": "unipaas-payments-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 65409798
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "ARK",
+  "description": "ARK is building an architectural brain, an AI powered software solution that is optimizing architectural and engineering plans.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/ark-logo.webp",
+  "websiteUrl": "https://arkdesign.ai",
+  "careersUrl": null,
+  "linkedinId": "ark-space-design",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000370824",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שטריקר",
+      "houseNumber": 15,
+      "city": "תל אביב-יפו",
+      "lat": 32.0923005,
+      "lon": 34.7878597
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

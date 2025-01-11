@@ -1,16 +1,22 @@
 {
   "name": "ProMarketing Wizard",
-  "description": "Digital Marketing Management Tools",
+  "description": "Digital Marketing Management Tools.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/promarketing_wizard-logo.webp",
   "websiteUrl": "https://www.forms-wizard.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "promarketing-wizard",
+  "linkedinNum": 764563,
   "crunchbaseId": "promarketing-wizard",
+  "ivcId": "A1000000021025",
   "finderId": "promarketing-wizard",
   "xId": "PWizardcom",
+  "facebookId": "ProMarketingWizard",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבוא החרוב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ProMarketingWizard",
-  "linkedinNum": 764563
+  "isActive": true
 }

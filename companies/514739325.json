@@ -6,13 +6,26 @@
   "logoFile": "logos/homebiogas-logo.webp",
   "websiteUrl": "https://www.homebiogas.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "homebiogas",
+  "linkedinNum": 3575821,
   "crunchbaseId": null,
+  "ivcId": "A1000000177634",
   "finderId": "homebiogas",
   "xId": "home_biogas",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "homebiogas",
-  "linkedinNum": 3575821
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "בית ינאי",
+      "lat": 32.3738421,
+      "lon": 34.8616891
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

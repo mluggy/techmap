@@ -6,21 +6,26 @@
   "logoFile": "logos/planck_resolution-logo.webp",
   "websiteUrl": "https://www.planckdata.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "planckdata",
+  "linkedinNum": 18250977,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "planck-re",
   "xId": "Planckdata",
+  "facebookId": "planckresolution",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארניה אסוולדו",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0693445,
       "lon": 34.7860947
     }
   ],
   "isMultinational": false,
-  "facebookId": "planckresolution",
-  "linkedinNum": 18250977
+  "isActive": true
 }

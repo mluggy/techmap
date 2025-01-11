@@ -6,20 +6,26 @@
   "logoFile": "logos/ionir_systems-logo.webp",
   "websiteUrl": "https://ionir.com/",
   "careersUrl": "https://ionir.com/careers/",
-  "isHiring": true,
   "linkedinId": "ionir",
+  "linkedinNum": 68571558,
   "crunchbaseId": "reduxio",
+  "ivcId": null,
   "finderId": "reduxio",
   "xId": "IonirCloud",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנורת המאור",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074448,
       "lon": 34.796408
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68571558
+  "isActive": true
 }

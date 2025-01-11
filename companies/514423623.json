@@ -6,22 +6,26 @@
   "logoFile": "logos/365_scores-logo.webp",
   "websiteUrl": "https://www.365scores.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "365scores",
+  "linkedinNum": 2375321,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "365scores",
   "xId": "365Scores",
+  "facebookId": "365Scores.Israel",
+  "breezyId": null,
+  "comeetId": "365scores/B3.006",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחלת יצחק",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07514,
       "lon": 34.796031
     }
   ],
   "isMultinational": false,
-  "facebookId": "365Scores.Israel",
-  "linkedinNum": 2375321,
-  "comeetId": "365scores/B3.006"
+  "isActive": true
 }

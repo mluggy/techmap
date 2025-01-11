@@ -1,25 +1,31 @@
 {
   "name": "Starstone",
-  "description": "Biology-based Cement and Concrete",
+  "description": "Biology-based Cement and Concrete.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/starstone.webp",
   "websiteUrl": "https://www.thestarstone.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000461866",
   "finderId": "starstone",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
+      "street": "האלוף יעקב פרי",
       "houseNumber": null,
-      "city": "בת ים",
-      "lat": 32.011297727938114,
-      "lon": 34.741371819907805
+      "city": "רחובות",
+      "lat": 31.8969036,
+      "lon": 34.7857047
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

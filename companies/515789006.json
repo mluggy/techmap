@@ -6,21 +6,26 @@
   "logoFile": "logos/consolto_sites-logo.webp",
   "websiteUrl": "https://www.consolto.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "consolto-com",
+  "linkedinNum": 28613630,
   "crunchbaseId": null,
+  "ivcId": "A1000000245860",
   "finderId": "consolto",
   "xId": "ConsoltoTweet",
+  "facebookId": "ConsoltoPage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמק השלום",
       "houseNumber": 56,
-      "city": "יקנעם עילית",
-      "lat": 32.6435148,
-      "lon": 35.0935658
+      "city": "יוקנעם עילית",
+      "lat": 32.64325,
+      "lon": 35.098206
     }
   ],
   "isMultinational": false,
-  "facebookId": "ConsoltoPage",
-  "linkedinNum": 28613630
+  "isActive": true
 }

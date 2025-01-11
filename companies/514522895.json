@@ -6,22 +6,26 @@
   "logoFile": "logos/biocatch-logo.webp",
   "websiteUrl": "https://www.biocatch.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "biocatch",
+  "linkedinNum": 2689103,
   "crunchbaseId": null,
+  "ivcId": "A1000000001366",
   "finderId": "biocatch",
   "xId": "biocatch",
+  "facebookId": "behvioral",
+  "breezyId": null,
+  "comeetId": "biocatch/03.00E",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 136,
-      "city": "תל אביב - יפו",
-      "lat": 32.0692922,
-      "lon": 34.7877516
+      "street": "מנחם בגין",
+      "houseNumber": 132,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930881,
+      "lon": 34.8322718
     }
   ],
   "isMultinational": false,
-  "facebookId": "behvioral",
-  "linkedinNum": 2689103,
-  "comeetId": "biocatch/03.00E"
+  "isActive": true
 }

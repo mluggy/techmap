@@ -6,22 +6,26 @@
   "logoFile": "logos/lusha_systems-logo.webp",
   "websiteUrl": "https://www.lusha.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lushadata",
+  "linkedinNum": 33222678,
   "crunchbaseId": null,
+  "ivcId": "A1000000227441",
   "finderId": "lusha",
   "xId": "Lushadata",
+  "facebookId": "LushaData",
+  "breezyId": null,
+  "comeetId": "lusha/73.00B",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך יפו",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "city": "תל אביב-יפו",
+      "lat": 32.0605256,
+      "lon": 34.7738401
     }
   ],
   "isMultinational": false,
-  "facebookId": "LushaData",
-  "linkedinNum": 33222678,
-  "comeetId": "lusha/73.00B"
+  "isActive": true
 }

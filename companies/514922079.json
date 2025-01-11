@@ -6,21 +6,26 @@
   "logoFile": "logos/contguard-logo.webp",
   "websiteUrl": "https://www.contguard.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "contguard-ltd",
+  "linkedinNum": 5047126,
   "crunchbaseId": null,
+  "ivcId": "A1000000200694",
   "finderId": "contguard",
   "xId": "contguard",
+  "facebookId": "Contguard.Shipping.with.Intelligence",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
       "houseNumber": 6,
       "city": "הוד השרון",
-      "lat": 32.12984109999999,
-      "lon": 34.89354939995229
+      "lat": 32.130223,
+      "lon": 34.892814
     }
   ],
   "isMultinational": false,
-  "facebookId": "Contguard.Shipping.with.Intelligence",
-  "linkedinNum": 5047126
+  "isActive": true
 }

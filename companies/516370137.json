@@ -6,11 +6,17 @@
   "logoFile": "logos/solargik-logo.webp",
   "websiteUrl": "https://www.solargik.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "solargik",
+  "linkedinNum": 76734543,
   "crunchbaseId": null,
+  "ivcId": "A1000000366557",
   "finderId": "solargik",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמק רפאים",
@@ -20,5 +26,6 @@
       "lon": 35.2177888
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

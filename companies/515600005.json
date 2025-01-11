@@ -6,21 +6,26 @@
   "logoFile": "logos/clarifruit-logo.webp",
   "websiteUrl": "https://www.clarifruit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "clarifruit",
+  "linkedinNum": 17964031,
   "crunchbaseId": null,
+  "ivcId": "A1000000228369",
   "finderId": "clarifruit",
   "xId": "ClariFruit",
+  "facebookId": "ClariFruit-108299727515951",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נח מוזס",
       "houseNumber": 1,
       "city": "ראשון לציון",
-      "lat": 31.9931486,
-      "lon": 34.7601647
+      "lat": 31.9931422,
+      "lon": 34.759785
     }
   ],
   "isMultinational": false,
-  "facebookId": "ClariFruit-108299727515951",
-  "linkedinNum": 17964031
+  "isActive": true
 }

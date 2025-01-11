@@ -6,11 +6,17 @@
   "logoFile": "logos/kumba_application-logo.webp",
   "websiteUrl": "https://kumba.pet/",
   "careersUrl": "https://www.angloamericankumba.com/careers/job-opportunities",
-  "isHiring": true,
   "linkedinId": "kumba",
+  "linkedinNum": 18232670,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kumba",
   "xId": "kumbapets",
+  "facebookId": "KumbaPets",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "KumbaPets",
-  "linkedinNum": 18232670
+  "isActive": true
 }

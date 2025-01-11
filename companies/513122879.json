@@ -1,0 +1,31 @@
+{
+  "name": "Miotix",
+  "description": "Miotix is a provider of cellular applications specializing in User Generated Content (UGC).",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/miotix-logo.webp",
+  "websiteUrl": "http://www.miotix.com",
+  "careersUrl": null,
+  "linkedinId": "miotix-applications",
+  "linkedinNum": 1395016,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009213",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אהוד מנור",
+      "houseNumber": 10,
+      "city": "נתניה",
+      "lat": 32.2758866,
+      "lon": 34.8395545
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

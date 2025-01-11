@@ -3,14 +3,20 @@
   "description": "Join a pioneering team in Krakow developing a next-generation RPG with AAA graphics based on a top global IP.",
   "categoryId": 11,
   "size": "s",
-  "logoFile": "logos/fun_crafters-logo.webp",
+  "logoFile": "logos/fun-crafters-logo.webp",
   "websiteUrl": "https://fun-crafters.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fun-crafters",
+  "linkedinNum": 99984721,
   "crunchbaseId": null,
+  "ivcId": "A1000000471830",
   "finderId": "fun-crafters",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השיזף",
@@ -19,5 +25,7 @@
       "lat": 32.1919424,
       "lon": 34.8855377
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

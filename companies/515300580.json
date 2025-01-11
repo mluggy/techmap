@@ -1,17 +1,22 @@
 {
   "name": "Cyber 2.0",
-  "description": "Cyber-attack Prevention System",
+  "description": "Cyber-attack Prevention System.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/cyber-2-0.webp",
   "websiteUrl": "https://www.cyber20.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 18142073,
   "crunchbaseId": null,
+  "ivcId": "A1000000216071",
   "finderId": "cyber-2-0",
   "xId": "Cyber2085365327",
   "facebookId": "Cyber2.0Defense",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נח מוזס",
@@ -21,5 +26,6 @@
       "lon": 34.75982696088772
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

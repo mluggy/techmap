@@ -1,0 +1,31 @@
+{
+  "name": "7twenty",
+  "description": "7twenty is an omnichannel customer engagement solution.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/7twenty-logo.webp",
+  "websiteUrl": "http://7-twenty.com",
+  "careersUrl": null,
+  "linkedinId": "7-twenty.com",
+  "linkedinNum": 17883658,
+  "crunchbaseId": null,
+  "ivcId": "A1000000323879",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התדהר",
+      "houseNumber": 1,
+      "city": "רעננה",
+      "lat": 32.192939,
+      "lon": 34.8840713
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

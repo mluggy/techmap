@@ -1,26 +1,31 @@
 {
   "name": "Technoso",
-  "description": "Parking Management System",
+  "description": "Parking Management System.",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/technoso_control_systems-logo.webp",
   "websiteUrl": "https://technoso.co.il/en/home-en/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "technoso",
+  "linkedinNum": 52077456,
   "crunchbaseId": "technoso-control-systems",
+  "ivcId": "A1000000325724",
   "finderId": "technoso",
   "xId": null,
+  "facebookId": "technoso.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הקישון",
-      "houseNumber": 6,
-      "city": "יבנה",
-      "lat": 31.8863191,
-      "lon": 34.73453
+      "street": "היצירה",
+      "houseNumber": 10,
+      "city": "רמלה",
+      "lat": 31.9318122,
+      "lon": 34.8816315
     }
   ],
   "isMultinational": false,
-  "facebookId": "technoso.co.il",
-  "linkedinNum": 52077456
+  "isActive": true
 }

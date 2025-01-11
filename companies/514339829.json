@@ -6,11 +6,17 @@
   "logoFile": "logos/silantrix-logo.webp",
   "websiteUrl": "https://www.silantrix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "silantrix",
+  "ivcId": "A1000000223551",
   "finderId": "silantrix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הל\"ה",
@@ -20,5 +26,6 @@
       "lon": 34.9258365
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

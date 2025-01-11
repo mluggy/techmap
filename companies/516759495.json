@@ -3,14 +3,20 @@
   "description": "Pioneering innovative immunotherapy for bladder cancer, demonstrating promising results in pre-clinical trials and preparing for human Phase I trials.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/hopec_pharma-logo.webp",
+  "logoFile": "logos/hopec-pharma-logo.webp",
   "websiteUrl": "https://www.hopec-pharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hopec-pharma",
+  "linkedinNum": 93256826,
   "crunchbaseId": null,
+  "ivcId": "A1000000431061",
   "finderId": "hopec-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התאנה",
@@ -19,5 +25,7 @@
       "lat": 32.0839076,
       "lon": 34.851055
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

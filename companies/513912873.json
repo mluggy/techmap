@@ -1,26 +1,31 @@
 {
   "name": "MiniHotel",
-  "description": "Comprehensive Hotel Management Solution",
+  "description": "Comprehensive Hotel Management Solution.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/motel_software_solutions-logo.webp",
   "websiteUrl": "https://www.minihotelpms.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "minihotel",
+  "linkedinNum": 64760338,
   "crunchbaseId": null,
+  "ivcId": "A1000000204792",
   "finderId": "motel-software-solutions",
   "xId": null,
+  "facebookId": "MiniHotelSoft",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רוטשילד",
-      "houseNumber": 116,
-      "city": "פתח תקווה",
-      "lat": 32.0817371,
-      "lon": 34.8835306
+      "street": "המעלית",
+      "houseNumber": 38,
+      "city": "קדימה-צורן",
+      "lat": 32.274188,
+      "lon": 34.921326
     }
   ],
   "isMultinational": false,
-  "facebookId": "MiniHotelSoft",
-  "linkedinNum": 64760338
+  "isActive": true
 }

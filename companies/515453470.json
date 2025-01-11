@@ -3,23 +3,29 @@
   "description": "Offering a cutting-edge solution to safeguard enterprise endpoints by using dynamic deception to thwart ransomware and malware attacks.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/deceptive_bytes-logo.webp",
+  "logoFile": "logos/deceptive-bytes-logo.webp",
   "websiteUrl": "https://deceptivebytes.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "deceptivebytes",
+  "linkedinNum": 9190620,
   "crunchbaseId": null,
+  "ivcId": "A1000000218479",
   "finderId": "deceptive-bytes",
   "xId": "deceptivebytes",
+  "facebookId": "DeceptiveBytes",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קראוזה",
-      "houseNumber": 45,
+      "street": "הרוקמים",
+      "houseNumber": 26,
       "city": "חולון",
-      "lat": 32.0217397,
-      "lon": 34.7815078
+      "lat": 32.0077569,
+      "lon": 34.8006392
     }
   ],
   "isMultinational": false,
-  "facebookId": "DeceptiveBytes"
+  "isActive": true
 }

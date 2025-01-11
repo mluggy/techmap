@@ -6,21 +6,26 @@
   "logoFile": "logos/jellop_bidder-logo.webp",
   "websiteUrl": "https://jellop.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "jellop",
+  "linkedinNum": 2353323,
   "crunchbaseId": null,
+  "ivcId": "A1000000203490",
   "finderId": "jellop",
   "xId": "jellopcrowdfund",
+  "facebookId": "jelloponline",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הראשונים",
-      "houseNumber": 14,
-      "city": "הוד השרון",
-      "lat": 32.1671233,
-      "lon": 34.9198847
+      "street": "המלך ג'ורג'",
+      "houseNumber": 48,
+      "city": "תל אביב-יפו",
+      "lat": 32.0743413,
+      "lon": 34.7758535
     }
   ],
   "isMultinational": false,
-  "facebookId": "jelloponline",
-  "linkedinNum": 2353323
+  "isActive": true
 }

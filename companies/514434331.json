@@ -6,11 +6,17 @@
   "logoFile": "logos/telcon_diamond-logo.webp",
   "websiteUrl": "https://www.telconpcd.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 301720,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "telcon",
   "xId": null,
+  "facebookId": "TelconPCD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העמל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TelconPCD",
-  "linkedinNum": 301720
+  "isActive": true
 }

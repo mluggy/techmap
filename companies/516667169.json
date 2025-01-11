@@ -1,0 +1,31 @@
+{
+  "name": "Skincubator",
+  "description": "Skincubator's mission is to provide a connected and improved neonatal care for preterm babies and their mothers.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/skincubator-logo.webp",
+  "websiteUrl": "https://www.skincubator-neocare.com",
+  "careersUrl": null,
+  "linkedinId": "skincubator-neocare",
+  "linkedinNum": 87464002,
+  "crunchbaseId": null,
+  "ivcId": "A1000000432492",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בית אל",
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7748946,
+      "lon": 35.231529
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

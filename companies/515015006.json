@@ -6,21 +6,26 @@
   "logoFile": "logos/sensorytreat_ltd-logo.webp",
   "websiteUrl": "https://sensorytreat.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10000055,
   "crunchbaseId": null,
+  "ivcId": "A1000000176319",
   "finderId": "sensorytreat",
   "xId": null,
+  "facebookId": "SensoryTreat",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דובנוב",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.07686,
-      "lon": 34.783593
+      "city": "תל אביב-יפו",
+      "lat": 32.0769813,
+      "lon": 34.7836593
     }
   ],
   "isMultinational": false,
-  "facebookId": "SensoryTreat",
-  "linkedinNum": 10000055
+  "isActive": true
 }

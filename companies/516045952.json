@@ -3,14 +3,29 @@
   "description": "We provide an innovative solution featuring a biodegradable polymeric liner and an autonomous robot for efficient application.",
   "categoryId": 15,
   "size": "xs",
-  "logoFile": "logos/kiinns_foodtech-logo.webp",
+  "logoFile": "logos/kiinns-logo.webp",
   "websiteUrl": "https://www.kiinns.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kiinns",
+  "linkedinNum": 17952711,
   "crunchbaseId": "kiinns",
+  "ivcId": "A1000000233928",
   "finderId": "kiinns",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "חיפה",
+      "lat": 32.798285499287815,
+      "lon": 34.99899627000898
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

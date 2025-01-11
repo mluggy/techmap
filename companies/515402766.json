@@ -6,21 +6,26 @@
   "logoFile": "logos/playwork-logo.webp",
   "websiteUrl": "https://www.playwork.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "playwork",
+  "linkedinNum": 17879261,
   "crunchbaseId": null,
+  "ivcId": "A1000000204237",
   "finderId": "gemon",
   "xId": "playworktweet",
+  "facebookId": "Playwork.me",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חפץ ישה",
-      "houseNumber": 11,
-      "city": "תל אביב - יפו",
-      "lat": 32.116716,
-      "lon": 34.788471
+      "street": "אלון",
+      "houseNumber": 10,
+      "city": "נס ציונה",
+      "lat": 31.9397025,
+      "lon": 34.7957766
     }
   ],
   "isMultinational": false,
-  "facebookId": "Playwork.me",
-  "linkedinNum": 17879261
+  "isActive": true
 }

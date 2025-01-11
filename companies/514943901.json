@@ -6,21 +6,26 @@
   "logoFile": "logos/inqwise-logo.webp",
   "websiteUrl": "https://www.inqwise.com/",
   "careersUrl": "https://www.inqwise.com/en-us/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "inqwise",
+  "linkedinNum": 2390531,
   "crunchbaseId": null,
+  "ivcId": "A1000000023067",
   "finderId": "inqwise",
   "xId": "inqwise",
+  "facebookId": "inqwise",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב ניסנבוים יצחק",
-      "houseNumber": 37,
+      "street": "ברנר",
+      "houseNumber": 4,
       "city": "בת ים",
-      "lat": 32.023015548758714,
-      "lon": 34.79118934928326
+      "lat": 32.0170547,
+      "lon": 34.747554
     }
   ],
   "isMultinational": false,
-  "facebookId": "inqwise",
-  "linkedinNum": 2390531
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/wecheck-logo.webp",
   "websiteUrl": "https://www.wecheck.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wecheckisrael",
+  "linkedinNum": 72698846,
   "crunchbaseId": null,
+  "ivcId": "A1000000257376",
   "finderId": "wecheck",
   "xId": null,
+  "facebookId": "WeCheck.4U",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקישון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WeCheck.4U",
-  "linkedinNum": 72698846
+  "isActive": true
 }

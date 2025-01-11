@@ -6,22 +6,26 @@
   "logoFile": "logos/moon_active-logo.webp",
   "websiteUrl": "https://www.moonactive.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "moon-active",
+  "linkedinNum": 3229376,
   "crunchbaseId": null,
+  "ivcId": "A1000000020556",
   "finderId": "moon-active",
   "xId": "moonactive",
+  "facebookId": "moonactive",
+  "breezyId": null,
+  "comeetId": "moonactive/A2.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מקוה ישראל",
+      "street": "מקווה ישראל",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.062818,
-      "lon": 34.776052
+      "city": "תל אביב-יפו",
+      "lat": 32.0628544,
+      "lon": 34.7762439
     }
   ],
   "isMultinational": false,
-  "facebookId": "moonactive",
-  "linkedinNum": 3229376,
-  "comeetId": "moonactive/A2.00C"
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/leverate_technological_trading-logo.webp",
   "websiteUrl": "https://leverate.com/",
   "careersUrl": "https://leverate.com/careers/",
-  "isHiring": true,
   "linkedinId": "leverate",
+  "linkedinNum": 973860,
   "crunchbaseId": "leverate",
+  "ivcId": "A1000000010406",
   "finderId": "leverate",
   "xId": "leveratelive",
+  "facebookId": "leverate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ששת הימים",
       "houseNumber": 30,
-      "city": "בני ברק",
-      "lat": 32.0984539,
-      "lon": 34.8282998
+      "city": "תל אביב-יפו",
+      "lat": 32.1337469,
+      "lon": 34.8364743
     }
   ],
   "isMultinational": false,
-  "facebookId": "leverate",
-  "linkedinNum": 973860
+  "isActive": true
 }

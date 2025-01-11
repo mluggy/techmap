@@ -1,26 +1,31 @@
 {
   "name": "ITI",
   "description": "A comprehensive platform offering over 1,000 on-demand courses and an advanced learning management system for rigging and hoisting professionals.",
-  "size": "l",
   "categoryId": 14,
+  "size": "l",
   "logoFile": "logos/iti_partners_management-logo.webp",
   "websiteUrl": "https://www.iti-global.com/",
   "careersUrl": "https://www.iti-global.com/careers",
-  "isHiring": true,
   "linkedinId": "iti-transcendata",
+  "linkedinNum": 525622,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "iti",
   "xId": "ITI_Global",
+  "facebookId": "InternationalTechneGroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.106882,
       "lon": 34.835564
     }
   ],
-  "isMultinational": true,
-  "facebookId": "InternationalTechneGroup",
-  "linkedinNum": 525622
+  "isMultinational": false,
+  "isActive": true
 }

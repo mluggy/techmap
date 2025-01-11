@@ -1,0 +1,31 @@
+{
+  "name": "SnatchBot",
+  "description": "SnatchBot offers a platform designed to streamline business workflows and communications with a single, message-based interface.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/snatchbot-logo.webp",
+  "websiteUrl": "https://snatchbot.me",
+  "careersUrl": "https://snatchbot.me/careers",
+  "linkedinId": "snatchbot",
+  "linkedinNum": 17979854,
+  "crunchbaseId": null,
+  "ivcId": "A1000000238397",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך מנחם בגין",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.0851565,
+      "lon": 34.7998421
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

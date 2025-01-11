@@ -6,21 +6,26 @@
   "logoFile": "logos/pg_medical_systems-logo.webp",
   "websiteUrl": "https://pgmeds.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pg-medical-systems-ltd",
+  "linkedinNum": 33283279,
   "crunchbaseId": null,
+  "ivcId": "A1000000287879",
   "finderId": "pg-medical-systems",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הבנקים",
-      "houseNumber": 3,
+      "street": "נתיב האור",
+      "houseNumber": 1,
       "city": "חיפה",
-      "lat": 32.8191843,
-      "lon": 34.9963597
+      "lat": 32.7877359,
+      "lon": 34.9654477
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 33283279
+  "isActive": true
 }

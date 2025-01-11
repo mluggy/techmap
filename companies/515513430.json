@@ -6,21 +6,26 @@
   "logoFile": "logos/anima_app-logo.webp",
   "websiteUrl": "https://www.animaapp.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "anima-app",
+  "linkedinNum": 17912357,
   "crunchbaseId": null,
+  "ivcId": "A1000000229203",
   "finderId": "anima-app",
   "xId": "AnimaApp",
+  "facebookId": "animaapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברלין אליהו",
-      "houseNumber": 13,
-      "city": "תל אביב - יפו",
-      "lat": 32.123928,
-      "lon": 34.7925715
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "facebookId": "animaapp",
-  "linkedinNum": 17912357
+  "isActive": true
 }

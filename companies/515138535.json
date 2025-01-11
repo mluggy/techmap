@@ -6,20 +6,26 @@
   "logoFile": "logos/westham_innovations-logo.webp",
   "websiteUrl": "https://www.westhamco.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2104590,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "westham-innovations",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 90,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.082699,
       "lon": 34.7815
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2104590
+  "isActive": true
 }

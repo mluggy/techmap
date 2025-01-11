@@ -1,0 +1,31 @@
+{
+  "name": "AllinPack",
+  "description": "ComSense IoT is an Israeli company that develops and provides IoT (Internet of Things) solutions for the elderly and people with disabilities.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/allinpack-logo.webp",
+  "websiteUrl": "http://www.com-sense.com",
+  "careersUrl": null,
+  "linkedinId": "all-in-pack",
+  "linkedinNum": 5317331,
+  "crunchbaseId": null,
+  "ivcId": "A1000000169494",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קדם",
+      "houseNumber": 135,
+      "city": "תל אביב-יפו",
+      "lat": 32.0392434,
+      "lon": 34.7469831
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

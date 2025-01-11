@@ -1,0 +1,31 @@
+{
+  "name": "ImmunoHiTech",
+  "description": "ImmunoHiTech LTD is a company that is devoted to the reduction of metastatic spread in cancer patients by targeting cancer-specific cell surface markers and developing immunotherapy shelf products for large patient cohorts.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/immunohitech-logo.webp",
+  "websiteUrl": "https://www.immunohitech.com/",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000296665",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הסייפן",
+      "houseNumber": 35,
+      "city": "רמת השרון",
+      "lat": 32.1343066,
+      "lon": 34.8387772
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

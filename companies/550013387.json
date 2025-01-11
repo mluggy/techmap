@@ -1,0 +1,31 @@
+{
+  "name": "Agrekal",
+  "description": "Agrekal is producing vermiculite and perlite.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/agrekal-logo.webp",
+  "websiteUrl": "http://www.agrekal.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009311",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "הבונים",
+      "lat": 32.636586,
+      "lon": 34.932704
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

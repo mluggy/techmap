@@ -6,12 +6,17 @@
   "logoFile": "logos/plastopil.webp",
   "websiteUrl": "https://www.plastopil.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 5218588,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "plastopil",
   "xId": "PlastopilPack",
   "facebookId": "Plastopil-1248360991848887",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קיבוץ",
@@ -21,5 +26,6 @@
       "lon": 35.118650302875274
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

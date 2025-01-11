@@ -6,11 +6,17 @@
   "logoFile": "logos/dotz_nano-logo.webp",
   "websiteUrl": "https://dotz.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dotznano",
+  "linkedinNum": 18069098,
   "crunchbaseId": null,
+  "ivcId": "A1000000207822",
   "finderId": "dotz-nano",
   "xId": "dotz_nano",
+  "facebookId": "DotzLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "DotzLtd",
-  "linkedinNum": 18069098
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/criskco_israel_2015-logo.webp",
   "websiteUrl": "https://www.criskco.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "criskco",
+  "linkedinNum": 6434432,
   "crunchbaseId": "criskco",
+  "ivcId": null,
   "finderId": "criskco",
   "xId": "criskcovoice",
+  "facebookId": "criskco",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יבנה",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065334,
       "lon": 34.773294
     }
   ],
   "isMultinational": false,
-  "facebookId": "criskco",
-  "linkedinNum": 6434432
+  "isActive": true
 }

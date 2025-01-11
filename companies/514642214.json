@@ -6,21 +6,26 @@
   "logoFile": "logos/revelator-logo.webp",
   "websiteUrl": "https://www.revelator.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "revelator-enterprises",
+  "linkedinNum": 3593611,
   "crunchbaseId": null,
+  "ivcId": "A1000000024107",
   "finderId": "revelator",
   "xId": "GetRevelator",
+  "facebookId": "RevelatorNetwork",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך חברון",
-      "houseNumber": 24,
+      "street": "הסורג",
+      "houseNumber": 1,
       "city": "ירושלים",
-      "lat": 31.7316844,
-      "lon": 35.20565
+      "lat": 31.7804941,
+      "lon": 35.2210552
     }
   ],
   "isMultinational": false,
-  "facebookId": "RevelatorNetwork",
-  "linkedinNum": 3593611
+  "isActive": true
 }

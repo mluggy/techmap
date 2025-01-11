@@ -6,21 +6,26 @@
   "logoFile": "logos/gefen_technologies_a_i-logo.webp",
   "websiteUrl": "https://gefentechnologies.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gefen-technologies",
+  "linkedinNum": 28642619,
   "crunchbaseId": null,
+  "ivcId": "A1000000255586",
   "finderId": "gefen-technologies",
   "xId": null,
+  "facebookId": "GefenInternationalAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קלישר",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.065789,
-      "lon": 34.768838
+      "city": "תל אביב-יפו",
+      "lat": 32.0658016,
+      "lon": 34.7688625
     }
   ],
   "isMultinational": false,
-  "facebookId": "GefenInternationalAI",
-  "linkedinNum": 28642619
+  "isActive": true
 }

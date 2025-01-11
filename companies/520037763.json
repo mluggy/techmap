@@ -6,11 +6,17 @@
   "logoFile": "logos/iintoo-logo.webp",
   "websiteUrl": "https://www.iintoo.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "iintoo",
+  "linkedinNum": 10275338,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "iintoo",
   "xId": null,
+  "facebookId": "getiintooit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרצל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "getiintooit",
-  "linkedinNum": 10275338
+  "isActive": true
 }

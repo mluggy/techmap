@@ -1,23 +1,31 @@
 {
   "name": "We Agri",
-  "description": "Earn carbon credits through sustainable farming practices.",
+  "description": "We-Agri is developing a sustainable smart platform to turn the users' commercial orchards & vineyards into sustainable agri-business certified for the issuance of high-quality carbon credits.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/we_agri-logo.webp",
-  "websiteUrl": "https://portal.weagri.com/",
+  "logoFile": "logos/we-agri-logo.webp",
+  "websiteUrl": "https://we-agri.co",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "we-agri-ltd",
+  "linkedinNum": 72432182,
   "crunchbaseId": null,
+  "ivcId": "A1000000440321",
   "finderId": "we-agri",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטחנה",
       "houseNumber": 64,
-      "city": "בנימינה",
-      "lat": 32.5115576,
-      "lon": 34.949588
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5122597,
+      "lon": 34.9493571
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

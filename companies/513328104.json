@@ -6,20 +6,26 @@
   "logoFile": "logos/second_chance-logo.webp",
   "websiteUrl": "https://second-chance.app/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 81669892,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "second-chance",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פריש דניאל",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07463945,
       "lon": 34.78327163578098
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81669892
+  "isActive": true
 }

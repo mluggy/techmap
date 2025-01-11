@@ -6,20 +6,26 @@
   "logoFile": "logos/axon_pulse-logo.webp",
   "websiteUrl": "https://www.axon-pulse.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "axon-pulse",
+  "linkedinNum": 65802791,
   "crunchbaseId": null,
+  "ivcId": "A1000000326382",
   "finderId": "axonpulse",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
-      "lat": 32.0605137,
-      "lon": 34.7759853
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322717
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 65802791
+  "isActive": true
 }

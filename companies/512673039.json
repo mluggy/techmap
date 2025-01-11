@@ -6,21 +6,26 @@
   "logoFile": "logos/visuality_systems-logo.webp",
   "websiteUrl": "https://visualitynq.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "visuality-systems",
+  "linkedinNum": 96298,
   "crunchbaseId": null,
+  "ivcId": "A1000000005233",
   "finderId": "visuality-systems",
   "xId": "Visuality_NQ",
+  "facebookId": "visualitysystems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התמר",
       "houseNumber": 3,
-      "city": "יקנעם עילית",
-      "lat": 32.660635400000004,
-      "lon": 35.106365983449265
+      "city": "יוקנעם עילית",
+      "lat": 32.6608395,
+      "lon": 35.1060744
     }
   ],
   "isMultinational": false,
-  "facebookId": "visualitysystems",
-  "linkedinNum": 96298
+  "isActive": true
 }

@@ -1,17 +1,31 @@
 {
   "name": "Paxis",
-  "description": "Advanced Ceramic Materials and Solutions",
+  "description": "Advanced Ceramic Materials and Solutions.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/paxis-logo.webp",
   "websiteUrl": "https://www.paxisceramics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "paxis-ceramics",
+  "linkedinNum": 35650425,
   "crunchbaseId": null,
+  "ivcId": "A1000000231123",
   "finderId": "paxis",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות תפן",
+      "houseNumber": 5,
+      "city": "מגדל תפן",
+      "lat": 32.9760211,
+      "lon": 35.2755006
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 35650425
+  "isActive": true
 }

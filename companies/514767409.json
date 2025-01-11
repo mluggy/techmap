@@ -6,21 +6,26 @@
   "logoFile": "logos/tag_a_time-logo.webp",
   "websiteUrl": "https://tagatime.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tag-a-time",
+  "linkedinNum": 49140860,
   "crunchbaseId": null,
+  "ivcId": "A1000000023029",
   "finderId": "tagatime",
   "xId": "tagatime",
+  "facebookId": "tagatime",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מבוא הגפן",
-      "houseNumber": 228,
-      "city": "ינוב",
-      "lat": 32.3052829,
-      "lon": 34.9506137
+      "street": "המלאכה",
+      "houseNumber": 8,
+      "city": "נתניה",
+      "lat": 32.2781196,
+      "lon": 34.8582611
     }
   ],
   "isMultinational": false,
-  "facebookId": "tagatime",
-  "linkedinNum": 49140860
+  "isActive": true
 }

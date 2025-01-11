@@ -1,16 +1,22 @@
 {
   "name": "Xerox",
   "description": "Explore a wide range of Xerox printing products and accessories online with free shipping on supplies.",
-  "size": "m",
   "categoryId": 14,
+  "size": "m",
   "logoFile": "logos/xerox_israel_ltd-logo.webp",
   "websiteUrl": "https://www.xerox.com/",
   "careersUrl": "https://www.xerox.com/en-us/jobs",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "xerox",
+  "linkedinNum": 1373,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "xerox",
   "xId": "Xerox",
+  "facebookId": "XeroxCorp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המגשימים",
@@ -20,7 +26,6 @@
       "lon": 34.8536011
     }
   ],
-  "isMultinational": true,
-  "facebookId": "XeroxCorp",
-  "linkedinNum": 1373
+  "isMultinational": false,
+  "isActive": true
 }

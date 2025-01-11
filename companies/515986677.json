@@ -6,11 +6,17 @@
   "logoFile": "logos/gettacar_israel-logo.webp",
   "websiteUrl": "https://www.danisauto.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "gettacar",
+  "ivcId": null,
   "finderId": "gettacar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +25,7 @@
       "lat": 31.9124384,
       "lon": 34.8044299
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

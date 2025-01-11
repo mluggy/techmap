@@ -6,13 +6,26 @@
   "logoFile": "logos/asparna_add-logo.webp",
   "websiteUrl": "https://asparna.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "asparna-ltd.",
+  "linkedinNum": 735207,
   "crunchbaseId": "dax-asparna",
+  "ivcId": "A1000000023169",
   "finderId": "asparna",
   "xId": "asparna",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Add.Asparna.Ltd",
-  "linkedinNum": 735207
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האורן",
+      "houseNumber": 32,
+      "city": "רמת ישי",
+      "lat": 32.7044289,
+      "lon": 35.1662481
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

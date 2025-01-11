@@ -6,20 +6,26 @@
   "logoFile": "logos/smart_door_systems_ltd-logo.webp",
   "websiteUrl": "https://www.sds-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "smart-door-systems-ltd",
+  "linkedinNum": 18220012,
   "crunchbaseId": null,
+  "ivcId": "A1000000008453",
   "finderId": "sds-smart-locks1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך המכללה",
-      "houseNumber": null,
-      "city": "עכו",
-      "lat": 32.9357369,
-      "lon": 35.0862235
+      "street": "אפעל",
+      "houseNumber": 20,
+      "city": "פתח תקווה",
+      "lat": 32.0953825,
+      "lon": 34.8477801
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18220012
+  "isActive": true
 }

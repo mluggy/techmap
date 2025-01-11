@@ -6,20 +6,26 @@
   "logoFile": "logos/ran_botanicals-logo.webp",
   "websiteUrl": "https://www.ranbotanicals.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000210184",
   "finderId": "ran-botanicals",
   "xId": null,
+  "facebookId": "ranbotanicals",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארלוזורוב",
       "houseNumber": 188,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0828983,
       "lon": 34.7918018
     }
   ],
   "isMultinational": false,
-  "facebookId": "ranbotanicals"
+  "isActive": true
 }

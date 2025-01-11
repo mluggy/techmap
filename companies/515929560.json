@@ -1,16 +1,22 @@
 {
   "name": "Hila Pharma",
-  "description": "Specializing in advanced radiopharmaceuticals for diagnostic imaging and cancer treatment.",
+  "description": "ProtectAir develops an air-purifier that neutralizes over 99% of airborne viruses and bacteria.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/hila_pharma-logo.webp",
-  "websiteUrl": "https://hilapharma.com/",
+  "websiteUrl": "https://protectair.shop",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000321981",
   "finderId": "hila-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגפן",
@@ -20,5 +26,6 @@
       "lon": 34.6316593
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Breez",
-  "description": "Peer-to-peer Payments",
+  "description": "Peer-to-peer Payments.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/breez_development-logo.webp",
   "websiteUrl": "https://breez.technology/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "breez-lightning",
+  "linkedinNum": 11465258,
   "crunchbaseId": null,
+  "ivcId": "A1000000256398",
   "finderId": "breez",
   "xId": "breez_tech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משמר הירדן",
       "houseNumber": 89,
-      "city": "תל אביב - יפו",
-      "lat": 32.114282,
-      "lon": 34.832681
+      "city": "תל אביב-יפו",
+      "lat": 32.1143701,
+      "lon": 34.8327456
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11465258
+  "isActive": true
 }

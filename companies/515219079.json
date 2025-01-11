@@ -6,11 +6,17 @@
   "logoFile": "logos/securithings-logo.webp",
   "websiteUrl": "https://securithings.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "securithings",
+  "linkedinNum": 5391738,
   "crunchbaseId": null,
+  "ivcId": "A1000000194699",
   "finderId": "securithings",
   "xId": "SecuriThings",
+  "facebookId": "SecuriThingsIoT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוהם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SecuriThingsIoT",
-  "linkedinNum": 5391738
+  "isActive": true
 }

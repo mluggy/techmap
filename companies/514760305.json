@@ -6,11 +6,17 @@
   "logoFile": "logos/medaware-logo.webp",
   "websiteUrl": "https://www.medaware.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "medaware",
+  "linkedinNum": 5236951,
   "crunchbaseId": null,
+  "ivcId": "A1000000021327",
   "finderId": "medaware",
   "xId": "medawarerx",
+  "facebookId": "MedAwareRX",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MedAwareRX",
-  "linkedinNum": 5236951
+  "isActive": true
 }

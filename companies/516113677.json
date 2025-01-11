@@ -6,21 +6,26 @@
   "logoFile": "logos/epidutech-logo.webp",
   "websiteUrl": "https://www.epidutech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "epidutech",
+  "linkedinNum": 20354637,
   "crunchbaseId": null,
+  "ivcId": "A1000000304416",
   "finderId": "epidutech1",
   "xId": null,
+  "facebookId": "Epidutech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
-      "houseNumber": 13,
+      "street": null,
+      "houseNumber": null,
       "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "lat": 32.699635,
+      "lon": 35.303546
     }
   ],
   "isMultinational": false,
-  "facebookId": "Epidutech",
-  "linkedinNum": 20354637
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Ellie",
+  "description": "Ellie is a virtual matchmaker and friendly guide to finding love through the users' own social circles.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/ellie-logo.webp",
+  "websiteUrl": "https://www.hi-ellie.com/il",
+  "careersUrl": null,
+  "linkedinId": "hi-ellie",
+  "linkedinNum": 86954964,
+  "crunchbaseId": null,
+  "ivcId": "A1000000399191",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שמואל הנגיד",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0833754,
+      "lon": 34.7794993
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

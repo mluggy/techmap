@@ -6,20 +6,26 @@
   "logoFile": "logos/vessl_therapeutics-logo.webp",
   "websiteUrl": "https://vessltherapy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vessl-therapeutics",
+  "linkedinNum": 1175843,
   "crunchbaseId": "vessl-therapeutics",
+  "ivcId": "A1000000007482",
   "finderId": "vssl",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מיכ\"ל המשורר",
-      "houseNumber": 7,
-      "city": "חיפה",
-      "lat": 32.7869369,
-      "lon": 34.9822527
+      "street": "היוזמה",
+      "houseNumber": 6,
+      "city": "יוקנעם עילית",
+      "lat": 32.6685512,
+      "lon": 35.1054214
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1175843
+  "isActive": true
 }

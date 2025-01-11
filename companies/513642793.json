@@ -1,16 +1,22 @@
 {
   "name": "EyeClick",
-  "description": "Interactive Entertainment Platform for Kids",
+  "description": "Interactive Entertainment Platform for Kids.",
   "categoryId": 8,
   "size": "m",
   "logoFile": "logos/eyeclick-logo.webp",
   "websiteUrl": "https://joinbeam.com/",
   "careersUrl": "https://www.eyeclick.com/about-us/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "eyeclick",
+  "linkedinNum": 89878,
   "crunchbaseId": null,
+  "ivcId": "A1000000003804",
   "finderId": "eyeclick",
   "xId": "BEAMbyEyeClick",
+  "facebookId": "BEAMbyEyeClick",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האחים בז'רנו",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BEAMbyEyeClick",
-  "linkedinNum": 89878
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/bright_data-logo.webp",
   "websiteUrl": "https://brightdata.com/",
   "careersUrl": "https://brightdata.com/careers",
-  "isHiring": true,
   "linkedinId": "bright-data",
+  "linkedinNum": 4000016,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bright-data",
   "xId": "bright_data",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המחשב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 4000016
+  "isActive": true
 }

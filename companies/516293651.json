@@ -1,0 +1,31 @@
+{
+  "name": "RBC Ricebowl",
+  "description": "RBC Ricebowl is developing an energy production for long stay of micro-aerostats.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/rbc_ricebowl-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485465",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרצית",
+      "houseNumber": 11,
+      "city": "רחובות",
+      "lat": 31.8865686,
+      "lon": 34.8296242
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

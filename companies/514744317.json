@@ -6,19 +6,26 @@
   "logoFile": "logos/inno_bev-logo.webp",
   "websiteUrl": "https://www.drinkwakeup.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "inno-bev-wakeup",
+  "ivcId": "A1000000022854",
   "finderId": "wakeup",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הירקון",
       "houseNumber": 167,
-      "city": "תל אביב - יפו",
-      "lat": 32.0858591,
-      "lon": 34.7701454
+      "city": "תל אביב-יפו",
+      "lat": 32.0856401,
+      "lon": 34.7700966
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/eyeyon_medical-logo.webp",
   "websiteUrl": "https://eye-yon.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eyeyon-medical",
+  "linkedinNum": 2287913,
   "crunchbaseId": null,
+  "ivcId": "A1000000010725",
   "finderId": "eyeyon",
   "xId": "EyeyonM",
+  "facebookId": "EyeYon",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "EyeYon",
-  "linkedinNum": 2287913
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/dokka_a_i-logo.webp",
   "websiteUrl": "https://dokka.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dokkasoftware",
+  "linkedinNum": 17997076,
   "crunchbaseId": null,
+  "ivcId": "A1000000231399",
   "finderId": "dokka",
   "xId": "dokkame",
+  "facebookId": "dokkame",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האנפה",
-      "houseNumber": 78,
-      "city": "תל מונד",
-      "lat": 32.2490558,
-      "lon": 34.9216615
+      "street": "הר מירון",
+      "houseNumber": 11,
+      "city": "אשקלון",
+      "lat": 31.6833073,
+      "lon": 34.5743115
     }
   ],
   "isMultinational": false,
-  "facebookId": "dokkame",
-  "linkedinNum": 17997076
+  "isActive": true
 }

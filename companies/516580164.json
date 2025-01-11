@@ -1,24 +1,31 @@
 {
   "name": "Green Slide Eco Solutions",
-  "description": "Eco-friendly Solution to Disposable Plastic and Paper Cups",
+  "description": "Eco-friendly Solution to Disposable Plastic and Paper Cups.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/green_slide_eco_solutions-logo.webp",
+  "logoFile": "logos/green-slide-eco-solutions-logo.webp",
   "websiteUrl": "https://green-slide.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "greenslide",
+  "linkedinNum": 96033040,
   "crunchbaseId": null,
+  "ivcId": "A1000000437799",
   "finderId": "green-slide-eco-solutions",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרצל",
-      "houseNumber": 51,
-      "city": "נתניה",
-      "lat": 32.3274164,
-      "lon": 34.8611909
+      "street": "יגאל אלון",
+      "houseNumber": 157,
+      "city": "תל אביב-יפו",
+      "lat": 32.0786923,
+      "lon": 34.7972508
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

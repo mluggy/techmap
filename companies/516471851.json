@@ -6,11 +6,17 @@
   "logoFile": "logos/kooply_zyp-logo.webp",
   "websiteUrl": "https://kooply.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kooply",
+  "linkedinNum": 24275777,
   "crunchbaseId": "kooply",
+  "ivcId": "A1000000379620",
   "finderId": "kooply",
   "xId": "KooplyGames",
+  "facebookId": "KooplyGames",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצופים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "KooplyGames",
-  "linkedinNum": 24275777
+  "isActive": true
 }

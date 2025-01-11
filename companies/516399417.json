@@ -1,16 +1,22 @@
 {
   "name": "C-Crop",
-  "description": "A stylish online store offering fashionable women's and men's clothing at the best prices across various European countries.",
-  "categoryId": 9,
+  "description": "C-Crop's unique approach harnesses the sensors and lenses of standard smartphones to capture videos, creating a near 3D representation without the need for a dedicated 3D camera.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/c_crop-logo.webp",
-  "websiteUrl": "https://www.cropp.com/",
+  "websiteUrl": "https://c-crop.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000465643",
   "finderId": "c-crop",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סולד הנרייטה",
@@ -20,5 +26,6 @@
       "lon": 34.84510464473381
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

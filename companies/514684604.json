@@ -6,11 +6,17 @@
   "logoFile": "logos/chegg_m_e-logo.webp",
   "websiteUrl": "https://www.chegg.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "chegg",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -19,5 +25,7 @@
       "lat": 31.9104321,
       "lon": 34.8058374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

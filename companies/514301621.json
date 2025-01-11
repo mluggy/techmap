@@ -6,21 +6,26 @@
   "logoFile": "logos/appfront-logo.webp",
   "websiteUrl": "https://www.appfront.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "appfront",
+  "linkedinNum": 9384193,
   "crunchbaseId": null,
+  "ivcId": "A1000000023766",
   "finderId": "appfront",
   "xId": "appfrontai",
+  "facebookId": "AppFront",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגדוד העברי",
-      "houseNumber": 11,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0378031,
-      "lon": 34.8837813
+      "street": "שלמה אבן גבירול",
+      "houseNumber": 124,
+      "city": "תל אביב-יפו",
+      "lat": 32.0867596,
+      "lon": 34.7825374
     }
   ],
   "isMultinational": false,
-  "facebookId": "AppFront",
-  "linkedinNum": 9384193
+  "isActive": true
 }

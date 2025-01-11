@@ -6,21 +6,26 @@
   "logoFile": "logos/connatix_native_exchange-logo.webp",
   "websiteUrl": "https://connatix.com/",
   "careersUrl": "https://connatix.com/careers",
-  "isHiring": true,
   "linkedinId": "connatix",
+  "linkedinNum": 4999305,
   "crunchbaseId": "connatix",
+  "ivcId": null,
   "finderId": "connatix",
   "xId": "connatix",
+  "facebookId": "Connatix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072746,
       "lon": 34.794968
     }
   ],
   "isMultinational": false,
-  "facebookId": "Connatix",
-  "linkedinNum": 4999305
+  "isActive": true
 }

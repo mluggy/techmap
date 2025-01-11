@@ -6,21 +6,26 @@
   "logoFile": "logos/openlm-logo.webp",
   "websiteUrl": "https://www.openlm.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "openlm",
+  "linkedinNum": 602180,
   "crunchbaseId": null,
+  "ivcId": "A1000000176335",
   "finderId": "openlm",
   "xId": "OpenLM",
+  "facebookId": "openlm",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השלדג",
-      "houseNumber": 1,
-      "city": "אליכין",
-      "lat": 32.4040862,
-      "lon": 34.921539
+      "street": "הרצל",
+      "houseNumber": 28,
+      "city": "נתניה",
+      "lat": 32.3283202,
+      "lon": 34.8570342
     }
   ],
   "isMultinational": false,
-  "facebookId": "openlm",
-  "linkedinNum": 602180
+  "isActive": true
 }

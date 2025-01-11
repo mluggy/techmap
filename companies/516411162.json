@@ -1,25 +1,31 @@
 {
   "name": "Viridian Analytics",
-  "description": "Global Sustainability Information Platform",
+  "description": "Global Sustainability Information Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/viridian_analytics-logo.webp",
   "websiteUrl": "https://www.viridian.earth",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "viridian-data-analytics",
+  "linkedinNum": 79643176,
   "crunchbaseId": "viridian-analytics",
+  "ivcId": "A1000000380727",
   "finderId": "viridian-analytics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רפידים",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.112801,
-      "lon": 34.812299
+      "city": "תל אביב-יפו",
+      "lat": 32.1127857,
+      "lon": 34.8122468
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79643176
+  "isActive": true
 }

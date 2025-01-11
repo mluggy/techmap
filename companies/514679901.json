@@ -6,21 +6,26 @@
   "logoFile": "logos/stemrad-logo.webp",
   "websiteUrl": "https://stemrad.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "stemrad-inc",
+  "linkedinNum": 3505511,
   "crunchbaseId": null,
+  "ivcId": "A1000000001730",
   "finderId": "stemrad",
   "xId": "stemrad",
+  "facebookId": "stemrad",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.107465,
-      "lon": 34.827939
+      "city": "תל אביב-יפו",
+      "lat": 32.1076014,
+      "lon": 34.8351888
     }
   ],
   "isMultinational": false,
-  "facebookId": "stemrad",
-  "linkedinNum": 3505511
+  "isActive": true
 }

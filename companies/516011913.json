@@ -3,14 +3,20 @@
   "description": "A system that tracks and maintains livestock health.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/tagim_investments-logo.webp",
+  "logoFile": "logos/tagim-logo.webp",
   "websiteUrl": "https://www.tagimtech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tagim",
+  "linkedinNum": 75037723,
   "crunchbaseId": "tagim",
+  "ivcId": null,
   "finderId": "tagim",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מעש",
@@ -20,5 +26,6 @@
       "lon": 35.2168482
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

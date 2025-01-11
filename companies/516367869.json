@@ -1,25 +1,31 @@
 {
   "name": "1MRobotics",
-  "description": "AI-Driven Retail Automation Solutions",
-  "categoryId": 5,
+  "description": "Xpand (formerly 1MRobotics) empowers retailers to grow their market footprint, build consumer loyalty, and access previously unreachable locations with an innovative retail format never seen before.",
+  "categoryId": 13,
   "size": "s",
   "logoFile": "logos/1mrobotics.webp",
-  "websiteUrl": "https://www.1mrobotics.com/",
+  "websiteUrl": "https://xpand.us",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 76104181,
   "crunchbaseId": null,
+  "ivcId": "A1000000347419",
   "finderId": "1mrobotics",
   "xId": "1MRobotics",
   "facebookId": "p",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הזרם",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.050400258062616,
-      "lon": 34.765962852711446
+      "city": "תל אביב-יפו",
+      "lat": 32.0501824,
+      "lon": 34.7659669
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

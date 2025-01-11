@@ -6,21 +6,26 @@
   "logoFile": "logos/omnisol_information_systems-logo.webp",
   "websiteUrl": "https://www.omnisol.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "omnisol",
+  "linkedinNum": 2607072,
   "crunchbaseId": null,
+  "ivcId": "A1000000021026",
   "finderId": "omnisol",
   "xId": null,
+  "facebookId": "omnisol.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כלניות",
+      "street": "הכלניות",
       "houseNumber": 7,
-      "city": "קריית טבעון",
-      "lat": 32.72215728632251,
-      "lon": 35.12891206236021
+      "city": "קרית טבעון",
+      "lat": 32.7220505,
+      "lon": 35.1289381
     }
   ],
   "isMultinational": false,
-  "facebookId": "omnisol.co.il",
-  "linkedinNum": 2607072
+  "isActive": true
 }

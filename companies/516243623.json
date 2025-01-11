@@ -6,11 +6,17 @@
   "logoFile": "logos/purebi-logo.webp",
   "websiteUrl": "https://pure.bi/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "purebi",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נדבה יוסף",
@@ -20,5 +26,6 @@
       "lon": 34.85120661699933
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

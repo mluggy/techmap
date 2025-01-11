@@ -6,21 +6,26 @@
   "logoFile": "logos/crymbo_technologies-logo.webp",
   "websiteUrl": "https://www.crymbo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "crymbo",
+  "linkedinNum": 18830460,
   "crunchbaseId": "crymbo",
+  "ivcId": "A1000000282819",
   "finderId": "crymbo",
   "xId": null,
+  "facebookId": "Crymbo-100305174839509",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 98,
-      "city": "תל אביב - יפו",
-      "lat": 32.0700073,
-      "lon": 34.794193699999994
+      "street": "כרמיה",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.0709631,
+      "lon": 34.7792844
     }
   ],
   "isMultinational": false,
-  "facebookId": "Crymbo-100305174839509",
-  "linkedinNum": 18830460
+  "isActive": true
 }

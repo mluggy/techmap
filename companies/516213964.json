@@ -1,16 +1,22 @@
 {
   "name": "Gomake",
-  "description": "SaaS MIS for The Global Printing Market",
+  "description": "SaaS MIS for The Global Printing Market.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/gomake-logo.webp",
   "websiteUrl": "https://gomake.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gomakeldt",
+  "linkedinNum": 80986809,
   "crunchbaseId": null,
+  "ivcId": "A1000000398403",
   "finderId": "gomake",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך העצמאות",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80986809
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/tritone_technologies-logo.webp",
   "websiteUrl": "https://tritoneam.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tritone-technologies",
+  "linkedinNum": 28791055,
   "crunchbaseId": null,
+  "ivcId": "A1000000306348",
   "finderId": "tritone-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
-      "houseNumber": 1,
-      "city": "ראש העין",
-      "lat": 32.09668,
-      "lon": 34.9066455
+      "street": "העמל",
+      "houseNumber": 12,
+      "city": "הוד השרון",
+      "lat": 32.1569724,
+      "lon": 34.8887164
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28791055
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/serenus_ai-logo.webp",
   "websiteUrl": "https://serenusai.com/",
   "careersUrl": "https://serenusai.com/careers",
-  "isHiring": true,
   "linkedinId": "serenus-ai",
+  "linkedinNum": 12992715,
   "crunchbaseId": null,
+  "ivcId": "A1000000224698",
   "finderId": "Serenus-AI",
   "xId": "SerenusAI",
+  "facebookId": "SerenusAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רופא המחתרות",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.100789,
-      "lon": 34.784355
+      "city": "תל אביב-יפו",
+      "lat": 32.1008122,
+      "lon": 34.784366
     }
   ],
   "isMultinational": false,
-  "facebookId": "SerenusAI",
-  "linkedinNum": 12992715
+  "isActive": true
 }

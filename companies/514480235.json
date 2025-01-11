@@ -1,16 +1,22 @@
 {
   "name": "Innovo Mimetics",
-  "description": "Chick Embryo Testing Platform for Cancer Treatments.",
+  "description": "Innovo Mimetics operates in the field of personalized medicine specializing in anti-cancer therapy efficacy assays in the chick egg tumor xenograft model.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/innovo_mimetics-logo.webp",
-  "websiteUrl": "https://www.researchranking.org/?action=partner&p=dUZu",
+  "websiteUrl": "http://www.innovomimetics.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "innovo-mimetics",
+  "ivcId": "A1000000022973",
   "finderId": "innovo-mimetics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפלמ\"ח",
@@ -20,5 +26,6 @@
       "lon": 35.2058051
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

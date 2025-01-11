@@ -1,16 +1,22 @@
 {
   "name": "Medtronic",
   "description": "Providing comprehensive resources and support for individuals and caregivers navigating the diabetes journey.",
-  "size": "l",
   "categoryId": 12,
+  "size": "l",
   "logoFile": "logos/medtronic_trading-logo.webp",
   "websiteUrl": "https://www.medtronic.com",
   "careersUrl": "https://www.medtronic.com/us-en/our-company/careers.html",
-  "isHiring": true,
   "linkedinId": "medtronic",
+  "linkedinNum": 1841,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "medtronic",
   "xId": "Medtronic",
+  "facebookId": "Medtronic",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -20,7 +26,6 @@
       "lon": 34.81337011654139
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Medtronic",
-  "linkedinNum": 1841
+  "isMultinational": false,
+  "isActive": true
 }

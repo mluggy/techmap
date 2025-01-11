@@ -1,0 +1,31 @@
+{
+  "name": "CityAll",
+  "description": "CityAll is an innovative online platform, designed for municipalities to manage and rent out public facilities, streamlining the booking process - thereby maximizing asset utilization to improve public satisfaction and generate additional revenues.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/cityall-logo.webp",
+  "websiteUrl": "https://mycityall.com",
+  "careersUrl": null,
+  "linkedinId": "cityall",
+  "linkedinNum": 102514189,
+  "crunchbaseId": null,
+  "ivcId": "A1000000477966",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הסירה",
+      "houseNumber": 7,
+      "city": "כפר ויתקין",
+      "lat": 32.3876461,
+      "lon": 34.8802049
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

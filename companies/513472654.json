@@ -6,19 +6,26 @@
   "logoFile": "logos/compuhedge-logo.webp",
   "websiteUrl": "https://www.compuhedge.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "compuhedge",
+  "linkedinNum": 51992040,
   "crunchbaseId": "compuhedge",
+  "ivcId": "A1000000006079",
   "finderId": "compuhedge",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סילבר אבא הלל",
+      "street": "אבא הלל סילבר",
       "houseNumber": 18,
       "city": "לוד",
-      "lat": 31.9640065,
-      "lon": 34.8998617
+      "lat": 31.9390066,
+      "lon": 34.8494531
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

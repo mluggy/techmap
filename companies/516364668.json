@@ -6,20 +6,26 @@
   "logoFile": "logos/pheno_ai-logo.webp",
   "websiteUrl": "https://www.pheno.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pheno-ai",
+  "linkedinNum": 90230192,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pheno-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 90,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.068323,
       "lon": 34.786754
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90230192
+  "isActive": true
 }

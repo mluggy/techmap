@@ -6,21 +6,26 @@
   "logoFile": "logos/bluebird_aero_systems-logo.webp",
   "websiteUrl": "https://bluebird-uav.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bluebird-aero-systems-ltd-",
+  "linkedinNum": 3077622,
   "crunchbaseId": null,
+  "ivcId": "A1000000005343",
   "finderId": "bluebird-aero-systems",
   "xId": "BluebirdAeroSys",
+  "facebookId": "BluebirdUAV",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השיטה",
-      "houseNumber": 4,
-      "city": "מ.א. עמק חפר",
-      "lat": 32.3289832,
-      "lon": 34.8806989
+      "street": "המתכת",
+      "houseNumber": 8,
+      "city": "קדימה צורן",
+      "lat": 32.2761077,
+      "lon": 34.9228147
     }
   ],
   "isMultinational": false,
-  "facebookId": "BluebirdUAV",
-  "linkedinNum": 3077622
+  "isActive": true
 }

@@ -6,22 +6,26 @@
   "logoFile": "logos/neogames_systems-logo.webp",
   "websiteUrl": "https://neogames.com/",
   "careersUrl": "https://neogames.com/careers-neogames/",
-  "isHiring": true,
   "linkedinId": "neogames",
+  "linkedinNum": 215379,
   "crunchbaseId": "neogames-technologies",
+  "ivcId": null,
   "finderId": "neogames-technologies",
   "xId": "iLottery_NG",
+  "facebookId": "NeoGames-444258718952410",
+  "breezyId": null,
+  "comeetId": "neogames/16.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.107131,
       "lon": 34.837026
     }
   ],
   "isMultinational": false,
-  "facebookId": "NeoGames-444258718952410",
-  "linkedinNum": 215379,
-  "comeetId": "neogames/16.00C"
+  "isActive": true
 }

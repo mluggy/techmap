@@ -6,21 +6,26 @@
   "logoFile": "logos/pickspace-logo.webp",
   "websiteUrl": "https://pickspace.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 12956747,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pickspace",
   "xId": "_pickspace_",
+  "facebookId": "pickspace",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הירשנברג",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.082916,
       "lon": 34.774566
     }
   ],
   "isMultinational": false,
-  "facebookId": "pickspace",
-  "linkedinNum": 12956747
+  "isActive": true
 }

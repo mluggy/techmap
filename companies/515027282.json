@@ -6,21 +6,26 @@
   "logoFile": "logos/valerann-logo.webp",
   "websiteUrl": "https://www.valerann.com/",
   "careersUrl": "https://www.valerann.com/careers",
-  "isHiring": true,
   "linkedinId": "valerann",
+  "linkedinNum": 10830189,
   "crunchbaseId": null,
+  "ivcId": "A1000000224208",
   "finderId": "valerann",
   "xId": "VALERANN_LTD",
+  "facebookId": "VALERANNLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוקן",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.051553,
-      "lon": 34.771982
+      "city": "תל אביב-יפו",
+      "lat": 32.0509009,
+      "lon": 34.7715214
     }
   ],
   "isMultinational": false,
-  "facebookId": "VALERANNLTD",
-  "linkedinNum": 10830189
+  "isActive": true
 }

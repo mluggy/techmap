@@ -6,21 +6,26 @@
   "logoFile": "logos/fundbox-logo.webp",
   "websiteUrl": "https://fundbox.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2933801,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "fundbox",
   "xId": "fundbox",
+  "facebookId": "Fundbox",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הלוי",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.061625,
       "lon": 34.772982
     }
   ],
   "isMultinational": false,
-  "facebookId": "Fundbox",
-  "linkedinNum": 2933801
+  "isActive": true
 }

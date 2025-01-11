@@ -6,11 +6,17 @@
   "logoFile": "logos/importify-logo.webp",
   "websiteUrl": "https://www.importify.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "importify",
   "xId": null,
+  "facebookId": "importifyapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההגנה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "importifyapp"
+  "isActive": true
 }

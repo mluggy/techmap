@@ -6,20 +6,26 @@
   "logoFile": "logos/citrusx-logo.webp",
   "websiteUrl": "https://www.citrusx.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "citrusx",
+  "linkedinNum": 76572605,
   "crunchbaseId": null,
+  "ivcId": "A1000000371697",
   "finderId": "citrusx",
   "xId": "CitrusXAI",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הלסינקי",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
-      "lat": 32.085214,
-      "lon": 34.792585
+      "city": "תל אביב-יפו",
+      "lat": 32.085412,
+      "lon": 34.792521
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76572605
+  "isActive": true
 }

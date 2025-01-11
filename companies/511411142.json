@@ -6,11 +6,17 @@
   "logoFile": "logos/novo_nordisk_ltd-logo.webp",
   "websiteUrl": "https://www.novonordisk.com/",
   "careersUrl": "https://www.novonordisk.com/careers.html",
-  "isHiring": true,
   "linkedinId": "novo-nordisk",
+  "linkedinNum": 2227,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "novo-nordisk",
   "xId": "novonordisk",
+  "facebookId": "novonordisk",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -20,7 +26,6 @@
       "lon": 34.9281644
     }
   ],
-  "isMultinational": true,
-  "facebookId": "novonordisk",
-  "linkedinNum": 2227
+  "isMultinational": false,
+  "isActive": true
 }

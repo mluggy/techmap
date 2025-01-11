@@ -3,14 +3,29 @@
   "description": "They create innovative infra-red CMOS sensing systems for various applications, including IoT for produce, smartphones, and smart homes, with technology capable of detecting gas concentrations at parts-per-billion levels.",
   "categoryId": 16,
   "size": "xs",
-  "logoFile": "logos/todos_technologies-logo.webp",
+  "logoFile": "logos/todos-technologies-logo.webp",
   "websiteUrl": "https://www.todos-technologies.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "todos-technologies",
+  "linkedinNum": 69715155,
   "crunchbaseId": null,
+  "ivcId": "A1000000390488",
   "finderId": "todos-technologies",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "כנרת",
+      "houseNumber": 12,
+      "city": "קרית שדה תעופה",
+      "lat": 31.9905786,
+      "lon": 34.9098699
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

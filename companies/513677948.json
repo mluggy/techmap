@@ -6,21 +6,26 @@
   "logoFile": "logos/pet_novations-logo.webp",
   "websiteUrl": "https://www.catgenie.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "petnovations",
+  "linkedinNum": 72418869,
   "crunchbaseId": null,
+  "ivcId": "A1000000002085",
   "finderId": "petnovations",
   "xId": "catgenie",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפרחים",
-      "houseNumber": 5,
-      "city": "כפר מל\"ל",
-      "lat": 32.1678528,
-      "lon": 34.8938559
+      "street": "העלייה",
+      "houseNumber": 11,
+      "city": "תל אביב-יפו",
+      "lat": 32.0597666,
+      "lon": 34.7738801
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 72418869
+  "isActive": true
 }

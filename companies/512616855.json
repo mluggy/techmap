@@ -6,20 +6,26 @@
   "logoFile": "logos/entrosys_ltd-logo.webp",
   "websiteUrl": "https://entrosys.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "entrosys",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מודיליאני",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.080869,
       "lon": 34.78421
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages"
+  "isActive": true
 }

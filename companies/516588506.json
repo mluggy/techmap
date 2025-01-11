@@ -6,20 +6,26 @@
   "logoFile": "logos/amplifair-logo.webp",
   "websiteUrl": "https://www.amplifair.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "amplifair-company",
+  "linkedinNum": 95184012,
   "crunchbaseId": null,
+  "ivcId": "A1000000391282",
   "finderId": "amplifair",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פרנץ קפקא",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.127782,
-      "lon": 34.834539
+      "street": "חיים לבנון",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.1078239,
+      "lon": 34.8018067
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 95184012
+  "isActive": true
 }

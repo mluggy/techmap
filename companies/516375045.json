@@ -6,20 +6,26 @@
   "logoFile": "logos/deskfirst-logo.webp",
   "websiteUrl": "https://www.deskfirst.com/",
   "careersUrl": "https://www.deskfirst.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 71826473,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "deskfirst",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ישראל טל",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064379,
       "lon": 34.782815
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71826473
+  "isActive": true
 }

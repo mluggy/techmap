@@ -1,16 +1,22 @@
 {
   "name": "Vanywhere",
-  "description": "Platform for Connecting Content Creators with Their Fans",
+  "description": "Platform for Connecting Content Creators with Their Fans.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/vanywhere-logo.webp",
   "websiteUrl": "https://vanywhere.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vanywhere",
+  "linkedinNum": 17960525,
   "crunchbaseId": null,
+  "ivcId": "A1000000237295",
   "finderId": "vanywhere",
   "xId": "vVanywhere",
+  "facebookId": "vVanywhere",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבא הלל סילבר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "vVanywhere",
-  "linkedinNum": 17960525
+  "isActive": true
 }

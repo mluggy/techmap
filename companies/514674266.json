@@ -1,0 +1,31 @@
+{
+  "name": "Yoola",
+  "description": "Yoola is a media company specializing in expert financial solutions for influencers (CSP - Creator Service Provider), and it's one of the largest official YouTube partner networks in the world.",
+  "categoryId": 8,
+  "size": "m",
+  "logoFile": "logos/yoola-logo.webp",
+  "websiteUrl": "https://www.yoola.com",
+  "careersUrl": null,
+  "linkedinId": "yoola-media",
+  "linkedinNum": 10932367,
+  "crunchbaseId": null,
+  "ivcId": "A1000000222788",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 2,
+      "city": "יוקנעם עילית",
+      "lat": 32.6624558,
+      "lon": 35.1049443
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

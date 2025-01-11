@@ -6,20 +6,26 @@
   "logoFile": "logos/dermadetect-logo.webp",
   "websiteUrl": "https://dermadetect.com/",
   "careersUrl": "https://www.dermadetect.com/jobs.aspx",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "dermadetect",
+  "linkedinNum": 10901178,
   "crunchbaseId": null,
+  "ivcId": "A1000000193505",
   "finderId": "dermadetect",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אופנהיימר",
-      "houseNumber": 4,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.9104321,
-      "lon": 34.8058374
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10901178
+  "isActive": true
 }

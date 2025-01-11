@@ -6,11 +6,17 @@
   "logoFile": "logos/eplane_ltd-logo.webp",
   "websiteUrl": "https://www.eplane.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "eplaneai",
+  "linkedinNum": 17873928,
   "crunchbaseId": "eplane",
+  "ivcId": null,
   "finderId": "eplane",
   "xId": "eplanemarket",
+  "facebookId": "ePlaneMarket",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ePlaneMarket",
-  "linkedinNum": 17873928
+  "isActive": true
 }

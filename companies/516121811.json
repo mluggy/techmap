@@ -6,21 +6,26 @@
   "logoFile": "logos/torq_technologies-logo.webp",
   "websiteUrl": "https://torq.io/",
   "careersUrl": "https://torq.io/careers/",
-  "isHiring": true,
   "linkedinId": "torqio",
+  "linkedinNum": 64511369,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "stackpulse",
   "xId": "torq_io",
+  "facebookId": "torqhq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066645,
       "lon": 34.78582
     }
   ],
   "isMultinational": false,
-  "facebookId": "torqhq",
-  "linkedinNum": 64511369
+  "isActive": true
 }

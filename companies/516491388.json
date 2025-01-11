@@ -1,26 +1,31 @@
 {
   "name": "Ritual",
-  "description": "Skill-building App for Relationships",
+  "description": "Skill-building App for Relationships.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/ritual_health_technologies-logo.webp",
   "websiteUrl": "https://www.heyritual.com/",
   "careersUrl": "https://ritual.co/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "ritual-relationships",
+  "linkedinNum": 72688766,
   "crunchbaseId": null,
+  "ivcId": "A1000000380508",
   "finderId": "ritual",
   "xId": "hey_ritual",
+  "facebookId": "heyritual",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד סמאטס",
+      "street": "שדרות סמאטס",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.091951,
-      "lon": 34.789343
+      "city": "תל אביב-יפו",
+      "lat": 32.0919694,
+      "lon": 34.7893482
     }
   ],
   "isMultinational": false,
-  "facebookId": "heyritual",
-  "linkedinNum": 72688766
+  "isActive": true
 }

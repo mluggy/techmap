@@ -6,11 +6,17 @@
   "logoFile": "logos/hargol_foodtech-logo.webp",
   "websiteUrl": "https://hargol.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "steak-tzartzar",
+  "linkedinNum": 10010653,
   "crunchbaseId": null,
+  "ivcId": "A1000000202144",
   "finderId": "steak-tzartzar",
   "xId": "HargolFoodTech",
+  "facebookId": "HargolFoodTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "HargolFoodTech",
-  "linkedinNum": 10010653
+  "isActive": true
 }

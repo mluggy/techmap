@@ -1,26 +1,31 @@
 {
   "name": "Dialogue",
-  "description": "AI-powered E-commerce Personalization Platform",
+  "description": "AI-powered E-commerce Personalization Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/dialogue_center_for_inter_cultural_meetings-logo.webp",
   "websiteUrl": "https://nowdialogue.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nowdialogue",
+  "linkedinNum": 19077084,
   "crunchbaseId": null,
+  "ivcId": "A1000000306281",
   "finderId": "dialogue",
   "xId": "nowdialogue1",
+  "facebookId": "nowdialogue",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכרכום",
-      "houseNumber": 12,
-      "city": "זכרון יעקב",
-      "lat": 32.58871645,
-      "lon": 34.95206715
+      "street": "המסגר",
+      "houseNumber": 39,
+      "city": "תל אביב-יפו",
+      "lat": 32.0657506,
+      "lon": 34.7860288
     }
   ],
   "isMultinational": false,
-  "facebookId": "nowdialogue",
-  "linkedinNum": 19077084
+  "isActive": true
 }

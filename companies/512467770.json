@@ -1,25 +1,31 @@
 {
   "name": "STI",
-  "description": "Technological Solutions for Civil Defense Forces",
+  "description": "Technological Solutions for Civil Defense Forces.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/s-t-i.webp",
   "websiteUrl": "https://www.sti-ltd.org",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000002532",
   "finderId": "s-t-i",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
-      "houseNumber": 0,
-      "city": "גמזו",
-      "lat": 31.927139865350618,
-      "lon": 34.94112334820598
+      "houseNumber": null,
+      "city": "שפיים",
+      "lat": 32.216586,
+      "lon": 34.822409
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

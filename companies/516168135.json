@@ -6,11 +6,17 @@
   "logoFile": "logos/remilk-logo.webp",
   "websiteUrl": "https://www.remilk.com/",
   "careersUrl": "https://www.remilk.com/careers",
-  "isHiring": true,
   "linkedinId": "remilk",
+  "linkedinNum": 42351653,
   "crunchbaseId": null,
+  "ivcId": "A1000000313409",
   "finderId": "remilk",
   "xId": "Remilk_Foods",
+  "facebookId": "remilkfoods",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "remilkfoods",
-  "linkedinNum": 42351653
+  "isActive": true
 }

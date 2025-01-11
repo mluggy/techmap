@@ -1,16 +1,22 @@
 {
   "name": "E.S.I Novel",
-  "description": "Smart Skin-rejuvenation System",
+  "description": "ESI Novel designs and develops innovative medical aesthetic skin care products.",
   "categoryId": 12,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/e_s_i_novel-logo.webp",
-  "websiteUrl": "https://www.joli-360.com/",
+  "websiteUrl": "https://www.essence-grp.com/expertise/skincare",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "e-s-i-novel?trk=ppro_cprof",
+  "linkedinNum": 37775886,
   "crunchbaseId": null,
+  "ivcId": "A1000000303269",
   "finderId": "j-li360",
   "xId": "Joli_360",
+  "facebookId": "esinovelbyessence",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "esinovelbyessence",
-  "linkedinNum": 37775886
+  "isActive": true
 }

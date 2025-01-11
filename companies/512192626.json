@@ -1,26 +1,31 @@
 {
   "name": "Psik",
-  "description": "Digital Library for Hebrew Books & Journals",
+  "description": "PSik has specialized in developing solutions for OEMs and VARs in the digital color printing market.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/psik_solutions-logo.webp",
-  "websiteUrl": "https://psik.io/",
-  "careersUrl": "https://psi-k.net/jobs/",
-  "isHiring": true,
-  "linkedinId": null,
+  "websiteUrl": "http://www.psik.com",
+  "careersUrl": null,
+  "linkedinId": "psik-solutions",
+  "linkedinNum": 11748623,
   "crunchbaseId": null,
+  "ivcId": "A1000000004171",
   "finderId": "psik",
   "xId": null,
+  "facebookId": "Psikbooks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בזלת צור יגאל",
+      "street": "בזלת",
       "houseNumber": 14,
-      "city": "צור יגאל",
-      "lat": 32.2179505,
-      "lon": 34.9827171
+      "city": "כוכב יאיר צור יגאל",
+      "lat": 32.2184056,
+      "lon": 34.9816177
     }
   ],
   "isMultinational": false,
-  "facebookId": "Psikbooks",
-  "linkedinNum": 11748623
+  "isActive": true
 }

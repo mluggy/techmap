@@ -1,25 +1,31 @@
 {
   "name": "P.N.Y Delivered",
-  "description": "Purpose-built Electric Cargo Scooter",
-  "categoryId": 5,
+  "description": "PNY develops Ponie, an electric scooter with several features.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/p_n_y_delivered-logo.webp",
-  "websiteUrl": "https://www.ponydelivered.com/",
+  "websiteUrl": "https://www.ridepny.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ridepny",
+  "linkedinNum": 2272717006,
   "crunchbaseId": null,
+  "ivcId": "A1000000400583",
   "finderId": "p-n-y-delivered",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הסביון",
-      "houseNumber": 1,
-      "city": "קדימה",
-      "lat": 32.275537257484245,
-      "lon": 34.917199875090624
+      "street": null,
+      "houseNumber": null,
+      "city": "קדימה צורן",
+      "lat": 32.2779191,
+      "lon": 34.9112736
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2272717006
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/montier_software_2015-logo.webp",
   "websiteUrl": "https://mon-tier.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "montier-software",
+  "linkedinNum": 10485474,
   "crunchbaseId": "montier",
+  "ivcId": "A1000000221620",
   "finderId": "montier-software",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן גוריון דוד",
-      "houseNumber": 11,
-      "city": "בני ברק",
-      "lat": 32.0938961,
-      "lon": 34.8226531
+      "street": "שדרות רוטשילד",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0628278,
+      "lon": 34.7703544
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10485474
+  "isActive": true
 }

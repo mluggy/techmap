@@ -6,11 +6,17 @@
   "logoFile": "logos/shutterfly_israel-logo.webp",
   "websiteUrl": "https://www.shutterfly.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "shutterfly",
+  "linkedinNum": 165949,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "shutterfly",
   "xId": "Shutterfly",
+  "facebookId": "shutterfly",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פלי\"ם",
@@ -20,7 +26,6 @@
       "lon": 35.0051941
     }
   ],
-  "isMultinational": true,
-  "facebookId": "shutterfly",
-  "linkedinNum": 165949
+  "isMultinational": false,
+  "isActive": true
 }

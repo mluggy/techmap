@@ -1,0 +1,31 @@
+{
+  "name": "Bthere2",
+  "description": "Bthere2 is a business networking platform that provides users an opportunity to meet other like-minded professionals whose profile matches their professional and personal profile, during a business trip, vacation, conference or even at the airport while waiting for a flight.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/bthere2-logo.webp",
+  "websiteUrl": "https://www.bthere2.com",
+  "careersUrl": null,
+  "linkedinId": "bthere2",
+  "linkedinNum": 35429419,
+  "crunchbaseId": null,
+  "ivcId": "A1000000275684",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רח' האתרוג",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1763551,
+      "lon": 34.849721
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

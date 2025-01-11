@@ -1,0 +1,31 @@
+{
+  "name": "Cellxpert",
+  "description": "CellXpert specializes on mobile technologies and advanced on-line advertising tools.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/cellxpert-logo.webp",
+  "websiteUrl": "https://www.cellxpert.com",
+  "careersUrl": "https://www.cellxpert.com/career",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009416",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השרון",
+      "houseNumber": 14,
+      "city": "תל אביב-יפו",
+      "lat": 32.0625522,
+      "lon": 34.779495
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

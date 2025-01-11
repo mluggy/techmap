@@ -1,26 +1,31 @@
 {
   "name": "radd.",
-  "description": "Ecommerce Platform for Influencer Engagement",
+  "description": "Ecommerce Platform for Influencer Engagement.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/radd_stories-logo.webp",
   "websiteUrl": "https://raddcontent.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "radd.",
+  "linkedinNum": 18011867,
   "crunchbaseId": null,
+  "ivcId": "A1000000242781",
   "finderId": "radd",
   "xId": null,
+  "facebookId": "raddcontent",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנמל",
-      "houseNumber": 28,
-      "city": "חיפה",
-      "lat": 32.8191508,
-      "lon": 35.0004706
+      "street": "אחד העם",
+      "houseNumber": 54,
+      "city": "תל אביב-יפו",
+      "lat": 32.0645518,
+      "lon": 34.7741245
     }
   ],
   "isMultinational": false,
-  "facebookId": "raddcontent",
-  "linkedinNum": 18011867
+  "isActive": true
 }

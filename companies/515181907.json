@@ -6,21 +6,26 @@
   "logoFile": "logos/nexar-logo.webp",
   "websiteUrl": "https://www.getnexar.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nexar-inc-",
+  "linkedinNum": 10460529,
   "crunchbaseId": null,
+  "ivcId": "A1000000182388",
   "finderId": "nexar",
   "xId": "getnexar",
+  "facebookId": "getnexar",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 58,
-      "city": "תל אביב - יפו",
-      "lat": 32.060334,
-      "lon": 34.782124
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
     }
   ],
   "isMultinational": false,
-  "facebookId": "getnexar",
-  "linkedinNum": 10460529
+  "isActive": true
 }

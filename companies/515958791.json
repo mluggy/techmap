@@ -1,0 +1,31 @@
+{
+  "name": "SwellConnection",
+  "description": "SwellConnection is a web platform that connects surfers and surf photographers from all around the world.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/swellconnection-logo.webp",
+  "websiteUrl": "https://swellco.me/home",
+  "careersUrl": null,
+  "linkedinId": "swellconnection",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000337674",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אשתורי הפרחי",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.0905124,
+      "lon": 34.7804576
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,19 +6,26 @@
   "logoFile": "logos/papayoma-logo.webp",
   "websiteUrl": "https://papayoma.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "papayoma",
+  "linkedinNum": 71762542,
   "crunchbaseId": null,
+  "ivcId": "A1000000217859",
   "finderId": "papayona",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המסילה",
-      "houseNumber": 22,
-      "city": "נשר",
-      "lat": 32.7826767,
-      "lon": 35.0355585
+      "street": "חטיבת כרמלי",
+      "houseNumber": 52,
+      "city": "כרמיאל",
+      "lat": 32.9037226,
+      "lon": 35.2814552
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

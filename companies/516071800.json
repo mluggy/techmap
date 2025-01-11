@@ -1,25 +1,31 @@
 {
   "name": "Heven Drones",
-  "description": "Hydrogen Powered Heavy Lift Drones",
+  "description": "Hydrogen Powered Heavy Lift Drones.",
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/heven-drones.webp",
   "websiteUrl": "https://www.hevendrones.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "hevendrones",
   "linkedinNum": 66594772,
   "crunchbaseId": null,
+  "ivcId": "A1000000327043",
   "finderId": "heven-drones",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
-      "houseNumber": 0,
-      "city": "מ.א. מגידו",
-      "lat": 32.58063214302278,
-      "lon": 35.17989392394938
+      "houseNumber": null,
+      "city": "עין העמק",
+      "lat": 32.6194652,
+      "lon": 35.074018
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

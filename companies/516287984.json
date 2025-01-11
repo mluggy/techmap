@@ -6,20 +6,26 @@
   "logoFile": "logos/curatio_dl-logo.webp",
   "websiteUrl": "https://curatiodl.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "curatio-dl",
+  "linkedinNum": 71231732,
   "crunchbaseId": "curatio-dl",
+  "ivcId": "A1000000377633",
   "finderId": "curatiodl",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.0736302,
-      "lon": 34.7963872
+      "city": "תל אביב-יפו",
+      "lat": 32.073741,
+      "lon": 34.7957641
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71231732
+  "isActive": true
 }

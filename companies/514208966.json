@@ -6,21 +6,26 @@
   "logoFile": "logos/vascular_graft_solutions-logo.webp",
   "websiteUrl": "https://graftsolutions.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vascular-graft-solutions",
+  "linkedinNum": 10110013,
   "crunchbaseId": null,
+  "ivcId": "A1000000010000",
   "finderId": "vascular-graft-solutions",
   "xId": "graft_solutions",
+  "facebookId": "vasculargraftsolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.111205,
-      "lon": 34.8388694
+      "city": "תל אביב-יפו",
+      "lat": 32.1112424,
+      "lon": 34.8389386
     }
   ],
   "isMultinational": false,
-  "facebookId": "vasculargraftsolutions",
-  "linkedinNum": 10110013
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/theator_il-logo.webp",
   "websiteUrl": "https://www.theator.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 14035734,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "theator",
   "xId": "mytheator",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066331,
       "lon": 34.786433
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14035734
+  "isActive": true
 }

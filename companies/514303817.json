@@ -1,0 +1,31 @@
+{
+  "name": "Tavger",
+  "description": "Tavger is a company developing new technology for skin intraductal solution delivery.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/tavger-logo.webp",
+  "websiteUrl": "http://www.tavger.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000269947",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלונים",
+      "houseNumber": 4,
+      "city": "קצרין",
+      "lat": 32.990426,
+      "lon": 35.6885329
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

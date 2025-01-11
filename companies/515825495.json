@@ -6,21 +6,26 @@
   "logoFile": "logos/madgicx-logo.webp",
   "websiteUrl": "https://madgicx.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "madgicxnow",
+  "linkedinNum": 18942953,
   "crunchbaseId": null,
+  "ivcId": "A1000000294153",
   "finderId": "madgicx",
   "xId": "madgicx",
+  "facebookId": "madgicxdotcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "משכית",
+      "street": "המנופים",
       "houseNumber": 10,
       "city": "הרצליה",
-      "lat": 32.1659266,
-      "lon": 34.8115576
+      "lat": 32.1595829,
+      "lon": 34.8083893
     }
   ],
   "isMultinational": false,
-  "facebookId": "madgicxdotcom",
-  "linkedinNum": 18942953
+  "isActive": true
 }

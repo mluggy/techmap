@@ -6,21 +6,26 @@
   "logoFile": "logos/prisma_photonics-logo.webp",
   "websiteUrl": "https://www.prismaphotonics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "prisma-photonics",
+  "linkedinNum": 18509605,
   "crunchbaseId": null,
+  "ivcId": "A1000000273840",
   "finderId": "prisma-photonics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "prismaphotonics/18.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' רוקח",
+      "street": "שדרות רוקח",
       "houseNumber": 97,
-      "city": "תל אביב - יפו",
-      "lat": 32.1043282,
-      "lon": 34.8088651
+      "city": "תל אביב-יפו",
+      "lat": 32.1035633,
+      "lon": 34.807601
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18509605,
-  "comeetId": "prismaphotonics/18.00C"
+  "isActive": true
 }

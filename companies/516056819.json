@@ -1,25 +1,31 @@
 {
   "name": "bit",
-  "description": "P2P Mobile Payment Solution",
-  "categoryId": 10,
-  "size": "xs",
+  "description": "CoCyles is developing bit – a contextual search engine platform for code.",
+  "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/bit_bridge-logo.webp",
-  "websiteUrl": "https://www.bitpay.co.il",
+  "websiteUrl": "https://bit.dev",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "co-cycles",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000184162",
   "finderId": "bit1",
   "xId": null,
+  "facebookId": "bit.poalim",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הירקון",
-      "houseNumber": 250,
-      "city": "תל אביב - יפו",
-      "lat": 32.092414,
-      "lon": 34.773467
+      "street": "שלמה אבן גבירול",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.0745892,
+      "lon": 34.7820664
     }
   ],
   "isMultinational": false,
-  "facebookId": "bit.poalim"
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/undoit_medical-logo.webp",
   "websiteUrl": "https://www.ornish.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "undoit-medical",
+  "ivcId": null,
   "finderId": "undoit-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +25,7 @@
       "lat": 32.6582887,
       "lon": 35.09782995411932
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

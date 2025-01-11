@@ -6,20 +6,26 @@
   "logoFile": "logos/baromar-logo.webp",
   "websiteUrl": "https://www.baro-mar.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "baromar",
+  "linkedinNum": 64025199,
   "crunchbaseId": null,
+  "ivcId": "A1000000407046",
   "finderId": "baromar",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רופין",
-      "houseNumber": null,
-      "city": "כפר מונש",
-      "lat": 32.3447877,
-      "lon": 34.9085397
+      "street": "הכובשים",
+      "houseNumber": 90,
+      "city": "זכרון יעקב",
+      "lat": 32.567951,
+      "lon": 34.9519547
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64025199
+  "isActive": true
 }

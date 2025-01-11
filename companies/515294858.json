@@ -1,0 +1,31 @@
+{
+  "name": "BeNear",
+  "description": "BeNear is a revolutionary P2P geofencing platform which enables various communities to collaborate and solve daily needs in a trusted environment.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/benear-logo.webp",
+  "websiteUrl": "https://benear.app",
+  "careersUrl": null,
+  "linkedinId": "benear",
+  "linkedinNum": 28492475,
+  "crunchbaseId": null,
+  "ivcId": "A1000000203516",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 25,
+      "city": "תל אביב-יפו",
+      "lat": 32.1095277,
+      "lon": 34.8400878
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

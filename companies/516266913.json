@@ -6,11 +6,17 @@
   "logoFile": "logos/roundrack-logo.webp",
   "websiteUrl": "https://www.roundrack.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "roundrack",
+  "linkedinNum": 65696433,
   "crunchbaseId": "roundrack",
+  "ivcId": null,
   "finderId": "roundrack",
   "xId": null,
+  "facebookId": "roundrack",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חטיבת גבעתי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "roundrack",
-  "linkedinNum": 65696433
+  "isActive": true
 }

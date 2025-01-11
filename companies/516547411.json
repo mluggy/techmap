@@ -1,0 +1,31 @@
+{
+  "name": "Ubi",
+  "description": "Ubi is a data-driven e-Grocery platform specializing in fulfilling large basket orders to meet consumers' everyday needs, boasting an expansive assortment that spans various product categories.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/ubi-logo.webp",
+  "websiteUrl": "https://www.ubi.shopping",
+  "careersUrl": null,
+  "linkedinId": "ubishopping",
+  "linkedinNum": 81353861,
+  "crunchbaseId": null,
+  "ivcId": "A1000000469109",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ג'ת פדלה",
+      "houseNumber": null,
+      "city": "ג'ת",
+      "lat": 32.4019427,
+      "lon": 35.0390969
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

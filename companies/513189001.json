@@ -1,0 +1,31 @@
+{
+  "name": "DCS Medical",
+  "description": "DCS Medical is a developer and provider of endoscopic equipment for minimally invasive surgery (MIS).",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/dcs_medical-logo.webp",
+  "websiteUrl": "http://www.dcsmedical.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000007771",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הסדנא",
+      "houseNumber": 11,
+      "city": "רעננה",
+      "lat": 32.1946764,
+      "lon": 34.8793394
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

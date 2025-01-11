@@ -6,11 +6,17 @@
   "logoFile": "logos/medallia_digital-logo.webp",
   "websiteUrl": "https://www.medallia.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 49697,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "medallia-digital",
   "xId": "medallia",
+  "facebookId": "MedalliaInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -20,7 +26,6 @@
       "lon": 34.80164595917552
     }
   ],
-  "isMultinational": true,
-  "facebookId": "MedalliaInc",
-  "linkedinNum": 49697
+  "isMultinational": false,
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "Platform for Investigations Powered by Data Analysis.",
   "categoryId": 1,
   "size": "s",
-  "logoFile": "logos/falkor_vision-logo.webp",
+  "logoFile": "logos/falkor-vision-logo.webp",
   "websiteUrl": "https://falkor.ai/",
   "careersUrl": "https://falkor.ai/about-us/careers/",
-  "isHiring": true,
   "linkedinId": "falkorai",
+  "linkedinNum": 80771813,
   "crunchbaseId": "falkor-7c9e",
+  "ivcId": "A1000000409607",
   "finderId": "falkor-vision",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +25,7 @@
       "lat": 32.08501775,
       "lon": 34.80164595917552
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

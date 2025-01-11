@@ -6,21 +6,26 @@
   "logoFile": "logos/datarails_ltd-logo.webp",
   "websiteUrl": "https://www.datarails.com/",
   "careersUrl": "https://www.datarails.com/careers/",
-  "isHiring": true,
   "linkedinId": "datarails",
+  "linkedinNum": 10519133,
   "crunchbaseId": null,
+  "ivcId": "A1000000211416",
   "finderId": "datarails",
   "xId": "datarails",
+  "facebookId": "datarails",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 152,
-      "city": "תל אביב - יפו",
-      "lat": 32.079241,
-      "lon": 34.795072
+      "street": "השלושה",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
     }
   ],
   "isMultinational": false,
-  "facebookId": "datarails",
-  "linkedinNum": 10519133
+  "isActive": true
 }

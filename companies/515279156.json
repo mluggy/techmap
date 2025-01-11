@@ -6,20 +6,26 @@
   "logoFile": "logos/ela_pharma-logo.webp",
   "websiteUrl": "https://www.elapharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ela-pharma",
+  "linkedinNum": 18221536,
   "crunchbaseId": "ela-pharma",
+  "ivcId": "A1000000236299",
   "finderId": "ela-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דולצ'ין אריה",
-      "houseNumber": 16,
-      "city": "תל אביב - יפו",
-      "lat": 32.120351,
-      "lon": 34.792533
+      "street": "דולצ'ין",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.1197463,
+      "lon": 34.7923239
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18221536
+  "isActive": true
 }

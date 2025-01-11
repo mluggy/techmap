@@ -1,16 +1,22 @@
 {
   "name": "Aviv Scientific",
-  "description": "Cognitive and Functional Decline Treatment Solutions",
+  "description": "Cognitive and Functional Decline Treatment Solutions.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/aviv_scientific-logo.webp",
   "websiteUrl": "https://aviv-clinics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aviv-scientific",
+  "linkedinNum": 30126895,
   "crunchbaseId": null,
+  "ivcId": "A1000000352365",
   "finderId": "aviv-scientific",
   "xId": "AvivScientific",
+  "facebookId": "AvivClinics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ניל\"י",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AvivClinics",
-  "linkedinNum": 30126895
+  "isActive": true
 }

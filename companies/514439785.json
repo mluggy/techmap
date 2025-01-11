@@ -6,21 +6,26 @@
   "logoFile": "logos/quicklizard-logo.webp",
   "websiteUrl": "https://www.quicklizard.com/",
   "careersUrl": "https://quicklizard.com/careers/",
-  "isHiring": false,
   "linkedinId": "quicklizard",
+  "linkedinNum": 2688975,
   "crunchbaseId": "quicklizard",
+  "ivcId": "A1000000010052",
   "finderId": "quicklizard",
   "xId": "QuicklizardCom",
+  "facebookId": "QLplatform",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יצחק רבין",
+      "street": "יצחק רבין",
       "houseNumber": 1,
-      "city": "פתח תקווה",
-      "lat": 32.09045669913413,
-      "lon": 34.861816528862335
+      "city": "אור יהודה",
+      "lat": 32.0269321,
+      "lon": 34.8683862
     }
   ],
   "isMultinational": false,
-  "facebookId": "QLplatform",
-  "linkedinNum": 2688975
+  "isActive": true
 }

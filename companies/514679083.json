@@ -6,21 +6,26 @@
   "logoFile": "logos/radlogics-logo.webp",
   "websiteUrl": "https://www.radlogics.com/",
   "careersUrl": "https://www.radlogics.com/careers/",
-  "isHiring": true,
   "linkedinId": "radlogics",
+  "linkedinNum": 4831585,
   "crunchbaseId": null,
+  "ivcId": "A1000000172235",
   "finderId": "radlogics",
   "xId": "radlogics",
+  "facebookId": "radlogics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' רוקח",
-      "houseNumber": 101,
-      "city": "תל אביב - יפו",
-      "lat": 32.1053566,
-      "lon": 34.811018495092924
+      "street": "גבעת התחמושת",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.0725137,
+      "lon": 34.7943041
     }
   ],
   "isMultinational": false,
-  "facebookId": "radlogics",
-  "linkedinNum": 4831585
+  "isActive": true
 }

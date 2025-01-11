@@ -1,16 +1,22 @@
 {
   "name": "Alpha Omega",
-  "description": "Functional Neurosurgery and Neuroscience Research Solutions",
+  "description": "Functional Neurosurgery and Neuroscience Research Solutions.",
   "categoryId": 12,
   "size": "l",
   "logoFile": "logos/alpha_omega_engineering-logo.webp",
   "websiteUrl": "https://www.alphaomega-eng.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "alpha-omega",
+  "linkedinNum": 54004,
   "crunchbaseId": null,
+  "ivcId": "A1000000006919",
   "finderId": "alpha-omega",
   "xId": "alphaomegaeng",
+  "facebookId": "AlphaOmegaEngineering",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרכבה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AlphaOmegaEngineering",
-  "linkedinNum": 54004
+  "isActive": true
 }

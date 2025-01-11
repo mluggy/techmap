@@ -6,11 +6,17 @@
   "logoFile": "logos/altair_engineering_israel-logo.webp",
   "websiteUrl": "https://altair.com/",
   "careersUrl": "https://altair.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 8323,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "altair1",
   "xId": "altair_inc",
+  "facebookId": "altairengineering",
+  "breezyId": null,
+  "comeetId": "altair-semi/88.003",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצמיחה",
@@ -20,8 +26,6 @@
       "lon": 35.107009
     }
   ],
-  "isMultinational": true,
-  "facebookId": "altairengineering",
-  "linkedinNum": 8323,
-  "comeetId": "altair-semi/88.003"
+  "isMultinational": false,
+  "isActive": true
 }

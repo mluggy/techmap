@@ -6,11 +6,17 @@
   "logoFile": "logos/vhive_tech-logo.webp",
   "websiteUrl": "https://www.vhive.ai/",
   "careersUrl": "https://www.vhive.ai/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "vhive",
+  "linkedinNum": 10108173,
   "crunchbaseId": "vhive",
+  "ivcId": "A1000000200855",
   "finderId": "vhive",
   "xId": null,
+  "facebookId": "vHive-107033754422953",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המנופים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "vHive-107033754422953",
-  "linkedinNum": 10108173
+  "isActive": true
 }

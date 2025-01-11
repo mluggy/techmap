@@ -3,14 +3,20 @@
   "description": "A buccal extended-release tablet offering 93-96% inhibition of gingivitis-causing bacteria through an effective anti-inflammatory and antibacterial formulation.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/lasting_effect_consumer_pharma-logo.webp",
+  "logoFile": "logos/lasting-effect-consumer-pharma-logo.webp",
   "websiteUrl": "https://lasting-effect.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lasting-effect-consumer-pharma-ltd",
+  "linkedinNum": 96066801,
   "crunchbaseId": null,
+  "ivcId": "A1000000305410",
   "finderId": "lasting-effect-consumer-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בורנשטיין צבי",
@@ -19,5 +25,7 @@
       "lat": 30.9862484,
       "lon": 34.9330948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

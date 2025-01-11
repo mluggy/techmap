@@ -1,0 +1,31 @@
+{
+  "name": "MedHub",
+  "description": "MedHub-AI utilizes the power of AI and produces non-invasive diagnostic measures that provides cardiologists with clinical insight, enabling them to make educated, data-backed decisions regarding further patient care.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/medhub-logo.webp",
+  "websiteUrl": "https://www.medhub-ai.com",
+  "careersUrl": "https://www.medhub-ai.com/careers/",
+  "linkedinId": "medhub-ai",
+  "linkedinNum": 28141513,
+  "crunchbaseId": null,
+  "ivcId": "A1000000272972",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

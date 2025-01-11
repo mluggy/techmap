@@ -3,23 +3,29 @@
   "description": "They offer comprehensive solutions for large-scale castor cultivation, driving advancements in biobased materials.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/casterra_ag-logo.webp",
+  "logoFile": "logos/casterra-logo.webp",
   "websiteUrl": "https://casterra.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "casterra-ag",
+  "linkedinNum": 87444124,
   "crunchbaseId": null,
+  "ivcId": "A1000000010375",
   "finderId": "evofuel",
   "xId": null,
+  "facebookId": "evogene123",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פינשטיין",
-      "houseNumber": 13,
-      "city": "רחובות",
-      "lat": 31.8999536,
-      "lon": 34.79146377703995
+      "street": "פיינשטיין",
+      "houseNumber": null,
+      "city": "גבעת ברנר",
+      "lat": 31.8646325,
+      "lon": 34.8034207
     }
   ],
   "isMultinational": false,
-  "facebookId": "evogene123"
+  "isActive": true
 }

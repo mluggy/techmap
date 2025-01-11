@@ -1,16 +1,22 @@
 {
   "name": "Metabomed",
-  "description": "Target-inhibiting Anticancer Drugs",
+  "description": "Target-inhibiting Anticancer Drugs.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/metabomed-logo.webp",
   "websiteUrl": "https://www.metabomed.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "metabomed-ltd-",
+  "linkedinNum": 9341600,
   "crunchbaseId": null,
+  "ivcId": "A1000000024820",
   "finderId": "metabomed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקישון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 9341600
+  "isActive": true
 }

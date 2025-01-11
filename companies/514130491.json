@@ -6,22 +6,26 @@
   "logoFile": "logos/jfrog-logo.webp",
   "websiteUrl": "https://jfrog.com/",
   "careersUrl": "https://join.jfrog.com/",
-  "isHiring": true,
   "linkedinId": "jfrog-ltd",
+  "linkedinNum": 455737,
   "crunchbaseId": null,
+  "ivcId": "A1000000010048",
   "finderId": "jfrog",
   "xId": "jfrog",
+  "facebookId": "artifrog",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "jfrog",
+  "leverId": null,
   "addresses": [
     {
-      "street": "המחשב",
-      "houseNumber": 3,
+      "street": "הרצל",
+      "houseNumber": 28,
       "city": "נתניה",
-      "lat": 32.288215199999996,
-      "lon": 34.86509507625543
+      "lat": 32.3283202,
+      "lon": 34.8570342
     }
   ],
   "isMultinational": false,
-  "facebookId": "artifrog",
-  "linkedinNum": 455737,
-  "greenhouseId": "jfrog"
+  "isActive": true
 }

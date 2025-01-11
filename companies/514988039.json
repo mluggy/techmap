@@ -6,21 +6,26 @@
   "logoFile": "logos/flytrex_aviation-logo.webp",
   "websiteUrl": "https://www.flytrex.com/",
   "careersUrl": "https://www.flytrex.com/careers",
-  "isHiring": true,
   "linkedinId": "flytrex",
+  "linkedinNum": 7948675,
   "crunchbaseId": null,
+  "ivcId": "A1000000182300",
   "finderId": "flytrex",
   "xId": "flytrexcom",
+  "facebookId": "flytrex",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מונטיפיורי",
       "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.065888,
-      "lon": 34.773888
+      "city": "תל אביב-יפו",
+      "lat": 32.065849,
+      "lon": 34.7739466
     }
   ],
   "isMultinational": false,
-  "facebookId": "flytrex",
-  "linkedinNum": 7948675
+  "isActive": true
 }

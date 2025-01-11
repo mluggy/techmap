@@ -6,20 +6,26 @@
   "logoFile": "logos/dairycs_automatic_milking-logo.webp",
   "websiteUrl": "https://www.dairycs.com/",
   "careersUrl": "https://www.dairycs.com/careers",
-  "isHiring": true,
   "linkedinId": "dairycs",
+  "linkedinNum": 72119465,
   "crunchbaseId": "dairyionics",
+  "ivcId": "A1000000290875",
   "finderId": "dairyionics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
       "houseNumber": 24,
       "city": "ראש העין",
-      "lat": 32.0970131,
-      "lon": 34.9105972
+      "lat": 32.1067426,
+      "lon": 34.9709049
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72119465
+  "isActive": true
 }

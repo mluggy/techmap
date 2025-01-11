@@ -6,11 +6,17 @@
   "logoFile": "logos/weebit_nano-logo.webp",
   "websiteUrl": "https://www.weebit-nano.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "weebit-nano",
+  "linkedinNum": 27170606,
   "crunchbaseId": null,
+  "ivcId": "A1000000216545",
   "finderId": "weebit-nano",
   "xId": "weebit_nano",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27170606
+  "isActive": true
 }

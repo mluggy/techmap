@@ -6,21 +6,26 @@
   "logoFile": "logos/clone_space-logo.webp",
   "websiteUrl": "https://www.applydesign.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "applydesign",
+  "linkedinNum": 18728699,
   "crunchbaseId": null,
+  "ivcId": "A1000000260060",
   "finderId": "clone",
   "xId": null,
+  "facebookId": "ApplyDesign.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "טשרניחובסקי",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.0712934,
-      "lon": 34.7708558
+      "street": "שוקן",
+      "houseNumber": 27,
+      "city": "תל אביב-יפו",
+      "lat": 32.0511696,
+      "lon": 34.7722925
     }
   ],
   "isMultinational": false,
-  "facebookId": "ApplyDesign.io",
-  "linkedinNum": 18728699
+  "isActive": true
 }

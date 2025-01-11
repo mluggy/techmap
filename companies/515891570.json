@@ -6,21 +6,26 @@
   "logoFile": "logos/firebolt_analytics-logo.webp",
   "websiteUrl": "https://www.firebolt.io/",
   "careersUrl": "https://www.firebolt.io/careers",
-  "isHiring": true,
   "linkedinId": "firebolt",
+  "linkedinNum": 40719957,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "firebolt",
   "xId": "FireboltHQ",
+  "facebookId": "firebolthq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064654,
       "lon": 34.785584
     }
   ],
   "isMultinational": false,
-  "facebookId": "firebolthq",
-  "linkedinNum": 40719957
+  "isActive": true
 }

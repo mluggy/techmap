@@ -6,21 +6,26 @@
   "logoFile": "logos/the_seventh_dimension_ltd-logo.webp",
   "websiteUrl": "https://the7d.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "the-seventh-dimension",
+  "linkedinNum": 3518115,
   "crunchbaseId": null,
+  "ivcId": "A1000000024206",
   "finderId": "seventh-dimension",
   "xId": "The7thDimensio1",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מדינת היהודים",
-      "houseNumber": 103,
+      "street": "המדע",
+      "houseNumber": 8,
       "city": "הרצליה",
-      "lat": 32.1682575,
-      "lon": 34.8033651
+      "lat": 32.1658004,
+      "lon": 34.8132357
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 3518115
+  "isActive": true
 }

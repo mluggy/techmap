@@ -6,11 +6,17 @@
   "logoFile": "logos/carbon_twist-logo.webp",
   "websiteUrl": "https://www.carbontwist.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000424554",
   "finderId": "carbon-twist",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חצב",
@@ -19,5 +25,7 @@
       "lat": 31.8789037,
       "lon": 34.7271615
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

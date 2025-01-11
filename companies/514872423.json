@@ -6,21 +6,26 @@
   "logoFile": "logos/sensilize-logo.webp",
   "websiteUrl": "https://sensilize.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sensilize",
+  "linkedinNum": 5313962,
   "crunchbaseId": null,
+  "ivcId": "A1000000176823",
   "finderId": "sensilize",
   "xId": "sensilize",
+  "facebookId": "Sensilize",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ספיר פנחס",
-      "houseNumber": 8,
-      "city": "נס ציונה",
-      "lat": 31.9148938,
-      "lon": 34.8040759
+      "street": "יהודה לייב פינסקר",
+      "houseNumber": 70,
+      "city": "פתח תקווה",
+      "lat": 32.09737,
+      "lon": 34.8818463
     }
   ],
   "isMultinational": false,
-  "facebookId": "Sensilize",
-  "linkedinNum": 5313962
+  "isActive": true
 }

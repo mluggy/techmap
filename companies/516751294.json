@@ -3,14 +3,20 @@
   "description": "Developing groundbreaking AI-driven platforms for designing proteins from scratch.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/denovai_biotech-logo.webp",
+  "logoFile": "logos/denovai-biotech-logo.webp",
   "websiteUrl": "https://denovai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "denovai",
+  "linkedinNum": 93381246,
   "crunchbaseId": null,
+  "ivcId": "A1000000422331",
   "finderId": "denovai-biotech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -19,5 +25,7 @@
       "lat": 31.9104321,
       "lon": 34.8058374
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

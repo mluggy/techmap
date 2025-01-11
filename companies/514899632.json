@@ -6,11 +6,17 @@
   "logoFile": "logos/semperis-logo.webp",
   "websiteUrl": "https://www.semperis.com/",
   "careersUrl": "https://www.semperis.com/careers/",
-  "isHiring": true,
   "linkedinId": "semperis",
+  "linkedinNum": 3219131,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "semperis",
   "xId": "SemperisTech",
+  "facebookId": "SemperisTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוהם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SemperisTech",
-  "linkedinNum": 3219131
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Nexocarp",
-  "description": "Sustainable Microencapsulation Technology",
+  "description": "Sustainable Microencapsulation Technology.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/nexocarp-logo.webp",
   "websiteUrl": "https://www.nexocarp.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nexocarp",
+  "linkedinNum": 71731776,
   "crunchbaseId": null,
+  "ivcId": "A1000000368766",
   "finderId": "nexocarp",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היי-טק פארק גבעת רם",
+      "street": null,
       "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.80308325980522,
-      "lon": 35.20985974657241
+      "lat": 31.7742708,
+      "lon": 35.2007044
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71731776
+  "isActive": true
 }

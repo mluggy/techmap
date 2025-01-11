@@ -6,20 +6,26 @@
   "logoFile": "logos/dentstorm-logo.webp",
   "websiteUrl": "https://www.dentstorm.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2813202,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dentstorm",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבינא",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.121458000000004,
       "lon": 34.79956838004566
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2813202
+  "isActive": true
 }

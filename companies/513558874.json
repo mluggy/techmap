@@ -1,25 +1,31 @@
 {
   "name": "B.L. Advanced Ground Support Systems",
-  "description": "Specialized Military Vehicles and Missile Launchers",
+  "description": "Specialized Military Vehicles and Missile Launchers.",
   "categoryId": 3,
   "size": "s",
   "logoFile": "logos/b_l_advanced_ground_support_systems-logo.webp",
   "websiteUrl": "https://www.bl-il.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bl-advanced-systems",
+  "linkedinNum": 846500,
   "crunchbaseId": null,
+  "ivcId": "A1000000234524",
   "finderId": "b-l-advance-ground-support-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יסמין",
-      "houseNumber": 50,
-      "city": "אריאל",
-      "lat": 32.21456531797494,
-      "lon": 34.99228305853814
+      "street": "הסיבים",
+      "houseNumber": 18,
+      "city": "פתח תקווה",
+      "lat": 32.0884756,
+      "lon": 34.8565391
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 846500
+  "isActive": true
 }

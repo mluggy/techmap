@@ -1,16 +1,22 @@
 {
   "name": "Adenza",
   "description": "Comprehensive solutions that streamline trading, treasury, risk management, and regulatory compliance to optimize investment and operational efficiency.",
-  "size": "xl",
   "categoryId": 10,
+  "size": "xl",
   "logoFile": "logos/adenza_israel-logo.webp",
   "websiteUrl": "https://www.axiomsl.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "adenza",
+  "linkedinNum": 75591392,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "adenza",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אגודת ספורט הפועל",
@@ -20,6 +26,6 @@
       "lon": 35.1850697
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 75591392
+  "isMultinational": false,
+  "isActive": true
 }

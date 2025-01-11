@@ -6,19 +6,26 @@
   "logoFile": "logos/spicerr-logo.webp",
   "websiteUrl": "https://spicerr.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "spicerr",
+  "linkedinNum": 66595264,
   "crunchbaseId": null,
+  "ivcId": "A1000000308757",
   "finderId": "spicerr",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקוביץ",
+      "street": "ברקוביץ'",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.078703,
-      "lon": 34.7870616
+      "city": "תל אביב-יפו",
+      "lat": 32.0785529,
+      "lon": 34.7869819
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

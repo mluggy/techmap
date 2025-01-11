@@ -6,20 +6,26 @@
   "logoFile": "logos/nest_health_tech-logo.webp",
   "websiteUrl": "https://www.nestgenomics.com/",
   "careersUrl": "https://www.nesthealth.com/careers",
-  "isHiring": true,
   "linkedinId": "nestwholefamilyhealth",
+  "linkedinNum": 78312740,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nest-health",
   "xId": "nestgenomics",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הערבה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07003,
       "lon": 34.786371
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78312740
+  "isActive": true
 }

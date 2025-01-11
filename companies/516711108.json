@@ -3,21 +3,29 @@
   "description": "Providing essential tools for application-layer visibility and control, ensuring the protection of mission-critical assets against significant attack vectors.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/miggo_security-logo.webp",
+  "logoFile": "logos/miggo-security-logo.webp",
   "websiteUrl": "https://www.miggo.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "miggo-security",
+  "linkedinNum": 101524769,
   "crunchbaseId": "miggo-security",
+  "ivcId": "A1000000464052",
   "finderId": "miggo-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "street": "מנחם בגין",
+      "houseNumber": 150,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322717
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/faception-logo.webp",
   "websiteUrl": "https://www.faception.com/",
   "careersUrl": "https://www.faception.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "faception",
+  "linkedinNum": 10588678,
   "crunchbaseId": null,
+  "ivcId": "A1000000190993",
   "finderId": "faception",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרקפת",
-      "houseNumber": 20,
-      "city": "עתלית",
-      "lat": 32.685362,
-      "lon": 34.9342023
+      "street": "שוקן",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.053194,
+      "lon": 34.7723811
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10588678
+  "isActive": true
 }

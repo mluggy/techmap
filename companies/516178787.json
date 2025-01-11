@@ -6,21 +6,26 @@
   "logoFile": "logos/aperio_systems_2020-logo.webp",
   "websiteUrl": "https://aperio.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "aperioai",
+  "linkedinNum": 10446579,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "aperio-systems",
   "xId": "Aperio_AI",
+  "facebookId": "aperiosys",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 33,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063827,
       "lon": 34.773396
     }
   ],
   "isMultinational": false,
-  "facebookId": "aperiosys",
-  "linkedinNum": 10446579
+  "isActive": true
 }

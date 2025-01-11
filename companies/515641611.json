@@ -6,11 +6,17 @@
   "logoFile": "logos/neuroindex-logo.webp",
   "websiteUrl": "https://alon-medtech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "neuroindex",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית תבור 2",
@@ -19,5 +25,7 @@
       "lat": 32.665530818580166,
       "lon": 35.10411800897265
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

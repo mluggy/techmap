@@ -1,16 +1,22 @@
 {
   "name": "Wonders Of Nature",
-  "description": "Meat Alternatives",
+  "description": "Meat Alternatives.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/wonders_of_nature_foodtech-logo.webp",
   "websiteUrl": "https://www.wondermeat.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000338063",
   "finderId": "wonders-of-nature",
   "xId": null,
+  "facebookId": "WondersOfNature.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החורשה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WondersOfNature.il"
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "AEBi",
+  "description": "AEBi is engaged in the discovery and development of therapeutic peptides.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/aebi-logo.webp",
+  "websiteUrl": "http://www.aebi-bio.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000006511",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "איינשטיין",
+      "houseNumber": 13,
+      "city": "נס ציונה",
+      "lat": 31.9163359,
+      "lon": 34.80494210000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,20 +6,26 @@
   "logoFile": "logos/produvia-logo.webp",
   "websiteUrl": "https://weavingthings.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "produvia-networks",
+  "linkedinNum": 5092901,
   "crunchbaseId": null,
+  "ivcId": "A1000000178021",
   "finderId": "produvia",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הלימון",
-      "houseNumber": 4,
-      "city": "קדימה",
-      "lat": 32.2699982,
-      "lon": 34.9169415
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.1135286,
+      "lon": 34.8432083
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5092901
+  "isActive": true
 }

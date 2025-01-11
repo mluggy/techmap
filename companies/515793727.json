@@ -1,0 +1,31 @@
+{
+  "name": "PayChecker",
+  "description": "PayChecker is helping people around the world by identifying and realizing their eligibility online through data extraction from databases.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/paychecker-logo.webp",
+  "websiteUrl": "https://www.paychecker.net",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000305211",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": null,
+      "lat": 31.046051,
+      "lon": 34.851612
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

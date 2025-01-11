@@ -6,21 +6,26 @@
   "logoFile": "logos/amazon-logo.webp",
   "websiteUrl": "https://www.amazon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "amazon",
+  "linkedinNum": 1586,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "amazon",
   "xId": "amazon",
+  "facebookId": "Amazon",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריב\"ל",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062477,
       "lon": 34.782957
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Amazon",
-  "linkedinNum": 1586
+  "isMultinational": false,
+  "isActive": true
 }

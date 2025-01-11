@@ -1,25 +1,31 @@
 {
   "name": "Alfa Rhythm",
-  "description": "Electro-biometric Stimulator for Depression, Anxiety, and Sleep Disorders",
+  "description": "Electro-biometric Stimulator for Depression, Anxiety, and Sleep Disorders.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/alfa_rhythm-logo.webp",
   "websiteUrl": "https://www.alfarhythm.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000229718",
   "finderId": "alfa-rhythm",
   "xId": null,
+  "facebookId": "AlfaRhythm4U",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חרושת",
       "houseNumber": 74,
       "city": "קריית ביאליק",
-      "lat": 32.80798736240189,
-      "lon": 35.05387493321824
+      "lat": 32.8692947,
+      "lon": 35.1002187
     }
   ],
   "isMultinational": false,
-  "facebookId": "AlfaRhythm4U"
+  "isActive": true
 }

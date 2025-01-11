@@ -6,11 +6,17 @@
   "logoFile": "logos/insuranks-logo.webp",
   "websiteUrl": "https://www.insuranks.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "insuranks",
+  "linkedinNum": 9444828,
   "crunchbaseId": "insuranks",
+  "ivcId": "A1000000255938",
   "finderId": "insuranks",
   "xId": "insuranks2",
+  "facebookId": "Insuranks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הלוי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Insuranks",
-  "linkedinNum": 9444828
+  "isActive": true
 }

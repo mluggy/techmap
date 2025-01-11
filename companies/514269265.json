@@ -6,21 +6,26 @@
   "logoFile": "logos/applicaster-logo.webp",
   "websiteUrl": "https://www.applicaster.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "applicaster-ltd",
+  "linkedinNum": 1425277,
   "crunchbaseId": null,
+  "ivcId": "A1000000021568",
   "finderId": "applicaster",
   "xId": "Applicaster",
+  "facebookId": "applicaster",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
+      "street": "שלמה אבן גבירול",
       "houseNumber": 124,
-      "city": "תל אביב - יפו",
-      "lat": 32.0869162,
-      "lon": 34.7822126
+      "city": "תל אביב-יפו",
+      "lat": 32.0867596,
+      "lon": 34.7825374
     }
   ],
   "isMultinational": false,
-  "facebookId": "applicaster",
-  "linkedinNum": 1425277
+  "isActive": true
 }

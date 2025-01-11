@@ -6,21 +6,26 @@
   "logoFile": "logos/galmed_pharmaceuticals-logo.webp",
   "websiteUrl": "https://galmedpharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 895646,
   "crunchbaseId": null,
+  "ivcId": "A1000000002327",
   "finderId": "galmed-pharmaceuticals",
   "xId": "GalmedPharma",
+  "facebookId": "Galmed-Pharmaceuticals-Ltd-822556341133446",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טיומקין",
       "houseNumber": 16,
-      "city": "תל אביב - יפו",
-      "lat": 32.063888,
-      "lon": 34.779221
+      "city": "תל אביב-יפו",
+      "lat": 32.0638794,
+      "lon": 34.7792602
     }
   ],
   "isMultinational": false,
-  "facebookId": "Galmed-Pharmaceuticals-Ltd-822556341133446",
-  "linkedinNum": 895646
+  "isActive": true
 }

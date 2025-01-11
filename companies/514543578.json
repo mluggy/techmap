@@ -6,11 +6,17 @@
   "logoFile": "logos/feedvisor-logo.webp",
   "websiteUrl": "https://feedvisor.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1202146,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "feedvisor",
   "xId": "feedvisor",
+  "facebookId": "feedvisor",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "feedvisor",
-  "linkedinNum": 1202146
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/codefuel-logo.webp",
   "websiteUrl": "https://www.codefuel.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "codefuel",
+  "linkedinNum": 3490231,
   "crunchbaseId": null,
+  "ivcId": "A1000000301327",
   "finderId": "codefuel",
   "xId": "Code_Fuel",
+  "facebookId": "codefuel.dev",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרוקמים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "codefuel.dev",
-  "linkedinNum": 3490231
+  "isActive": true
 }

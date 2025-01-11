@@ -3,22 +3,29 @@
   "description": "A cutting-edge waste heat engine that transforms power generators into efficient, sustainable energy solutions.",
   "categoryId": 17,
   "size": "s",
-  "logoFile": "logos/luminescent_heat_engine-logo.webp",
+  "logoFile": "logos/luminescent-logo.webp",
   "websiteUrl": "https://luminescentpower.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "luminescentpower",
+  "linkedinNum": 64696961,
   "crunchbaseId": null,
+  "ivcId": "A1000000299086",
   "finderId": "luminescent",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקת",
-      "houseNumber": 7,
-      "city": "קיסריה",
-      "lat": 32.4879578,
-      "lon": 34.9068162
+      "street": "יצחק שדה",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0651359,
+      "lon": 34.7856827
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

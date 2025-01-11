@@ -6,20 +6,26 @@
   "logoFile": "logos/trusstor_technologies-logo.webp",
   "websiteUrl": "https://trusstor.com/",
   "careersUrl": "https://trusstor.com/careers/",
-  "isHiring": true,
   "linkedinId": "trusstor",
+  "linkedinNum": 15821284,
   "crunchbaseId": "trusstor",
+  "ivcId": "A1000000306559",
   "finderId": "trusstor1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארלוזורוב",
-      "houseNumber": 160,
-      "city": "תל אביב - יפו",
-      "lat": 32.083714,
-      "lon": 34.788033
+      "houseNumber": 111,
+      "city": "תל אביב-יפו",
+      "lat": 32.0844608,
+      "lon": 34.7867992
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 15821284
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "An app designed to safeguard kids from online threats.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/keepers_child_safety-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/keepers-child-safety-logo.webp",
+  "websiteUrl": "https://keepers.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "keepers-child-safety",
+  "linkedinNum": 10681874,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "keepers-child-safety",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מדינת היהודים",
@@ -19,5 +25,7 @@
       "lat": 32.1666999,
       "lon": 34.8099066
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

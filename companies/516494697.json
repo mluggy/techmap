@@ -6,18 +6,26 @@
   "logoFile": "logos/pvml-logo.webp",
   "websiteUrl": "https://pvml.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pvml",
+  "linkedinNum": 80339147,
   "crunchbaseId": null,
+  "ivcId": "A1000000382448",
   "finderId": "pvml",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אשתורי הפרחי",
       "houseNumber": 16,
-      "city": "תל אביב - יפו",
-      "lat": 32.090073,
-      "lon": 34.780402
+      "city": "תל אביב-יפו",
+      "lat": 32.0901539,
+      "lon": 34.7803258
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

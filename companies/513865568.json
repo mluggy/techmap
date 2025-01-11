@@ -1,24 +1,31 @@
 {
   "name": "AC/DC_net",
-  "description": "Client-side Security",
+  "description": "Client-side Security.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/masterkey_digital-logo.webp",
   "websiteUrl": "https://masterkey-digital.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000021939",
   "finderId": "masterkey",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בגין מנחם",
-      "houseNumber": 9,
-      "city": "רעננה",
-      "lat": 32.1937023,
-      "lon": 34.8496561
+      "street": "נחליאל",
+      "houseNumber": 17,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689114,
+      "lon": 34.7672884
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

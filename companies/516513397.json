@@ -6,18 +6,26 @@
   "logoFile": "logos/ingonyama-logo.webp",
   "websiteUrl": "https://www.ingonyama.com/",
   "careersUrl": "https://www.ingonyama.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "ingonyama",
+  "linkedinNum": 51196422,
   "crunchbaseId": null,
+  "ivcId": "A1000000420875",
   "finderId": "ingonyama",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יצחק רבין",
+      "street": "יצחק רבין",
       "houseNumber": 1,
-      "city": "פתח תקווה",
-      "lat": 32.090447609524915,
-      "lon": 34.86179507114961
+      "city": "קרית אונו",
+      "lat": 32.0659526,
+      "lon": 34.8639277
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

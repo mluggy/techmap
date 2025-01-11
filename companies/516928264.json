@@ -1,0 +1,31 @@
+{
+  "name": "Pulsetech",
+  "description": "Pulsetech is developing an innovative implantable neurostimulation (IPG) that will stop or slow the progression of serious neurological diseases, such as Parkinson's disease.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pulsetech-logo.webp",
+  "websiteUrl": "https://www.pulsets.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000494495",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אל כורום",
+      "houseNumber": 25,
+      "city": "נצרת",
+      "lat": 32.7058647,
+      "lon": 35.288699
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

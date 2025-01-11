@@ -6,21 +6,26 @@
   "logoFile": "logos/materials_zone_technologies-logo.webp",
   "websiteUrl": "https://www.materials.zone/",
   "careersUrl": "https://www.materials.zone/careers",
-  "isHiring": true,
   "linkedinId": "materials-zone",
+  "linkedinNum": 18398299,
   "crunchbaseId": null,
+  "ivcId": "A1000000247390",
   "finderId": "materials-zone",
   "xId": "materials_zone",
+  "facebookId": "Materials.Zone",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הבונים",
-      "houseNumber": 59,
-      "city": "קריית טבעון",
-      "lat": 32.7100652,
-      "lon": 35.1301676
+      "street": "החשמונאים",
+      "houseNumber": 103,
+      "city": "תל אביב-יפו",
+      "lat": 32.0695959,
+      "lon": 34.784603
     }
   ],
   "isMultinational": false,
-  "facebookId": "Materials.Zone",
-  "linkedinNum": 18398299
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Rego",
+  "description": "Rego has developed a new tactical off-road vehicle, the Patrol-X Stealth, adapted to all types of terrain.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/rego-logo.webp",
+  "websiteUrl": "http://www.rego4x4.com",
+  "careersUrl": null,
+  "linkedinId": "rego-4x4",
+  "linkedinNum": 13022627,
+  "crunchbaseId": null,
+  "ivcId": "A1000000211144",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "מחניים",
+      "lat": 32.988845,
+      "lon": 35.570375
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

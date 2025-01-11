@@ -1,0 +1,31 @@
+{
+  "name": "Tiresias",
+  "description": "Tiresias is enhancing the ability to trust a foreign entity by providing the capability to assess compliance and etiquette for a relevant interaction.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/tiresias-logo.webp",
+  "websiteUrl": "https://tiresias.co",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000453453",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מעלה השיטה",
+      "houseNumber": 100,
+      "city": "בית זית",
+      "lat": 31.7797656,
+      "lon": 35.1640657
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

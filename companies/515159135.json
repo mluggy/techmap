@@ -1,16 +1,22 @@
 {
   "name": "HIGOAL",
-  "description": "A user-friendly smart home operating system designed for seamless integration and distributor opportunities.",
-  "categoryId": 13,
+  "description": "The HIGOAL Group Company is an innovative and ground-breaking leader in the field of smart home systems, with some 25 years of experience in the fields of electricity and electronics, specializing in wired and wireless smart home systems.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/higoal_group-logo.webp",
-  "websiteUrl": "https://www.higoal-group.com/",
+  "websiteUrl": "https://higoal.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "higoal",
+  "linkedinNum": 10577246,
   "crunchbaseId": null,
+  "ivcId": "A1000000362836",
   "finderId": "higoal",
   "xId": null,
+  "facebookId": "HIGOALgroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפטיש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "HIGOALgroup",
-  "linkedinNum": 10577246
+  "isActive": true
 }

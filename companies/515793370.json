@@ -6,21 +6,26 @@
   "logoFile": "logos/kirobo-logo.webp",
   "websiteUrl": "https://www.kirobo.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kirobo",
+  "linkedinNum": 26829496,
   "crunchbaseId": null,
+  "ivcId": "A1000000258559",
   "finderId": "kirobo",
   "xId": "kirobo5",
+  "facebookId": "kirobo.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב אפרים",
-      "houseNumber": 22,
-      "city": "רעננה",
-      "lat": 32.1796804,
-      "lon": 34.8865418
+      "street": "דרך מנחם בגין",
+      "houseNumber": 146,
+      "city": "תל אביב-יפו",
+      "lat": 32.0783301,
+      "lon": 34.7942863
     }
   ],
   "isMultinational": false,
-  "facebookId": "kirobo.io",
-  "linkedinNum": 26829496
+  "isActive": true
 }

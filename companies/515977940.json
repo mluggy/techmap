@@ -1,25 +1,31 @@
 {
   "name": "CannaRe",
-  "description": "Converting Agricultural Waste into Chemicals",
+  "description": "Converting Agricultural Waste into Chemicals.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/cannare_renewable_technologies-logo.webp",
   "websiteUrl": "https://canna-re.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "canna-re?trk=similar-pages",
+  "linkedinNum": 71491860,
   "crunchbaseId": null,
+  "ivcId": "A1000000371740",
   "finderId": "cannare",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ישראל מסלנט",
-      "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.050157,
-      "lon": 34.781591
+      "street": "בלבן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0492628,
+      "lon": 34.7786548
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71491860
+  "isActive": true
 }

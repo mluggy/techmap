@@ -6,11 +6,17 @@
   "logoFile": "logos/icapital_tech-logo.webp",
   "websiteUrl": "https://www.icapital-tech.com/",
   "careersUrl": "https://icapital.com/careers/",
-  "isHiring": true,
   "linkedinId": "icapital-network-inc",
+  "linkedinNum": 18391606,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "icapital-financial-solutions",
   "xId": null,
+  "facebookId": "iCapitalTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוטשילד",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "iCapitalTech",
-  "linkedinNum": 18391606
+  "isActive": true
 }

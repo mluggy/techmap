@@ -6,21 +6,26 @@
   "logoFile": "logos/comovid_group-logo.webp",
   "websiteUrl": "https://www.comovid.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "comovid",
+  "linkedinNum": 18301502,
   "crunchbaseId": "comovid",
+  "ivcId": "A1000000245947",
   "finderId": "comovid",
   "xId": "ComovidAi",
+  "facebookId": "comovid",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קשת מכבים רעות",
+      "street": "קשת",
       "houseNumber": 38,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.904312994135598,
-      "lon": 35.003922517530754
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8882103,
+      "lon": 35.0120233
     }
   ],
   "isMultinational": false,
-  "facebookId": "comovid",
-  "linkedinNum": 18301502
+  "isActive": true
 }

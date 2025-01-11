@@ -6,11 +6,17 @@
   "logoFile": "logos/nanna_apps-logo.webp",
   "websiteUrl": "https://www.nanna.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 17900621,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nanna",
   "xId": "nanna_ai",
+  "facebookId": "nannabot",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רייק חביבה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "nannabot",
-  "linkedinNum": 17900621
+  "isActive": true
 }

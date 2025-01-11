@@ -6,21 +6,26 @@
   "logoFile": "logos/referral_ai-logo.webp",
   "websiteUrl": "https://referral-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "referral-ai",
+  "linkedinNum": 28655616,
   "crunchbaseId": "acurerate",
+  "ivcId": "A1000000186024",
   "finderId": "acurerate",
   "xId": null,
+  "facebookId": "100066851721623",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אשכול לוי",
-      "houseNumber": 14,
-      "city": "רעננה",
-      "lat": 32.174312,
-      "lon": 34.8779869
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0800181,
+      "lon": 34.7998574
     }
   ],
   "isMultinational": false,
-  "facebookId": "100066851721623",
-  "linkedinNum": 28655616
+  "isActive": true
 }

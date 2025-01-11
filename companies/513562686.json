@@ -6,13 +6,26 @@
   "logoFile": "logos/amorphical-logo.webp",
   "websiteUrl": "https://www.amorphical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "amorphical",
+  "linkedinNum": 72009079,
   "crunchbaseId": null,
+  "ivcId": "A1000000005325",
   "finderId": "amorphical",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "amorphicure",
-  "linkedinNum": 72009079
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 11,
+      "city": "נס ציונה",
+      "lat": 31.9235972,
+      "lon": 34.8018009
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

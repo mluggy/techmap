@@ -6,21 +6,26 @@
   "logoFile": "logos/montfort_brain_monitor-logo.webp",
   "websiteUrl": "https://mon4t.com/",
   "careersUrl": "https://mon4t.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "montfort-brain-monitor",
+  "linkedinNum": 5024267,
   "crunchbaseId": null,
+  "ivcId": "A1000000023666",
   "finderId": "montfort-brain-monitor",
   "xId": null,
+  "facebookId": "Montfort-Brain-Monitor-101705538003912",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השומר",
-      "houseNumber": 82,
-      "city": "זכרון יעקב",
-      "lat": 32.56182595,
-      "lon": 34.95088005
+      "street": "הטחנה",
+      "houseNumber": 60,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.51263,
+      "lon": 34.94929
     }
   ],
   "isMultinational": false,
-  "facebookId": "Montfort-Brain-Monitor-101705538003912",
-  "linkedinNum": 5024267
+  "isActive": true
 }

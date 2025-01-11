@@ -1,25 +1,31 @@
 {
   "name": "Dream Security",
-  "description": "Cybersecurity Solutions for  Critical Assets",
+  "description": "Dream is providing a cybersecurity platform powered by advance AI technology in order to secure critical infrastructures endpoints, identities and data.",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/dream_security-logo.webp",
-  "websiteUrl": "https://www.dream-security.com/",
+  "websiteUrl": "https://www.dreamgroup.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dreamsecurity",
+  "linkedinNum": 86424758,
   "crunchbaseId": "dream-security-bc59",
+  "ivcId": "A1000000409358",
   "finderId": "dream-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רב אלוף דוד אלעזר",
+      "street": "אלוף דוד",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.0716815,
-      "lon": 34.7879342
+      "city": "רמת גן",
+      "lat": 32.0577636,
+      "lon": 34.8157979
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86424758
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/mdsg_innovation-logo.webp",
   "websiteUrl": "https://mdsg.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mdsg-innovation",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -20,5 +26,6 @@
       "lon": 34.8036757
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

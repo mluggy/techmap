@@ -1,0 +1,31 @@
+{
+  "name": "Believer Meats",
+  "description": "Believer Meats is a cultivated meat company pioneering the first scalable lab-grown meat production system that can feed the world.",
+  "categoryId": 17,
+  "size": "m",
+  "logoFile": "logos/believer-meats-logo.webp",
+  "websiteUrl": "https://www.believermeats.com",
+  "careersUrl": "https://www.believermeats.com/careers",
+  "linkedinId": "believermeats",
+  "linkedinNum": 18618681,
+  "crunchbaseId": null,
+  "ivcId": "A1000000255702",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מוטי קינד",
+      "houseNumber": 10,
+      "city": "רחובות",
+      "lat": 31.8946742,
+      "lon": 34.78940960000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

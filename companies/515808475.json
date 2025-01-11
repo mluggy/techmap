@@ -6,21 +6,26 @@
   "logoFile": "logos/getplace-logo.webp",
   "websiteUrl": "https://www.get-place.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18465374,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "getplace",
   "xId": "getplacemobile",
+  "facebookId": "GetPlaceIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפלך",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.050538,
       "lon": 34.766862
     }
   ],
   "isMultinational": false,
-  "facebookId": "GetPlaceIsrael",
-  "linkedinNum": 18465374
+  "isActive": true
 }

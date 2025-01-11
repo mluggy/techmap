@@ -3,21 +3,29 @@
   "description": "Offering advanced on-chip memory solutions that significantly reduce area and power consumption, enabling growth for AR/VR, ML, IoT, and automotive applications.",
   "categoryId": 16,
   "size": "s",
-  "logoFile": "logos/raaam_memory_technologies-logo.webp",
+  "logoFile": "logos/raaam-memory-technologies-logo.webp",
   "websiteUrl": "https://raaam-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "raaam",
+  "linkedinNum": 67210927,
   "crunchbaseId": null,
+  "ivcId": "A1000000471807",
   "finderId": "raaam-memory-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שחם",
       "houseNumber": 3,
       "city": "פתח תקווה",
-      "lat": 32.0843166,
-      "lon": 34.8584859
+      "lat": 32.0908255,
+      "lon": 34.8599026
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

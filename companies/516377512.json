@@ -1,25 +1,31 @@
 {
   "name": "Flare",
-  "description": "Video Gaming Studio",
+  "description": "Video Gaming Studio.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/flare_studios-logo.webp",
   "websiteUrl": "https://www.flare.stream/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "flare-studios-ltd",
+  "linkedinNum": 92736243,
   "crunchbaseId": null,
+  "ivcId": "A1000000337297",
   "finderId": "flare-1",
   "xId": "flare_stream",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
+      "street": "העצמאות",
       "houseNumber": 39,
-      "city": "חיפה",
-      "lat": 32.8228261,
-      "lon": 34.9943882
+      "city": "קרית אתא",
+      "lat": 32.8036729,
+      "lon": 35.1032094
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 92736243
+  "isActive": true
 }

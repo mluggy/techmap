@@ -1,0 +1,31 @@
+{
+  "name": "Hellocard",
+  "description": "W2P4U specializes in unique Business cards, which come bound in pads. The company offers a state-of-the-art innovative online ordering system for printed material.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/hellocard-logo.webp",
+  "websiteUrl": "http://www.w2p4u.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009194",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

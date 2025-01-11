@@ -1,26 +1,31 @@
 {
   "name": "Applicat",
-  "description": "Enterprise-level Delivery Logistics Platform",
+  "description": "Enterprise-level Delivery Logistics Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/applicat_technologies-logo.webp",
   "websiteUrl": "https://www.applicat.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "applicat",
+  "linkedinNum": 914325,
   "crunchbaseId": null,
+  "ivcId": "A1000000021657",
   "finderId": "applicat",
   "xId": "applicat_news",
+  "facebookId": "Applicat",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 31,
-      "city": "תל אביב - יפו",
-      "lat": 32.110287,
-      "lon": 34.841116
+      "city": "תל אביב-יפו",
+      "lat": 32.1104737,
+      "lon": 34.8410931
     }
   ],
   "isMultinational": false,
-  "facebookId": "Applicat",
-  "linkedinNum": 914325
+  "isActive": true
 }

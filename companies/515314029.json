@@ -1,16 +1,22 @@
 {
   "name": "Deep Learning Robotics",
-  "description": "Self-learning Robotic Controller",
+  "description": "Self-learning Robotic Controller.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/deep_learning_robotics-logo.webp",
   "websiteUrl": "https://www.dlrob.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "deep-learning-robotics",
+  "linkedinNum": 18155477,
   "crunchbaseId": null,
+  "ivcId": "A1000000214455",
   "finderId": "deep-learning-robotics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלמיש",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18155477
+  "isActive": true
 }

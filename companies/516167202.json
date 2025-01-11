@@ -6,20 +6,26 @@
   "logoFile": "logos/ironcomm-logo.webp",
   "websiteUrl": "https://www.ironcommunication.com/",
   "careersUrl": "https://www.ironcommunication.com/jobs",
-  "isHiring": true,
   "linkedinId": "ironcomm",
+  "linkedinNum": 28433976,
   "crunchbaseId": null,
+  "ivcId": "A1000000306484",
   "finderId": "ironcomm",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב משורר ישעיהו",
-      "houseNumber": 6,
-      "city": "פתח תקווה",
-      "lat": 32.0684004,
-      "lon": 34.9085639
+      "street": "בן נון",
+      "houseNumber": null,
+      "city": "רמת השרון",
+      "lat": 32.1422068,
+      "lon": 34.8398366
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28433976
+  "isActive": true
 }

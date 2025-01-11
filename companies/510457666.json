@@ -6,21 +6,26 @@
   "logoFile": "logos/unipharm-logo.webp",
   "websiteUrl": "https://www.unipharm.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 34220436,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "unipharm",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שבט שמעון",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.10822152859435,
       "lon": 34.80427346200784
     }
   ],
   "isMultinational": false,
-  "facebookId": "%D7%90%D7%95%D7%A0%D7%99%D7%A4%D7%90%D7%A8%D7%9D-%D7%A7%D7%A8%D7%99%D7%99%D7%A8%D7%94-UNP-210754212802928",
-  "linkedinNum": 34220436
+  "isActive": true
 }

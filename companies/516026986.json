@@ -1,26 +1,31 @@
 {
   "name": "Cynergy",
-  "description": "Attack Surface Management and Automated Remediation",
+  "description": "Attack Surface Management and Automated Remediation.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/cynergy_cybersecurity_2019-logo.webp",
   "websiteUrl": "https://cynergy.app",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cynergy-app",
+  "linkedinNum": 68816166,
   "crunchbaseId": null,
+  "ivcId": "A1000000333004",
   "finderId": "cynergy",
   "xId": "CynergyApp",
+  "facebookId": "cynergyapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלמליח",
-      "houseNumber": 5,
+      "street": "דרך בן גוריון",
+      "houseNumber": null,
       "city": "בת ים",
-      "lat": 32.0182492,
-      "lon": 34.7448224
+      "lat": 32.0186801,
+      "lon": 34.73900709999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "cynergyapp",
-  "linkedinNum": 68816166
+  "isActive": true
 }

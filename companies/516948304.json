@@ -1,0 +1,31 @@
+{
+  "name": "Newlight",
+  "description": "Newlight's mission is to accelerate the transition of the maritime industry to sustainable energy by making sustainable shipping affordable, generating renewable energy, and focusing on the current fleet with hydrogen integration.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/newlight-logo.webp",
+  "websiteUrl": "https://www.newlight.blue",
+  "careersUrl": "https://www.newlight.blue/careers",
+  "linkedinId": "thenewlight",
+  "linkedinNum": 97207996,
+  "crunchbaseId": null,
+  "ivcId": "A1000000477181",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 21,
+      "city": "חיפה",
+      "lat": 32.8181779,
+      "lon": 35.0012519
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

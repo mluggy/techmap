@@ -6,11 +6,17 @@
   "logoFile": "logos/marine_edge-logo.webp",
   "websiteUrl": "https://www.marine-edge.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "marine-edge",
+  "linkedinNum": 34901895,
   "crunchbaseId": "marine-edge",
+  "ivcId": "A1000000320694",
   "finderId": "marine-edge",
   "xId": null,
+  "facebookId": "MarineEdgeSustainability",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MarineEdgeSustainability",
-  "linkedinNum": 34901895
+  "isActive": true
 }

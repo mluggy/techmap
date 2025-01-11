@@ -3,14 +3,20 @@
   "description": "Specializing in cybersecurity, this company excels in mitigating risks and minimizing downtime to protect against ransomware and other threats.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/commvault_systems_israel_ltd-logo.webp",
+  "logoFile": "logos/commvault-logo.webp",
   "websiteUrl": "https://www.commvault.com/",
   "careersUrl": "https://careers.commvault.com/us/en/",
-  "isHiring": true,
   "linkedinId": "commvault",
+  "linkedinNum": 163166,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "commvault",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המפלסים",
@@ -20,5 +26,6 @@
       "lon": 34.8635276
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

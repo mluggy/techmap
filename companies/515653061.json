@@ -1,0 +1,31 @@
+{
+  "name": "Caleetech",
+  "description": "CaleeTech is a biotech startup specializing in providing novel solutions for obesity and diabetes (diabesity).",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/caleetech-logo.webp",
+  "websiteUrl": "https://caleetech.com",
+  "careersUrl": null,
+  "linkedinId": "caleetech",
+  "linkedinNum": 81832580,
+  "crunchbaseId": null,
+  "ivcId": "A1000000299751",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שאול",
+      "houseNumber": 33,
+      "city": "חיפה",
+      "lat": 32.7875375,
+      "lon": 35.0175952
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,11 +6,17 @@
   "logoFile": "logos/green_fleet-logo.webp",
   "websiteUrl": "https://www.greenfleetec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "green-fleet",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מצדה",
@@ -20,5 +26,6 @@
       "lon": 34.8251159
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/algahealth_ah-logo.webp",
   "websiteUrl": "https://alga-health.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "algahealth",
+  "linkedinNum": 13000366,
   "crunchbaseId": "algahealth",
+  "ivcId": "A1000000246799",
   "finderId": "algahealth",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברקוביץ",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.078703,
       "lon": 34.7870616
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13000366
+  "isActive": true
 }

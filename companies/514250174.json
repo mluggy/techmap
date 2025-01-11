@@ -1,16 +1,22 @@
 {
   "name": "Keyrus",
   "description": "We focus on employee empowerment, prioritizing their needs and career growth through attentive support and development opportunities.",
-  "size": "xs",
   "categoryId": 14,
+  "size": "xs",
   "logoFile": "logos/keyrus_israel-logo.webp",
   "websiteUrl": "https://www.keyrus.com/",
   "careersUrl": "https://jobs.keyrus.com/",
-  "isHiring": true,
   "linkedinId": "keyrus",
+  "linkedinNum": 12328,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "keyrus",
   "xId": "keyrus_group",
+  "facebookId": "KeyrusGroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -20,7 +26,6 @@
       "lon": 34.8233558
     }
   ],
-  "isMultinational": true,
-  "facebookId": "KeyrusGroup",
-  "linkedinNum": 12328
+  "isMultinational": false,
+  "isActive": true
 }

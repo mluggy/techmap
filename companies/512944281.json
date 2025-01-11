@@ -1,16 +1,22 @@
 {
   "name": "Boston Scientific",
   "description": "Boston Scientific is a global medical technology leader dedicated to transforming lives through innovative solutions in cardiovascular, endoscopy, urology, and more.",
-  "size": "l",
   "categoryId": 12,
+  "size": "l",
   "logoFile": "logos/boston_scientific_israel-logo.webp",
   "websiteUrl": "https://www.bostonscientific.com/",
   "careersUrl": "https://www.bostonscientific.com/en-US/careers.html",
-  "isHiring": true,
   "linkedinId": "boston-scientific",
+  "linkedinNum": 1637,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "boston-scientific",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקידמה",
@@ -20,6 +26,6 @@
       "lon": 35.10659064195941
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 1637
+  "isMultinational": false,
+  "isActive": true
 }

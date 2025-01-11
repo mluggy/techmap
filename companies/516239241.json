@@ -6,21 +6,26 @@
   "logoFile": "logos/myinterview-logo.webp",
   "websiteUrl": "https://www.myinterview.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "myinterview",
+  "linkedinNum": 3586093,
   "crunchbaseId": null,
+  "ivcId": "A1000000267068",
   "finderId": "myinterview",
   "xId": "myinterview_com",
+  "facebookId": "myinterview.social",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "שדרות מנחם בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
-      "lat": 32.0797181,
-      "lon": 34.7957816
+      "city": "בית דגן",
+      "lat": 32.0055596,
+      "lon": 34.8347959
     }
   ],
   "isMultinational": false,
-  "facebookId": "myinterview.social",
-  "linkedinNum": 3586093
+  "isActive": true
 }

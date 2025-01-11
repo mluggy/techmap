@@ -1,0 +1,31 @@
+{
+  "name": "Speedi.io",
+  "description": "Speedi.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/speedi_io-logo.webp",
+  "websiteUrl": "https://speedi.io",
+  "careersUrl": null,
+  "linkedinId": "speedi-io",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000432562",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701722,
+      "lon": 34.7865614
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

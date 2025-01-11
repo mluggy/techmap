@@ -6,21 +6,26 @@
   "logoFile": "logos/butterfly_medical-logo.webp",
   "websiteUrl": "https://butterfly-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "butterfly-medical",
+  "linkedinNum": 17909086,
   "crunchbaseId": null,
+  "ivcId": "A1000000181726",
   "finderId": "butterfly-medical",
   "xId": null,
+  "facebookId": "Butterfly-Medical-1050294178416141",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בית תבור 2",
+      "street": null,
       "houseNumber": null,
-      "city": "יקנעם עילית",
-      "lat": 32.665530818580166,
-      "lon": 35.10411800897265
+      "city": "יוקנעם עילית",
+      "lat": 32.660225,
+      "lon": 35.104606
     }
   ],
   "isMultinational": false,
-  "facebookId": "Butterfly-Medical-1050294178416141",
-  "linkedinNum": 17909086
+  "isActive": true
 }

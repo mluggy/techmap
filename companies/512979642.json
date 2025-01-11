@@ -6,21 +6,26 @@
   "logoFile": "logos/voice_sense-logo.webp",
   "websiteUrl": "https://voicesense.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "voicesense",
+  "linkedinNum": 18399267,
   "crunchbaseId": null,
+  "ivcId": "A1000000004689",
   "finderId": "voicesense",
   "xId": "Voice_Sense",
+  "facebookId": "Voicesense-1990302097897400",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שמעון הצדיק",
-      "houseNumber": 12,
-      "city": "תל אביב - יפו",
-      "lat": 32.05454,
-      "lon": 34.757943
+      "street": "משכית",
+      "houseNumber": 27,
+      "city": "הרצליה",
+      "lat": 32.1632571,
+      "lon": 34.8107107
     }
   ],
   "isMultinational": false,
-  "facebookId": "Voicesense-1990302097897400",
-  "linkedinNum": 18399267
+  "isActive": true
 }

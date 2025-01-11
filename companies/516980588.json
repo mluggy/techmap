@@ -1,0 +1,31 @@
+{
+  "name": "Predix",
+  "description": "Predix is developing a unique platform, based on artificial intelligence that uses multimodal data and enables treatment and diagnosis directly from the radiological image.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/predix-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485088",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עמק דותן",
+      "houseNumber": 1,
+      "city": "רמת גן",
+      "lat": 32.0496586,
+      "lon": 34.8438523
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

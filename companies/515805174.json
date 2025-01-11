@@ -6,21 +6,26 @@
   "logoFile": "logos/whitestream-logo.webp",
   "websiteUrl": "https://www.whitestream.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "whitestream",
+  "linkedinNum": 17884291,
   "crunchbaseId": null,
+  "ivcId": "A1000000247193",
   "finderId": "whitestream",
   "xId": "whitestream5",
+  "facebookId": "whitestream.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נורדאו",
-      "houseNumber": 20,
-      "city": "קריית אתא",
-      "lat": 32.8061157,
-      "lon": 35.1066748
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "whitestream.io",
-  "linkedinNum": 17884291
+  "isActive": true
 }

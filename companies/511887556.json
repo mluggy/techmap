@@ -1,25 +1,31 @@
 {
   "name": "Port",
-  "description": "Internal Developer Portal",
+  "description": "Internal Developer Portal.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/port_2_port_israel-logo.webp",
   "websiteUrl": "https://www.getport.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "getport",
+  "linkedinNum": 81296713,
   "crunchbaseId": null,
+  "ivcId": "A1000000371769",
   "finderId": "port",
   "xId": "tweetsbyport",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פרידמן שרגא",
-      "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.118111,
-      "lon": 34.791678
+      "street": "הארבעה",
+      "houseNumber": 21,
+      "city": "תל אביב-יפו",
+      "lat": 32.0704496,
+      "lon": 34.7870971
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81296713
+  "isActive": true
 }

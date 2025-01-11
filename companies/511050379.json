@@ -1,0 +1,31 @@
+{
+  "name": "Aerotel",
+  "description": "Aerotel is one of Israel’s longest established high-tech companies, specializing in the manufacturing of communication and medical devices.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/aerotel-logo.webp",
+  "websiteUrl": "https://aerotelltd.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000003975",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המשביר",
+      "houseNumber": 19,
+      "city": "חולון",
+      "lat": 32.0127704,
+      "lon": 34.8051549
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

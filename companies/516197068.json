@@ -6,11 +6,17 @@
   "logoFile": "logos/event_place-logo.webp",
   "websiteUrl": "https://www.eventplace.gnss-lp.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 42407157,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "eventplace",
   "xId": null,
+  "facebookId": "EventPlace.tech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוין גוטל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "EventPlace.tech",
-  "linkedinNum": 42407157
+  "isActive": true
 }

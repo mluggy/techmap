@@ -6,11 +6,17 @@
   "logoFile": "logos/as_you_stay_israel-logo.webp",
   "websiteUrl": "https://asyoustay.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pay-as-you-stay",
+  "linkedinNum": 10096527,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "as-you-stay",
   "xId": "asyoustay",
+  "facebookId": "asyoustay",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שמגר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "asyoustay",
-  "linkedinNum": 10096527
+  "isActive": true
 }

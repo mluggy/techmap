@@ -1,0 +1,31 @@
+{
+  "name": "Expertpower",
+  "description": "Expertpower is a comprehensive energy management software suite offering a range of applications.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/expertpower-logo.webp",
+  "websiteUrl": "https://www.expertpower.com",
+  "careersUrl": null,
+  "linkedinId": "expertpower-ltd",
+  "linkedinNum": 70884243,
+  "crunchbaseId": null,
+  "ivcId": "A1000000477062",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב זאב לב",
+      "houseNumber": 25,
+      "city": "ירושלים",
+      "lat": 31.802096,
+      "lon": 35.210417
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

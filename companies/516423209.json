@@ -6,20 +6,26 @@
   "logoFile": "logos/mistrix-logo.webp",
   "websiteUrl": "https://www.mistrix.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mistrix",
+  "linkedinNum": 79022582,
   "crunchbaseId": null,
+  "ivcId": "A1000000369959",
   "finderId": "mistrix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זכרון יעקב",
+      "street": "זכרון משה",
       "houseNumber": 19,
       "city": "פתח תקווה",
-      "lat": 32.104396,
-      "lon": 34.873691121127635
+      "lat": 32.0829413,
+      "lon": 34.8803285
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79022582
+  "isActive": true
 }

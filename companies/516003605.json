@@ -1,16 +1,22 @@
 {
   "name": "Montara",
-  "description": "The Cloud-Native Modern Business Intelligence Platform",
+  "description": "The Cloud-Native Modern Business Intelligence Platform.",
   "categoryId": 14,
   "size": "s",
-  "logoFile": "logos/montara_systems-logo.webp",
+  "logoFile": "logos/montara-logo.webp",
   "websiteUrl": "https://montara.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "montarainc",
+  "linkedinNum": 42820266,
   "crunchbaseId": null,
+  "ivcId": "A1000000492841",
   "finderId": "montara",
   "xId": "Montara_inc",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -20,5 +26,6 @@
       "lon": 34.80164595917552
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

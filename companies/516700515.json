@@ -1,23 +1,31 @@
 {
   "name": "Payro Financial Technologies",
-  "description": "Provides immediate payroll funding for businesses to manage timely employee payments despite cash flow challenges.",
-  "categoryId": 10,
+  "description": "Payro develops a mobile applications that allows employees to withdraw the money they have earned anytime, anywhere.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/payro_financial_technologies-logo.webp",
-  "websiteUrl": "https://payrofinance.com/",
+  "websiteUrl": "https://www.payro.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "payrofinance",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000422631",
   "finderId": "payro",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הברזל",
-      "houseNumber": 34,
-      "city": "תל אביב - יפו",
-      "lat": 32.1103029,
-      "lon": 34.8421952
+      "street": "נתן החכם",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0827786,
+      "lon": 34.7716236
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/atlas_lta_advanced_technology-logo.webp",
   "websiteUrl": "https://atlas-lta.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "atlas-lta-advance-technology-ltd",
+  "linkedinNum": 28505432,
   "crunchbaseId": null,
+  "ivcId": "A1000000331557",
   "finderId": "atlas-lta",
   "xId": "LtaAtlas",
+  "facebookId": "atlasairships",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 20,
       "city": "ראש העין",
-      "lat": 32.1088976,
-      "lon": 34.9653972
+      "lat": 32.1071036,
+      "lon": 34.9707932
     }
   ],
   "isMultinational": false,
-  "facebookId": "atlasairships",
-  "linkedinNum": 28505432
+  "isActive": true
 }

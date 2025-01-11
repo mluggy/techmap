@@ -6,20 +6,26 @@
   "logoFile": "logos/omniloom-logo.webp",
   "websiteUrl": "https://www.omniloom.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10495291,
   "crunchbaseId": "pixellito",
+  "ivcId": null,
   "finderId": "pixellito",
   "xId": "TeamPixellito",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 38,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1103886,
       "lon": 34.84245
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10495291
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Hallura",
-  "description": "Hyaluronic Acid Dermal Fillers for Aesthetic Medicine",
+  "description": "Hyaluronic Acid Dermal Fillers for Aesthetic Medicine.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/hallura-logo.webp",
   "websiteUrl": "https://www.hallura.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hallura",
+  "linkedinNum": 29329136,
   "crunchbaseId": "hallura",
+  "ivcId": "A1000000244452",
   "finderId": "hallura",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכרמל",
-      "houseNumber": 67,
-      "city": "יקנעם עילית",
-      "lat": 32.6578027,
-      "lon": 35.1002987
+      "street": null,
+      "houseNumber": null,
+      "city": "יוקנעם עילית",
+      "lat": 32.660225,
+      "lon": 35.104606
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 29329136
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/neema_shefa_israel-logo.webp",
   "websiteUrl": "https://getneema.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "neema-official",
+  "linkedinNum": 4861953,
   "crunchbaseId": null,
+  "ivcId": "A1000000024280",
   "finderId": "neema",
   "xId": null,
+  "facebookId": "SendWithNeema",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השלושה",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617382,
-      "lon": 34.7882304
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
     }
   ],
   "isMultinational": false,
-  "facebookId": "SendWithNeema",
-  "linkedinNum": 4861953
+  "isActive": true
 }

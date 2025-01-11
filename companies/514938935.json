@@ -1,0 +1,31 @@
+{
+  "name": "Profero",
+  "description": "Profero develops technology for rescuing from cyber attacks.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/profero-logo.webp",
+  "websiteUrl": "https://profero.io",
+  "careersUrl": "https://profero.io/careers",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000370189",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "טביוב",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0652688,
+      "lon": 34.7973493
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

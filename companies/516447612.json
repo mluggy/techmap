@@ -6,11 +6,17 @@
   "logoFile": "logos/civi_design_building_and_engineering-logo.webp",
   "websiteUrl": "https://www.civi.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "civi",
   "xId": null,
+  "facebookId": "CiviRecruitmentSystem",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שכונה 18",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CiviRecruitmentSystem"
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/too_software-logo.webp",
   "websiteUrl": "https://too.software/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "invictoo",
+  "linkedinNum": 88640835,
   "crunchbaseId": null,
+  "ivcId": "A1000000337252",
   "finderId": "too-software",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך הראשונים",
-      "houseNumber": 44,
+      "street": "הראשונים",
+      "houseNumber": 207,
       "city": "בני עטרות",
-      "lat": 32.02714094674101,
-      "lon": 34.92023699652578
+      "lat": 32.0244337,
+      "lon": 34.9132072
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 88640835
+  "isActive": true
 }

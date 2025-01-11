@@ -6,21 +6,26 @@
   "logoFile": "logos/structshare_technologies-logo.webp",
   "websiteUrl": "https://structshare.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "structshare",
+  "linkedinNum": 17928465,
   "crunchbaseId": null,
+  "ivcId": "A1000000265939",
   "finderId": "structshare-technologies",
   "xId": "structshare?",
+  "facebookId": "StructShare",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 65,
-      "city": "תל אביב - יפו",
-      "lat": 32.065766,
-      "lon": 34.792307
+      "street": null,
+      "houseNumber": null,
+      "city": "שפיים",
+      "lat": 32.216586,
+      "lon": 34.822409
     }
   ],
   "isMultinational": false,
-  "facebookId": "StructShare",
-  "linkedinNum": 17928465
+  "isActive": true
 }

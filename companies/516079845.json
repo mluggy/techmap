@@ -1,26 +1,31 @@
 {
   "name": "Unleash Labs",
-  "description": "Comprehensive Data Search Solution",
+  "description": "Comprehensive Data Search Solution.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/unleash_labs-logo.webp",
   "websiteUrl": "https://www.unleash.so/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "unleashdotso",
+  "linkedinNum": 20170154,
   "crunchbaseId": null,
+  "ivcId": "A1000000333067",
   "finderId": "unleash-labs",
   "xId": "unleash_labs",
+  "facebookId": "UnleashLabs.so",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.069465,
-      "lon": 34.786318
+      "city": "תל אביב-יפו",
+      "lat": 32.0694588,
+      "lon": 34.7865947
     }
   ],
   "isMultinational": false,
-  "facebookId": "UnleashLabs.so",
-  "linkedinNum": 20170154
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "phenofAST",
-  "description": "phenofAST solution provides AST ( antibiotic susceptibility test) in 4 hours, for a wide range of indications, in a cost effective way, using a physics based technology analyzer.",
-  "size": "xs",
+  "description": "The growing threat of drug resistant bacteria will make antimicrobial resistance (AMR) a leading cause of death by 2050.",
   "categoryId": 12,
+  "size": "xs",
   "logoFile": "logos/phenofast-logo.webp",
-  "websiteUrl": "https://phenofast.web2info.co.il/",
+  "websiteUrl": "https://phenofast.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "phenofast",
+  "linkedinNum": 71559460,
   "crunchbaseId": null,
+  "ivcId": "A1000000350664",
   "finderId": "phenofast",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתיב האור",
@@ -20,5 +26,6 @@
       "lon": 34.96565267465318
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

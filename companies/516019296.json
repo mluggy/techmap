@@ -6,21 +6,26 @@
   "logoFile": "logos/second_nature_ai-logo.webp",
   "websiteUrl": "https://secondnature.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "second-nature-ai",
+  "linkedinNum": 48058367,
   "crunchbaseId": null,
+  "ivcId": "A1000000302410",
   "finderId": "second-nature-ai",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "street": "שלוש",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.060739,
+      "lon": 34.765093
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 48058367
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/substrata-logo.webp",
   "websiteUrl": "https://www.substrata.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "substrata-technologies-limited",
+  "linkedinNum": 13997175,
   "crunchbaseId": null,
+  "ivcId": "A1000000280677",
   "finderId": "substrata",
   "xId": "SubstrataHQ",
+  "facebookId": "substrata.me",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ביל\"ו",
       "houseNumber": 53,
-      "city": "תל אביב - יפו",
-      "lat": 32.072757,
-      "lon": 34.781009
+      "city": "תל אביב-יפו",
+      "lat": 32.0727752,
+      "lon": 34.7809556
     }
   ],
   "isMultinational": false,
-  "facebookId": "substrata.me",
-  "linkedinNum": 13997175
+  "isActive": true
 }

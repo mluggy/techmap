@@ -1,16 +1,22 @@
 {
   "name": "EVOLITA",
-  "description": "Data-driven Research",
+  "description": "Data-driven Research.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/evolita-logo.webp",
   "websiteUrl": "https://beta.evolita.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2894852,
   "crunchbaseId": null,
+  "ivcId": "A1000000001740",
   "finderId": "evolita",
   "xId": "Evolita_com",
+  "facebookId": "Evolitacom-320339874718155",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלמיש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Evolitacom-320339874718155",
-  "linkedinNum": 2894852
+  "isActive": true
 }

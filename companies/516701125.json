@@ -3,22 +3,29 @@
   "description": "Utilize Sweet's advanced eBPF-based sensor to secure your cloud infrastructure by establishing normal behavior and gaining critical runtime insights.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/sweet_security-logo.webp",
+  "logoFile": "logos/sweet-security-logo.webp",
   "websiteUrl": "https://www.sweet.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sweet-security",
+  "linkedinNum": 96384838,
   "crunchbaseId": "sweet-security",
+  "ivcId": "A1000000447645",
   "finderId": "sweet-security",
   "xId": "Sweet_cloud_sec",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המסגר",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.06539024960552,
-      "lon": 34.78529946872073
+      "street": "בית השואבה",
+      "houseNumber": 5,
+      "city": "רעננה",
+      "lat": 32.1836066,
+      "lon": 34.8567472
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/opa_consulting_investment-logo.webp",
   "websiteUrl": "https://www.opaglobal.io/en/home",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "opa",
   "xId": null,
+  "facebookId": "OPA.ISR",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטייסים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "OPA.ISR"
+  "isActive": true
 }

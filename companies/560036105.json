@@ -3,21 +3,29 @@
   "description": "Smart Online Marketing Solutions.",
   "categoryId": 2,
   "size": "xs",
-  "logoFile": "logos/better_impression-logo.webp",
+  "logoFile": "logos/better-impression-logo.webp",
   "websiteUrl": "https://www.bimpression.com/",
   "careersUrl": "https://www.bimpression.com/careers-comeet/",
-  "isHiring": true,
   "linkedinId": "betterimpression",
+  "linkedinNum": 18235133,
   "crunchbaseId": "better-impression-limited",
+  "ivcId": "A1000000294396",
   "finderId": "better-impression",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מנשה",
-      "houseNumber": 1,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.884044,
-      "lon": 35.0073638
+      "street": "אבן גבירול",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0899962,
+      "lon": 34.8324444
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

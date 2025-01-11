@@ -1,16 +1,22 @@
 {
   "name": "nanobb",
-  "description": "Baby Bottle that Preserves Breast Milk Nutrients",
+  "description": "Baby Bottle that Preserves Breast Milk Nutrients.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/nutrits-logo.webp",
   "websiteUrl": "https://www.nanobebe.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nanob%C3%A9b%C3%A9",
+  "linkedinNum": 10249867,
   "crunchbaseId": null,
+  "ivcId": "A1000000024427",
   "finderId": "nutrits",
   "xId": "nanobebeworld",
+  "facebookId": "nanobebeISRAEL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנאות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "nanobebeISRAEL",
-  "linkedinNum": 10249867
+  "isActive": true
 }

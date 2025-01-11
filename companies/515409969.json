@@ -6,21 +6,26 @@
   "logoFile": "logos/capricia_productions-logo.webp",
   "websiteUrl": "https://www.capriciaproductions.com/",
   "careersUrl": "https://www.capriciaproductions.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "capricia-productions",
+  "linkedinNum": 5314368,
   "crunchbaseId": null,
+  "ivcId": "A1000000178450",
   "finderId": "capricia-productions",
   "xId": "CapriciaProduct",
+  "facebookId": "CapriciaMusic",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החוצב",
-      "houseNumber": 7,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.775392101581176,
-      "lon": 35.192133361719605
+      "lat": 31.768319,
+      "lon": 35.21371
     }
   ],
   "isMultinational": false,
-  "facebookId": "CapriciaMusic",
-  "linkedinNum": 5314368
+  "isActive": true
 }

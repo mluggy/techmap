@@ -6,19 +6,26 @@
   "logoFile": "logos/livekidney_bio-logo.webp",
   "websiteUrl": "https://livekidney.bio/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000024452",
   "finderId": "livekidney-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.06378,
-      "lon": 34.769659
+      "city": "תל אביב-יפו",
+      "lat": 32.0640664,
+      "lon": 34.7696096
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

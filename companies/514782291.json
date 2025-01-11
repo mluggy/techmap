@@ -1,0 +1,31 @@
+{
+  "name": "Madsec",
+  "description": "Madsec provide a variety of consulting services in the information security world, while remaining unbiased by integration considerations.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/madsec-logo.webp",
+  "websiteUrl": "https://www.madsec.co.il",
+  "careersUrl": null,
+  "linkedinId": "madsec",
+  "linkedinNum": 2862101,
+  "crunchbaseId": null,
+  "ivcId": "A1000000021932",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גוליאלמו מרקוני",
+      "houseNumber": 10,
+      "city": "חיפה",
+      "lat": 32.7885212,
+      "lon": 35.0326601
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

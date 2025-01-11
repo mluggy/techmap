@@ -6,11 +6,17 @@
   "logoFile": "logos/locudrive-logo.webp",
   "websiteUrl": "https://locudrive.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "locudrive-ltd",
+  "linkedinNum": 88419944,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "locudrive",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אנקור",
@@ -19,5 +25,7 @@
       "lat": 32.140841,
       "lon": 34.8257862
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Pango",
-  "description": "Mobile Parking Tool",
+  "description": "Mobile Parking Tool.",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/pango_pay_go-logo.webp",
   "websiteUrl": "https://en.pango.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "milgam-cellular-parking",
+  "linkedinNum": 499080,
   "crunchbaseId": null,
+  "ivcId": "A1000000009591",
   "finderId": "pango",
   "xId": null,
+  "facebookId": "pangoisrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pangoisrael",
-  "linkedinNum": 499080
+  "isActive": true
 }

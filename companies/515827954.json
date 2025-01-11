@@ -1,16 +1,22 @@
 {
   "name": "Seagate Technology",
   "description": "A leading provider of innovative data storage solutions, enabling efficient data management and utilization through advanced cloud storage services and hardware.",
-  "size": "s",
   "categoryId": 16,
-  "logoFile": "logos/seagate_technology_israel-logo.webp",
+  "size": "s",
+  "logoFile": "logos/seagate-technology-logo.webp",
   "websiteUrl": "https://labs.seagate.com/israel/",
   "careersUrl": "https://www.seagate.com/jobs/",
-  "isHiring": true,
   "linkedinId": "seagate-technology",
+  "linkedinNum": 2868,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "seagate-technology",
   "xId": "seagate",
+  "facebookId": "seagate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטחנה",
@@ -20,6 +26,6 @@
       "lon": 34.8910865
     }
   ],
-  "isMultinational": true,
-  "facebookId": "seagate"
+  "isMultinational": false,
+  "isActive": true
 }

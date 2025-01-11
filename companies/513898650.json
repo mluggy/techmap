@@ -1,16 +1,22 @@
 {
   "name": "SITE123",
-  "description": "Website Builder",
+  "description": "Website Builder.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/site_123-logo.webp",
   "websiteUrl": "https://he.site123.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "site123",
+  "linkedinNum": 13181758,
   "crunchbaseId": null,
+  "ivcId": "A1000000327407",
   "finderId": "site123",
   "xId": "site123",
+  "facebookId": "Site123",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלקיקי האור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Site123",
-  "linkedinNum": 13181758
+  "isActive": true
 }

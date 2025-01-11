@@ -6,18 +6,26 @@
   "logoFile": "logos/aerospike-logo.webp",
   "websiteUrl": "https://aerospike.com/",
   "careersUrl": "https://aerospike.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "aerospike",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השלושה",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0617382,
       "lon": 34.7882304
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

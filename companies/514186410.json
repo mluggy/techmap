@@ -6,20 +6,26 @@
   "logoFile": "logos/respinova-logo.webp",
   "websiteUrl": "https://www.respinova.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "respinova",
+  "linkedinNum": 27163196,
   "crunchbaseId": null,
+  "ivcId": "A1000000002905",
   "finderId": "respinova",
   "xId": "respinova",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ההגנה",
-      "houseNumber": null,
-      "city": "רמת השרון",
-      "lat": 32.1472579387666,
-      "lon": 34.840949860708754
+      "street": "החושלים",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.1590119,
+      "lon": 34.8064331
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27163196
+  "isActive": true
 }

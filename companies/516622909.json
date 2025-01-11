@@ -6,18 +6,26 @@
   "logoFile": "logos/rentlyz-logo.webp",
   "websiteUrl": "https://www.rentlyz.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rentlyz",
+  "linkedinNum": 88437381,
   "crunchbaseId": null,
+  "ivcId": "A1000000459153",
   "finderId": "rentlyz",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.109818,
-      "lon": 34.841254
+      "city": "תל אביב-יפו",
+      "lat": 32.1097344,
+      "lon": 34.8410314
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

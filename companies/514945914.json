@@ -6,11 +6,17 @@
   "logoFile": "logos/olea_essence_e_g-logo.webp",
   "websiteUrl": "https://oleaessence.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "olea-essence",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך השמן",
@@ -19,5 +25,7 @@
       "lat": 32.98671903442217,
       "lon": 35.70876973350029
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/lagos_analytics-logo.webp",
   "websiteUrl": "https://www.lagos.io/",
   "careersUrl": "https://www.glassdoor.com/Job/lagos-analytics-jobs-SRCH_IL.0,5_IC2543876_KO6,15.htm",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lagos-analytics",
   "xId": "LagosAnalytics",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד רחבעם זאבי",
@@ -20,5 +26,6 @@
       "lon": 34.8795254
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

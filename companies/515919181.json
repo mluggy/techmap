@@ -1,25 +1,31 @@
 {
   "name": "Tuki",
-  "description": "Unified Communications Lifecycle Management Solution",
+  "description": "Imperium is the Airbnb of private jets; turning unutilized flights into profit by allowing By The Seat sales.",
   "categoryId": 14,
-  "size": "m",
+  "size": "xs",
   "logoFile": "logos/tuki_jets-logo.webp",
-  "websiteUrl": "https://www.tuki.io",
+  "websiteUrl": "https://imperiumjets.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "imperium-jets",
+  "linkedinNum": 10350735,
   "crunchbaseId": null,
+  "ivcId": "A1000000250325",
   "finderId": "tuki-2",
   "xId": "UCTuki",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דבורה הנביאה",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.113198,
-      "lon": 34.844295
+      "city": "תל אביב-יפו",
+      "lat": 32.1135286,
+      "lon": 34.8432083
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10350735
+  "isActive": true
 }

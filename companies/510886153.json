@@ -6,11 +6,17 @@
   "logoFile": "logos/aitech_systems-logo.webp",
   "websiteUrl": "https://aitechsystems.com/",
   "careersUrl": "https://aitechsystems.com/careers/",
-  "isHiring": true,
   "linkedinId": "aitech",
+  "linkedinNum": 110784,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "aitech",
   "xId": "AitechDefense",
+  "facebookId": "AitechDefense",
+  "breezyId": null,
+  "comeetId": "aitechsystems/88.004",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -20,8 +26,6 @@
       "lon": 34.9281644
     }
   ],
-  "isMultinational": true,
-  "facebookId": "AitechDefense",
-  "linkedinNum": 110784,
-  "comeetId": "aitechsystems/88.004"
+  "isMultinational": false,
+  "isActive": true
 }

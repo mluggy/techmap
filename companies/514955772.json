@@ -6,21 +6,26 @@
   "logoFile": "logos/nsc_nano_sono_cooperation-logo.webp",
   "websiteUrl": "https://www.nanosono.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nanosono",
+  "linkedinNum": 37818895,
   "crunchbaseId": null,
+  "ivcId": "A1000000240702",
   "finderId": "nsc-nano-sono-cooperation",
   "xId": null,
+  "facebookId": "Nanosonotech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקידמה",
       "houseNumber": 7,
-      "city": "יקנעם עילית",
-      "lat": 32.66993075,
-      "lon": 35.10747075437456
+      "city": "יוקנעם עילית",
+      "lat": 32.6698048,
+      "lon": 35.1070212
     }
   ],
   "isMultinational": false,
-  "facebookId": "Nanosonotech",
-  "linkedinNum": 37818895
+  "isActive": true
 }

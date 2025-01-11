@@ -6,19 +6,26 @@
   "logoFile": "logos/seacrop-logo.webp",
   "websiteUrl": "https://www.sea-crop.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000429174",
   "finderId": "seacrop",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 45,
-      "city": "חיפה",
-      "lat": 32.819776250000004,
-      "lon": 34.9988252
+      "street": null,
+      "houseNumber": null,
+      "city": "כפר המכבי",
+      "lat": 32.791804,
+      "lon": 35.114793
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

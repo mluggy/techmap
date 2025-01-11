@@ -6,13 +6,26 @@
   "logoFile": "logos/polyram_plastic_industries-logo.webp",
   "websiteUrl": "https://polyram-group.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "polyram-industries",
+  "linkedinNum": 5213457,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "polyram",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Polyram-Plastic-Industries-LTD-1026663024091308",
-  "linkedinNum": 5213457
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "מושב רם און",
+      "lat": 32.527978609989255,
+      "lon": 35.261476547843706
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

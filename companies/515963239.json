@@ -6,21 +6,26 @@
   "logoFile": "logos/payem_card-logo.webp",
   "websiteUrl": "https://www.payem.co/",
   "careersUrl": "https://www.payem.co/careers",
-  "isHiring": true,
   "linkedinId": "payemcard",
+  "linkedinNum": 13982455,
   "crunchbaseId": "payem-card",
+  "ivcId": null,
   "finderId": "payem",
   "xId": null,
+  "facebookId": "100076573278338",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063834,
       "lon": 34.780027
     }
   ],
   "isMultinational": false,
-  "facebookId": "100076573278338",
-  "linkedinNum": 13982455
+  "isActive": true
 }

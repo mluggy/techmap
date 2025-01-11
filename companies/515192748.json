@@ -1,0 +1,31 @@
+{
+  "name": "Genio",
+  "description": "Genio is a breakthrough technology company, specializing in creating smart environmental solutions.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/genio-logo.webp",
+  "websiteUrl": "http://genio.co.il",
+  "careersUrl": null,
+  "linkedinId": "genio---smart-environmental-solutions",
+  "linkedinNum": 6453248,
+  "crunchbaseId": null,
+  "ivcId": "A1000000213370",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 28,
+      "city": "כפר סבא",
+      "lat": 32.1782302,
+      "lon": 34.9280414
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

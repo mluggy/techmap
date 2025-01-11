@@ -6,12 +6,17 @@
   "logoFile": "logos/medicane-health.webp",
   "websiteUrl": "https://medicane.net/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "medicane-health-incorporated",
   "linkedinNum": 53143609,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "medicane-health",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התע\"ש",
@@ -21,5 +26,6 @@
       "lon": 34.92799856442618
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

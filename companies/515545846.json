@@ -6,11 +6,17 @@
   "logoFile": "logos/digital_fission_technologies-logo.webp",
   "websiteUrl": "https://www.fissiondigitalservices.com/",
   "careersUrl": "http://fissiondigitalservices.com/careers.html",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "digital-fission-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -19,5 +25,7 @@
       "lat": 32.1609618,
       "lon": 34.8099017
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

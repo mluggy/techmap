@@ -6,11 +6,17 @@
   "logoFile": "logos/collplant-logo.webp",
   "websiteUrl": "https://collplant.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "collplant",
+  "linkedinNum": 2369898,
   "crunchbaseId": null,
+  "ivcId": "A1000000003129",
   "finderId": "collplant",
   "xId": "CollplantBio",
+  "facebookId": "CollPlantBio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CollPlantBio",
-  "linkedinNum": 2369898
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/dagshub-logo.webp",
   "websiteUrl": "https://dagshub.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dagshub",
+  "linkedinNum": 13986265,
   "crunchbaseId": "dagshub",
+  "ivcId": "A1000000288642",
   "finderId": "dagshub",
   "xId": "TheRealDAGsHub",
+  "facebookId": "DAGsHub",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שץ גגה גרשון",
-      "houseNumber": 41,
-      "city": "תל אביב - יפו",
-      "lat": 32.068791,
-      "lon": 34.791638
+      "street": "הנגבה",
+      "houseNumber": 5,
+      "city": "גבעתיים",
+      "lat": 32.0710689,
+      "lon": 34.8034565
     }
   ],
   "isMultinational": false,
-  "facebookId": "DAGsHub",
-  "linkedinNum": 13986265
+  "isActive": true
 }

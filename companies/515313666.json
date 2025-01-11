@@ -1,25 +1,31 @@
 {
   "name": "3d Signals",
-  "description": "Real-time Production Floor Performance Monitoring",
+  "description": "Real-time Production Floor Performance Monitoring.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/3d-signals.webp",
   "websiteUrl": "https://www.3dsignals.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 10317278,
   "crunchbaseId": null,
+  "ivcId": "A1000000191563",
   "finderId": "3d-signals",
   "xId": "3dsignals",
   "facebookId": "3dsignals",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
-      "houseNumber": 24,
-      "city": "ראש העין",
-      "lat": 32.10686815526936,
-      "lon": 34.97092234252526
+      "street": "הסדנה",
+      "houseNumber": 6,
+      "city": "כפר סבא",
+      "lat": 32.1717205,
+      "lon": 34.9263803
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

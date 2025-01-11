@@ -1,25 +1,31 @@
 {
   "name": "TOPeration",
-  "description": "Operations and Workforce Management Platform for Brick and Mortar Retailers",
+  "description": "Operations and Workforce Management Platform for Brick and Mortar Retailers.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/toperation-logo.webp",
   "websiteUrl": "https://www.wearedex.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dexworld",
+  "linkedinNum": 12637999,
   "crunchbaseId": null,
+  "ivcId": "A1000000272261",
   "finderId": "toperation",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 103,
-      "city": "תל אביב - יפו",
-      "lat": 32.0696175,
-      "lon": 34.7842349
+      "city": "תל אביב-יפו",
+      "lat": 32.0695959,
+      "lon": 34.784603
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12637999
+  "isActive": true
 }

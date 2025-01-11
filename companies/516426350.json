@@ -3,22 +3,29 @@
   "description": "Pioneering LIDAR technology advancements for enhanced safety and transformative industrial applications.",
   "categoryId": 3,
   "size": "xs",
-  "logoFile": "logos/tervizio_3_d-logo.webp",
+  "logoFile": "logos/tervizio-logo.webp",
   "websiteUrl": "https://www.tervizio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tervizio",
+  "linkedinNum": 93254659,
   "crunchbaseId": null,
+  "ivcId": "A1000000424171",
   "finderId": "tervizio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החרושת",
-      "houseNumber": 14,
-      "city": "רעננה",
-      "lat": 32.1962399,
-      "lon": 34.88108037383692
+      "street": "בורוכוב",
+      "houseNumber": 50,
+      "city": "גבעתיים",
+      "lat": 32.0787835,
+      "lon": 34.8090585
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

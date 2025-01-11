@@ -1,0 +1,31 @@
+{
+  "name": "Atero",
+  "description": "Atero AI is building workload orchestration infrastructure to enable GPU scaling and orchestration for training AI models.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/atero-logo.webp",
+  "websiteUrl": "https://www.atero.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485011",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 146,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930893,
+      "lon": 34.8322702
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

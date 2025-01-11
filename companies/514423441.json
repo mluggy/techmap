@@ -6,11 +6,17 @@
   "logoFile": "logos/legstate-logo.webp",
   "websiteUrl": "https://www.legstate.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "legstate",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ביל\"ו",
@@ -19,5 +25,7 @@
       "lat": 32.1798659,
       "lon": 34.864688
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

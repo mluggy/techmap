@@ -6,21 +6,26 @@
   "logoFile": "logos/magentiq_eye-logo.webp",
   "websiteUrl": "https://magentiq.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "magentiq-eye-ltd.",
+  "linkedinNum": 10118743,
   "crunchbaseId": null,
+  "ivcId": "A1000000184816",
   "finderId": "Magentiq-Eye",
   "xId": "magentiqeye",
+  "facebookId": "Magentiq.Eye",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד בן גוריון",
+      "street": "שדרות בן גוריון",
       "houseNumber": 6,
       "city": "חיפה",
-      "lat": 32.58889115,
-      "lon": 34.950383
+      "lat": 32.8230635,
+      "lon": 34.9918239
     }
   ],
   "isMultinational": false,
-  "facebookId": "Magentiq.Eye",
-  "linkedinNum": 10118743
+  "isActive": true
 }

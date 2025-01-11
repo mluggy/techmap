@@ -6,11 +6,17 @@
   "logoFile": "logos/resonetics_israel-logo.webp",
   "websiteUrl": "https://resonetics.com/",
   "careersUrl": "https://resonetics.com/careers/",
-  "isHiring": true,
   "linkedinId": "resonetics",
+  "linkedinNum": 94937,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "resonetics",
   "xId": "resonetics",
+  "facebookId": "sti.laser.industries",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ההדס",
@@ -20,7 +26,6 @@
       "lon": 34.9206291
     }
   ],
-  "isMultinational": true,
-  "facebookId": "sti.laser.industries",
-  "linkedinNum": 94937
+  "isMultinational": false,
+  "isActive": true
 }

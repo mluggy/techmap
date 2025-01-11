@@ -1,0 +1,31 @@
+{
+  "name": "Ascento Medical",
+  "description": "Ascento Medical provides dementia patients with a treatment plan, which is then implemented by their doctors.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ascento-medical-logo.webp",
+  "websiteUrl": "https://ascento-cda.com/",
+  "careersUrl": null,
+  "linkedinId": "ascento-cda",
+  "linkedinNum": 99946349,
+  "crunchbaseId": null,
+  "ivcId": "A1000000324373",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מאיר ג'יניאו",
+      "houseNumber": 1,
+      "city": "ירושלים",
+      "lat": 31.8203654,
+      "lon": 35.1860746
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

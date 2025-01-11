@@ -1,16 +1,22 @@
 {
   "name": "Game Story",
-  "description": "Mobile Game Developer",
+  "description": "Mobile Game Developer.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/game_story-logo.webp",
   "websiteUrl": "https://gmstry.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "game-story",
+  "linkedinNum": 69546521,
   "crunchbaseId": null,
+  "ivcId": "A1000000416931",
   "finderId": "game-story",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אהליאב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69546521
+  "isActive": true
 }

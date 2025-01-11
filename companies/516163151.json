@@ -6,11 +6,17 @@
   "logoFile": "logos/ottosec-logo.webp",
   "websiteUrl": "https://ottosec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ottosec",
+  "linkedinNum": 42303449,
   "crunchbaseId": null,
+  "ivcId": "A1000000311962",
   "finderId": "ottosec",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אשכול",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42303449
+  "isActive": true
 }

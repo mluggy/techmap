@@ -1,0 +1,31 @@
+{
+  "name": "Insanet",
+  "description": "Insanet has developed a commercial product called Sherlock that can infect devices via online adverts to snoop on targets and collect data about them for its clients.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/insanet-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000453979",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אחד העם",
+      "houseNumber": 9,
+      "city": "תל אביב-יפו",
+      "lat": 32.0640664,
+      "lon": 34.7696096
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

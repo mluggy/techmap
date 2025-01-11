@@ -6,20 +6,26 @@
   "logoFile": "logos/whalo_games-logo.webp",
   "websiteUrl": "https://www.whalo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 81814624,
   "crunchbaseId": null,
+  "ivcId": "A1000000370635",
   "finderId": "whalo-games",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "street": "שוקן",
+      "houseNumber": 23,
+      "city": "תל אביב-יפו",
+      "lat": 32.051566,
+      "lon": 34.7723985
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81814624
+  "isActive": true
 }

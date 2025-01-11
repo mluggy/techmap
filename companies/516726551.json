@@ -6,20 +6,26 @@
   "logoFile": "logos/muzli.webp",
   "websiteUrl": "https://muz.li/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "muzli",
   "linkedinNum": 10291534,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "muzli",
   "xId": null,
   "facebookId": "usemuzli",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רש\"י",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07163121342047,
       "lon": 34.77376426395568
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

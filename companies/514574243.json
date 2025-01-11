@@ -1,0 +1,31 @@
+{
+  "name": "Vorotec",
+  "description": "Vorotec is a contract research and development business offering a wide range of its own technologies across the fields of communications and electronic sensors.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/vorotec-logo.webp",
+  "websiteUrl": "http://www.vorotec.eu",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001758",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האגס",
+      "houseNumber": 588,
+      "city": "קדרון",
+      "lat": 31.8158098,
+      "lon": 34.7966782
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

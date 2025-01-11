@@ -6,11 +6,17 @@
   "logoFile": "logos/enabley-logo.webp",
   "websiteUrl": "https://enabley.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 71444,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "time-to-know-t2k",
   "xId": "TimeToKnow",
+  "facebookId": "enabley",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "enabley",
-  "linkedinNum": 71444
+  "isActive": true
 }

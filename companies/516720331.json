@@ -1,0 +1,31 @@
+{
+  "name": "BlinkAid",
+  "description": "BlinkAid's device utilizes artificial blinking and tear secretion, vital mechanisms that can manage the user's blinking cycle via transcutaneous electrical nerve stimulation, enabling users to prevent and alleviate dry eye and computer vision syndromes' burden.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/blinkaid-logo.webp",
+  "websiteUrl": "http://www.blinkaid.us",
+  "careersUrl": null,
+  "linkedinId": "blinkaid",
+  "linkedinNum": 96041358,
+  "crunchbaseId": null,
+  "ivcId": "A1000000428760",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קצרין",
+      "lat": 32.9876448,
+      "lon": 35.7095442
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

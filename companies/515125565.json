@@ -6,11 +6,17 @@
   "logoFile": "logos/cambium_2014-logo.webp",
   "websiteUrl": "https://cambium.co.il/",
   "careersUrl": "https://cambium.co.il/jobs/",
-  "isHiring": true,
   "linkedinId": "cambium-applicable-innovation",
+  "linkedinNum": 18734234,
   "crunchbaseId": null,
+  "ivcId": "A1000000187789",
   "finderId": "cambium",
   "xId": null,
+  "facebookId": "cambium",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מתחם דמרי",
@@ -22,12 +28,11 @@
     {
       "street": "יצחק שדה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065378798329526,
       "lon": 34.78557544668187
     }
   ],
   "isMultinational": false,
-  "facebookId": "cambium",
-  "linkedinNum": 18734234
+  "isActive": true
 }

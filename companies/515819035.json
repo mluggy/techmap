@@ -6,21 +6,26 @@
   "logoFile": "logos/finity_x-logo.webp",
   "websiteUrl": "https://finityx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "finityx-ltd",
+  "linkedinNum": 20103312,
   "crunchbaseId": "finityx",
+  "ivcId": "A1000000261719",
   "finderId": "finityx",
   "xId": null,
+  "facebookId": "FinityX-2031656570441845",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 27,
-      "city": "תל אביב - יפו",
-      "lat": 32.064506,
-      "lon": 34.773112
+      "city": "תל אביב-יפו",
+      "lat": 32.0644786,
+      "lon": 34.7730812
     }
   ],
   "isMultinational": false,
-  "facebookId": "FinityX-2031656570441845",
-  "linkedinNum": 20103312
+  "isActive": true
 }

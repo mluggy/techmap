@@ -6,20 +6,26 @@
   "logoFile": "logos/veriti_security-logo.webp",
   "websiteUrl": "https://veriti.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "veriti-security",
+  "linkedinNum": 86832887,
   "crunchbaseId": null,
+  "ivcId": "A1000000386127",
   "finderId": "veriti-security",
   "xId": "VERITISECURITY",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
-      "lat": 32.0605137,
-      "lon": 34.7759853
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322717
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86832887
+  "isActive": true
 }

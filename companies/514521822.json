@@ -6,21 +6,26 @@
   "logoFile": "logos/pepper_yigal_allon-logo.webp",
   "websiteUrl": "https://www.wearpepper.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 13183888,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pepper",
   "xId": null,
+  "facebookId": "PepperBanking",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 96,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069427,
       "lon": 34.79381
     }
   ],
   "isMultinational": false,
-  "facebookId": "PepperBanking",
-  "linkedinNum": 13183888
+  "isActive": true
 }

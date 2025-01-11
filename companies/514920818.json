@@ -1,0 +1,31 @@
+{
+  "name": "TripleCyber",
+  "description": "TripleCyber aggregates network security events and analyse them in its advance, proprietary analysis engine to detect cyber attacks patterns at different attack stages.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/triplecyber-logo.webp",
+  "websiteUrl": "http://triplecyber.co.il",
+  "careersUrl": null,
+  "linkedinId": "triplecyber",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000218028",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 34,
+      "city": "תל אביב-יפו",
+      "lat": 32.1091364,
+      "lon": 34.8408152
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

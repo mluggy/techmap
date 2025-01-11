@@ -6,22 +6,26 @@
   "logoFile": "logos/mixtiles-logo.webp",
   "websiteUrl": "https://www.mixtiles.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mixtiles",
+  "linkedinNum": 18244925,
   "crunchbaseId": null,
+  "ivcId": "A1000000022531",
   "finderId": "mixtiles",
   "xId": "mixtiles",
+  "facebookId": "mixtiles",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "mixtiles",
+  "leverId": null,
   "addresses": [
     {
-      "street": "אחד העם",
-      "houseNumber": 54,
-      "city": "תל אביב - יפו",
-      "lat": 32.064594,
-      "lon": 34.774322
+      "street": "מלצ'ט",
+      "houseNumber": 23,
+      "city": "תל אביב-יפו",
+      "lat": 32.068944,
+      "lon": 34.775729
     }
   ],
   "isMultinational": false,
-  "facebookId": "mixtiles",
-  "linkedinNum": 18244925,
-  "greenhouseId": "mixtiles"
+  "isActive": true
 }

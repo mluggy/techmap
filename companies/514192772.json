@@ -6,21 +6,26 @@
   "logoFile": "logos/tapingo-logo.webp",
   "websiteUrl": "https://www.tapingo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tapingo",
+  "linkedinNum": 2146932,
   "crunchbaseId": "tapingo",
+  "ivcId": null,
   "finderId": "tapingo",
   "xId": "tapingo",
+  "facebookId": "tapingo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072032,
       "lon": 34.788987
     }
   ],
   "isMultinational": false,
-  "facebookId": "tapingo",
-  "linkedinNum": 2146932
+  "isActive": true
 }

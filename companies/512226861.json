@@ -1,16 +1,22 @@
 {
   "name": "Ascender Technologies",
-  "description": "Android Integration in the Cloud",
+  "description": "Android Integration in the Cloud.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ascender_technologies-logo.webp",
   "websiteUrl": "https://androidinthecloud.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ascender-technologies-ltd-",
+  "linkedinNum": 3244020,
   "crunchbaseId": "ascender-technologies",
+  "ivcId": "A1000000176734",
   "finderId": "ascender-technologies-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פלמ\"ח",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3244020
+  "isActive": true
 }

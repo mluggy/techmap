@@ -6,21 +6,26 @@
   "logoFile": "logos/capitolis_technologies-logo.webp",
   "websiteUrl": "https://capitolis.com/",
   "careersUrl": "https://capitolis.com/careers/",
-  "isHiring": true,
   "linkedinId": "capitolis.com",
+  "linkedinNum": 18124548,
   "crunchbaseId": "capitolis",
+  "ivcId": null,
   "finderId": "capitolis",
   "xId": "Capitolis_Inc",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "capitolis",
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073172,
       "lon": 34.797489
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18124548,
-  "greenhouseId": "capitolis"
+  "isActive": true
 }

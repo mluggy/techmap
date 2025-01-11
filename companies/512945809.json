@@ -1,26 +1,31 @@
 {
   "name": "INFINIDAT",
-  "description": "Enterprise Data and Cloud Storage Solutions",
+  "description": "Enterprise Data and Cloud Storage Solutions.",
   "categoryId": 14,
   "size": "l",
   "logoFile": "logos/infinidat-logo.webp",
   "websiteUrl": "https://www.infinidat.com/en",
   "careersUrl": "https://www.infinidat.com/en/careers",
-  "isHiring": true,
   "linkedinId": "infinidat",
+  "linkedinNum": 2565801,
   "crunchbaseId": null,
+  "ivcId": "A1000000010645",
   "finderId": "infinidat",
   "xId": "INFINIDAT",
+  "facebookId": "infinidat",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המנופים",
       "houseNumber": 9,
       "city": "הרצליה",
-      "lat": 32.1598405,
-      "lon": 34.8083843
+      "lat": 32.1607509,
+      "lon": 34.8077773
     }
   ],
   "isMultinational": false,
-  "facebookId": "infinidat",
-  "linkedinNum": 2565801
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/defensoft-logo.webp",
   "websiteUrl": "https://defensoft.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "defensoft",
+  "linkedinNum": 143114,
   "crunchbaseId": null,
+  "ivcId": "A1000000007539",
   "finderId": "defensoft",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פלג",
-      "houseNumber": 8,
-      "city": "חנתון",
-      "lat": 32.78401231234315,
-      "lon": 35.24861591898735
+      "street": "המדע",
+      "houseNumber": 5,
+      "city": "יוקנעם עילית",
+      "lat": 32.65887,
+      "lon": 35.09878399999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 143114
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/payment_financial_technologies-logo.webp",
   "websiteUrl": "https://payment-pay.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "credit-shop-ltd",
+  "linkedinNum": 75419618,
   "crunchbaseId": null,
+  "ivcId": "A1000000209830",
   "finderId": "payment-pay",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הסדנאות",
-      "houseNumber": 4,
-      "city": "הרצליה",
-      "lat": 32.1621621,
-      "lon": 34.8067893
+      "street": "אב",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.0435517,
+      "lon": 34.7909653
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75419618
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/sightfull_insights-logo.webp",
   "websiteUrl": "https://www.sightfull.com/",
   "careersUrl": "https://www.sightfull.com/careers/",
-  "isHiring": true,
   "linkedinId": "sightfull",
+  "linkedinNum": 76506865,
   "crunchbaseId": "sightfull",
+  "ivcId": "A1000000383302",
   "finderId": "sightfull",
   "xId": "SightfullCo",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קפלן",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.073213,
-      "lon": 34.783298
+      "street": "החשמונאים",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.0694588,
+      "lon": 34.7865947
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76506865
+  "isActive": true
 }

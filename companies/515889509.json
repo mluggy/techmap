@@ -6,11 +6,17 @@
   "logoFile": "logos/tripi_tour_systems-logo.webp",
   "websiteUrl": "https://www.tripicleveland.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tripi",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לבון פנחס",
@@ -19,5 +25,7 @@
       "lat": 32.1799188,
       "lon": 34.9083746
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

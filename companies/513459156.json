@@ -6,11 +6,17 @@
   "logoFile": "logos/verix-logo.webp",
   "websiteUrl": "https://verix.com/",
   "careersUrl": "https://verix.com/careers/",
-  "isHiring": true,
   "linkedinId": "verix",
+  "linkedinNum": 38254,
   "crunchbaseId": "verix",
+  "ivcId": null,
   "finderId": "verix",
   "xId": "verix_inc",
+  "facebookId": "verix.inc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "verix.inc",
-  "linkedinNum": 38254
+  "isActive": true
 }

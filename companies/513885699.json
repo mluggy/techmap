@@ -1,0 +1,31 @@
+{
+  "name": "BenderTech",
+  "description": "BenderTech specializes in creating innovative and advanced solutions for the homeland security industry.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/bendertech-logo.webp",
+  "websiteUrl": "https://www.bendertech-ltd.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000453041",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "איילון",
+      "houseNumber": 108,
+      "city": "ראש העין",
+      "lat": 32.09293,
+      "lon": 34.981153
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/intellithings-logo.webp",
   "websiteUrl": "https://www.intellithings.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "intellithings",
+  "linkedinNum": 10274853,
   "crunchbaseId": null,
+  "ivcId": "A1000000247086",
   "finderId": "intellithings",
   "xId": "Intellithings",
+  "facebookId": "Intellithings",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לח\"י",
-      "houseNumber": 39,
-      "city": "רמת השרון",
-      "lat": 32.1452204,
-      "lon": 34.8273468
+      "street": "הנחושת",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.1101422,
+      "lon": 34.8384126
     }
   ],
   "isMultinational": false,
-  "facebookId": "Intellithings",
-  "linkedinNum": 10274853
+  "isActive": true
 }

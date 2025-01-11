@@ -6,21 +6,26 @@
   "logoFile": "logos/aqualitas_technologies-logo.webp",
   "websiteUrl": "https://www.aqualitas.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "aqualitas-technologies",
+  "linkedinNum": 67762334,
   "crunchbaseId": "aqualitas-9be3",
+  "ivcId": "A1000000337347",
   "finderId": "aqualitas-technologies",
   "xId": null,
+  "facebookId": "AqualitasTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנמל",
+      "street": "אהוד",
       "houseNumber": 28,
       "city": "חיפה",
-      "lat": 32.8191508,
-      "lon": 35.0004706
+      "lat": 32.7931956,
+      "lon": 34.9895964
     }
   ],
   "isMultinational": false,
-  "facebookId": "AqualitasTechnologies",
-  "linkedinNum": 67762334
+  "isActive": true
 }

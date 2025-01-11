@@ -6,21 +6,26 @@
   "logoFile": "logos/amplio-logo.webp",
   "websiteUrl": "https://ampliolearning.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 9229543,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ninispeech",
   "xId": "_amplio_",
+  "facebookId": "ampliolearning",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 36,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.116259,
       "lon": 34.843072
     }
   ],
   "isMultinational": false,
-  "facebookId": "ampliolearning",
-  "linkedinNum": 9229543
+  "isActive": true
 }

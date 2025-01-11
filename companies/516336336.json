@@ -1,26 +1,31 @@
 {
   "name": "Session 42",
-  "description": "Digital Native Music Platform",
-  "categoryId": 8,
+  "description": "Session 42 is a developer of a digital music platform, intended for both music creators and music listeners.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/session_42-logo.webp",
-  "websiteUrl": "https://www.session42.ai/",
+  "websiteUrl": "https://session-42.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "session-42",
+  "linkedinNum": 81458912,
   "crunchbaseId": null,
+  "ivcId": "A1000000429683",
   "finderId": "session-42-1",
   "xId": null,
+  "facebookId": "Session42.music",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר יוחאי",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.052837,
-      "lon": 34.773448
+      "city": "תל אביב-יפו",
+      "lat": 32.0533899,
+      "lon": 34.7715612
     }
   ],
   "isMultinational": false,
-  "facebookId": "Session42.music",
-  "linkedinNum": 81458912
+  "isActive": true
 }

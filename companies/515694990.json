@@ -6,20 +6,26 @@
   "logoFile": "logos/nexite-logo.webp",
   "websiteUrl": "https://nexite.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nexiteio",
+  "linkedinNum": 18658875,
   "crunchbaseId": null,
+  "ivcId": "A1000000253290",
   "finderId": "nexite",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 126,
-      "city": "תל אביב - יפו",
-      "lat": 32.074473,
-      "lon": 34.795669
+      "city": "תל אביב-יפו",
+      "lat": 32.0744198,
+      "lon": 34.7956552
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18658875
+  "isActive": true
 }

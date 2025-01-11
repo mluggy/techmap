@@ -6,21 +6,26 @@
   "logoFile": "logos/novisign-logo.webp",
   "websiteUrl": "https://www.novisign.com/",
   "careersUrl": "https://www.novisign.com/about/careers/",
-  "isHiring": true,
   "linkedinId": "novisign-digital-signage",
+  "linkedinNum": 2661574,
   "crunchbaseId": null,
+  "ivcId": "A1000000020265",
   "finderId": "novisign",
   "xId": "novisign",
+  "facebookId": "novisign",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך הים",
-      "houseNumber": 3,
+      "street": "יד חרוצים",
+      "houseNumber": 6,
       "city": "כפר סבא",
-      "lat": 32.1856145,
-      "lon": 34.951263
+      "lat": 32.1776212,
+      "lon": 34.9263955
     }
   ],
   "isMultinational": false,
-  "facebookId": "novisign",
-  "linkedinNum": 2661574
+  "isActive": true
 }

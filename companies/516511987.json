@@ -1,23 +1,31 @@
 {
   "name": "Team Me",
-  "description": "Team Me Live · merch · merch merch · merch · merch merch.",
-  "categoryId": 11,
+  "description": "Team.",
+  "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/team_me-logo.webp",
-  "websiteUrl": "https://www.teammeband.com/",
+  "logoFile": "logos/team-me-logo.webp",
+  "websiteUrl": "https://www.teamme.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "teamme",
+  "linkedinNum": 77073320,
   "crunchbaseId": null,
+  "ivcId": "A1000000402673",
   "finderId": "team-me",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התפוז",
-      "houseNumber": 9,
-      "city": "שוהם",
-      "lat": 31.9867276,
-      "lon": 34.9451661
+      "street": "האתרוג",
+      "houseNumber": null,
+      "city": "סביון",
+      "lat": 32.043878,
+      "lon": 34.883957
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

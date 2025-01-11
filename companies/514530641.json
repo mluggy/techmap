@@ -1,25 +1,31 @@
 {
   "name": "Headovations",
-  "description": "Head Support Solutions",
+  "description": "Headovations is dedicated to providing innovative aid and safety head support novelty solution.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/headovations-logo.webp",
-  "websiteUrl": "https://www.mynapup.com/",
+  "websiteUrl": "https://www.headaloft.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "headovations",
+  "linkedinNum": 92880047,
   "crunchbaseId": null,
+  "ivcId": "A1000000491848",
   "finderId": "headovations",
   "xId": null,
+  "facebookId": "mynapup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אדירים",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.120399,
-      "lon": 34.840216
+      "street": "הברזל",
+      "houseNumber": 11,
+      "city": "תל אביב-יפו",
+      "lat": 32.1074764,
+      "lon": 34.8366965
     }
   ],
   "isMultinational": false,
-  "facebookId": "mynapup"
+  "isActive": true
 }

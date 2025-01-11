@@ -6,11 +6,17 @@
   "logoFile": "logos/augmind-logo.webp",
   "websiteUrl": "https://augmind.me/",
   "careersUrl": "https://www.augmind.me/jobs/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "augmind",
+  "linkedinNum": 11853924,
   "crunchbaseId": "augmind",
+  "ivcId": "A1000000271771",
   "finderId": "augmind",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלגל הפלדה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11853924
+  "isActive": true
 }

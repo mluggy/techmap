@@ -1,0 +1,31 @@
+{
+  "name": "KayHut",
+  "description": "KayHut is a leading provider of cyber security solutions for the defense and private sectors.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/kayhut-logo.webp",
+  "websiteUrl": "http://www.kayhut.com",
+  "careersUrl": "https://kayhut.com/careers",
+  "linkedinId": "kayhut",
+  "linkedinNum": 5002461,
+  "crunchbaseId": null,
+  "ivcId": "A1000000179677",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ספיר",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1638824,
+      "lon": 34.8115862
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

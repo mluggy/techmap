@@ -6,21 +6,26 @@
   "logoFile": "logos/ford_israel_innovation_center-logo.webp",
   "websiteUrl": "https://www.ford.com/",
   "careersUrl": "https://corporate.ford.com/careers.html",
-  "isHiring": true,
   "linkedinId": "ford-motor-company",
+  "linkedinNum": 1483,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ford",
   "xId": "ford",
+  "facebookId": "ford",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השלושה",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0617382,
       "lon": 34.7882304
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ford",
-  "linkedinNum": 1483
+  "isMultinational": false,
+  "isActive": true
 }

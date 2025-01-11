@@ -1,16 +1,22 @@
 {
   "name": "Microsoft",
   "description": "Discover a range of tech solutions from innovative devices to cloud services for both personal and professional use.",
-  "size": "l",
   "categoryId": 14,
+  "size": "l",
   "logoFile": "logos/microsoft_4772_israel-logo.webp",
   "websiteUrl": "https://microsoftrnd.co.il/",
   "careersUrl": "https://careers.microsoft.com/",
-  "isHiring": true,
   "linkedinId": "microsoft",
+  "linkedinNum": 1035,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "microsoft",
   "xId": "msrndil",
+  "facebookId": "MicrosoftRnDil",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלן טיורינג",
@@ -20,7 +26,6 @@
       "lon": 34.80533117029748
     }
   ],
-  "isMultinational": true,
-  "facebookId": "MicrosoftRnDil",
-  "linkedinNum": 1035
+  "isMultinational": false,
+  "isActive": true
 }

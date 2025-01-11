@@ -1,26 +1,31 @@
 {
   "name": "VOTIS Subdermal Imaging Technologies",
-  "description": "Device for Assessing Foot Patency in People with Peripheral Artery Disease",
+  "description": "Device for Assessing Foot Patency in People with Peripheral Artery Disease.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/votis_subdermal_imaging_technologies-logo.webp",
   "websiteUrl": "https://votis.net",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "votis-subdermal-imaging-technologies-ltd",
+  "linkedinNum": 69203351,
   "crunchbaseId": "votis-subdermal-imaging-technologies",
+  "ivcId": "A1000000233319",
   "finderId": "votis-subdermal-imaging-technologies",
   "xId": null,
+  "facebookId": "Votis.Subdermal.Imaging",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנא",
       "houseNumber": 4,
       "city": "ירושלים",
-      "lat": 31.75029,
-      "lon": 35.2136606
+      "lat": 31.7496827,
+      "lon": 35.2163742
     }
   ],
   "isMultinational": false,
-  "facebookId": "Votis.Subdermal.Imaging",
-  "linkedinNum": 69203351
+  "isActive": true
 }

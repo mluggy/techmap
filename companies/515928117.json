@@ -1,26 +1,31 @@
 {
   "name": "Propel",
-  "description": "PR Productivity Platform",
+  "description": "PR Productivity Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/propel_hr-logo.webp",
   "websiteUrl": "https://www.propelmypr.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "propel-crm",
+  "linkedinNum": 27245365,
   "crunchbaseId": null,
+  "ivcId": "A1000000293020",
   "finderId": "propel",
   "xId": "PropelPRM",
+  "facebookId": "PropelPRM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רגבים",
+      "street": "אלוף קלמן מגן",
       "houseNumber": 3,
-      "city": "רמת השרון",
-      "lat": 32.1496042,
-      "lon": 34.839727
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "facebookId": "PropelPRM",
-  "linkedinNum": 27245365
+  "isActive": true
 }

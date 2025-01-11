@@ -1,23 +1,31 @@
 {
   "name": "L 2 X Labs",
-  "description": "Light Sources for EUV Lithography in Semiconductor Fabrication.",
-  "categoryId": 16,
+  "description": "L2X-Labs is a developer of light sources, intended to solve the challenges of the semiconductor manufacturing industry.",
+  "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/l_2_x_labs-logo.webp",
-  "websiteUrl": "https://www.xlabsearth.com/",
+  "logoFile": "logos/l-2-x-labs-logo.webp",
+  "websiteUrl": "https://www.l2xlabs.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "l2x-labs",
+  "linkedinNum": 96683853,
   "crunchbaseId": null,
+  "ivcId": "A1000000461223",
   "finderId": "l2x-labs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שחר",
-      "houseNumber": 24,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7800245,
-      "lon": 35.1940762
+      "lat": 31.7945578,
+      "lon": 35.2414009
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

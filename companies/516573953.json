@@ -6,21 +6,26 @@
   "logoFile": "logos/kanabo_agritec-logo.webp",
   "websiteUrl": "https://www.kanabogroup.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kanabo-reserach",
+  "linkedinNum": 11742485,
   "crunchbaseId": null,
+  "ivcId": "A1000000226746",
   "finderId": "kanabo-research",
   "xId": null,
+  "facebookId": "kanaboresearch",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מלכי יהודה",
-      "houseNumber": 6,
-      "city": "הרצליה",
-      "lat": 32.1699447,
-      "lon": 34.84216590048941
+      "street": "אליעזר קפלן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0733456,
+      "lon": 34.78202479999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "kanaboresearch",
-  "linkedinNum": 11742485
+  "isActive": true
 }

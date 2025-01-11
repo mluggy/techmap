@@ -6,21 +6,26 @@
   "logoFile": "logos/magdent-logo.webp",
   "websiteUrl": "https://magdentmed.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "magdent",
+  "linkedinNum": 2658158,
   "crunchbaseId": null,
+  "ivcId": "A1000000001162",
   "finderId": "magdent",
   "xId": null,
+  "facebookId": "magdentmed",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מצדה",
+      "street": "מסדה",
       "houseNumber": 9,
       "city": "בני ברק",
-      "lat": 32.0914266,
-      "lon": 34.8251051
+      "lat": 32.0912517,
+      "lon": 34.8515146
     }
   ],
   "isMultinational": false,
-  "facebookId": "magdentmed",
-  "linkedinNum": 2658158
+  "isActive": true
 }

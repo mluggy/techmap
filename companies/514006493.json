@@ -1,16 +1,22 @@
 {
   "name": "Rise",
-  "description": "Advanced Monetization and Data-powered Solutions",
+  "description": "Advanced Monetization and Data-powered Solutions.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/rise_management_engineering-logo.webp",
   "websiteUrl": "https://risecodes.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "risecodes",
+  "linkedinNum": 70928327,
   "crunchbaseId": null,
+  "ivcId": "A1000000345894",
   "finderId": "rise1",
   "xId": null,
+  "facebookId": "risecodes",
+  "breezyId": null,
+  "comeetId": "risecodes/A9.000",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אז\"ר",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "risecodes",
-  "linkedinNum": 70928327,
-  "comeetId": "risecodes/A9.000"
+  "isActive": true
 }

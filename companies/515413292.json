@@ -6,21 +6,26 @@
   "logoFile": "logos/nonagon-logo.webp",
   "websiteUrl": "https://nonagon-care.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "myhomedoc",
+  "linkedinNum": 51671067,
   "crunchbaseId": null,
+  "ivcId": "A1000000207726",
   "finderId": "nonagon",
   "xId": null,
+  "facebookId": "nonagoncare",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האשל",
-      "houseNumber": 1,
-      "city": "קיסריה",
-      "lat": 32.4774943,
-      "lon": 34.9447996
+      "street": "זרחין",
+      "houseNumber": 13,
+      "city": "רעננה",
+      "lat": 32.1978658,
+      "lon": 34.882369
     }
   ],
   "isMultinational": false,
-  "facebookId": "nonagoncare",
-  "linkedinNum": 51671067
+  "isActive": true
 }

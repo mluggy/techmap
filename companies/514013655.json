@@ -1,16 +1,22 @@
 {
   "name": "Perflex",
-  "description": "Biocompatible Thermoplastics for Aesthetic Dentures",
+  "description": "Biocompatible Thermoplastics for Aesthetic Dentures.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/perflex-logo.webp",
   "websiteUrl": "https://www.perflexltd.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000024768",
   "finderId": "perflex",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גיבורי ישראל",
@@ -20,5 +26,6 @@
       "lon": 34.8610014
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,24 +1,31 @@
 {
   "name": "Evolution Water",
-  "description": "AI-powered Water Infrastructure Management Solution",
-  "categoryId": 14,
+  "description": "eVolution Water is a unique AI company (part of “Evolution Systems”) focuses on achieving and maximizing energetic efficiency in areas related to managing, securing, and re-building of water infrastructure worldwide.",
+  "categoryId": 6,
   "size": "xs",
   "logoFile": "logos/evolution_water-logo.webp",
-  "websiteUrl": "https://www.evolution-water.ai/",
+  "websiteUrl": "https://www.evolution-networks.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000341051",
   "finderId": "evolution-water",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאל שרון",
       "houseNumber": 4,
       "city": "גבעתיים",
-      "lat": 32.08005635,
-      "lon": 34.799938614641945
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

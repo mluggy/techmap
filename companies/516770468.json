@@ -1,0 +1,31 @@
+{
+  "name": "NewBolt",
+  "description": "NewBolt aims to change the global textile industry and make it local with is 3D textile printers.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/newbolt-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000477517",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חגי הנביא",
+      "houseNumber": 14,
+      "city": "בית שמש",
+      "lat": 31.701202,
+      "lon": 34.98084
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/netformx_ltd-logo.webp",
   "websiteUrl": "https://www.netformx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "netformx",
+  "linkedinNum": 22816,
   "crunchbaseId": "netformx",
+  "ivcId": null,
   "finderId": "netformx",
   "xId": "netformx",
+  "facebookId": "nfxsupport",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מזא\"ה",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.067487,
       "lon": 34.771998
     }
   ],
   "isMultinational": false,
-  "facebookId": "nfxsupport",
-  "linkedinNum": 22816
+  "isActive": true
 }

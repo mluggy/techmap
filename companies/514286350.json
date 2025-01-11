@@ -1,0 +1,31 @@
+{
+  "name": "RegionSEE",
+  "description": "RegionSEE has developed a system for the management of field staff and location-based assets allowing the control and supervision of all ongoing operational activities.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/regionsee-logo.webp",
+  "websiteUrl": "http://www.regionsee.net",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001512",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות בן גוריון",
+      "houseNumber": 33,
+      "city": "ראש העין",
+      "lat": 32.08228,
+      "lon": 34.9672445
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

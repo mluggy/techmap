@@ -6,20 +6,26 @@
   "logoFile": "logos/wilk_technologies-logo.webp",
   "websiteUrl": "https://wilkismilk.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wilkismilk",
+  "linkedinNum": 69558062,
   "crunchbaseId": null,
+  "ivcId": "A1000000329721",
   "finderId": "biomilk",
   "xId": "WilkIsMilk",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אופנהיימר",
-      "houseNumber": 2,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.9104321,
-      "lon": 34.8058374
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69558062
+  "isActive": true
 }

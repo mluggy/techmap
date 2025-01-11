@@ -6,21 +6,26 @@
   "logoFile": "logos/tulou_community-logo.webp",
   "websiteUrl": "https://www.tulu.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tulou",
+  "linkedinNum": 35458285,
   "crunchbaseId": null,
+  "ivcId": "A1000000265293",
   "finderId": "tulou",
   "xId": "tululiving",
+  "facebookId": "TULU.city",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סהרון",
-      "houseNumber": 12,
-      "city": "תל אביב - יפו",
-      "lat": 32.034539,
-      "lon": 34.750491
+      "street": "קרליבך",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.0668327,
+      "lon": 34.7832866
     }
   ],
   "isMultinational": false,
-  "facebookId": "TULU.city",
-  "linkedinNum": 35458285
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/cornerstone-ondemand.webp",
   "websiteUrl": "https://www.cornerstoneondemand.com/",
   "careersUrl": "https://www.cornerstoneondemand.com/careers/",
-  "isHiring": true,
   "linkedinId": "cornerstoneondemand",
   "linkedinNum": 19664,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cornerstone-ondemand",
   "xId": "cornerstoneinc",
   "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.10892395778442,
       "lon": 34.838661690964926
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

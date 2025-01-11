@@ -6,18 +6,26 @@
   "logoFile": "logos/wear_2_b-logo.webp",
   "websiteUrl": "https://wear-2b.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wear-2b",
+  "linkedinNum": null,
   "crunchbaseId": "wear2b",
+  "ivcId": "A1000000207986",
   "finderId": "wear2b",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אזור תעשייה",
-      "houseNumber": 101,
+      "street": null,
+      "houseNumber": null,
       "city": "ראש פינה",
-      "lat": 32.99327038704103,
-      "lon": 35.56754735712749
+      "lat": 32.968975,
+      "lon": 35.568768
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

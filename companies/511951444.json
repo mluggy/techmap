@@ -6,18 +6,26 @@
   "logoFile": "logos/allied_universal_electronic_monitoring_international-logo.webp",
   "websiteUrl": "https://www.aus.com/",
   "careersUrl": "https://jobs.aus.com/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "allied-universal",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.106471,
       "lon": 34.835657
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

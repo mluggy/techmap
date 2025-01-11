@@ -6,21 +6,26 @@
   "logoFile": "logos/meteo_logic-logo.webp",
   "websiteUrl": "https://meteo-logic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "meteo-logic",
+  "linkedinNum": 2477913,
   "crunchbaseId": null,
+  "ivcId": "A1000000020458",
   "finderId": "meteo-logic",
   "xId": "MeteoLogic",
+  "facebookId": "Meteo-Logic-291806974206965",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התדהר",
-      "houseNumber": 15,
-      "city": "רעננה",
-      "lat": 32.19630935,
-      "lon": 34.88423473965118
+      "street": "משה שרת",
+      "houseNumber": 22,
+      "city": "רמות השבים",
+      "lat": 32.1628206,
+      "lon": 34.88561809999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "Meteo-Logic-291806974206965",
-  "linkedinNum": 2477913
+  "isActive": true
 }

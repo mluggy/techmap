@@ -6,11 +6,17 @@
   "logoFile": "logos/ilyon_dynamics-logo.webp",
   "websiteUrl": "https://www.ilyon.net/",
   "careersUrl": "https://www.ilyon.net/careers/",
-  "isHiring": true,
   "linkedinId": "ilyon-dynamics-ltd",
+  "linkedinNum": 10603479,
   "crunchbaseId": "ilyon-dynamics",
+  "ivcId": null,
   "finderId": "ilyon-dynamics",
   "xId": null,
+  "facebookId": "ilyon.games",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התאנה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ilyon.games",
-  "linkedinNum": 10603479
+  "isActive": true
 }

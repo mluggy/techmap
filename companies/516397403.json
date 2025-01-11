@@ -1,26 +1,31 @@
 {
   "name": "Twigo.TV",
-  "description": "Platform for Discovering Live Streams.",
+  "description": "Twigo.tv takes all the various live streamers from various platforms and tells the users where and who they should watch now.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/twigo_tv-logo.webp",
-  "websiteUrl": "https://twigo.gg/",
+  "websiteUrl": "https://www.twigo.tv",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "twigotv",
+  "linkedinNum": 77025034,
   "crunchbaseId": "twigo-tv",
+  "ivcId": "A1000000367944",
   "finderId": "twigo-tv",
   "xId": null,
+  "facebookId": "TWIGO.TV",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המנופים",
-      "houseNumber": 10,
+      "street": "רחוב המלך יהושפט",
+      "houseNumber": 9,
       "city": "הרצליה",
-      "lat": 32.1598236,
-      "lon": 34.8080456
+      "lat": 32.1719305,
+      "lon": 34.8091322
     }
   ],
   "isMultinational": false,
-  "facebookId": "TWIGO.TV",
-  "linkedinNum": 77025034
+  "isActive": true
 }

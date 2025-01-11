@@ -1,25 +1,31 @@
 {
   "name": "Neologic",
-  "description": "Quasi-CMOS Computing Technology",
+  "description": "Quasi-CMOS Computing Technology.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/neologic-logo.webp",
   "websiteUrl": "https://www.neologicvlsi.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "neologicvlsi",
+  "linkedinNum": 87197678,
   "crunchbaseId": null,
+  "ivcId": "A1000000376037",
   "finderId": "neologic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפקאן",
-      "houseNumber": 12,
-      "city": "תל מונד",
-      "lat": 32.2470566,
-      "lon": 34.9213785
+      "street": "גיבורי ישראל",
+      "houseNumber": 20,
+      "city": "בני ברק",
+      "lat": 32.0821611,
+      "lon": 34.8437037
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 87197678
+  "isActive": true
 }

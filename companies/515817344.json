@@ -6,21 +6,26 @@
   "logoFile": "logos/ride_vision-logo.webp",
   "websiteUrl": "https://ride.vision/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ridevision",
+  "linkedinNum": 18492958,
   "crunchbaseId": null,
+  "ivcId": "A1000000255623",
   "finderId": "ride-vision",
   "xId": "ride_vision",
+  "facebookId": "ridevision",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גלגל הפלדה",
-      "houseNumber": 11,
+      "street": "המנופים",
+      "houseNumber": 10,
       "city": "הרצליה",
-      "lat": 32.1726475,
-      "lon": 34.8071901
+      "lat": 32.1595829,
+      "lon": 34.8083893
     }
   ],
   "isMultinational": false,
-  "facebookId": "ridevision",
-  "linkedinNum": 18492958
+  "isActive": true
 }

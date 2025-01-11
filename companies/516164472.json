@@ -1,26 +1,31 @@
 {
   "name": "YOW HR",
-  "description": "Human Resources Engagement and Optimization Platform",
+  "description": "Human Resources Engagement and Optimization Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/yow_hr-logo.webp",
   "websiteUrl": "https://yowkrs.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "yowxr",
+  "linkedinNum": 65272732,
   "crunchbaseId": null,
+  "ivcId": "A1000000324594",
   "finderId": "yow",
   "xId": "yow_hr",
+  "facebookId": "yowhr",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ארלוזורוב",
-      "houseNumber": 68,
-      "city": "תל אביב - יפו",
-      "lat": 32.08599,
-      "lon": 34.778159
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "facebookId": "yowhr",
-  "linkedinNum": 65272732
+  "isActive": true
 }

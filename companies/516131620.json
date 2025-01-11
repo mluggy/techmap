@@ -6,20 +6,26 @@
   "logoFile": "logos/saccade_vision-logo.webp",
   "websiteUrl": "https://www.saccadevision.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "saccade-vision",
+  "linkedinNum": 37064840,
   "crunchbaseId": null,
+  "ivcId": "A1000000310275",
   "finderId": "saccade-vision",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גלוסקין",
-      "houseNumber": 15,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.8991294,
-      "lon": 34.8090818
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37064840
+  "isActive": true
 }

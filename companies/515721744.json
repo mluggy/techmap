@@ -1,25 +1,31 @@
 {
   "name": "TriEye",
-  "description": "Short-Wave Infrared (SWIR) Sensing Solutions Enabling Imaging & Ranging Under All Visibility Conditions",
+  "description": "Short-Wave Infrared (SWIR) Sensing Solutions Enabling Imaging & Ranging Under All Visibility Conditions.",
   "categoryId": 5,
   "size": "m",
   "logoFile": "logos/trieye-logo.webp",
   "websiteUrl": "https://www.trieye.tech",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "trieye",
+  "linkedinNum": 18073394,
   "crunchbaseId": null,
+  "ivcId": "A1000000233696",
   "finderId": "trieye",
   "xId": "trieye_tech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 82,
-      "city": "תל אביב - יפו",
-      "lat": 32.066186,
-      "lon": 34.792954
+      "city": "תל אביב-יפו",
+      "lat": 32.0662181,
+      "lon": 34.7928935
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18073394
+  "isActive": true
 }

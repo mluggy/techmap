@@ -1,0 +1,31 @@
+{
+  "name": "Organuz",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/organuz-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000448528",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות הציונות",
+      "houseNumber": 12,
+      "city": "קרית אתא",
+      "lat": 32.8061375,
+      "lon": 35.10634750000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

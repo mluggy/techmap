@@ -6,20 +6,26 @@
   "logoFile": "logos/gytpol-logo.webp",
   "websiteUrl": "https://gytpol.com/",
   "careersUrl": "https://gytpol.com/careers/",
-  "isHiring": true,
   "linkedinId": "gytpol",
+  "linkedinNum": 34653263,
   "crunchbaseId": null,
+  "ivcId": "A1000000263767",
   "finderId": "gytpol",
   "xId": "gytpol",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השופטים",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.076408,
-      "lon": 34.77881
+      "city": "תל אביב-יפו",
+      "lat": 32.0764602,
+      "lon": 34.7788266
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 34653263
+  "isActive": true
 }

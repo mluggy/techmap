@@ -6,21 +6,26 @@
   "logoFile": "logos/ottopia_technologies-logo.webp",
   "websiteUrl": "https://www.ottopia.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ottopia",
+  "linkedinNum": 11860995,
   "crunchbaseId": "ottopia",
+  "ivcId": "A1000000270925",
   "finderId": "ottopia",
   "xId": "ottopia_tech",
+  "facebookId": "ottopiatech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.066532,
-      "lon": 34.785078
+      "street": "ריב\"ל",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.0622227,
+      "lon": 34.784134
     }
   ],
   "isMultinational": false,
-  "facebookId": "ottopiatech",
-  "linkedinNum": 11860995
+  "isActive": true
 }

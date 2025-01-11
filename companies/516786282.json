@@ -1,16 +1,22 @@
 {
   "name": "Databin",
-  "description": "IoT Monitoring and Management of Waste Disposal Bins",
-  "categoryId": 5,
+  "description": "PSI developed underground waste bins and it started developing smart waste bins (Databin) with a sensor.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/databin-logo.webp",
-  "websiteUrl": "https://www.data-bins.info/",
+  "websiteUrl": "http://www.data-bins.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "databin",
+  "linkedinNum": 27111840,
   "crunchbaseId": null,
+  "ivcId": "A1000000230844",
   "finderId": "databin",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הבנים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27111840
+  "isActive": true
 }

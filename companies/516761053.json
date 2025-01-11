@@ -1,25 +1,31 @@
 {
   "name": "Finberry",
-  "description": "Personalized Wealth Management Platform",
+  "description": "Personalized Wealth Management Platform.",
   "categoryId": 10,
   "size": "xs",
   "logoFile": "logos/finberry-logo.webp",
   "websiteUrl": "https://finberry.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "finberry-ai",
+  "linkedinNum": 93255384,
   "crunchbaseId": null,
+  "ivcId": "A1000000453825",
   "finderId": "finberry",
   "xId": "Finberry_ai",
+  "facebookId": "100094507819870",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פריש דניאל",
+      "street": "דניאל פריש",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07463945,
-      "lon": 34.78327163578098
+      "city": "תל אביב-יפו",
+      "lat": 32.0745707,
+      "lon": 34.7832566
     }
   ],
   "isMultinational": false,
-  "facebookId": "100094507819870"
+  "isActive": true
 }

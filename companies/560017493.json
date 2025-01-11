@@ -6,13 +6,17 @@
   "logoFile": "logos/at-t.webp",
   "websiteUrl": "https://il.att.com/",
   "careersUrl": "https://www.att.jobs/",
-  "isHiring": true,
   "linkedinId": "at-t-israel-r-d-center",
   "linkedinNum": 37482211,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "at-t",
   "xId": "ATT",
   "facebookId": "attrndil",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נגב",
@@ -22,5 +26,6 @@
       "lon": 34.912853521517434
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

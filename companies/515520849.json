@@ -3,14 +3,20 @@
   "description": "Facilitating the use of CAR-T cell therapy for treating solid tumors.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/ctg_pharma-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/ctg-pharma-logo.webp",
+  "websiteUrl": "http://ctg-pharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ctg-pharma",
+  "linkedinNum": 42122350,
   "crunchbaseId": "ctg-pharma",
+  "ivcId": null,
   "finderId": "ctg-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -19,5 +25,7 @@
       "lat": 31.9122141,
       "lon": 34.8039948
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

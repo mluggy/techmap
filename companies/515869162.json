@@ -1,0 +1,31 @@
+{
+  "name": "Gruda",
+  "description": "Gruda is an advanced food development laboratory that provides food industry players with end-to-end services, from concept creation to product market launch.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/gruda-logo.webp",
+  "websiteUrl": "https://www.gruda.co.il",
+  "careersUrl": null,
+  "linkedinId": "grudafoodlab",
+  "linkedinNum": 87375179,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491175",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הספורט",
+      "houseNumber": 20,
+      "city": "חיפה",
+      "lat": 32.7992959,
+      "lon": 34.9871817
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

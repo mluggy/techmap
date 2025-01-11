@@ -1,24 +1,31 @@
 {
   "name": "Patool.AI",
-  "description": "Stealth Mode",
+  "description": "PatoolAI’s solution is a system that combines hyperspectral tissue imaging with deep learning algorithms to perform a “virtual stain” on the tissue.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/patool_ai-logo.webp",
-  "websiteUrl": "https://patoolai.com/",
+  "websiteUrl": "https://ehv.health/project/patoolai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "patool-ai",
+  "ivcId": "A1000000419732",
   "finderId": "patool-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב אונטרמן יהודה",
-      "houseNumber": 13,
-      "city": "נתניה",
-      "lat": 32.31043446276026,
-      "lon": 34.87870866480737
+      "street": "פרופסור יחזקאל קויפמן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0630953,
+      "lon": 34.7622538
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

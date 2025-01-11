@@ -1,0 +1,31 @@
+{
+  "name": "Hopa Tag",
+  "description": "Hopa Tag markets tags and reusable cards that allow quick sharing of personal or business details in a wireless and intuitive way.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/hopa_tag-logo.webp",
+  "websiteUrl": "https://hopatag.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000388272",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בזלת",
+      "houseNumber": 18,
+      "city": "זכרון יעקב",
+      "lat": 32.564652,
+      "lon": 34.940705
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

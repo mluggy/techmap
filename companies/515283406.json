@@ -1,0 +1,31 @@
+{
+  "name": "Smart Loo",
+  "description": "LIS is developing an automatic system for providing disposable seat cover for a toilet seat without hand contact.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/smart_loo-logo.webp",
+  "websiteUrl": "https://www.smartloo.co.il",
+  "careersUrl": null,
+  "linkedinId": "refresh-got-you-covered",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000291568",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרב שרירא גאון",
+      "houseNumber": 4,
+      "city": "ירושלים",
+      "lat": 31.7883916,
+      "lon": 35.1936089
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

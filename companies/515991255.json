@@ -1,26 +1,31 @@
 {
   "name": "Circles",
-  "description": "An innovative online platform offering round-the-clock emotional support groups for shared life challenges.",
-  "categoryId": 12,
-  "size": "m",
+  "description": "Cormi.com is a mobile-first communication tool designed for the frontline workforce. The company empowers people to share their ideas and collaborate to increase productivity and retention.",
+  "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/circles_it_innovation-logo.webp",
-  "websiteUrl": "https://circlesup.com/",
+  "websiteUrl": "https://www.cormi.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "circlesinnovate",
+  "linkedinNum": 34595189,
   "crunchbaseId": null,
+  "ivcId": "A1000000301192",
   "finderId": "7chairs",
   "xId": "circlessupport",
+  "facebookId": "CirclesSupport",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויתקין",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.090934,
-      "lon": 34.773611
+      "street": "שוקן",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.053194,
+      "lon": 34.7723811
     }
   ],
   "isMultinational": false,
-  "facebookId": "CirclesSupport",
-  "linkedinNum": 34595189
+  "isActive": true
 }

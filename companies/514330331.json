@@ -1,16 +1,22 @@
 {
   "name": "Overwolf",
-  "description": "In-Game Creators' Guild",
+  "description": "In-Game Creators' Guild.",
   "categoryId": 8,
   "size": "m",
   "logoFile": "logos/overwolf-logo.webp",
   "websiteUrl": "https://www.overwolf.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "overwolf.com",
+  "linkedinNum": 519584,
   "crunchbaseId": null,
+  "ivcId": "A1000000001943",
   "finderId": "overwolf",
   "xId": "theoverwolf",
+  "facebookId": "Overwolf",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Overwolf",
-  "linkedinNum": 519584
+  "isActive": true
 }

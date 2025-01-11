@@ -6,21 +6,26 @@
   "logoFile": "logos/twist_bioscience_israel-logo.webp",
   "websiteUrl": "https://www.twistbioscience.com/",
   "careersUrl": "https://www.twistbioscience.com/company/careers",
-  "isHiring": true,
   "linkedinId": "twist-bioscience",
+  "linkedinNum": 3508131,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "twist-bioscience",
   "xId": "twistbioscience",
+  "facebookId": "TwistBioscienceTLV",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.048445,
       "lon": 34.752116
     }
   ],
-  "isMultinational": true,
-  "facebookId": "TwistBioscienceTLV",
-  "linkedinNum": 3508131
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/waycare.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 10583114,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "waycare",
   "xId": "WayCareTech",
   "facebookId": "waycaretech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 55,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062605491970025,
       "lon": 34.79184135906221
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": false
 }

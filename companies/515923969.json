@@ -1,26 +1,31 @@
 {
   "name": "Embie Clinic",
-  "description": "Enabling a 10X growth in Fertility Treatments in the US via Remote Fertility Treatment",
+  "description": "Embie is enabling more IVF via remote fertility care.",
   "categoryId": 12,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/embie_clinic-logo.webp",
-  "websiteUrl": "https://embieapp.com",
+  "websiteUrl": "https://embieclinic.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "embie-clinic",
+  "linkedinNum": 74321722,
   "crunchbaseId": null,
+  "ivcId": "A1000000356385",
   "finderId": "embie-clinic",
   "xId": null,
+  "facebookId": "embieapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טרומפלדור",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.075347,
-      "lon": 34.766947
+      "city": "תל אביב-יפו",
+      "lat": 32.0753944,
+      "lon": 34.7669808
     }
   ],
   "isMultinational": false,
-  "facebookId": "embieapp",
-  "linkedinNum": 74321722
+  "isActive": true
 }

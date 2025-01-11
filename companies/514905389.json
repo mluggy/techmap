@@ -6,21 +6,26 @@
   "logoFile": "logos/angel_sense-logo.webp",
   "websiteUrl": "https://www.angelsense.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5252017,
   "crunchbaseId": null,
+  "ivcId": "A1000000023614",
   "finderId": "angelsense",
   "xId": "AngelSenseGPS",
+  "facebookId": "AngelSenseProtectingChildren",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבוא אתרוג",
       "houseNumber": 1,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0354335,
-      "lon": 34.8821282
+      "city": "יהוד מונוסון",
+      "lat": 32.0352725,
+      "lon": 34.882577
     }
   ],
   "isMultinational": false,
-  "facebookId": "AngelSenseProtectingChildren",
-  "linkedinNum": 5252017
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Cirotta Tech",
-  "description": "Anti-hacking Phone Case",
+  "description": "Anti-hacking Phone Case.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/cirotta_tech-logo.webp",
   "websiteUrl": "https://cirotta.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cirotta",
+  "linkedinNum": 68119980,
   "crunchbaseId": "cirotta",
+  "ivcId": "A1000000391503",
   "finderId": "cirotta",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התדהר",
-      "houseNumber": 15,
-      "city": "רעננה",
-      "lat": 32.19630935,
-      "lon": 34.88423473965118
+      "street": "הארד",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.1110475,
+      "lon": 34.8411716
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68119980
+  "isActive": true
 }

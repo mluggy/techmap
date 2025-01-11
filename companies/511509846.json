@@ -6,11 +6,17 @@
   "logoFile": "logos/datatex-logo.webp",
   "websiteUrl": "https://datatex.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "datatex",
+  "linkedinNum": 51728,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "datatex",
   "xId": "datatex_erp",
+  "facebookId": "datatexErp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אודם",
@@ -20,7 +26,6 @@
       "lon": 34.8577193
     }
   ],
-  "isMultinational": true,
-  "facebookId": "datatexErp",
-  "linkedinNum": 51728
+  "isMultinational": false,
+  "isActive": true
 }

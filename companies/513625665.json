@@ -1,0 +1,31 @@
+{
+  "name": "Techmind",
+  "description": "TechMind was established as a vendor-independent management and technology consultancy firm.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/techmind-logo.webp",
+  "websiteUrl": "http://techmind.co.il",
+  "careersUrl": null,
+  "linkedinId": "techmind",
+  "linkedinNum": 155848,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010090",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תוצרת הארץ",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0788226,
+      "lon": 34.7791299
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

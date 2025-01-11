@@ -6,20 +6,26 @@
   "logoFile": "logos/viritis-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "viritis",
+  "linkedinNum": 70943980,
   "crunchbaseId": null,
+  "ivcId": "A1000000333199",
   "finderId": "viritis",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "העוגב",
-      "houseNumber": 49,
-      "city": "פתח תקווה",
-      "lat": 32.0781408,
-      "lon": 34.9083978
+      "street": null,
+      "houseNumber": null,
+      "city": "נוף הגליל",
+      "lat": 32.711539,
+      "lon": 35.324812
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70943980
+  "isActive": true
 }

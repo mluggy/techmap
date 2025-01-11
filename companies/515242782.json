@@ -6,18 +6,26 @@
   "logoFile": "logos/panoply-logo.webp",
   "websiteUrl": "https://panoply.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "color",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 146,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

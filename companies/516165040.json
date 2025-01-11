@@ -6,20 +6,26 @@
   "logoFile": "logos/pairzon-logo.webp",
   "websiteUrl": "https://pairzon.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pairzon-ai",
+  "linkedinNum": 69549595,
   "crunchbaseId": "pairzon-ai",
+  "ivcId": "A1000000340558",
   "finderId": "pairzon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החורש",
-      "houseNumber": 8,
-      "city": "בנימינה",
-      "lat": 32.5154583,
-      "lon": 35.007914
+      "street": "המנופים",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.1595829,
+      "lon": 34.8083893
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69549595
+  "isActive": true
 }

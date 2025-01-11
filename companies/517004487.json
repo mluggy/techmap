@@ -1,0 +1,31 @@
+{
+  "name": "Cyvore",
+  "description": "Cyvore will allow the users to easily understand if the link they entered (on purpose or by mistake) is from a phishing site.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/cyvore-logo.webp",
+  "websiteUrl": "https://cyvore.com",
+  "careersUrl": null,
+  "linkedinId": "cyvore",
+  "linkedinNum": 81427031,
+  "crunchbaseId": null,
+  "ivcId": "A1000000457921",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הכנסת",
+      "houseNumber": 35,
+      "city": "גבעתיים",
+      "lat": 32.0693962,
+      "lon": 34.8125871
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

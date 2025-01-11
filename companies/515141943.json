@@ -1,16 +1,22 @@
 {
   "name": "VitActive",
-  "description": "Offering high-potency, low-sugar supplement bundles with calcium chews and omega-3 gummies for enhanced health benefits.",
-  "categoryId": 12,
+  "description": "VitActive develops natural substitutes for chemical preservatives in food.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/vitactive-logo.webp",
-  "websiteUrl": "https://viactiv.com/",
+  "websiteUrl": "http://vitactive.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vitactive",
+  "linkedinNum": 34704715,
   "crunchbaseId": null,
+  "ivcId": "A1000000310145",
   "finderId": "vitactive",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד בנימין",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 34704715
+  "isActive": true
 }

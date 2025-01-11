@@ -1,0 +1,31 @@
+{
+  "name": "Dodo Smart",
+  "description": "Dodo Smart creates a playful learning experience for preschool children in Arabic.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/dodo_smart-logo.webp",
+  "websiteUrl": "https://www.dodosmart.tech",
+  "careersUrl": null,
+  "linkedinId": "dodo-smart",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000373949",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שוקן",
+      "houseNumber": 23,
+      "city": "תל אביב-יפו",
+      "lat": 32.051566,
+      "lon": 34.7723985
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,25 +1,31 @@
 {
   "name": "AST Clean Water Technologies",
-  "description": "Water Treatment Solutions",
+  "description": "Water Treatment Solutions.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/ast_global_assistent_group-logo.webp",
   "websiteUrl": "https://wfi-water.com/group/ast/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ast-clean-water-technologies",
+  "linkedinNum": 10557829,
   "crunchbaseId": null,
+  "ivcId": "A1000000009426",
   "finderId": "ast",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ריב\"ל",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.062831,
-      "lon": 34.782228
+      "street": "אלון התבור",
+      "houseNumber": 20,
+      "city": "קיסריה",
+      "lat": 32.4748743,
+      "lon": 34.9492961
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10557829
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/esti_friedman_investments-logo.webp",
   "websiteUrl": "https://www.estiapp.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "estiapp",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרב שאולזון",
@@ -20,5 +26,6 @@
       "lon": 35.1739445
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

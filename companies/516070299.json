@@ -3,14 +3,20 @@
   "description": "מובילה בתחום פיתוח וייצור מערכות הנעה לאוטומציה ורובוטיקה עם מעל 35 שנות ניסיון.",
   "categoryId": 15,
   "size": "m",
-  "logoFile": "logos/stxi_motion-logo.webp",
+  "logoFile": "logos/stxi-motion-logo.webp",
   "websiteUrl": "https://www.stxim.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "stxi-motion",
+  "linkedinNum": 28864049,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "stxi-motion",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגיע כפיים",
@@ -19,5 +25,7 @@
       "lat": 32.0966598,
       "lon": 34.854771346954784
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

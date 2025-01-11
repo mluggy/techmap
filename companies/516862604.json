@@ -1,26 +1,31 @@
 {
   "name": "Zira",
-  "description": "End-to-end Business Automation for Industrial Manufacturers",
+  "description": "Lightapp is an intelligent resource management solution for industrial manufacturing companies that helps reduce resource costs by 5%-27%.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/zira_investments_tdi-logo.webp",
-  "websiteUrl": "https://www.joinzira.com/",
+  "websiteUrl": "http://www.lightapp.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "lightapp-technologies",
+  "linkedinNum": 2170866,
   "crunchbaseId": null,
+  "ivcId": "A1000000020935",
   "finderId": "zira",
   "xId": "Zira_US",
+  "facebookId": "LightappTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ארלוזורוב",
-      "houseNumber": 98,
-      "city": "חולון",
-      "lat": 32.0135778,
-      "lon": 34.7714884
+      "street": "מדינת היהודים",
+      "houseNumber": 60,
+      "city": "הרצליה",
+      "lat": 32.1659247,
+      "lon": 34.8096738
     }
   ],
   "isMultinational": false,
-  "facebookId": "LightappTechnologies",
-  "linkedinNum": 2170866
+  "isActive": true
 }

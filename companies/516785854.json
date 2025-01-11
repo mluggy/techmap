@@ -6,19 +6,26 @@
   "logoFile": "logos/genielabs-logo.webp",
   "websiteUrl": "https://www.genielabs.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "genielabsai",
+  "linkedinNum": 90925150,
   "crunchbaseId": null,
+  "ivcId": "A1000000418272",
   "finderId": "genielabs",
   "xId": "genielabs_ai",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הורד",
-      "houseNumber": 128,
-      "city": "עזר",
-      "lat": 31.737939363518635,
-      "lon": 34.67246271825849
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

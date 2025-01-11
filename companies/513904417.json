@@ -6,11 +6,17 @@
   "logoFile": "logos/richard_bonn_technologies-logo.webp",
   "websiteUrl": "https://www.bonn-cooling.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "richard-bonn-technologies",
+  "ivcId": null,
   "finderId": "richard-bonn-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית לחם",
@@ -20,5 +26,6 @@
       "lon": 34.9708888
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

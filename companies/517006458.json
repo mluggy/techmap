@@ -1,0 +1,31 @@
+{
+  "name": "LeanCon",
+  "description": "LeanCon provides the first construction engineering created by AI.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/leancon-logo.webp",
+  "websiteUrl": "https://www.leancon.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000463694",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ההגנה",
+      "houseNumber": 13,
+      "city": "גן יבנה",
+      "lat": 31.788278,
+      "lon": 34.714247
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,24 +1,31 @@
 {
   "name": "Fluid Medical",
-  "description": "Technology that uses algorithms to diagnose pancreatic cysts.",
+  "description": "Fluid Medical is developing a breakthrough solution for examination of pancreatic cysts that provides accurate clinical diagnosis within minutes.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/fluid_medical-logo.webp",
-  "websiteUrl": "https://fluidmedical.ca/",
+  "logoFile": "logos/fluid-medical-logo.webp",
+  "websiteUrl": "https://israelmedicup.com/fluid-medical/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "israel-medic-up",
+  "linkedinNum": 69676856,
   "crunchbaseId": null,
+  "ivcId": "A1000000351066",
   "finderId": "fluid-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויצמן",
+      "street": "ויצמן‬",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0776132,
-      "lon": 34.7891243
+      "city": "תל אביב-יפו",
+      "lat": 32.0775668,
+      "lon": 34.7891393
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

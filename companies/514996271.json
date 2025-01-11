@@ -6,11 +6,17 @@
   "logoFile": "logos/ping_identity-logo.webp",
   "websiteUrl": "https://www.spikenow.com",
   "careersUrl": "https://www.pingidentity.com/en/company/careers/careers-listings.html",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 3240452,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ping",
   "xId": "SpikeNowHQ",
+  "facebookId": "Spike",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אפעל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Spike",
-  "linkedinNum": 3240452
+  "isActive": true
 }

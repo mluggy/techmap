@@ -1,25 +1,31 @@
 {
   "name": "Vesttoo",
-  "description": "Risk-management Solutions for the P&C and Longevity Insurance Markets",
+  "description": "Risk-management Solutions for the P&C and Longevity Insurance Markets.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/vesttoo-logo.webp",
   "websiteUrl": "https://www.vesttoo.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vesttoo",
+  "linkedinNum": 18857956,
   "crunchbaseId": null,
+  "ivcId": "A1000000277194",
   "finderId": "vesttoo",
   "xId": "vesttoo",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.063834,
-      "lon": 34.780027
+      "street": "שדרות רוטשילד",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0654326,
+      "lon": 34.7766433
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18857956
+  "isActive": true
 }

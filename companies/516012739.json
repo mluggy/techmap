@@ -1,16 +1,22 @@
 {
   "name": "IBOT Israel Botanicals",
-  "description": "Botanical Nutritional Supplements",
+  "description": "Botanical Nutritional Supplements.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ibot_israel_botanicals-logo.webp",
   "websiteUrl": "https://www.israel-botanicals.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "ibot-israel-botanicals-ltd",
+  "ivcId": "A1000000308751",
   "finderId": "ibot-israel-botanicals",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האומן",
@@ -20,5 +26,6 @@
       "lon": 34.9949556
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

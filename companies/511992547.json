@@ -1,25 +1,31 @@
 {
   "name": "Moon Solar Light",
-  "description": "Solar Street Lighting and Related Safety Products",
+  "description": "Solar Street Lighting and Related Safety Products.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/moon_solar_light_m_s_l-logo.webp",
   "websiteUrl": "https://www.msl.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000008454",
   "finderId": "moon-solar-light",
   "xId": null,
+  "facebookId": "msllights",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הורביץ אלי",
+      "street": "היצירה",
       "houseNumber": 19,
-      "city": "רחובות",
-      "lat": 31.9020486,
-      "lon": 34.7887566
+      "city": "רמלה",
+      "lat": 31.933374,
+      "lon": 34.883476
     }
   ],
   "isMultinational": false,
-  "facebookId": "msllights"
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Fresh Defrost",
-  "description": "Technology for pre-freezing processes.",
-  "categoryId": 15,
+  "description": "Fresh Defrost specializes in the design, manufacture and marketing of food freezing facilities as turn-key projects, providing all the required know-how and equipment for the establishment of a customized food freezing plant, either totally new, or added on to existing facilities.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/fresh_defrost-logo.webp",
-  "websiteUrl": "https://www.juran.co.il/fresh-defrost/",
+  "websiteUrl": "https://freshdefrost.wixsite.com/website",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000220596",
   "finderId": "fresh-defrost",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שמוטקין בנימין",
@@ -19,5 +25,7 @@
       "lat": 31.9728836,
       "lon": 34.8106874
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

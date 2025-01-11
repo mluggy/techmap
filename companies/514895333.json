@@ -6,11 +6,17 @@
   "logoFile": "logos/toneshub-logo.webp",
   "websiteUrl": "https://www.toneshub.com/",
   "careersUrl": "http://www.toneshub.com/careers.aspx",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 10343924,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "toneshub",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גיבורי ישראל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10343924
+  "isActive": true
 }

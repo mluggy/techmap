@@ -6,22 +6,26 @@
   "logoFile": "logos/deep_instinct-logo.webp",
   "websiteUrl": "https://www.deepinstinct.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "deep-instinct",
+  "linkedinNum": 12904445,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "deep-instinct",
   "xId": "deepinstinctsec",
+  "facebookId": "Deep-Instinct-Inc-166769364029736",
+  "breezyId": null,
+  "comeetId": "deepinstinct/72.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06530465,
       "lon": 34.784687671749694
     }
   ],
   "isMultinational": false,
-  "facebookId": "Deep-Instinct-Inc-166769364029736",
-  "linkedinNum": 12904445,
-  "comeetId": "deepinstinct/72.00A"
+  "isActive": true
 }

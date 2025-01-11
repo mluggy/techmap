@@ -1,16 +1,22 @@
 {
   "name": "PulmOne",
-  "description": "Desktop Device for Pulmonary Function Testing",
+  "description": "Desktop Device for Pulmonary Function Testing.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/pulmone_advanced_medical_devices-logo.webp",
   "websiteUrl": "https://www.pulm-one.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pulmone-advanced-medical-devices-ltd",
+  "linkedinNum": 3167146,
   "crunchbaseId": null,
+  "ivcId": "A1000000022460",
   "finderId": "pulmone",
   "xId": null,
+  "facebookId": "PulmOnePFT",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "PulmOnePFT",
-  "linkedinNum": 3167146
+  "isActive": true
 }

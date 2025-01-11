@@ -6,22 +6,26 @@
   "logoFile": "logos/guesty_bookhost-logo.webp",
   "websiteUrl": "https://www.guesty.com/",
   "careersUrl": "https://www.guesty.com/careers/",
-  "isHiring": true,
   "linkedinId": "guesty",
+  "linkedinNum": 3675144,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "guesty",
   "xId": "guesty",
+  "facebookId": "guestycom",
+  "breezyId": null,
+  "comeetId": "guesty/10.000",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קפלן",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0731921,
       "lon": 34.7820874
     }
   ],
   "isMultinational": false,
-  "facebookId": "guestycom",
-  "linkedinNum": 3675144,
-  "comeetId": "guesty/10.000"
+  "isActive": true
 }

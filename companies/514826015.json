@@ -1,16 +1,22 @@
 {
   "name": "Core Scientific Creations",
-  "description": "Universal Bandage to Stop Bleeding",
+  "description": "Universal Bandage to Stop Bleeding.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/core_scientific_creations-logo.webp",
   "websiteUrl": "https://woundclot.org/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "core-scientific-creations-ltd-",
+  "linkedinNum": 5079233,
   "crunchbaseId": null,
+  "ivcId": "A1000000171219",
   "finderId": "core-scientific-creations",
   "xId": null,
+  "facebookId": "WoundclotBleeding",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחשון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WoundclotBleeding",
-  "linkedinNum": 5079233
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/sealantium_medical-logo.webp",
   "websiteUrl": "https://sealantium-med.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sealantium-medical",
+  "linkedinNum": 5321254,
   "crunchbaseId": null,
+  "ivcId": "A1000000009724",
   "finderId": "sealantium-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמל",
-      "houseNumber": 11,
-      "city": "ראש העין",
-      "lat": 32.0970131,
-      "lon": 34.9105972
+      "street": "הגביש",
+      "houseNumber": 4,
+      "city": "נתניה",
+      "lat": 32.2880739,
+      "lon": 34.8613709
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5321254
+  "isActive": true
 }

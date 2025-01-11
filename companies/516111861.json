@@ -6,20 +6,26 @@
   "logoFile": "logos/fintica_ai-logo.webp",
   "websiteUrl": "https://www.fintica-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fintica",
+  "linkedinNum": 35495491,
   "crunchbaseId": null,
+  "ivcId": "A1000000291944",
   "finderId": "fintica-ai",
   "xId": "fintica",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.072032,
-      "lon": 34.788987
+      "city": "תל אביב-יפו",
+      "lat": 32.0718047,
+      "lon": 34.7890239
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35495491
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/tomorrow_io-logo.webp",
   "websiteUrl": "https://www.tomorrow.io/",
   "careersUrl": "https://www.tomorrow.io/careers/",
-  "isHiring": true,
   "linkedinId": "tomorrow-io",
+  "linkedinNum": 10290386,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tomorrow-io",
   "xId": "tomorrowio_",
+  "facebookId": "tomorrow.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.070576829479826,
       "lon": 34.78712928979836
     }
   ],
   "isMultinational": false,
-  "facebookId": "tomorrow.io",
-  "linkedinNum": 10290386
+  "isActive": true
 }

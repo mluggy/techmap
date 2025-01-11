@@ -6,21 +6,26 @@
   "logoFile": "logos/sosivio-logo.webp",
   "websiteUrl": "https://sosiv.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sosivio",
+  "linkedinNum": 37828214,
   "crunchbaseId": "sosivio",
+  "ivcId": "A1000000315724",
   "finderId": "sosivio",
   "xId": "SosivioLtd",
+  "facebookId": "Sosivio-100590925026925",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חפץ ישה",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.116191,
-      "lon": 34.787494
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
   "isMultinational": false,
-  "facebookId": "Sosivio-100590925026925",
-  "linkedinNum": 37828214
+  "isActive": true
 }

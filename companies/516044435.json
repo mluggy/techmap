@@ -6,19 +6,26 @@
   "logoFile": "logos/spero_biopharma-logo.webp",
   "websiteUrl": "https://www.sperobio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000296326",
   "finderId": "spero-biopharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך חברון",
-      "houseNumber": 101,
-      "city": "ירושלים",
-      "lat": 31.754855,
-      "lon": 35.2216657
+      "street": "ויצמן‬",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0775668,
+      "lon": 34.7891393
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/qualisystems-logo.webp",
   "websiteUrl": "https://www.quali.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "qualisystems",
+  "linkedinNum": 50045,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "qualisystems",
   "xId": "qualisystems",
+  "facebookId": "QualiSystems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאל שרון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "QualiSystems",
-  "linkedinNum": 50045
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Ballerine",
-  "description": "User Identity and Risk Management Platform",
+  "description": "User Identity and Risk Management Platform.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/ballerine.webp",
   "websiteUrl": "https://www.ballerine.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 82162796,
   "crunchbaseId": null,
+  "ivcId": "A1000000417280",
   "finderId": "ballerine",
   "xId": "Ballerine_io",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לינקולן",
       "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.065965345355394,
-      "lon": 34.78285264959833
+      "city": "תל אביב-יפו",
+      "lat": 32.0658042,
+      "lon": 34.7829381
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

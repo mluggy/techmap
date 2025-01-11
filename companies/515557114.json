@@ -6,21 +6,26 @@
   "logoFile": "logos/aurora_labs_ltd-logo.webp",
   "websiteUrl": "https://www.auroralabs.com/",
   "careersUrl": "https://www.auroralabs.com/careers/",
-  "isHiring": true,
   "linkedinId": "auroralabs",
+  "linkedinNum": 18682859,
   "crunchbaseId": null,
+  "ivcId": "A1000000224688",
   "finderId": "aurora-labs",
   "xId": "TheAuroraLabs",
+  "facebookId": "TheAuroraLabs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אחד העם",
-      "houseNumber": 54,
-      "city": "תל אביב - יפו",
-      "lat": 32.064594,
-      "lon": 34.774322
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "facebookId": "TheAuroraLabs",
-  "linkedinNum": 18682859
+  "isActive": true
 }

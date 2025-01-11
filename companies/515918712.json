@@ -1,16 +1,22 @@
 {
   "name": "Seven Interactive",
-  "description": "Online Gaming for Mobile Devices",
+  "description": "Online Gaming for Mobile Devices.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/seven_interactive-logo.webp",
   "websiteUrl": "https://www.7interactive.biz/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "seven-interactive-israel",
+  "linkedinNum": 19269044,
   "crunchbaseId": null,
+  "ivcId": "A1000000417070",
   "finderId": "seven-interactive",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מלחמת ששת הימים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 19269044
+  "isActive": true
 }

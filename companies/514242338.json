@@ -6,21 +6,26 @@
   "logoFile": "logos/carmel_diagnostics-logo.webp",
   "websiteUrl": "https://www.carmel-diagnostics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1558211,
   "crunchbaseId": null,
+  "ivcId": "A1000000001882",
   "finderId": "carmel-diagnostics1",
   "xId": null,
+  "facebookId": "Carmel-Diagnostics-1682162225237831",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברלב חיים",
+      "street": "חיים ברלב",
       "houseNumber": 9,
-      "city": "קריית טבעון",
-      "lat": 32.70546966590824,
-      "lon": 35.115651903504116
+      "city": "קרית טבעון",
+      "lat": 32.7053343,
+      "lon": 35.1156519
     }
   ],
   "isMultinational": false,
-  "facebookId": "Carmel-Diagnostics-1682162225237831",
-  "linkedinNum": 1558211
+  "isActive": true
 }

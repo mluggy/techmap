@@ -6,11 +6,17 @@
   "logoFile": "logos/flow_m_n-logo.webp",
   "websiteUrl": "https://flow-retail.com/",
   "careersUrl": "https://flow-retail.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "flow-retail",
+  "linkedinNum": 12627814,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "walkout",
   "xId": null,
+  "facebookId": "Walkout-390397271824062",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צדוק דוד",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Walkout-390397271824062",
-  "linkedinNum": 12627814
+  "isActive": true
 }

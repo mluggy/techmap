@@ -6,20 +6,26 @@
   "logoFile": "logos/get_in-logo.webp",
   "websiteUrl": "https://get-in.com/en/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "get-in",
   "xId": "getin_official",
+  "facebookId": "Get-IN-1496957693870576",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0631483,
       "lon": 34.7793569
     }
   ],
   "isMultinational": false,
-  "facebookId": "Get-IN-1496957693870576"
+  "isActive": true
 }

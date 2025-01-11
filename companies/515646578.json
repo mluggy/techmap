@@ -1,0 +1,31 @@
+{
+  "name": "IBI-Ag",
+  "description": "IBI-Ag is a biotechnology company developing a new class of bioinsecticides.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/ibi-ag-logo.webp",
+  "websiteUrl": "https://www.ibi-ag.com",
+  "careersUrl": null,
+  "linkedinId": "ibi-ag",
+  "linkedinNum": 42172406,
+  "crunchbaseId": null,
+  "ivcId": "A1000000237258",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "נס ציונה",
+      "lat": 31.932111,
+      "lon": 34.801327
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

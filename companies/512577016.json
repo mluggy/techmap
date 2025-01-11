@@ -1,25 +1,31 @@
 {
   "name": "NAKI",
-  "description": "Conversion of Food Industry Waste into Sustainable Aviation Fuel",
+  "description": "Conversion of Food Industry Waste into Sustainable Aviation Fuel.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/naki_plus-logo.webp",
   "websiteUrl": "https://www.naki-v.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "naki-v",
+  "linkedinNum": 90980398,
   "crunchbaseId": null,
+  "ivcId": "A1000000462758",
   "finderId": "naki",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפרחים",
-      "houseNumber": 15,
-      "city": "רשפון",
-      "lat": 32.1939803,
-      "lon": 34.8205209
+      "street": "לכיש",
+      "houseNumber": 10,
+      "city": "קרית ים",
+      "lat": 32.8506882,
+      "lon": 35.0807003
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90980398
+  "isActive": true
 }

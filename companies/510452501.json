@@ -6,12 +6,17 @@
   "logoFile": "logos/fis.webp",
   "websiteUrl": "https://www.fisglobal.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "fis",
   "linkedinNum": 3128,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "fis",
   "xId": "FISGlobal",
   "facebookId": "FIStoday",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר יוחאי",
@@ -21,5 +26,6 @@
       "lon": 34.84131606157112
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

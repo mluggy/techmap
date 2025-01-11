@@ -6,11 +6,17 @@
   "logoFile": "logos/cyberglobes-logo.webp",
   "websiteUrl": "https://www.cyberglobes.com/",
   "careersUrl": "https://www.cyberglobes.com/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "cyberglobes",
+  "ivcId": "A1000000224839",
   "finderId": "cyberglobes",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלקיקי האור",
@@ -20,5 +26,6 @@
       "lon": 34.8113674
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

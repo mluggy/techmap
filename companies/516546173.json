@@ -1,25 +1,31 @@
 {
   "name": "The Digital Pets Company",
-  "description": "AI Companion Platform for Immersive Realities",
-  "categoryId": 8,
+  "description": "The Digital Pets Company develops a cross-app personal AI Digital Dogs platform for VR worlds, social apps, games and more.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/the_digital_pets_company-logo.webp",
-  "websiteUrl": "https://digitaldogs.ai/",
+  "websiteUrl": "https://thedigitaldogs.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "the-digital-dogs-company",
+  "linkedinNum": 76152875,
   "crunchbaseId": null,
+  "ivcId": "A1000000383603",
   "finderId": "the-digital-pets-company",
   "xId": "thedigitaldogs",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מרים החשמונאית",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.091788,
-      "lon": 34.783626
+      "city": "תל אביב-יפו",
+      "lat": 32.0918032,
+      "lon": 34.7836527
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76152875
+  "isActive": true
 }

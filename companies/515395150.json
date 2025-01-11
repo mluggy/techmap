@@ -6,21 +6,26 @@
   "logoFile": "logos/cemantica_consulting-logo.webp",
   "websiteUrl": "https://www.cemantica.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cemantica",
+  "linkedinNum": 10158270,
   "crunchbaseId": null,
+  "ivcId": "A1000000419211",
   "finderId": "cemantica",
   "xId": null,
+  "facebookId": "cemanticajourneymap",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שאול המלך",
       "houseNumber": 6,
-      "city": "קריית אונו",
-      "lat": 32.05812675,
-      "lon": 34.862564649999996
+      "city": "קרית אונו",
+      "lat": 32.0581467,
+      "lon": 34.8626322
     }
   ],
   "isMultinational": false,
-  "facebookId": "cemanticajourneymap",
-  "linkedinNum": 10158270
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/loyaltydog-logo.webp",
   "websiteUrl": "https://loyalty.dog/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "loyaltydog",
+  "linkedinNum": 17909072,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "drinkedin",
   "xId": "Loyalty_Dog",
+  "facebookId": "LoyaltyDog",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הבנים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "LoyaltyDog",
-  "linkedinNum": 17909072
+  "isActive": true
 }

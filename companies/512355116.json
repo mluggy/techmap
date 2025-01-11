@@ -6,20 +6,26 @@
   "logoFile": "logos/wizlan-logo.webp",
   "websiteUrl": "https://www.wizlan.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wizlan",
+  "linkedinNum": 2106458,
   "crunchbaseId": null,
+  "ivcId": "A1000000004832",
   "finderId": "wizlan",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יוזמה",
-      "houseNumber": 8,
-      "city": "טירת כרמל",
-      "lat": 32.7721677,
-      "lon": 34.9656441
+      "street": "התנופה",
+      "houseNumber": 3,
+      "city": "יוקנעם עילית",
+      "lat": 32.6667629,
+      "lon": 35.1074656
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2106458
+  "isActive": true
 }

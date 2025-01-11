@@ -6,11 +6,17 @@
   "logoFile": "logos/barracuda_networks_israel-logo.webp",
   "websiteUrl": "https://www.barracuda.com/",
   "careersUrl": "https://www.barracuda.com/company/careers",
-  "isHiring": true,
   "linkedinId": "barracuda-networks",
+  "linkedinNum": 13957,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "barracuda-networks",
   "xId": "barracuda",
+  "facebookId": "BarracudaNetworks",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -20,7 +26,6 @@
       "lon": 34.8037829
     }
   ],
-  "isMultinational": true,
-  "facebookId": "BarracudaNetworks",
-  "linkedinNum": 13957
+  "isMultinational": false,
+  "isActive": true
 }

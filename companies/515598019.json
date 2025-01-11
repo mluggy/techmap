@@ -1,16 +1,22 @@
 {
   "name": "Selfit Medical",
-  "description": "Smart Digital Therapy Platform for the Aging Population",
+  "description": "Smart Digital Therapy Platform for the Aging Population.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/selfit_medical-logo.webp",
   "websiteUrl": "https://www.selfitmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "selfit-medical",
+  "linkedinNum": 11237579,
   "crunchbaseId": "selfit-medical",
+  "ivcId": "A1000000245559",
   "finderId": "selfit-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סוקולוב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11237579
+  "isActive": true
 }

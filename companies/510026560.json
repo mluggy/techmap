@@ -1,0 +1,31 @@
+{
+  "name": "Sam-On (Meditec)",
+  "description": "Meditec is a pharmaceutical company that specializes in developing, manufacturing, marketing, and distribution of medicine and nutritional supplies.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/sam_on_meditec-logo.webp",
+  "websiteUrl": "http://www.meditec.co.il/",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000003265",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אהוד קינמון",
+      "houseNumber": 27,
+      "city": "בת ים",
+      "lat": 32.010839295388806,
+      "lon": 34.75017177214866
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

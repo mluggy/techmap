@@ -1,0 +1,31 @@
+{
+  "name": "Luxembourg Bio Technologies",
+  "description": "Luxembourg Bio Technologies specializes in providing products to address peptide synthesis needs.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/luxembourg_bio_technologies-logo.webp",
+  "websiteUrl": "https://www.luxembourg-bio.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000188171",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פנחס ספיר",
+      "houseNumber": 8,
+      "city": "נס ציונה",
+      "lat": 31.9155674,
+      "lon": 34.8042185
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

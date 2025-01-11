@@ -6,21 +6,26 @@
   "logoFile": "logos/pikoya-logo.webp",
   "websiteUrl": "https://pikoya.com/",
   "careersUrl": "https://pikoya.com/careers/",
-  "isHiring": true,
   "linkedinId": "pikoya",
+  "linkedinNum": 10678867,
   "crunchbaseId": null,
+  "ivcId": "A1000000223864",
   "finderId": "pikoya",
   "xId": null,
+  "facebookId": "Pikoya-1243369509008011",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יפו",
-      "houseNumber": 30,
+      "street": "דרך הים",
+      "houseNumber": 11,
       "city": "חיפה",
-      "lat": 32.8276768,
-      "lon": 34.9851308
+      "lat": 32.8041119,
+      "lon": 34.9855785
     }
   ],
   "isMultinational": false,
-  "facebookId": "Pikoya-1243369509008011",
-  "linkedinNum": 10678867
+  "isActive": true
 }

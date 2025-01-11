@@ -1,0 +1,31 @@
+{
+  "name": "Silverskate Bio",
+  "description": "In stealth mode.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/silverskate_bio-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000427318",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יצחק מודעי",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.899798,
+      "lon": 34.788637
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

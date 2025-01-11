@@ -1,0 +1,31 @@
+{
+  "name": "Bidspirit",
+  "description": "Bidspirit is a new portal which brings together the information about the auction houses` arena in Israel, which enables to get real time information and perform advanced actions like searching all the catalogs with one click.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/bidspirit-logo.webp",
+  "websiteUrl": "http://www.bidspirit.com",
+  "careersUrl": null,
+  "linkedinId": "bidspirit",
+  "linkedinNum": 5019440,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023864",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דב פרידמן",
+      "houseNumber": 9,
+      "city": "רמת גן",
+      "lat": 32.081343,
+      "lon": 34.8018503
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,26 +1,31 @@
 {
   "name": "ConicIT",
-  "description": "AI Engine for Optimizing Mainframe Performance",
+  "description": "AI Engine for Optimizing Mainframe Performance.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/conicit-logo.webp",
   "websiteUrl": "https://conicit.biz/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "conicit",
+  "linkedinNum": 879679,
   "crunchbaseId": null,
+  "ivcId": "A1000000006059",
   "finderId": "conicit",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הסחלב",
-      "houseNumber": 71,
-      "city": "נתניה",
-      "lat": 32.2749649870264,
-      "lon": 34.851516603732136
+      "street": "מגשימים",
+      "houseNumber": 18,
+      "city": "פתח תקווה",
+      "lat": 32.0878552,
+      "lon": 34.8534722
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 879679
+  "isActive": true
 }

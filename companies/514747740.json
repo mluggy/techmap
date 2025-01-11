@@ -6,20 +6,26 @@
   "logoFile": "logos/moovingon-logo.webp",
   "websiteUrl": "https://www.moovingon.com/",
   "careersUrl": "https://www.moovingon.com/jobs/",
-  "isHiring": true,
   "linkedinId": "moovingon",
+  "linkedinNum": 2523763,
   "crunchbaseId": null,
+  "ivcId": "A1000000022174",
   "finderId": "moovingon",
   "xId": "MoovingON_NOC",
+  "facebookId": "moovingon",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הבנים",
-      "houseNumber": 11,
-      "city": "זכרון יעקב",
-      "lat": 32.5622362,
-      "lon": 34.952165925376505
+      "street": "המסילה",
+      "houseNumber": 19,
+      "city": "נשר",
+      "lat": 32.7818544,
+      "lon": 35.0369777
     }
   ],
   "isMultinational": false,
-  "facebookId": "moovingon"
+  "isActive": true
 }

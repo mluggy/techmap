@@ -1,26 +1,31 @@
 {
   "name": "Granalix BioTechnologies",
-  "description": "Natural Antioxidant Products to Support Brain Health",
+  "description": "Natural Antioxidant Products to Support Brain Health.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/granalix_bio_technologies-logo.webp",
   "websiteUrl": "https://granalix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "granalix-bio-technologies-ltd",
+  "linkedinNum": 17933204,
   "crunchbaseId": null,
+  "ivcId": "A1000000220496",
   "finderId": "granalix",
   "xId": "granalix",
+  "facebookId": "Granalix-331240673885848",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יד חרוצים",
-      "houseNumber": 6,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7544321,
-      "lon": 35.2168529
+      "lat": 31.7665875,
+      "lon": 35.1473719
     }
   ],
   "isMultinational": false,
-  "facebookId": "Granalix-331240673885848",
-  "linkedinNum": 17933204
+  "isActive": true
 }

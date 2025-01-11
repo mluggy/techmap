@@ -6,21 +6,26 @@
   "logoFile": "logos/yotpo-logo.webp",
   "websiteUrl": "https://www.yotpo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "yotpo",
+  "linkedinNum": 1515446,
   "crunchbaseId": null,
+  "ivcId": "A1000000009854",
   "finderId": "yotpo",
   "xId": "Yotpo",
+  "facebookId": "yotpo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
-      "lat": 32.064654,
-      "lon": 34.785584
+      "city": "תל אביב-יפו",
+      "lat": 32.0646001,
+      "lon": 34.7853961
     }
   ],
   "isMultinational": false,
-  "facebookId": "yotpo",
-  "linkedinNum": 1515446
+  "isActive": true
 }

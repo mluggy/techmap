@@ -1,0 +1,31 @@
+{
+  "name": "STMS",
+  "description": "STMS is an international vendor of laboratory information systems (LIS) for clinical-medical use.",
+  "categoryId": 12,
+  "size": "m",
+  "logoFile": "logos/stms-logo.webp",
+  "websiteUrl": "https://stms.co.il",
+  "careersUrl": "https://labos.co/careers/",
+  "linkedinId": "softov",
+  "linkedinNum": 122323,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023678",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שחם",
+      "houseNumber": 32,
+      "city": "פתח תקווה",
+      "lat": 32.0864735,
+      "lon": 34.8588142
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

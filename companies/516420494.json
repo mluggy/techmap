@@ -6,20 +6,26 @@
   "logoFile": "logos/kodem_security-logo.webp",
   "websiteUrl": "https://www.kodemsecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kodem",
+  "linkedinNum": 87390812,
   "crunchbaseId": null,
+  "ivcId": "A1000000415502",
   "finderId": "kodem-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "city": "תל אביב-יפו",
+      "lat": 32.0930881,
+      "lon": 34.8322718
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 87390812
+  "isActive": true
 }

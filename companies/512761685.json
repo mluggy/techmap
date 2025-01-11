@@ -6,20 +6,26 @@
   "logoFile": "logos/trellix_security_israel-logo.webp",
   "websiteUrl": "https://www.trellix.com/",
   "careersUrl": "https://careers.trellix.com/",
-  "isHiring": true,
   "linkedinId": "trellixsecurity",
+  "linkedinNum": 80443373,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "trellix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 150,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0608197,
       "lon": 34.7771205
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 80443373
+  "isMultinational": false,
+  "isActive": true
 }

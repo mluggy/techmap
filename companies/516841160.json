@@ -6,12 +6,17 @@
   "logoFile": "logos/aroma-tix1.webp",
   "websiteUrl": "https://aroma-tix.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "aroma-tix",
   "linkedinNum": 30601490,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "aroma-tix1",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השדות",
@@ -21,5 +26,6 @@
       "lon": 35.68301779937227
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

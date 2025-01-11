@@ -6,11 +6,17 @@
   "logoFile": "logos/snapland-logo.webp",
   "websiteUrl": "https://snap.land/",
   "careersUrl": "https://snap.land/careers.html",
-  "isHiring": true,
   "linkedinId": "snapland",
+  "linkedinNum": 18845250,
   "crunchbaseId": "snapland",
+  "ivcId": "A1000000274311",
   "finderId": "snapland",
   "xId": null,
+  "facebookId": "snapland-246408235864332",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מזור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "snapland-246408235864332",
-  "linkedinNum": 18845250
+  "isActive": true
 }

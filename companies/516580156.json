@@ -1,25 +1,31 @@
 {
   "name": "DragOnFlow Systems",
-  "description": "Enhancing Patient Safety Through Proper Execution of Healthcare Protocols and Guidelines",
-  "categoryId": 12,
+  "description": "Cellesense, a leader in Natural Language Processing (NLP), brings a practical approach to automated self-service solutions: understanding a user’s (textual) request in its entirety, solely in the context in which it was made.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/dragonflow_systems-logo.webp",
-  "websiteUrl": "https://www.dragonflowsystems.com",
+  "websiteUrl": "http://www.cellesense.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dragonflow-systems",
+  "linkedinNum": 81889240,
   "crunchbaseId": "dragonflow-systems",
+  "ivcId": "A1000000003210",
   "finderId": "dragonflow-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רוזן פנחס",
+      "street": "פנחס רוזן",
       "houseNumber": 72,
-      "city": "תל אביב - יפו",
-      "lat": 32.1147382,
-      "lon": 34.825767
+      "city": "תל אביב-יפו",
+      "lat": 32.1148087,
+      "lon": 34.8263681
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81889240
+  "isActive": true
 }

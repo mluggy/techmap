@@ -1,25 +1,31 @@
 {
   "name": "Jama",
-  "description": "Mobile App Marketplace Solution for Daily Problems Parents Experience",
+  "description": "Mobile App Marketplace Solution for Daily Problems Parents Experience.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/jama_dayan-logo.webp",
   "websiteUrl": "https://jama.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "jamaapp",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000335596",
   "finderId": "jama",
   "xId": null,
+  "facebookId": "jamaapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד נורדאו",
-      "houseNumber": 92,
-      "city": "תל אביב - יפו",
-      "lat": 32.091568,
-      "lon": 34.782198
+      "street": "הארבעה",
+      "houseNumber": 18,
+      "city": "תל אביב-יפו",
+      "lat": 32.0702743,
+      "lon": 34.7852716
     }
   ],
   "isMultinational": false,
-  "facebookId": "jamaapp"
+  "isActive": true
 }

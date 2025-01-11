@@ -6,21 +6,26 @@
   "logoFile": "logos/upsolver-logo.webp",
   "websiteUrl": "https://www.upsolver.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "upsolver",
+  "linkedinNum": 5291918,
   "crunchbaseId": null,
+  "ivcId": "A1000000181822",
   "finderId": "upsolver",
   "xId": "upsolver",
+  "facebookId": "upsolver",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "street": "החשמונאים",
+      "houseNumber": 115,
+      "city": "תל אביב-יפו",
+      "lat": 32.0695342,
+      "lon": 34.7856556
     }
   ],
   "isMultinational": false,
-  "facebookId": "upsolver",
-  "linkedinNum": 5291918
+  "isActive": true
 }

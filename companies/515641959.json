@@ -6,21 +6,26 @@
   "logoFile": "logos/myselffit-logo.webp",
   "websiteUrl": "https://www.myselffit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "myselffit",
+  "linkedinNum": 12180170,
   "crunchbaseId": "myselffit",
+  "ivcId": null,
   "finderId": "myselffit",
   "xId": null,
+  "facebookId": "MyselfFitapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נצח ישראל",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.077725,
       "lon": 34.778658
     }
   ],
   "isMultinational": false,
-  "facebookId": "MyselfFitapp",
-  "linkedinNum": 12180170
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Eyeways Systems",
-  "description": "4D Object-based Scene Analysis",
+  "description": "4D Object-based Scene Analysis.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/eyeways_systems-logo.webp",
   "websiteUrl": "https://eyewaysystems.com/newsite/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 27045508,
   "crunchbaseId": "eyeways-systems",
+  "ivcId": "A1000000001426",
   "finderId": "eyeways-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סוקולוב",
-      "houseNumber": 59,
-      "city": "רמת השרון",
-      "lat": 32.144570400000006,
-      "lon": 34.837453998367415
+      "street": "אימבר",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.098658,
+      "lon": 34.8621177
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27045508
+  "isActive": true
 }

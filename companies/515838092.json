@@ -6,21 +6,26 @@
   "logoFile": "logos/activefence-logo.webp",
   "websiteUrl": "https://www.activefence.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "activefence",
+  "linkedinNum": 11682234,
   "crunchbaseId": null,
+  "ivcId": "A1000000274604",
   "finderId": "activefence",
   "xId": "ActiveFence",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "activefence/D5.005",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 5,
-      "city": "רמת גן",
-      "lat": 32.083369250000004,
-      "lon": 34.80252937066078
+      "street": "המלאכה",
+      "houseNumber": 6,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.513772,
+      "lon": 34.9480707
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11682234,
-  "comeetId": "activefence/D5.005"
+  "isActive": true
 }

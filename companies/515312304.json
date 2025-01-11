@@ -6,20 +6,26 @@
   "logoFile": "logos/adasky-logo.webp",
   "websiteUrl": "https://www.adasky.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "adasky",
+  "linkedinNum": 10470765,
   "crunchbaseId": "adasky",
+  "ivcId": "A1000000215940",
   "finderId": "adasky",
   "xId": "adaskytech",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
       "houseNumber": 7,
-      "city": "יקנעם עילית",
-      "lat": 32.6587411,
-      "lon": 35.09922801551977
+      "city": "יוקנעם עילית",
+      "lat": 32.6584729,
+      "lon": 35.0997269
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10470765
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/hopa-logo.webp",
   "websiteUrl": "https://hopatag.com/",
   "careersUrl": "https://careers.hoparx.org/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 94834563,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hopa",
   "xId": null,
+  "facebookId": "HOPA-TAG-103040574871192",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמל",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062878,
       "lon": 34.777925
     }
   ],
   "isMultinational": false,
-  "facebookId": "HOPA-TAG-103040574871192",
-  "linkedinNum": 94834563
+  "isActive": true
 }

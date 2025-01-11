@@ -6,19 +6,26 @@
   "logoFile": "logos/optimusq-logo.webp",
   "websiteUrl": "https://optimusq.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "optimusq",
+  "linkedinNum": 80348439,
   "crunchbaseId": "optimusq",
+  "ivcId": "A1000000364031",
   "finderId": "optimusq",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שיינקין",
-      "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.069776,
-      "lon": 34.771514
+      "street": "אליעזר קפלן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0733456,
+      "lon": 34.78202479999999
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

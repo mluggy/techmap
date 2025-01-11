@@ -1,0 +1,31 @@
+{
+  "name": "FinMe",
+  "description": "FinMe is a start-up in the Fintech and Proptech sectors. The company is building a platform that makes global real-estate transactions digital, fast and fun.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/finme-logo.webp",
+  "websiteUrl": "https://www.finmenow.com",
+  "careersUrl": "https://www.finmenow.com/careers",
+  "linkedinId": "finme",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000445422",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רב אלוף דוד אלעזר",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0725391,
+      "lon": 34.7882116
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

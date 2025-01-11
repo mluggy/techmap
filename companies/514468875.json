@@ -1,26 +1,31 @@
 {
   "name": "Simply",
-  "description": "Music Education Apps",
+  "description": "Music Education Apps.",
   "categoryId": 14,
   "size": "l",
   "logoFile": "logos/simply-logo.webp",
   "websiteUrl": "https://www.hellosimply.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "simply-joytunes",
+  "linkedinNum": 908804,
   "crunchbaseId": null,
+  "ivcId": "A1000000001710",
   "finderId": "joytunes",
   "xId": "hellosimply",
+  "facebookId": "hellosimply",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איסרליש",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
-      "lat": 32.07103585,
-      "lon": 34.79219333800788
+      "city": "תל אביב-יפו",
+      "lat": 32.0710128,
+      "lon": 34.7921596
     }
   ],
   "isMultinational": false,
-  "facebookId": "hellosimply",
-  "linkedinNum": 908804
+  "isActive": true
 }

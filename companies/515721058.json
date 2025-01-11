@@ -1,0 +1,31 @@
+{
+  "name": "Mploy",
+  "description": "CKC Technology Solutions is developing Mploy – a free and high-quality job board platform, consisted of mobile application and a website built with cutting-edge technologies.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/mploy-logo.webp",
+  "websiteUrl": "https://www.mploy.co.il",
+  "careersUrl": "https://www.mploy.co.il/user/buyJobs",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000224072",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן יהודה",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0848953,
+      "lon": 34.7724451
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

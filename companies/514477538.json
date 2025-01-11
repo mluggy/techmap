@@ -1,16 +1,22 @@
 {
   "name": "InnoSec",
-  "description": "Cyber Risk Management",
+  "description": "Cyber Risk Management.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/innosec-logo.webp",
   "websiteUrl": "https://storm.innosec.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "innosec-ltd",
+  "linkedinNum": 10391369,
   "crunchbaseId": "innosec",
+  "ivcId": "A1000000219941",
   "finderId": "innosec",
   "xId": "InnoSecCyRisk",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האורנים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10391369
+  "isActive": true
 }

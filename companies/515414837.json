@@ -6,21 +6,26 @@
   "logoFile": "logos/poultrix-logo.webp",
   "websiteUrl": "https://poultrix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "poultrix",
+  "linkedinNum": 28149217,
   "crunchbaseId": null,
+  "ivcId": "A1000000296025",
   "finderId": "poultrix",
   "xId": "PoultrixC",
+  "facebookId": "poultrix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הברזל",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.109818,
-      "lon": 34.841254
+      "street": "הנחושת",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.1099275,
+      "lon": 34.8381351
     }
   ],
   "isMultinational": false,
-  "facebookId": "poultrix",
-  "linkedinNum": 28149217
+  "isActive": true
 }

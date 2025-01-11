@@ -1,25 +1,31 @@
 {
   "name": "BrainWatch Tech",
-  "description": "Continuous Pupillary Monitoring System",
+  "description": "Continuous Pupillary Monitoring System.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/brainwatch_tech-logo.webp",
   "websiteUrl": "https://brainwatch.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "brainwatch-tech",
+  "linkedinNum": 80924944,
   "crunchbaseId": null,
+  "ivcId": "A1000000341068",
   "finderId": "brainwatch-tech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הדוכיפת",
-      "houseNumber": 19,
+      "houseNumber": 11,
       "city": "תל מונד",
-      "lat": 32.2506832,
-      "lon": 34.9222254
+      "lat": 32.2485563,
+      "lon": 34.9238068
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80924944
+  "isActive": true
 }

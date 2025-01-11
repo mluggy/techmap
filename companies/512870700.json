@@ -6,11 +6,17 @@
   "logoFile": "logos/pico_parts-logo.webp",
   "websiteUrl": "https://pico-parts.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "picoparts-ltd",
+  "linkedinNum": 1002848,
   "crunchbaseId": null,
+  "ivcId": "A1000000192791",
   "finderId": "pico-parts",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרת האורנים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 1002848
+  "isActive": true
 }

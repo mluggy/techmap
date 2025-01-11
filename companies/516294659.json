@@ -6,20 +6,26 @@
   "logoFile": "logos/sky_walls-logo.webp",
   "websiteUrl": "https://www.sky-walls.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sky-walls",
+  "linkedinNum": 77143279,
   "crunchbaseId": null,
+  "ivcId": "A1000000413410",
   "finderId": "sky-walls",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדה",
-      "houseNumber": 266,
-      "city": "באר טוביה",
-      "lat": 31.73475122195787,
-      "lon": 34.72436939184402
+      "street": "הזית",
+      "houseNumber": 1,
+      "city": "ראש העין",
+      "lat": 32.1065184,
+      "lon": 34.953514
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77143279
+  "isActive": true
 }

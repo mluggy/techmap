@@ -6,21 +6,26 @@
   "logoFile": "logos/appwrite_code-logo.webp",
   "websiteUrl": "https://appwrite.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "appwrite",
+  "linkedinNum": 17945528,
   "crunchbaseId": null,
+  "ivcId": "A1000000308580",
   "finderId": "appwrite",
   "xId": "appwrite_io",
+  "facebookId": "appwrite.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השיזף",
-      "houseNumber": 4,
-      "city": "רעננה",
-      "lat": 32.1919424,
-      "lon": 34.8855377
+      "street": null,
+      "houseNumber": null,
+      "city": "אשקלון",
+      "lat": 31.6687885,
+      "lon": 34.5742523
     }
   ],
   "isMultinational": false,
-  "facebookId": "appwrite.io",
-  "linkedinNum": 17945528
+  "isActive": true
 }

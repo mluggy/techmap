@@ -6,11 +6,17 @@
   "logoFile": "logos/intellicon-logo.webp",
   "websiteUrl": "https://www.intellicon.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "intellicon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנדיב",
@@ -20,5 +26,6 @@
       "lon": 34.95606372504971
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

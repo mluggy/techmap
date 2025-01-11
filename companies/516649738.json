@@ -1,0 +1,31 @@
+{
+  "name": "UNI Therapeutics",
+  "description": "UNI Therapeutics develops a technology for repurposing of approved drugs for new indications.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/uni_therapeutics-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000458939",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השרון",
+      "houseNumber": 42,
+      "city": "רעננה",
+      "lat": 32.17760640000001,
+      "lon": 34.8688229
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

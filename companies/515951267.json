@@ -6,19 +6,26 @@
   "logoFile": "logos/ultrasight-logo.webp",
   "websiteUrl": "https://ultrasight.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ultrasight2",
+  "linkedinNum": null,
   "crunchbaseId": "on-sight-b615",
+  "ivcId": "A1000000321333",
   "finderId": "on-sight-medical",
   "xId": "UltraSightAI",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ספיר פנחס",
-      "houseNumber": 8,
-      "city": "נס ציונה",
-      "lat": 31.9148938,
-      "lon": 34.8040759
+      "street": "המדע",
+      "houseNumber": 1,
+      "city": "רחובות",
+      "lat": 31.9123178,
+      "lon": 34.803695
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

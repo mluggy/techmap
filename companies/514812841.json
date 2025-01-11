@@ -1,25 +1,31 @@
 {
   "name": "SmarterApps",
-  "description": "Rule-based Smartphone Automation App",
+  "description": "Rule-based Smartphone Automation App.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/smarterapps-logo.webp",
   "websiteUrl": "https://automateitapp.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000000020",
   "finderId": "smarterapps",
   "xId": "AutomateItApp",
+  "facebookId": "AutomateItApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרימון",
-      "houseNumber": 63,
-      "city": "גני תקווה",
-      "lat": 32.0632736,
-      "lon": 34.8807319
+      "street": "יוסף נקר",
+      "houseNumber": 44,
+      "city": "פתח תקווה",
+      "lat": 32.0731862,
+      "lon": 34.8681286
     }
   ],
   "isMultinational": false,
-  "facebookId": "AutomateItApp"
+  "isActive": true
 }

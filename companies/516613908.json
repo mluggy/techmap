@@ -1,0 +1,31 @@
+{
+  "name": "RealAsTech",
+  "description": "RealAsTech is a real estate data analysis firm that utilizes cutting-edge technologies and analytical tools to analyze real estate projects.",
+  "categoryId": 6,
+  "size": "xs",
+  "logoFile": "logos/realastech-logo.webp",
+  "websiteUrl": "https://www.realastech.com",
+  "careersUrl": null,
+  "linkedinId": "realastech",
+  "linkedinNum": 14040215,
+  "crunchbaseId": null,
+  "ivcId": "A1000000278940",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האומנים",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.071286,
+      "lon": 34.7951862
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

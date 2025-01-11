@@ -1,18 +1,31 @@
 {
   "name": "CalCom",
-  "description": "Server Hardening and Compliance",
+  "description": "Server Hardening and Compliance.",
   "categoryId": 7,
   "size": "m",
   "logoFile": "logos/calcom_software_development_2000-logo.webp",
   "websiteUrl": "https://calcomsoftware.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "calcom",
+  "linkedinNum": 73583,
   "crunchbaseId": null,
+  "ivcId": "A1000000023747",
   "finderId": "calcom",
   "xId": "CalComsoftware",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "CalCom-401530713729033",
-  "linkedinNum": 73583
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הבעל שם טוב",
+      "houseNumber": 6,
+      "city": "כפר חב\"ד",
+      "lat": 31.9934272,
+      "lon": 34.849577
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

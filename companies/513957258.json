@@ -1,16 +1,22 @@
 {
   "name": "block.a",
-  "description": "Comprehensive Leasing Solution for Property Managers and Renters",
-  "categoryId": 10,
+  "description": "Knock N'Lock developed OUTLOCKS™ – a world leader in Outdoor Access Management.",
+  "categoryId": 7,
   "size": "s",
   "logoFile": "logos/knock_nlock-logo.webp",
-  "websiteUrl": "https://www.blocka.com/",
-  "careersUrl": "https://www.knock.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "websiteUrl": "http://www.outlocks.com",
+  "careersUrl": null,
+  "linkedinId": "outlocks",
+  "linkedinNum": 28148156,
   "crunchbaseId": null,
+  "ivcId": "A1000000010040",
   "finderId": "knock",
   "xId": "knockapp_co",
+  "facebookId": "rentblock.a",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "rentblock.a",
-  "linkedinNum": 28148156
+  "isActive": true
 }

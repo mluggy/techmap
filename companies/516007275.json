@@ -1,16 +1,22 @@
 {
   "name": "Pyxis Diagnostics",
-  "description": "AI-powered Cancer Diagnostics Platform for Predicting Immuno-oncology Drug Response",
+  "description": "AI-powered Cancer Diagnostics Platform for Predicting Immuno-oncology Drug Response.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/pyxis_diagnostics-logo.webp",
   "websiteUrl": "https://www.pyxisdx.com/",
   "careersUrl": "https://www.pyxisdiagnostics.com/careers",
-  "isHiring": true,
   "linkedinId": "pyxis-dx",
+  "linkedinNum": 69532570,
   "crunchbaseId": "pyxis-diagnostics",
+  "ivcId": "A1000000308193",
   "finderId": "pyxis-diagnostics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוקח שמעון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69532570
+  "isActive": true
 }

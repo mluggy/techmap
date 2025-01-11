@@ -6,11 +6,17 @@
   "logoFile": "logos/zip_bio-logo.webp",
   "websiteUrl": "https://zipbio.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zip-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אליעזר הגדול",
@@ -19,5 +25,7 @@
       "lat": 31.7535271,
       "lon": 35.2052544
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

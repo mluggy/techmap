@@ -1,0 +1,31 @@
+{
+  "name": "Mobilinx",
+  "description": "Smart Car, of Xi’s group, provides Intelligent Transportation Systems (ITS) and Intelligent Vehicle Systems (IVS) for personal, business and security applications.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/mobilinx-logo.webp",
+  "websiteUrl": "https://mobilinx.wixsite.com/website",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000006304",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רמת ים",
+      "houseNumber": 95,
+      "city": "הרצליה",
+      "lat": 32.1674089,
+      "lon": 34.8001758
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

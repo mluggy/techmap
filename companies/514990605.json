@@ -6,21 +6,26 @@
   "logoFile": "logos/videodubber-logo.webp",
   "websiteUrl": "https://videodubber.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3052583,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "videodubber-ltd",
   "xId": "videodubber",
+  "facebookId": "videodubber",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.071039,
       "lon": 34.776266
     }
   ],
   "isMultinational": false,
-  "facebookId": "videodubber",
-  "linkedinNum": 3052583
+  "isActive": true
 }

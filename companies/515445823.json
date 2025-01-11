@@ -6,20 +6,26 @@
   "logoFile": "logos/biond_biologics-logo.webp",
   "websiteUrl": "https://www.biondbio.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "biond-biologics-ltd",
+  "linkedinNum": 18156602,
   "crunchbaseId": null,
+  "ivcId": "A1000000215593",
   "finderId": "biond-biologics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
+      "street": "ירוק",
       "houseNumber": 1,
-      "city": "משגב",
-      "lat": 32.93410935,
-      "lon": 35.220368861416205
+      "city": "מישגב",
+      "lat": 32.867508,
+      "lon": 35.275265
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18156602
+  "isActive": true
 }

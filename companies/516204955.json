@@ -6,20 +6,26 @@
   "logoFile": "logos/darrow_ai-logo.webp",
   "websiteUrl": "https://www.darrow.ai/",
   "careersUrl": "https://www.darrow.ai/careers/",
-  "isHiring": true,
   "linkedinId": "darrow-ai",
+  "linkedinNum": 67191532,
   "crunchbaseId": null,
+  "ivcId": "A1000000333079",
   "finderId": "darrow",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "city": "תל אביב-יפו",
+      "lat": 32.0651359,
+      "lon": 34.7856827
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 67191532
+  "isActive": true
 }

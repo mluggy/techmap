@@ -6,21 +6,26 @@
   "logoFile": "logos/apiiro-logo.webp",
   "websiteUrl": "https://apiiro.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "apiiro",
+  "linkedinNum": 13057840,
   "crunchbaseId": null,
+  "ivcId": "A1000000305121",
   "finderId": "apiiro",
   "xId": "apiiroSecurity",
+  "facebookId": "Apiiro",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "facebookId": "Apiiro",
-  "linkedinNum": 13057840
+  "isActive": true
 }

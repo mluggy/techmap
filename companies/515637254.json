@@ -6,11 +6,17 @@
   "logoFile": "logos/agroscout-logo.webp",
   "websiteUrl": "https://agro-scout.com/",
   "careersUrl": "https://agro-scout.com/careers/",
-  "isHiring": true,
   "linkedinId": "agroscout-ltd",
+  "linkedinNum": 13004909,
   "crunchbaseId": null,
+  "ivcId": "A1000000247749",
   "finderId": "agroscout",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 13004909
+  "isActive": true
 }

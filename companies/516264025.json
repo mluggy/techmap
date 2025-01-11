@@ -1,0 +1,31 @@
+{
+  "name": "Highver",
+  "description": "Highver is a project management system that knows how to take the site owner/site promoter and go hand in hand with him from the first moment the site is up and running until the moment he is in the first places.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/highver-logo.webp",
+  "websiteUrl": "https://highver.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000330090",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השרון",
+      "houseNumber": 12,
+      "city": "בית דגן",
+      "lat": 31.9993985,
+      "lon": 34.8358282
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

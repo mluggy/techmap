@@ -6,21 +6,26 @@
   "logoFile": "logos/entitymed-logo.webp",
   "websiteUrl": "https://entitymed.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "entitymed",
+  "linkedinNum": 14029448,
   "crunchbaseId": null,
+  "ivcId": "A1000000347800",
   "finderId": "entitymed",
   "xId": null,
+  "facebookId": "EntityMed-109555710426280",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בוסל",
-      "houseNumber": 11,
-      "city": "כפר סבא",
-      "lat": 32.17798455,
-      "lon": 34.90221135
+      "street": "החושלים",
+      "houseNumber": 4,
+      "city": "הרצליה",
+      "lat": 32.1587141,
+      "lon": 34.8072515
     }
   ],
   "isMultinational": false,
-  "facebookId": "EntityMed-109555710426280",
-  "linkedinNum": 14029448
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/silib-logo.webp",
   "websiteUrl": "https://www.si-lib.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "silib",
+  "linkedinNum": 76095843,
   "crunchbaseId": null,
+  "ivcId": "A1000000327110",
   "finderId": "silib",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
-      "houseNumber": 427,
-      "city": "חצב",
-      "lat": 31.7792702,
-      "lon": 34.7693634
+      "houseNumber": null,
+      "city": "יבנה",
+      "lat": 31.87535339999999,
+      "lon": 34.7350096
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76095843
+  "isActive": true
 }

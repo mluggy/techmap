@@ -1,25 +1,31 @@
 {
   "name": "Fuse Labs",
-  "description": "Open-source Platform for Connecting Payments to the Blockchain",
+  "description": "Open-source Platform for Connecting Payments to the Blockchain.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/fuse_labs-logo.webp",
   "websiteUrl": "https://fuse.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fuseio",
+  "linkedinNum": 20491948,
   "crunchbaseId": null,
+  "ivcId": "A1000000293388",
   "finderId": "fuse-network",
   "xId": "fuse_network",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התעשיה",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.0670683,
-      "lon": 34.7856051
+      "street": "דרך השלום",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.0718512,
+      "lon": 34.795549
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 20491948
+  "isActive": true
 }

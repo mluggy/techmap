@@ -6,11 +6,17 @@
   "logoFile": "logos/apple_israel-logo.webp",
   "websiteUrl": "https://www.apple.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "apple",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -20,6 +26,6 @@
       "lon": 34.81043178834902
     }
   ],
-  "isMultinational": true,
-  "facebookId": "pages"
+  "isMultinational": false,
+  "isActive": true
 }

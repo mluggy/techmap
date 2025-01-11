@@ -6,21 +6,26 @@
   "logoFile": "logos/reali_technologies-logo.webp",
   "websiteUrl": "https://www.realiteq.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "realiteq",
+  "linkedinNum": 200905,
   "crunchbaseId": null,
+  "ivcId": "A1000000002959",
   "finderId": "reali-technologies-realiteq",
   "xId": null,
+  "facebookId": "RealiteQ",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בזלת צור יגאל",
+      "street": "בזלת",
       "houseNumber": 9,
-      "city": "צור יגאל",
-      "lat": 32.2179505,
-      "lon": 34.9827171
+      "city": "כוכב יאיר צור יגאל",
+      "lat": 32.2191075,
+      "lon": 34.9815926
     }
   ],
   "isMultinational": false,
-  "facebookId": "RealiteQ",
-  "linkedinNum": 200905
+  "isActive": true
 }

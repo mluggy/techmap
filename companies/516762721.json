@@ -1,23 +1,31 @@
 {
   "name": "Willon",
-  "description": "Optimize your fleet management and business performance through comprehensive analysis, real-time notifications, and streamlined task execution.",
-  "categoryId": 13,
+  "description": "Willon a legal tech startup, developing an holistic platform for estate protection.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/willon-logo.webp",
-  "websiteUrl": "https://hosting.wialon.com/",
+  "websiteUrl": "https://www.willon.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "willon",
+  "linkedinNum": 93616744,
   "crunchbaseId": null,
+  "ivcId": "A1000000426698",
   "finderId": "willon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מאפו",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.080537,
-      "lon": 34.76925
+      "city": "תל אביב-יפו",
+      "lat": 32.0805926,
+      "lon": 34.7692539
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

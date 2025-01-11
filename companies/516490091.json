@@ -6,18 +6,26 @@
   "logoFile": "logos/laya_global-logo.webp",
   "websiteUrl": "https://www.layahealthcare.ie/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "laya",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 105,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0695962,
       "lon": 34.7847721
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

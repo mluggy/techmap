@@ -6,11 +6,17 @@
   "logoFile": "logos/mavenir-logo.webp",
   "websiteUrl": "https://www.mavenir.com/",
   "careersUrl": "https://www.mavenir.com/about/careers/",
-  "isHiring": true,
   "linkedinId": "mavenir",
+  "linkedinNum": 1995,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mavenir",
   "xId": "mavenir",
+  "facebookId": "Mavenir",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -20,7 +26,6 @@
       "lon": 34.8827706
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Mavenir",
-  "linkedinNum": 1995
+  "isMultinational": false,
+  "isActive": true
 }

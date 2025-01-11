@@ -6,21 +6,26 @@
   "logoFile": "logos/bigpanda_m_s-logo.webp",
   "websiteUrl": "https://www.bigpanda.io/",
   "careersUrl": "https://www.bigpanda.io/company/panda-way/jobs/",
-  "isHiring": true,
   "linkedinId": "bigpanda",
+  "linkedinNum": 2598034,
   "crunchbaseId": null,
+  "ivcId": "A1000000010348",
   "finderId": "bigpanda",
   "xId": "bigpanda",
+  "facebookId": "bigpandaio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 55,
-      "city": "תל אביב - יפו",
-      "lat": 32.067908,
-      "lon": 34.786921
+      "city": "תל אביב-יפו",
+      "lat": 32.0679863,
+      "lon": 34.7870455
     }
   ],
   "isMultinational": false,
-  "facebookId": "bigpandaio",
-  "linkedinNum": 2598034
+  "isActive": true
 }

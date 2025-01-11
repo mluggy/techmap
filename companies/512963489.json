@@ -6,20 +6,26 @@
   "logoFile": "logos/10bis.webp",
   "websiteUrl": "https://www.10bis.co.il/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "10bis-co-il",
   "linkedinNum": 208480,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "10bis",
   "xId": null,
   "facebookId": "10bis",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07831790973712,
       "lon": 34.79392889574202
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

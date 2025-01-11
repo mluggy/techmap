@@ -1,16 +1,22 @@
 {
   "name": "GBooking",
-  "description": "Appointment-scheduling Software",
-  "categoryId": 14,
-  "size": "xs",
+  "description": "Med.me is the Electronic Health Records (EHR) exchange and medical appointment scheduling system to connect clinics, HMOs and insurance companies, patients, doctors and pharma companies. .",
+  "categoryId": 9,
+  "size": "s",
   "logoFile": "logos/gbooking-logo.webp",
-  "websiteUrl": "https://gbooking.biz",
+  "websiteUrl": "https://med.me/en/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gbooking-ltd",
+  "linkedinNum": 2688516,
   "crunchbaseId": null,
+  "ivcId": "A1000000020288",
   "finderId": "gbooking",
   "xId": "gbooking_com",
+  "facebookId": "GBookingLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דובנוב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GBookingLtd",
-  "linkedinNum": 2688516
+  "isActive": true
 }

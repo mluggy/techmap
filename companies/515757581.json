@@ -1,25 +1,31 @@
 {
   "name": "Lempo Therapeutics",
-  "description": "Gene Editing for Treatment of Chronic Disease",
+  "description": "Gene Editing for Treatment of Chronic Disease.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/lempo_therapeutics-logo.webp",
   "websiteUrl": "https://www.lempo-tx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lempo-therapeutics",
+  "linkedinNum": 14046032,
   "crunchbaseId": "limestory-ltd-cc27",
+  "ivcId": "A1000000302416",
   "finderId": "lempo-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ששת הימים",
       "houseNumber": 86,
-      "city": "בנימינה",
-      "lat": 32.5239931,
-      "lon": 34.95382
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.523352,
+      "lon": 34.9539893
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14046032
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/convrt_analytics-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 77691635,
   "crunchbaseId": null,
+  "ivcId": "A1000000377287",
   "finderId": "convrt-analytics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרליבך",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
-      "lat": 32.06643,
-      "lon": 34.783384
+      "city": "תל אביב-יפו",
+      "lat": 32.0662337,
+      "lon": 34.7836412
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77691635
+  "isActive": false
 }

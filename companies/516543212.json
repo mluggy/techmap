@@ -1,26 +1,31 @@
 {
   "name": "Open-Finance.ai",
-  "description": "Financial Technology Tools",
+  "description": "Financial Technology Tools.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/open_finance-logo.webp",
   "websiteUrl": "https://www.open-finance.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "open-finance-ai",
+  "linkedinNum": 77163961,
   "crunchbaseId": null,
+  "ivcId": "A1000000391597",
   "finderId": "open-finance",
   "xId": "openfinanceai",
+  "facebookId": "openfinance",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גלילי ישראל",
-      "houseNumber": 21,
-      "city": "ראשון לציון",
-      "lat": 31.9698255,
-      "lon": 34.7816945
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
   "isMultinational": false,
-  "facebookId": "openfinance",
-  "linkedinNum": 77163961
+  "isActive": true
 }

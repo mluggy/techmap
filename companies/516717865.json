@@ -1,0 +1,31 @@
+{
+  "name": "Echo",
+  "description": "Echo helps B2B SaaS startups create and execute a structured sales process through personalized playbooks that cover each step of the funnel.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/echo-logo.webp",
+  "websiteUrl": "https://www.echothat.ai",
+  "careersUrl": null,
+  "linkedinId": "echothat",
+  "linkedinNum": 102420911,
+  "crunchbaseId": null,
+  "ivcId": "A1000000417170",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגליל",
+      "houseNumber": 130,
+      "city": "חיפה",
+      "lat": 32.7845282,
+      "lon": 35.0247359
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

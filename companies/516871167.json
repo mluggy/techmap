@@ -1,0 +1,31 @@
+{
+  "name": "MentMe",
+  "description": "MentMe provides job seeker from any background an opportunity to maximize their career potential through its platform that connects job seekers with local industry mentors and provides them with AI career readiness tools.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/mentme-logo.webp",
+  "websiteUrl": "https://mentme.co",
+  "careersUrl": null,
+  "linkedinId": "mentme2success",
+  "linkedinNum": 90963075,
+  "crunchbaseId": null,
+  "ivcId": "A1000000459006",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלנבי",
+      "houseNumber": 69,
+      "city": "תל אביב-יפו",
+      "lat": 32.0677788,
+      "lon": 34.771245
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Sayso",
+  "description": "Sayso is a platform for ordering testimonial videos in any location, from any location.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/sayso-logo.webp",
+  "websiteUrl": "https://www.sayso.video",
+  "careersUrl": null,
+  "linkedinId": "sayso-video",
+  "linkedinNum": 71239992,
+  "crunchbaseId": null,
+  "ivcId": "A1000000416720",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שונצינו",
+      "houseNumber": 11,
+      "city": "תל אביב-יפו",
+      "lat": 32.0665782,
+      "lon": 34.787359
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

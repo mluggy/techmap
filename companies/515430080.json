@@ -1,0 +1,31 @@
+{
+  "name": "Optival",
+  "description": "Optival is focused on delivering a high quality information to its users as fast as possible.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/optival-logo.webp",
+  "websiteUrl": "https://optival.com",
+  "careersUrl": "https://optival.com/careers/",
+  "linkedinId": "optival-ltd",
+  "linkedinNum": 12956135,
+  "crunchbaseId": null,
+  "ivcId": "A1000000372566",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דובנוב",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0749514,
+      "lon": 34.7838708
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

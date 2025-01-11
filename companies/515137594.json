@@ -6,21 +6,26 @@
   "logoFile": "logos/earways_medical-logo.webp",
   "websiteUrl": "https://earwaysmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "earwaysmedical",
+  "linkedinNum": 18109377,
   "crunchbaseId": null,
+  "ivcId": "A1000000243195",
   "finderId": "earways-medical",
   "xId": "EarwaysMedical",
+  "facebookId": "EarWays-Medical-179886416173101",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צמרות",
-      "houseNumber": 2,
-      "city": "הרצליה",
-      "lat": 32.1507004,
-      "lon": 34.8453911
+      "street": "המלאכה",
+      "houseNumber": 23,
+      "city": "ראש העין",
+      "lat": 32.1079328,
+      "lon": 34.9706967
     }
   ],
   "isMultinational": false,
-  "facebookId": "EarWays-Medical-179886416173101",
-  "linkedinNum": 18109377
+  "isActive": true
 }

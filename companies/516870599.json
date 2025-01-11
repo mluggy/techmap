@@ -6,12 +6,17 @@
   "logoFile": "logos/spotad.webp",
   "websiteUrl": "https://www.spotad.co/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "spotad",
   "linkedinNum": 3492821,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "spotad",
   "xId": "Spotadco",
   "facebookId": "SpotadCo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המעין",
@@ -21,5 +26,6 @@
       "lon": 34.809895241713185
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

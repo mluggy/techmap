@@ -6,20 +6,26 @@
   "logoFile": "logos/atidot_software-logo.webp",
   "websiteUrl": "https://www.atidot.com/",
   "careersUrl": "https://www.atidot.com/career/",
-  "isHiring": true,
   "linkedinId": "atidot",
+  "linkedinNum": 17912216,
   "crunchbaseId": "atidot",
+  "ivcId": "A1000000220314",
   "finderId": "atidot",
   "xId": "atidotisrael",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 152,
-      "city": "תל אביב - יפו",
-      "lat": 32.079241,
-      "lon": 34.795072
+      "city": "תל אביב-יפו",
+      "lat": 32.07925,
+      "lon": 34.7950731
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17912216
+  "isActive": true
 }

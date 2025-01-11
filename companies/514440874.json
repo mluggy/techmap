@@ -6,21 +6,26 @@
   "logoFile": "logos/fiverr_international-logo.webp",
   "websiteUrl": "https://www.fiverr.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fiverr-com",
+  "linkedinNum": 861427,
   "crunchbaseId": null,
+  "ivcId": "A1000000010428",
   "finderId": "fiverr",
   "xId": "fiverr",
+  "facebookId": "fiverr",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קפלן",
+      "street": "אליעזר קפלן",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.073213,
-      "lon": 34.783298
+      "city": "תל אביב-יפו",
+      "lat": 32.0732978,
+      "lon": 34.7833946
     }
   ],
   "isMultinational": false,
-  "facebookId": "fiverr",
-  "linkedinNum": 861427
+  "isActive": true
 }

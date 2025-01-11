@@ -6,11 +6,17 @@
   "logoFile": "logos/aqua_security_software-logo.webp",
   "websiteUrl": "https://www.aquasec.com/",
   "careersUrl": "https://www.aquasec.com/about-us/careers/",
-  "isHiring": true,
   "linkedinId": "aquasecteam",
+  "linkedinNum": 10034420,
   "crunchbaseId": "aquasecurity",
+  "ivcId": "A1000000196220",
   "finderId": "aqua-security",
   "xId": "AquaSecTeam",
+  "facebookId": "AquaSecTeam",
+  "breezyId": null,
+  "comeetId": "aquasec/91.001",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AquaSecTeam",
-  "linkedinNum": 10034420,
-  "comeetId": "aquasec/91.001"
+  "isActive": true
 }

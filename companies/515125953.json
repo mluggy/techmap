@@ -9,9 +9,14 @@
   "linkedinId": "corocyber",
   "linkedinNum": 3574843,
   "crunchbaseId": "coronet",
+  "ivcId": null,
   "finderId": "coro",
   "xId": "coro_cyber",
   "facebookId": "corocyber",
+  "breezyId": null,
+  "comeetId": "coro/08.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוטשילד",
@@ -21,6 +26,6 @@
       "lon": 34.768998704793404
     }
   ],
-  "comeetId": "coro/08.00A",
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

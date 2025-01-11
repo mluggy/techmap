@@ -6,20 +6,26 @@
   "logoFile": "logos/firstpoint_mobile_guard-logo.webp",
   "websiteUrl": "https://www.firstpoint-mg.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10922356,
   "crunchbaseId": null,
+  "ivcId": "A1000000226633",
   "finderId": "firstpoint-mobile-guard",
   "xId": "firstpointmg",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סבידור מנחם",
-      "houseNumber": 74,
+      "street": "הגביש",
+      "houseNumber": 10,
       "city": "נתניה",
-      "lat": 32.2731573,
-      "lon": 34.8492094
+      "lat": 32.2903794,
+      "lon": 34.8630783
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10922356
+  "isActive": true
 }

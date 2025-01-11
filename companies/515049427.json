@@ -1,16 +1,22 @@
 {
   "name": "MCTECH",
-  "description": "Radio Frequency Jamming Technology",
-  "categoryId": 3,
-  "size": "xs",
+  "description": "MCTECH is a leading international RF Technology system manufacturer, specializes in the design, development and manufacturing of high-end RF jammers.",
+  "categoryId": 7,
+  "size": "s",
   "logoFile": "logos/mctech_rf_technologies-logo.webp",
-  "websiteUrl": "https://mctech-jammers.com",
+  "websiteUrl": "http://www.mctech.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3773943,
   "crunchbaseId": null,
+  "ivcId": "A1000000218071",
   "finderId": "mctech",
   "xId": null,
+  "facebookId": "mctechrfjammers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התע\"ש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "mctechrfjammers",
-  "linkedinNum": 3773943
+  "isActive": true
 }

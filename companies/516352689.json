@@ -6,20 +6,26 @@
   "logoFile": "logos/dtect_vision-logo.webp",
   "websiteUrl": "https://www.dtectvision.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dtect-vision",
+  "linkedinNum": 90868112,
   "crunchbaseId": null,
+  "ivcId": "A1000000371990",
   "finderId": "dtect-vision",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מרדכי (מוטה) גור",
+      "street": "מוטה גור",
       "houseNumber": 54,
-      "city": "תל אביב - יפו",
-      "lat": 32.1189588822299,
-      "lon": 34.8090116660691
+      "city": "תל אביב-יפו",
+      "lat": 32.1187944,
+      "lon": 34.8090499
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90868112
+  "isActive": true
 }

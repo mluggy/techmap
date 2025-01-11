@@ -1,25 +1,31 @@
 {
   "name": "Citizen Impact",
-  "description": "AI-based Platform for Social Assistance Services",
+  "description": "AI-based Platform for Social Assistance Services.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/citizen_impact-logo.webp",
   "websiteUrl": "https://www.citizens-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "c-i-citizen-impact",
+  "linkedinNum": 75057944,
   "crunchbaseId": null,
+  "ivcId": "A1000000388060",
   "finderId": "citizen-impact",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עץ השדה",
-      "houseNumber": 3,
-      "city": "חגלה",
-      "lat": 32.3873507,
-      "lon": 34.9229448
+      "street": "השדה",
+      "houseNumber": null,
+      "city": "כרם מהר\"ל",
+      "lat": 32.6486756,
+      "lon": 34.9909758
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75057944
+  "isActive": true
 }

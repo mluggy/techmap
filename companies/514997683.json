@@ -6,21 +6,26 @@
   "logoFile": "logos/outgage-logo.webp",
   "websiteUrl": "https://www.outgage.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "outgage",
+  "linkedinNum": 18581587,
   "crunchbaseId": "outgage-inc",
+  "ivcId": "A1000000024940",
   "finderId": "take-make",
   "xId": "OutgageHQ",
+  "facebookId": "outgagehq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "שדרות מנחם בגין",
       "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.072032,
-      "lon": 34.788987
+      "city": "אור יהודה",
+      "lat": 32.0278299,
+      "lon": 34.85833
     }
   ],
   "isMultinational": false,
-  "facebookId": "outgagehq",
-  "linkedinNum": 18581587
+  "isActive": true
 }

@@ -6,13 +6,26 @@
   "logoFile": "logos/decodea-logo.webp",
   "websiteUrl": "https://decodea.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "decodea",
+  "linkedinNum": 13208156,
   "crunchbaseId": null,
+  "ivcId": "A1000000304193",
   "finderId": "chesstories",
   "xId": "DecodeChess",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "pg",
-  "linkedinNum": 13208156
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "לוטן",
+      "lat": 29.988263,
+      "lon": 35.086776
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

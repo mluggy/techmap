@@ -6,21 +6,26 @@
   "logoFile": "logos/feelit_technologies-logo.webp",
   "websiteUrl": "https://feelit.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "feelittech",
+  "linkedinNum": 18666865,
   "crunchbaseId": "feelit-2",
+  "ivcId": "A1000000217757",
   "finderId": "feelit-technologies",
   "xId": null,
+  "facebookId": "feelittech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
-      "houseNumber": 13,
-      "city": "יקנעם עילית",
-      "lat": 32.6598199,
-      "lon": 35.099120188408975
+      "houseNumber": 3,
+      "city": "יוקנעם עילית",
+      "lat": 32.6577007,
+      "lon": 35.0976789
     }
   ],
   "isMultinational": false,
-  "facebookId": "feelittech",
-  "linkedinNum": 18666865
+  "isActive": true
 }

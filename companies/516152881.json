@@ -6,21 +6,26 @@
   "logoFile": "logos/flightops-logo.webp",
   "websiteUrl": "https://www.flightops.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "flightops",
+  "linkedinNum": 69520438,
   "crunchbaseId": null,
+  "ivcId": "A1000000335898",
   "finderId": "flightops",
   "xId": null,
+  "facebookId": "flightops.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד אבא אבן",
-      "houseNumber": 1,
+      "street": "רחוב אריה שנקר",
+      "houseNumber": 3,
       "city": "הרצליה",
-      "lat": 32.1613414,
-      "lon": 34.8105823
+      "lat": 32.1602438,
+      "lon": 34.8095785
     }
   ],
   "isMultinational": false,
-  "facebookId": "flightops.io",
-  "linkedinNum": 69520438
+  "isActive": true
 }

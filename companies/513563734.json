@@ -1,26 +1,31 @@
 {
   "name": "AIR",
-  "description": "Air Taxi for the Consumer Market",
+  "description": "Air Taxi for the Consumer Market.",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/air_consolidators_israel_agencies_2004-logo.webp",
   "websiteUrl": "https://www.airev.aero/",
   "careersUrl": "https://www.airev.aero/careers",
-  "isHiring": true,
   "linkedinId": "air-ev",
+  "linkedinNum": 74980268,
   "crunchbaseId": null,
+  "ivcId": "A1000000364175",
   "finderId": "air1",
   "xId": null,
+  "facebookId": "airevtol",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סביון",
-      "houseNumber": 2,
-      "city": "פרדס חנה - כרכור",
-      "lat": 32.490873466116135,
-      "lon": 34.97495942885981
+      "houseNumber": 1,
+      "city": "פרדס חנה כרכור",
+      "lat": 32.4905403,
+      "lon": 34.9748214
     }
   ],
   "isMultinational": false,
-  "facebookId": "airevtol",
-  "linkedinNum": 74980268
+  "isActive": true
 }

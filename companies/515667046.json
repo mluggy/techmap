@@ -6,11 +6,17 @@
   "logoFile": "logos/kashklik-logo.webp",
   "websiteUrl": "https://www.kashklik.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kashklik",
+  "linkedinNum": 10689839,
   "crunchbaseId": null,
+  "ivcId": "A1000000224886",
   "finderId": "kashklik",
   "xId": "KashKlik",
+  "facebookId": "KashKlik",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חבצלת",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "KashKlik",
-  "linkedinNum": 10689839
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/legalup-logo.webp",
   "websiteUrl": "https://legalup.me/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "legalup-automation",
+  "linkedinNum": 11559567,
   "crunchbaseId": null,
+  "ivcId": "A1000000233074",
   "finderId": "legalup",
   "xId": "LegalUpIL",
+  "facebookId": "legaluptech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בארי",
-      "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.082946,
-      "lon": 34.788002
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "legaluptech",
-  "linkedinNum": 11559567
+  "isActive": true
 }

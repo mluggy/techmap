@@ -6,20 +6,26 @@
   "logoFile": "logos/pomvom-logo.webp",
   "websiteUrl": "https://www.pomvom.com/",
   "careersUrl": "https://www.pomvom.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "pomvom",
+  "linkedinNum": 18007379,
   "crunchbaseId": null,
+  "ivcId": "A1000000223220",
   "finderId": "pomvom",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המנופים",
-      "houseNumber": 10,
-      "city": "הרצליה",
-      "lat": 32.1598236,
-      "lon": 34.8080456
+      "street": "המסגר",
+      "houseNumber": 35,
+      "city": "תל אביב-יפו",
+      "lat": 32.0646001,
+      "lon": 34.7853961
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18007379
+  "isActive": true
 }

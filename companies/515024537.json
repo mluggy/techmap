@@ -6,21 +6,26 @@
   "logoFile": "logos/vimmi_communications-logo.webp",
   "websiteUrl": "https://vimmi.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vimmi-communications-ltd-",
+  "linkedinNum": 5083700,
   "crunchbaseId": null,
+  "ivcId": "A1000000024198",
   "finderId": "vimmi",
   "xId": "Vimmi_tweets",
+  "facebookId": "vimmicom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 1,
-      "city": "בית שמש",
-      "lat": 31.7520136,
-      "lon": 35.0000166
+      "street": "אופנהיימר",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.1194149,
+      "lon": 34.7998769
     }
   ],
   "isMultinational": false,
-  "facebookId": "vimmicom",
-  "linkedinNum": 5083700
+  "isActive": true
 }

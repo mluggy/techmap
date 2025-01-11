@@ -6,21 +6,26 @@
   "logoFile": "logos/forcepoint_security_solutions_israel-logo.webp",
   "websiteUrl": "https://www.forcepoint.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "forcepoint",
+  "linkedinNum": 7584467,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "forcepoint",
   "xId": "forcepointsec",
+  "facebookId": "ForcepointLLC",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השלושה",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0617382,
       "lon": 34.7882304
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ForcepointLLC",
-  "linkedinNum": 7584467
+  "isMultinational": false,
+  "isActive": true
 }

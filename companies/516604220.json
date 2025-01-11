@@ -6,21 +6,26 @@
   "logoFile": "logos/stay_in_tel_aviv-logo.webp",
   "websiteUrl": "https://www.staylabs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 68491696,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "stay-labs",
   "xId": null,
+  "facebookId": "staylabs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0654291,
       "lon": 34.7766695
     }
   ],
   "isMultinational": false,
-  "facebookId": "staylabs",
-  "linkedinNum": 68491696
+  "isActive": true
 }

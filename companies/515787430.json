@@ -6,21 +6,26 @@
   "logoFile": "logos/callmarker_communications-logo.webp",
   "websiteUrl": "https://callmarker.com/",
   "careersUrl": "https://callmarker.com/careers/",
-  "isHiring": true,
   "linkedinId": "callmarker",
+  "linkedinNum": 18070629,
   "crunchbaseId": "callmarker",
+  "ivcId": "A1000000240456",
   "finderId": "callmarker",
   "xId": "CallMarker",
+  "facebookId": "callmarker",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סילבר אבא הלל",
-      "houseNumber": 18,
-      "city": "חיפה",
-      "lat": 32.7892551,
-      "lon": 35.0144765
+      "street": "חלמיש",
+      "houseNumber": 14,
+      "city": "קיסריה",
+      "lat": 32.4849908,
+      "lon": 34.9483916
     }
   ],
   "isMultinational": false,
-  "facebookId": "callmarker",
-  "linkedinNum": 18070629
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/xfind-logo.webp",
   "websiteUrl": "https://www.xfind.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 27204181,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "xfind",
   "xId": "xfindai",
+  "facebookId": "xfindai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האלון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "xfindai",
-  "linkedinNum": 27204181
+  "isActive": true
 }

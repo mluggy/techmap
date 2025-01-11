@@ -1,16 +1,22 @@
 {
   "name": "Dow",
   "description": "Provides the world's most reliable business news and financial information across multiple media platforms.",
-  "size": "s",
   "categoryId": 10,
+  "size": "s",
   "logoFile": "logos/dow_material_sciences-logo.webp",
   "websiteUrl": "https://www.dow.com/en-us",
   "careersUrl": "https://corporate.dow.com/en-us/careers.html",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 2562,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dow",
   "xId": "DowNewsroom",
+  "facebookId": "dow",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -20,7 +26,6 @@
       "lon": 34.801384906098356
     }
   ],
-  "isMultinational": true,
-  "facebookId": "dow",
-  "linkedinNum": 2562
+  "isMultinational": false,
+  "isActive": true
 }

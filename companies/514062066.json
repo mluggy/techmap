@@ -1,0 +1,31 @@
+{
+  "name": "MediaHosting (Listen2MyRadio)",
+  "description": "MediaHosting  services focus on two main areas of activity, first: solutions for audio and video streaming, hosting and CDN, all this through the operation of servers in Europe, the United States and Israel.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/mediahosting_listen_2_myradio-logo.webp",
+  "websiteUrl": "http://mediahosting.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009636",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך חיפה",
+      "houseNumber": 140,
+      "city": "קרית אתא",
+      "lat": 32.8093329,
+      "lon": 35.0720166
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/continuity_software-logo.webp",
   "websiteUrl": "https://www.continuitysoftware.com/",
   "careersUrl": "https://www.continuitysoftware.com/careers/",
-  "isHiring": true,
   "linkedinId": "continuity-storage-protection",
+  "linkedinNum": 46211,
   "crunchbaseId": "continuity-software",
+  "ivcId": null,
   "finderId": "continuity-software",
   "xId": "ContinuitySoft",
+  "facebookId": "continuitysoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 27,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.109707,
       "lon": 34.840481
     }
   ],
   "isMultinational": false,
-  "facebookId": "continuitysoftware",
-  "linkedinNum": 46211
+  "isActive": true
 }

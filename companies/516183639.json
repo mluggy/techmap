@@ -6,22 +6,26 @@
   "logoFile": "logos/landa_capital_2020-logo.webp",
   "websiteUrl": "https://landanano.com/",
   "careersUrl": "https://landanano.com/about-us/careers/",
-  "isHiring": true,
   "linkedinId": "landa-digital-printing",
+  "linkedinNum": 2868643,
   "crunchbaseId": null,
+  "ivcId": "A1000000020276",
   "finderId": "landa",
   "xId": "landanano",
+  "facebookId": "landanano",
+  "breezyId": null,
+  "comeetId": "landacorp/A4.000",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קרית מדע",
-      "houseNumber": 11,
-      "city": "ירושלים",
-      "lat": 31.8023267,
-      "lon": 35.2092883
+      "street": "פיינשטיין",
+      "houseNumber": null,
+      "city": "גבעת ברנר",
+      "lat": 31.8646325,
+      "lon": 34.8034207
     }
   ],
   "isMultinational": false,
-  "facebookId": "landanano",
-  "linkedinNum": 2868643,
-  "comeetId": "landacorp/A4.000"
+  "isActive": true
 }

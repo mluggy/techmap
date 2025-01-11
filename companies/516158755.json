@@ -1,25 +1,31 @@
 {
   "name": "Insurtix",
-  "description": "All-inclusive online solution for insurance companies.",
-  "categoryId": 10,
-  "size": "xs",
+  "description": "Insurtix digital innovation core platform enables insurers for the first time to enjoy comprehensive insurance coverage platform to manage all their line of business and products, functionality and modules in one place.",
+  "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/insurtix-logo.webp",
-  "websiteUrl": "https://www.insurtix.co.il/",
+  "websiteUrl": "https://www.insurtix.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "insurtix",
+  "linkedinNum": 66234076,
   "crunchbaseId": "insurtix-ltd",
+  "ivcId": "A1000000308817",
   "finderId": "insurtix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד אבא אבן",
-      "houseNumber": 16,
+      "street": null,
+      "houseNumber": null,
       "city": "הרצליה",
-      "lat": 32.16222215,
-      "lon": 34.80753269535335
+      "lat": 32.162413,
+      "lon": 34.844675
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 66234076
+  "isActive": true
 }

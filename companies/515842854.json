@@ -1,0 +1,31 @@
+{
+  "name": "Prilenia",
+  "description": "Prilenia is a clinical stage biotech startup with the purpose of improving the lives of patients and their families by developing treatments for neurodegenerative and neurodevelopmental disorders.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/prilenia-logo.webp",
+  "websiteUrl": "https://www.prilenia.com",
+  "careersUrl": "https://www.prilenia.com/join-us/",
+  "linkedinId": "prilenia",
+  "linkedinNum": 26568559,
+  "crunchbaseId": null,
+  "ivcId": "A1000000316791",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.1595829,
+      "lon": 34.8083893
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

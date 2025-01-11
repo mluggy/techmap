@@ -6,21 +6,26 @@
   "logoFile": "logos/ayyeka_technologies-logo.webp",
   "websiteUrl": "https://www.ayyeka.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ayyeka-technologies",
+  "linkedinNum": 5005439,
   "crunchbaseId": "ayyeka",
+  "ivcId": "A1000000020867",
   "finderId": "ayyeka",
   "xId": "AyyekaTech",
+  "facebookId": null,
   "breezyId": "ayyeka",
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יפו",
-      "houseNumber": 206,
+      "street": "קרית המדע",
+      "houseNumber": 5,
       "city": "ירושלים",
-      "lat": 31.787876,
-      "lon": 35.2074073
+      "lat": 31.801037,
+      "lon": 35.210314
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5005439
+  "isActive": true
 }

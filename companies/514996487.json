@@ -6,19 +6,26 @@
   "logoFile": "logos/eximore-logo.webp",
   "websiteUrl": "https://eximore.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eximore",
+  "linkedinNum": 87414071,
   "crunchbaseId": null,
+  "ivcId": "A1000000175763",
   "finderId": "eximore",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קפלן",
-      "houseNumber": null,
-      "city": "ירושלים",
-      "lat": 31.7805548,
-      "lon": 35.1995855
+      "street": "הרב שלום שבזי",
+      "houseNumber": 26,
+      "city": "ראש העין",
+      "lat": 32.0966538,
+      "lon": 34.9432332
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

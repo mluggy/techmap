@@ -6,11 +6,17 @@
   "logoFile": "logos/springloc-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "springloc",
+  "linkedinNum": 101243880,
   "crunchbaseId": null,
+  "ivcId": "A1000000472549",
   "finderId": "springloc",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משעול היערה",
@@ -19,5 +25,7 @@
       "lat": 31.8066941,
       "lon": 35.1986539
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

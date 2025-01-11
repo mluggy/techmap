@@ -6,20 +6,26 @@
   "logoFile": "logos/magnifica_vr-logo.webp",
   "websiteUrl": "https://magnifica.io/",
   "careersUrl": "https://magnifica.io/careers",
-  "isHiring": true,
   "linkedinId": "magnifica-vr",
+  "linkedinNum": 23712807,
   "crunchbaseId": null,
+  "ivcId": "A1000000356347",
   "finderId": "magnifica-vr",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 82,
-      "city": "תל אביב - יפו",
-      "lat": 32.066186,
-      "lon": 34.792954
+      "street": "החרש",
+      "houseNumber": 4,
+      "city": "הוד השרון",
+      "lat": 32.1330647,
+      "lon": 34.8988113
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 23712807
+  "isActive": true
 }

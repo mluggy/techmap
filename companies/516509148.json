@@ -1,26 +1,31 @@
 {
   "name": "Bring It On",
-  "description": "Skill-based Games Studio",
+  "description": "Skill-based Games Studio.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/bring-it-on.webp",
   "websiteUrl": "https://www.bringiton.games/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "bring-it-on-games",
   "linkedinNum": 76211349,
   "crunchbaseId": null,
+  "ivcId": "A1000000382659",
   "finderId": "bring-it-on",
   "xId": null,
   "facebookId": "100083163557715",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רבין יצחק",
+      "street": "יצחק רבין",
       "houseNumber": 8,
-      "city": "קריית אונו",
-      "lat": 32.06630034791776,
-      "lon": 34.86376062843072
+      "city": "אור יהודה",
+      "lat": 32.0265706,
+      "lon": 34.8682425
     }
   ],
   "isMultinational": false,
-  "linkedinId": "bring-it-on-games"
+  "isActive": true
 }

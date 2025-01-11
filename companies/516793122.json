@@ -1,0 +1,31 @@
+{
+  "name": "Enread",
+  "description": "Enread is a developer of a generative AI platform, designed to streamline research for life science organizations.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/enread-logo.webp",
+  "websiteUrl": "https://enread.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485908",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגולן",
+      "houseNumber": 52,
+      "city": "גני תקווה",
+      "lat": 32.0556891,
+      "lon": 34.8702287
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

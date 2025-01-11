@@ -6,21 +6,26 @@
   "logoFile": "logos/qmarkets_net-logo.webp",
   "websiteUrl": "https://www.qmarkets.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "qmarkets",
+  "linkedinNum": 930816,
   "crunchbaseId": "qmarkets---innovation-management",
+  "ivcId": "A1000000002145",
   "finderId": "qmarkets",
   "xId": "qmarketsglobal",
+  "facebookId": "qmarkets",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 13,
+      "street": "אפק",
+      "houseNumber": null,
       "city": "ראש העין",
-      "lat": 32.1088976,
-      "lon": 34.9653972
+      "lat": 32.090165,
+      "lon": 34.946501
     }
   ],
   "isMultinational": false,
-  "facebookId": "qmarkets",
-  "linkedinNum": 930816
+  "isActive": true
 }

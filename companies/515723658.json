@@ -3,21 +3,29 @@
   "description": "An Israeli-American biotech company specializing in treatments for Acquired Blepharoptosis, backed by prominent venture capital firms.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/levation_pharma-logo.webp",
+  "logoFile": "logos/levation-pharma-logo.webp",
   "websiteUrl": "https://www.levationpharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "levation-pharma",
+  "linkedinNum": 90570479,
   "crunchbaseId": null,
+  "ivcId": "A1000000260470",
   "finderId": "levation-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החרש",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.05865,
-      "lon": 34.784414
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

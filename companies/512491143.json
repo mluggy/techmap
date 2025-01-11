@@ -6,11 +6,17 @@
   "logoFile": "logos/silentium_ltd-logo.webp",
   "websiteUrl": "https://www.silentium.com/",
   "careersUrl": "https://www.silentium.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "silentium",
+  "linkedinNum": 387937,
   "crunchbaseId": null,
+  "ivcId": "A1000000005351",
   "finderId": "silentium",
   "xId": null,
+  "facebookId": "Silentium-Ltd-152439211463826",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Silentium-Ltd-152439211463826",
-  "linkedinNum": 387937
+  "isActive": true
 }

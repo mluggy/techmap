@@ -1,0 +1,31 @@
+{
+  "name": "Propin",
+  "description": "Propin help sales and expansion teams to unlock the full potential of locations with its live-data-driven AI platform.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/propin-logo.webp",
+  "websiteUrl": "https://propin.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000429354",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בן גוריון",
+      "houseNumber": 27,
+      "city": "פתח תקווה",
+      "lat": 32.0776479,
+      "lon": 34.8705419
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

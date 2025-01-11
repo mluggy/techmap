@@ -6,21 +6,26 @@
   "logoFile": "logos/idea_bio_medical-logo.webp",
   "websiteUrl": "https://idea-bio.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "idea-bio-medical",
+  "linkedinNum": 1776549,
   "crunchbaseId": null,
+  "ivcId": "A1000000003222",
   "finderId": "idea-bio-medical",
   "xId": "WiScanHermes",
+  "facebookId": "IdeaBioMedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברגמן",
-      "houseNumber": 2,
-      "city": "רחובות",
-      "lat": 31.9113645,
-      "lon": 34.8090693
+      "houseNumber": null,
+      "city": "ראשון לציון",
+      "lat": 31.980049,
+      "lon": 34.770867
     }
   ],
   "isMultinational": false,
-  "facebookId": "IdeaBioMedical",
-  "linkedinNum": 1776549
+  "isActive": true
 }

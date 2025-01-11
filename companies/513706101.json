@@ -6,11 +6,17 @@
   "logoFile": "logos/ocean_brick_system_o_b_s-logo.webp",
   "websiteUrl": "https://www.oceanbricks.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000004217",
   "finderId": "Ocean-Brick-System",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היצירה",
@@ -20,5 +26,6 @@
       "lon": 34.8028513
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

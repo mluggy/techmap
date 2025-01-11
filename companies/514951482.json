@@ -6,11 +6,17 @@
   "logoFile": "logos/switchbee-logo.webp",
   "websiteUrl": "https://www.switchbee.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "switchbee",
+  "linkedinNum": 9180344,
   "crunchbaseId": null,
+  "ivcId": "A1000000024218",
   "finderId": "switchbee",
   "xId": null,
+  "facebookId": "SwitchBeeIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SwitchBeeIsrael",
-  "linkedinNum": 9180344
+  "isActive": true
 }

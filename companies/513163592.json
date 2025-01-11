@@ -1,0 +1,31 @@
+{
+  "name": "NetRoads",
+  "description": "NetRoads develops wireless applications. The company's leading product informs drivers of the presence of police raders along their route.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/netroads-logo.webp",
+  "websiteUrl": "http://www.netroads.net",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000007466",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הדסה",
+      "houseNumber": 90,
+      "city": "באר שבע",
+      "lat": 31.2419983,
+      "lon": 34.7889061
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

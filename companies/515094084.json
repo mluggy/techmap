@@ -6,21 +6,26 @@
   "logoFile": "logos/myndlift-logo.webp",
   "websiteUrl": "https://www.myndlift.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "myndlift",
+  "linkedinNum": 5233342,
   "crunchbaseId": null,
+  "ivcId": "A1000000171176",
   "finderId": "myndlift",
   "xId": "Myndlift",
+  "facebookId": "myndlift",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לינקולן",
-      "houseNumber": 19,
-      "city": "תל אביב - יפו",
-      "lat": 32.066398,
-      "lon": 34.783062
+      "street": "החשמונאים",
+      "houseNumber": 91,
+      "city": "תל אביב-יפו",
+      "lat": 32.0697233,
+      "lon": 34.7833787
     }
   ],
   "isMultinational": false,
-  "facebookId": "myndlift",
-  "linkedinNum": 5233342
+  "isActive": true
 }

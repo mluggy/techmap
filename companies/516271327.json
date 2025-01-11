@@ -6,22 +6,26 @@
   "logoFile": "logos/anchor_fintech-logo.webp",
   "websiteUrl": "https://www.sayanchor.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 66951046,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "anchor",
   "xId": "Say_anchor_",
+  "facebookId": "sayanchor",
+  "breezyId": null,
+  "comeetId": "anchorfintech/87.00D",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064654,
       "lon": 34.785584
     }
   ],
   "isMultinational": false,
-  "facebookId": "sayanchor",
-  "linkedinNum": 66951046,
-  "comeetId": "anchorfintech/87.00D"
+  "isActive": true
 }

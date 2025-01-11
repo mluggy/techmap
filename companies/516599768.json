@@ -6,19 +6,26 @@
   "logoFile": "logos/modulight_bio-logo.webp",
   "websiteUrl": "https://www.modulight.bio/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000382125",
   "finderId": "modulight-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בצלאל",
-      "houseNumber": 1,
-      "city": "רמת גן",
-      "lat": 32.086903649999996,
-      "lon": 34.801949
+      "street": "דרך מנחם בגין",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.0718027,
+      "lon": 34.7890235
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

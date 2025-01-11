@@ -1,0 +1,31 @@
+{
+  "name": "MyGenes",
+  "description": "MyGenes developed an algorithm that receives the results of each person's genetic test, performs a scientific interpretation and turns the code into nutrition and lifestyle recommendations.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/mygenes-logo.webp",
+  "websiteUrl": "https://mygenes.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000412936",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

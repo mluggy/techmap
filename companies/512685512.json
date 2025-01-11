@@ -6,21 +6,26 @@
   "logoFile": "logos/simigon_ltd-logo.webp",
   "websiteUrl": "https://www.simigon.com/",
   "careersUrl": "https://www.simigon.com/careers",
-  "isHiring": true,
   "linkedinId": "simigon",
+  "linkedinNum": 30847,
   "crunchbaseId": null,
+  "ivcId": "A1000000006699",
   "finderId": "simigon",
   "xId": "SimiGonGroup",
+  "facebookId": "kory.edwards.1297",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תוצרת הארץ",
-      "houseNumber": 3,
-      "city": "פתח תקווה",
-      "lat": 32.0900013,
-      "lon": 34.8601803
+      "street": "ספיר",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1643966,
+      "lon": 34.8125973
     }
   ],
   "isMultinational": false,
-  "facebookId": "kory.edwards.1297",
-  "linkedinNum": 30847
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Kamedis",
-  "description": "Botanical Skin Care Products",
+  "description": "Botanical Skin Care Products.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/kamedis_ltd-logo.webp",
   "websiteUrl": "https://kamedis.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kamedis",
+  "linkedinNum": 1198709,
   "crunchbaseId": null,
+  "ivcId": "A1000000009203",
   "finderId": "kamedis",
   "xId": "KamedisUSA",
+  "facebookId": "kamedis",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "kamedis",
-  "linkedinNum": 1198709
+  "isActive": true
 }

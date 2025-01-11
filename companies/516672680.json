@@ -6,19 +6,26 @@
   "logoFile": "logos/omaiko-logo.webp",
   "websiteUrl": "https://www.omaiko.eco/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "omaiko",
+  "linkedinNum": 83011934,
   "crunchbaseId": null,
+  "ivcId": "A1000000408210",
   "finderId": "omaiko",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "טרומפלדור",
-      "houseNumber": 5,
-      "city": "קריית שמונה",
-      "lat": 33.2078413,
-      "lon": 35.5719074
+      "street": "תל חי",
+      "houseNumber": 98,
+      "city": "קרית שמונה",
+      "lat": 33.2078616,
+      "lon": 35.5698286
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

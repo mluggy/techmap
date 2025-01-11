@@ -6,20 +6,26 @@
   "logoFile": "logos/altostra-logo.webp",
   "websiteUrl": "https://www.altostra.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "altostra",
+  "linkedinNum": 18743418,
   "crunchbaseId": "altostra",
+  "ivcId": null,
   "finderId": "altostra",
   "xId": "altostrahq",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הוז דב",
       "houseNumber": 25,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.08157,
       "lon": 34.772286
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18743418
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "WhizzCo",
+  "description": "Whizzco is the first AI yield management tool for content recommendation.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/whizzco-logo.webp",
+  "websiteUrl": "https://whizzco.com",
+  "careersUrl": "https://whizzco.com/careers/",
+  "linkedinId": "whizzco",
+  "linkedinNum": 11459500,
+  "crunchbaseId": null,
+  "ivcId": "A1000000299803",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בצלאל",
+      "houseNumber": 4,
+      "city": "רמת גן",
+      "lat": 32.08725510000001,
+      "lon": 34.8017913
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

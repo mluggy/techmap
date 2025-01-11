@@ -6,20 +6,26 @@
   "logoFile": "logos/brillianetor-logo.webp",
   "websiteUrl": "https://www.brillianetor.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "brillianetor-ltd",
+  "linkedinNum": 12906143,
   "crunchbaseId": null,
+  "ivcId": "A1000000190164",
   "finderId": "brillianetor",
   "xId": "BrillianetorAI",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יפו",
-      "houseNumber": 224,
-      "city": "ירושלים",
-      "lat": 31.7892307,
-      "lon": 35.20322458164618
+      "street": "גבעת התחמושת",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.0725137,
+      "lon": 34.7943041
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12906143
+  "isActive": true
 }

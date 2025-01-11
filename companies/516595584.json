@@ -6,20 +6,26 @@
   "logoFile": "logos/trisolar_innowadi_group-logo.webp",
   "websiteUrl": "https://www.trisolar.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trisolar-innowadi-group-ltd",
+  "linkedinNum": 82159304,
   "crunchbaseId": null,
+  "ivcId": "A1000000418656",
   "finderId": "trisolar-innowadi-group",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אל-עדאלה",
-      "houseNumber": 10,
+      "street": "אל עדאסה",
+      "houseNumber": null,
       "city": "כפר קרע",
-      "lat": 32.50633798228757,
-      "lon": 35.054170497104884
+      "lat": 32.5115022,
+      "lon": 35.0479335
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82159304
+  "isActive": true
 }

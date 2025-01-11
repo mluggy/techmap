@@ -6,20 +6,26 @@
   "logoFile": "logos/autobrains_technologies-logo.webp",
   "websiteUrl": "https://autobrains.ai/",
   "careersUrl": "https://autobrain.com/careers",
-  "isHiring": true,
   "linkedinId": "autobrains-technologies",
+  "linkedinNum": 20080095,
   "crunchbaseId": "cartica-ai",
+  "ivcId": "A1000000291928",
   "finderId": "autobrains",
   "xId": "Autobrains_AI",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 52,
-      "city": "תל אביב - יפו",
-      "lat": 32.0634798,
-      "lon": 34.7802841
+      "city": "בני ברק",
+      "lat": 32.092806,
+      "lon": 34.831817
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 20080095
+  "isActive": true
 }

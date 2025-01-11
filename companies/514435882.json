@@ -6,20 +6,26 @@
   "logoFile": "logos/clear_cut_medical-logo.webp",
   "websiteUrl": "https://www.clrcut.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "clear-cut-medical",
+  "linkedinNum": 73047096,
   "crunchbaseId": null,
+  "ivcId": "A1000000009876",
   "finderId": "clearcut-medical",
   "xId": "clearcutmedical",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פייקס דוד",
+      "street": "דוד פייקס",
       "houseNumber": 5,
       "city": "רחובות",
-      "lat": 31.9159391,
-      "lon": 34.8103557
+      "lat": 31.9141345,
+      "lon": 34.8089621
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 73047096
+  "isActive": true
 }

@@ -1,23 +1,31 @@
 {
   "name": "Obol",
-  "description": "The company promotes the use of fault-tolerant, multi-operator validation clusters for Ethereum by advancing Distributed Validator Technology.",
-  "categoryId": 10,
+  "description": "Obol provides full transparency over inflows and outflows. The company empowers finance teams to collaborate and turn insights into action items.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/obol-logo.webp",
-  "websiteUrl": "https://obol.tech/",
+  "websiteUrl": "https://www.obol.app",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "obolapp",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000363056",
   "finderId": "obol",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07734524999999,
       "lon": 34.79332549438699
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,18 +6,26 @@
   "logoFile": "logos/endomatic-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000273116",
   "finderId": "endomatic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נתניהו יהונתן",
-      "houseNumber": 6,
-      "city": "אור יהודה",
-      "lat": 32.0219296,
-      "lon": 34.8566055
+      "street": "אריה פסטרנק",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.1180876,
+      "lon": 34.7968073
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

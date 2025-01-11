@@ -3,22 +3,29 @@
   "description": "Explore Rhino Eco's AI-powered solar financing. Get streamlined options for homeowners. Sign up now for personalized financing tailored to your needs!.",
   "categoryId": 17,
   "size": "s",
-  "logoFile": "logos/rhino_eco-logo.webp",
+  "logoFile": "logos/rhino-eco-logo.webp",
   "websiteUrl": "https://www.rhino-eco.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rhino-eco",
+  "linkedinNum": 74554630,
   "crunchbaseId": "rhino-eco",
+  "ivcId": null,
   "finderId": "rhino-eco",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוקן",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.051717,
       "lon": 34.772405
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

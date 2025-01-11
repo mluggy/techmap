@@ -6,18 +6,26 @@
   "logoFile": "logos/agil_jewellery_ltd-logo.webp",
   "websiteUrl": "https://www.agilfx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "agil",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלנבי",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.066102,
       "lon": 34.771614
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

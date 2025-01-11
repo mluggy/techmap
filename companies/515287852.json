@@ -1,26 +1,31 @@
 {
   "name": "Arbox",
-  "description": "Management Platform for Fitness, Wellness, Teaching, and Courses",
+  "description": "Management Platform for Fitness, Wellness, Teaching, and Courses.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/arbox-logo.webp",
   "websiteUrl": "https://arboxapp.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "arbox",
+  "linkedinNum": 10970964,
   "crunchbaseId": null,
+  "ivcId": "A1000000206964",
   "finderId": "arbox",
   "xId": "Arbox_app",
+  "facebookId": "arboxapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אליוט ג'ורג'",
       "houseNumber": 11,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06826,
       "lon": 34.775061
     }
   ],
   "isMultinational": false,
-  "facebookId": "arboxapp",
-  "linkedinNum": 10970964
+  "isActive": true
 }

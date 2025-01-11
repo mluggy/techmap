@@ -6,11 +6,17 @@
   "logoFile": "logos/telemessage_ltd-logo.webp",
   "websiteUrl": "https://www.telemessage.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "telemessage",
+  "linkedinNum": 27159,
   "crunchbaseId": null,
+  "ivcId": "A1000000006333",
   "finderId": "telemessage",
   "xId": "TeleMessage1",
+  "facebookId": "TeleMessage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המפלסים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TeleMessage",
-  "linkedinNum": 27159
+  "isActive": true
 }

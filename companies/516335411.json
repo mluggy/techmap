@@ -1,0 +1,31 @@
+{
+  "name": "GyneCheck",
+  "description": "GyneCheck is a developer of a telemedicine system, designed to prevent and treat gynecological disease.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/gynecheck-logo.webp",
+  "websiteUrl": "http://www.gynecheck.com",
+  "careersUrl": null,
+  "linkedinId": "gynecheck",
+  "linkedinNum": 82125403,
+  "crunchbaseId": null,
+  "ivcId": "A1000000438913",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "מכמורת",
+      "lat": 32.406504,
+      "lon": 34.871551
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

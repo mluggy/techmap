@@ -6,11 +6,17 @@
   "logoFile": "logos/ceva_technologies-logo.webp",
   "websiteUrl": "https://www.ceva-ip.com/",
   "careersUrl": "https://www.cevalogistics.com/en/careers",
-  "isHiring": true,
   "linkedinId": "ceva",
+  "linkedinNum": 11357,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ceva",
   "xId": "CEVA_IP",
+  "facebookId": "CEVAIP",
+  "breezyId": null,
+  "comeetId": "ceva/76.005",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CEVAIP",
-  "linkedinNum": 11357,
-  "comeetId": "ceva/76.005"
+  "isActive": true
 }

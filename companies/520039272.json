@@ -6,11 +6,17 @@
   "logoFile": "logos/tadbik-logo.webp",
   "websiteUrl": "https://www.tadbik.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tadbik-pack",
+  "linkedinNum": 148338,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tadbik",
   "xId": "tadbik",
+  "facebookId": "Tadbik1",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בלטימור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Tadbik1",
-  "linkedinNum": 148338
+  "isActive": true
 }

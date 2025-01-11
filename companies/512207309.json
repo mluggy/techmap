@@ -1,0 +1,31 @@
+{
+  "name": "vBookz",
+  "description": "MindEx develops vBookz, a book readers application for the iPhone, iPad and iPod that read the file out loud.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/vbookz-logo.webp",
+  "websiteUrl": "http://vbookz.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000010599",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פינס",
+      "houseNumber": 34,
+      "city": "גדרה",
+      "lat": 31.8109505,
+      "lon": 34.7772892
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

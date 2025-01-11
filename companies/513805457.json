@@ -6,20 +6,26 @@
   "logoFile": "logos/greenoy-logo.webp",
   "websiteUrl": "https://www.greenoy.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "greenoy",
+  "linkedinNum": 336299,
   "crunchbaseId": null,
+  "ivcId": "A1000000009151",
   "finderId": "greenoy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגפן",
-      "houseNumber": 5,
+      "street": "אלון",
+      "houseNumber": 36,
       "city": "כרמי יוסף",
-      "lat": 31.86256358007546,
-      "lon": 34.94754640445053
+      "lat": 31.8459472,
+      "lon": 34.9217531
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 336299
+  "isActive": true
 }

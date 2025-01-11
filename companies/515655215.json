@@ -6,11 +6,17 @@
   "logoFile": "logos/centarix_biotech-logo.webp",
   "websiteUrl": "https://www.centarix.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "centarix",
+  "linkedinNum": 28470501,
   "crunchbaseId": null,
+  "ivcId": "A1000000325503",
   "finderId": "centarix-biotech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרפא",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28470501
+  "isActive": true
 }

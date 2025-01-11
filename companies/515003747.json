@@ -6,20 +6,26 @@
   "logoFile": "logos/azura_ophthalmics_ltd-logo.webp",
   "websiteUrl": "https://azuraophthalmics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "azura-ophthalmics-limited",
+  "linkedinNum": 13448320,
   "crunchbaseId": null,
+  "ivcId": "A1000000242494",
   "finderId": "azura-ophthalmics",
   "xId": "Azura_Op",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרויאנוב",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
-      "lat": 32.076978,
-      "lon": 34.771767
+      "city": "תל אביב-יפו",
+      "lat": 32.0768982,
+      "lon": 34.7719282
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13448320
+  "isActive": true
 }

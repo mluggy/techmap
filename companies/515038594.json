@@ -6,21 +6,26 @@
   "logoFile": "logos/nurami_medical-logo.webp",
   "websiteUrl": "https://www.nurami-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nurami-medical",
+  "linkedinNum": 5222266,
   "crunchbaseId": null,
+  "ivcId": "A1000000178905",
   "finderId": "nurami-medical",
   "xId": null,
+  "facebookId": "Nurami-Medical-111635057259570",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
       "houseNumber": 36,
       "city": "חיפה",
-      "lat": 32.8191508,
-      "lon": 35.0004706
+      "lat": 32.8203386,
+      "lon": 34.9993996
     }
   ],
   "isMultinational": false,
-  "facebookId": "Nurami-Medical-111635057259570",
-  "linkedinNum": 5222266
+  "isActive": true
 }

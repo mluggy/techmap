@@ -1,0 +1,31 @@
+{
+  "name": "Raizo",
+  "description": "RaizoO is a casual mobile gaming company.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/raizo-logo.webp",
+  "websiteUrl": "http://raizoo.com",
+  "careersUrl": null,
+  "linkedinId": "raizoo",
+  "linkedinNum": 23738479,
+  "crunchbaseId": null,
+  "ivcId": "A1000000293506",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

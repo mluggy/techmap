@@ -1,16 +1,22 @@
 {
   "name": "Arbell Energy",
-  "description": "NanoCrystal Solar Cell Technology",
+  "description": "NanoCrystal Solar Cell Technology.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/arbell_energy-logo.webp",
   "websiteUrl": "https://www.arbellenergy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 90945480,
   "crunchbaseId": null,
+  "ivcId": "A1000000418299",
   "finderId": "arbell-energy-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטבק",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90945480
+  "isActive": true
 }

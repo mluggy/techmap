@@ -1,25 +1,31 @@
 {
   "name": "Wematch.live",
-  "description": "Communication Tool for Traders and Brokers",
+  "description": "Communication Tool for Traders and Brokers.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/wematch-live.webp",
   "websiteUrl": "https://wematch.live/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "wematch.live",
   "linkedinNum": 17965901,
   "crunchbaseId": null,
+  "ivcId": "A1000000268082",
   "finderId": "wematch-live",
   "xId": "wematchlondon",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.07292831978573,
-      "lon": 34.794925714546196
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

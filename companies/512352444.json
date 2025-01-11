@@ -6,22 +6,26 @@
   "logoFile": "logos/ceragon_networks-logo.webp",
   "websiteUrl": "https://www.ceragon.com/",
   "careersUrl": "https://www.ceragon.com/about-ceragon/careers",
-  "isHiring": true,
   "linkedinId": "ceragon-networks",
+  "linkedinNum": 14470,
   "crunchbaseId": null,
+  "ivcId": "A1000000006281",
   "finderId": "ceragon-networks",
   "xId": "Ceragon",
+  "facebookId": "ceragonnetworks",
+  "breezyId": null,
+  "comeetId": "Ceragon/D3.003",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריאב אורי",
-      "houseNumber": 3,
+      "street": null,
+      "houseNumber": null,
       "city": "ראש העין",
-      "lat": 32.1127148,
-      "lon": 34.9419436
+      "lat": 32.095838,
+      "lon": 34.952177
     }
   ],
   "isMultinational": false,
-  "facebookId": "ceragonnetworks",
-  "linkedinNum": 14470,
-  "comeetId": "Ceragon/D3.003"
+  "isActive": true
 }

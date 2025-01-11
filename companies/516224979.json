@@ -6,20 +6,26 @@
   "logoFile": "logos/sedric_artificial_intelligence_labs-logo.webp",
   "websiteUrl": "https://www.sedric.ai/",
   "careersUrl": "https://www.sedric.ai/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "sedric-me",
+  "linkedinNum": 65322617,
   "crunchbaseId": null,
+  "ivcId": "A1000000362187",
   "finderId": "sedric",
   "xId": "SedricAI",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רפידים",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.11004,
-      "lon": 34.812969
+      "city": "תל אביב-יפו",
+      "lat": 32.1102039,
+      "lon": 34.8126968
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 65322617
+  "isActive": true
 }

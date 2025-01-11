@@ -6,12 +6,17 @@
   "logoFile": "logos/spuntech-industries.webp",
   "websiteUrl": "https://www.spuntech.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "spuntech-industries",
   "linkedinNum": 1399695,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "spuntech-industries",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אזור התעשיה",
@@ -21,5 +26,6 @@
       "lon": 35.50198612185872
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Plate my Meal",
-  "description": "Tool for Planning Healthy Meals",
+  "description": "Tool for Planning Healthy Meals.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/plate_my_meal-logo.webp",
   "websiteUrl": "https://en.platemymeal.com/?translate=yes",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "plate-my-meal-ltd",
+  "linkedinNum": 5228882,
   "crunchbaseId": null,
+  "ivcId": "A1000000022798",
   "finderId": "plate-my-meal",
   "xId": "PlateMyMeal",
+  "facebookId": "PlateMyMeal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגלעד",
-      "houseNumber": 4,
-      "city": "תנובות",
-      "lat": 32.3083284118628,
-      "lon": 34.964514293042754
+      "street": "הגבורה",
+      "houseNumber": 27,
+      "city": "פרדס חנה כרכור",
+      "lat": 32.468444,
+      "lon": 34.9848937
     }
   ],
   "isMultinational": false,
-  "facebookId": "PlateMyMeal",
-  "linkedinNum": 5228882
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/magam_safety-logo.webp",
   "websiteUrl": "https://magam-safety.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "magam-safety",
+  "linkedinNum": 4847973,
   "crunchbaseId": null,
+  "ivcId": "A1000000486611",
   "finderId": "magam-safety",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנא",
       "houseNumber": 6,
       "city": "נוף הגליל",
-      "lat": 32.7562557,
-      "lon": 35.3200301
+      "lat": 32.7561516,
+      "lon": 35.31928550000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 4847973
+  "isActive": true
 }

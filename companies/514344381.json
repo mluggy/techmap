@@ -6,11 +6,17 @@
   "logoFile": "logos/solarbead-logo.webp",
   "websiteUrl": "https://orlandosolarbearshockey.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "solarbead",
+  "ivcId": null,
   "finderId": "solarbead",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התור",
@@ -19,5 +25,7 @@
       "lat": 32.527778109790084,
       "lon": 34.90687406285053
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

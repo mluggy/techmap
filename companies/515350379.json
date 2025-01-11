@@ -6,11 +6,17 @@
   "logoFile": "logos/zeev_implants-logo.webp",
   "websiteUrl": "https://www.zeevimplants.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000207095",
   "finderId": "zeev-implants",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוחמי הגיטו",
@@ -20,5 +26,6 @@
       "lon": 34.85939961582546
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

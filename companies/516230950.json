@@ -1,25 +1,31 @@
 {
   "name": "3DCOM",
-  "description": "Automation Technology for the Real Estate Industry",
-  "categoryId": 10,
+  "description": "3DCOM creates professional 3D models from 2D architectural plans.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/3dcom.webp",
-  "websiteUrl": "https://www.3dcom.io/",
+  "websiteUrl": "https://vizit.co",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 71566812,
   "crunchbaseId": null,
+  "ivcId": "A1000000333060",
   "finderId": "3dcom",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 35,
-      "city": "תל אביב - יפו",
-      "lat": 32.06491255078565,
-      "lon": 34.785423595683994
+      "city": "תל אביב-יפו",
+      "lat": 32.0646001,
+      "lon": 34.7853961
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

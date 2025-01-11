@@ -6,21 +6,26 @@
   "logoFile": "logos/oxitone_medical-logo.webp",
   "websiteUrl": "https://www.oxitone.com/",
   "careersUrl": "https://www.oxitone.com/careers/",
-  "isHiring": true,
   "linkedinId": "oxitone-medical",
+  "linkedinNum": 2384676,
   "crunchbaseId": null,
+  "ivcId": "A1000000001724",
   "finderId": "oxitone",
   "xId": "oxitonemedical",
+  "facebookId": "Oxitone",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
+      "street": "עתיר ידע",
       "houseNumber": 17,
       "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "lat": 32.1618941,
+      "lon": 34.9345862
     }
   ],
   "isMultinational": false,
-  "facebookId": "Oxitone",
-  "linkedinNum": 2384676
+  "isActive": true
 }

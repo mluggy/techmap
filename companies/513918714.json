@@ -6,21 +6,26 @@
   "logoFile": "logos/prometheus_inspiring_technology-logo.webp",
   "websiteUrl": "https://pmtsit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pmtsit",
+  "linkedinNum": 201146,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "prometheus-inspiring-technology",
   "xId": "pmtsit",
+  "facebookId": "pmtsit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 152,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.079241,
       "lon": 34.795072
     }
   ],
   "isMultinational": false,
-  "facebookId": "pmtsit",
-  "linkedinNum": 201146
+  "isActive": true
 }

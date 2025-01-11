@@ -4,13 +4,19 @@
   "categoryId": 6,
   "size": "s",
   "logoFile": "logos/reshetcall-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://reshetcall.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "reshetcall-sip",
+  "linkedinNum": 9178836,
   "crunchbaseId": "reshetcall",
+  "ivcId": null,
   "finderId": "reshetcall",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
@@ -19,5 +25,7 @@
       "lat": 32.8191508,
       "lon": 35.0004706
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

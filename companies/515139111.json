@@ -6,21 +6,26 @@
   "logoFile": "logos/scopio_labs-logo.webp",
   "websiteUrl": "https://scopiolabs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "scopio-labs",
+  "linkedinNum": 10048158,
   "crunchbaseId": null,
+  "ivcId": "A1000000224202",
   "finderId": "scopio-labs",
   "xId": "scopio_labs",
+  "facebookId": "scopiolabs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השרון",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.062033,
-      "lon": 34.778825
+      "city": "תל אביב-יפו",
+      "lat": 32.0619885,
+      "lon": 34.7787567
     }
   ],
   "isMultinational": false,
-  "facebookId": "scopiolabs",
-  "linkedinNum": 10048158
+  "isActive": true
 }

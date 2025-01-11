@@ -6,20 +6,26 @@
   "logoFile": "logos/cyfox_technologies-logo.webp",
   "websiteUrl": "https://www.cyfox.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cyfox-cybersecurity",
+  "linkedinNum": 69190610,
   "crunchbaseId": null,
+  "ivcId": "A1000000341104",
   "finderId": "cyfox",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סחרוב אנדרה",
-      "houseNumber": 9,
-      "city": "חיפה",
-      "lat": 32.7897925,
-      "lon": 34.9593655
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69190610
+  "isActive": true
 }

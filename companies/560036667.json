@@ -6,20 +6,26 @@
   "logoFile": "logos/everc.webp",
   "websiteUrl": "https://everc.com/",
   "careersUrl": "https://www.everc.com/careers",
-  "isHiring": true,
+  "linkedinId": "everc",
   "linkedinNum": 68055417,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "everc",
   "xId": "EverCTeam",
   "facebookId": "EverCTeam",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.070263206361645,
       "lon": 34.786520512468144
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

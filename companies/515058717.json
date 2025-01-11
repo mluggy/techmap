@@ -6,21 +6,26 @@
   "logoFile": "logos/mimecast_israel-logo.webp",
   "websiteUrl": "https://www.mimecast.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mimecast",
+  "linkedinNum": 55895,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mimecast",
   "xId": "mimecast",
+  "facebookId": "Mimecast",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 154,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0796864,
       "lon": 34.7955201
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Mimecast",
-  "linkedinNum": 55895
+  "isMultinational": false,
+  "isActive": true
 }

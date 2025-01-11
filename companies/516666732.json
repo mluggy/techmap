@@ -6,13 +6,17 @@
   "logoFile": "logos/milgo.webp",
   "websiteUrl": "https://www.milgoapp.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinNum": 83557654,
   "linkedinId": "milgo-app",
+  "linkedinNum": 83557654,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "milgo",
   "xId": null,
   "facebookId": "milgoapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -22,5 +26,6 @@
       "lon": 34.78953046388423
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

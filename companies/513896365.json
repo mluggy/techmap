@@ -1,26 +1,31 @@
 {
   "name": "PickPack",
-  "description": "End-to-end Delivery Management Solution",
+  "description": "End-to-end Delivery Management Solution.",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/pick_pack-logo.webp",
   "websiteUrl": "https://pickpackage.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pickpack_delivery",
+  "linkedinNum": 22302710,
   "crunchbaseId": null,
+  "ivcId": "A1000000212766",
   "finderId": "pickpack",
   "xId": null,
+  "facebookId": "PickPack-%D7%A8%D7%A9%D7%AA-%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%99%D7%95%D7%AA-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA-%D7%A4%D7%99%D7%A7%D7%A4%D7%A7-1622303224684813",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ערבה",
-      "houseNumber": 1,
-      "city": "לוד",
-      "lat": 31.9427684,
-      "lon": 34.8919073
+      "street": "אופנהיימר",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.1185525,
+      "lon": 34.8004103
     }
   ],
   "isMultinational": false,
-  "facebookId": "PickPack-%D7%A8%D7%A9%D7%AA-%D7%A9%D7%9C%D7%99%D7%97%D7%95%D7%99%D7%95%D7%AA-%D7%97%D7%91%D7%A8%D7%AA%D7%99%D7%AA-%D7%A4%D7%99%D7%A7%D7%A4%D7%A7-1622303224684813",
-  "linkedinNum": 22302710
+  "isActive": true
 }

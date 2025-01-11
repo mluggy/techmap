@@ -1,26 +1,31 @@
 {
   "name": "Yaballe",
-  "description": "Automated Dropshipping Solutions",
+  "description": "Automated Dropshipping Solutions.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/yaballe-logo.webp",
   "websiteUrl": "https://yaballe.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "yaballe",
+  "linkedinNum": 18618958,
   "crunchbaseId": null,
+  "ivcId": "A1000000285694",
   "finderId": "yaballe",
   "xId": "_yaballe",
+  "facebookId": "yaballe.ds",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריק איינשטיין",
+      "street": "אלוף קלמן מגן",
       "houseNumber": 3,
-      "city": "הרצליה",
-      "lat": 32.1630763,
-      "lon": 34.8150141
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "facebookId": "yaballe.ds",
-  "linkedinNum": 18618958
+  "isActive": true
 }

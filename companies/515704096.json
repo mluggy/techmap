@@ -6,20 +6,26 @@
   "logoFile": "logos/specterx_n_d-logo.webp",
   "websiteUrl": "https://www.specterx.com/",
   "careersUrl": "https://www.specterx.com/careers/",
-  "isHiring": true,
   "linkedinId": "specterx",
+  "linkedinNum": 17951370,
   "crunchbaseId": "specterx",
+  "ivcId": "A1000000246341",
   "finderId": "specterx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בבלי",
-      "houseNumber": 18,
-      "city": "תל אביב - יפו",
-      "lat": 32.094692,
-      "lon": 34.798785
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17951370
+  "isActive": true
 }

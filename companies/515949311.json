@@ -1,26 +1,31 @@
 {
   "name": "BeamUP",
-  "description": "AI-Powered Facility Intelligence",
+  "description": "AI-Powered Facility Intelligence.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/beamup-logo.webp",
   "websiteUrl": "https://www.beamup.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "beamup",
+  "linkedinNum": 35580855,
   "crunchbaseId": null,
+  "ivcId": "A1000000280081",
   "finderId": "beamup",
   "xId": "beamupai",
+  "facebookId": "beamupai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.063834,
-      "lon": 34.780027
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "facebookId": "beamupai",
-  "linkedinNum": 35580855
+  "isActive": true
 }

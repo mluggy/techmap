@@ -6,21 +6,26 @@
   "logoFile": "logos/equashield_medical-logo.webp",
   "websiteUrl": "https://www.equashield.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "equashield",
+  "linkedinNum": 1585289,
   "crunchbaseId": null,
+  "ivcId": "A1000000021748",
   "finderId": "equashield",
   "xId": "equashield",
+  "facebookId": "equashieldmedical.hr",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קטלב",
-      "houseNumber": 1,
-      "city": "מגדל תפן",
-      "lat": 32.976683859411956,
-      "lon": 35.27801436184936
+      "street": "דולב",
+      "houseNumber": 2,
+      "city": "תפן",
+      "lat": 32.976718,
+      "lon": 35.275979
     }
   ],
   "isMultinational": false,
-  "facebookId": "equashieldmedical.hr",
-  "linkedinNum": 1585289
+  "isActive": true
 }

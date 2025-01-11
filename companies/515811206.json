@@ -3,23 +3,29 @@
   "description": "Providing scientifically-backed, personalized nutritional advice and allergen-conscious food guidance for your baby's unique health needs.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/my_or_diagnostics-logo.webp",
+  "logoFile": "logos/myor-diagnostics-logo.webp",
   "websiteUrl": "https://myorcare.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "myor",
+  "linkedinNum": 18595308,
   "crunchbaseId": null,
+  "ivcId": "A1000000260952",
   "finderId": "myor-diagnostics",
   "xId": null,
+  "facebookId": "MyOrDiagnostics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקת",
-      "houseNumber": 29,
-      "city": "זכרון יעקב",
-      "lat": 32.5627273,
-      "lon": 34.9413038986053
+      "street": "קלמן יעקב מן",
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.7651499,
+      "lon": 35.1496315
     }
   ],
   "isMultinational": false,
-  "facebookId": "MyOrDiagnostics"
+  "isActive": true
 }

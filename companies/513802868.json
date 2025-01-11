@@ -6,21 +6,26 @@
   "logoFile": "logos/mabat_platinum-logo.webp",
   "websiteUrl": "https://www.mabat-systems.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mabat-chemical-systems",
+  "linkedinNum": 593524,
   "crunchbaseId": null,
+  "ivcId": "A1000000002462",
   "finderId": "mabat",
   "xId": null,
+  "facebookId": "mabatsystem",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לישנסקי יוסף",
-      "houseNumber": 27,
-      "city": "ראשון לציון",
-      "lat": 31.9954114,
-      "lon": 34.7668962
+      "street": "לשם",
+      "houseNumber": 9,
+      "city": "קרית גת",
+      "lat": 31.5912028,
+      "lon": 34.7842145
     }
   ],
   "isMultinational": false,
-  "facebookId": "mabatsystem",
-  "linkedinNum": 593524
+  "isActive": true
 }

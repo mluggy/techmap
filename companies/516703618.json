@@ -6,20 +6,26 @@
   "logoFile": "logos/narrative_links-logo.webp",
   "websiteUrl": "https://www.narrativelinks.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "narrativelinks",
+  "linkedinNum": 83068677,
   "crunchbaseId": null,
+  "ivcId": "A1000000423828",
   "finderId": "narrative-links",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 146,
-      "city": "תל אביב - יפו",
-      "lat": 32.0778351,
-      "lon": 34.794439538025976
+      "street": "ריב\"ל",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.0626144,
+      "lon": 34.7816959
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 83068677
+  "isActive": true
 }

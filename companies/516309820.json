@@ -6,11 +6,17 @@
   "logoFile": "logos/combatica-logo.webp",
   "websiteUrl": "https://combatica.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "combatica",
+  "linkedinNum": 82632872,
   "crunchbaseId": null,
+  "ivcId": "A1000000392177",
   "finderId": "combatica",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הלפיד",
@@ -19,5 +25,7 @@
       "lat": 32.091814,
       "lon": 34.8542367
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -3,22 +3,29 @@
   "description": "We are able to supply a range of solar panels and advise on the best solution to meet your needs. CHARGE REGULATORS. Charge controllers charge the batteries and ...",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/spv_technologies-logo.webp",
+  "logoFile": "logos/spv-technologies-logo.webp",
   "websiteUrl": "https://spvtech.co.za/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "spv-technologyyy",
+  "linkedinNum": 11841169,
   "crunchbaseId": null,
+  "ivcId": "A1000000283496",
   "finderId": "spv-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שנקר אריה",
+      "street": "Shankar St",
       "houseNumber": 1,
-      "city": "הרצליה",
-      "lat": 32.1604703,
-      "lon": 34.809883
+      "city": "Herzliya",
+      "lat": 32.1602777,
+      "lon": 34.810068
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

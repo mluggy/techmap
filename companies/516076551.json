@@ -1,27 +1,31 @@
 {
   "name": "Justt",
-  "description": "Chargeback Management Solution for Merchants",
+  "description": "Chargeback Management Solution for Merchants.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/justt_fintech-logo.webp",
   "websiteUrl": "https://justt.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "justt-ai",
+  "linkedinNum": 28481748,
   "crunchbaseId": null,
+  "ivcId": "A1000000303248",
   "finderId": "justt",
   "xId": "justt_ai",
+  "facebookId": "we.are.justt",
+  "breezyId": null,
+  "comeetId": "justt/36.001",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
+      "street": "שלמה אבן גבירול",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.072306,
-      "lon": 34.782064
+      "city": "תל אביב-יפו",
+      "lat": 32.0724297,
+      "lon": 34.7819934
     }
   ],
   "isMultinational": false,
-  "facebookId": "we.are.justt",
-  "linkedinNum": 28481748,
-  "comeetId": "justt/36.001"
+  "isActive": true
 }

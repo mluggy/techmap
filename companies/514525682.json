@@ -6,11 +6,17 @@
   "logoFile": "logos/jobit-logo.webp",
   "websiteUrl": "https://jobit.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18466620,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "jobit",
   "xId": null,
+  "facebookId": "GetJobit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מצדה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "GetJobit",
-  "linkedinNum": 18466620
+  "isActive": true
 }

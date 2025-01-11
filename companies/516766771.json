@@ -1,0 +1,31 @@
+{
+  "name": "Opti",
+  "description": "Opti.io is a cloud resource optimization platform. It helps users run an efficient cloud infrastructure.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/opti-logo.webp",
+  "websiteUrl": "https://www.opti.io",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000469715",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מנחם בגין",
+      "houseNumber": 156,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930883,
+      "lon": 34.8322717
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

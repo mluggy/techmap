@@ -6,21 +6,26 @@
   "logoFile": "logos/flipkart_israel-logo.webp",
   "websiteUrl": "https://www.flipkart.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "upstream-commerce",
+  "linkedinNum": 2002979,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "flipkart",
   "xId": "flipkart",
+  "facebookId": "flipkart",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ארניה אסוולדו",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0693445,
       "lon": 34.7860947
     }
   ],
-  "isMultinational": true,
-  "facebookId": "flipkart",
-  "linkedinNum": 2002979
+  "isMultinational": false,
+  "isActive": true
 }

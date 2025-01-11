@@ -6,20 +6,26 @@
   "logoFile": "logos/insurmedix_israel-logo.webp",
   "websiteUrl": "https://www.insurmedix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "insurmedix-inc",
+  "linkedinNum": 75660498,
   "crunchbaseId": "insurmedix",
+  "ivcId": "A1000000366964",
   "finderId": "insurmedix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 11,
-      "city": "תל אביב - יפו",
-      "lat": 32.1075,
-      "lon": 34.836679
+      "city": "תל אביב-יפו",
+      "lat": 32.1074764,
+      "lon": 34.8366965
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75660498
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/titan_eco_wall-logo.webp",
   "websiteUrl": "https://translate.google.com/?hl=ru",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000229426",
   "finderId": "titan-eco-dry-wall",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 76,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0811748,
       "lon": 34.78157507398153
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

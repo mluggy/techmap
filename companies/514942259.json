@@ -1,26 +1,31 @@
 {
   "name": "Giftedd",
-  "description": "Corporate Gifting Platform",
+  "description": "Corporate Gifting Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/giftedd_solutions-logo.webp",
   "websiteUrl": "https://gifted.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "giftedteams",
+  "linkedinNum": 40649869,
   "crunchbaseId": null,
+  "ivcId": "A1000000021046",
   "finderId": "giftedd",
   "xId": "giftedd",
+  "facebookId": "GiftedSimplyAppreciate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ההרחבה",
-      "houseNumber": null,
-      "city": "חירות",
-      "lat": 32.237565172133294,
-      "lon": 34.9177368745804
+      "street": "אוסישקין",
+      "houseNumber": 5,
+      "city": "רמת השרון",
+      "lat": 32.1384018,
+      "lon": 34.8413326
     }
   ],
   "isMultinational": false,
-  "facebookId": "GiftedSimplyAppreciate",
-  "linkedinNum": 40649869
+  "isActive": true
 }

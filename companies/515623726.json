@@ -6,20 +6,26 @@
   "logoFile": "logos/barcode_nanotech-logo.webp",
   "websiteUrl": "https://www.barcode-nano.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "barcode-nanotech",
+  "linkedinNum": 18052363,
   "crunchbaseId": null,
+  "ivcId": "A1000000235315",
   "finderId": "barcode-nanotech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
+      "street": "ואדי אל חאג'",
       "houseNumber": 13,
       "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "lat": 32.6900962,
+      "lon": 35.3001352
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18052363
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/seeking_alpha-logo.webp",
   "websiteUrl": "https://seekingalpha.com/",
   "careersUrl": "https://jobs.seekingalpha.com/",
-  "isHiring": true,
   "linkedinId": "seeking-alpha",
+  "linkedinNum": 56547,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "seeking-alpha",
   "xId": "SeekingAlpha",
+  "facebookId": "Seekingalpha",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנשיאים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Seekingalpha",
-  "linkedinNum": 56547
+  "isActive": true
 }

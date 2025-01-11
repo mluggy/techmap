@@ -6,21 +6,26 @@
   "logoFile": "logos/bridgify_travel-logo.webp",
   "websiteUrl": "https://www.bridgify.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bridgifytravel",
+  "linkedinNum": 14802466,
   "crunchbaseId": null,
+  "ivcId": "A1000000282346",
   "finderId": "bridgify",
   "xId": "BridgifyTravel",
+  "facebookId": "Bridgify.Travel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אחד העם",
       "houseNumber": 9,
-      "city": "תל אביב - יפו",
-      "lat": 32.06378,
-      "lon": 34.769659
+      "city": "תל אביב-יפו",
+      "lat": 32.0640664,
+      "lon": 34.7696096
     }
   ],
   "isMultinational": false,
-  "facebookId": "Bridgify.Travel",
-  "linkedinNum": 14802466
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/sightful_computers-logo.webp",
   "websiteUrl": "https://www.sightful.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "heysightful",
+  "linkedinNum": 74498231,
   "crunchbaseId": null,
+  "ivcId": "A1000000332531",
   "finderId": "sightful",
   "xId": "sightful",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 112,
-      "city": "תל אביב - יפו",
-      "lat": 32.07207,
-      "lon": 34.794686
+      "city": "תל אביב-יפו",
+      "lat": 32.0720592,
+      "lon": 34.7946594
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74498231
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "A Jerusalem-based company established in 2008, specializing in high-brightness, high-power fiber lasers.",
   "categoryId": 3,
   "size": "m",
-  "logoFile": "logos/civan_advanced_technologies-logo.webp",
+  "logoFile": "logos/civan-lasers-logo.webp",
   "websiteUrl": "https://www.civanlasers.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "civan-lasers",
+  "linkedinNum": 4874848,
   "crunchbaseId": null,
+  "ivcId": "A1000000022924",
   "finderId": "civan-advanced-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כנפי נשרים",
@@ -20,5 +26,6 @@
       "lon": 35.1826417
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

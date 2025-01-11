@@ -6,11 +6,17 @@
   "logoFile": "logos/musician_pro-logo.webp",
   "websiteUrl": "https://www.musician-pro.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "musician-pro",
+  "linkedinNum": 28461017,
   "crunchbaseId": null,
+  "ivcId": "A1000000316010",
   "finderId": "musician-pro",
   "xId": null,
+  "facebookId": "MusProEd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בורוכוב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "MusProEd",
-  "linkedinNum": 28461017
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "Pioneering sustainable culinary solutions with cutting-edge cell-cultivated fish products.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/wanda_fish_technologies-logo.webp",
+  "logoFile": "logos/wanda-fish-logo.webp",
   "websiteUrl": "https://wandafish.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wandafish",
+  "linkedinNum": 78719945,
   "crunchbaseId": null,
+  "ivcId": "A1000000372427",
   "finderId": "wanda-fish",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -20,5 +26,6 @@
       "lon": 34.8038753
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

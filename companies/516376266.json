@@ -1,16 +1,22 @@
 {
   "name": "GRIVO",
-  "description": "Marketplace for Home Chargers",
+  "description": "Marketplace for Home Chargers.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/grivo-logo.webp",
   "websiteUrl": "https://www.grivo.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "grivo",
+  "linkedinNum": 79443368,
   "crunchbaseId": null,
+  "ivcId": "A1000000384476",
   "finderId": "grivo",
   "xId": null,
+  "facebookId": "Grevo.Israel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גינוסר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Grevo.Israel",
-  "linkedinNum": 79443368
+  "isActive": true
 }

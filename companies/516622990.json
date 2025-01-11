@@ -3,21 +3,29 @@
   "description": "Providing comprehensive security and regulatory compliance for enterprise-wide Generative AI applications.",
   "categoryId": 7,
   "size": "s",
-  "logoFile": "logos/aim_security-logo.webp",
+  "logoFile": "logos/aim-security-logo.webp",
   "websiteUrl": "https://www.aim.security/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aimsecurity",
+  "linkedinNum": 99304866,
   "crunchbaseId": null,
+  "ivcId": "A1000000456959",
   "finderId": "aim-security",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.066645,
-      "lon": 34.78582
+      "city": "תל אביב-יפו",
+      "lat": 32.0666652,
+      "lon": 34.7856444
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

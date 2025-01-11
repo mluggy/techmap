@@ -6,19 +6,26 @@
   "logoFile": "logos/taltoola-logo.webp",
   "websiteUrl": "https://taltoola.site123.me/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000304895",
   "finderId": "taltoola",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ישראליס",
       "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.0714199,
-      "lon": 34.7914241
+      "city": "תל אביב-יפו",
+      "lat": 32.0814427,
+      "lon": 34.7744988
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

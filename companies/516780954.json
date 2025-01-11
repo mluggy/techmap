@@ -3,21 +3,29 @@
   "description": "A studio specializing in creating mobile games.",
   "categoryId": 11,
   "size": "xs",
-  "logoFile": "logos/okami_games-logo.webp",
-  "websiteUrl": null,
+  "logoFile": "logos/okami-games-logo.webp",
+  "websiteUrl": "https://www.okamigames.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "okami-games",
+  "linkedinNum": 94845623,
   "crunchbaseId": null,
+  "ivcId": "A1000000438135",
   "finderId": "okami-games",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנשיאים",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.09175,
-      "lon": 34.795569
+      "city": "רעננה",
+      "lat": 32.1844996,
+      "lon": 34.8618901
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

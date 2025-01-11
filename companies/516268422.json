@@ -1,0 +1,31 @@
+{
+  "name": "Dreemz",
+  "description": "Dreemz is the first social network for achieving the users' dreams through mutual help.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/dreemz-logo.webp",
+  "websiteUrl": "https://www.dreemz.io",
+  "careersUrl": null,
+  "linkedinId": "dreemzio",
+  "linkedinNum": 79358921,
+  "crunchbaseId": null,
+  "ivcId": "A1000000419418",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

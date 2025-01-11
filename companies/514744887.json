@@ -6,21 +6,26 @@
   "logoFile": "logos/monday_com-logo.webp",
   "websiteUrl": "https://monday.com/",
   "careersUrl": "https://monday.com/careers",
-  "isHiring": true,
   "linkedinId": "mondaydotcom",
+  "linkedinNum": 2525169,
   "crunchbaseId": null,
+  "ivcId": "A1000000021789",
   "finderId": "dapulse",
   "xId": "mondaydotcom",
+  "facebookId": "mondaydotcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.06518925,
-      "lon": 34.78521533912037
+      "city": "תל אביב-יפו",
+      "lat": 32.0653973,
+      "lon": 34.7849433
     }
   ],
   "isMultinational": false,
-  "facebookId": "mondaydotcom",
-  "linkedinNum": 2525169
+  "isActive": true
 }

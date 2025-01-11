@@ -6,11 +6,17 @@
   "logoFile": "logos/mul_t_lock-logo.webp",
   "websiteUrl": "https://www.mul-t-lock.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mul-t-lock",
+  "linkedinNum": 69553,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mul-t-lock",
   "xId": "MulTLockCorp",
+  "facebookId": "mul.t.lock.corp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חירות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "mul.t.lock.corp",
-  "linkedinNum": 69553
+  "isActive": true
 }

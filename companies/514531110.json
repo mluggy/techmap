@@ -6,21 +6,26 @@
   "logoFile": "logos/crazy_labs-logo.webp",
   "websiteUrl": "https://www.crazylabs.com/",
   "careersUrl": "https://www.crazylabs.com/careers/",
-  "isHiring": true,
   "linkedinId": "crazylabs",
+  "linkedinNum": 1522212,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tabtale",
   "xId": "CrazyLabsGames",
+  "facebookId": "crazylabsgames",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "crazylabsgames",
-  "linkedinNum": 1522212
+  "isActive": true
 }

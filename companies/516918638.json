@@ -6,21 +6,26 @@
   "logoFile": "logos/yaizy.webp",
   "websiteUrl": "https://yaizy.io/us",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "yaizy",
   "linkedinNum": 72084151,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "yaizy",
   "xId": null,
   "facebookId": "YaizY.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קדושי השואה",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.126915197686905,
       "lon": 34.79257286444199
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

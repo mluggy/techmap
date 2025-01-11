@@ -6,19 +6,26 @@
   "logoFile": "logos/aneustart-logo.webp",
   "websiteUrl": "https://aneustart.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000283069",
   "finderId": "aneustart",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אליקום",
-      "houseNumber": 3,
-      "city": "ראשון לציון",
-      "lat": 31.9520525,
-      "lon": 34.8057744
+      "street": null,
+      "houseNumber": null,
+      "city": "רחובות",
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,23 +1,31 @@
 {
   "name": "Muze Art",
-  "description": "Currently closed for modern art exhibitions, the museum offers details on tenders, calls for proposals, job opportunities, and publications.",
-  "categoryId": 8,
+  "description": "Muze Art is a video content creation platform.",
+  "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/muze_art-logo.webp",
-  "websiteUrl": "https://www.tamuseum.org.il/",
+  "logoFile": "logos/muze-art-logo.webp",
+  "websiteUrl": "https://www.mymuze.art",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "muze-ai-art",
+  "linkedinNum": 88394194,
   "crunchbaseId": null,
+  "ivcId": "A1000000461144",
   "finderId": "muze-art",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השדות",
-      "houseNumber": 5,
-      "city": "כפר פינס",
-      "lat": 32.487519946273856,
-      "lon": 35.004128089214326
+      "street": "השדות",
+      "houseNumber": null,
+      "city": "מאור",
+      "lat": 32.4297854,
+      "lon": 35.0095789
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

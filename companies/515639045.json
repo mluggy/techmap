@@ -6,21 +6,26 @@
   "logoFile": "logos/coretigo-logo.webp",
   "websiteUrl": "https://www.coretigo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "coretigo",
+  "linkedinNum": 18096648,
   "crunchbaseId": null,
+  "ivcId": "A1000000236206",
   "finderId": "coretigo",
   "xId": "coretigo",
+  "facebookId": "Coretigo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גיבורי ישראל",
       "houseNumber": 5,
-      "city": "נתניה",
-      "lat": 32.280749,
-      "lon": 34.8607191
+      "city": "בני ברק",
+      "lat": 32.08159,
+      "lon": 34.8419371
     }
   ],
   "isMultinational": false,
-  "facebookId": "Coretigo",
-  "linkedinNum": 18096648
+  "isActive": true
 }

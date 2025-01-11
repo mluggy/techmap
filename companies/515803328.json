@@ -1,16 +1,22 @@
 {
   "name": "IONOTERRA",
-  "description": "Earthquake Prediction System",
-  "categoryId": 7,
+  "description": "IonoTerra is an R&D company consisting among others of main experts in Geophysics, Ionosphere, and Radar Systems for various natural and artificial phenomena prediction occurring in the near-the-Earth cosmic space.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/ionoterra-logo.webp",
-  "websiteUrl": "https://ionoterra.co.il/",
+  "websiteUrl": "http://ionoterra.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ionoterra",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000264228",
   "finderId": "ionoterra",
   "xId": "ionoterra",
+  "facebookId": "ionoterra.eq",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האוכמניות רמת אפעל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ionoterra.eq"
+  "isActive": true
 }

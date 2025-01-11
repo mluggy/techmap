@@ -6,13 +6,26 @@
   "logoFile": "logos/dexcel_ltd-logo.webp",
   "websiteUrl": "https://www.dexcel.com/",
   "careersUrl": "https://www.dexcel.com/careers",
-  "isHiring": true,
   "linkedinId": "dexcel-pharma",
+  "linkedinNum": 1034440,
   "crunchbaseId": null,
+  "ivcId": "A1000000005510",
   "finderId": "dexcel",
   "xId": "dexcelpharma",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Dexcel-Pharma-446736209025962",
-  "linkedinNum": 1034440
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דקסל",
+      "houseNumber": 1,
+      "city": "אור עקיבא",
+      "lat": 32.5039342,
+      "lon": 34.9275111
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/ludeo-logo.webp",
   "websiteUrl": "https://www.ludeo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ludeogg",
+  "linkedinNum": 42905253,
   "crunchbaseId": null,
+  "ivcId": "A1000000337940",
   "finderId": "edge-academy",
   "xId": "LudeoGG",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 144,
-      "city": "תל אביב - יפו",
-      "lat": 32.07734524999999,
-      "lon": 34.79332549438699
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322718
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42905253
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/ocucloud-logo.webp",
   "websiteUrl": "https://www.ocucloud.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ocucloud",
+  "linkedinNum": 17901454,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ocucloud",
   "xId": "ocucloud",
+  "facebookId": "ocucloud",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחלת יצחק",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073975,
       "lon": 34.79994
     }
   ],
   "isMultinational": false,
-  "facebookId": "ocucloud",
-  "linkedinNum": 17901454
+  "isActive": true
 }

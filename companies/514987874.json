@@ -1,25 +1,31 @@
 {
   "name": "buzzr",
-  "description": "Home Delivery Service",
+  "description": "Home Delivery Service.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/buzzr.webp",
   "websiteUrl": "https://www.buzzr.biz/en/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000185406",
   "finderId": "buzzr",
   "xId": null,
   "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.07459082519426,
-      "lon": 34.792195531858674
+      "street": "אימבר",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.098658,
+      "lon": 34.8621177
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

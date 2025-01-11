@@ -6,20 +6,26 @@
   "logoFile": "logos/blockaid-logo.webp",
   "websiteUrl": "https://www.blockaid.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "blockaid",
+  "linkedinNum": 94964794,
   "crunchbaseId": null,
+  "ivcId": "A1000000445407",
   "finderId": "blockaid",
   "xId": "blockaid_",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פריש דניאל",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07463945,
-      "lon": 34.78327163578098
+      "street": "ארלוזורוב",
+      "houseNumber": 111,
+      "city": "תל אביב-יפו",
+      "lat": 32.0844608,
+      "lon": 34.7867992
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 94964794
+  "isActive": true
 }

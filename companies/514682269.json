@@ -6,21 +6,26 @@
   "logoFile": "logos/walkme-logo.webp",
   "websiteUrl": "https://www.walkme.com/",
   "careersUrl": "https://www.walkme.com/careers/",
-  "isHiring": true,
   "linkedinId": "walkme",
+  "linkedinNum": 2508846,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "walkme",
   "xId": "WalkMeInc",
+  "facebookId": "WalkMe",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרמניצקי",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06728687772907,
       "lon": 34.793659762782625
     }
   ],
   "isMultinational": false,
-  "facebookId": "WalkMe",
-  "linkedinNum": 2508846
+  "isActive": true
 }

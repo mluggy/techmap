@@ -6,21 +6,26 @@
   "logoFile": "logos/carbon_blue-logo.webp",
   "websiteUrl": "https://carbonblue.cc/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "carbonblue-cc",
+  "linkedinNum": 90817084,
   "crunchbaseId": null,
+  "ivcId": "A1000000405833",
   "finderId": "carbonblue",
   "xId": "CarbonBlue_cc",
+  "facebookId": "100091003662932",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
       "houseNumber": 32,
       "city": "חיפה",
-      "lat": 32.8191508,
-      "lon": 35.0004706
+      "lat": 32.8198463,
+      "lon": 34.9996775
     }
   ],
   "isMultinational": false,
-  "facebookId": "100091003662932",
-  "linkedinNum": 90817084
+  "isActive": true
 }

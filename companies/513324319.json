@@ -1,16 +1,22 @@
 {
   "name": "Active Optical Systems",
-  "description": "Advanced light and radio frequency technology for cosmetic treatments.",
+  "description": "Active Optical Systems is a global developer, manufacturer and provider of Intense Light and RF-based technology for aesthetic and medical applications.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/active_optical_systems-logo.webp",
-  "websiteUrl": "https://www.active2001.com/",
+  "websiteUrl": "http://active-lasers.co.il",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "active-optical-systems-ltd",
+  "linkedinNum": 65731783,
   "crunchbaseId": null,
+  "ivcId": "A1000000008171",
   "finderId": "active-optical-systems3",
   "xId": "activeoptical",
+  "facebookId": "people",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוהם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "people",
-  "linkedinNum": 65731783
+  "isActive": true
 }

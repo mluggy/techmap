@@ -6,11 +6,17 @@
   "logoFile": "logos/kimba_ai-logo.webp",
   "websiteUrl": "https://www.kimba.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kimba-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אני מאמין",
@@ -19,5 +25,7 @@
       "lat": 32.1520351,
       "lon": 34.8360422
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

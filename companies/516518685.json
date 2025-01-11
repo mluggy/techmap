@@ -1,25 +1,31 @@
 {
   "name": "VFR",
-  "description": "Content Marketing Solution for Connected TV",
+  "description": "Content Marketing Solution for Connected TV.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/vfr_incubator-logo.webp",
   "websiteUrl": "https://vfr.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vfrai",
+  "linkedinNum": 75064035,
   "crunchbaseId": null,
+  "ivcId": "A1000000366791",
   "finderId": "vfr",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75064035
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/copprint_technologies-logo.webp",
   "websiteUrl": "https://www.copprint.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "copprint",
+  "linkedinNum": 10479898,
   "crunchbaseId": null,
+  "ivcId": "A1000000214619",
   "finderId": "copprint",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אנטיגנוס",
-      "houseNumber": 7,
+      "street": "הרטום",
+      "houseNumber": 19,
       "city": "ירושלים",
-      "lat": 31.757928653194774,
-      "lon": 35.20945859086013
+      "lat": 31.804201,
+      "lon": 35.210861
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10479898
+  "isActive": true
 }

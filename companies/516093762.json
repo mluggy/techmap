@@ -6,21 +6,26 @@
   "logoFile": "logos/canditech-logo.webp",
   "websiteUrl": "https://www.canditech.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "canditech",
+  "linkedinNum": 37414372,
   "crunchbaseId": null,
+  "ivcId": "A1000000319713",
   "finderId": "canditech",
   "xId": null,
+  "facebookId": "Canditech-110314893930729",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שלום עליכם",
       "houseNumber": 47,
-      "city": "תל אביב - יפו",
-      "lat": 32.07835,
-      "lon": 34.770432
+      "city": "תל אביב-יפו",
+      "lat": 32.0782913,
+      "lon": 34.7704409
     }
   ],
   "isMultinational": false,
-  "facebookId": "Canditech-110314893930729",
-  "linkedinNum": 37414372
+  "isActive": true
 }

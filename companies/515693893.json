@@ -1,0 +1,31 @@
+{
+  "name": "Peterbald",
+  "description": "Peterbald (formerly Cytrox) is a cyber security company, developing Cyber intelligence solutions for governments.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/peterbald-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000252606",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מוטה גור",
+      "houseNumber": 7,
+      "city": "פתח תקווה",
+      "lat": 32.0941755,
+      "lon": 34.8645721
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

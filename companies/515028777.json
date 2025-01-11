@@ -6,20 +6,26 @@
   "logoFile": "logos/sinusafe_medical-logo.webp",
   "websiteUrl": "https://www.sinusafe.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sinusafe-medical",
+  "linkedinNum": 18497998,
   "crunchbaseId": "sinusafe-medical",
+  "ivcId": "A1000000182040",
   "finderId": "sinusafe-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
       "houseNumber": 6,
       "city": "לוד",
-      "lat": 31.9702691,
-      "lon": 34.8981695
+      "lat": 31.969958,
+      "lon": 34.89745920000001
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18497998
+  "isActive": true
 }

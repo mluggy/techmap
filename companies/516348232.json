@@ -6,21 +6,26 @@
   "logoFile": "logos/tagado-logo.webp",
   "websiteUrl": "https://tagado.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tagado",
+  "linkedinNum": 43329384,
   "crunchbaseId": null,
+  "ivcId": "A1000000317453",
   "finderId": "tagado",
   "xId": "TagadoTeam",
+  "facebookId": "100068971369092",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השלום",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.072245,
-      "lon": 34.796049
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "100068971369092",
-  "linkedinNum": 43329384
+  "isActive": true
 }

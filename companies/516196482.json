@@ -6,20 +6,26 @@
   "logoFile": "logos/benicann_global-logo.webp",
   "websiteUrl": "https://benicann-global.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "benicann-global",
+  "linkedinNum": 91051247,
   "crunchbaseId": null,
+  "ivcId": "A1000000427439",
   "finderId": "benicann-global",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אשכול ניסנית",
+      "street": "שדרות לוי אשכול",
       "houseNumber": 4,
-      "city": "מבוא חורון",
-      "lat": 31.85152289621177,
-      "lon": 35.03763600102423
+      "city": "חולון",
+      "lat": 32.0315026,
+      "lon": 34.7746719
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 91051247
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Cigloo",
+  "description": "Cigloo Secure Browsing controls and isolates any corporate user’s browsing so that any Malware coming through a website, external link or file download is isolated from the internal network, preventing a data breach.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/cigloo-logo.webp",
+  "websiteUrl": "http://cigloo.io",
+  "careersUrl": null,
+  "linkedinId": "smartx-secure-browsing",
+  "linkedinNum": 10453483,
+  "crunchbaseId": null,
+  "ivcId": "A1000000226864",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אבא הילל סילבר",
+      "houseNumber": 18,
+      "city": "לוד",
+      "lat": 31.963729,
+      "lon": 34.8994197
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

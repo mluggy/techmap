@@ -6,21 +6,26 @@
   "logoFile": "logos/mtr_building-logo.webp",
   "websiteUrl": "https://mtr-wireless.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mtr-wireless-communications-ltd",
+  "linkedinNum": 847586,
   "crunchbaseId": null,
+  "ivcId": "A1000000001580",
   "finderId": "mtr",
   "xId": null,
+  "facebookId": "MtrWirelessCommunication",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": 1,
-      "city": "מילואות",
-      "lat": 33.06661725,
-      "lon": 35.10815554004212
+      "street": "היצירה",
+      "houseNumber": 5,
+      "city": "ירושלים",
+      "lat": 31.859161,
+      "lon": 35.2166213
     }
   ],
   "isMultinational": false,
-  "facebookId": "MtrWirelessCommunication",
-  "linkedinNum": 847586
+  "isActive": true
 }

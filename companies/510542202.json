@@ -6,11 +6,17 @@
   "logoFile": "logos/silbermann_technologies_ltd-logo.webp",
   "websiteUrl": "https://www.silbermnn.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "silbermann",
+  "linkedinNum": 11533019,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "silbermann",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11533019
+  "isActive": true
 }

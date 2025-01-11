@@ -1,0 +1,31 @@
+{
+  "name": "Somplo",
+  "description": "Somplo, is a Martech & Createch startup company.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/somplo-logo.webp",
+  "websiteUrl": "https://somplo.com",
+  "careersUrl": "https://somplo.com/careers/",
+  "linkedinId": "somplo",
+  "linkedinNum": 18744793,
+  "crunchbaseId": null,
+  "ivcId": "A1000000292715",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שחם",
+      "houseNumber": 30,
+      "city": "פתח תקווה",
+      "lat": 32.0873756,
+      "lon": 34.8586924
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

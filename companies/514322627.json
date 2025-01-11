@@ -1,25 +1,31 @@
 {
   "name": "Cloudi",
-  "description": "Cloud Data Backup",
+  "description": "Cloud Data Backup.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/cloudi.webp",
   "websiteUrl": "https://cloudi.cloud",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "cloudi-computing",
   "linkedinNum": 28401094,
   "crunchbaseId": null,
+  "ivcId": "A1000000303663",
   "finderId": "cloudi",
   "xId": null,
   "facebookId": "cloudi.computing",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הפנינה",
-      "houseNumber": 7,
-      "city": "רעננה",
-      "lat": 32.17439221859725,
-      "lon": 34.888498728992126
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

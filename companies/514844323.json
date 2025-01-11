@@ -1,24 +1,31 @@
 {
   "name": "ProSight",
-  "description": "Leveraging six decades of industry experience, this UK firm designs innovative, mobile inspection machines to ensure glass containers are defect-free for bottle manufacturers.",
-  "categoryId": 15,
+  "description": "ProSight is a transformative bio-convergent technology for minimizing flaws in prostate cancer (PCa) biopsy which limit diagnosis, risk stratification and treatment.",
+  "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/prosight-logo.webp",
-  "websiteUrl": "https://glass.pro-sight-vision.com/",
+  "websiteUrl": "https://www.prosight.site",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000009195",
   "finderId": "prosight",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התאנה",
-      "houseNumber": 1,
-      "city": "מזכרת בתיה",
-      "lat": 31.8552654,
-      "lon": 34.8376842
+      "street": "הנביאים",
+      "houseNumber": 65,
+      "city": "בת ים",
+      "lat": 32.008499,
+      "lon": 34.7429584
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/novacy-logo.webp",
   "websiteUrl": "https://www.novacy.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "novacy",
+  "linkedinNum": 81363087,
   "crunchbaseId": null,
+  "ivcId": "A1000000396598",
   "finderId": "novacy",
   "xId": "Novacy_NVLP",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך העמק",
       "houseNumber": 8,
-      "city": "גני תקווה",
-      "lat": 32.0665116,
-      "lon": 34.8742979
+      "city": "מגדל העמק",
+      "lat": 32.6759536,
+      "lon": 35.2400843
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81363087
+  "isActive": true
 }

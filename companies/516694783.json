@@ -6,21 +6,26 @@
   "logoFile": "logos/atlas-invest-1.webp",
   "websiteUrl": "https://www.atlas-invest.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "atlas-invest-ai",
   "linkedinNum": 87230133,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "atlas-invest-1",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06273095997203,
       "lon": 34.768992467614
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

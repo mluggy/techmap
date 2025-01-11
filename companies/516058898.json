@@ -1,26 +1,31 @@
 {
   "name": "Tuvis",
-  "description": "A platform that mitigates security and compliance risks in business communications.",
-  "categoryId": 7,
+  "description": "Tuvis enables companies to reduce the security and compliance risks associated with exchanging business messages on unofficial channels such as WhatsApp and iMessage.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tuvis_solutions-logo.webp",
-  "websiteUrl": "https://tuvis.com/",
+  "websiteUrl": "https://www.whatslly.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tuviscom",
+  "linkedinNum": 14845183,
   "crunchbaseId": "whatslly",
+  "ivcId": "A1000000292833",
   "finderId": "tuvis",
   "xId": null,
+  "facebookId": "tuviscom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
-      "lat": 32.0702921,
-      "lon": 34.7853047
+      "city": "תל אביב-יפו",
+      "lat": 32.0702069,
+      "lon": 34.7852656
     }
   ],
   "isMultinational": false,
-  "facebookId": "tuviscom",
-  "linkedinNum": 14845183
+  "isActive": true
 }

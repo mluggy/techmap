@@ -6,11 +6,17 @@
   "logoFile": "logos/diuk_arches_internationl_b_h-logo.webp",
   "websiteUrl": "https://diuk-arches.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "diuk-group",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבשלום",
@@ -19,5 +25,7 @@
       "lat": 31.195273,
       "lon": 34.331509
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

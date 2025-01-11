@@ -1,23 +1,31 @@
 {
   "name": "Bluebricks",
-  "description": "A company dedicated to fostering clear and effective communication through speech and drama classes since 2006.",
+  "description": "Bluebricks’ atomic Infrastructure technology automatically fragments infrastructure management into small, reusable blueprints.",
   "categoryId": 14,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/bluebricks-logo.webp",
-  "websiteUrl": "https://www.blubricks.com/",
+  "websiteUrl": "https://www.bluebricks.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bluebricksco",
+  "linkedinNum": 102369134,
   "crunchbaseId": null,
+  "ivcId": "A1000000474006",
   "finderId": "bluebricks",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המחלבה",
-      "houseNumber": 1,
-      "city": "כפר ורבורג",
-      "lat": 31.7154537,
-      "lon": 34.7252639
+      "street": "מנחם בגין",
+      "houseNumber": 152,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930893,
+      "lon": 34.8322702
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

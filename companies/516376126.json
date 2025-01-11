@@ -6,11 +6,17 @@
   "logoFile": "logos/genie_pharm-logo.webp",
   "websiteUrl": "https://www.lifesgenie.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "genie1",
   "xId": null,
+  "facebookId": "lifesgenie",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "צאלון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "lifesgenie"
+  "isActive": true
 }

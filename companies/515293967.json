@@ -6,21 +6,26 @@
   "logoFile": "logos/superfy_technologies-logo.webp",
   "websiteUrl": "https://asksuperfy.com/",
   "careersUrl": "https://www.superfy.com/careers/",
-  "isHiring": true,
   "linkedinId": "superfy",
+  "linkedinNum": 28625099,
   "crunchbaseId": null,
+  "ivcId": "A1000000208416",
   "finderId": "chatyo",
   "xId": "Superfyapp",
+  "facebookId": "superfyapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלוני ניסים",
+      "street": "ניסים אלוני",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.08956,
-      "lon": 34.79661
+      "city": "תל אביב-יפו",
+      "lat": 32.0892329,
+      "lon": 34.796539
     }
   ],
   "isMultinational": false,
-  "facebookId": "superfyapp",
-  "linkedinNum": 28625099
+  "isActive": true
 }

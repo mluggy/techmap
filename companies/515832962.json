@@ -1,16 +1,22 @@
 {
   "name": "OKO",
-  "description": "Crop Insurance Platform",
+  "description": "Crop Insurance Platform.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/oko_finance-logo.webp",
   "websiteUrl": "https://www.oko.finance/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "oko-solutions",
+  "linkedinNum": 18293606,
   "crunchbaseId": null,
+  "ivcId": "A1000000246347",
   "finderId": "oko",
   "xId": "OKO_insurance",
+  "facebookId": "OKOInsurance",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "OKOInsurance",
-  "linkedinNum": 18293606
+  "isActive": true
 }

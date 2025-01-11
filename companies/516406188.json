@@ -6,12 +6,17 @@
   "logoFile": "logos/kinonix.webp",
   "websiteUrl": "https://www.kinonix.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 74502180,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kinonix",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רותם",
@@ -21,5 +26,6 @@
       "lon": 35.13418342917699
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

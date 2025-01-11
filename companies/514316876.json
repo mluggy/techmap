@@ -6,21 +6,26 @@
   "logoFile": "logos/liniad_media-logo.webp",
   "websiteUrl": "https://www.liniad.com/",
   "careersUrl": "https://www.liniad.com/careers/",
-  "isHiring": true,
   "linkedinId": "liniad-media",
+  "linkedinNum": 2302674,
   "crunchbaseId": null,
+  "ivcId": "A1000000182522",
   "finderId": "liniad-media",
   "xId": "LiniadMedia",
+  "facebookId": "LiniadMedia",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התות",
-      "houseNumber": 35,
-      "city": "אבן יהודה",
-      "lat": 32.268994,
-      "lon": 34.8771835
+      "street": "משכית",
+      "houseNumber": 27,
+      "city": "הרצליה",
+      "lat": 32.1632571,
+      "lon": 34.8107107
     }
   ],
   "isMultinational": false,
-  "facebookId": "LiniadMedia",
-  "linkedinNum": 2302674
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/projaix-logo.webp",
   "websiteUrl": "https://projaix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "projaix",
+  "linkedinNum": 72044247,
   "crunchbaseId": null,
+  "ivcId": "A1000000320429",
   "finderId": "projaix1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
-      "lat": 32.109636,
-      "lon": 34.837396
+      "city": "תל אביב-יפו",
+      "lat": 32.1096992,
+      "lon": 34.8373336
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/econcrete_tech-logo.webp",
   "websiteUrl": "https://econcretetech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "econcrete",
+  "linkedinNum": 4983873,
   "crunchbaseId": null,
+  "ivcId": "A1000000022796",
   "finderId": "econcrete",
   "xId": "econcretel",
+  "facebookId": "ECOncreteTech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טברסקי",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065748,
-      "lon": 34.789165
+      "city": "תל אביב-יפו",
+      "lat": 32.0657602,
+      "lon": 34.7892405
     }
   ],
   "isMultinational": false,
-  "facebookId": "ECOncreteTech",
-  "linkedinNum": 4983873
+  "isActive": true
 }

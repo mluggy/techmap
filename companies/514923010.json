@@ -6,11 +6,17 @@
   "logoFile": "logos/testfairy-logo.webp",
   "websiteUrl": "https://www.testfairy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3145512,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "testfairy",
   "xId": "testfairy",
+  "facebookId": "TestFairy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TestFairy",
-  "linkedinNum": 3145512
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "BigBand TV",
+  "description": "BigBand TV provides wireless broadband channel embedded video transmission for real-time news and remote management and focuses on broadcast and television stations over the Internet.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/bigband_tv-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009671",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יוני נתניהו",
+      "houseNumber": 38,
+      "city": "גבעת שמואל",
+      "lat": 32.0783614,
+      "lon": 34.8551094
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

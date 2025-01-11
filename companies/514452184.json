@@ -6,21 +6,26 @@
   "logoFile": "logos/wisestamp.webp",
   "websiteUrl": "https://www.wisestamp.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "wisestamp",
   "linkedinNum": 330539,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "wisestamp",
   "xId": "wisestamp",
   "facebookId": "WiseStamp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": null,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.108052763524356,
       "lon": 34.83801829093328
     }
   ],
   "isMultinational": false,
-  "linkedinId": "wisestamp"
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/full_dna-logo.webp",
   "websiteUrl": "https://www.fulldna.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fulldna",
+  "linkedinNum": 40676776,
   "crunchbaseId": "fulldna-ltd",
+  "ivcId": "A1000000323601",
   "finderId": "fulldna-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
-      "houseNumber": 1,
-      "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "street": "דרך קיבוץ גלויות",
+      "houseNumber": 34,
+      "city": "תל אביב-יפו",
+      "lat": 32.0514822,
+      "lon": 34.768942
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 40676776
+  "isActive": true
 }

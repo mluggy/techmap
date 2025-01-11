@@ -1,24 +1,31 @@
 {
   "name": "AMYGDALA",
-  "description": "Failure Prediction Technology for the Railway Industry",
+  "description": "Failure Prediction Technology for the Railway Industry.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/amygdala-logo.webp",
   "websiteUrl": "https://www.amygdalatech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "amygdalatech",
+  "linkedinNum": 132875,
   "crunchbaseId": null,
+  "ivcId": "A1000000331114",
   "finderId": "amygdala",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אשכול לוי",
+      "street": "שדרות לוי אשכול",
       "houseNumber": 63,
-      "city": "תל אביב - יפו",
-      "lat": 32.115616,
-      "lon": 34.789598
+      "city": "תל אביב-יפו",
+      "lat": 32.1155679,
+      "lon": 34.7897638
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

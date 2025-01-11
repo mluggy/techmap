@@ -1,16 +1,22 @@
 {
   "name": "NI",
   "description": "NI (National Instruments) is a solutions provider specializing in automated test and measurement systems to accelerate product development and innovation across industries.",
-  "size": "xl",
   "categoryId": 16,
+  "size": "xl",
   "logoFile": "logos/ni_shi_lagoon-logo.webp",
   "websiteUrl": "https://www.ni.com/",
   "careersUrl": "https://www.ni.com/en/about-ni/careers.html",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 3433,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ni",
   "xId": "NIglobal",
+  "facebookId": "NationalInstruments",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הזמיר",
@@ -20,7 +26,6 @@
       "lon": 34.8274602
     }
   ],
-  "isMultinational": true,
-  "facebookId": "NationalInstruments",
-  "linkedinNum": 3433
+  "isMultinational": false,
+  "isActive": true
 }

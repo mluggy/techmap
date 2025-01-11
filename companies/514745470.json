@@ -1,26 +1,31 @@
 {
   "name": "ULTRA RED",
-  "description": "Threat Exposure Management",
+  "description": "Threat Exposure Management.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/ultra-red.webp",
   "websiteUrl": "https://www.ultrared.ai/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "ultra-red-ltd",
   "linkedinNum": 82424834,
   "crunchbaseId": null,
+  "ivcId": "A1000000024000",
   "finderId": "ultra-red",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.070594123618584,
-      "lon": 34.78708238253482
+      "city": "תל אביב-יפו",
+      "lat": 32.0704496,
+      "lon": 34.7870971
     }
   ],
   "isMultinational": false,
-  "linkedinId": "ultra-red-ltd"
+  "isActive": true
 }

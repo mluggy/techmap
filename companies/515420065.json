@@ -6,11 +6,17 @@
   "logoFile": "logos/memoboost-logo.webp",
   "websiteUrl": "https://carmel-ltd.haifa.ac.il/index.php/technologies/96-natural-sciences/neurobiology/185-edi-barkai-tech",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "memoboost",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד אבא חושי",
@@ -20,5 +26,6 @@
       "lon": 35.0163942
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

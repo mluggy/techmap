@@ -1,16 +1,22 @@
 {
   "name": "Qualifire",
-  "description": "A top provider of firestopping solutions, driven by a commitment to safeguarding people and property with passion across all levels.",
-  "categoryId": 7,
+  "description": "Qualifire focuses on enhancing the quality and consistency of AI-generated content, operating within the artificial intelligence industry.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/qualifire-logo.webp",
-  "websiteUrl": "https://quelfire.co.uk/",
+  "websiteUrl": "https://qualifire.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "qualifire-ai",
+  "linkedinNum": 99942704,
   "crunchbaseId": null,
+  "ivcId": "A1000000452620",
   "finderId": "qualifire",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התפוז",
@@ -19,5 +25,7 @@
       "lat": 31.6731505,
       "lon": 34.5587255
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

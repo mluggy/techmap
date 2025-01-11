@@ -1,25 +1,31 @@
 {
   "name": "Algoretail",
-  "description": "Automate order creation, manage inventory and merchandise tasks from any device in real-time, optimizing based on sales data and delivery patterns.",
-  "categoryId": 9,
+  "description": "Algoretail is a developer of inventory management software, designed to serve the grocery retailer.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/algoretail-logo.webp",
-  "websiteUrl": "https://www.algoretail.io/",
+  "websiteUrl": "https://www.algoretail.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "algoretail",
+  "linkedinNum": 18979396,
   "crunchbaseId": "algoretail",
+  "ivcId": "A1000000286105",
   "finderId": "algoretail",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חבקוק הנביא",
-      "houseNumber": 51,
-      "city": "בית שמש",
-      "lat": 31.707165,
-      "lon": 34.9839852
+      "street": "בן יהודה",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0848953,
+      "lon": 34.7724451
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18979396
+  "isActive": true
 }

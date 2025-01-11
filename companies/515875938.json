@@ -6,11 +6,17 @@
   "logoFile": "logos/jones_entrepreneurship-logo.webp",
   "websiteUrl": "https://getjones.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11148063,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "jones",
   "xId": "usejones",
+  "facebookId": "JonesSoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מעלה השחרור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "JonesSoftware",
-  "linkedinNum": 11148063
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Aller-G",
+  "description": "Aller-G's application was intended to make the lives of people, suffering from food allergies, easier.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/aller_g-logo.webp",
+  "websiteUrl": "https://www.aller-g.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000400748",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אירוס",
+      "houseNumber": 279,
+      "city": "גן נר",
+      "lat": 32.529732,
+      "lon": 35.33486
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

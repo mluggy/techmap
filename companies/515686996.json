@@ -1,25 +1,31 @@
 {
   "name": "Mycelium",
-  "description": "Route Management and Optimization",
+  "description": "Route Management and Optimization.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/mycelium-logo.webp",
   "websiteUrl": "https://mycelium.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "myceliumltd",
+  "linkedinNum": 33198414,
   "crunchbaseId": null,
+  "ivcId": "A1000000243526",
   "finderId": "mycelium",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שבט מנשה",
-      "houseNumber": 36,
-      "city": "הרצליה",
-      "lat": 32.1755153,
-      "lon": 34.8090082
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 33198414
+  "isActive": true
 }

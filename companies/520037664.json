@@ -6,20 +6,26 @@
   "logoFile": "logos/leader_holdings_investments_ltd-logo.webp",
   "websiteUrl": "https://leader.net",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "leader",
   "xId": "LEADer__CRM",
+  "facebookId": "leader.app.page",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0705297,
       "lon": 34.7872761
     }
   ],
   "isMultinational": false,
-  "facebookId": "leader.app.page"
+  "isActive": true
 }

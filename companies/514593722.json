@@ -6,21 +6,26 @@
   "logoFile": "logos/eco_wave_power-logo.webp",
   "websiteUrl": "https://www.ecowavepower.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eco-wave-power",
+  "linkedinNum": 5399685,
   "crunchbaseId": null,
+  "ivcId": "A1000000009714",
   "finderId": "eco-wave-power",
   "xId": "EcoWavePower",
+  "facebookId": "ecowavepowerltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 52,
-      "city": "תל אביב - יפו",
-      "lat": 32.0634798,
-      "lon": 34.7802841
+      "city": "תל אביב-יפו",
+      "lat": 32.063811,
+      "lon": 34.78154490000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "ecowavepowerltd",
-  "linkedinNum": 5399685
+  "isActive": true
 }

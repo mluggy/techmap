@@ -6,22 +6,26 @@
   "logoFile": "logos/trigo_vision-logo.webp",
   "websiteUrl": "https://www.trigoretail.com/",
   "careersUrl": "https://www.trigoretail.com/careers/",
-  "isHiring": true,
   "linkedinId": "trigoretail",
+  "linkedinNum": 33188124,
   "crunchbaseId": null,
+  "ivcId": "A1000000250785",
   "finderId": "trigo-vision",
   "xId": "tech_trigo",
+  "facebookId": "trigovision",
+  "breezyId": null,
+  "comeetId": "trigo/A6.005",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זיסמן שלום",
-      "houseNumber": 14,
-      "city": "רמת גן",
-      "lat": 32.084329,
-      "lon": 34.7996389
+      "street": "מנחם בגין",
+      "houseNumber": 150,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930882,
+      "lon": 34.8322717
     }
   ],
   "isMultinational": false,
-  "facebookId": "trigovision",
-  "linkedinNum": 33188124,
-  "comeetId": "trigo/A6.005"
+  "isActive": true
 }

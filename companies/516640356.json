@@ -1,0 +1,31 @@
+{
+  "name": "SOLDI",
+  "description": "In stealth mode.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/soldi-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000438535",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יוסף מילוא",
+      "houseNumber": 19,
+      "city": "תל אביב-יפו",
+      "lat": 32.1222972,
+      "lon": 34.8130907
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

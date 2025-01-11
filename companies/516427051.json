@@ -1,26 +1,31 @@
 {
   "name": "Anyverse",
-  "description": "Therapy Gaming Solutions",
-  "categoryId": 8,
-  "size": "xs",
+  "description": "AnyVerse is a virtual reality (VR) game studio that builds VR games in the mental health and education fields.",
+  "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/anyverse-logo.webp",
-  "websiteUrl": "https://www.braver-app.com",
+  "websiteUrl": "https://anyverse.studio",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "anyverse-studio",
+  "linkedinNum": 79388655,
   "crunchbaseId": null,
+  "ivcId": "A1000000386036",
   "finderId": "anyverse",
   "xId": null,
+  "facebookId": "braVer-109439508467911",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגאל אלון",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "facebookId": "braVer-109439508467911",
-  "linkedinNum": 79388655
+  "isActive": true
 }

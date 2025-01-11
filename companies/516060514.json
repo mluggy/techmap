@@ -1,26 +1,31 @@
 {
   "name": "imoovo",
-  "description": "AI-based Cargo Space Optimization Platform",
+  "description": "AI-based Cargo Space Optimization Platform.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/imoovo_technologies-logo.webp",
   "websiteUrl": "https://www.imoovo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "imoovo",
+  "linkedinNum": 30160815,
   "crunchbaseId": "imoovo-technologies-ltd",
+  "ivcId": "A1000000302991",
   "finderId": "imoovo",
   "xId": null,
+  "facebookId": "ImoovoZambia",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הבנים",
-      "houseNumber": 2,
-      "city": "באר יעקב",
-      "lat": 31.9300404,
-      "lon": 34.8270624
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "ImoovoZambia",
-  "linkedinNum": 30160815
+  "isActive": true
 }

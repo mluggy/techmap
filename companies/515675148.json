@@ -6,19 +6,26 @@
   "logoFile": "logos/wheelness_lifestyle-logo.webp",
   "websiteUrl": "https://rwl.fitness/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000292132",
   "finderId": "wheelness-lifestyle-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נחלת יצחק",
+      "street": "נחלת בנימין",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.074947,
-      "lon": 34.796666
+      "city": "תל אביב-יפו",
+      "lat": 32.0688409,
+      "lon": 34.7699039
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

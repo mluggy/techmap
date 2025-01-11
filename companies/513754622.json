@@ -6,12 +6,17 @@
   "logoFile": "logos/g-med.webp",
   "websiteUrl": "https://www.g-med.info/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 5194081,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "g-med",
   "xId": "GMedPhysicians",
   "facebookId": "GMedPhysicians",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -21,5 +26,6 @@
       "lon": 34.882881318768376
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

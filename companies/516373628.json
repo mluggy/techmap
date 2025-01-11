@@ -1,0 +1,31 @@
+{
+  "name": "Forwrd",
+  "description": "Forwrd.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/forwrd-logo.webp",
+  "websiteUrl": "https://www.forwrd.ai",
+  "careersUrl": "https://www.linkedin.com/company/forwrdai/jobs/",
+  "linkedinId": "forwrdai",
+  "linkedinNum": 74519590,
+  "crunchbaseId": null,
+  "ivcId": "A1000000370968",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 88,
+      "city": "תל אביב-יפו",
+      "lat": 32.069375,
+      "lon": 34.7835128
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

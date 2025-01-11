@@ -1,0 +1,31 @@
+{
+  "name": "WindStore",
+  "description": "WindStore introduces a way of storing energy within the wind mast, using compressed air energy storage (CAES) at low cost.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/windstore-logo.webp",
+  "websiteUrl": "https://windstore-energy.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000453094",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הסיגלית",
+      "houseNumber": 16,
+      "city": "תל מונד",
+      "lat": 32.2488637,
+      "lon": 34.9137556
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -3,14 +3,20 @@
   "description": "This company creates space-saving, foldable cardboard play structures that are sturdy and easily stored for small apartment living.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/popin_toys-logo.webp",
+  "logoFile": "logos/popin-toys-logo.webp",
   "websiteUrl": "https://www.popintoys.com/?lightbox=dataItem-jgwqairo",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "popin-toys",
+  "linkedinNum": 4850027,
   "crunchbaseId": null,
+  "ivcId": "A1000000279300",
   "finderId": "popin-playgrounds",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
@@ -19,5 +25,7 @@
       "lat": 32.7799987,
       "lon": 34.9805891
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

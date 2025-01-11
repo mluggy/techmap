@@ -1,26 +1,31 @@
 {
   "name": "Affective Markets",
-  "description": "Data-driven Emotional Analysis",
+  "description": "Data-driven Emotional Analysis.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/tastepals-logo.webp",
   "websiteUrl": "https://www.affectivemarkets.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "affective-markets",
+  "linkedinNum": 10458191,
   "crunchbaseId": "affective-markets",
+  "ivcId": "A1000000191030",
   "finderId": "tastepals",
   "xId": null,
+  "facebookId": "AffectiveMarkets",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עירית",
-      "houseNumber": 108,
-      "city": "רמת ישי",
-      "lat": 32.7049059,
-      "lon": 35.1564706
+      "street": "דרך הים",
+      "houseNumber": 13,
+      "city": "גני תקווה",
+      "lat": 32.0643537,
+      "lon": 34.8688416
     }
   ],
   "isMultinational": false,
-  "facebookId": "AffectiveMarkets",
-  "linkedinNum": 10458191
+  "isActive": true
 }

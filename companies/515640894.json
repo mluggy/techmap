@@ -6,21 +6,26 @@
   "logoFile": "logos/d_s_raider-logo.webp",
   "websiteUrl": "https://www.ezraider.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ezraider",
+  "linkedinNum": 68548314,
   "crunchbaseId": null,
+  "ivcId": "A1000000255584",
   "finderId": "dsraider",
   "xId": null,
+  "facebookId": "EZRaiderofficial",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
+      "street": "עתיר ידע",
       "houseNumber": 15,
       "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "lat": 32.1620848,
+      "lon": 34.9341066
     }
   ],
   "isMultinational": false,
-  "facebookId": "EZRaiderofficial",
-  "linkedinNum": 68548314
+  "isActive": true
 }

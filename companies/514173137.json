@@ -6,20 +6,26 @@
   "logoFile": "logos/rapid_medical-logo.webp",
   "websiteUrl": "https://www.rapid-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rapid-medical",
+  "linkedinNum": 2515464,
   "crunchbaseId": null,
+  "ivcId": "A1000000009943",
   "finderId": "rapid-medical",
   "xId": "Rapid__Medical",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
       "houseNumber": null,
-      "city": "יקנעם עילית",
-      "lat": 32.6578027,
-      "lon": 35.1002987
+      "city": "יוקנעם עילית",
+      "lat": 32.657867,
+      "lon": 35.099493
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2515464
+  "isActive": true
 }

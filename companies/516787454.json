@@ -1,0 +1,31 @@
+{
+  "name": "Naboo.ai",
+  "description": "Naboo.ai is a stealth mode company.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/naboo_ai-logo.webp",
+  "websiteUrl": "https://naboo.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000470249",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השלושה",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0616854,
+      "lon": 34.7884578
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

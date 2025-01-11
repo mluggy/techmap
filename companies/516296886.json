@@ -1,16 +1,22 @@
 {
   "name": "Safe School",
-  "description": "Creating a Safe Digital Environment for Schools and Municipalities",
+  "description": "Creating a Safe Digital Environment for Schools and Municipalities.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/safe_school_analytics-logo.webp",
   "websiteUrl": "https://www.safeschool.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "safe-school-analytics",
+  "linkedinNum": 74062600,
   "crunchbaseId": null,
+  "ivcId": "A1000000353341",
   "finderId": "safe-school",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בורוכוב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74062600
+  "isActive": true
 }

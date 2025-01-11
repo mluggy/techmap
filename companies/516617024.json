@@ -6,11 +6,17 @@
   "logoFile": "logos/value_forces-logo.webp",
   "websiteUrl": "https://valueforces.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000460794",
   "finderId": "value-forces",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האג",
@@ -19,5 +25,7 @@
       "lat": 32.7661885,
       "lon": 35.0039666
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

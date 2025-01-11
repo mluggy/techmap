@@ -1,0 +1,31 @@
+{
+  "name": "Present",
+  "description": "Present is a FinTech technology startup that develops digital platforms in the financial sector.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/present-logo.webp",
+  "websiteUrl": "https://www.robinhoodpro.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491885",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הארד",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.1116396,
+      "lon": 34.8409545
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

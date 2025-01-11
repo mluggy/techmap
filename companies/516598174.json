@@ -6,20 +6,26 @@
   "logoFile": "logos/fairgen-logo.webp",
   "websiteUrl": "https://www.fairgen.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fairgen",
+  "linkedinNum": 76988402,
   "crunchbaseId": null,
+  "ivcId": "A1000000387269",
   "finderId": "fairgen",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.075175,
-      "lon": 34.78205
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76988402
+  "isActive": true
 }

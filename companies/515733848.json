@@ -6,21 +6,26 @@
   "logoFile": "logos/ix_den-logo.webp",
   "websiteUrl": "https://ixden.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ixden",
+  "linkedinNum": 28655702,
   "crunchbaseId": null,
+  "ivcId": "A1000000246516",
   "finderId": "ix-den",
   "xId": null,
+  "facebookId": "100057061435683",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין מנחם",
+      "street": "מנחם בגין",
       "houseNumber": 11,
-      "city": "רמת גן",
-      "lat": 32.0862661,
-      "lon": 34.800174909775976
+      "city": "בני ברק",
+      "lat": 32.0928544,
+      "lon": 34.8278071
     }
   ],
   "isMultinational": false,
-  "facebookId": "100057061435683",
-  "linkedinNum": 28655702
+  "isActive": true
 }

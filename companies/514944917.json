@@ -6,11 +6,17 @@
   "logoFile": "logos/coinbase_il_rd-logo.webp",
   "websiteUrl": "https://www.coinbase.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "coinbase",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "Coinbase",
+  "leverId": null,
   "addresses": [
     {
       "street": "הפסגות",
@@ -20,5 +26,6 @@
       "lon": 34.8551804
     }
   ],
-  "greenhouseId": "Coinbase"
+  "isMultinational": false,
+  "isActive": true
 }

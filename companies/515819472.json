@@ -1,16 +1,22 @@
 {
   "name": "Nevette",
-  "description": "AI-powered Optimization and Automation Technology for Machines and Systems",
+  "description": "AI-powered Optimization and Automation Technology for Machines and Systems.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/nevette_technologies-logo.webp",
   "websiteUrl": "https://nevette.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000421760",
   "finderId": "nevette",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "0",
@@ -20,5 +26,6 @@
       "lon": 35.3954738
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

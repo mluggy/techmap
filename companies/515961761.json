@@ -6,22 +6,26 @@
   "logoFile": "logos/orca_security-logo.webp",
   "websiteUrl": "https://orca.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "orca-security",
+  "linkedinNum": 35573984,
   "crunchbaseId": null,
+  "ivcId": "A1000000283944",
   "finderId": "orca-security",
   "xId": "OrcaSec",
+  "facebookId": "lifeatorca",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "orcasecurity",
+  "leverId": null,
   "addresses": [
     {
       "street": "תושיה",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.0669119,
-      "lon": 34.7881969
+      "city": "תל אביב-יפו",
+      "lat": 32.0668839,
+      "lon": 34.7880843
     }
   ],
   "isMultinational": false,
-  "facebookId": "lifeatorca",
-  "linkedinNum": 35573984,
-  "greenhouseId": "orcasecurity"
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/follicle_pharma-logo.webp",
   "websiteUrl": "https://folliclepharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000344223",
   "finderId": "follicle-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האלון",
-      "houseNumber": 33,
-      "city": "כרמי יוסף",
-      "lat": 31.8415432,
-      "lon": 34.9203677
+      "street": "יצחק מודעי",
+      "houseNumber": 2,
+      "city": "רחובות",
+      "lat": 31.899798,
+      "lon": 34.788637
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

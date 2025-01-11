@@ -1,17 +1,31 @@
 {
   "name": "VisageX Medical",
-  "description": "Customizable implants for enhancing facial aesthetics and reconstructive procedures.",
+  "description": "VisageX is developing facial implants for the aesthetics and reconstructive surgery market.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/visagex_medical-logo.webp",
-  "websiteUrl": "https://visageimaging.com/",
+  "websiteUrl": "http://www.visagex.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "visagex-medical-ltd",
+  "linkedinNum": 88063104,
   "crunchbaseId": null,
+  "ivcId": "A1000000403499",
   "finderId": "visagex-medical",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "מישגב",
+      "lat": 32.8603372,
+      "lon": 35.2570768
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 88063104
+  "isActive": true
 }

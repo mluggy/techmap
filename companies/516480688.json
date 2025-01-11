@@ -1,25 +1,31 @@
 {
   "name": "Bounce Pay",
-  "description": "Stealth Mode",
-  "categoryId": 10,
-  "size": "xs",
+  "description": "Bounce seamlessly identify and approve the deals can be saved and turned into a new revenue stream with no marketing budget and no need for optimizing or monitoring.",
+  "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/bounce_pay-logo.webp",
-  "websiteUrl": "https://www.bouncepay.io",
+  "websiteUrl": "https://www.bounceup.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bounce-pay?trk=similar-pages",
+  "linkedinNum": 97859120,
   "crunchbaseId": null,
+  "ivcId": "A1000000428998",
   "finderId": "bounce-pay",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סוקולוב",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.086696,
-      "lon": 34.77701
+      "city": "רמת השרון",
+      "lat": 32.1388809,
+      "lon": 34.8354848
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 97859120
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/immunity_pharma-logo.webp",
   "websiteUrl": "https://immunitypharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "immunity-pharma-ipl",
+  "ivcId": "A1000000009571",
   "finderId": "immunity-pharma",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מירון",
       "houseNumber": 28,
-      "city": "מבשרת ציון",
-      "lat": 31.8092613,
-      "lon": 35.1535617
+      "city": "ירושלים",
+      "lat": 31.7883008,
+      "lon": 35.2128281
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/harmonya_technologies-logo.webp",
   "websiteUrl": "https://www.harmonya.com/",
   "careersUrl": "https://www.harmonya.com/careers",
-  "isHiring": true,
   "linkedinId": "harmonya-inc",
+  "linkedinNum": 79612245,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "harmonya",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073172,
       "lon": 34.797489
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79612245
+  "isActive": true
 }

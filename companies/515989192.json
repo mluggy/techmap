@@ -6,21 +6,26 @@
   "logoFile": "logos/reagenics_research-logo.webp",
   "websiteUrl": "https://www.reagenics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "reagenics",
+  "linkedinNum": 78365404,
   "crunchbaseId": null,
+  "ivcId": "A1000000281954",
   "finderId": "reagenics-research",
   "xId": null,
+  "facebookId": "reagenics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גדעון",
-      "houseNumber": 8,
-      "city": "ירושלים",
-      "lat": 31.7599322,
-      "lon": 35.2207875
+      "street": "פנחס ספיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.91451859999999,
+      "lon": 34.8032823
     }
   ],
   "isMultinational": false,
-  "facebookId": "reagenics",
-  "linkedinNum": 78365404
+  "isActive": true
 }

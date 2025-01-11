@@ -1,0 +1,31 @@
+{
+  "name": "Docere",
+  "description": "Docere is a data enrichment company that leverages data to drive decisions, improves outcomes and enables optimal patient and HCP experiences.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/docere-logo.webp",
+  "websiteUrl": "https://docere.co.il",
+  "careersUrl": null,
+  "linkedinId": "docere-il",
+  "linkedinNum": 74520763,
+  "crunchbaseId": null,
+  "ivcId": "A1000000424251",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גרשון שרשבסקי",
+      "houseNumber": 15,
+      "city": "מזכרת בתיה",
+      "lat": 31.84814979999999,
+      "lon": 34.8408367
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

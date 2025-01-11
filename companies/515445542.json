@@ -1,24 +1,31 @@
 {
   "name": "Nugen",
-  "description": "Leading audio professionals rely on award-winning tools for loudness metering, surround sound, mixing, mastering, and analysis.",
-  "categoryId": 8,
+  "description": "Nugen offers a clean, safe and reliable off-grid EV charging system, supporting the rapid evolution of electric mobility.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/nugen-logo.webp",
-  "websiteUrl": "https://nugenaudio.com/",
+  "websiteUrl": "https://www.nugeneco.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nugencleanenergy",
+  "linkedinNum": 102968455,
   "crunchbaseId": null,
+  "ivcId": "A1000000463342",
   "finderId": "nugen",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סנונית",
-      "houseNumber": 3,
-      "city": "אבן יהודה",
-      "lat": 32.2645265,
-      "lon": 34.8900512
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/ever_after_foods-logo.webp",
   "websiteUrl": "https://everafterfoods.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ever-after-foods",
+  "linkedinNum": 90989762,
   "crunchbaseId": "ever-after-foods",
+  "ivcId": "A1000000373310",
   "finderId": "ever-after-foods",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פארק מת\"ם",
+      "street": "אנדרי סחרוב",
       "houseNumber": 5,
       "city": "חיפה",
-      "lat": 32.78806038995184,
-      "lon": 34.95953636879005
+      "lat": 32.7914662,
+      "lon": 34.9584303
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90989762
+  "isActive": true
 }

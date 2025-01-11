@@ -6,21 +6,26 @@
   "logoFile": "logos/juno_journey-logo.webp",
   "websiteUrl": "https://junojourney.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 12640955,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "juno-journey",
   "xId": null,
+  "facebookId": "JunoJourney1",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנורת המאור",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074448,
       "lon": 34.796408
     }
   ],
   "isMultinational": false,
-  "facebookId": "JunoJourney1",
-  "linkedinNum": 12640955
+  "isActive": true
 }

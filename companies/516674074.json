@@ -6,11 +6,17 @@
   "logoFile": "logos/wisio_israel-logo.webp",
   "websiteUrl": "https://www.wisio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "officialwisio",
+  "linkedinNum": 10684568,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ScaleAbout",
   "xId": "wisio_official",
+  "facebookId": "Wisio.official",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ראשון לציון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Wisio.official",
-  "linkedinNum": 10684568
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Eco Crystal",
-  "description": "Bio-mimicking Technology for an Alternative to Titanium Dioxide",
+  "description": "Bio-mimicking Technology for an Alternative to Titanium Dioxide.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/eco-crystal.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000452974",
   "finderId": "eco-crystal",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "וולפסוון",
+      "street": "דוד וולפסון",
       "houseNumber": 21,
-      "city": "רחובות",
-      "lat": 31.962734583831885,
-      "lon": 34.79662236598917
+      "city": "ראשון לציון",
+      "lat": 31.9623495,
+      "lon": 34.797639
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

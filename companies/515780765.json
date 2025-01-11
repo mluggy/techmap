@@ -6,11 +6,17 @@
   "logoFile": "logos/ge_power-logo.webp",
   "websiteUrl": "https://www.ge.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1015,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ge",
   "xId": "generalelectric",
+  "facebookId": "people",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רח 1",
@@ -20,7 +26,6 @@
       "lon": 35.03550774658284
     }
   ],
-  "isMultinational": true,
-  "facebookId": "people",
-  "linkedinNum": 1015
+  "isMultinational": false,
+  "isActive": true
 }

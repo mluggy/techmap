@@ -6,11 +6,17 @@
   "logoFile": "logos/vinst-logo.webp",
   "websiteUrl": "https://www.vinst.me/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vinst-me",
+  "linkedinNum": 86419058,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vinst",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבין יצחק",
@@ -19,5 +25,7 @@
       "lat": 32.0647098,
       "lon": 34.8649952
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

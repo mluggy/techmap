@@ -6,21 +6,26 @@
   "logoFile": "logos/hub_cyber_security-logo.webp",
   "websiteUrl": "https://hubsecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hubsecurityio",
+  "linkedinNum": 18444151,
   "crunchbaseId": null,
+  "ivcId": "A1000000257623",
   "finderId": "hub-cyber-security",
   "xId": "hubsecurityio",
+  "facebookId": "hubsecuresolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המסגר",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.062937,
-      "lon": 34.785459
+      "street": "אליעזר קפלן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0733456,
+      "lon": 34.78202479999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "hubsecuresolutions",
-  "linkedinNum": 18444151
+  "isActive": true
 }

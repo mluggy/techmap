@@ -6,20 +6,26 @@
   "logoFile": "logos/asterra-logo.webp",
   "websiteUrl": "https://asterra.io/",
   "careersUrl": "https://asterra.io/about/careers/",
-  "isHiring": true,
   "linkedinId": "asterra-tech",
+  "linkedinNum": 5016629,
   "crunchbaseId": null,
+  "ivcId": "A1000000203727",
   "finderId": "asterra",
   "xId": "asterratech",
+  "facebookId": "asterratech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
+      "street": "עתיר ידע",
       "houseNumber": 1,
       "city": "כפר סבא",
-      "lat": 32.1620348,
-      "lon": 34.9337429
+      "lat": 32.1674227,
+      "lon": 34.9285291
     }
   ],
   "isMultinational": false,
-  "facebookId": "asterratech"
+  "isActive": true
 }

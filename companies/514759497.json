@@ -6,11 +6,17 @@
   "logoFile": "logos/nielsen_innovate-logo.webp",
   "websiteUrl": "https://www.nielsen.com/",
   "careersUrl": "https://www.nielsen.com/careers/careers/",
-  "isHiring": true,
   "linkedinId": "nielsen",
+  "linkedinNum": 1714,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nielsen",
   "xId": "nielsen",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלמיש",
@@ -20,7 +26,6 @@
       "lon": 34.9481254
     }
   ],
-  "isMultinational": true,
-  "facebookId": "pages",
-  "linkedinNum": 1714
+  "isMultinational": false,
+  "isActive": true
 }

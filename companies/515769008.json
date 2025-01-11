@@ -1,25 +1,31 @@
 {
   "name": "Skillset Media",
-  "description": "Online Educational Platform for Sports Tutorials",
+  "description": "Online Educational Platform for Sports Tutorials.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/skillset_media-logo.webp",
   "websiteUrl": "https://skillset.tv/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "skillset-media",
+  "linkedinNum": 12994395,
   "crunchbaseId": null,
+  "ivcId": "A1000000430006",
   "finderId": "skillset-media",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רפידים",
-      "houseNumber": 55,
-      "city": "ראשון לציון",
-      "lat": 31.9805486,
-      "lon": 34.7623081
+      "street": "שדרות נורדאו",
+      "houseNumber": 74,
+      "city": "תל אביב-יפו",
+      "lat": 32.0918629,
+      "lon": 34.7802225
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 12994395
+  "isActive": true
 }

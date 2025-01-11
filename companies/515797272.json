@@ -6,20 +6,26 @@
   "logoFile": "logos/stads_technologies-logo.webp",
   "websiteUrl": "https://stads.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "stadstechnologies",
+  "linkedinNum": 33246822,
   "crunchbaseId": null,
+  "ivcId": "A1000000265536",
   "finderId": "stads-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן גוריון דוד",
-      "houseNumber": 1,
-      "city": "בני ברק",
-      "lat": 32.0955779,
-      "lon": 34.8219534
+      "street": "בן גוריון",
+      "houseNumber": null,
+      "city": "פתח תקווה",
+      "lat": 32.0769127,
+      "lon": 34.8702701
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 33246822
+  "isActive": true
 }

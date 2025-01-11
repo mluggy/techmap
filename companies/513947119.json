@@ -1,23 +1,31 @@
 {
-    "name": "iCount",
-    "description": "Accounting, billing, time management and more for small-medium businesses.",
-    "categoryId": 10,
-    "size": "s",
-    "logoFile": "logos/icount_logo.webp",
-    "websiteUrl": "https://www.icount.co.il/",
-    "careersUrl": "https://www.icount.co.il/careers/",
-    "isHiring": true,
-    "linkedinId": "icount---",
-    "crunchbaseId": "icount-systems",
-    "finderId": null,
-    "xId": null,
-    "addresses": [
-      {
-        "street": "תוצרת הארץ",
-        "houseNumber": 3,
-        "city": "פתח תקווה",
-        "lat": 32.090640,
-        "lon": 34.861154
-      }
-    ]
-  }
+  "name": "iCount",
+  "description": "Accounting, billing, time management and more for small-medium businesses.",
+  "categoryId": 10,
+  "size": "s",
+  "logoFile": "logos/icount-logo.webp",
+  "websiteUrl": "https://www.icount.co.il/",
+  "careersUrl": "https://www.icount.co.il/careers/",
+  "linkedinId": "icount---",
+  "linkedinNum": 3352203,
+  "crunchbaseId": "icount-systems",
+  "ivcId": "A1000000001815",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הסיבים",
+      "houseNumber": 49,
+      "city": "פתח תקווה",
+      "lat": 32.0838907,
+      "lon": 34.8564122
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

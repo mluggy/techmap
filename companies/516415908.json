@@ -6,21 +6,26 @@
   "logoFile": "logos/bpaus-logo.webp",
   "websiteUrl": "https://www.bpaus.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bpaus",
+  "linkedinNum": 13024033,
   "crunchbaseId": null,
+  "ivcId": "A1000000236027",
   "finderId": "bpaus",
   "xId": null,
+  "facebookId": "Bpauscompany",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרב מדר זכריה",
-      "houseNumber": 13,
+      "street": null,
+      "houseNumber": null,
       "city": "רחובות",
-      "lat": 31.8862641,
-      "lon": 34.8199527
+      "lat": 31.8943652,
+      "lon": 34.8115292
     }
   ],
   "isMultinational": false,
-  "facebookId": "Bpauscompany",
-  "linkedinNum": 13024033
+  "isActive": true
 }

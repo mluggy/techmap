@@ -6,21 +6,26 @@
   "logoFile": "logos/ni_na_labs-logo.webp",
   "websiteUrl": "https://www.drinknina.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nina-iot",
+  "linkedinNum": 18965771,
   "crunchbaseId": "nina",
+  "ivcId": "A1000000285339",
   "finderId": "ni-na-labs",
   "xId": "drinknina",
+  "facebookId": "drinknina",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העבודה",
       "houseNumber": 8,
-      "city": "בנימינה",
-      "lat": 32.5206592,
-      "lon": 34.9560446
+      "city": "תל אביב-יפו",
+      "lat": 32.0706527,
+      "lon": 34.7726142
     }
   ],
   "isMultinational": false,
-  "facebookId": "drinknina",
-  "linkedinNum": 18965771
+  "isActive": true
 }

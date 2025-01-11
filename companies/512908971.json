@@ -6,21 +6,26 @@
   "logoFile": "logos/officecore_com-logo.webp",
   "websiteUrl": "https://officetrack.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "officecore",
+  "linkedinNum": 2408547,
   "crunchbaseId": null,
+  "ivcId": "A1000000004915",
   "finderId": "officecore",
   "xId": "OfficeCore_IL",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברגמן צבי",
-      "houseNumber": 20,
-      "city": "פתח תקווה",
-      "lat": 32.10837775,
-      "lon": 34.89076721830157
+      "street": "העבודה",
+      "houseNumber": 11,
+      "city": "ראש העין",
+      "lat": 32.1067878,
+      "lon": 34.9405444
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 2408547
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Cloudonix",
-  "description": "Seamlessly integrate voice applications with over 200 SaaS platforms for an efficient and automated developer experience.",
+  "description": "Cloudonix offers top-notch, high-quality voice, text, and video communication services that enable businesses to boost customer retention, ensure privacy, reduce costs and increase revenues.",
   "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/cloudonix-logo.webp",
-  "websiteUrl": "https://www.cloudonix.com/",
+  "websiteUrl": "https://cloudonix.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cloudonix-io",
+  "linkedinNum": 18393863,
   "crunchbaseId": null,
+  "ivcId": "A1000000258944",
   "finderId": "cloudonix",
   "xId": "Cloudonix",
+  "facebookId": "Cloudonix-300443430355186",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טופז",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Cloudonix-300443430355186"
+  "isActive": true
 }

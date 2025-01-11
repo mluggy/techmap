@@ -6,22 +6,26 @@
   "logoFile": "logos/hi_bob-logo.webp",
   "websiteUrl": "https://www.hibob.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hibob",
+  "linkedinNum": 7586104,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hibob",
   "xId": "Hibob_hr",
+  "facebookId": "hibobHR",
+  "breezyId": null,
+  "comeetId": "hibob/12.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן אביגדור",
       "houseNumber": 28,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06682,
       "lon": 34.790849
     }
   ],
   "isMultinational": false,
-  "facebookId": "hibobHR",
-  "linkedinNum": 7586104,
-  "comeetId": "hibob/12.00A"
+  "isActive": true
 }

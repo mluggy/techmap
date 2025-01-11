@@ -6,21 +6,26 @@
   "logoFile": "logos/mayple_marketplace-logo.webp",
   "websiteUrl": "https://www.mayple.com/",
   "careersUrl": "https://www.mayple.com/career",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "mayple",
+  "linkedinNum": 18124335,
   "crunchbaseId": null,
+  "ivcId": "A1000000237948",
   "finderId": "perfpie",
   "xId": "mayple_com",
+  "facebookId": "Mayplers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאל שרון",
       "houseNumber": 4,
       "city": "גבעתיים",
-      "lat": 32.08005635,
-      "lon": 34.799938614641945
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
   "isMultinational": false,
-  "facebookId": "Mayplers",
-  "linkedinNum": 18124335
+  "isActive": true
 }

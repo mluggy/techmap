@@ -6,21 +6,26 @@
   "logoFile": "logos/solutum_technologies-logo.webp",
   "websiteUrl": "https://www.solutum.co/",
   "careersUrl": "https://www.solutum.co/careers",
-  "isHiring": true,
   "linkedinId": "solutum-ltd",
+  "linkedinNum": 19138464,
   "crunchbaseId": "solutum",
+  "ivcId": "A1000000256411",
   "finderId": "solutum",
   "xId": null,
+  "facebookId": "Solutum-347872259404591",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.056097,
-      "lon": 34.783691
+      "city": "תל אביב-יפו",
+      "lat": 32.056144,
+      "lon": 34.7837383
     }
   ],
   "isMultinational": false,
-  "facebookId": "Solutum-347872259404591",
-  "linkedinNum": 19138464
+  "isActive": true
 }

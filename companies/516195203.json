@@ -6,21 +6,26 @@
   "logoFile": "logos/frontitude-logo.webp",
   "websiteUrl": "https://www.frontitude.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "frontitude",
+  "linkedinNum": 37800854,
   "crunchbaseId": null,
+  "ivcId": "A1000000322086",
   "finderId": "frontitude",
   "xId": "frontitude",
+  "facebookId": "frontitude",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יוחנן הורקנוס",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
-      "lat": 32.094204,
-      "lon": 34.782661
+      "city": "תל אביב-יפו",
+      "lat": 32.0941782,
+      "lon": 34.7827122
     }
   ],
   "isMultinational": false,
-  "facebookId": "frontitude",
-  "linkedinNum": 37800854
+  "isActive": true
 }

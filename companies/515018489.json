@@ -1,16 +1,22 @@
 {
   "name": "2breathe Technologies",
-  "description": "Smart Device and Mobile App to Induce Sleep",
+  "description": "2breathe is developing digital therapeutic devices, first in hypertension and now in sleeplessness.",
   "categoryId": 12,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/2_breathe_technologies-logo.webp",
-  "websiteUrl": "https://www.resperate.com",
+  "websiteUrl": "http://2breathe.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "breathetech",
+  "linkedinNum": 132572,
   "crunchbaseId": "breathe-technologies",
+  "ivcId": "A1000000197447",
   "finderId": "2breathe-technologies",
   "xId": "resperate",
+  "facebookId": "resperate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התדהר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "resperate",
-  "linkedinNum": 132572
+  "isActive": true
 }

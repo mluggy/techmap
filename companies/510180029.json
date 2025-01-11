@@ -6,21 +6,26 @@
   "logoFile": "logos/motorola_solutions_israel-logo.webp",
   "websiteUrl": "https://www.motorolasolutions.com/",
   "careersUrl": "https://www.motorolasolutions.com/en_us/about/careers.html",
-  "isHiring": true,
   "linkedinId": "motorolasolutions",
+  "linkedinNum": 1771432,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "motorola-solutions",
   "xId": "MotoSolutions",
+  "facebookId": "MotorolaSolutionsIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך השלום",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0716565,
       "lon": 34.7974224
     }
   ],
-  "isMultinational": true,
-  "facebookId": "MotorolaSolutionsIsrael",
-  "linkedinNum": 1771432
+  "isMultinational": false,
+  "isActive": true
 }

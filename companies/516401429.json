@@ -6,22 +6,26 @@
   "logoFile": "logos/exodigo-logo.webp",
   "websiteUrl": "https://www.exodigo.com/",
   "careersUrl": "https://www.exodigo.com/careers",
-  "isHiring": true,
   "linkedinId": "exodigo",
+  "linkedinNum": 76509232,
   "crunchbaseId": null,
+  "ivcId": "A1000000366117",
   "finderId": "exodigo",
   "xId": "exodigoai",
+  "facebookId": "exodigo",
+  "breezyId": null,
+  "comeetId": "exodigo/89.005",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.0658477,
-      "lon": 34.7859941
+      "city": "תל אביב-יפו",
+      "lat": 32.0657506,
+      "lon": 34.7860288
     }
   ],
   "isMultinational": false,
-  "facebookId": "exodigo",
-  "linkedinNum": 76509232,
-  "comeetId": "exodigo/89.005"
+  "isActive": true
 }

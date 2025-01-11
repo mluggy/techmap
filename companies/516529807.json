@@ -6,11 +6,17 @@
   "logoFile": "logos/maygia-logo.webp",
   "websiteUrl": "https://www.maygia.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "maygia",
+  "linkedinNum": 82139313,
   "crunchbaseId": null,
+  "ivcId": "A1000000318364",
   "finderId": "paragonh2",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קדושי בגדד",
@@ -20,5 +26,6 @@
       "lon": 34.9992356
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

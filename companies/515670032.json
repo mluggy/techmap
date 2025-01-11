@@ -6,12 +6,17 @@
   "logoFile": "logos/safesac-medical.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "safesac",
   "linkedinNum": 18016599,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "safesac-medical",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רות",
@@ -21,5 +26,6 @@
       "lon": 34.97872400265998
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

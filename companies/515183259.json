@@ -1,25 +1,31 @@
 {
   "name": "ChroniSense Medical",
-  "description": "Chronic Disease Management",
+  "description": "Chronic Disease Management.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/chronisense_medical-logo.webp",
   "websiteUrl": "https://polsowatch.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "polso-health",
+  "linkedinNum": 37426567,
   "crunchbaseId": "chronisense-medical",
+  "ivcId": "A1000000194632",
   "finderId": "chronisense-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
       "houseNumber": 2,
-      "city": "יקנעם עילית",
-      "lat": 32.658470449999996,
-      "lon": 35.098399294495735
+      "city": "יוקנעם עילית",
+      "lat": 32.6583515,
+      "lon": 35.0975079
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37426567
+  "isActive": true
 }

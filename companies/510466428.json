@@ -6,13 +6,26 @@
   "logoFile": "logos/teldor_wires_and_cables_ltd-logo.webp",
   "websiteUrl": "https://www.teldor.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "teldor",
+  "linkedinNum": 77568,
   "crunchbaseId": null,
+  "ivcId": "A1000000007670",
   "finderId": "teldor-wires-and-cables",
   "xId": "teldorcables",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "TeldorCables",
-  "linkedinNum": 77568
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ עין דור",
+      "lat": 32.65831553661823,
+      "lon": 35.4173732180471
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

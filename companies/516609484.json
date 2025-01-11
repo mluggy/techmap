@@ -6,11 +6,17 @@
   "logoFile": "logos/coppter_water_technologies-logo.webp",
   "websiteUrl": "https://www.coppter.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000414502",
   "finderId": "coppter-water-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קיימות",
@@ -20,5 +26,6 @@
       "lon": 34.771082893033835
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

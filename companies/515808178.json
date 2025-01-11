@@ -1,16 +1,22 @@
 {
   "name": "Litwise",
-  "description": "Educational and Technological Solutions for Writers",
+  "description": "Educational and Technological Solutions for Writers.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/litwise-logo.webp",
   "websiteUrl": "https://litwise.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "litwise",
+  "linkedinNum": 10153922,
   "crunchbaseId": null,
+  "ivcId": "A1000000261526",
   "finderId": "litwise",
   "xId": "litwisehq",
+  "facebookId": "litwise",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנטקה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "litwise",
-  "linkedinNum": 10153922
+  "isActive": true
 }

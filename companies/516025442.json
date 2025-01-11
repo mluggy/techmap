@@ -1,0 +1,31 @@
+{
+  "name": "Daystage",
+  "description": "Daystage is an online platform which provides users with the ability to compete for instant massive exposure for their own original videos.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/daystage-logo.webp",
+  "websiteUrl": "http://www.daystage.com",
+  "careersUrl": null,
+  "linkedinId": "daystage",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000209051",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רוטשילד",
+      "houseNumber": 46,
+      "city": "בת ים",
+      "lat": 32.0270819,
+      "lon": 34.7503835
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

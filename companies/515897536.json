@@ -6,11 +6,17 @@
   "logoFile": "logos/zero_egg-logo.webp",
   "websiteUrl": "https://zeroegg.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zero-egg-ltd",
+  "linkedinNum": 19032248,
   "crunchbaseId": null,
+  "ivcId": "A1000000263751",
   "finderId": "zeroegg",
   "xId": "eatzeroegg",
+  "facebookId": "eatzeroegg",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "eatzeroegg",
-  "linkedinNum": 19032248
+  "isActive": true
 }

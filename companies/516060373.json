@@ -1,16 +1,22 @@
 {
   "name": "Continental",
   "description": "Offering a wide range of high-quality tires for various vehicles and seasons.",
-  "size": "m",
   "categoryId": 5,
+  "size": "m",
   "logoFile": "logos/continental_brands-logo.webp",
   "websiteUrl": "https://www.continental.com/en/",
   "careersUrl": "https://jobs.continental.com/en/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 3534,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "continental",
   "xId": "contiuk",
+  "facebookId": "Continental",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפרג",
@@ -20,7 +26,6 @@
       "lon": 34.79598627724168
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Continental",
-  "linkedinNum": 3534
+  "isMultinational": false,
+  "isActive": true
 }

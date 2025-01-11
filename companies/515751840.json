@@ -6,11 +6,17 @@
   "logoFile": "logos/whaleapp-logo.webp",
   "websiteUrl": "https://www.whaleapp.com/",
   "careersUrl": "https://www.whaleapp.com/careers-creative",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "whaleapp-ltd",
+  "linkedinNum": 18587811,
   "crunchbaseId": null,
+  "ivcId": "A1000000342356",
   "finderId": "whaleapp",
   "xId": "whaleappltd",
+  "facebookId": "WHALEAPPLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנאות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "WHALEAPPLTD",
-  "linkedinNum": 18587811
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Neo Sky",
+  "description": "Neo IT is a provider of web-based video surveillance solutions, also known as MVaaS (Managed Video as a Service), that intelligently stores and manages video content originating from IP and analog cameras over IP networks.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/neo_sky-logo.webp",
+  "websiteUrl": "http://www.neovision.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009037",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "י.ל. פרץ",
+      "houseNumber": 1,
+      "city": "תל אביב-יפו",
+      "lat": 32.0601664,
+      "lon": 34.7739364
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

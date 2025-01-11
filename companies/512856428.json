@@ -1,0 +1,31 @@
+{
+  "name": "Bazelet",
+  "description": "Bazelet is a medical cannabis company processing the cannabis grown by four out of eight legal farms in Israel; serving monthly 9,000 patients.",
+  "categoryId": 17,
+  "size": "s",
+  "logoFile": "logos/bazelet-logo.webp",
+  "websiteUrl": "http://www.bazelet-n.com",
+  "careersUrl": null,
+  "linkedinId": "bazelet-group",
+  "linkedinNum": 27227991,
+  "crunchbaseId": null,
+  "ivcId": "A1000000245657",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלון התבור",
+      "houseNumber": 11,
+      "city": "קיסריה",
+      "lat": 32.4770233,
+      "lon": 34.9462548
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

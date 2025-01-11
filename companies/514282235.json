@@ -6,11 +6,17 @@
   "logoFile": "logos/zoominfo_israel-logo.webp",
   "websiteUrl": "https://www.zoominfo.com/",
   "careersUrl": "https://www.zoominfo.com/careers",
-  "isHiring": true,
   "linkedinId": "zoominfo",
+  "linkedinNum": 16272,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zoominfo",
   "xId": "ZoomInfo",
+  "facebookId": "ZoomInformation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "zoominfo",
+  "leverId": null,
   "addresses": [
     {
       "street": "הפנינה",
@@ -20,8 +26,6 @@
       "lon": 34.8881297
     }
   ],
-  "isMultinational": true,
-  "greenhouseId": "zoominfo",
-  "facebookId": "ZoomInformation",
-  "linkedinNum": 16272
+  "isMultinational": false,
+  "isActive": true
 }

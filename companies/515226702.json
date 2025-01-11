@@ -1,24 +1,31 @@
 {
   "name": "OphRx",
-  "description": "Noninvasive Drug-delivery Technology for Ocular Use",
+  "description": "Noninvasive Drug-delivery Technology for Ocular Use.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ophrx-logo.webp",
   "websiteUrl": "https://bio-light.co.il/ophrx-2/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ophrx",
+  "linkedinNum": 54362622,
   "crunchbaseId": "ophrx",
+  "ivcId": "A1000000213432",
   "finderId": "ophrx",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבא הלל סילבר",
-      "houseNumber": 12,
-      "city": "רמת גן",
-      "lat": 32.08472355,
-      "lon": 34.80419494318181
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.11516,
+      "lon": 34.842959
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

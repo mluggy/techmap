@@ -1,16 +1,22 @@
 {
   "name": "Aprinove",
-  "description": "Full IT Solution for Clinics",
+  "description": "Aprinove's vision is to enable the Home-Health and Hospital-at-home teams to deliver quality treatment with advanced technologies and a unique user experience and combine digital health capabilities to reduce costs and increase patient satisfaction.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/aprinove-logo.webp",
-  "websiteUrl": "https://www.aprinove.com/",
+  "websiteUrl": "https://www.clinicult.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "aprinove",
+  "linkedinNum": 74041727,
   "crunchbaseId": null,
+  "ivcId": "A1000000415155",
   "finderId": "aprinove",
   "xId": null,
+  "facebookId": "aprinovedh",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "aprinovedh",
-  "linkedinNum": 74041727
+  "isActive": true
 }

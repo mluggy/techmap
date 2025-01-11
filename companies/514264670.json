@@ -1,25 +1,31 @@
 {
   "name": "Voxia",
-  "description": "AI Agents for Large-Scale Outbound Call Operations",
+  "description": "AI Agents for Large-Scale Outbound Call Operations.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/voxia-logo.webp",
   "websiteUrl": "https://www.voxia.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "voxiaai",
+  "linkedinNum": 37429937,
   "crunchbaseId": null,
+  "ivcId": "A1000000325244",
   "finderId": "voxia",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חן",
-      "houseNumber": 13,
-      "city": "אבן יהודה",
-      "lat": 32.277905,
-      "lon": 34.8912417
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727647,
+      "lon": 34.794936
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37429937
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/femselect-logo.webp",
   "websiteUrl": "https://femselect.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "femselect",
+  "linkedinNum": 28632694,
   "crunchbaseId": "femselect",
+  "ivcId": "A1000000001079",
   "finderId": "pop-medical-solutions",
   "xId": "FEMSelect",
+  "facebookId": "FEMSelect",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המעיין",
       "houseNumber": 2,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.922288,
-      "lon": 34.9688892
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.921992,
+      "lon": 34.969105
     }
   ],
   "isMultinational": false,
-  "facebookId": "FEMSelect",
-  "linkedinNum": 28632694
+  "isActive": true
 }

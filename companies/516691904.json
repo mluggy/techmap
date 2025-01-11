@@ -1,0 +1,31 @@
+{
+  "name": "SendBlocks",
+  "description": "SendBlocks operates in the blockchain data management space.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/sendblocks-logo.webp",
+  "websiteUrl": "https://sendblocks.io",
+  "careersUrl": null,
+  "linkedinId": "sendblocks",
+  "linkedinNum": 102385123,
+  "crunchbaseId": null,
+  "ivcId": "A1000000479134",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנגבה",
+      "houseNumber": 7,
+      "city": "גבעתיים",
+      "lat": 32.0708679,
+      "lon": 34.8037053
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

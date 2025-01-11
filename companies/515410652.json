@@ -1,0 +1,31 @@
+{
+  "name": "MobiTech",
+  "description": "Mobitech is a mobile monetization platform that through its unique API & SDK, gives publishers a new way of generating revenues.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/mobitech-logo.webp",
+  "websiteUrl": "http://www.mobitech.io",
+  "careersUrl": "http://www.mobitech.io/company.html#jobs",
+  "linkedinId": "mobitech-io",
+  "linkedinNum": 10168872,
+  "crunchbaseId": null,
+  "ivcId": "A1000000200835",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דוד בן גוריון",
+      "houseNumber": 1,
+      "city": "בני ברק",
+      "lat": 32.0959066,
+      "lon": 34.8220344
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

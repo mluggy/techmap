@@ -1,0 +1,31 @@
+{
+  "name": "KikFin",
+  "description": "KikFin is the first underwater Jetpack, designed to elevate surfing and diving experience around the world.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/kikfin-logo.webp",
+  "websiteUrl": "https://kikfin.com",
+  "careersUrl": null,
+  "linkedinId": "kikfin",
+  "linkedinNum": 14814993,
+  "crunchbaseId": null,
+  "ivcId": "A1000000412692",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנמל",
+      "houseNumber": 28,
+      "city": "חיפה",
+      "lat": 32.8193048,
+      "lon": 35.0004499
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

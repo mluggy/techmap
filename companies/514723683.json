@@ -1,16 +1,22 @@
 {
   "name": "Solight",
-  "description": "Interior Solar Lighting Systems",
+  "description": "Interior Solar Lighting Systems.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/solight-logo.webp",
   "websiteUrl": "https://www.solight-energy.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "solight-ltd",
+  "linkedinNum": 71759383,
   "crunchbaseId": null,
+  "ivcId": "A1000000177801",
   "finderId": "solight",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יוזמה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71759383
+  "isActive": true
 }

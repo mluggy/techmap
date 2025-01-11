@@ -1,0 +1,31 @@
+{
+  "name": "BigBI",
+  "description": "BigBI Software designs a self-service processing platform for BI analysts and data scientists.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/bigbi-logo.webp",
+  "websiteUrl": "https://www.bigbi.io",
+  "careersUrl": null,
+  "linkedinId": "bigbi-software",
+  "linkedinNum": 18425333,
+  "crunchbaseId": null,
+  "ivcId": "A1000000272497",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנחושת",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.1097786,
+      "lon": 34.8392628
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

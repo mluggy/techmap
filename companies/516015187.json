@@ -1,26 +1,31 @@
 {
   "name": "ITC Intelligent Traffic Control",
-  "description": "Traffic Prediction Software",
+  "description": "Traffic Prediction Software.",
   "categoryId": 5,
   "size": "s",
   "logoFile": "logos/itc_intelligent_traffic_control-logo.webp",
   "websiteUrl": "https://www.itc.city",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "itc-city",
+  "linkedinNum": 19076393,
   "crunchbaseId": "intelligent-traffic-control",
+  "ivcId": "A1000000289961",
   "finderId": "itc-intelligent-traffic-control",
   "xId": null,
+  "facebookId": "ITC-Intelligent-Traffic-Control-108805671426543",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יונתן רטוש",
-      "houseNumber": 3,
-      "city": "ראש העין",
-      "lat": 32.0822229,
-      "lon": 34.982694238211764
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.1135286,
+      "lon": 34.8432083
     }
   ],
   "isMultinational": false,
-  "facebookId": "ITC-Intelligent-Traffic-Control-108805671426543",
-  "linkedinNum": 19076393
+  "isActive": true
 }

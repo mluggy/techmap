@@ -1,0 +1,31 @@
+{
+  "name": "OmniTelecom",
+  "description": "OmniTelecom is a telecommunication company that provides advanced communication solutions to call centers, business and households.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/omnitelecom-logo.webp",
+  "websiteUrl": "http://www.omnitelecom.com",
+  "careersUrl": null,
+  "linkedinId": "omnitelecom",
+  "linkedinNum": 1304996,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009451",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תובל",
+      "houseNumber": 22,
+      "city": "רמת גן",
+      "lat": 32.0870497,
+      "lon": 34.8033862
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

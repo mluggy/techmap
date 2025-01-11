@@ -6,20 +6,26 @@
   "logoFile": "logos/xfloat-logo.webp",
   "websiteUrl": "https://xfloat.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "xfloatsolar",
+  "linkedinNum": 78335885,
   "crunchbaseId": null,
+  "ivcId": "A1000000307972",
   "finderId": "xfloat",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקת-פארק התעשייה",
+      "street": "ברקת",
       "houseNumber": 7,
       "city": "קיסריה",
-      "lat": 32.4812974,
-      "lon": 34.9463177
+      "lat": 32.4880812,
+      "lon": 34.9071662
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78335885
+  "isActive": true
 }

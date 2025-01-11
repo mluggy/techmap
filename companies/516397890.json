@@ -1,25 +1,31 @@
 {
   "name": "Soltrex",
-  "description": "Autonomous Solar Panels Cleaning Robots",
+  "description": "Soltrex develops a technological solution that significantly optimizes cleaning, operation and maintenance in solar farms.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/soltrex.webp",
-  "websiteUrl": "https://soltrex.webflow.io/",
+  "websiteUrl": "https://www.soltrex.io",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "soltrex",
   "linkedinNum": 80688926,
   "crunchbaseId": null,
+  "ivcId": "A1000000362893",
   "finderId": "soltrex",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השרון",
-      "houseNumber": 14,
-      "city": "יבנה",
-      "lat": 31.882545836580324,
-      "lon": 34.729987753475505
+      "street": "יהודה הלוי",
+      "houseNumber": 23,
+      "city": "תל אביב-יפו",
+      "lat": 32.0617135,
+      "lon": 34.7707378
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Chocomake",
-  "description": "Personalized Chocolate Treat Maker",
-  "categoryId": 17,
+  "description": "Chocomake provides a personalized chocolate experience.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/chocomake-logo.webp",
-  "websiteUrl": "https://www.chocomake.com",
+  "websiteUrl": "https://homechocolat.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "chocomake",
+  "linkedinNum": 35472094,
   "crunchbaseId": null,
+  "ivcId": "A1000000293446",
   "finderId": "chocomake",
   "xId": null,
+  "facebookId": "Chocomake-112607393533579",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בזק צור יגאל",
+      "street": "נחל בזק",
       "houseNumber": 17,
-      "city": "צור יגאל",
-      "lat": 32.208729071227296,
-      "lon": 34.98572494620048
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.896925,
+      "lon": 35.0182288
     }
   ],
   "isMultinational": false,
-  "facebookId": "Chocomake-112607393533579",
-  "linkedinNum": 35472094
+  "isActive": true
 }

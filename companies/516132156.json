@@ -6,11 +6,17 @@
   "logoFile": "logos/contilt-logo.webp",
   "websiteUrl": "https://contilt.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "contilt",
+  "linkedinNum": 67947221,
   "crunchbaseId": null,
+  "ivcId": "A1000000310237",
   "finderId": "contilt",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 67947221
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Alvox Bio",
+  "description": "Alvox Bio is a Contract Research Organization (CRO), specializing in 3D bioprinting services across diverse disciplines.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/alvox-bio-logo.webp",
+  "websiteUrl": "https://www.alvox.co.il",
+  "careersUrl": null,
+  "linkedinId": "alvox-bio",
+  "linkedinNum": 105112895,
+  "crunchbaseId": null,
+  "ivcId": "A1000000494562",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הכרמל",
+      "houseNumber": 2,
+      "city": "יוקנעם עילית",
+      "lat": 32.6624558,
+      "lon": 35.1049443
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

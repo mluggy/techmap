@@ -6,11 +6,17 @@
   "logoFile": "logos/bufferzone_security-logo.webp",
   "websiteUrl": "https://bufferzonesecurity.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "bufferzone-security",
+  "linkedinNum": 1409549,
   "crunchbaseId": null,
+  "ivcId": "A1000000004862",
   "finderId": "trustware",
   "xId": "BufferZoneSec",
+  "facebookId": "BufferZonePro",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BufferZonePro",
-  "linkedinNum": 1409549
+  "isActive": true
 }

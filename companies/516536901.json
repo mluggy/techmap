@@ -1,0 +1,31 @@
+{
+  "name": "RiseSpot",
+  "description": "Risespot's dashboards map out the ‘promising’ tracts, based on features predicting growth, like upcoming transportation projects, upcoming local investments, socio economic features, climate risk, corporate tax level, life quality and other features attracting proficient professionals.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/risespot-logo.webp",
+  "websiteUrl": "https://www.risespot.com",
+  "careersUrl": null,
+  "linkedinId": "risespot-ai",
+  "linkedinNum": 88280288,
+  "crunchbaseId": null,
+  "ivcId": "A1000000479324",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב ז'בוטינסקי",
+      "houseNumber": 41,
+      "city": "גבעתיים",
+      "lat": 32.0731501,
+      "lon": 34.8133846
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

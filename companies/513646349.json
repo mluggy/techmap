@@ -1,26 +1,31 @@
 {
   "name": "Velocity",
-  "description": "Developer Environment Tools",
+  "description": "Developer Environment Tools.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/velocity-logo.webp",
   "websiteUrl": "https://velocity.tech",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "techvelocity",
+  "linkedinNum": 70392839,
   "crunchbaseId": null,
+  "ivcId": "A1000000343408",
   "finderId": "velocity",
   "xId": null,
+  "facebookId": "increasevelocity",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דוד אלעזר",
-      "houseNumber": 1,
-      "city": "רעננה",
-      "lat": 32.1836157,
-      "lon": 34.8870355
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "increasevelocity",
-  "linkedinNum": 70392839
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/alpha_tau_medical-logo.webp",
   "websiteUrl": "https://www.alphatau.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "alphataumedical",
+  "linkedinNum": 10538741,
   "crunchbaseId": null,
+  "ivcId": "A1000000224185",
   "finderId": "alpha-tau-medical",
   "xId": "AlphaTauMedical",
+  "facebookId": "AlphaTauMedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרית מדע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AlphaTauMedical",
-  "linkedinNum": 10538741
+  "isActive": true
 }

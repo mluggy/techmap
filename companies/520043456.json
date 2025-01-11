@@ -6,21 +6,26 @@
   "logoFile": "logos/radcom-logo.webp",
   "websiteUrl": "https://radcom.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "radcom",
+  "linkedinNum": 9630,
   "crunchbaseId": null,
+  "ivcId": "A1000000008349",
   "finderId": "radcom",
   "xId": "RADCOMUpdates",
+  "facebookId": "RADCOM-175227099182491",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ולנברג ראול",
+      "street": "ראול ולנברג",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.111205,
-      "lon": 34.8388694
+      "city": "תל אביב-יפו",
+      "lat": 32.1112424,
+      "lon": 34.8389386
     }
   ],
   "isMultinational": false,
-  "facebookId": "RADCOM-175227099182491",
-  "linkedinNum": 9630
+  "isActive": true
 }

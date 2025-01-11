@@ -1,0 +1,31 @@
+{
+  "name": "Biguard",
+  "description": "Biguard is a platform that protects the users' social media accounts from hackers, shadowban and more.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/biguard-logo.webp",
+  "websiteUrl": "https://biguards.com",
+  "careersUrl": null,
+  "linkedinId": "biguard",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000460454",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אצ\"ל",
+      "houseNumber": 15,
+      "city": "ראשון לציון",
+      "lat": 31.9887408,
+      "lon": 34.7656815
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

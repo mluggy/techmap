@@ -6,21 +6,26 @@
   "logoFile": "logos/salt_security-logo.webp",
   "websiteUrl": "https://salt.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "saltsecurity",
+  "linkedinNum": 9458521,
   "crunchbaseId": "saltsecurity",
+  "ivcId": null,
   "finderId": "secful",
   "xId": "SaltSecurity",
+  "facebookId": "SaltAPIProtectionInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דה וינצ'י לאונרדו",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07418525,
       "lon": 34.78524499360144
     }
   ],
   "isMultinational": false,
-  "facebookId": "SaltAPIProtectionInc",
-  "linkedinNum": 9458521
+  "isActive": true
 }

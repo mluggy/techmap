@@ -6,21 +6,26 @@
   "logoFile": "logos/otorize-logo.webp",
   "websiteUrl": "https://www.otorize.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "otorizeapp",
+  "linkedinNum": 27048202,
   "crunchbaseId": null,
+  "ivcId": "A1000000224675",
   "finderId": "otorize",
   "xId": "OtorizeApp",
+  "facebookId": "otorizeapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פועלי צדק",
-      "houseNumber": 2,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7531747,
-      "lon": 35.2155482
+      "lat": 31.768319,
+      "lon": 35.21371
     }
   ],
   "isMultinational": false,
-  "facebookId": "otorizeapp",
-  "linkedinNum": 27048202
+  "isActive": true
 }

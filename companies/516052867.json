@@ -6,21 +6,26 @@
   "logoFile": "logos/zbenko-logo.webp",
   "websiteUrl": "https://zbenko.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "zbenko",
+  "linkedinNum": 11532542,
   "crunchbaseId": null,
+  "ivcId": "A1000000271768",
   "finderId": "zbenko",
   "xId": null,
+  "facebookId": "Zbenko-447580439310717",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מייזל זלמן",
       "houseNumber": 12,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.030743,
       "lon": 34.748379
     }
   ],
   "isMultinational": false,
-  "facebookId": "Zbenko-447580439310717",
-  "linkedinNum": 11532542
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/datadudes-logo.webp",
   "websiteUrl": "https://datadudes.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "datadudes-ai",
+  "linkedinNum": 54148906,
   "crunchbaseId": null,
+  "ivcId": "A1000000426716",
   "finderId": "datadudes",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אורן",
@@ -19,5 +25,7 @@
       "lat": 32.1614089,
       "lon": 34.942102
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

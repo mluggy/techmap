@@ -6,11 +6,17 @@
   "logoFile": "logos/taboola_com-logo.webp",
   "websiteUrl": "https://www.taboola.com/",
   "careersUrl": "https://www.taboola.com/careers",
-  "isHiring": true,
   "linkedinId": "taboola",
+  "linkedinNum": 128707,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "taboola",
   "xId": "taboola",
+  "facebookId": "taboola",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "taboola",
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "taboola",
-  "linkedinNum": 128707,
-  "greenhouseId": "taboola"
+  "isActive": true
 }

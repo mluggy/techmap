@@ -1,0 +1,31 @@
+{
+  "name": "Midan",
+  "description": "Midan is focused on development and production of automatic soldering and inspection machines.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/midan-logo.webp",
+  "websiteUrl": "http://midan-systems.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000468063",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ירושלים הבירה",
+      "houseNumber": 6,
+      "city": "בית שאן",
+      "lat": 32.4979993,
+      "lon": 35.4972651
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

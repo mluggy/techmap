@@ -1,26 +1,31 @@
 {
   "name": "MyQuest",
-  "description": "Online Training and Knowledge Sharing",
+  "description": "Online Training and Knowledge Sharing.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/myquest-logo.webp",
   "websiteUrl": "https://www.myquest.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "myquest-ltd",
+  "linkedinNum": 5196595,
   "crunchbaseId": null,
+  "ivcId": "A1000000196350",
   "finderId": "myquest",
   "xId": "myquestt",
+  "facebookId": "myQuestTraining",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האחים בן עזר",
-      "houseNumber": 7,
-      "city": "פתח תקווה",
-      "lat": 32.0874861,
-      "lon": 34.8694675
+      "street": "גרשון ש\"ץ",
+      "houseNumber": 16,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689628,
+      "lon": 34.7890336
     }
   ],
   "isMultinational": false,
-  "facebookId": "myQuestTraining",
-  "linkedinNum": 5196595
+  "isActive": true
 }

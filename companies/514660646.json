@@ -1,0 +1,31 @@
+{
+  "name": "AppCard",
+  "description": "AppCard, a personalized marketing and CRM platform for brick and mortar retailers, uses smart data capture and machine learning to analyze, target, and engage with customers.",
+  "categoryId": 18,
+  "size": "m",
+  "logoFile": "logos/appcard-logo.webp",
+  "websiteUrl": "https://www.appcard.com",
+  "careersUrl": "https://www.appcard.com/about-us/careers/",
+  "linkedinId": "appcard",
+  "linkedinNum": 2903241,
+  "crunchbaseId": null,
+  "ivcId": "A1000000020541",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרושת",
+      "houseNumber": 18,
+      "city": "רמת השרון",
+      "lat": 32.1287801,
+      "lon": 34.8586547
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

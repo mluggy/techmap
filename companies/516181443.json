@@ -1,25 +1,31 @@
 {
   "name": "Imagen",
-  "description": "AI-powered Batch Editing App for Lightroom",
+  "description": "AI-powered Batch Editing App for Lightroom.",
   "categoryId": 8,
   "size": "m",
   "logoFile": "logos/imagen.webp",
   "websiteUrl": "https://www.imagen-ai.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 68615079,
   "crunchbaseId": null,
+  "ivcId": "A1000000333157",
   "finderId": "imagen",
   "xId": "AiImagen?v=2",
   "facebookId": "ImagenAI-101935208175558",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המסגר",
-      "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.06587828563495,
-      "lon": 34.7860274529153
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

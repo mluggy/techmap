@@ -6,13 +6,26 @@
   "logoFile": "logos/salute_rehab-logo.webp",
   "websiteUrl": "https://www.salute.technology/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "salute-rehab-ltd",
+  "linkedinNum": 28654818,
   "crunchbaseId": null,
+  "ivcId": "A1000000206576",
   "finderId": "salute-rehab-ltd",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Salute2015rehab",
-  "linkedinNum": 28654818
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רוטשילד",
+      "houseNumber": 3,
+      "city": "בת ים",
+      "lat": 32.026727,
+      "lon": 34.7419707
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

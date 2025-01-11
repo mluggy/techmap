@@ -6,21 +6,26 @@
   "logoFile": "logos/mobileye_vision_technologies-logo.webp",
   "websiteUrl": "https://www.mobileye.com/",
   "careersUrl": "https://careers.mobileye.com/",
-  "isHiring": true,
   "linkedinId": "mobileye",
+  "linkedinNum": 24017,
   "crunchbaseId": null,
+  "ivcId": "A1000000005977",
   "finderId": "mobileye",
   "xId": "Mobileye",
+  "facebookId": "Mobileye",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הלוי שלמה (מומו)",
-      "houseNumber": 1,
+      "street": "הרטום",
+      "houseNumber": 13,
       "city": "ירושלים",
-      "lat": 31.8014544,
-      "lon": 35.2083302
+      "lat": 31.8033765,
+      "lon": 35.2131664
     }
   ],
   "isMultinational": false,
-  "facebookId": "Mobileye",
-  "linkedinNum": 24017
+  "isActive": true
 }

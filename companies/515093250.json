@@ -1,26 +1,31 @@
 {
   "name": "Bitrated",
-  "description": "Fraud Protection Solution for the Bitcoin Ecosystem",
+  "description": "Fraud Protection Solution for the Bitcoin Ecosystem.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/bitrated-logo.webp",
   "websiteUrl": "https://www.bitrated.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bitrated",
+  "linkedinNum": 9340265,
   "crunchbaseId": "bitrated",
+  "ivcId": "A1000000024221",
   "finderId": "bitrated",
   "xId": "bitrated",
+  "facebookId": "bitrated",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התורן",
-      "houseNumber": 8,
-      "city": "יבנה",
-      "lat": 31.8694715,
-      "lon": 34.7335671
+      "street": "אלעזר",
+      "houseNumber": 4,
+      "city": "הוד השרון",
+      "lat": 32.1377498,
+      "lon": 34.9021816
     }
   ],
   "isMultinational": false,
-  "facebookId": "bitrated",
-  "linkedinNum": 9340265
+  "isActive": true
 }

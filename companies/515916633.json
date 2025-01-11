@@ -1,26 +1,31 @@
 {
   "name": "Divo",
-  "description": "Tradable VR Content",
-  "categoryId": 8,
+  "description": "Divo uses VR to allow its users to feel like they are on the stage\\audience of their favorite artist or inside the locker room of their sport team.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/divo_26-logo.webp",
-  "websiteUrl": "https://divoentertainment.com/",
+  "websiteUrl": "https://www.divo.live",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "divo-entertainment",
+  "linkedinNum": 78443390,
   "crunchbaseId": null,
+  "ivcId": "A1000000368595",
   "finderId": "divo",
   "xId": null,
+  "facebookId": "DivoVR360",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סחרוב דוד",
-      "houseNumber": 19,
-      "city": "ראשון לציון",
-      "lat": 31.9906118,
-      "lon": 34.7727011
+      "street": "זהרה אלפסיה",
+      "houseNumber": 6,
+      "city": "ראש העין",
+      "lat": 32.085252,
+      "lon": 34.977976
     }
   ],
   "isMultinational": false,
-  "facebookId": "DivoVR360",
-  "linkedinNum": 78443390
+  "isActive": true
 }

@@ -1,17 +1,31 @@
 {
   "name": "Agam Aquaculture",
-  "description": "Automation Technology for the Aquaculture Industry",
+  "description": "Automation Technology for the Aquaculture Industry.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/agam_aquaculture-logo.webp",
   "websiteUrl": "https://agam-aquaculture.com/",
   "careersUrl": "https://www.agam.com/careers/",
-  "isHiring": true,
   "linkedinId": "agam-aquaculture",
+  "linkedinNum": 64259381,
   "crunchbaseId": null,
+  "ivcId": "A1000000275118",
   "finderId": "agam-aquaculture",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משגב",
+      "houseNumber": 17,
+      "city": "כרמיאל",
+      "lat": 32.9184246,
+      "lon": 35.2963124
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 64259381
+  "isActive": true
 }

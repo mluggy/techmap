@@ -6,11 +6,17 @@
   "logoFile": "logos/nutrilees-logo.webp",
   "websiteUrl": "https://www.nutrilees.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nutrilees",
+  "linkedinNum": 34924321,
   "crunchbaseId": "nutrilees",
+  "ivcId": null,
   "finderId": "nutrilees",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חרצית",
@@ -20,5 +26,6 @@
       "lon": 35.5790537
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

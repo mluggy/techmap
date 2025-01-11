@@ -6,20 +6,26 @@
   "logoFile": "logos/fize_medical-logo.webp",
   "websiteUrl": "https://fizemedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fize-medical",
+  "linkedinNum": 65312656,
   "crunchbaseId": "fize-medical",
+  "ivcId": "A1000000315554",
   "finderId": "fize-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השדרה המרכזית",
-      "houseNumber": 15,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.92407985211603,
-      "lon": 34.96626110394324
+      "street": null,
+      "houseNumber": null,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.921965,
+      "lon": 34.97013099999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 65312656
+  "isActive": true
 }

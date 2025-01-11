@@ -1,0 +1,31 @@
+{
+  "name": "Careey",
+  "description": "Careey-App streamlines the process of finding and booking professionals, eliminating the need for phone calls and saving the users time and effort.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/careey-logo.webp",
+  "websiteUrl": "https://www.careey.com",
+  "careersUrl": "https://www.careey.com/en/come-work-with-us-en/",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000472638",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "גדעון האוזנר",
+      "houseNumber": 3,
+      "city": "הרצליה",
+      "lat": 32.1612577,
+      "lon": 34.8281321
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

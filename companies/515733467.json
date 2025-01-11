@@ -6,21 +6,26 @@
   "logoFile": "logos/rookout-logo.webp",
   "websiteUrl": "https://www.rookout.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 17968441,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rookout",
   "xId": "rookoutlabs",
+  "facebookId": "rookoutlabs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית שמאי",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069473,
       "lon": 34.789021
     }
   ],
   "isMultinational": false,
-  "facebookId": "rookoutlabs",
-  "linkedinNum": 17968441
+  "isActive": true
 }

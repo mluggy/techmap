@@ -6,21 +6,26 @@
   "logoFile": "logos/insfocus_systems-logo.webp",
   "websiteUrl": "https://www.insfocus.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "insfocus",
+  "linkedinNum": 431987,
   "crunchbaseId": null,
+  "ivcId": "A1000000008773",
   "finderId": "insfocus",
   "xId": "InsFocus",
+  "facebookId": "insfocus",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יצחק רבין",
-      "houseNumber": 1,
+      "street": "אודם",
+      "houseNumber": 6,
       "city": "פתח תקווה",
-      "lat": 32.090474878315646,
-      "lon": 34.861795071156685
+      "lat": 32.0902068,
+      "lon": 34.8574654
     }
   ],
   "isMultinational": false,
-  "facebookId": "insfocus",
-  "linkedinNum": 431987
+  "isActive": true
 }

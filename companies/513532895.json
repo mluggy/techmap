@@ -6,12 +6,26 @@
   "logoFile": "logos/camero_tech-logo.webp",
   "websiteUrl": "https://camero-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "camero",
+  "linkedinNum": 113596,
   "crunchbaseId": null,
+  "ivcId": "A1000000003964",
   "finderId": "camero",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האלון",
+      "houseNumber": 4,
+      "city": "כפר נטר",
+      "lat": 32.2847655,
+      "lon": 34.872183
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 113596
+  "isActive": true
 }

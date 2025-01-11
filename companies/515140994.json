@@ -6,21 +6,26 @@
   "logoFile": "logos/novartis_israel-logo.webp",
   "websiteUrl": "https://www.novartis.com/",
   "careersUrl": "https://www.novartis.com/careers",
-  "isHiring": true,
   "linkedinId": "novartis",
+  "linkedinNum": 1406,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "novartis",
   "xId": "novartis",
+  "facebookId": "NovartisIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073249,
       "lon": 34.796032
     }
   ],
-  "isMultinational": true,
-  "facebookId": "NovartisIsrael",
-  "linkedinNum": 1406
+  "isMultinational": false,
+  "isActive": true
 }

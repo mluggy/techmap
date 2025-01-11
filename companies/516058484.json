@@ -6,11 +6,17 @@
   "logoFile": "logos/sandra_exclusive-logo.webp",
   "websiteUrl": "https://www.sandramccracken.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sandra",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -19,5 +25,7 @@
       "lat": 32.083993,
       "lon": 34.8007991
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/cathworks-logo.webp",
   "websiteUrl": "https://cath.works/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cathworks",
+  "linkedinNum": 29011590,
   "crunchbaseId": null,
+  "ivcId": "A1000000201091",
   "finderId": "cathworks",
   "xId": "CathWorks",
+  "facebookId": "CathWorksFFRangio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רפפורט",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "CathWorksFFRangio",
-  "linkedinNum": 29011590
+  "isActive": true
 }

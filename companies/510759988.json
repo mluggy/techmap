@@ -6,20 +6,26 @@
   "logoFile": "logos/mtc_industries_and_research_carmiel-logo.webp",
   "websiteUrl": "https://www.mtcind.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mtcind",
+  "linkedinNum": 2221838,
   "crunchbaseId": null,
+  "ivcId": "A1000000024760",
   "finderId": "mtc-industries-research",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המגל",
-      "houseNumber": 3,
+      "houseNumber": 1,
       "city": "כרמיאל",
-      "lat": 32.9229588,
-      "lon": 35.3116627
+      "lat": 32.9224647,
+      "lon": 35.30960719999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2221838
+  "isActive": true
 }

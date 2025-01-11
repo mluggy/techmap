@@ -6,21 +6,26 @@
   "logoFile": "logos/ossio-logo.webp",
   "websiteUrl": "https://ossio.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ossio-ltd.",
+  "linkedinNum": 10639272,
   "crunchbaseId": null,
+  "ivcId": "A1000000178253",
   "finderId": "ossio",
   "xId": "OSSIOfiber",
+  "facebookId": "healbonebetter",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הטוחן",
-      "houseNumber": 8,
+      "street": null,
+      "houseNumber": null,
       "city": "קיסריה",
-      "lat": 32.4863102,
-      "lon": 34.9521262
+      "lat": 32.5154686,
+      "lon": 34.9062798
     }
   ],
   "isMultinational": false,
-  "facebookId": "healbonebetter",
-  "linkedinNum": 10639272
+  "isActive": true
 }

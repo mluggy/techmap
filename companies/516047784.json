@@ -3,14 +3,20 @@
   "description": "A seasoned expert in cell and gene therapy drives oncology and hemophilia program advancements.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/noga_therapeutics-logo.webp",
+  "logoFile": "logos/noga-therapeutics-logo.webp",
   "websiteUrl": "https://www.noga-tx.com/",
   "careersUrl": "https://www.noga-tx.com/careers/",
-  "isHiring": true,
   "linkedinId": "noga-therapeutics",
+  "linkedinNum": 51679771,
   "crunchbaseId": null,
+  "ivcId": "A1000000441040",
   "finderId": "noga-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -19,5 +25,7 @@
       "lat": 31.9145873,
       "lon": 34.8035501
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

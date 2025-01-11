@@ -1,16 +1,22 @@
 {
   "name": "Source Of Sound",
-  "description": "Headsets for Defense Forces",
+  "description": "Headsets for Defense Forces.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/source_of_sound-logo.webp",
   "websiteUrl": "https://www.s-o-s.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "the-source-of-sound-ltd",
+  "linkedinNum": 5888573,
   "crunchbaseId": null,
+  "ivcId": "A1000000008856",
   "finderId": "source-of-sound",
   "xId": null,
+  "facebookId": "SOSMILCOM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יד חרוצים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SOSMILCOM",
-  "linkedinNum": 5888573
+  "isActive": true
 }

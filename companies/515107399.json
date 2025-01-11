@@ -6,22 +6,26 @@
   "logoFile": "logos/plainid-logo.webp",
   "websiteUrl": "https://www.plainid.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "plainid",
+  "linkedinNum": 6375766,
   "crunchbaseId": null,
+  "ivcId": "A1000000187010",
   "finderId": "plainid",
   "xId": "plainID_authZ",
+  "facebookId": "PlainID",
+  "breezyId": null,
+  "comeetId": "plainid/C4.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "PlainID",
-  "linkedinNum": 6375766,
-  "comeetId": "plainid/C4.00C"
+  "isActive": true
 }

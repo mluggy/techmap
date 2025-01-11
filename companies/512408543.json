@@ -3,16 +3,29 @@
   "description": "Solutions for Movement and Fitness.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/tzora_active_systems-logo.webp",
+  "logoFile": "logos/tzora-active-systems-logo.webp",
   "websiteUrl": "https://tzora.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tzora-active-systems",
+  "linkedinNum": 17890953,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tzora-active-systems",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "pages",
-  "linkedinNum": 17890953
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 4,
+      "city": "אור יהודה",
+      "lat": 32.033589464466374,
+      "lon": 34.84896279939694
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

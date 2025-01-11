@@ -1,18 +1,31 @@
 {
   "name": "EcoPhage",
-  "description": "Eco-friendly Treatments of Crop Diseases",
+  "description": "Eco-friendly Treatments of Crop Diseases.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/ecophage-logo.webp",
   "websiteUrl": "https://ecophage.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ecophage",
+  "linkedinNum": 34760029,
   "crunchbaseId": null,
+  "ivcId": "A1000000304207",
   "finderId": "ecophage",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "EcoPhageBiocontrol",
-  "linkedinNum": 34760029
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פנחס ספיר",
+      "houseNumber": 3,
+      "city": "נס ציונה",
+      "lat": 31.91451859999999,
+      "lon": 34.8032823
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

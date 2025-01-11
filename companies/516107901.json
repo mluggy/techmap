@@ -6,20 +6,26 @@
   "logoFile": "logos/rep_ai-logo.webp",
   "websiteUrl": "https://www.hellorep.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rep-ai",
   "xId": "TeamRepAI",
+  "facebookId": "TeamRepAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074196,
       "lon": 34.7921772
     }
   ],
   "isMultinational": false,
-  "facebookId": "TeamRepAI"
+  "isActive": true
 }

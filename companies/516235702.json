@@ -1,0 +1,31 @@
+{
+  "name": "Spool",
+  "description": "Spool provides a platform for organizing safe kids' carpools.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/spool-logo.webp",
+  "websiteUrl": "https://www.spool.mobi",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000321179",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עקיבא",
+      "houseNumber": 90,
+      "city": "רעננה",
+      "lat": 32.1891228,
+      "lon": 34.8834738
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

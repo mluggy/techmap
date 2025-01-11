@@ -1,0 +1,31 @@
+{
+  "name": "Mazalit",
+  "description": "MAZALIT is a b2b payment platform that will gradually bring solutions like instant mobile payment, escrow services, billing and credit services to the global diamond, gem and jewelry industry and trade.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/mazalit-logo.webp",
+  "websiteUrl": "http://www.mazalit.com",
+  "careersUrl": null,
+  "linkedinId": "mazalit",
+  "linkedinNum": 16224549,
+  "crunchbaseId": null,
+  "ivcId": "A1000000245135",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.0838446,
+      "lon": 34.8022024
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

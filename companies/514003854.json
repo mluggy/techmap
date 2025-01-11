@@ -6,21 +6,26 @@
   "logoFile": "logos/my_single_point-logo.webp",
   "websiteUrl": "https://www.mysp.com/",
   "careersUrl": "https://thesinglepoint.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "my-single-point",
+  "linkedinNum": 205765,
   "crunchbaseId": null,
+  "ivcId": "A1000000010267",
   "finderId": "my-single-point-msp",
   "xId": "My_Single_Point",
+  "facebookId": "MySinglePoint",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמיחי יהודה",
-      "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.109696,
-      "lon": 34.787393
+      "street": "הברזל",
+      "houseNumber": 11,
+      "city": "תל אביב-יפו",
+      "lat": 32.1074764,
+      "lon": 34.8366965
     }
   ],
   "isMultinational": false,
-  "facebookId": "MySinglePoint",
-  "linkedinNum": 205765
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/roomer_travel-logo.webp",
   "websiteUrl": "https://www.roomertravel.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "roomer",
+  "linkedinNum": 2858730,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "roomer-travel",
   "xId": "RoomerTravel",
+  "facebookId": "RoomerHotDeals",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יהודה הלוי",
       "houseNumber": 43,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.061977,
       "lon": 34.772924
     }
   ],
   "isMultinational": false,
-  "facebookId": "RoomerHotDeals",
-  "linkedinNum": 2858730
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Compoze",
-  "description": "Apps for Learning Music Theory and Composition",
+  "description": "Compoze- democratising music education and bringing written music to the digital age.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/compoze_music_solutions-logo.webp",
-  "websiteUrl": "https://www.scoreskills.com",
+  "websiteUrl": "http://www.compoze.co",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "compozelabs",
+  "linkedinNum": 5132788,
   "crunchbaseId": "compoze",
+  "ivcId": "A1000000024558",
   "finderId": "compoze",
   "xId": "CompozeMusic",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אנטוקולסקי",
-      "houseNumber": 15,
-      "city": "תל אביב - יפו",
-      "lat": 32.084306,
-      "lon": 34.783304
+      "street": "אחד העם",
+      "houseNumber": 9,
+      "city": "תל אביב-יפו",
+      "lat": 32.0640664,
+      "lon": 34.7696096
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5132788
+  "isActive": true
 }

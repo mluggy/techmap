@@ -6,11 +6,17 @@
   "logoFile": "logos/inx-logo.webp",
   "websiteUrl": "https://www.inx.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "theinxdigitalcompany",
+  "linkedinNum": 18438547,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "inx",
   "xId": "INX_Group",
+  "facebookId": "INXLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך הגנים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "INXLtd",
-  "linkedinNum": 18438547
+  "isActive": true
 }

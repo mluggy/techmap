@@ -1,25 +1,31 @@
 {
   "name": "MEALA",
-  "description": "Replacing Methyl Cellulose and Hydrocolloids in Alternative Proteins",
+  "description": "Replacing Methyl Cellulose and Hydrocolloids in Alternative Proteins.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/meala.webp",
   "websiteUrl": "https://www.mealafood.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "meala-foodtech",
   "linkedinNum": 81820439,
   "crunchbaseId": null,
+  "ivcId": "A1000000382192",
   "finderId": "meala",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך יפו",
-      "houseNumber": 51,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.8204089839501,
-      "lon": 34.99644612073979
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

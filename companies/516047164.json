@@ -6,21 +6,26 @@
   "logoFile": "logos/finaloop-logo.webp",
   "websiteUrl": "https://www.finaloop.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "finaloop",
+  "linkedinNum": 37898614,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "finaloop",
   "xId": "Finaloop1",
+  "facebookId": "FinaloopTeam",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 146,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
   ],
   "isMultinational": false,
-  "facebookId": "FinaloopTeam",
-  "linkedinNum": 37898614
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/tonkean_israel-logo.webp",
   "websiteUrl": "https://www.tonkean.com/",
   "careersUrl": "https://www.tonkean.com/careers",
-  "isHiring": true,
   "linkedinId": "tonkean",
+  "linkedinNum": 6430355,
   "crunchbaseId": "tonkean",
+  "ivcId": null,
   "finderId": "tonkean",
   "xId": "tonkean",
+  "facebookId": "tonkeancom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0633815,
       "lon": 34.7730301
     }
   ],
   "isMultinational": false,
-  "facebookId": "tonkeancom",
-  "linkedinNum": 6430355
+  "isActive": true
 }

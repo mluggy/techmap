@@ -6,21 +6,26 @@
   "logoFile": "logos/meta-logo.webp",
   "websiteUrl": "https://about.meta.com/",
   "careersUrl": "https://www.metacareers.com/locations/tel-aviv/",
-  "isHiring": true,
   "linkedinId": "meta",
+  "linkedinNum": 10667,
   "crunchbaseId": "meta",
+  "ivcId": null,
   "finderId": "facebook",
   "xId": "Meta",
+  "facebookId": "facebook",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רוטשילד",
       "houseNumber": 22,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06291372487591,
       "lon": 34.771462390317815
     }
   ],
-  "isMultinational": true,
-  "facebookId": "facebook",
-  "linkedinNum": 10667
+  "isMultinational": false,
+  "isActive": true
 }

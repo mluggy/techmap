@@ -1,0 +1,31 @@
+{
+  "name": "Ginger Gene",
+  "description": "Ginger Gene offers a simplified self-service support solution for complex systems.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/ginger-gene-logo.webp",
+  "websiteUrl": "http://www.ginger-gene.com",
+  "careersUrl": null,
+  "linkedinId": "ginger-gene",
+  "linkedinNum": 2869080,
+  "crunchbaseId": null,
+  "ivcId": "A1000000024834",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נחום מילר",
+      "houseNumber": 5,
+      "city": "חיפה",
+      "lat": 32.8103418,
+      "lon": 35.0035909
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

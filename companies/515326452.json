@@ -6,11 +6,17 @@
   "logoFile": "logos/hoopo_systems-logo.webp",
   "websiteUrl": "https://www.hoopo.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hoopo",
+  "linkedinNum": 10501427,
   "crunchbaseId": null,
+  "ivcId": "A1000000203467",
   "finderId": "hoopo",
   "xId": "hoopoIOT",
+  "facebookId": "hoopoSystems",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "hoopoSystems",
-  "linkedinNum": 10501427
+  "isActive": true
 }

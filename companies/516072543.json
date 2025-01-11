@@ -6,21 +6,26 @@
   "logoFile": "logos/wiply_m_e_e_commerce-logo.webp",
   "websiteUrl": "https://www.wiply.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wiplygames",
+  "linkedinNum": 68784654,
   "crunchbaseId": null,
+  "ivcId": "A1000000355044",
   "finderId": "wiply",
   "xId": null,
+  "facebookId": "WiplyGames",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 27,
-      "city": "תל אביב - יפו",
-      "lat": 32.06355,
-      "lon": 34.772483
+      "city": "תל אביב-יפו",
+      "lat": 32.0635822,
+      "lon": 34.7725796
     }
   ],
   "isMultinational": false,
-  "facebookId": "WiplyGames",
-  "linkedinNum": 68784654
+  "isActive": true
 }

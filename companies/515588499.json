@@ -6,11 +6,17 @@
   "logoFile": "logos/mycrops_technologies-logo.webp",
   "websiteUrl": "https://www.mycrops.ag/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mycrops",
+  "linkedinNum": 18130533,
   "crunchbaseId": null,
+  "ivcId": "A1000000236361",
   "finderId": "MyCrops",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצנחנים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18130533
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Dronix",
+  "description": "Dronix is a custom-made multi rotors UAV manufacturer, specializing in creating high-endurance multi rotors UAV’s with special payload requirements.",
+  "categoryId": 13,
+  "size": "s",
+  "logoFile": "logos/dronix-logo.webp",
+  "websiteUrl": "https://dronix.co.il",
+  "careersUrl": null,
+  "linkedinId": "dronix-engineering-ltd",
+  "linkedinNum": 38086828,
+  "crunchbaseId": null,
+  "ivcId": "A1000000486150",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שוהם",
+      "houseNumber": null,
+      "city": "פתח תקווה",
+      "lat": 32.0906953,
+      "lon": 34.8579224
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

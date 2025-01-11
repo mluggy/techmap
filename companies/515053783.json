@@ -1,23 +1,31 @@
 {
   "name": "Check 123",
-  "description": "A platform offering comparison tools to save on insurance, loans, energy, internet, travel, flights, and more.",
-  "categoryId": 10,
+  "description": "Check123 is the web’s first Social Video Encyclopedia;  a place for people to come and learn about any topic in the world through Videos running 1, 2 or 3 minutes long.",
+  "categoryId": 6,
   "size": "xs",
   "logoFile": "logos/check_123-logo.webp",
-  "websiteUrl": "https://www.check24.de/",
+  "websiteUrl": "http://check123.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000183235",
   "finderId": "check123",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סמולנסקין",
-      "houseNumber": 1,
-      "city": "תל אביב - יפו",
-      "lat": 32.081563,
-      "lon": 34.771122
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

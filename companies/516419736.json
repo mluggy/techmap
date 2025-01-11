@@ -6,11 +6,17 @@
   "logoFile": "logos/viably_capital-logo.webp",
   "websiteUrl": "https://www.runviably.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 77011923,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "viably",
   "xId": null,
+  "facebookId": "runviably",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך אבא הלל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "runviably",
-  "linkedinNum": 77011923
+  "isActive": true
 }

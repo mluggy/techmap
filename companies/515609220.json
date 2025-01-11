@@ -6,21 +6,26 @@
   "logoFile": "logos/nanosynex-logo.webp",
   "websiteUrl": "https://nanosynex.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "nanosynex",
+  "linkedinNum": 22294309,
   "crunchbaseId": null,
+  "ivcId": "A1000000233960",
   "finderId": "nanosynex",
   "xId": "nanosynex",
+  "facebookId": "nanosynex",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן יהודה",
-      "houseNumber": 178,
-      "city": "תל אביב - יפו",
-      "lat": 32.08776,
-      "lon": 34.773482
+      "street": "פנחס ספיר",
+      "houseNumber": 7,
+      "city": "נס ציונה",
+      "lat": 31.9161023,
+      "lon": 34.8038912
     }
   ],
   "isMultinational": false,
-  "facebookId": "nanosynex",
-  "linkedinNum": 22294309
+  "isActive": true
 }

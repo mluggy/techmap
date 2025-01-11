@@ -1,0 +1,31 @@
+{
+  "name": "Helix Aerospace",
+  "description": "Helix Aerospace is building the next generation of industrial drones.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/helix_aerospace-logo.webp",
+  "websiteUrl": "https://helixaerospace.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000331716",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הפורצים",
+      "houseNumber": 5,
+      "city": "ירושלים",
+      "lat": 31.7666722,
+      "lon": 35.21130100000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

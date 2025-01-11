@@ -6,11 +6,17 @@
   "logoFile": "logos/change_healthcare_innovation_israel-logo.webp",
   "websiteUrl": "https://www.changehealthcare.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 960104,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mckesson",
   "xId": "Change_HC",
+  "facebookId": "changehealthcare",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרוקמים",
@@ -20,7 +26,6 @@
       "lon": 34.80060304320986
     }
   ],
-  "isMultinational": true,
-  "facebookId": "changehealthcare",
-  "linkedinNum": 960104
+  "isMultinational": false,
+  "isActive": true
 }

@@ -3,22 +3,29 @@
   "description": "A vaporizer designed specifically for cannabis using water-based technology.",
   "categoryId": 9,
   "size": "xs",
-  "logoFile": "logos/roxx_labs-logo.webp",
+  "logoFile": "logos/roxx-labs-logo.webp",
   "websiteUrl": "https://roxxlabs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "roxxlab",
+  "linkedinNum": 73834998,
   "crunchbaseId": "roxx-labs",
+  "ivcId": "A1000000292674",
   "finderId": "roxx-labs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רמת גבריאל",
+      "street": "התעשייה",
       "houseNumber": 5,
       "city": "מגדל העמק",
-      "lat": 32.68785843541918,
-      "lon": 35.253485737912214
+      "lat": 32.6877704,
+      "lon": 35.2473076
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/maelys_cosmetics-logo.webp",
   "websiteUrl": "https://www.maelyscosmetics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "maelyscosmetics",
+  "linkedinNum": 55057307,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "maelys-cosmetics",
   "xId": null,
+  "facebookId": "MaelysCosmetics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריב\"ל",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062831,
       "lon": 34.782228
     }
   ],
   "isMultinational": false,
-  "facebookId": "MaelysCosmetics",
-  "linkedinNum": 55057307
+  "isActive": true
 }

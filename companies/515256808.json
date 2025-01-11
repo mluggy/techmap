@@ -6,20 +6,26 @@
   "logoFile": "logos/secret_double_octopus-logo.webp",
   "websiteUrl": "https://doubleoctopus.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10259347,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "secret-double-octopus",
   "xId": "double_octopus",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד' רוקח",
       "houseNumber": 97,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.1043282,
       "lon": 34.8088651
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10259347
+  "isActive": true
 }

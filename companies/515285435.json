@@ -6,21 +6,26 @@
   "logoFile": "logos/perception_point-logo.webp",
   "websiteUrl": "https://perception-point.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10230855,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "perception-point",
   "xId": "PerceptionPo1nt",
+  "facebookId": "perceptionpoint",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0654291,
       "lon": 34.7766695
     }
   ],
   "isMultinational": false,
-  "facebookId": "perceptionpoint",
-  "linkedinNum": 10230855
+  "isActive": true
 }

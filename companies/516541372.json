@@ -1,16 +1,22 @@
 {
   "name": "Sustained Therapies",
-  "description": "Antibiotic Alternatives for Bacterial and Viral Diseases",
+  "description": "Sustained Therapies' aim is to reduce humanity's reliance on antibiotics and to develop a simpler, more sustainable way to combat bacterial and viral diseases in livestock aquaculture, pets and in.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/sustained_therapies-logo.webp",
-  "websiteUrl": "https://agchimedes.com/sustained-therapies/",
+  "logoFile": "logos/sustained-therapies-logo.webp",
+  "websiteUrl": "https://sustainedtherapies.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sustained-therapies-ltd",
+  "linkedinNum": 90779261,
   "crunchbaseId": null,
+  "ivcId": "A1000000409808",
   "finderId": "sustained-therapies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פקריס",
@@ -20,5 +26,6 @@
       "lon": 34.8054913
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/sightec_israel-logo.webp",
   "websiteUrl": "https://www.sightec.com/",
   "careersUrl": "https://www.sightec.com/careers/",
-  "isHiring": true,
   "linkedinId": "sightec",
+  "linkedinNum": 3081349,
   "crunchbaseId": "sightec",
+  "ivcId": "A1000000022736",
   "finderId": "sightec",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החרש",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.05865,
-      "lon": 34.784414
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 3081349
+  "isActive": true
 }

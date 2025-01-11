@@ -6,11 +6,17 @@
   "logoFile": "logos/ola_kali-logo.webp",
   "websiteUrl": "https://olaCare.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 19115337,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "ola",
   "xId": null,
+  "facebookId": "OLAUSAINC",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון התבור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "OLAUSAINC",
-  "linkedinNum": 19115337
+  "isActive": true
 }

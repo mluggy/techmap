@@ -6,21 +6,26 @@
   "logoFile": "logos/anzu_virtual_reality_ltd-logo.webp",
   "websiteUrl": "https://www.anzu.io/",
   "careersUrl": "https://www.anzu.io/careers",
-  "isHiring": true,
   "linkedinId": "anzuio",
+  "linkedinNum": 17907575,
   "crunchbaseId": "anzu-io",
+  "ivcId": "A1000000241025",
   "finderId": "anzu",
   "xId": "Anzu_io",
+  "facebookId": "anzu.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לינקולן",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.066035,
-      "lon": 34.782959
+      "street": "שדרות רוטשילד",
+      "houseNumber": 76,
+      "city": "תל אביב-יפו",
+      "lat": 32.0651527,
+      "lon": 34.7769109
     }
   ],
   "isMultinational": false,
-  "facebookId": "anzu.io",
-  "linkedinNum": 17907575
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/borderfree_research_and_development-logo.webp",
   "websiteUrl": "https://www.borderfree.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "borderfree",
+  "linkedinNum": 524954,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "borderfree",
   "xId": "shopborderfree",
+  "facebookId": "borderfree",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 27,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.109707,
       "lon": 34.840481
     }
   ],
   "isMultinational": false,
-  "facebookId": "borderfree",
-  "linkedinNum": 524954
+  "isActive": true
 }

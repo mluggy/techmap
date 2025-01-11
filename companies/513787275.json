@@ -1,0 +1,31 @@
+{
+  "name": "Pomidor",
+  "description": "Pomidor is developing a unique Medical Al cancer recognition system.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/pomidor-logo.webp",
+  "websiteUrl": "https://www.pomidor.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001899",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "לאון בלום",
+      "houseNumber": 44,
+      "city": "חיפה",
+      "lat": 32.7995647,
+      "lon": 35.0008836
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

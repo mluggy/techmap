@@ -1,16 +1,22 @@
 {
   "name": "File X",
-  "description": "Machine Vision Solutions",
+  "description": "Machine Vision Solutions.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/file_x-logo.webp",
   "websiteUrl": "https://www.thefilex.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "file-x-ltd2000",
+  "linkedinNum": 5273264,
   "crunchbaseId": null,
+  "ivcId": "A1000000022418",
   "finderId": "file-x",
   "xId": null,
+  "facebookId": "File-X-Ltd-662827630452504",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "File-X-Ltd-662827630452504",
-  "linkedinNum": 5273264
+  "isActive": true
 }

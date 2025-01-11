@@ -1,26 +1,31 @@
 {
   "name": "EasySend",
-  "description": "Platform for Creating and Optimizing Digital Customer Journeys",
+  "description": "Platform for Creating and Optimizing Digital Customer Journeys.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/easysend-logo.webp",
   "websiteUrl": "https://easysend.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "easysend",
+  "linkedinNum": 10195377,
   "crunchbaseId": null,
+  "ivcId": "A1000000224644",
   "finderId": "easysend",
   "xId": "easy_send",
+  "facebookId": "EasySendSolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קארו יוסף",
+      "street": "יוסף קארו",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
-      "lat": 32.0705553,
-      "lon": 34.7911589
+      "city": "תל אביב-יפו",
+      "lat": 32.0704222,
+      "lon": 34.7912339
     }
   ],
   "isMultinational": false,
-  "facebookId": "EasySendSolutions",
-  "linkedinNum": 10195377
+  "isActive": true
 }

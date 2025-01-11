@@ -1,25 +1,31 @@
 {
   "name": "Moodify",
-  "description": "Software-defined Scents",
-  "categoryId": 12,
+  "description": "Moodify transforms the way scents are made to make better, more effective and sustainable consumer products, making the design and manufacturing faster, more scalable, accurate, cost effective and compliant.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/moodify-logo.webp",
-  "websiteUrl": "https://www.moodify.today",
+  "websiteUrl": "https://www.moodify.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "moodify",
+  "linkedinNum": 14844089,
   "crunchbaseId": null,
+  "ivcId": "A1000000246802",
   "finderId": "moodify",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התע\"ש",
-      "houseNumber": 24,
-      "city": "כפר סבא",
-      "lat": 32.1789899,
-      "lon": 34.9284423
+      "street": "Dvora HaNevi'a Street",
+      "houseNumber": 121,
+      "city": "Tel Aviv-Yafo",
+      "lat": 32.1137985,
+      "lon": 34.8425725
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14844089
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/apono_tech-logo.webp",
   "websiteUrl": "https://www.apono.io/",
   "careersUrl": "https://www.apono.io/careers/",
-  "isHiring": true,
   "linkedinId": "aponoio",
+  "linkedinNum": 78367340,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "apono",
   "xId": "Apono_official",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קארו יוסף",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.070604,
       "lon": 34.790807
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78367340
+  "isActive": true
 }

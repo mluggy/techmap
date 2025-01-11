@@ -1,0 +1,31 @@
+{
+  "name": "Picabook",
+  "description": "Pic-A-Book developed an e-commerce site that is a service for creating picture albums with a hard cover.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/picabook-logo.webp",
+  "websiteUrl": "http://www.picabook.co.il",
+  "careersUrl": null,
+  "linkedinId": "picabook",
+  "linkedinNum": 11481371,
+  "crunchbaseId": null,
+  "ivcId": "A1000000234880",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 8,
+      "city": "תל אביב-יפו",
+      "lat": 32.056144,
+      "lon": 34.7837383
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

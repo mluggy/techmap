@@ -3,14 +3,20 @@
   "description": "Utilizing proteasome dynamics to develop innovative cancer treatments.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/tripod_therapeutics-logo.webp",
+  "logoFile": "logos/tripod-therapeutics-logo.webp",
   "websiteUrl": "https://tripodtherapeutics.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tripod-therapeutics",
+  "linkedinNum": 91017016,
   "crunchbaseId": null,
+  "ivcId": "A1000000460654",
   "finderId": "tripod-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שינדלר אוסקר",
@@ -19,5 +25,7 @@
       "lat": 32.7661991,
       "lon": 35.0153514
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

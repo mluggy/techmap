@@ -1,0 +1,31 @@
+{
+  "name": "Zygo",
+  "description": "Zygo.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/zygo-logo.webp",
+  "websiteUrl": "https://zygo.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000459148",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משה וילנסקי",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.1281406,
+      "lon": 34.8298432
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

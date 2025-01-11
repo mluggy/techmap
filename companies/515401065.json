@@ -1,0 +1,31 @@
+{
+  "name": "DogBase",
+  "description": "DogBase is an operator of an artificial intelligence-powered platform, designed for dog handlers, trainers and K9 teams.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/dogbase-logo.webp",
+  "websiteUrl": "https://www.dogbase.co",
+  "careersUrl": "https://www.dogbase.co/careers",
+  "linkedinId": "dogbase",
+  "linkedinNum": 82987028,
+  "crunchbaseId": null,
+  "ivcId": "A1000000374147",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0716293,
+      "lon": 34.7878885
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

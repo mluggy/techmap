@@ -3,21 +3,29 @@
   "description": "A comprehensive tech solution platform for professional, efficient, and cost-effective building management.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/darimpo_israel-logo.webp",
+  "logoFile": "logos/darimpo-israel-logo.webp",
   "websiteUrl": "https://www.darimpo.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "darimpo",
+  "linkedinNum": 28132621,
   "crunchbaseId": null,
+  "ivcId": "A1000000238451",
   "finderId": "darimpo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גוטליב",
-      "houseNumber": 14,
-      "city": "תל אביב - יפו",
-      "lat": 32.082635,
-      "lon": 34.775406
+      "street": "דיזנגוף",
+      "houseNumber": 324,
+      "city": "תל אביב-יפו",
+      "lat": 32.0959099,
+      "lon": 34.7762691
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

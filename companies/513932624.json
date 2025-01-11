@@ -6,21 +6,26 @@
   "logoFile": "logos/cloudshare-logo.webp",
   "websiteUrl": "https://www.cloudshare.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cloudshare",
+  "linkedinNum": 689670,
   "crunchbaseId": null,
+  "ivcId": "A1000000003273",
   "finderId": "cloudshare",
   "xId": "CloudShare",
+  "facebookId": "CloudShare",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 7,
-      "city": "רמת גן",
-      "lat": 32.0835543,
-      "lon": 34.8042074
+      "street": "יד חרוצים",
+      "houseNumber": 14,
+      "city": "תל אביב-יפו",
+      "lat": 32.0615048,
+      "lon": 34.7833141
     }
   ],
   "isMultinational": false,
-  "facebookId": "CloudShare",
-  "linkedinNum": 689670
+  "isActive": true
 }

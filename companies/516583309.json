@@ -6,11 +6,17 @@
   "logoFile": "logos/apprentai-logo.webp",
   "websiteUrl": "https://www.apprentai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "apprentai",
+  "linkedinNum": 80311417,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "apprentai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יואב",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80311417
+  "isActive": true
 }

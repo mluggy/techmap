@@ -6,20 +6,26 @@
   "logoFile": "logos/pi_cardia-logo.webp",
   "websiteUrl": "https://www.pi-cardia.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pi-cardia",
+  "linkedinNum": 5079787,
   "crunchbaseId": null,
+  "ivcId": "A1000000001745",
   "finderId": "pi-cardia",
   "xId": "Pi_Cardia",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פייקס דוד",
+      "street": "דוד פייקס",
       "houseNumber": 5,
       "city": "רחובות",
-      "lat": 31.9159391,
-      "lon": 34.8103557
+      "lat": 31.9141345,
+      "lon": 34.8089621
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5079787
+  "isActive": true
 }

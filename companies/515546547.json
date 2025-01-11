@@ -1,26 +1,31 @@
 {
   "name": "anydish",
-  "description": "AI-based Nutritional Analysis",
+  "description": "AI-based Nutritional Analysis.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/anydish-logo.webp",
   "websiteUrl": "https://www.anydish.me/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "anydish",
+  "linkedinNum": 7154062,
   "crunchbaseId": null,
+  "ivcId": "A1000000194230",
   "finderId": "anydish",
   "xId": null,
+  "facebookId": "people",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרזנר יחיאל",
-      "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.126916,
-      "lon": 34.80647
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
   "isMultinational": false,
-  "facebookId": "people",
-  "linkedinNum": 7154062
+  "isActive": true
 }

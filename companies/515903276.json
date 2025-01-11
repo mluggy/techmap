@@ -1,16 +1,22 @@
 {
   "name": "OpenDNA",
-  "description": "Using Precision Genomic AI to Predict and Prevent Heart Disease",
+  "description": "Using Precision Genomic AI to Predict and Prevent Heart Disease.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/open_dna-logo.webp",
   "websiteUrl": "https://open-dna.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "open-dna",
+  "linkedinNum": 75003430,
   "crunchbaseId": null,
+  "ivcId": "A1000000350654",
   "finderId": "opendna",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתיב האור",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75003430
+  "isActive": true
 }

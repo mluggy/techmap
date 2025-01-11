@@ -1,23 +1,31 @@
 {
   "name": "Quickcast",
-  "description": "Enabling seamless web video streaming on various popular devices, including Chromecast, AirPlay, DLNA, and Amazon Fire TV.",
+  "description": "QuickCast’s platform enables content creators to develop, publish and manage custom branded television channel applications for popular connected TV and OTT platforms.",
   "categoryId": 8,
-  "size": "xs",
+  "size": "s",
   "logoFile": "logos/quickcast-logo.webp",
-  "websiteUrl": "https://www.quickcast.me/",
+  "websiteUrl": "https://www.quickcast.tv",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "quickcast",
+  "linkedinNum": 13040161,
   "crunchbaseId": null,
+  "ivcId": "A1000000298272",
   "finderId": "quickcast",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התאנה",
-      "houseNumber": 2,
-      "city": "קיסריה",
-      "lat": 32.5055382,
-      "lon": 34.9080167
+      "street": "יהודה הלוי",
+      "houseNumber": 23,
+      "city": "תל אביב-יפו",
+      "lat": 32.0617135,
+      "lon": 34.7707378
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

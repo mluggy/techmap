@@ -6,20 +6,26 @@
   "logoFile": "logos/forconti_medical-logo.webp",
   "websiteUrl": "https://www.forconti-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "forconti",
+  "linkedinNum": 28647160,
   "crunchbaseId": null,
+  "ivcId": "A1000000008093",
   "finderId": "forconti-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תרשיש-פארק התעשייה",
+      "street": "תרשיש פארק התעשייה",
       "houseNumber": 15,
       "city": "קיסריה",
-      "lat": 32.4879599,
-      "lon": 34.9040366
+      "lat": 32.4842899,
+      "lon": 34.9493211
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28647160
+  "isActive": true
 }

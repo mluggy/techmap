@@ -6,11 +6,17 @@
   "logoFile": "logos/lobix_me-logo.webp",
   "websiteUrl": "https://lobix.me/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "lobix-me",
   "xId": null,
+  "facebookId": "Lobixme-109748990684339",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ביאליק",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Lobixme-109748990684339"
+  "isActive": true
 }

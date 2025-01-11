@@ -1,25 +1,31 @@
 {
   "name": "Swimm",
-  "description": "Automatic Code Synchronization Platform",
+  "description": "Automatic Code Synchronization Platform.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/swimm-io.webp",
   "websiteUrl": "https://swimm.io/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "swimm-io",
   "linkedinNum": 30127316,
   "crunchbaseId": null,
+  "ivcId": "A1000000300085",
   "finderId": "swimm-io",
   "xId": "swimm_io",
   "facebookId": "Swimm.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד ניצה",
-      "houseNumber": 16,
-      "city": "נתניה",
-      "lat": 32.338928010117144,
-      "lon": 34.852476775056026
+      "street": "דניאל פריש",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0745707,
+      "lon": 34.7832566
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

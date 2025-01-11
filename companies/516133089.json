@@ -1,16 +1,22 @@
 {
   "name": "TensorLeap",
-  "description": "Deep-learning Development",
+  "description": "Deep-learning Development.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/tensorleap-logo.webp",
   "websiteUrl": "https://tensorleap.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tensorleap",
+  "linkedinNum": 26251098,
   "crunchbaseId": null,
+  "ivcId": "A1000000301005",
   "finderId": "tensorleap",
   "xId": "tensorleap",
+  "facebookId": "TensorLeap-107420070750477",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TensorLeap-107420070750477",
-  "linkedinNum": 26251098
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/hexa_grid-logo.webp",
   "websiteUrl": "https://www.hexa3d.io/",
   "careersUrl": "https://www.hexa3d.io/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "hexa3d",
+  "linkedinNum": 10098278,
   "crunchbaseId": null,
+  "ivcId": "A1000000199107",
   "finderId": "fitix",
   "xId": "hexa3d",
+  "facebookId": "hexa3d.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מבטחים",
+      "street": "דוד ילין",
       "houseNumber": 2,
-      "city": "פתח תקווה",
-      "lat": 32.087326,
-      "lon": 34.8543625
+      "city": "תל אביב-יפו",
+      "lat": 32.0885918,
+      "lon": 34.7834283
     }
   ],
   "isMultinational": false,
-  "facebookId": "hexa3d.io",
-  "linkedinNum": 10098278
+  "isActive": true
 }

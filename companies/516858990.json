@@ -1,23 +1,31 @@
 {
   "name": "Combinable AI",
-  "description": "Customized Enhancement of Antibodies.",
-  "categoryId": 1,
+  "description": "Combinable.",
+  "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/combinable_ai-logo.webp",
-  "websiteUrl": "https://www.combine.ai/",
+  "logoFile": "logos/combinable-ai-logo.webp",
+  "websiteUrl": "http://combinable.ai",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "combinable-ai",
+  "linkedinNum": 100601708,
   "crunchbaseId": null,
+  "ivcId": "A1000000468023",
   "finderId": "combinable-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
       "houseNumber": 4,
-      "city": "רחובות",
-      "lat": 31.9104321,
-      "lon": 34.8058374
+      "city": "תל אביב-יפו",
+      "lat": 32.1188697,
+      "lon": 34.800212
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

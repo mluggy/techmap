@@ -6,20 +6,26 @@
   "logoFile": "logos/qlog_technologies-logo.webp",
   "websiteUrl": "https://www.qlog.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "qlog_co",
+  "linkedinNum": 18178393,
   "crunchbaseId": "qlog-technologies",
+  "ivcId": "A1000000386905",
   "finderId": "qlog-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 6,
-      "city": "בנימינה",
-      "lat": 32.5128454,
-      "lon": 34.9484798
+      "street": "הטחנה",
+      "houseNumber": 64,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5122597,
+      "lon": 34.9493571
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18178393
+  "isActive": true
 }

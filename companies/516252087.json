@@ -6,21 +6,26 @@
   "logoFile": "logos/doxer_medical_technologies-logo.webp",
   "websiteUrl": "https://www.doxer.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "doxerio",
+  "linkedinNum": 66223201,
   "crunchbaseId": null,
+  "ivcId": "A1000000412979",
   "finderId": "doxer-medical-technologies",
   "xId": null,
+  "facebookId": "Doxerio-100613884917440",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית הלל",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.069207,
-      "lon": 34.79132
+      "city": "תל אביב-יפו",
+      "lat": 32.0691839,
+      "lon": 34.7913098
     }
   ],
   "isMultinational": false,
-  "facebookId": "Doxerio-100613884917440",
-  "linkedinNum": 66223201
+  "isActive": true
 }

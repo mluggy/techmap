@@ -1,0 +1,31 @@
+{
+  "name": "Robotoo",
+  "description": "ROBOToo is a medical device manufacturer that develops a platform in the field of dental aesthetics, leveraging the latest robotic and laser technologies.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/robotoo-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000277124",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עגור",
+      "houseNumber": 28,
+      "city": "קיסריה",
+      "lat": 32.5259181,
+      "lon": 34.9105526
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Ola Sense",
+  "description": "Ola develops an A.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/ola_sense-logo.webp",
+  "websiteUrl": "https://ola.ai",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000185117",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 8,
+      "city": "הרצליה",
+      "lat": 32.1665615,
+      "lon": 34.8115137
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

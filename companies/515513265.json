@@ -6,21 +6,26 @@
   "logoFile": "logos/wasteless-logo.webp",
   "websiteUrl": "https://www.wasteless.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wasteless-ltd",
+  "linkedinNum": 13216326,
   "crunchbaseId": null,
+  "ivcId": "A1000000232398",
   "finderId": "wasteless",
   "xId": "wastelessltd",
+  "facebookId": "wastelessltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אליפלט",
       "houseNumber": 26,
-      "city": "תל אביב - יפו",
-      "lat": 32.057708,
-      "lon": 34.764336
+      "city": "תל אביב-יפו",
+      "lat": 32.0576424,
+      "lon": 34.76430089999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "wastelessltd",
-  "linkedinNum": 13216326
+  "isActive": true
 }

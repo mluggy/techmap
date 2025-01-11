@@ -1,0 +1,31 @@
+{
+  "name": "Global1sim",
+  "description": "Global1Sim is bridging GSM roaming with VOIP services, providing all-in-one solution of hosted PBX, SIM cards management and a powerful billing engine.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/global1sim-logo.webp",
+  "websiteUrl": "https://global1sim.com",
+  "careersUrl": null,
+  "linkedinId": "global1sim",
+  "linkedinNum": 33214744,
+  "crunchbaseId": null,
+  "ivcId": "A1000000382409",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אבא הלל סילבר",
+      "houseNumber": null,
+      "city": "ראשון לציון",
+      "lat": 31.984708,
+      "lon": 34.784902
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

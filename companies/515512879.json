@@ -1,26 +1,31 @@
 {
   "name": "Glassix Solutions",
-  "description": "AI-Powered Customer Communication & Messaging Platform",
+  "description": "AI-Powered Customer Communication & Messaging Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/glassix_solutions-logo.webp",
   "websiteUrl": "https://www.glassix.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "glassix",
+  "linkedinNum": 10018093,
   "crunchbaseId": null,
+  "ivcId": "A1000000197404",
   "finderId": "glassix-solutions",
   "xId": null,
+  "facebookId": "GlassixCompany",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החושן",
-      "houseNumber": 25,
-      "city": "שוהם",
-      "lat": 31.9995015,
-      "lon": 34.9456973
+      "street": "הברזל",
+      "houseNumber": 38,
+      "city": "תל אביב-יפו",
+      "lat": 32.1102479,
+      "lon": 34.8426567
     }
   ],
   "isMultinational": false,
-  "facebookId": "GlassixCompany",
-  "linkedinNum": 10018093
+  "isActive": true
 }

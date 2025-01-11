@@ -1,26 +1,31 @@
 {
   "name": "MyPart",
-  "description": "Song Search and Matching Platform",
-  "categoryId": 9,
+  "description": "MyPart is an AI platform 'leapfrogging' song search within the music industry. .",
+  "categoryId": 8,
   "size": "s",
   "logoFile": "logos/mypart-logo.webp",
-  "websiteUrl": "https://www.mypart.com/",
+  "websiteUrl": "https://www.mypart.net",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mypart-ltd.",
+  "linkedinNum": 12903457,
   "crunchbaseId": null,
+  "ivcId": "A1000000023023",
   "finderId": "mypart",
   "xId": "MyPArt",
+  "facebookId": "MyPart",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "איסרליש",
+      "street": "הנחושת",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.071544,
-      "lon": 34.790344
+      "city": "תל אביב-יפו",
+      "lat": 32.1097786,
+      "lon": 34.8392628
     }
   ],
   "isMultinational": false,
-  "facebookId": "MyPart",
-  "linkedinNum": 12903457
+  "isActive": true
 }

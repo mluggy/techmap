@@ -6,11 +6,17 @@
   "logoFile": "logos/hop_a_tour-logo.webp",
   "websiteUrl": "https://hopatour.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 69190695,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "hop-a-tour",
   "xId": "hop_a_tour",
+  "facebookId": "hopatourlive",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איתמר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "hopatourlive",
-  "linkedinNum": 69190695
+  "isActive": true
 }

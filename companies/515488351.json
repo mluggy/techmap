@@ -6,21 +6,26 @@
   "logoFile": "logos/brainvivo-logo.webp",
   "websiteUrl": "https://brainvivo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "brainvivo",
+  "linkedinNum": 10680435,
   "crunchbaseId": null,
+  "ivcId": "A1000000220654",
   "finderId": "brainvivo",
   "xId": null,
+  "facebookId": "Brainvivo-109281284152998",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סמולנסקין",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.081463,
-      "lon": 34.771845
+      "street": "ארלוזורוב",
+      "houseNumber": 111,
+      "city": "תל אביב-יפו",
+      "lat": 32.0844608,
+      "lon": 34.7867992
     }
   ],
   "isMultinational": false,
-  "facebookId": "Brainvivo-109281284152998",
-  "linkedinNum": 10680435
+  "isActive": true
 }

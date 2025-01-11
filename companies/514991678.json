@@ -1,0 +1,31 @@
+{
+  "name": "Moburst",
+  "description": "Moburst is a digital full-service, mobile-first marketing agency that helps companies to scale and become category leaders.",
+  "categoryId": 8,
+  "size": "m",
+  "logoFile": "logos/moburst-logo.webp",
+  "websiteUrl": "https://www.moburst.com",
+  "careersUrl": "https://www.moburst.com/career/",
+  "linkedinId": "moburst",
+  "linkedinNum": 3291960,
+  "crunchbaseId": null,
+  "ivcId": "A1000000024596",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "נתן",
+      "houseNumber": 3,
+      "city": "כפר סבא",
+      "lat": 32.1927186,
+      "lon": 34.8916048
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

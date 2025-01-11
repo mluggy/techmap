@@ -6,21 +6,26 @@
   "logoFile": "logos/neurosteer-logo.webp",
   "websiteUrl": "https://www.neurosteer.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "neurosteerinc",
+  "linkedinNum": 18138139,
   "crunchbaseId": null,
+  "ivcId": "A1000000188661",
   "finderId": "neurosteer",
   "xId": "neurosteer",
+  "facebookId": "Neurosteer",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלוף מגן קלמן",
+      "street": "אלוף קלמן מגן",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.07110345,
-      "lon": 34.78706174292169
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "facebookId": "Neurosteer",
-  "linkedinNum": 18138139
+  "isActive": true
 }

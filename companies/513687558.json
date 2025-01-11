@@ -1,26 +1,31 @@
 {
   "name": "Walletex Microelectronics",
-  "description": "USB Cards and Electronic Security Solutions",
-  "categoryId": 7,
-  "size": "xs",
+  "description": "UNITO mission is bringing innovation into daily life, whether kitchen appliance of other home electric products, UNITO believe that each household should enjoy high quality intelligent products at affordable cost.",
+  "categoryId": 13,
+  "size": "s",
   "logoFile": "logos/walletex_microelectronics-logo.webp",
-  "websiteUrl": "https://walletex.com",
+  "websiteUrl": "https://www.unito-tech.com/en/index.php",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "walletex-microelectronics",
+  "linkedinNum": 2975294,
   "crunchbaseId": "walletex-microelectronics",
+  "ivcId": "A1000000001924",
   "finderId": "walletex-microelectronics",
   "xId": null,
+  "facebookId": "Walletex-Microelectronics-Ltd-542372902462742",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לזרוב",
-      "houseNumber": 33,
+      "street": "משה לוי",
+      "houseNumber": 16,
       "city": "ראשון לציון",
-      "lat": 31.99186435,
-      "lon": 34.775026897137565
+      "lat": 31.9886194,
+      "lon": 34.7743178
     }
   ],
   "isMultinational": false,
-  "facebookId": "Walletex-Microelectronics-Ltd-542372902462742",
-  "linkedinNum": 2975294
+  "isActive": true
 }

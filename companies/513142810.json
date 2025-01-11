@@ -1,25 +1,31 @@
 {
   "name": "TripleCheck",
-  "description": "Centralized Data-monitoring Solution for Enterprises",
+  "description": "Centralized Data-monitoring Solution for Enterprises.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/triplecheck-logo.webp",
   "websiteUrl": "https://www.triple-check.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "triplecheck-ltd-",
+  "linkedinNum": 5077064,
   "crunchbaseId": null,
+  "ivcId": "A1000000184684",
   "finderId": "triplecheck",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קרית עתידים",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.11522056543993,
-      "lon": 34.84294885154274
+      "street": "ברנשטיין",
+      "houseNumber": null,
+      "city": "פתח תקווה",
+      "lat": 32.0950836,
+      "lon": 34.8840292
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 5077064
+  "isActive": true
 }

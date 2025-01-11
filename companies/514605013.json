@@ -6,20 +6,26 @@
   "logoFile": "logos/globaledocs-logo.webp",
   "websiteUrl": "https://www.globaledocs.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2433398,
   "crunchbaseId": null,
+  "ivcId": "A1000000189793",
   "finderId": "globaledocs",
   "xId": "global_edocs",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבי חנינא",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
-      "lat": 32.051814,
-      "lon": 34.754884
+      "city": "תל אביב-יפו",
+      "lat": 32.0518118,
+      "lon": 34.7548822
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2433398
+  "isActive": true
 }

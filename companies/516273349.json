@@ -3,22 +3,29 @@
   "description": "An Israeli start-up leveraging its proprietary platform to enhance public participation and consultation for diverse organizations.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/raizit_participatory_technologies-logo.webp",
+  "logoFile": "logos/raizit-logo.webp",
   "websiteUrl": "https://www.raizit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "raizit",
+  "linkedinNum": 71488157,
   "crunchbaseId": null,
+  "ivcId": "A1000000340700",
   "finderId": "raizit",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הזיתים",
-      "houseNumber": 26,
-      "city": "גבעת שמואל",
-      "lat": 32.0845171,
-      "lon": 34.8522221
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.1135286,
+      "lon": 34.8432083
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

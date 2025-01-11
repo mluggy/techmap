@@ -6,20 +6,26 @@
   "logoFile": "logos/currenge_israel-logo.webp",
   "websiteUrl": "https://currenge.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "currenge",
+  "linkedinNum": 10454087,
   "crunchbaseId": "currenge",
+  "ivcId": "A1000000237093",
   "finderId": "currenge",
   "xId": "Currenge2",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עובדיה",
-      "houseNumber": 23,
+      "street": "קלר",
+      "houseNumber": 7,
       "city": "חיפה",
-      "lat": 32.8135652,
-      "lon": 34.9749413
+      "lat": 32.8020114,
+      "lon": 34.9829078
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10454087
+  "isActive": true
 }

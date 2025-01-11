@@ -6,11 +6,17 @@
   "logoFile": "logos/haama_assets_2007-logo.webp",
   "websiteUrl": "https://www.haama.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "haama-ltd",
+  "linkedinNum": 10058485,
   "crunchbaseId": "haama",
+  "ivcId": null,
   "finderId": "haama",
   "xId": null,
+  "facebookId": "haamagroup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הצורן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "haamagroup",
-  "linkedinNum": 10058485
+  "isActive": true
 }

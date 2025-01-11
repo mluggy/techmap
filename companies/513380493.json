@@ -6,18 +6,26 @@
   "logoFile": "logos/twofold-logo.webp",
   "websiteUrl": "https://twofold.salty-salty-studios.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "twofold",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חפץ חיים",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073678,
       "lon": 34.798837
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

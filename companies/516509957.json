@@ -1,0 +1,31 @@
+{
+  "name": "Alison.ai",
+  "description": "Alison's development involves using deep learning models, trained on large amounts of images and videos to understand the visual elements within companies' creative assets, allowing them to analyze composition, identify objects, evaluate aesthetics and predict how the elements might affect performance.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/alison-ai-logo.webp",
+  "websiteUrl": "https://www.alison.ai",
+  "careersUrl": null,
+  "linkedinId": "alison-ai",
+  "linkedinNum": 76564023,
+  "crunchbaseId": null,
+  "ivcId": "A1000000416264",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הארד",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.111251,
+      "lon": 34.8408105
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

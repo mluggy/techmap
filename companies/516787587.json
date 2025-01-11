@@ -6,11 +6,17 @@
   "logoFile": "logos/recallcue-logo.webp",
   "websiteUrl": "https://www.recallcue.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "recallcue",
+  "linkedinNum": 18114598,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "recallcue",
   "xId": "recallcue",
+  "facebookId": "recallcue",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היסמין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "recallcue",
-  "linkedinNum": 18114598
+  "isActive": true
 }

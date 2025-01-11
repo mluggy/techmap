@@ -1,0 +1,31 @@
+{
+  "name": "Car Adviser",
+  "description": "Car Adviser develops an automotive car industry platform to help people do the entire buying process online in a fast and easy way.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/car-adviser-logo.webp",
+  "websiteUrl": "https://www.caradviser.io",
+  "careersUrl": null,
+  "linkedinId": "car-adviser",
+  "linkedinNum": 12176577,
+  "crunchbaseId": null,
+  "ivcId": "A1000000254776",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הקליר",
+      "houseNumber": 11,
+      "city": "נתניה",
+      "lat": 32.3125584,
+      "lon": 34.86095890000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

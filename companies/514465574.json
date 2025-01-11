@@ -6,21 +6,26 @@
   "logoFile": "logos/ongage-logo.webp",
   "websiteUrl": "https://www.ongage.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ongage",
+  "linkedinNum": 2501312,
   "crunchbaseId": null,
+  "ivcId": "A1000000001093",
   "finderId": "ongage",
   "xId": "OngageConnect",
+  "facebookId": "Ongage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.10981,
-      "lon": 34.838876
+      "city": "תל אביב-יפו",
+      "lat": 32.1097786,
+      "lon": 34.8392628
     }
   ],
   "isMultinational": false,
-  "facebookId": "Ongage",
-  "linkedinNum": 2501312
+  "isActive": true
 }

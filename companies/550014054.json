@@ -1,0 +1,31 @@
+{
+  "name": "AeroMaoz",
+  "description": "AEROMAOZ is a world renowned designer and manufacturer of control panels, multi function displays, grips, lights and night-vision cockpit conversions.",
+  "categoryId": 7,
+  "size": "m",
+  "logoFile": "logos/aeromaoz-logo.webp",
+  "websiteUrl": "http://www.aeromaoz.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000024028",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "Herzl",
+      "houseNumber": 34,
+      "city": "Yavne",
+      "lat": 31.877958,
+      "lon": 34.739449
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

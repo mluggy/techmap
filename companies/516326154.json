@@ -1,0 +1,31 @@
+{
+  "name": "Privya.AI",
+  "description": "Privya is a powerful AI-based platform that continuously scans software source code, as it is written and automatically identifies and maps all of the areas, where personal data is collected, used and stored, including third-party access, providing privacy practitioners with full visibility into data processing practices.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/privya-ai-logo.webp",
+  "websiteUrl": "http://privya.ai",
+  "careersUrl": null,
+  "linkedinId": "privya",
+  "linkedinNum": 71266562,
+  "crunchbaseId": null,
+  "ivcId": "A1000000380643",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יצחק שדה",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0644984,
+      "lon": 34.7913654
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

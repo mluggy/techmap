@@ -1,0 +1,31 @@
+{
+  "name": "Secondre",
+  "description": "Secondre develops an online secondary marketplace for real estate, connecting between owners of fully funded, stable, cash flowing properties, who would like to sell and interested accredited investors.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/secondre-logo.webp",
+  "websiteUrl": "https://secondre.com",
+  "careersUrl": null,
+  "linkedinId": "secondre",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000331341",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הנוטר",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.1205782,
+      "lon": 34.8077014
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

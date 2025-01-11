@@ -6,20 +6,26 @@
   "logoFile": "logos/radsee_technologies-logo.webp",
   "websiteUrl": "https://radsee.com/",
   "careersUrl": "https://radsee.com/job/",
-  "isHiring": true,
   "linkedinId": "radsee",
+  "linkedinNum": 64716702,
   "crunchbaseId": "radsee-herzliya-israel",
+  "ivcId": "A1000000220498",
   "finderId": "radsee",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המלאכה",
-      "houseNumber": 45,
-      "city": "נתניה",
-      "lat": 32.2840942,
-      "lon": 34.8606134
+      "street": "יד חרוצים",
+      "houseNumber": 9,
+      "city": "הרצליה",
+      "lat": 32.1637088,
+      "lon": 34.8087235
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 64716702
+  "isActive": true
 }

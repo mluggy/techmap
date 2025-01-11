@@ -1,16 +1,22 @@
 {
   "name": "Base",
-  "description": "Self-service Marketing and Advertising Tools for B2B Businesses",
+  "description": "Self-service Marketing and Advertising Tools for B2B Businesses.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/base-logo.webp",
   "websiteUrl": "https://base.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "base-clg",
+  "linkedinNum": 18013482,
   "crunchbaseId": null,
+  "ivcId": "A1000000230138",
   "finderId": "crowdvocate",
   "xId": "base_CLG",
+  "facebookId": "crowdvocate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הטחנה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "crowdvocate",
-  "linkedinNum": 18013482
+  "isActive": true
 }

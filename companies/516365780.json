@@ -6,20 +6,26 @@
   "logoFile": "logos/illumex_technologies-logo.webp",
   "websiteUrl": "https://illumex.ai/",
   "careersUrl": "https://illumex.ai/careers-in-generativeai/",
-  "isHiring": true,
   "linkedinId": "illumexai",
+  "linkedinNum": 73216122,
   "crunchbaseId": null,
+  "ivcId": "A1000000366154",
   "finderId": "illumex",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רבי תנחום",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.053179,
-      "lon": 34.755035
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 73216122
+  "isActive": true
 }

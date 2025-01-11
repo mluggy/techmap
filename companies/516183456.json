@@ -1,26 +1,31 @@
 {
   "name": "AKSATA",
-  "description": "Developing affordable agricultural software and IoT devices, AKSATA innovatively streamlines precise material application.",
-  "categoryId": 13,
-  "size": "s",
+  "description": "Agridrones Solutions was established with research and development by identifying needs and developing the solutions.",
+  "categoryId": 15,
+  "size": "xs",
   "logoFile": "logos/aksata_technologies-logo.webp",
-  "websiteUrl": "https://www.aksata360.com/",
+  "websiteUrl": "https://www.agridrones.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "agridrones-solutions-ltd",
+  "linkedinNum": 18645956,
   "crunchbaseId": null,
+  "ivcId": "A1000000268719",
   "finderId": "aksata",
   "xId": "AGRIDRONES1",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
+      "street": "עתיר ידע",
       "houseNumber": 21,
       "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "lat": 32.1611024,
+      "lon": 34.9363919
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 18645956
+  "isActive": true
 }

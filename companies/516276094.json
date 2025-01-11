@@ -1,25 +1,31 @@
 {
   "name": "Oversight",
-  "description": "Augmented-reality Solutions for Emergency Responders",
+  "description": "Augmented-reality Solutions for Emergency Responders.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/oversight.webp",
   "websiteUrl": "https://oversight-ar.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 75101218,
   "crunchbaseId": null,
+  "ivcId": "A1000000418778",
   "finderId": "oversight",
   "xId": null,
   "facebookId": "OversightAR",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פוריה עילית",
-      "houseNumber": 129,
-      "city": "פוריה עילית",
-      "lat": 32.73280838098748,
-      "lon": 35.54596175973343
+      "street": "הירקון",
+      "houseNumber": 41,
+      "city": "בני ברק",
+      "lat": 32.0969463,
+      "lon": 34.8282065
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

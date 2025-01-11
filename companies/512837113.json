@@ -6,11 +6,17 @@
   "logoFile": "logos/edusoft_ltd-logo.webp",
   "websiteUrl": "https://edusoftlearning.com/",
   "careersUrl": "https://edusoftlearning.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "edusoft-ltd",
+  "linkedinNum": 200914,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "edusoft",
   "xId": "edusoftpedagogy",
+  "facebookId": "Edusoft-Learning-126015287502786",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Edusoft-Learning-126015287502786",
-  "linkedinNum": 200914
+  "isActive": true
 }

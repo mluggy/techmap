@@ -6,21 +6,26 @@
   "logoFile": "logos/identa-logo.webp",
   "websiteUrl": "https://www.identa-corp.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "identa-corp",
+  "linkedinNum": 5502338,
   "crunchbaseId": null,
+  "ivcId": "A1000000004310",
   "finderId": "identa",
   "xId": "touchnknow",
+  "facebookId": "TouchandKnow",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בית לחם",
-      "houseNumber": 120,
-      "city": "ירושלים",
-      "lat": 31.7533288,
-      "lon": 35.2187937
+      "street": null,
+      "houseNumber": null,
+      "city": "בית לחם",
+      "lat": 31.7053821,
+      "lon": 35.2024425
     }
   ],
   "isMultinational": false,
-  "facebookId": "TouchandKnow",
-  "linkedinNum": 5502338
+  "isActive": true
 }

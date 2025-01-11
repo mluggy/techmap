@@ -4,20 +4,28 @@
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/genaphora-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "http://www.genaphora.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "genaphora",
+  "linkedinNum": 1573422,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "genaphora",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.106678,
       "lon": 34.836067
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

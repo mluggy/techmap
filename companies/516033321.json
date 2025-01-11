@@ -1,0 +1,31 @@
+{
+  "name": "CamDoc",
+  "description": "CamDoc is developing a mobile app that can diagnose strep throat from a photo taken with the smartphone camera.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/camdoc-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": "camdoc",
+  "linkedinNum": 37896320,
+  "crunchbaseId": null,
+  "ivcId": "A1000000282347",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בר כוכבא",
+      "houseNumber": 21,
+      "city": "בני ברק",
+      "lat": 32.0936962,
+      "lon": 34.8232792
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

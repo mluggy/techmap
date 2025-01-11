@@ -6,21 +6,26 @@
   "logoFile": "logos/water_io-logo.webp",
   "websiteUrl": "https://impacx.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10350539,
   "crunchbaseId": "water-io",
+  "ivcId": "A1000000194257",
   "finderId": "water-io",
   "xId": "water_io",
+  "facebookId": "impacX.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פקריס",
-      "houseNumber": 3,
-      "city": "רחובות",
-      "lat": 31.9119094,
-      "lon": 34.804801
+      "street": "ברגמן",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.981167,
+      "lon": 34.770544
     }
   ],
   "isMultinational": false,
-  "facebookId": "impacX.io",
-  "linkedinNum": 10350539
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/forescout_technologies_israel-logo.webp",
   "websiteUrl": "https://www.forescout.com/",
   "careersUrl": "https://www.forescout.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "forescout-technologies",
+  "linkedinNum": 28895,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "forescout-technologies",
   "xId": "ForeScout",
+  "facebookId": "ForeScoutTechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוטה גור",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ForeScoutTechnologies",
-  "linkedinNum": 28895
+  "isActive": true
 }

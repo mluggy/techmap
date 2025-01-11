@@ -1,0 +1,31 @@
+{
+  "name": "TrialKit",
+  "description": "TrialKit is a developer of a data management platform, intended for legal professionals to represent their clients.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/trialkit-logo.webp",
+  "websiteUrl": "https://www.trialkit.ai",
+  "careersUrl": null,
+  "linkedinId": "trialkitai",
+  "linkedinNum": 103104197,
+  "crunchbaseId": null,
+  "ivcId": "A1000000490072",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרכבת",
+      "houseNumber": 58,
+      "city": "תל אביב-יפו",
+      "lat": 32.0601126,
+      "lon": 34.7823868
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

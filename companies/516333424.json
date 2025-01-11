@@ -6,11 +6,17 @@
   "logoFile": "logos/varolio-logo.webp",
   "websiteUrl": "https://varolio.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "varolio",
+  "linkedinNum": 87386599,
   "crunchbaseId": null,
+  "ivcId": "A1000000428046",
   "finderId": "varolio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נרקיס",
@@ -20,5 +26,6 @@
       "lon": 34.8536084
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

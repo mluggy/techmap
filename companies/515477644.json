@@ -6,13 +6,26 @@
   "logoFile": "logos/yam_pro_energy-logo.webp",
   "websiteUrl": "https://yamproenergy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "yam-pro-energy",
+  "linkedinNum": 29019804,
   "crunchbaseId": null,
+  "ivcId": "A1000000248871",
   "finderId": "yam-pro-energy",
   "xId": "yamproenergy",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "YamProEnergy",
-  "linkedinNum": 29019804
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התע\"ש",
+      "houseNumber": 20,
+      "city": "כפר סבא",
+      "lat": 32.1764778,
+      "lon": 34.9274779
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

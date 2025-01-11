@@ -6,21 +6,26 @@
   "logoFile": "logos/regulus_cyber-logo.webp",
   "websiteUrl": "https://www.regulus.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "regulus-cyber",
+  "linkedinNum": 10305509,
   "crunchbaseId": null,
+  "ivcId": "A1000000220176",
   "finderId": "regulus-cyber",
   "xId": "RegulusCyber",
+  "facebookId": "reguluscyber",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דניה",
-      "houseNumber": 4,
-      "city": "חיפה",
-      "lat": 32.7679191,
-      "lon": 35.0005915
+      "street": "נחום חת",
+      "houseNumber": 5,
+      "city": "טירת כרמל",
+      "lat": 32.7830898,
+      "lon": 34.9594551
     }
   ],
   "isMultinational": false,
-  "facebookId": "reguluscyber",
-  "linkedinNum": 10305509
+  "isActive": true
 }

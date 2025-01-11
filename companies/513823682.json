@@ -6,22 +6,26 @@
   "logoFile": "logos/kenshoo-logo.webp",
   "websiteUrl": "https://skai.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "skaicommerce",
+  "linkedinNum": 167470,
   "crunchbaseId": null,
+  "ivcId": "A1000000007271",
   "finderId": "kenshoo",
   "xId": "skaicommerce",
+  "facebookId": "skaicommerce",
+  "breezyId": null,
+  "comeetId": "skai/22.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הברזל",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.109818,
-      "lon": 34.841254
+      "city": "תל אביב-יפו",
+      "lat": 32.1097344,
+      "lon": 34.8410314
     }
   ],
   "isMultinational": false,
-  "facebookId": "skaicommerce",
-  "linkedinNum": 167470,
-  "comeetId": "skai/22.00A"
+  "isActive": true
 }

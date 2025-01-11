@@ -1,26 +1,31 @@
 {
   "name": "AIO",
-  "description": "Provides advanced technology for banks and non-banks to enhance financial decision-making and create customer profiles for loans and financial products.",
-  "categoryId": 10,
-  "size": "s",
+  "description": "AIO Systems, a world-leader in holistic end-to-end Remote Site Management solutions via AIOT platform, operates worldwide since 2007 with over 95,000 successful sites installations, with an international team of professionals, engineers, software engineers, project managers and implementation experts, working hand in hand with AIO Systems customers to assure their successful network operations 24/7.",
+  "categoryId": 6,
+  "size": "m",
   "logoFile": "logos/aio_a_d_systems-logo.webp",
-  "websiteUrl": "https://www.aio.network/",
+  "websiteUrl": "https://aiosystems.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aio-systems",
+  "linkedinNum": 28918439,
   "crunchbaseId": null,
+  "ivcId": "A1000000009498",
   "finderId": "aio",
   "xId": "aio_identity",
+  "facebookId": "aio.identity",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
       "houseNumber": 5,
-      "city": "יקנעם עילית",
-      "lat": 32.65739155,
-      "lon": 35.09768735
+      "city": "יוקנעם",
+      "lat": 32.6564584,
+      "lon": 35.0949935
     }
   ],
   "isMultinational": false,
-  "facebookId": "aio.identity",
-  "linkedinNum": 28918439
+  "isActive": true
 }

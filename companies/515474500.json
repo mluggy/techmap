@@ -3,22 +3,29 @@
   "description": "Developing innovative real-time water quality monitoring solutions to prevent pollution and ensure public health and safety globally.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/cywat_technologies-logo.webp",
+  "logoFile": "logos/cywat-technologies-logo.webp",
   "websiteUrl": "https://www.cywat-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cywat-technologies",
+  "linkedinNum": 79402661,
   "crunchbaseId": null,
+  "ivcId": "A1000000252406",
   "finderId": "cywat-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מקס ואנה ווב",
+      "street": "רחוב זאב ז'בוטינסקי",
       "houseNumber": null,
-      "city": "רמת גן",
-      "lat": 32.0714472,
-      "lon": 34.8453435
+      "city": "תל אביב-יפו",
+      "lat": 32.087808,
+      "lon": 34.783861
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

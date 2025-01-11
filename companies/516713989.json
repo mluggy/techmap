@@ -6,19 +6,26 @@
   "logoFile": "logos/astria-logo.webp",
   "websiteUrl": "https://www.astria.ai/?ref=upstract.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "astria-ai",
+  "linkedinNum": 90794668,
   "crunchbaseId": null,
+  "ivcId": "A1000000410610",
   "finderId": "astria",
   "xId": "Astria_AI",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.109636,
       "lon": 34.837396
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

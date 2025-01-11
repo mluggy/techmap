@@ -1,16 +1,22 @@
 {
   "name": "Innervue",
-  "description": "Facial Analytics Technology for Interviewers",
+  "description": "Facial Analytics Technology for Interviewers.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/innervue-logo.webp",
   "websiteUrl": "https://www.innervue.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "innervueio",
+  "linkedinNum": 43288449,
   "crunchbaseId": "innervue",
+  "ivcId": "A1000000374120",
   "finderId": "innervue",
   "xId": "innervueio",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קרן קימת לישראל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 43288449
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/datomize-logo.webp",
   "websiteUrl": "https://www.datomize.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "datomize",
+  "linkedinNum": 65015537,
   "crunchbaseId": null,
+  "ivcId": "A1000000313377",
   "finderId": "datomize",
   "xId": "Datomize1",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מקור חיים",
-      "houseNumber": 39,
-      "city": "ירושלים",
-      "lat": 31.7552876,
-      "lon": 35.2119379
+      "street": "הארבעה",
+      "houseNumber": 28,
+      "city": "תל אביב-יפו",
+      "lat": 32.0701276,
+      "lon": 34.7864988
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 65015537
+  "isActive": true
 }

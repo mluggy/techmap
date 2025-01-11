@@ -6,11 +6,17 @@
   "logoFile": "logos/inomize-logo.webp",
   "websiteUrl": "https://www.verisense.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "inomize",
+  "linkedinNum": 907032,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "inomize",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמק זבולון",
@@ -19,5 +25,7 @@
       "lat": 32.1812856,
       "lon": 34.9333691
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/v_check-logo.webp",
   "websiteUrl": "https://v-check.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "v-check-ltd",
+  "linkedinNum": 7968535,
   "crunchbaseId": null,
+  "ivcId": "A1000000219820",
   "finderId": "v-check",
   "xId": null,
+  "facebookId": "VCheckapp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פקיעין",
+      "street": "משה שרת",
       "houseNumber": 6,
-      "city": "רחובות",
-      "lat": 31.8927607,
-      "lon": 34.7733717
+      "city": "ראשון לציון",
+      "lat": 31.9951857,
+      "lon": 34.7510024
     }
   ],
   "isMultinational": false,
-  "facebookId": "VCheckapp",
-  "linkedinNum": 7968535
+  "isActive": true
 }

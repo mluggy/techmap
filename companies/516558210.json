@@ -6,20 +6,26 @@
   "logoFile": "logos/wonder_veggies-logo.webp",
   "websiteUrl": "https://wonderveggies.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wonder-veggies-ltd",
+  "linkedinNum": 85651000,
   "crunchbaseId": null,
+  "ivcId": "A1000000412991",
   "finderId": "wonder-veggies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגפן",
       "houseNumber": 142,
       "city": "רמת השרון",
-      "lat": 32.1296258,
-      "lon": 34.8459482
+      "lat": 32.1276577,
+      "lon": 34.8509361
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 85651000
+  "isActive": true
 }

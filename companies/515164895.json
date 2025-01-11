@@ -1,0 +1,31 @@
+{
+  "name": "Prelysis",
+  "description": "Prelysis is an Integration and consultancy company.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/prelysis-logo.webp",
+  "websiteUrl": "https://www.prelysis.com",
+  "careersUrl": null,
+  "linkedinId": "prelysis",
+  "linkedinNum": 10057298,
+  "crunchbaseId": null,
+  "ivcId": "A1000000216262",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האנרגיה",
+      "houseNumber": 77,
+      "city": "באר שבע",
+      "lat": 31.2632577,
+      "lon": 34.8108598
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

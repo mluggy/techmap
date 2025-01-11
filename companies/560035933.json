@@ -6,20 +6,26 @@
   "logoFile": "logos/mitsubishi_corporation-logo.webp",
   "websiteUrl": "https://www.mitsubishicorp.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mitsubishi-corporation",
+  "linkedinNum": 5393,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mitsubishi-corporation1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ריב\"ל",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062831,
       "lon": 34.782228
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 5393
+  "isMultinational": false,
+  "isActive": true
 }

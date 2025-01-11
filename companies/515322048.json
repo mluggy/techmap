@@ -6,21 +6,26 @@
   "logoFile": "logos/detelix_software_technologies-logo.webp",
   "websiteUrl": "https://www.detelix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10317142,
   "crunchbaseId": null,
+  "ivcId": "A1000000226389",
   "finderId": "detelix-software-technologies",
   "xId": null,
+  "facebookId": "Detelix",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קויפמן יחזקאל",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.063117,
-      "lon": 34.762003
+      "street": null,
+      "houseNumber": null,
+      "city": "הרצליה",
+      "lat": 32.165413,
+      "lon": 34.809752
     }
   ],
   "isMultinational": false,
-  "facebookId": "Detelix",
-  "linkedinNum": 10317142
+  "isActive": true
 }

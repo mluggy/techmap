@@ -1,0 +1,31 @@
+{
+  "name": "Citico",
+  "description": "CitiCo focuses on remote assets data collection and transforming meters into smart meters.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/citico-logo.webp",
+  "websiteUrl": "https://citi-co.com",
+  "careersUrl": null,
+  "linkedinId": "citico-ltd",
+  "linkedinNum": 53136418,
+  "crunchbaseId": null,
+  "ivcId": "A1000000325548",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 13,
+      "city": "לוד",
+      "lat": 31.9695932,
+      "lon": 34.8986951
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

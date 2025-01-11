@@ -3,14 +3,20 @@
   "description": "Shoe-Making Machinery",
   "categoryId": 14,
   "size": "s",
-  "logoFile": "logos/orisol_israel_2001-logo.webp",
+  "logoFile": "logos/orisol-logo.webp",
   "websiteUrl": "https://www.orisol.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "orisol-israel",
+  "linkedinNum": 72403375,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "orisol",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העצמאות",
@@ -20,5 +26,6 @@
       "lon": 34.7433681
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

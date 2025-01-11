@@ -6,20 +6,26 @@
   "logoFile": "logos/radvision.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "radvision",
   "linkedinNum": 7245,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "radvision",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ולנברג ראול",
       "houseNumber": 24,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.11140708305951,
       "lon": 34.83889982809149
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

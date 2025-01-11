@@ -6,18 +6,26 @@
   "logoFile": "logos/coolvoc-logo.webp",
   "websiteUrl": "https://www.coolvoc.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "coolvoc",
+  "linkedinNum": 96391798,
   "crunchbaseId": null,
+  "ivcId": "A1000000454078",
   "finderId": "coolvoc",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זילברמן שאול",
-      "houseNumber": 36,
+      "street": "מוטי קינד",
+      "houseNumber": 2,
       "city": "רחובות",
-      "lat": 31.8849118,
-      "lon": 34.8300248
+      "lat": 31.8933322,
+      "lon": 34.7865317
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

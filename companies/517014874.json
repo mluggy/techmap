@@ -1,0 +1,31 @@
+{
+  "name": "FreelanZ",
+  "description": "FreelanZ develops an application that allows the users find temporary jobs and earn more money in their free time.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/freelanz-logo.webp",
+  "websiteUrl": "https://freelanz.co.il",
+  "careersUrl": null,
+  "linkedinId": "freelanzai",
+  "linkedinNum": 91008266,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491887",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות משה גושן",
+      "houseNumber": 60,
+      "city": "קרית מוצקין",
+      "lat": 32.8287829,
+      "lon": 35.075021
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

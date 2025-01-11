@@ -6,20 +6,26 @@
   "logoFile": "logos/nucleai-logo.webp",
   "websiteUrl": "https://nucleai.ai/",
   "careersUrl": "https://nucleai.ai/careers/",
-  "isHiring": true,
   "linkedinId": "nucleai-ai",
+  "linkedinNum": 25166605,
   "crunchbaseId": null,
+  "ivcId": "A1000000252286",
   "finderId": "nucleai",
   "xId": "nucleai_ai",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 121,
-      "city": "תל אביב - יפו",
-      "lat": 32.072032,
-      "lon": 34.788987
+      "street": "עין זיתים",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.0745236,
+      "lon": 34.7969732
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 25166605
+  "isActive": true
 }

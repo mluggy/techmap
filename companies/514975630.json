@@ -6,11 +6,17 @@
   "logoFile": "logos/sparkbeyond-logo.webp",
   "websiteUrl": "https://www.sparkbeyond.com/",
   "careersUrl": "https://www.sparkbeyond.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "sparkbeyond",
+  "linkedinNum": 3620726,
   "crunchbaseId": null,
+  "ivcId": "A1000000024342",
   "finderId": "sparkbeyond",
   "xId": "sparkbeyond",
+  "facebookId": "sparkbeyond",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המלאכה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "sparkbeyond",
-  "linkedinNum": 3620726
+  "isActive": true
 }

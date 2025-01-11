@@ -6,20 +6,26 @@
   "logoFile": "logos/longevity_ai-logo.webp",
   "websiteUrl": "https://www.longevity-ai.com/",
   "careersUrl": "https://www.longevity-ai.com/Company/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "longevity-ai",
+  "linkedinNum": 76984236,
   "crunchbaseId": null,
+  "ivcId": "A1000000420616",
   "finderId": "longevity-ai",
   "xId": "Longevity_AI",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גלבוע אמיר",
+      "street": "אמיר גלבוע",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.116824,
-      "lon": 34.78768
+      "city": "תל אביב-יפו",
+      "lat": 32.11823270000001,
+      "lon": 34.7881914
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 76984236
+  "isActive": true
 }

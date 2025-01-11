@@ -6,22 +6,26 @@
   "logoFile": "logos/syqe_medical-logo.webp",
   "websiteUrl": "https://syqe.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5347518,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "syqe-medical",
   "xId": null,
+  "facebookId": "syqemedicalisrael",
+  "breezyId": null,
+  "comeetId": "syqe/F1.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התחיה",
       "houseNumber": 14,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.050123,
       "lon": 34.762934
     }
   ],
   "isMultinational": false,
-  "facebookId": "syqemedicalisrael",
-  "linkedinNum": 5347518,
-  "comeetId": "syqe/F1.00C"
+  "isActive": true
 }

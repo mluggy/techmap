@@ -1,26 +1,31 @@
 {
   "name": "DailyRobotics",
-  "description": "Advanced Robotics for Agriculture",
-  "categoryId": 17,
+  "description": "DailyRobotics' farming robot offers a solution to the increasing difficulty of finding and retaining a reliable workforce problem by automating many of the most time-consuming and repetitive tasks on the farm.",
+  "categoryId": 15,
   "size": "xs",
   "logoFile": "logos/dailyrobotics-logo.webp",
-  "websiteUrl": "https://www.dailyrobotics.xyz/",
+  "websiteUrl": "https://www.dailyrobotics.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dailyrobotics",
+  "linkedinNum": 85607849,
   "crunchbaseId": null,
+  "ivcId": "A1000000429762",
   "finderId": "dailyrobotics",
   "xId": "goodrobots",
+  "facebookId": "dailyrobotics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 82,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.823617,
-      "lon": 34.9928356
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
   "isMultinational": false,
-  "facebookId": "dailyrobotics",
-  "linkedinNum": 85607849
+  "isActive": true
 }

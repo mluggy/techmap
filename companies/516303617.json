@@ -6,11 +6,17 @@
   "logoFile": "logos/agado_live-logo.webp",
   "websiteUrl": "https://www.agadolive.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "agado-live",
+  "linkedinNum": 70448647,
   "crunchbaseId": "agado",
+  "ivcId": "A1000000364016",
   "finderId": "agadolive-ltd",
   "xId": null,
+  "facebookId": "agadolive",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "כצנלסון",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "agadolive",
-  "linkedinNum": 70448647
+  "isActive": true
 }

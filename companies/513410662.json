@@ -1,26 +1,31 @@
 {
   "name": "MyHeritage",
-  "description": "Genetic Ancestry Research",
+  "description": "Genetic Ancestry Research.",
   "categoryId": 8,
   "size": "l",
   "logoFile": "logos/myheritage-logo.webp",
   "websiteUrl": "https://www.myheritage.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "myheritage",
+  "linkedinNum": 167538,
   "crunchbaseId": null,
+  "ivcId": "A1000000005053",
   "finderId": "myheritage",
   "xId": "MyHeritage",
+  "facebookId": "myheritage",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שרון אריאל",
+      "street": "אריאל שרון",
       "houseNumber": 3,
-      "city": "אור יהודה",
-      "lat": 32.0219471,
-      "lon": 34.8582471
+      "city": "גבעתיים",
+      "lat": 32.0801135,
+      "lon": 34.8000551
     }
   ],
   "isMultinational": false,
-  "facebookId": "myheritage",
-  "linkedinNum": 167538
+  "isActive": true
 }

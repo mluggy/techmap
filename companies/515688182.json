@@ -6,21 +6,26 @@
   "logoFile": "logos/empirical_hire-logo.webp",
   "websiteUrl": "https://www.empiricalhire.com",
   "careersUrl": "https://empiricalfoods.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 18252070,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "empirical-hire1",
   "xId": null,
+  "facebookId": "EmpiricalHire",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072746,
       "lon": 34.794968
     }
   ],
   "isMultinational": false,
-  "facebookId": "EmpiricalHire",
-  "linkedinNum": 18252070
+  "isActive": true
 }

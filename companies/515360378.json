@@ -1,0 +1,31 @@
+{
+  "name": "ReVamp",
+  "description": "Revamp Medical is dedicated to improving outcomes for patients with acute decompensated heart failure (ADHF) through novel technology, designed to alleviate congestion due to fluid overload.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/revamp-logo.webp",
+  "websiteUrl": "https://www.revampmedical.com",
+  "careersUrl": null,
+  "linkedinId": "revamp-medical",
+  "linkedinNum": 12953721,
+  "crunchbaseId": null,
+  "ivcId": "A1000000219763",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מפי",
+      "houseNumber": 5,
+      "city": "נתניה",
+      "lat": 32.2750288,
+      "lon": 34.8615882
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

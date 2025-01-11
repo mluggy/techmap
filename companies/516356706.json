@@ -1,16 +1,22 @@
 {
   "name": "Engini",
-  "description": "No-Code Workflow Automation Platform",
+  "description": "No-Code Workflow Automation Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/engini_ai-logo.webp",
   "websiteUrl": "https://engini.io/",
   "careersUrl": "https://www.engine.is/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "engini-io",
+  "linkedinNum": 75430440,
   "crunchbaseId": null,
+  "ivcId": "A1000000320870",
   "finderId": "engini",
   "xId": null,
+  "facebookId": "Engini.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנמל",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Engini.io",
-  "linkedinNum": 75430440
+  "isActive": true
 }

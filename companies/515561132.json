@@ -1,26 +1,31 @@
 {
   "name": "Easy",
-  "description": "Search Engine for Local Businesses",
+  "description": "Search Engine for Local Businesses.",
   "categoryId": 9,
   "size": "m",
   "logoFile": "logos/easy_2_success_international-logo.webp",
   "websiteUrl": "https://easy.co.il/en/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "easy.co.il",
+  "linkedinNum": 10291743,
   "crunchbaseId": null,
+  "ivcId": "A1000000023139",
   "finderId": "easy",
   "xId": "easy_coil",
+  "facebookId": "easy.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אורן",
-      "houseNumber": 4,
-      "city": "קריית ים",
-      "lat": 32.8547748,
-      "lon": 35.0685111
+      "street": "לוינסקי",
+      "houseNumber": 39,
+      "city": "תל אביב-יפו",
+      "lat": 32.0599213,
+      "lon": 34.7716146
     }
   ],
   "isMultinational": false,
-  "facebookId": "easy.co.il",
-  "linkedinNum": 10291743
+  "isActive": true
 }

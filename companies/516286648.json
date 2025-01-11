@@ -6,18 +6,26 @@
   "logoFile": "logos/spott_incredibles_technologies-logo.webp",
   "websiteUrl": "https://www.spott.org/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "spott",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תוצרת הארץ",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073172,
       "lon": 34.797489
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

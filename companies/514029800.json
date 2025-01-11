@@ -6,20 +6,26 @@
   "logoFile": "logos/paulee_cleantec-logo.webp",
   "websiteUrl": "https://pauleecleantec.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "paulee-cleantec-ltd",
+  "linkedinNum": 18903516,
   "crunchbaseId": null,
+  "ivcId": "A1000000020483",
   "finderId": "paulee-cleantec",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החילזון",
       "houseNumber": 6,
-      "city": "רמת גן",
-      "lat": 32.0861321,
-      "lon": 34.8040698
+      "city": "בני ברק",
+      "lat": 32.086929,
+      "lon": 34.804449
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18903516
+  "isActive": true
 }

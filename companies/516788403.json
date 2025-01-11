@@ -6,20 +6,26 @@
   "logoFile": "logos/token_security-logo.webp",
   "websiteUrl": "https://www.token.security/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "token-security",
+  "linkedinNum": 87027468,
   "crunchbaseId": null,
+  "ivcId": "A1000000435341",
   "finderId": "token-security-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שלוש",
       "houseNumber": 39,
-      "city": "תל אביב - יפו",
-      "lat": 32.059941,
-      "lon": 34.765666
+      "city": "תל אביב-יפו",
+      "lat": 32.0598997,
+      "lon": 34.7656866
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 87027468
+  "isActive": true
 }

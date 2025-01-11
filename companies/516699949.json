@@ -1,0 +1,31 @@
+{
+  "name": "Supra",
+  "description": "Supra is a medical device startup that is developing an in-office injector for the suprachoroidal space, offering a simple way to deliver drugs effectively, efficiently and safely.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/supra-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": "supramedical-ltd",
+  "linkedinNum": 101962647,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491127",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הקידמה",
+      "houseNumber": 28,
+      "city": "יוקנעם עילית",
+      "lat": 32.665991,
+      "lon": 35.1057015
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

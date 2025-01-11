@@ -3,14 +3,20 @@
   "description": "Vial is a global, full-service CRO delivering faster, more efficient clinical trials for biotech, powered by experienced ClinOps and technology leaders.",
   "categoryId": 12,
   "size": "l",
-  "logoFile": "logos/s_vial_medical-logo.webp",
+  "logoFile": "logos/s-vial-medical-logo.webp",
   "websiteUrl": "https://vial.com/",
   "careersUrl": "https://vial.com/careers/",
-  "isHiring": true,
   "linkedinId": "s-vial",
+  "linkedinNum": 76557251,
   "crunchbaseId": null,
+  "ivcId": "A1000000374698",
   "finderId": "s-vial-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בלפור",
@@ -20,5 +26,6 @@
       "lon": 34.9184619
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

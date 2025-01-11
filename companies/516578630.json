@@ -6,11 +6,17 @@
   "logoFile": "logos/enzymofit-logo.webp",
   "websiteUrl": "https://www.enzymofit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "enzymofit",
+  "linkedinNum": 101231508,
   "crunchbaseId": null,
+  "ivcId": "A1000000421761",
   "finderId": "enzymofit",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שפרעם",
@@ -20,5 +26,6 @@
       "lon": 35.17165190209468
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

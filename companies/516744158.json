@@ -1,25 +1,31 @@
 {
   "name": "Atom Construction",
-  "description": "AI Software for Real-time Construction Supervision",
+  "description": "AI Software for Real-time Construction Supervision.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/atom-construction.webp",
   "websiteUrl": "https://atomconstruction.tech/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "atomconstruction",
   "linkedinNum": 82333480,
   "crunchbaseId": null,
+  "ivcId": "A1000000438458",
   "finderId": "atom-construction",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רומנו",
+      "street": "מרדכי רומנו",
       "houseNumber": 43,
-      "city": "תל אביב - יפו",
-      "lat": 32.12057055948522,
-      "lon": 34.819239695979114
+      "city": "תל אביב-יפו",
+      "lat": 32.1204083,
+      "lon": 34.8192406
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

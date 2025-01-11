@@ -1,24 +1,31 @@
 {
   "name": "White Cyber Knight",
-  "description": "Cyber Risk and Compliance Management for IT/OT/IoT",
+  "description": "Cyber Risk and Compliance Management for IT/OT/IoT.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/white_cyber_knight-logo.webp",
   "websiteUrl": "https://wck-grc.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wck---white-cyber-knight",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000006980",
   "finderId": "white-cyber-knight",
   "xId": "wckltd",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שניאור זלמן",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.0767805,
-      "lon": 34.82055587638732
+      "street": "כינרת",
+      "houseNumber": 15,
+      "city": "בני ברק",
+      "lat": 32.0970371,
+      "lon": 34.82399729999999
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "EventBuzz",
+  "description": "Nuvo Innovative Solutions first developed TixWise an online ticket sales system that tracks the number of registrants and enables online payment collection .",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/eventbuzz-logo.webp",
+  "websiteUrl": "https://eventbuzz.co.il/?lang=en",
+  "careersUrl": null,
+  "linkedinId": "eventbuzz",
+  "linkedinNum": 18096836,
+  "crunchbaseId": null,
+  "ivcId": "A1000000231035",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 114,
+      "city": "תל אביב-יפו",
+      "lat": 32.0727773,
+      "lon": 34.79492
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

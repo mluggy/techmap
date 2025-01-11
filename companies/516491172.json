@@ -6,20 +6,26 @@
   "logoFile": "logos/pickcherry-logo.webp",
   "websiteUrl": "https://www.pickcherry.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pickcherry",
+  "linkedinNum": 79403052,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pickcherry",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן שפרוט",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.08605985,
       "lon": 34.78467970506753
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79403052
+  "isActive": true
 }

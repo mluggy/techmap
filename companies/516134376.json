@@ -6,21 +6,26 @@
   "logoFile": "logos/cyolo_security-logo.webp",
   "websiteUrl": "https://cyolo.io/",
   "careersUrl": "https://cyolo.io/careers",
-  "isHiring": true,
   "linkedinId": "cyolo",
+  "linkedinNum": 26244228,
   "crunchbaseId": null,
+  "ivcId": "A1000000301406",
   "finderId": "cyolo",
   "xId": "cyolo_security",
+  "facebookId": "Cyolo-104079641260872",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן יהודה",
-      "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.081912,
-      "lon": 34.77113
+      "street": "מנחם בגין",
+      "houseNumber": 7,
+      "city": "רמת גן",
+      "lat": 32.092876,
+      "lon": 34.827268
     }
   ],
   "isMultinational": false,
-  "facebookId": "Cyolo-104079641260872",
-  "linkedinNum": 26244228
+  "isActive": true
 }

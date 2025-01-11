@@ -3,14 +3,20 @@
   "description": "Tata Consultancy Services is a global leader in IT services, consulting, and business solutions, delivering transformational technology and digital strategies to clients across diverse industries.",
   "categoryId": 1,
   "size": "l",
-  "logoFile": "logos/tata_consultancy_services-logo.webp",
+  "logoFile": "logos/tata-consultancy-services-logo.webp",
   "websiteUrl": "https://www.tcs.com/",
   "careersUrl": "https://www.tcs.com/careers",
-  "isHiring": true,
   "linkedinId": "tata-consultancy-services",
+  "linkedinNum": 1353,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tata-consultancy-services",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך יצחק רבין",
@@ -20,5 +26,6 @@
       "lon": 34.86179507114961
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

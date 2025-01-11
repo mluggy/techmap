@@ -6,21 +6,26 @@
   "logoFile": "logos/amplication-logo.webp",
   "websiteUrl": "https://amplication.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "amplication",
+  "linkedinNum": 67730467,
   "crunchbaseId": null,
+  "ivcId": "A1000000337430",
   "finderId": "amplication",
   "xId": "amplication",
+  "facebookId": "amplicationcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק שדה",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.065253,
-      "lon": 34.785664
+      "street": "המסגר",
+      "houseNumber": 39,
+      "city": "תל אביב-יפו",
+      "lat": 32.0657506,
+      "lon": 34.7860288
     }
   ],
   "isMultinational": false,
-  "facebookId": "amplicationcom",
-  "linkedinNum": 67730467
+  "isActive": true
 }

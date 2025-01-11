@@ -1,25 +1,31 @@
 {
   "name": "Iluria",
-  "description": "Biomarker-based ADHD Monitoring",
+  "description": "Biomarker-based ADHD Monitoring.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/iluria-logo.webp",
   "websiteUrl": "https://www.iluriahealth.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "iluria-ltd",
+  "linkedinNum": 68774207,
   "crunchbaseId": null,
+  "ivcId": "A1000000282756",
   "finderId": "iluria-ltd1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שמואל הנביא",
       "houseNumber": 42,
       "city": "הוד השרון",
-      "lat": 32.1490298,
-      "lon": 34.8809681
+      "lat": 32.149294,
+      "lon": 34.879688
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68774207
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "FIDO",
-  "description": "Short-term Loans for Underserved Markets",
+  "description": "Short-term Loans for Underserved Markets.",
   "categoryId": 10,
   "size": "m",
   "logoFile": "logos/fido_solutions_israel-logo.webp",
   "websiteUrl": "https://www.fido.money",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "fido-money-lending-ltd",
+  "linkedinNum": 5283549,
   "crunchbaseId": null,
+  "ivcId": "A1000000209889",
   "finderId": "fido",
   "xId": "fidocredit",
+  "facebookId": "fidocredit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.074132,
       "lon": 34.782006
     }
   ],
   "isMultinational": false,
-  "facebookId": "fidocredit",
-  "linkedinNum": 5283549
+  "isActive": true
 }

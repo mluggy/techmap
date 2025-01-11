@@ -1,26 +1,31 @@
 {
   "name": "PUBLC",
-  "description": "Collaborative Content-sharing Platform",
+  "description": "Collaborative Content-sharing Platform.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/livin_media-logo.webp",
   "websiteUrl": "https://publc.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pvblc",
+  "linkedinNum": 10370390,
   "crunchbaseId": "livin-media",
+  "ivcId": "A1000000181648",
   "finderId": "livin-media",
   "xId": "WeArePUBLC",
+  "facebookId": "WeArePUBLC",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 152,
-      "city": "תל אביב - יפו",
-      "lat": 32.079241,
-      "lon": 34.795072
+      "street": "דרך מנחם בגין",
+      "houseNumber": 146,
+      "city": "תל אביב-יפו",
+      "lat": 32.0783301,
+      "lon": 34.7942863
     }
   ],
   "isMultinational": false,
-  "facebookId": "WeArePUBLC",
-  "linkedinNum": 10370390
+  "isActive": true
 }

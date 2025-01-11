@@ -6,11 +6,17 @@
   "logoFile": "logos/shareroute-logo.webp",
   "websiteUrl": "https://shareroute.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "shareroute-ltd",
+  "linkedinNum": 17928639,
   "crunchbaseId": null,
+  "ivcId": "A1000000204652",
   "finderId": "shareroute",
   "xId": "shareroute",
+  "facebookId": "Share-Route-302131820409515",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלעדי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Share-Route-302131820409515",
-  "linkedinNum": 17928639
+  "isActive": true
 }

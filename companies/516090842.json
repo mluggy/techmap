@@ -6,11 +6,17 @@
   "logoFile": "logos/driveu_tech-logo.webp",
   "websiteUrl": "https://driveu.auto/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "driveu-tech",
+  "linkedinNum": 30120271,
   "crunchbaseId": null,
+  "ivcId": "A1000000310885",
   "finderId": "driveu",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התדהר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 30120271
+  "isActive": true
 }

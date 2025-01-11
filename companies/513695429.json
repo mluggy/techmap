@@ -1,24 +1,31 @@
 {
   "name": "Otomedics",
-  "description": "Tympanostomy Tube for Ear Surgery",
+  "description": "Otomedics designed and manufactures an improved designed tympanostomy tube (called also ear tube or ear ventilation tube).",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/otomedics_advanced_medical_technologies-logo.webp",
-  "websiteUrl": "https://cohendv.wixsite.com/otomedics-u-tube",
+  "websiteUrl": "http://cohendv.wix.com/otomedics-u-tube",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "otomedics-advanced-medical-technologies-israel",
+  "ivcId": "A1000000007628",
   "finderId": "otomedics-advanced-medical-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זנגויל",
-      "houseNumber": 1,
+      "street": "חיים נחמן ביאליק",
+      "houseNumber": 8,
       "city": "ירושלים",
-      "lat": 31.76811277156015,
-      "lon": 35.178962945639604
+      "lat": 31.7791881,
+      "lon": 35.1887492
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/callvu-logo.webp",
   "websiteUrl": "https://ficx.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 5350672,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "callvu",
   "xId": "CAllVU_US",
+  "facebookId": "callvu",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האומנים",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.071309,
       "lon": 34.794928
     }
   ],
   "isMultinational": false,
-  "facebookId": "callvu",
-  "linkedinNum": 5350672
+  "isActive": true
 }

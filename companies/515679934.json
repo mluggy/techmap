@@ -3,22 +3,29 @@
   "description": "Dedicated to advancing women's healthcare, the company offers a cutting-edge, minimally invasive surgical solution with its innovative LapBox tissue containment system.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/ark_surgical-logo.webp",
+  "logoFile": "logos/ark-surgical-logo.webp",
   "websiteUrl": "https://ark-surgical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ark-surgical",
+  "linkedinNum": 35545893,
   "crunchbaseId": null,
+  "ivcId": "A1000000274505",
   "finderId": "ark-surgical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
+      "street": "ואדי אל חאג'",
       "houseNumber": 13,
       "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "lat": 32.6900962,
+      "lon": 35.3001352
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

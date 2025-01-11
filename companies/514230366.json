@@ -1,16 +1,22 @@
 {
   "name": "Gix",
-  "description": "Digital Marketing Tools for Small Businesses",
+  "description": "Digital Marketing Tools for Small Businesses.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/gix_media-logo.webp",
   "websiteUrl": "https://www.gix-internet.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "algomizer-ltd",
+  "linkedinNum": 3270625,
   "crunchbaseId": null,
+  "ivcId": "A1000000023689",
   "finderId": "algomizer-ltd",
   "xId": null,
+  "facebookId": "Gix-Innovation-103702541181761",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין מנחם",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Gix-Innovation-103702541181761",
-  "linkedinNum": 3270625
+  "isActive": true
 }

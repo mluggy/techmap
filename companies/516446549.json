@@ -6,20 +6,26 @@
   "logoFile": "logos/yabi_technologies-logo.webp",
   "websiteUrl": "https://www.yabi.cloud/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "yabi-technologies-ltd",
+  "linkedinNum": 84122660,
   "crunchbaseId": null,
+  "ivcId": "A1000000398563",
   "finderId": "yabi-technologies",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך העצמאות",
-      "houseNumber": 45,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.819776250000004,
-      "lon": 34.9988252
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 84122660
+  "isActive": true
 }

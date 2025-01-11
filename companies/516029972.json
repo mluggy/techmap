@@ -3,23 +3,29 @@
   "description": "Interactive Career Simulations.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/tatio_workforce-logo.webp",
+  "logoFile": "logos/tatio-logo.webp",
   "websiteUrl": "https://www.tatio.io",
   "careersUrl": "https://www.reddit.com/r/jobs/comments/v0g4ew/are_tattoos_still_seen_as_unprofessional_to/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "tatiohr",
+  "linkedinNum": 19202203,
   "crunchbaseId": null,
+  "ivcId": "A1000000282949",
   "finderId": "tatio",
   "xId": "Maya_HuberHR",
+  "facebookId": "tatioHR",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בראלי",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.104117,
-      "lon": 34.790283
+      "city": "תל אביב-יפו",
+      "lat": 32.1040858,
+      "lon": 34.7902905
     }
   ],
   "isMultinational": false,
-  "facebookId": "tatioHR"
+  "isActive": true
 }

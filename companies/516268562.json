@@ -6,21 +6,26 @@
   "logoFile": "logos/perun_cloud-logo.webp",
   "websiteUrl": "https://www.perun.cloud/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "perun-cloud",
+  "linkedinNum": 66877079,
   "crunchbaseId": "perun-cloud",
+  "ivcId": "A1000000335737",
   "finderId": "perun",
   "xId": "PerunCloud",
+  "facebookId": "Perun-Cloud-100576812368273",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בני אפרים",
       "houseNumber": 280,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.122857,
       "lon": 34.823922
     }
   ],
   "isMultinational": false,
-  "facebookId": "Perun-Cloud-100576812368273",
-  "linkedinNum": 66877079
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "AAI",
+  "description": "AA-I Technologies is aiming to challenge the foundations of artificial intelligence.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/aai-logo.webp",
+  "websiteUrl": "https://doubleai.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000487286",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "סוקולוב",
+      "houseNumber": 62,
+      "city": "רמת השרון",
+      "lat": 32.1446379,
+      "lon": 34.8383714
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

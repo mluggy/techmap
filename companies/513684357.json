@@ -6,21 +6,26 @@
   "logoFile": "logos/keywee_software-logo.webp",
   "websiteUrl": "https://anyword.com/",
   "careersUrl": "https://keywee.co/careers",
-  "isHiring": true,
   "linkedinId": "getanyword",
+  "linkedinNum": 2704134,
   "crunchbaseId": "keywee",
+  "ivcId": "A1000000020966",
   "finderId": "keywee",
   "xId": "getanyword",
+  "facebookId": "getanyword",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "סוקולוב",
-      "houseNumber": 97,
-      "city": "הרצליה",
-      "lat": 32.16761615,
-      "lon": 34.85034387438384
+      "street": "דרך מנחם בגין",
+      "houseNumber": 144,
+      "city": "תל אביב-יפו",
+      "lat": 32.0768832,
+      "lon": 34.7929994
     }
   ],
   "isMultinational": false,
-  "facebookId": "getanyword",
-  "linkedinNum": 2704134
+  "isActive": true
 }

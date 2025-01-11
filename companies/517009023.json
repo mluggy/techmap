@@ -1,0 +1,31 @@
+{
+  "name": "CortiSight",
+  "description": "CortiSight Medical Ltd.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cortisight-logo.webp",
+  "websiteUrl": "https://cortisight.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000486770",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אירוסים",
+      "houseNumber": 106,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8835453,
+      "lon": 35.0225055
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

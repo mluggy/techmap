@@ -6,11 +6,17 @@
   "logoFile": "logos/quick_mobile-logo.webp",
   "websiteUrl": "https://quik.co.il",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11386238,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "quick",
   "xId": null,
+  "facebookId": "quiksupermarket",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שבזי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "quiksupermarket",
-  "linkedinNum": 11386238
+  "isActive": true
 }

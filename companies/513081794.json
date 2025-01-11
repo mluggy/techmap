@@ -6,20 +6,26 @@
   "logoFile": "logos/sett-life.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "sett-life",
   "linkedinNum": 18264576,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sett-life",
   "xId": null,
   "facebookId": "sett4life",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מעבר יבוק",
       "houseNumber": 5,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.07356012100188,
       "lon": 34.80039446828909
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

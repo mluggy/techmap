@@ -1,26 +1,31 @@
 {
   "name": "Styletech",
-  "description": "AI-generated Models for Fashion Marketing",
+  "description": "AI-generated Models for Fashion Marketing.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/styletech_studio-logo.webp",
   "websiteUrl": "https://styletech.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "styletech-ai",
+  "linkedinNum": 76857209,
   "crunchbaseId": null,
+  "ivcId": "A1000000366790",
   "finderId": "styletech",
   "xId": null,
+  "facebookId": "StyletechAISolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החשמונאים",
       "houseNumber": 103,
-      "city": "תל אביב - יפו",
-      "lat": 32.0696175,
-      "lon": 34.7842349
+      "city": "תל אביב-יפו",
+      "lat": 32.0695959,
+      "lon": 34.784603
     }
   ],
   "isMultinational": false,
-  "facebookId": "StyletechAISolutions",
-  "linkedinNum": 76857209
+  "isActive": true
 }

@@ -3,14 +3,20 @@
   "description": "Eco-friendly Solutions for Intelligent Urban Areas.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/bio_shade-logo.webp",
+  "logoFile": "logos/bio-shade-logo.webp",
   "websiteUrl": "https://bioshades.bio/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "bioshade",
+  "linkedinNum": 71352910,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bioshade",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
@@ -19,5 +25,7 @@
       "lat": 32.6270669,
       "lon": 35.327524
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

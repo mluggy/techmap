@@ -1,17 +1,22 @@
 {
   "name": "D-Fend Solutions",
-  "description": "Counter-Drone Takeover Solution",
+  "description": "Counter-Drone Takeover Solution.",
   "categoryId": 3,
   "size": "m",
   "logoFile": "logos/d-fend.webp",
   "websiteUrl": "https://www.d-fendsolutions.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "d-fend-solutions",
   "linkedinNum": 17915504,
   "crunchbaseId": null,
+  "ivcId": "A1000000234829",
   "finderId": "d-fend",
   "xId": "FendSolutions",
   "facebookId": "DFendSolutions",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": "d-fendsolutions",
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -22,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinId": "d-fend-solutions",
-  "leverId": "d-fendsolutions"
+  "isActive": true
 }

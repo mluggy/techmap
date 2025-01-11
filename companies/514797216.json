@@ -6,21 +6,26 @@
   "logoFile": "logos/playbuzz.webp",
   "websiteUrl": "https://ex.co/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 26506937,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "playbuzz",
   "xId": "excoplatform",
   "facebookId": "excoplatform",
+  "breezyId": null,
+  "comeetId": "exco/F0.005",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלוף מגן קלמן",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.04876857236323,
       "lon": 34.79308989374066
     }
   ],
   "isMultinational": false,
-  "comeetId": "exco/F0.005"
+  "isActive": true
 }

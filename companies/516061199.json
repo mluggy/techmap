@@ -1,26 +1,31 @@
 {
   "name": "GeTruck",
-  "description": "Online Platform for Finding Available Freight Trucks",
-  "categoryId": 5,
+  "description": "GeTruck is a developer of digital forwarding platform, designed to connect shippers and carriers.",
+  "categoryId": 18,
   "size": "s",
   "logoFile": "logos/getruck-logo.webp",
-  "websiteUrl": "https://www.getruck.co.il/",
+  "websiteUrl": "https://www.getruck.co",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "getruck-ltd",
+  "linkedinNum": 69688764,
   "crunchbaseId": null,
+  "ivcId": "A1000000310725",
   "finderId": "getruck",
   "xId": null,
+  "facebookId": "GetruckIL",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עתירי ידע",
-      "houseNumber": 21,
+      "street": "התע\"ש",
+      "houseNumber": 20,
       "city": "כפר סבא",
-      "lat": 32.1666204,
-      "lon": 34.9281644
+      "lat": 32.1764778,
+      "lon": 34.9274779
     }
   ],
   "isMultinational": false,
-  "facebookId": "GetruckIL",
-  "linkedinNum": 69688764
+  "isActive": true
 }

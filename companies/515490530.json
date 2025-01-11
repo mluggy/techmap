@@ -6,21 +6,26 @@
   "logoFile": "logos/airscort-logo.webp",
   "websiteUrl": "https://www.airscort.me/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 9357324,
   "crunchbaseId": null,
+  "ivcId": "A1000000191703",
   "finderId": "airscort",
   "xId": "Airscort_me",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חושן",
-      "houseNumber": 2,
-      "city": "מפעלי נחם הר טוב",
-      "lat": 31.770203374534503,
-      "lon": 34.99303373360432
+      "street": "יעקב שרייבום",
+      "houseNumber": 26,
+      "city": "ירושלים",
+      "lat": 31.7691587,
+      "lon": 35.1937099
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 9357324
+  "isActive": true
 }

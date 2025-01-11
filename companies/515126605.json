@@ -1,0 +1,31 @@
+{
+  "name": "Saito Tech",
+  "description": "Saito is a new kind of blockchain designed to process terabytes of data every day, enough to decentralize everything from small scale services such as micro-payments, to mass-scale platforms like email and social networks.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/saito_tech-logo.webp",
+  "websiteUrl": "https://saito.tech",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000275020",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הארבעה",
+      "houseNumber": 21,
+      "city": "תל אביב-יפו",
+      "lat": 32.0704496,
+      "lon": 34.7870971
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

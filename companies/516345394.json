@@ -6,20 +6,26 @@
   "logoFile": "logos/followear-logo.webp",
   "websiteUrl": "https://followear.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "followear",
+  "linkedinNum": 79058838,
   "crunchbaseId": null,
+  "ivcId": "A1000000378962",
   "finderId": "followear",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן יוסף שלמה",
+      "street": "שלמה בן יוסף",
       "houseNumber": 11,
-      "city": "תל אביב - יפו",
-      "lat": 32.124632,
-      "lon": 34.79739
+      "city": "תל אביב-יפו",
+      "lat": 32.1245361,
+      "lon": 34.7981332
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79058838
+  "isActive": true
 }

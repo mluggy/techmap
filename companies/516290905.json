@@ -6,19 +6,26 @@
   "logoFile": "logos/genopore-logo.webp",
   "websiteUrl": "https://www.genopore.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "genopore",
+  "linkedinNum": 101534128,
   "crunchbaseId": null,
+  "ivcId": "A1000000426750",
   "finderId": "genopore",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שרת משה",
-      "houseNumber": 13,
-      "city": "רמת גן",
-      "lat": 32.0857592,
-      "lon": 34.8184245
+      "street": "הקישון",
+      "houseNumber": 18,
+      "city": "יבנה",
+      "lat": 31.8864489,
+      "lon": 34.7324082
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

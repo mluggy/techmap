@@ -6,21 +6,26 @@
   "logoFile": "logos/viisights_solutions-logo.webp",
   "websiteUrl": "https://www.viisights.com/",
   "careersUrl": "https://www.viisights.com/news/career/",
-  "isHiring": true,
   "linkedinId": "viisights",
+  "linkedinNum": 9483843,
   "crunchbaseId": "viisights",
+  "ivcId": null,
   "finderId": "viisights",
   "xId": "viisights",
+  "facebookId": "viisights",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנחושת",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.10981,
       "lon": 34.838876
     }
   ],
   "isMultinational": false,
-  "facebookId": "viisights",
-  "linkedinNum": 9483843
+  "isActive": true
 }

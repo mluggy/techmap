@@ -1,23 +1,31 @@
 {
   "name": "Wiv Club",
-  "description": "Focused on enhancing public health, agriculture, sustainable development, and safety strategies.",
-  "categoryId": 17,
+  "description": "Wiv.Club develops tools that build thriving communities in an array of sectors and improve happiness, wellbeing, and productivity.",
+  "categoryId": 18,
   "size": "xs",
-  "logoFile": "logos/wiv_club-logo.webp",
-  "websiteUrl": "https://english.whiov.cas.cn/",
+  "logoFile": "logos/wiv-club-logo.webp",
+  "websiteUrl": "https://www.wiv.club",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "wiv-club",
+  "linkedinNum": 18911438,
   "crunchbaseId": null,
+  "ivcId": "A1000000323216",
   "finderId": "wiv",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השלושה",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617382,
-      "lon": 34.7882304
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

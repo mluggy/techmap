@@ -1,25 +1,31 @@
 {
   "name": "Botika",
-  "description": "Reinventing Fashion Photoshoots with Generative AI",
+  "description": "Reinventing Fashion Photoshoots with Generative AI.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/botika_e_y-logo.webp",
   "websiteUrl": "https://botika.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "botika-io",
+  "linkedinNum": 53084553,
   "crunchbaseId": null,
+  "ivcId": "A1000000362167",
   "finderId": "botika",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בן יהודה",
       "houseNumber": 99,
-      "city": "תל אביב - יפו",
-      "lat": 32.0837038,
-      "lon": 34.7716714
+      "city": "תל אביב-יפו",
+      "lat": 32.0836088,
+      "lon": 34.7716378
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 53084553
+  "isActive": true
 }

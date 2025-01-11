@@ -6,11 +6,17 @@
   "logoFile": "logos/commusicator_ltd-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "commusicator",
+  "ivcId": "A1000000227759",
   "finderId": "commusicator",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מבצע דקל",
@@ -19,5 +25,7 @@
       "lat": 32.0923365,
       "lon": 34.8712266
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

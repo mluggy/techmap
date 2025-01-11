@@ -6,20 +6,26 @@
   "logoFile": "logos/itochu.webp",
   "websiteUrl": "https://www.itochu.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "itochu",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קויפמן יחזקאל",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063207414821505,
       "lon": 34.76191547660968
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

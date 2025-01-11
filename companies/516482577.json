@@ -6,18 +6,26 @@
   "logoFile": "logos/neomare-logo.webp",
   "websiteUrl": "https://neo-mare.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "neo-mare",
+  "linkedinNum": 88421998,
   "crunchbaseId": null,
+  "ivcId": "A1000000438947",
   "finderId": "neomare",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך השדות",
-      "houseNumber": 18,
+      "street": null,
+      "houseNumber": null,
       "city": "כפר הס",
-      "lat": 32.2426334,
-      "lon": 34.9296224
+      "lat": 32.247721,
+      "lon": 34.935137
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

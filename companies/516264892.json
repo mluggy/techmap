@@ -1,16 +1,22 @@
 {
   "name": "Ekron Software",
-  "description": "Cyber Network Monitoring",
+  "description": "Ekron brings point solutions that usually focuses on benefits with little attention paid to cyber risks to work together in one secure platform.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/ekron_software-logo.webp",
-  "websiteUrl": "https://www.ekron.co/",
+  "websiteUrl": "https://www.ekronwide.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "ekron-smart-city-cyber",
+  "linkedinNum": 42145528,
   "crunchbaseId": null,
+  "ivcId": "A1000000337918",
   "finderId": "ekron-sortware-ltd",
   "xId": null,
+  "facebookId": "Ekron.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתיב השיירות",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Ekron.co.il",
-  "linkedinNum": 42145528
+  "isActive": true
 }

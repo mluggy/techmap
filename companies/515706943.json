@@ -1,0 +1,31 @@
+{
+  "name": "Zalirian",
+  "description": "Zalirian operates in the field of industrial automation robotics.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/zalirian-logo.webp",
+  "websiteUrl": "https://zalirian.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000486046",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "היצירה",
+      "houseNumber": 21,
+      "city": "רמת גן",
+      "lat": 32.0863502,
+      "lon": 34.8020317
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

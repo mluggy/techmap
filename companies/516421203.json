@@ -1,16 +1,22 @@
 {
   "name": "RNAble",
-  "description": "Modulating RNA Epitranscriptomics",
+  "description": "RNAble is developing novel compounds that alter RNA stability through modulation of RNA epitranscriptomics for the treatment of specific cancers and rare genetic diseases with nonsense mutations.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/rnable-logo.webp",
-  "websiteUrl": "https://www.futurx.co.il/portfolio/rnable/",
-  "careersUrl": "https://enable.com/careers",
-  "isHiring": true,
+  "websiteUrl": "http://rnable-tx.com",
+  "careersUrl": null,
   "linkedinId": "rnable",
+  "linkedinNum": 87382936,
   "crunchbaseId": null,
+  "ivcId": "A1000000400839",
   "finderId": "rnable",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 87382936
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "OpenWeb",
+  "description": "OpenWeb is an engagement & community platform for the world’s most important players in digital media.",
+  "categoryId": 6,
+  "size": "l",
+  "logoFile": "logos/openweb-logo.webp",
+  "websiteUrl": "https://www.openweb.com",
+  "careersUrl": "https://www.openweb.com/careers/",
+  "linkedinId": "openwebhq",
+  "linkedinNum": 2506872,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001390",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

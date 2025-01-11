@@ -6,11 +6,17 @@
   "logoFile": "logos/aiola-logo.webp",
   "websiteUrl": "https://aiola.com/",
   "careersUrl": "https://aiola.com/careers/",
-  "isHiring": true,
   "linkedinId": "aiola",
+  "linkedinNum": 30126466,
   "crunchbaseId": null,
+  "ivcId": "A1000000307139",
   "finderId": "aiola",
   "xId": "_aiola",
+  "facebookId": "aiOlaLoop",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד אבא אבן",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "aiOlaLoop"
+  "isActive": true
 }

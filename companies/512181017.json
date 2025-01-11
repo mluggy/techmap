@@ -6,12 +6,17 @@
   "logoFile": "logos/mis-implants-technologies.webp",
   "websiteUrl": "https://www.mis-implants.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "mis-implants-technologies-ltd-",
   "linkedinNum": 554547,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "mis-implants-technologies",
   "xId": "MISimplantsGlob",
   "facebookId": "MisImplantsTechnologiesLtdGlobal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -21,5 +26,6 @@
       "lon": 35.19948531681993
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

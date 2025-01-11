@@ -1,0 +1,31 @@
+{
+  "name": "Folocard",
+  "description": "Folocard is a mobile template engine, which includes the business card scanner feature. It helps to make sure the users follow up when they meet new people.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/folocard-logo.webp",
+  "websiteUrl": "https://www.folocard.com",
+  "careersUrl": null,
+  "linkedinId": "folocard",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000291927",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "פרישמן",
+      "houseNumber": 15,
+      "city": "תל אביב-יפו",
+      "lat": 32.0799804,
+      "lon": 34.7695037
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

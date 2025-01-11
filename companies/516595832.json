@@ -6,20 +6,26 @@
   "logoFile": "logos/ironblocks-logo.webp",
   "websiteUrl": "https://www.ironblocks.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ironblocks",
+  "linkedinNum": 86776606,
   "crunchbaseId": null,
+  "ivcId": "A1000000421124",
   "finderId": "ironblocks",
   "xId": "Ironblocks_",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "שדרות מנחם בגין",
       "houseNumber": 37,
-      "city": "תל אביב - יפו",
-      "lat": 32.065894,
-      "lon": 34.782836578499996
+      "city": "אור יהודה",
+      "lat": 32.0278776,
+      "lon": 34.8555995
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86776606
+  "isActive": true
 }

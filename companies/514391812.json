@@ -1,0 +1,31 @@
+{
+  "name": "DOGTV",
+  "description": "DOGTV is the first TV channel for dogs.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/dogtv-logo.webp",
+  "websiteUrl": "https://dogtv.com",
+  "careersUrl": "https://www.dogtv.com/careers",
+  "linkedinId": "dogtv.com-networks",
+  "linkedinNum": 503755,
+  "crunchbaseId": null,
+  "ivcId": "A1000000199537",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוקח",
+      "houseNumber": 101,
+      "city": "תל אביב-יפו",
+      "lat": 32.1064109,
+      "lon": 34.8100852
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

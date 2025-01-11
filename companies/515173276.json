@@ -3,13 +3,29 @@
   "description": "KiDEO merges fun and creativity to craft transformative educational experiences that inspire growth in children.",
   "categoryId": 11,
   "size": "s",
-  "logoFile": "logos/kideo_tech-logo.webp",
+  "logoFile": "logos/kideo-tech-logo.webp",
   "websiteUrl": "https://kideo.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kideo-tech",
+  "linkedinNum": 42109319,
   "crunchbaseId": null,
+  "ivcId": "A1000000302470",
   "finderId": "kideo",
   "xId": null,
-  "addresses": []
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "טמרה",
+      "lat": 32.8552512,
+      "lon": 35.1859141
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

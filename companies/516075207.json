@@ -1,25 +1,31 @@
 {
   "name": "TrueDiscussion",
-  "description": "Safe Collaborative Discussion Platform",
+  "description": "Safe Collaborative Discussion Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/true_discussion-logo.webp",
   "websiteUrl": "https://www.truediscussion.org",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "truediscussion",
+  "linkedinNum": 42790567,
   "crunchbaseId": null,
+  "ivcId": "A1000000335614",
   "finderId": "truediscussion",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נחל יעלים מ\"ר",
+      "street": "רחוב נחל יעלים",
       "houseNumber": 868,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.884672560096273,
-      "lon": 35.03229823994393
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8845434,
+      "lon": 35.0322741
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 42790567
+  "isActive": true
 }

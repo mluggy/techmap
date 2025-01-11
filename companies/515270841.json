@@ -6,11 +6,17 @@
   "logoFile": "logos/pagewiz-logo.webp",
   "websiteUrl": "https://www.pagewiz.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 4984110,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pagewiz",
   "xId": "pagewiz_app",
+  "facebookId": "pagewiz",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יעקב רוזן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pagewiz",
-  "linkedinNum": 4984110
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/verint-logo.webp",
   "websiteUrl": "https://www.verint.com/",
   "careersUrl": "https://www.verint.com/careers/",
-  "isHiring": true,
   "linkedinId": "verint",
+  "linkedinNum": 3667,
   "crunchbaseId": "verint",
+  "ivcId": null,
   "finderId": "verint-systems",
   "xId": "Verint",
+  "facebookId": "verint",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריה שנקר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "verint",
-  "linkedinNum": 3667
+  "isActive": true
 }

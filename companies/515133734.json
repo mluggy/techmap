@@ -1,0 +1,31 @@
+{
+  "name": "PayKey",
+  "description": "PayKey enables banks, telcos, and mobile wallets to offer their customers instant access to a variety of financial services, including P2P payments, balance check, top-ups and more - from within ANY mobile app, including all social and messaging apps.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/paykey-logo.webp",
+  "websiteUrl": "https://www.paykey.com",
+  "careersUrl": "https://paykey.com/career/",
+  "linkedinId": "paykey",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000183856",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "טברסקי",
+      "houseNumber": 9,
+      "city": "תל אביב-יפו",
+      "lat": 32.0659152,
+      "lon": 34.7888374
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

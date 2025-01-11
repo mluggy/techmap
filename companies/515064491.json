@@ -6,21 +6,26 @@
   "logoFile": "logos/seismicai-logo.webp",
   "websiteUrl": "https://seismicai.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "seismicai",
+  "linkedinNum": 24774666,
   "crunchbaseId": null,
+  "ivcId": "A1000000241448",
   "finderId": "seismicai",
   "xId": "SeismicAi#",
+  "facebookId": "SeismicAI",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "street": "יגאל אלון",
+      "houseNumber": 120,
+      "city": "תל אביב-יפו",
+      "lat": 32.0737482,
+      "lon": 34.7953709
     }
   ],
   "isMultinational": false,
-  "facebookId": "SeismicAI",
-  "linkedinNum": 24774666
+  "isActive": true
 }

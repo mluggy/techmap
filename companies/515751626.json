@@ -6,20 +6,26 @@
   "logoFile": "logos/intellact_u_s-logo.webp",
   "websiteUrl": "https://www.intell-act.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "intellact",
+  "linkedinNum": 27175538,
   "crunchbaseId": "intellact",
+  "ivcId": "A1000000300835",
   "finderId": "intellact",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות דם המכבים",
-      "houseNumber": 28,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.905411899999997,
-      "lon": 35.005662165798086
+      "street": "דרך חברון",
+      "houseNumber": 24,
+      "city": "ירושלים",
+      "lat": 31.7670343,
+      "lon": 35.2258017
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 27175538
+  "isActive": true
 }

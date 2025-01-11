@@ -6,11 +6,17 @@
   "logoFile": "logos/nuance_communications_israel-logo.webp",
   "websiteUrl": "https://www.nuance.com/",
   "careersUrl": "https://www.nuance.com/about-us/careers.html",
-  "isHiring": true,
   "linkedinId": "nuance-communications",
+  "linkedinNum": 3719,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nuance-communications",
   "xId": "nuanceinc",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -20,6 +26,6 @@
       "lon": 34.8987146
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 3719
+  "isMultinational": false,
+  "isActive": true
 }

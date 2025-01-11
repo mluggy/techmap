@@ -6,21 +6,26 @@
   "logoFile": "logos/radgreen-logo.webp",
   "websiteUrl": "https://radgreen.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "radgreen",
+  "linkedinNum": 9176365,
   "crunchbaseId": null,
+  "ivcId": "A1000000021742",
   "finderId": "radgreen",
   "xId": null,
+  "facebookId": "RadGreen.Analytics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מנדס",
-      "houseNumber": 69,
-      "city": "רמת גן",
-      "lat": 32.0505477,
-      "lon": 34.8422027
+      "street": "דבורה הנביאה",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.1135286,
+      "lon": 34.8432083
     }
   ],
   "isMultinational": false,
-  "facebookId": "RadGreen.Analytics",
-  "linkedinNum": 9176365
+  "isActive": true
 }

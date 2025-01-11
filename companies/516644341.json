@@ -1,25 +1,31 @@
 {
   "name": "QualiSense",
-  "description": "Providing a high-speed, scalable, and accessible AI platform for improving production quality assurance through enhanced machine learning.",
-  "categoryId": 1,
+  "description": "QualiSense is a developer of autonomous inspection system, designed to reduce the cost of human error in quality inspection.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/qualisense_analytics_a_s-logo.webp",
-  "websiteUrl": "https://qualisense.ai/",
+  "websiteUrl": "https://qualisense.ai",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "qualisenseai",
+  "linkedinNum": 86413112,
   "crunchbaseId": null,
+  "ivcId": "A1000000367047",
   "finderId": "qualisense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אולפן קיבוץ",
-      "houseNumber": 1,
-      "city": "נען",
-      "lat": 31.88726342555026,
-      "lon": 34.859551373072144
+      "street": "יגאל אלון",
+      "houseNumber": 126,
+      "city": "תל אביב-יפו",
+      "lat": 32.0744198,
+      "lon": 34.7956552
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86413112
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Paytag",
+  "description": "Paytag allows the users to purchase clothes in a store by scanning the buzzer on the garment with your phone, paying in a dedicated app and removing the buzzer yourself after attaching it to a small machine.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/paytag-logo.webp",
+  "websiteUrl": "https://paytagapp.com",
+  "careersUrl": null,
+  "linkedinId": "paytagapp",
+  "linkedinNum": 101345260,
+  "crunchbaseId": null,
+  "ivcId": "A1000000494546",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ארלוזורוב",
+      "houseNumber": 3,
+      "city": "כפר סבא",
+      "lat": 32.1715093,
+      "lon": 34.90168370000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Addressable",
+  "description": "Addressable is an operator of web3 marketing platform, intended for getting returns for marketing campaigns.",
+  "categoryId": 8,
+  "size": "s",
+  "logoFile": "logos/addressable-logo.webp",
+  "websiteUrl": "https://www.addressable.io",
+  "careersUrl": "https://www.addressable.io/careers",
+  "linkedinId": "addressableio",
+  "linkedinNum": 85633485,
+  "crunchbaseId": null,
+  "ivcId": "A1000000394339",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הירקון",
+      "houseNumber": 323,
+      "city": "תל אביב-יפו",
+      "lat": 32.0969107,
+      "lon": 34.7746092
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

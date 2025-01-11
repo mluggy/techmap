@@ -6,20 +6,26 @@
   "logoFile": "logos/innohale_therapeutics-logo.webp",
   "websiteUrl": "https://www.innohale.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "innohale-therapeutics",
+  "linkedinNum": 72710330,
   "crunchbaseId": null,
+  "ivcId": "A1000000349673",
   "finderId": "innohale-therapeutics",
   "xId": "InnohaleT",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הברזל",
-      "houseNumber": 32,
-      "city": "תל אביב - יפו",
-      "lat": 32.1103013,
-      "lon": 34.8420657
+      "street": "ארלוזורוב",
+      "houseNumber": 111,
+      "city": "תל אביב-יפו",
+      "lat": 32.0844608,
+      "lon": 34.7867992
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72710330
+  "isActive": true
 }

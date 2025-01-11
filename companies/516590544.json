@@ -1,24 +1,31 @@
 {
   "name": "Remondo",
-  "description": "High-resolution Imaging Solution",
+  "description": "High-resolution Imaging Solution.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/remondo-logo.webp",
   "websiteUrl": "https://remondo.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "remondo",
+  "linkedinNum": 88068157,
   "crunchbaseId": null,
+  "ivcId": "A1000000391500",
   "finderId": "remondo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צור",
-      "houseNumber": 8,
-      "city": "צור יגאל",
-      "lat": 32.2187395,
-      "lon": 34.9835317
+      "street": "מוצא",
+      "houseNumber": 6,
+      "city": "רמת גן",
+      "lat": 32.0733803,
+      "lon": 34.8259616
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

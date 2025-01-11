@@ -6,21 +6,26 @@
   "logoFile": "logos/wilco_tech-logo.webp",
   "websiteUrl": "https://www.trywilco.com/",
   "careersUrl": "https://www.forbes.com/sites/frederickdaso/2022/06/20/wilco-raises-7m-to-help-software-developers-up-skill-their-careers/",
-  "isHiring": true,
   "linkedinId": "trywilco",
+  "linkedinNum": 71218876,
   "crunchbaseId": null,
+  "ivcId": "A1000000380502",
   "finderId": "wilco-tech",
   "xId": "trywilco",
+  "facebookId": "trywilco",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צוקית",
-      "houseNumber": 8,
-      "city": "סביון",
-      "lat": 32.0423317,
-      "lon": 34.8880496
+      "street": null,
+      "houseNumber": null,
+      "city": "יהוד מונוסון",
+      "lat": 32.039148,
+      "lon": 34.877919
     }
   ],
   "isMultinational": false,
-  "facebookId": "trywilco",
-  "linkedinNum": 71218876
+  "isActive": true
 }

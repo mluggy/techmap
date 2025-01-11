@@ -6,20 +6,26 @@
   "logoFile": "logos/clara_mind-logo.webp",
   "websiteUrl": "https://www.claramind.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 82344308,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "clara-mind",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גינצבורג",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.070106,
       "lon": 34.797387
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82344308
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Tuned",
-  "description": "AI-based Smart-hearing Platform",
+  "description": "AI-based Smart-hearing Platform.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/tuned-logo.webp",
   "websiteUrl": "https://www.tuned.in/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tuned-ltd",
+  "linkedinNum": 81849379,
   "crunchbaseId": null,
+  "ivcId": "A1000000391031",
   "finderId": "tuned",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרימון",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81849379
+  "isActive": true
 }

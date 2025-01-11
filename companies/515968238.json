@@ -1,27 +1,31 @@
 {
   "name": "XTEND",
-  "description": "Human-guided Autonomous Systems",
+  "description": "Human-guided Autonomous Systems.",
   "categoryId": 3,
   "size": "m",
   "logoFile": "logos/xtend_robotics-logo.webp",
   "websiteUrl": "https://www.xtend.me/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "xtend-xr",
+  "linkedinNum": 33194604,
   "crunchbaseId": null,
+  "ivcId": "A1000000260052",
   "finderId": "xtend",
   "xId": null,
+  "facebookId": "XTEND-Human-Machine-Telepresence-109556187310020",
+  "breezyId": null,
+  "comeetId": "xtend/85.00A",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברגמן",
-      "houseNumber": 2,
-      "city": "רחובות",
-      "lat": 31.9113645,
-      "lon": 34.8090693
+      "street": "הברזל",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.1070968,
+      "lon": 34.835891
     }
   ],
   "isMultinational": false,
-  "facebookId": "XTEND-Human-Machine-Telepresence-109556187310020",
-  "linkedinNum": 33194604,
-  "comeetId": "xtend/85.00A"
+  "isActive": true
 }

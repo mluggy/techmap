@@ -6,21 +6,26 @@
   "logoFile": "logos/day_2_games-logo.webp",
   "websiteUrl": "https://day2games.com/",
   "careersUrl": "https://day2games.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "day-2-games",
+  "linkedinNum": 76111754,
   "crunchbaseId": null,
+  "ivcId": "A1000000416829",
   "finderId": "day-2-games",
   "xId": null,
+  "facebookId": "Day2Games",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בית צורי אליהו",
+      "street": "אליהו בית צורי",
       "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.1225863,
-      "lon": 34.8003662
+      "city": "תל אביב-יפו",
+      "lat": 32.1227326,
+      "lon": 34.7982081
     }
   ],
   "isMultinational": false,
-  "facebookId": "Day2Games",
-  "linkedinNum": 76111754
+  "isActive": true
 }

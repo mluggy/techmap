@@ -6,11 +6,17 @@
   "logoFile": "logos/oncehub-logo.webp",
   "websiteUrl": "https://oncehub.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 2277459,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "scheduleonce",
   "xId": "oncehub",
+  "facebookId": "OnceHub",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יחד",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "OnceHub",
-  "linkedinNum": 2277459
+  "isActive": true
 }

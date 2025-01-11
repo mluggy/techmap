@@ -6,20 +6,26 @@
   "logoFile": "logos/a_rpalus-logo.webp",
   "websiteUrl": "https://www.arpalus.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "arpalus",
+  "linkedinNum": 35599789,
   "crunchbaseId": null,
+  "ivcId": "A1000000289180",
   "finderId": "arpalus",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שלמה המלך",
-      "houseNumber": 98,
-      "city": "תל אביב - יפו",
-      "lat": 32.085323,
-      "lon": 34.77924
+      "street": "האומנות",
+      "houseNumber": 12,
+      "city": "נתניה",
+      "lat": 32.2777809,
+      "lon": 34.8619322
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35599789
+  "isActive": true
 }

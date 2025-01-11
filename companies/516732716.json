@@ -1,17 +1,22 @@
 {
   "name": "Reduce Ecology",
-  "description": "Biomass  Electric Power Generation",
+  "description": "Biomass  Electric Power Generation.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/reduce-ecology.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "reduce-energy",
   "linkedinNum": 97867969,
   "crunchbaseId": null,
+  "ivcId": "A1000000445906",
   "finderId": "reduce-ecology",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -21,5 +26,6 @@
       "lon": 34.39801865990851
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

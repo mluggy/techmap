@@ -6,20 +6,26 @@
   "logoFile": "logos/unicorns_exchange-logo.webp",
   "websiteUrl": "https://unicorns.exchange/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "unicorns-exchange",
+  "linkedinNum": 36803882,
   "crunchbaseId": null,
+  "ivcId": "A1000000350597",
   "finderId": "unicorns-exchange",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גולי קניה",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.107872,
-      "lon": 34.832918
+      "street": "קרליבך",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0673488,
+      "lon": 34.7832611
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 36803882
+  "isActive": true
 }

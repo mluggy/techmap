@@ -1,0 +1,31 @@
+{
+  "name": "Auditty",
+  "description": "Auditty builds a real-time log optimization platform for DevOps and SREs that reduces log volumes , turning noisy data into actionable insights to cut costs, enhance performance, and improve decision-making.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/auditty-logo.webp",
+  "websiteUrl": "https://www.auditty.io",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000480848",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

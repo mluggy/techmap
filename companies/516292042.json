@@ -1,16 +1,22 @@
 {
   "name": "Pika",
-  "description": "Machine for Cleaning Reusable Diapers",
+  "description": "Machine for Cleaning Reusable Diapers.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/pika_diapers_israel-logo.webp",
   "websiteUrl": "https://www.pikadiapers.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pika-diapers",
+  "linkedinNum": 34949544,
   "crunchbaseId": null,
+  "ivcId": "A1000000310381",
   "finderId": "pika",
   "xId": "pikadiapers",
+  "facebookId": "Pikadiapers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הבנים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Pikadiapers",
-  "linkedinNum": 34949544
+  "isActive": true
 }

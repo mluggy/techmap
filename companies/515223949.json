@@ -6,20 +6,26 @@
   "logoFile": "logos/donisi_health-logo.webp",
   "websiteUrl": "https://donisihealth.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "donisihealth",
+  "linkedinNum": 67947846,
   "crunchbaseId": "donisi-health",
+  "ivcId": "A1000000021938",
   "finderId": "Continuse",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנחושת",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.10981,
-      "lon": 34.838876
+      "street": "הברזל",
+      "houseNumber": 32,
+      "city": "תל אביב-יפו",
+      "lat": 32.1098862,
+      "lon": 34.8417187
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 67947846
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Microsteer",
-  "description": "Endoscopic Add-on Device for the Removal of Polyps",
+  "description": "Endoscopic Add-on Device for the Removal of Polyps.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/microsteer-logo.webp",
   "websiteUrl": "https://ngt-healthcare2.com/microsteer/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000424780",
   "finderId": "microsteer",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ואדי אל-חאג'",
@@ -20,5 +26,6 @@
       "lon": 35.298186
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

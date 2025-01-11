@@ -1,0 +1,31 @@
+{
+  "name": "Aiscenti Health",
+  "description": "Aiscenti aims to bring accessible healthcare to all reaches of humanity by helping doctors reach more patients and by facilitating their work.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/aiscenti_health-logo.webp",
+  "websiteUrl": "http://www.aiscenti.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000389378",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משעול הנרקיס",
+      "houseNumber": 19,
+      "city": "כפר ורדים",
+      "lat": 32.9924784,
+      "lon": 35.2726282
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

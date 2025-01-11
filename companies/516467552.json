@@ -1,25 +1,31 @@
 {
   "name": "Terrra",
-  "description": "Wetlands Restoration and Management Solution",
+  "description": "Wetlands Restoration and Management Solution.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/terrra-logo.webp",
   "websiteUrl": "https://terrra.one/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "terrra",
+  "linkedinNum": 77046608,
   "crunchbaseId": null,
+  "ivcId": "A1000000388770",
   "finderId": "terrra",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סלסלה",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.045777,
-      "lon": 34.7516901
+      "city": "תל אביב-יפו",
+      "lat": 32.0459551,
+      "lon": 34.7506419
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77046608
+  "isActive": true
 }

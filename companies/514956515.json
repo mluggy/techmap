@@ -1,0 +1,31 @@
+{
+  "name": "Scade Medical",
+  "description": "Scade Medical (formerly DOSI - Medical Imaging Systems) is developing a non-invasive imaging device designed to detect and follow up sub-dermal distortions in moles before deterioration to cancer.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/scade_medical-logo.webp",
+  "websiteUrl": "http://www.scade-medical.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023591",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ספיר",
+      "houseNumber": 19,
+      "city": "שוהם",
+      "lat": 31.9946853,
+      "lon": 34.942889
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

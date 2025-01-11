@@ -1,26 +1,31 @@
 {
   "name": "WeBus",
-  "description": "Taxi-sharing App",
+  "description": "Taxi-sharing App.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/tbus-logo.webp",
   "websiteUrl": "https://webus.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "webus-gettheretogether",
+  "linkedinNum": 14049833,
   "crunchbaseId": "tbus-webus",
+  "ivcId": "A1000000206943",
   "finderId": "tbus",
   "xId": null,
+  "facebookId": "GetThereTogether",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנמר",
-      "houseNumber": 11,
+      "street": "יפו",
+      "houseNumber": 224,
       "city": "ירושלים",
-      "lat": 31.7510528,
-      "lon": 35.1804059
+      "lat": 31.7889847,
+      "lon": 35.2034595
     }
   ],
   "isMultinational": false,
-  "facebookId": "GetThereTogether",
-  "linkedinNum": 14049833
+  "isActive": true
 }

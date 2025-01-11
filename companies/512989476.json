@@ -1,0 +1,31 @@
+{
+  "name": "EventAct",
+  "description": "Eventact provides online solutions for professional event organizers and business event organizers.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/eventact-logo.webp",
+  "websiteUrl": "http://www.eventact.com",
+  "careersUrl": null,
+  "linkedinId": "eventact",
+  "linkedinNum": 291501,
+  "crunchbaseId": null,
+  "ivcId": "A1000000007494",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הגביש",
+      "houseNumber": 4,
+      "city": "נתניה",
+      "lat": 32.2880739,
+      "lon": 34.8613709
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

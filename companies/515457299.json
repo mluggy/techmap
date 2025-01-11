@@ -6,21 +6,26 @@
   "logoFile": "logos/panorays-logo.webp",
   "websiteUrl": "https://panorays.com/",
   "careersUrl": "https://panorays.com/careers/",
-  "isHiring": true,
   "linkedinId": "panorays",
+  "linkedinNum": 18094287,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "panorays",
   "xId": "panorays",
+  "facebookId": "panorays",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית עובד",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0641973,
       "lon": 34.7881157
     }
   ],
   "isMultinational": false,
-  "facebookId": "panorays",
-  "linkedinNum": 18094287
+  "isActive": true
 }

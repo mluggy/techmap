@@ -6,20 +6,26 @@
   "logoFile": "logos/difftone_com-logo.webp",
   "websiteUrl": "https://www.difftone.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "difftone",
+  "linkedinNum": 71707236,
   "crunchbaseId": "difftone",
+  "ivcId": "A1000000368383",
   "finderId": "difftone-com",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולני",
       "houseNumber": 4,
       "city": "כפר יונה",
-      "lat": 32.3180006,
-      "lon": 34.9226434
+      "lat": 32.320465,
+      "lon": 34.9228354
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71707236
+  "isActive": true
 }

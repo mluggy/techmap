@@ -6,11 +6,17 @@
   "logoFile": "logos/makeree-logo.webp",
   "websiteUrl": "https://www.makeree.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10292124,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "makeree",
   "xId": "themakeree",
+  "facebookId": "TheMakeree",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TheMakeree",
-  "linkedinNum": 10292124
+  "isActive": true
 }

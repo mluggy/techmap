@@ -6,22 +6,26 @@
   "logoFile": "logos/transmit_security-logo.webp",
   "websiteUrl": "https://transmitsecurity.com/",
   "careersUrl": "https://transmitsecurity.com/about/careers",
-  "isHiring": true,
   "linkedinId": "transmit-security",
+  "linkedinNum": 10469264,
   "crunchbaseId": null,
+  "ivcId": "A1000000196396",
   "finderId": "transmit-security",
   "xId": "transmitsec",
+  "facebookId": "TransmitSec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "transmitsecurity",
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
+      "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "facebookId": "TransmitSec",
-  "linkedinNum": 10469264,
-  "greenhouseId": "transmitsecurity"
+  "isActive": true
 }

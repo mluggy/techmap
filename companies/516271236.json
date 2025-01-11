@@ -6,21 +6,26 @@
   "logoFile": "logos/oshi_elmaliah_law_firm-logo.webp",
   "websiteUrl": "https://oshi.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "oshiseafood",
+  "linkedinNum": 72379998,
   "crunchbaseId": null,
+  "ivcId": "A1000000354954",
   "finderId": "oshi",
   "xId": "oshiseafood",
+  "facebookId": "weareoshi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החילזון",
-      "houseNumber": 5,
-      "city": "רמת גן",
-      "lat": 32.0861321,
-      "lon": 34.8040698
+      "street": "האלוף יעקב פרי",
+      "houseNumber": 13,
+      "city": "רחובות",
+      "lat": 31.8976371,
+      "lon": 34.7872961
     }
   ],
   "isMultinational": false,
-  "facebookId": "weareoshi",
-  "linkedinNum": 72379998
+  "isActive": true
 }

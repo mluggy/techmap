@@ -1,0 +1,31 @@
+{
+  "name": "Craft.io",
+  "description": "Craft.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/craft-io-logo.webp",
+  "websiteUrl": "https://craft.io",
+  "careersUrl": "https://craft.io/careers/",
+  "linkedinId": "craft.io",
+  "linkedinNum": 10503212,
+  "crunchbaseId": null,
+  "ivcId": "A1000000222840",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מדינת היהודים",
+      "houseNumber": 89,
+      "city": "הרצליה",
+      "lat": 32.1665648,
+      "lon": 34.8109705
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

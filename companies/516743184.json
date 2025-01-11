@@ -1,16 +1,22 @@
 {
   "name": "UB Therapeutics",
-  "description": "Therapy for the Treatment of Multiple Myeloma",
+  "description": "Therapy for the Treatment of Multiple Myeloma.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/ub_therapeutics-logo.webp",
   "websiteUrl": "https://ngt-healthcare2.com/ub-therapeutics/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ub-therapeutics",
+  "linkedinNum": 90868159,
   "crunchbaseId": "ub-therapeutics",
+  "ivcId": "A1000000422485",
   "finderId": "ub-therapeutics",
   "xId": "ngthealthcare2",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ואדי אל-חאג'",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90868159
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/surecomp_development-logo.webp",
   "websiteUrl": "https://surecomp.com/",
   "careersUrl": "https://surecomp.com/careers/",
-  "isHiring": true,
   "linkedinId": "surecomp",
+  "linkedinNum": 166207,
   "crunchbaseId": "surecomp",
+  "ivcId": null,
   "finderId": "surecomp",
   "xId": "surecomp",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": "Surecomp/24.00E",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 166207,
-  "comeetId": "Surecomp/24.00E"
+  "isActive": true
 }

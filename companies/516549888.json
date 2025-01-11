@@ -6,20 +6,26 @@
   "logoFile": "logos/aisap-logo.webp",
   "websiteUrl": "https://www.aisap.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aisap.ai",
+  "linkedinNum": 86862100,
   "crunchbaseId": null,
+  "ivcId": "A1000000412380",
   "finderId": "aisap",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך שיבא",
       "houseNumber": 2,
       "city": "רמת גן",
-      "lat": 32.0520429,
-      "lon": 34.8376893
+      "lat": 32.0462827,
+      "lon": 34.8435342
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 86862100
+  "isActive": true
 }

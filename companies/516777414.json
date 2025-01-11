@@ -1,16 +1,31 @@
 {
   "name": "Omnidrill",
-  "description": "Robotic Horizontal Drilling Machine for Pipe Infrastructure",
+  "description": "Robotic Horizontal Drilling Machine for Pipe Infrastructure.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/omnidrill-logo.webp",
   "websiteUrl": "https://liortevet6.wixsite.com/omnidrill",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "omnidrill",
+  "linkedinNum": 87413177,
   "crunchbaseId": null,
+  "ivcId": "A1000000432502",
   "finderId": "omnidrill",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ שדה נחום",
+      "lat": 32.52641521406458,
+      "lon": 35.48151856118358
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

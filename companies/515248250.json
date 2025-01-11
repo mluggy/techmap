@@ -6,11 +6,17 @@
   "logoFile": "logos/suncrash-logo.webp",
   "websiteUrl": "https://suncrash.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "suncrash",
+  "linkedinNum": 6380795,
   "crunchbaseId": null,
+  "ivcId": "A1000000417080",
   "finderId": "suncrash",
   "xId": "suncrashstudio",
+  "facebookId": "suncrashstudio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השקמים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "suncrashstudio",
-  "linkedinNum": 6380795
+  "isActive": true
 }

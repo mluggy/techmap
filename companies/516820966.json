@@ -1,23 +1,31 @@
 {
   "name": "Hiveware",
-  "description": "This innovative platform enhances human collaboration and security through distributed apps utilizing Zero Trust and asymmetric cryptography principles.",
-  "categoryId": 7,
+  "description": "HiveWare brings a modern approach to Electronic Design Automation (EDA).",
+  "categoryId": 16,
   "size": "xs",
   "logoFile": "logos/hiveware-logo.webp",
-  "websiteUrl": "https://www.hiveware.com/",
+  "websiteUrl": "https://hiveware.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hivewaretech",
+  "linkedinNum": 96047756,
   "crunchbaseId": "hiveware-5543",
+  "ivcId": "A1000000457654",
   "finderId": "hiveware",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "איסרליש",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.071385,
-      "lon": 34.79089
+      "city": "תל אביב-יפו",
+      "lat": 32.071371,
+      "lon": 34.7908548
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

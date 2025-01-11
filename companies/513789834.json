@@ -6,11 +6,17 @@
   "logoFile": "logos/thrive_dx_digital_skills_training-logo.webp",
   "websiteUrl": "https://thrivedx.com/",
   "careersUrl": "https://thrivedx.com/careers",
-  "isHiring": true,
   "linkedinId": "thrivedx-formerly-hu",
+  "linkedinNum": 80112774,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cybint",
   "xId": "ThriveDX",
+  "facebookId": "ThriveDX",
+  "breezyId": null,
+  "comeetId": "thrivedx/A7.009",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שוהם",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ThriveDX",
-  "linkedinNum": 80112774,
-  "comeetId": "thrivedx/A7.009"
+  "isActive": true
 }

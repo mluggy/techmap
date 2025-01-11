@@ -6,21 +6,26 @@
   "logoFile": "logos/intuition_robotics-logo.webp",
   "websiteUrl": "https://www.intuitionrobotics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "intuition-robotics",
+  "linkedinNum": 10441748,
   "crunchbaseId": null,
+  "ivcId": "A1000000213974",
   "finderId": "intuition-robotics",
   "xId": "intuitionrobo",
+  "facebookId": "intuitionrobotics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היצירה",
-      "houseNumber": 3,
-      "city": "רמת גן",
-      "lat": 32.0848749,
-      "lon": 34.8030899
+      "street": "שלוש",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.060739,
+      "lon": 34.765093
     }
   ],
   "isMultinational": false,
-  "facebookId": "intuitionrobotics",
-  "linkedinNum": 10441748
+  "isActive": true
 }

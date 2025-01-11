@@ -1,26 +1,31 @@
 {
   "name": "Flare",
-  "description": "Streamlined Platform for Attorneys and Clients",
+  "description": "Streamlined Platform for Attorneys and Clients.",
   "categoryId": 14,
   "size": "l",
   "logoFile": "logos/flare.webp",
   "websiteUrl": "https://www.helloflare.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "hello-flare",
   "linkedinNum": 71608599,
   "crunchbaseId": null,
+  "ivcId": "A1000000363418",
   "finderId": "flare",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ארלוזורוב",
-      "houseNumber": 156,
-      "city": "תל אביב - יפו",
-      "lat": 32.08385752632526,
-      "lon": 34.78767598279383
+      "street": "השלושים ושלושה",
+      "houseNumber": 11,
+      "city": "רמת גן",
+      "lat": 32.0559865,
+      "lon": 34.8156066
     }
   ],
   "isMultinational": false,
-  "linkedinId": "hello-flare"
+  "isActive": true
 }

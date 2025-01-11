@@ -3,15 +3,29 @@
   "description": "Food Products and Nutritional Supplements for Humans and Animals",
   "categoryId": 17,
   "size": "m",
-  "logoFile": "logos/maabarot_products_ltd-logo.webp",
+  "logoFile": "logos/maabarot-products-logo.webp",
   "websiteUrl": "https://www.maabarot.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "maabarot-products-ltd-mabr-",
+  "linkedinNum": 4778075,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "maabarot",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "בית הלוי",
+      "lat": 32.35443034102101,
+      "lon": 34.932115000000245
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 4778075
+  "isActive": true
 }

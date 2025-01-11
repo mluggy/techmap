@@ -1,26 +1,31 @@
 {
   "name": "Taliaz",
-  "description": "Predictive Technology for Personalized Medication",
+  "description": "Predictive Technology for Personalized Medication.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/taliaz-logo.webp",
   "websiteUrl": "https://www.predictix.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "taliaz-health",
+  "linkedinNum": 10370472,
   "crunchbaseId": null,
+  "ivcId": "A1000000195853",
   "finderId": "taliaz-diagnostics",
   "xId": "taliaz_health",
+  "facebookId": "taliazhealth",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שחם",
-      "houseNumber": 3,
-      "city": "פתח תקווה",
-      "lat": 32.0839116,
-      "lon": 34.85842
+      "street": "פרופסור יחזקאל קויפמן",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.0630953,
+      "lon": 34.7622538
     }
   ],
   "isMultinational": false,
-  "facebookId": "taliazhealth",
-  "linkedinNum": 10370472
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Jigso",
-  "description": "AI Business Observability Platform",
+  "description": "AI Business Observability Platform.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/jigso-logo.webp",
   "websiteUrl": "https://www.jigso.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "jigsoio",
+  "linkedinNum": 78707612,
   "crunchbaseId": null,
+  "ivcId": "A1000000384036",
   "finderId": "jigso",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "טאגור רבינדרנארט",
+      "street": "רחוב רבינדרנת טאגור",
       "houseNumber": 40,
-      "city": "תל אביב - יפו",
-      "lat": 32.117142587196504,
-      "lon": 34.79805377585838
+      "city": "תל אביב-יפו",
+      "lat": 32.1169609,
+      "lon": 34.7980645
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78707612
+  "isActive": true
 }

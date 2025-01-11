@@ -6,11 +6,17 @@
   "logoFile": "logos/harmonic_lightwaves_israel_ltd-logo.webp",
   "websiteUrl": "https://www.harmonicinc.com/",
   "careersUrl": "https://careers.harmonicinc.com/",
-  "isHiring": true,
   "linkedinId": "harmonic",
+  "linkedinNum": 5918,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "harmonic",
   "xId": "HarmonicInc",
+  "facebookId": "harmonicisrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון התבור",
@@ -20,7 +26,6 @@
       "lon": 34.947278
     }
   ],
-  "isMultinational": true,
-  "facebookId": "harmonicisrael",
-  "linkedinNum": 5918
+  "isMultinational": false,
+  "isActive": true
 }

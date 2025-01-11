@@ -3,21 +3,29 @@
   "description": "A pioneering medtech startup revolutionizing neurovascular innovation.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/luseed_vascular_ltd-logo.webp",
+  "logoFile": "logos/luseed-vascular-logo.webp",
   "websiteUrl": "https://luseed-vascular.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "luseed-vascular",
+  "linkedinNum": 28814710,
   "crunchbaseId": null,
+  "ivcId": "A1000000272016",
   "finderId": "luseed-vascular-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זרחין אלכסנדר",
-      "houseNumber": 13,
-      "city": "רעננה",
-      "lat": 32.1976788,
-      "lon": 34.8811941
+      "street": "שדרות יצחק רבין",
+      "houseNumber": 1,
+      "city": "אור יהודה",
+      "lat": 32.0269985,
+      "lon": 34.868141
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

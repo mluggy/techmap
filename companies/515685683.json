@@ -6,20 +6,26 @@
   "logoFile": "logos/salaryo_credit-logo.webp",
   "websiteUrl": "https://www.salaryo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "salaryo",
+  "linkedinNum": 17941527,
   "crunchbaseId": "salaryo",
+  "ivcId": null,
   "finderId": "salaryo",
   "xId": "salaryo_",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שדרות רוטשילד",
       "houseNumber": 45,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.064386823167006,
       "lon": 34.77461660359986
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17941527
+  "isActive": true
 }

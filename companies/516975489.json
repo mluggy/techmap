@@ -6,18 +6,26 @@
   "logoFile": "logos/coverdolly-logo.webp",
   "websiteUrl": "https://coverdolly.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "coverdolly",
+  "linkedinNum": 102385702,
   "crunchbaseId": null,
+  "ivcId": "A1000000473987",
   "finderId": "coverdolly",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
+      "street": "אורן",
       "houseNumber": 61,
       "city": "דקל",
-      "lat": 31.1953013,
-      "lon": 34.34539868700213
+      "lat": 31.2005892,
+      "lon": 34.3456574
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

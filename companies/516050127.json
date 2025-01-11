@@ -1,16 +1,22 @@
 {
   "name": "Pocoz",
-  "description": "Collaboration Platform for Large Communities",
+  "description": "Collaboration Platform for Large Communities.",
   "categoryId": 14,
   "size": "xs",
-  "logoFile": "logos/pocoz_israel-logo.webp",
+  "logoFile": "logos/pocoz-logo.webp",
   "websiteUrl": "https://www.pocoz.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "pocoz",
+  "linkedinNum": 40954733,
   "crunchbaseId": null,
+  "ivcId": "A1000000446982",
   "finderId": "pocoz",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בני בנימין",
@@ -20,5 +26,6 @@
       "lon": 34.8861844
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

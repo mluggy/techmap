@@ -6,21 +6,26 @@
   "logoFile": "logos/riskified-logo.webp",
   "websiteUrl": "https://www.riskified.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "riskified",
+  "linkedinNum": 2821604,
   "crunchbaseId": null,
+  "ivcId": "A1000000020744",
   "finderId": "riskified",
   "xId": "Riskified",
+  "facebookId": "RiskifiedInc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' שאול המלך",
+      "street": "שדרות שאול המלך",
       "houseNumber": 37,
-      "city": "תל אביב - יפו",
-      "lat": 32.0780148,
-      "lon": 34.7900515
+      "city": "תל אביב-יפו",
+      "lat": 32.0780895,
+      "lon": 34.7900446
     }
   ],
   "isMultinational": false,
-  "facebookId": "RiskifiedInc",
-  "linkedinNum": 2821604
+  "isActive": true
 }

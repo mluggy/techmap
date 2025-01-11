@@ -6,20 +6,26 @@
   "logoFile": "logos/trinity_audio-logo.webp",
   "websiteUrl": "https://www.trinityaudio.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "trinityaudio",
+  "linkedinNum": 18986037,
   "crunchbaseId": null,
+  "ivcId": "A1000000302642",
   "finderId": "trinity-audio",
   "xId": "trinityaudiobot",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חכמי דוד",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.063526,
-      "lon": 34.78079
+      "street": "יגאל אלון",
+      "houseNumber": 82,
+      "city": "תל אביב-יפו",
+      "lat": 32.0662181,
+      "lon": 34.7928935
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18986037
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Senser",
-  "description": "Data-driven Service Solution",
+  "description": "Data-driven Service Solution.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/senser-logo.webp",
   "websiteUrl": "https://www.senser.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "senser-tech",
+  "linkedinNum": 97867133,
   "crunchbaseId": null,
+  "ivcId": "A1000000384941",
   "finderId": "senser",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תובל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 97867133
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/allevetix_medical-logo.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "allevetix-medical-ltd",
+  "linkedinNum": 18707026,
   "crunchbaseId": "allevetix-medical",
+  "ivcId": "A1000000257779",
   "finderId": "allevetix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הערבה",
-      "houseNumber": 11,
-      "city": "אור עקיבא",
-      "lat": 32.5204051,
-      "lon": 34.922805
+      "street": "האשל",
+      "houseNumber": 2,
+      "city": "קיסריה",
+      "lat": 32.4774644,
+      "lon": 34.9452353
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18707026
+  "isActive": true
 }

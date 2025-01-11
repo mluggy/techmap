@@ -6,21 +6,26 @@
   "logoFile": "logos/skyline_robotics-logo.webp",
   "websiteUrl": "https://www.skylinerobotics.com/",
   "careersUrl": "https://www.skylinerobotics.com/careers",
-  "isHiring": true,
   "linkedinId": "skyline-robotics",
+  "linkedinNum": 27175068,
   "crunchbaseId": null,
+  "ivcId": "A1000000252135",
   "finderId": "skyline-robotics",
   "xId": "roboticskyline",
+  "facebookId": "SkylineRobotics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גרין וורק",
-      "houseNumber": null,
-      "city": "יקום",
-      "lat": 32.244983594049,
-      "lon": 34.84250361568705
+      "street": "השרון",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.0623191,
+      "lon": 34.7790826
     }
   ],
   "isMultinational": false,
-  "facebookId": "SkylineRobotics",
-  "linkedinNum": 27175068
+  "isActive": true
 }

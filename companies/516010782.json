@@ -6,20 +6,26 @@
   "logoFile": "logos/rightbound-logo.webp",
   "websiteUrl": "https://rightbound.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rightbound",
+  "linkedinNum": 14045632,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "rightbound",
   "xId": "rightbound_io",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אשכול לוי",
       "houseNumber": 18,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.102284,
       "lon": 34.789573
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14045632
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/datasya-logo.webp",
   "websiteUrl": "https://www.datasya.com/",
   "careersUrl": "https://www.datasya.com/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "datasya",
+  "linkedinNum": 76105542,
   "crunchbaseId": "datasya",
+  "ivcId": "A1000000365397",
   "finderId": "datasya",
   "xId": null,
+  "facebookId": "datasyaltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ורדינון אליעזר",
-      "houseNumber": 3,
-      "city": "פתח תקווה",
-      "lat": 32.0847683,
-      "lon": 34.858128
+      "street": "חנקין",
+      "houseNumber": 72,
+      "city": "רעננה",
+      "lat": 32.1858549,
+      "lon": 34.8786417
     }
   ],
   "isMultinational": false,
-  "facebookId": "datasyaltd",
-  "linkedinNum": 76105542
+  "isActive": true
 }

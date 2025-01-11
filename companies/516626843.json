@@ -6,20 +6,26 @@
   "logoFile": "logos/kamanja-logo.webp",
   "websiteUrl": "https://kamanja.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "kamanjaa",
+  "linkedinNum": 78043478,
   "crunchbaseId": null,
+  "ivcId": "A1000000388524",
   "finderId": "kamanja",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שחם",
-      "houseNumber": 11,
-      "city": "פתח תקווה",
-      "lat": 32.0839116,
-      "lon": 34.85842
+      "street": "בר כוכבא",
+      "houseNumber": 23,
+      "city": "בני ברק",
+      "lat": 32.0943956,
+      "lon": 34.8224718
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 78043478
+  "isActive": true
 }

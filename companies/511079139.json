@@ -1,0 +1,31 @@
+{
+  "name": "Aeroshela",
+  "description": "Aeroshela is a company engaged in development of Hydrogen IC engine.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/aeroshela-logo.webp",
+  "websiteUrl": null,
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000254342",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הבשמים",
+      "houseNumber": 4,
+      "city": "גני תקווה",
+      "lat": 32.0651202,
+      "lon": 34.8798919
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

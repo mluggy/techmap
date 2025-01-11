@@ -6,13 +6,17 @@
   "logoFile": "logos/johnson-johnson.webp",
   "websiteUrl": "https://www.jnj.com/",
   "careersUrl": "https://www.careers.jnj.com/",
-  "isHiring": true,
   "linkedinId": "johnson-&-johnson",
   "linkedinNum": 1207,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "johnson-johnson",
   "xId": "jnjinnovation",
   "facebookId": "jnj",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
@@ -22,5 +26,6 @@
       "lon": 34.82802140000197
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

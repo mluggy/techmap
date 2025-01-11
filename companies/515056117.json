@@ -6,21 +6,26 @@
   "logoFile": "logos/wearable_devices-logo.webp",
   "websiteUrl": "https://www.wearabledevices.co.il/",
   "careersUrl": "https://www.wearabledevices.co.il/career",
-  "isHiring": true,
   "linkedinId": "wearable-devices-ltd",
+  "linkedinNum": 12903674,
   "crunchbaseId": null,
+  "ivcId": "A1000000216209",
   "finderId": "wearable-devices",
   "xId": "Mudra_Strap",
+  "facebookId": "mudraWLD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התנופה",
-      "houseNumber": 5,
-      "city": "יקנעם עילית",
-      "lat": 32.6672039,
-      "lon": 35.1083867
+      "street": "התעשייה",
+      "houseNumber": 2,
+      "city": "יוקנעם עילית",
+      "lat": 32.6611707,
+      "lon": 35.1058328
     }
   ],
   "isMultinational": false,
-  "facebookId": "mudraWLD",
-  "linkedinNum": 12903674
+  "isActive": true
 }

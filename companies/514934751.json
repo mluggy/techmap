@@ -6,21 +6,26 @@
   "logoFile": "logos/howazit-logo.webp",
   "websiteUrl": "https://www.howazit.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "howazit",
+  "linkedinNum": 5273156,
   "crunchbaseId": null,
+  "ivcId": "A1000000206318",
   "finderId": "howazit",
   "xId": "howazitcom",
+  "facebookId": "howazit",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן יהודה",
-      "houseNumber": 42,
+      "street": "משכית",
+      "houseNumber": 27,
       "city": "הרצליה",
-      "lat": 32.8127003,
-      "lon": 34.9917537
+      "lat": 32.1632571,
+      "lon": 34.8107107
     }
   ],
   "isMultinational": false,
-  "facebookId": "howazit",
-  "linkedinNum": 5273156
+  "isActive": true
 }

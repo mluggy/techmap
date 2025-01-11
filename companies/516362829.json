@@ -1,16 +1,22 @@
 {
   "name": "Aerium Systems",
-  "description": "Manufacturer of Avionics Solutions for Unmanned Aerial Vehicles",
+  "description": "Manufacturer of Avionics Solutions for Unmanned Aerial Vehicles.",
   "categoryId": 3,
   "size": "xs",
   "logoFile": "logos/aerium_systems-logo.webp",
   "websiteUrl": "https://www.aerium.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000372000",
   "finderId": "aerium-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אילת",
@@ -20,5 +26,6 @@
       "lon": 34.8062271
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/realizemd-logo.webp",
   "websiteUrl": "https://www.realizemd.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "realizemd",
+  "linkedinNum": 42878413,
   "crunchbaseId": null,
+  "ivcId": "A1000000322705",
   "finderId": "realizemd",
   "xId": null,
+  "facebookId": "show.realizemd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
-      "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.075175,
-      "lon": 34.78205
+      "street": "אריאל שרון",
+      "houseNumber": 4,
+      "city": "גבעתיים",
+      "lat": 32.0799908,
+      "lon": 34.7998339
     }
   ],
   "isMultinational": false,
-  "facebookId": "show.realizemd",
-  "linkedinNum": 42878413
+  "isActive": true
 }

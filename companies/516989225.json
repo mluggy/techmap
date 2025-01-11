@@ -1,0 +1,31 @@
+{
+  "name": "Oraqon",
+  "description": "Oragon develops highly sensitive quantum sensors that can be used in various industries and for military purposes.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/oraqon-logo.webp",
+  "websiteUrl": "https://oraqon.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000491851",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מוזס יהודה ונח",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.0760978,
+      "lon": 34.7948347
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

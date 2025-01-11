@@ -6,21 +6,26 @@
   "logoFile": "logos/psyrx-logo.webp",
   "websiteUrl": "https://www.psyrx.co/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "psyrx-ltd",
+  "linkedinNum": 79826212,
   "crunchbaseId": null,
+  "ivcId": "A1000000360170",
   "finderId": "psyrx",
   "xId": null,
+  "facebookId": "psyrxpsychedelics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ז'בוטינסקי",
-      "houseNumber": 31,
-      "city": "חולון",
-      "lat": 32.024992,
-      "lon": 34.7801219
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "psyrxpsychedelics",
-  "linkedinNum": 79826212
+  "isActive": true
 }

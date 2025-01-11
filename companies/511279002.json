@@ -6,12 +6,17 @@
   "logoFile": "logos/silverbyte.webp",
   "websiteUrl": "https://www.silverbyte.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 1900443,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "silverbyte",
   "xId": "Optimahms",
   "facebookId": "OptimaPMS",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך השלום",
@@ -21,5 +26,6 @@
       "lon": 35.048145696548275
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

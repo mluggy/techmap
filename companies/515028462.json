@@ -6,11 +6,17 @@
   "logoFile": "logos/myfirstapp-logo.webp",
   "websiteUrl": "https://myfirstappsweden.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "myfirstapp-ltd",
+  "linkedinNum": 17999368,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "myfirstapp",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שז\"ר זלמן",
@@ -19,5 +25,7 @@
       "lat": 32.165326949999994,
       "lon": 34.91028415310845
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,18 +1,31 @@
 {
   "name": "WeKnow",
-  "description": "Marketplace for On-demand Market Research",
+  "description": "Marketplace for On-demand Market Research.",
   "categoryId": 9,
   "size": "xs",
   "logoFile": "logos/weknow-logo.webp",
   "websiteUrl": "https://weknow.network/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "weknow-network",
+  "linkedinNum": 10923559,
   "crunchbaseId": null,
+  "ivcId": "A1000000338118",
   "finderId": "weknow1",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "WeKnowNetwork",
-  "linkedinNum": 10923559
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "יקום",
+      "lat": 32.248122119833916,
+      "lon": 34.843040946511124
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

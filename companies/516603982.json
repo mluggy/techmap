@@ -6,12 +6,26 @@
   "logoFile": "logos/phenolives-logo.webp",
   "websiteUrl": "https://www.phenolives.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "phenolives",
+  "linkedinNum": 83026556,
   "crunchbaseId": null,
+  "ivcId": "A1000000415392",
   "finderId": "phenolives",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "עמק המעיינות",
+      "lat": 32.5203251765761,
+      "lon": 35.51735102697988
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 83026556
+  "isActive": true
 }

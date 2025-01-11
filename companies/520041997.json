@@ -6,21 +6,26 @@
   "logoFile": "logos/tower_semiconductor-logo.webp",
   "websiteUrl": "https://towersemi.com/",
   "careersUrl": "https://careers.towersemi.com/",
-  "isHiring": true,
   "linkedinId": "tower-semiconductor",
+  "linkedinNum": 734498,
   "crunchbaseId": null,
+  "ivcId": "A1000000004944",
   "finderId": "tower-semiconductor",
   "xId": null,
+  "facebookId": "towersemi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ת.ד.",
-      "houseNumber": null,
+      "street": "שדרות שאול עמור",
+      "houseNumber": 20,
       "city": "מגדל העמק",
-      "lat": 32.67831363620922,
-      "lon": 35.24314172371195
+      "lat": 32.688821,
+      "lon": 35.2498611
     }
   ],
   "isMultinational": false,
-  "facebookId": "towersemi",
-  "linkedinNum": 734498
+  "isActive": true
 }

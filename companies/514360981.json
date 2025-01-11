@@ -3,14 +3,20 @@
   "description": "An Israel-based healthcare company specializing in medical solutions.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/sheltagen_medical-logo.webp",
+  "logoFile": "logos/sheltagen-medical-logo.webp",
   "websiteUrl": "https://www.sheltagen.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sheltagen-medical-ltd",
+  "linkedinNum": 76991603,
   "crunchbaseId": null,
+  "ivcId": "A1000000024691",
   "finderId": "sheltagen-medical",
   "xId": null,
+  "facebookId": "Sheltagen-Medical-Ltd-1910251475899962",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יפה נוף",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Sheltagen-Medical-Ltd-1910251475899962"
+  "isActive": true
 }

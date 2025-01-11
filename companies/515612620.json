@@ -1,0 +1,31 @@
+{
+  "name": "GetMedia",
+  "description": "Getmedia allows media and the advertiser to interact with each other directly.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/getmedia-logo.webp",
+  "websiteUrl": "https://get-media.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000291646",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מצדה",
+      "houseNumber": 5,
+      "city": "בני ברק",
+      "lat": 32.093639,
+      "lon": 34.8247297
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

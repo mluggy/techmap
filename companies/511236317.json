@@ -3,14 +3,20 @@
   "description": "Electrochemical Water Treatment",
   "categoryId": 14,
   "size": "s",
-  "logoFile": "logos/elgressy_engineering_services_1987-logo.webp",
+  "logoFile": "logos/elgressy-engineering-services-logo.webp",
   "websiteUrl": "https://www.elgressy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "elgressy",
+  "linkedinNum": 67758815,
   "crunchbaseId": "elgressy-engineering-services",
+  "ivcId": null,
   "finderId": "elgressy-engineering-services",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המגשימים",
@@ -20,5 +26,6 @@
       "lon": 34.8536011
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

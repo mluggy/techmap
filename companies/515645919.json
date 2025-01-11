@@ -6,21 +6,26 @@
   "logoFile": "logos/cylus_cyber_security-logo.webp",
   "websiteUrl": "https://www.cylus.com/",
   "careersUrl": "https://www.cylus.com/careers",
-  "isHiring": true,
   "linkedinId": "cylus",
+  "linkedinNum": 18413393,
   "crunchbaseId": "cylus",
+  "ivcId": "A1000000237514",
   "finderId": "cylus",
   "xId": "Cylus_Security",
+  "facebookId": "cylusec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יצחק שדה",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.06530465,
-      "lon": 34.784687671749694
+      "city": "תל אביב-יפו",
+      "lat": 32.0627558,
+      "lon": 34.800188
     }
   ],
   "isMultinational": false,
-  "facebookId": "cylusec",
-  "linkedinNum": 18413393
+  "isActive": true
 }

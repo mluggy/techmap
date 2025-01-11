@@ -6,11 +6,17 @@
   "logoFile": "logos/stackpath-logo.webp",
   "websiteUrl": "https://www.stackpath.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "stackpath",
+  "linkedinNum": 10346930,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "stackpath",
   "xId": "stackpath",
+  "facebookId": "stackpathllc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "העצמאות",
@@ -20,7 +26,6 @@
       "lon": 34.8691489
     }
   ],
-  "isMultinational": true,
-  "facebookId": "stackpathllc",
-  "linkedinNum": 10346930
+  "isMultinational": false,
+  "isActive": true
 }

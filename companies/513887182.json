@@ -6,11 +6,17 @@
   "logoFile": "logos/liveu-logo.webp",
   "websiteUrl": "https://www.liveu.tv/",
   "careersUrl": "https://www.liveu.tv/company/careers",
-  "isHiring": true,
   "linkedinId": "liveu",
+  "linkedinNum": 352436,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "liveu",
   "xId": "LiveU",
+  "facebookId": "LiveU.Fans",
+  "breezyId": null,
+  "comeetId": "liveu/90.00C",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגביש",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "LiveU.Fans",
-  "linkedinNum": 352436,
-  "comeetId": "liveu/90.00C"
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/armoursense-logo.webp",
   "websiteUrl": "https://armoursense.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "armoursense",
+  "ivcId": null,
   "finderId": "armoursense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חצוצרה",
@@ -19,5 +25,7 @@
       "lat": 32.4821051,
       "lon": 34.9894411
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

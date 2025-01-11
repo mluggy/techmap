@@ -6,21 +6,26 @@
   "logoFile": "logos/entitle.webp",
   "websiteUrl": "https://entitle.io/",
   "careersUrl": "https://www.entitle.io/career",
-  "isHiring": true,
   "linkedinId": "entitle",
   "linkedinNum": 77692429,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "entitle",
   "xId": "EntitleIO",
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית הלל",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06970786282055,
       "lon": 34.78986743508529
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

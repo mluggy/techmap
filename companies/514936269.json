@@ -6,20 +6,26 @@
   "logoFile": "logos/oddity_tech-logo.webp",
   "websiteUrl": "https://oddity.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "odditytech",
+  "linkedinNum": 80031667,
   "crunchbaseId": null,
+  "ivcId": "A1000000234580",
   "finderId": "oddity",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.056097,
-      "lon": 34.783691
+      "city": "תל אביב-יפו",
+      "lat": 32.056144,
+      "lon": 34.7837383
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80031667
+  "isActive": true
 }

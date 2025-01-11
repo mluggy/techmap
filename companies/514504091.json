@@ -6,11 +6,17 @@
   "logoFile": "logos/dbs_h-logo.webp",
   "websiteUrl": "https://www.dbs-h.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dbs-h",
+  "linkedinNum": 2391382,
   "crunchbaseId": null,
+  "ivcId": "A1000000021077",
   "finderId": "dbs-h",
   "xId": "dbs_h",
+  "facebookId": "DBSHBigDataIntegration",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אנוסי משהד",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "DBSHBigDataIntegration",
-  "linkedinNum": 2391382
+  "isActive": true
 }

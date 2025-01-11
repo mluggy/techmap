@@ -1,16 +1,22 @@
 {
   "name": "CardioSert",
-  "description": "Advanced Tools for Interventional Cardiologists Performing PCI Procedures",
+  "description": "Advanced Tools for Interventional Cardiologists Performing PCI Procedures.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/cardiosert-logo.webp",
   "websiteUrl": "https://cardiosert.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "cardiosert",
+  "ivcId": "A1000000021734",
   "finderId": "cardiosert",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השושנים",
@@ -20,5 +26,6 @@
       "lon": 35.0351795
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

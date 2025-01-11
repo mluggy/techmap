@@ -1,16 +1,22 @@
 {
   "name": "Phononics",
-  "description": "Diamond Thermal Conductivity for Electronic Systems",
+  "description": "Diamond Thermal Conductivity for Electronic Systems.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/phononics-logo.webp",
   "websiteUrl": "https://phononicstech.com/",
   "careersUrl": "https://phononic.com/about-us/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "phononics",
+  "linkedinNum": 74065968,
   "crunchbaseId": null,
+  "ivcId": "A1000000385349",
   "finderId": "phononics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "התעשיה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74065968
+  "isActive": true
 }

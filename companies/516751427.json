@@ -1,0 +1,31 @@
+{
+  "name": "Soilwiz",
+  "description": "Soilwiz's solution provides real-time and accurate measurements for plant water consumption, based on unique technique isolating water from soil and performing in-place measurements, using smart sensors.",
+  "categoryId": 17,
+  "size": "xs",
+  "logoFile": "logos/soilwiz-logo.webp",
+  "websiteUrl": "https://www.soilwiz.net",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000451267",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חלמית",
+      "houseNumber": 7,
+      "city": "רמת ישי",
+      "lat": 32.70555600000001,
+      "lon": 35.159112
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

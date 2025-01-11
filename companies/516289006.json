@@ -6,11 +6,17 @@
   "logoFile": "logos/cannbis_b_g-logo.webp",
   "websiteUrl": "https://cannbis.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cannbis",
   "xId": null,
+  "facebookId": "cannbis.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מכבי",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "cannbis.co.il"
+  "isActive": true
 }

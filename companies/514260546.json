@@ -6,11 +6,17 @@
   "logoFile": "logos/fooducate-logo.webp",
   "websiteUrl": "https://www.fooducate.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1138138,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "fooducate",
   "xId": "Fooducate",
+  "facebookId": "fooducate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ביאליק",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "fooducate",
-  "linkedinNum": 1138138
+  "isActive": true
 }

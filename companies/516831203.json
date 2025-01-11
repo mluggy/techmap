@@ -3,21 +3,29 @@
   "description": "A mobile app designed to empower migraine sufferers with better control and an improved quality of life.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/wizermed_dh-logo.webp",
+  "logoFile": "logos/wizermed-dh-logo.webp",
   "websiteUrl": "https://www.wizermed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wizermed",
+  "linkedinNum": 96695089,
   "crunchbaseId": "wizermed",
+  "ivcId": "A1000000459082",
   "finderId": "wizermed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האילנות צורן",
+      "street": "האילנות",
       "houseNumber": 10,
-      "city": "צורן",
-      "lat": 32.28632389940653,
-      "lon": 34.93964351680269
+      "city": "צור משה",
+      "lat": 32.2861879,
+      "lon": 34.9396757
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

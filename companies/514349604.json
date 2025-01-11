@@ -1,0 +1,31 @@
+{
+  "name": "APT Software",
+  "description": "APT Software is developing solutions for command and control in all areas of financial management and public relations of institutions, and clearing solutions for all payment methods available on the market, both in cash,  standing orders and credit cards.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/apt_software-logo.webp",
+  "websiteUrl": "https://aptsoftware.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000174623",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרטום",
+      "houseNumber": 9,
+      "city": "ירושלים",
+      "lat": 31.8024219,
+      "lon": 35.2130725
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

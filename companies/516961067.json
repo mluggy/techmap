@@ -1,0 +1,31 @@
+{
+  "name": "PielaPay",
+  "description": "PielaPay is a pension contribution payment processor that transforms the way businesses manage their pension contributions to their employees.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/pielapay-logo.webp",
+  "websiteUrl": "https://www.pielapay.com",
+  "careersUrl": null,
+  "linkedinId": "pielapay",
+  "linkedinNum": 104597022,
+  "crunchbaseId": null,
+  "ivcId": "A1000000486869",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "רחובות",
+      "lat": 31.8943652,
+      "lon": 34.8115292
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -3,14 +3,20 @@
   "description": "Innovating sustainable agriculture, SliBio offers an eco-friendly biopolymer coating that protects crops from pests without harmful chemicals.",
   "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/slibio_coating-logo.webp",
+  "logoFile": "logos/slibio-coating-logo.webp",
   "websiteUrl": "https://slibio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "slibio-coating",
+  "linkedinNum": 96024288,
   "crunchbaseId": null,
+  "ivcId": "A1000000459527",
   "finderId": "slibio-coating",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "היזמה",
@@ -20,5 +26,6 @@
       "lon": 35.10576848900816
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

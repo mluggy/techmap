@@ -6,20 +6,26 @@
   "logoFile": "logos/lidwave-logo.webp",
   "websiteUrl": "https://www.lidwave.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "lidwaveil",
+  "linkedinNum": 37410901,
   "crunchbaseId": null,
+  "ivcId": "A1000000314484",
   "finderId": "lidwave",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הלוי שלמה (מומו)",
-      "houseNumber": 5,
+      "street": "אליעזר הלוי",
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.8020782,
-      "lon": 35.2072023
+      "lat": 31.7857171,
+      "lon": 35.1933862
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 37410901
+  "isActive": true
 }

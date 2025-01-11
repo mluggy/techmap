@@ -1,0 +1,31 @@
+{
+  "name": "Ummanu",
+  "description": "Ummanu is providing a telemedicine platform focused on remote consultations between clinicians and patients (C2P).",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/ummanu-logo.webp",
+  "websiteUrl": "http://ummanu.health",
+  "careersUrl": null,
+  "linkedinId": "ummanu",
+  "linkedinNum": 20356588,
+  "crunchbaseId": null,
+  "ivcId": "A1000000294341",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המשביר",
+      "houseNumber": 1,
+      "city": "חולון",
+      "lat": 32.0150807,
+      "lon": 34.8020837
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

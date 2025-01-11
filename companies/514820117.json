@@ -6,21 +6,26 @@
   "logoFile": "logos/storedot-logo.webp",
   "websiteUrl": "https://www.store-dot.com/",
   "careersUrl": "https://www.store-dot.com/careers",
-  "isHiring": true,
   "linkedinId": "storedot",
+  "linkedinNum": 2667427,
   "crunchbaseId": null,
+  "ivcId": "A1000000021359",
   "finderId": "storedot",
   "xId": "StoreDotLtd",
+  "facebookId": "StoredotLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שנקר אריה",
+      "street": "רחוב אריה שנקר",
       "houseNumber": 3,
       "city": "הרצליה",
-      "lat": 32.158885,
-      "lon": 34.8090779
+      "lat": 32.1602438,
+      "lon": 34.8095785
     }
   ],
   "isMultinational": false,
-  "facebookId": "StoredotLtd",
-  "linkedinNum": 2667427
+  "isActive": true
 }

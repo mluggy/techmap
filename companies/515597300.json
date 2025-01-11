@@ -6,21 +6,26 @@
   "logoFile": "logos/itsmine-logo.webp",
   "websiteUrl": "https://itsmine.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "itsmine",
+  "linkedinNum": 17890774,
   "crunchbaseId": null,
+  "ivcId": "A1000000226532",
   "finderId": "itsmine",
   "xId": null,
+  "facebookId": "ITsMineLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבי עקיבא",
       "houseNumber": 52,
       "city": "הרצליה",
-      "lat": 32.1537449,
-      "lon": 34.8446731
+      "lat": 32.1535911,
+      "lon": 34.85053860000001
     }
   ],
   "isMultinational": false,
-  "facebookId": "ITsMineLtd",
-  "linkedinNum": 17890774
+  "isActive": true
 }

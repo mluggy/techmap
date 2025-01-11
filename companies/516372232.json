@@ -6,21 +6,26 @@
   "logoFile": "logos/kimonix_ecommerce-logo.webp",
   "websiteUrl": "https://www.kimonix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kimonix",
+  "linkedinNum": 65577899,
   "crunchbaseId": "kimonix",
+  "ivcId": "A1000000332433",
   "finderId": "kimonix",
   "xId": "Kimonix_",
+  "facebookId": "Kimonix-110646984027490",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לוינסקי",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.059402,
-      "lon": 34.768294
+      "street": "הזרם",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0503948,
+      "lon": 34.7661598
     }
   ],
   "isMultinational": false,
-  "facebookId": "Kimonix-110646984027490",
-  "linkedinNum": 65577899
+  "isActive": true
 }

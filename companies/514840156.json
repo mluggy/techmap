@@ -6,11 +6,17 @@
   "logoFile": "logos/linnovate_technologies-logo.webp",
   "websiteUrl": "https://www.linnovate.net",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "linnovate-ltd",
+  "linkedinNum": 200394,
   "crunchbaseId": "linnovate-partners",
+  "ivcId": null,
   "finderId": "linnovate",
   "xId": "linnovate",
+  "facebookId": "linnovate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "linnovate",
-  "linkedinNum": 200394
+  "isActive": true
 }

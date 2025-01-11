@@ -1,0 +1,31 @@
+{
+  "name": "Genway",
+  "description": "Genway is a technology company that operates in the artificial intelligence sector.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/genway-logo.webp",
+  "websiteUrl": "https://www.genway.ai",
+  "careersUrl": "https://www.genway.ai/career",
+  "linkedinId": "genwayai",
+  "linkedinNum": 90974976,
+  "crunchbaseId": null,
+  "ivcId": "A1000000469465",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דיזנגוף",
+      "houseNumber": 222,
+      "city": "תל אביב-יפו",
+      "lat": 32.0886149,
+      "lon": 34.7755131
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

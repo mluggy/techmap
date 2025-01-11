@@ -6,21 +6,26 @@
   "logoFile": "logos/walty_technologies-logo.webp",
   "websiteUrl": "https://walty.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "walty",
+  "linkedinNum": 13061211,
   "crunchbaseId": null,
+  "ivcId": "A1000000300338",
   "finderId": "walty",
   "xId": null,
+  "facebookId": "walty.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רפאלי שרגא",
-      "houseNumber": 6,
-      "city": "פתח תקווה",
-      "lat": 32.1071388,
-      "lon": 34.8786915
+      "street": "האומנים",
+      "houseNumber": 12,
+      "city": "תל אביב-יפו",
+      "lat": 32.071286,
+      "lon": 34.7951862
     }
   ],
   "isMultinational": false,
-  "facebookId": "walty.il",
-  "linkedinNum": 13061211
+  "isActive": true
 }

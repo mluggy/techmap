@@ -6,21 +6,26 @@
   "logoFile": "logos/inova_diamonds-logo.webp",
   "websiteUrl": "https://inova.diamonds/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "inova.diamonds",
+  "linkedinNum": 17896521,
   "crunchbaseId": null,
+  "ivcId": "A1000000239287",
   "finderId": "inova-diamonds",
   "xId": "InovaDiamonds",
+  "facebookId": "inovadiamonds",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אחד העם",
-      "houseNumber": 22,
-      "city": "פתח תקווה",
-      "lat": 32.0843991,
-      "lon": 34.8901317
+      "street": "רחוב זאב ז'בוטינסקי",
+      "houseNumber": 3,
+      "city": "רמת גן",
+      "lat": 32.0837748,
+      "lon": 34.8020095
     }
   ],
   "isMultinational": false,
-  "facebookId": "inovadiamonds",
-  "linkedinNum": 17896521
+  "isActive": true
 }

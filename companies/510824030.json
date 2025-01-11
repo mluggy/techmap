@@ -6,11 +6,17 @@
   "logoFile": "logos/solidcam-logo.webp",
   "websiteUrl": "https://www.solidcam.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "solidcam-usa",
+  "linkedinNum": 760481,
   "crunchbaseId": null,
+  "ivcId": "A1000000007097",
   "finderId": "solidcam",
   "xId": "solidcam",
+  "facebookId": "SolidCAM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתניהו יהונתן",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SolidCAM",
-  "linkedinNum": 760481
+  "isActive": true
 }

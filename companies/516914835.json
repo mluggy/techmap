@@ -6,20 +6,26 @@
   "logoFile": "logos/nanoscout.webp",
   "websiteUrl": "https://www.nanoscout.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "nanoscout",
   "linkedinNum": 77000175,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nanoscout",
   "xId": null,
   "facebookId": "NanoScoutNM",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אשכול לוי",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.101795786339416,
       "lon": 34.788604484402036
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

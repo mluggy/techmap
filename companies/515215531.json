@@ -6,21 +6,26 @@
   "logoFile": "logos/8_alert-logo.webp",
   "websiteUrl": "https://8alert.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18237752,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tradereye",
   "xId": "8alertsignals",
+  "facebookId": "8alert",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגיע כפיים",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0615505,
       "lon": 34.7821108
     }
   ],
   "isMultinational": false,
-  "facebookId": "8alert",
-  "linkedinNum": 18237752
+  "isActive": true
 }

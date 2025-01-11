@@ -1,16 +1,22 @@
 {
   "name": "Zetes Industries",
   "description": "Zetes Industries specializes in innovative identification and mobility solutions, enhancing supply chain efficiency and enabling seamless traceability for businesses worldwide.",
-  "size": "l",
   "categoryId": 18,
+  "size": "l",
   "logoFile": "logos/zetes_industries_israel-logo.webp",
   "websiteUrl": "https://www.zetes.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 17841,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zetes-industries",
   "xId": "zetesindustries",
+  "facebookId": "ZetesIndustries",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמל",
@@ -20,7 +26,6 @@
       "lon": 34.9105972
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ZetesIndustries",
-  "linkedinNum": 17841
+  "isMultinational": false,
+  "isActive": true
 }

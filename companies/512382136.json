@@ -6,21 +6,26 @@
   "logoFile": "logos/naveh_pharma_1996-logo.webp",
   "websiteUrl": "https://www.navehpharma.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "naveh-pharma-ltd-",
+  "linkedinNum": 8986142,
   "crunchbaseId": null,
+  "ivcId": "A1000000002715",
   "finderId": "naveh-pharma",
   "xId": "naveh1pharma",
+  "facebookId": "NavehPharma",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יד חרוצים",
-      "houseNumber": 11,
+      "street": "שדרות בן גוריון",
+      "houseNumber": 170,
       "city": "נתניה",
-      "lat": 32.2794157,
-      "lon": 34.86421640322024
+      "lat": 32.2819137,
+      "lon": 34.8458554
     }
   ],
   "isMultinational": false,
-  "facebookId": "NavehPharma",
-  "linkedinNum": 8986142
+  "isActive": true
 }

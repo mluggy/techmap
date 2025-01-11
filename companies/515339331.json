@@ -6,21 +6,26 @@
   "logoFile": "logos/beaconcure-logo.webp",
   "websiteUrl": "https://beaconcure.com/",
   "careersUrl": "https://beaconcure.com/careers/",
-  "isHiring": true,
   "linkedinId": "beaconcure",
+  "linkedinNum": 10420264,
   "crunchbaseId": null,
+  "ivcId": "A1000000204364",
   "finderId": "beaconcure",
   "xId": "beaconcure",
+  "facebookId": "beaconcure",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תע\"ש",
-      "houseNumber": 6,
-      "city": "רמת גן",
-      "lat": 32.0889179,
-      "lon": 34.8015247
+      "street": "ישראליס",
+      "houseNumber": 34,
+      "city": "תל אביב-יפו",
+      "lat": 32.0815195,
+      "lon": 34.7747366
     }
   ],
   "isMultinational": false,
-  "facebookId": "beaconcure",
-  "linkedinNum": 10420264
+  "isActive": true
 }

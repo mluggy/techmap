@@ -6,21 +6,26 @@
   "logoFile": "logos/human_xtensions-logo.webp",
   "websiteUrl": "https://human-x.com/",
   "careersUrl": "https://human-x.com/career/",
-  "isHiring": true,
   "linkedinId": "human-x",
+  "linkedinNum": 18178466,
   "crunchbaseId": null,
+  "ivcId": "A1000000022875",
   "finderId": "human-xtensions",
   "xId": "HXtensions",
+  "facebookId": "100089127493031&mibextid=LQQJ4d",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מאיר אריאל",
+      "street": "האלון",
       "houseNumber": 4,
-      "city": "נתניה",
-      "lat": 32.28154967292362,
-      "lon": 34.87388058016155
+      "city": "כפר נטר",
+      "lat": 32.2847655,
+      "lon": 34.872183
     }
   ],
   "isMultinational": false,
-  "facebookId": "100089127493031&mibextid=LQQJ4d",
-  "linkedinNum": 18178466
+  "isActive": true
 }

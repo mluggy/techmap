@@ -6,21 +6,26 @@
   "logoFile": "logos/magic_software_enterprises_israel-logo.webp",
   "websiteUrl": "https://www.magicsoftware.com/",
   "careersUrl": "https://www.magicsoftware.com/about-us/careers/",
-  "isHiring": true,
   "linkedinId": "magic-software-enterprises",
+  "linkedinNum": 164813,
   "crunchbaseId": null,
+  "ivcId": "A1000000006452",
   "finderId": "magic-software-enterprises",
   "xId": "MagicSoftware",
+  "facebookId": "MagicSoftwareEnterprises",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יהדות קנדה",
-      "houseNumber": 1,
+      "street": "הפלדה",
+      "houseNumber": 5,
       "city": "אור יהודה",
-      "lat": 32.020395,
-      "lon": 34.8606489
+      "lat": 32.0338269,
+      "lon": 34.8512501
     }
   ],
   "isMultinational": false,
-  "facebookId": "MagicSoftwareEnterprises",
-  "linkedinNum": 164813
+  "isActive": true
 }

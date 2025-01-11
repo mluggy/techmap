@@ -3,14 +3,20 @@
   "description": "Providing AI-driven solutions for generating and distributing credible content to protect reputations in the digital space.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/meteku_ai-logo.webp",
+  "logoFile": "logos/meteku-ai-logo.webp",
   "websiteUrl": "https://meteku-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "metkuai",
+  "linkedinNum": 92818064,
   "crunchbaseId": null,
+  "ivcId": "A1000000465133",
   "finderId": "meteku-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דיין משה",
@@ -19,5 +25,7 @@
       "lat": 31.937738850000002,
       "lon": 34.85547567186805
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

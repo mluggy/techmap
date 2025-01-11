@@ -6,21 +6,26 @@
   "logoFile": "logos/xvtec-logo.webp",
   "websiteUrl": "https://www.xvtec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "xvtec",
+  "linkedinNum": 2541002,
   "crunchbaseId": null,
+  "ivcId": "A1000000021510",
   "finderId": "xvtec",
   "xId": null,
+  "facebookId": "XVTECLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנגר",
-      "houseNumber": 24,
+      "street": "שלום עליכם",
+      "houseNumber": 1,
       "city": "הוד השרון",
-      "lat": 32.1302892,
-      "lon": 34.8947603
+      "lat": 32.159276,
+      "lon": 34.8878713
     }
   ],
   "isMultinational": false,
-  "facebookId": "XVTECLTD",
-  "linkedinNum": 2541002
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/navan_labs_israel-logo.webp",
   "websiteUrl": "https://navan.com/",
   "careersUrl": "https://navan.com/careers",
-  "isHiring": true,
   "linkedinId": "navan",
+  "linkedinNum": 79902774,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "navan",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": "TripActions",
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 58,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.060334,
       "lon": 34.782124
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79902774,
-  "greenhouseId": "TripActions"
+  "isActive": true
 }

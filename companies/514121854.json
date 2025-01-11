@@ -6,21 +6,26 @@
   "logoFile": "logos/genesys_labs-logo.webp",
   "websiteUrl": "https://www.genesys.com/",
   "careersUrl": "https://www.genesys.com/company/careers",
-  "isHiring": true,
   "linkedinId": "genesys",
+  "linkedinNum": 601919,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "genesys",
   "xId": "genesys",
+  "facebookId": "Genesys",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 146,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0778351,
       "lon": 34.794439538025976
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Genesys",
-  "linkedinNum": 601919
+  "isMultinational": false,
+  "isActive": true
 }

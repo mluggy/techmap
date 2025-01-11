@@ -1,0 +1,31 @@
+{
+  "name": "PerMe",
+  "description": "PerMe is an innovative biotech company that is developing the world's first digital DNA test kit.",
+  "categoryId": 12,
+  "size": "s",
+  "logoFile": "logos/perme-logo.webp",
+  "websiteUrl": "https://permedna.com",
+  "careersUrl": null,
+  "linkedinId": "perme-dna-profile",
+  "linkedinNum": 88676302,
+  "crunchbaseId": null,
+  "ivcId": "A1000000473957",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "משכית",
+      "houseNumber": 35,
+      "city": "הרצליה",
+      "lat": 32.1619808,
+      "lon": 34.80990180000001
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

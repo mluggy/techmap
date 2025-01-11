@@ -1,0 +1,31 @@
+{
+  "name": "Book Escape Room",
+  "description": "Book Escape Room is a global aggregator and booking platform for escape rooms.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/book-escape-room-logo.webp",
+  "websiteUrl": "https://bookescaperoom.co.il",
+  "careersUrl": null,
+  "linkedinId": "bookescaperoom",
+  "linkedinNum": 12960344,
+  "crunchbaseId": null,
+  "ivcId": "A1000000294605",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הדיונון",
+      "houseNumber": 7,
+      "city": "ראשון לציון",
+      "lat": 31.9880306,
+      "lon": 34.7818484
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

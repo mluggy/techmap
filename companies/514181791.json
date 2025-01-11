@@ -1,0 +1,31 @@
+{
+  "name": "MicroPay",
+  "description": "MicroPay provides messaging and billing platform, combining mobile campaign services with advanced SMS, MMS, WAP and IVR billing.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/micropay-logo.webp",
+  "websiteUrl": "http://www.micropay.co.il",
+  "careersUrl": null,
+  "linkedinId": "micropay-ltd",
+  "linkedinNum": 2261240,
+  "crunchbaseId": null,
+  "ivcId": "A1000000003192",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "עין שמש",
+      "houseNumber": 11,
+      "city": "גני תקווה",
+      "lat": 32.0621421,
+      "lon": 34.867818
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

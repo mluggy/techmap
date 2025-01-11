@@ -6,21 +6,26 @@
   "logoFile": "logos/icecure_medical-logo.webp",
   "websiteUrl": "https://www.icecure-medical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "icecure-medical",
+  "linkedinNum": 461122,
   "crunchbaseId": null,
+  "ivcId": "A1000000005970",
   "finderId": "icecure-medical",
   "xId": "IceCureMedical",
+  "facebookId": "IceCure-Medical-1076690015791424",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האשל",
+      "street": "חלמיש",
       "houseNumber": 7,
       "city": "קיסריה",
-      "lat": 32.4728942,
-      "lon": 34.940184
+      "lat": 32.4818848,
+      "lon": 34.9477286
     }
   ],
   "isMultinational": false,
-  "facebookId": "IceCure-Medical-1076690015791424",
-  "linkedinNum": 461122
+  "isActive": true
 }

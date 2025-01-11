@@ -6,21 +6,26 @@
   "logoFile": "logos/callup_net-logo.webp",
   "websiteUrl": "https://www.callup.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "callup",
+  "linkedinNum": 113537,
   "crunchbaseId": null,
+  "ivcId": "A1000000010698",
   "finderId": "callup-net",
   "xId": "CallUpNet",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יגיע כפיים",
-      "houseNumber": 17,
-      "city": "פתח תקווה",
-      "lat": 32.0975221,
-      "lon": 34.8528412
+      "street": "עמל",
+      "houseNumber": 1,
+      "city": "ראש העין",
+      "lat": 32.1086671,
+      "lon": 34.96513729999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 113537
+  "isActive": true
 }

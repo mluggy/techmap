@@ -1,16 +1,22 @@
 {
   "name": "Profisea Labs",
-  "description": "AI-based Multi-cloud Management FinOps Platform",
+  "description": "ProfiSea is a boutique company providing consulting, implementation and coaching services with a specialty in  DevOps, Cloud Computing, QA Automation, ALM and Agile transformation. .",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/profisea_labs-logo.webp",
-  "websiteUrl": "https://profisealabs.com/",
+  "websiteUrl": "https://profisea.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "profisea",
+  "linkedinNum": 10001614,
   "crunchbaseId": null,
+  "ivcId": "A1000000224801",
   "finderId": "profisea-labs",
   "xId": null,
+  "facebookId": "profisea",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לב השכונה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "profisea",
-  "linkedinNum": 10001614
+  "isActive": true
 }

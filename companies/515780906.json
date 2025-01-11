@@ -1,26 +1,31 @@
 {
   "name": "GeoCloud",
-  "description": "Cloud-powered Geoinformation Platform",
+  "description": "Cloud-powered Geoinformation Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/geocloud-logo.webp",
   "websiteUrl": "https://www.geocloud.work/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "geocloud-work",
+  "linkedinNum": 28184692,
   "crunchbaseId": null,
+  "ivcId": "A1000000466699",
   "finderId": "geocloud",
   "xId": null,
+  "facebookId": "GeoCloud-1410733988991482",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רעות",
       "houseNumber": 7,
       "city": "הוד השרון",
-      "lat": 32.1592344,
-      "lon": 34.8999979
+      "lat": 32.1596991,
+      "lon": 34.9007659
     }
   ],
   "isMultinational": false,
-  "facebookId": "GeoCloud-1410733988991482",
-  "linkedinNum": 28184692
+  "isActive": true
 }

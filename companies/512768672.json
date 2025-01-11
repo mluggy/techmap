@@ -6,20 +6,26 @@
   "logoFile": "logos/sc-square.webp",
   "websiteUrl": null,
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sc-square",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "וייז ג'ורג'",
       "houseNumber": 17,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.10868703224132,
       "lon": 34.80611256064269
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

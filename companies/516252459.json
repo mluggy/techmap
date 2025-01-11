@@ -6,20 +6,26 @@
   "logoFile": "logos/flowsec-logo.webp",
   "websiteUrl": "https://flow-sec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "flow-sec",
+  "linkedinNum": 72007578,
   "crunchbaseId": null,
+  "ivcId": "A1000000388482",
   "finderId": "flowsec-ltd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הסיבים",
-      "houseNumber": 1,
-      "city": "פתח תקווה",
-      "lat": 32.0911207,
-      "lon": 34.8569466
+      "street": "מדברון",
+      "houseNumber": 22,
+      "city": "להבים",
+      "lat": 31.3678694,
+      "lon": 34.8043415
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72007578
+  "isActive": true
 }

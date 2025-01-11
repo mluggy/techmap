@@ -6,12 +6,26 @@
   "logoFile": "logos/fornax-logo.webp",
   "websiteUrl": "https://fornax.dk/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "fornaxearth",
+  "linkedinNum": 94836765,
   "crunchbaseId": null,
+  "ivcId": "A1000000416590",
   "finderId": "fornax",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "נחשונים",
+      "lat": 32.063236,
+      "lon": 34.947011
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 94836765
+  "isActive": true
 }

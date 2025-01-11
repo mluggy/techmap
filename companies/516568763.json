@@ -6,21 +6,26 @@
   "logoFile": "logos/eggmented_reality-logo.webp",
   "websiteUrl": "https://eggmented.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "eggmented-reality",
+  "linkedinNum": 85873749,
   "crunchbaseId": "eggmented-reality",
+  "ivcId": "A1000000381939",
   "finderId": "eggmented-reality",
   "xId": null,
+  "facebookId": "100081271043663&paipv=0&eav=AfaYfjjiPqUO625fveTapg4MCfM7Kw-6M6Iv5JyHgcmADS7gsMYRu2IPzwk_Ah3XyNQ&_rdr",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חצב",
       "houseNumber": 30,
-      "city": "קריית שמונה",
-      "lat": 33.2115548,
-      "lon": 35.5787624
+      "city": "קרית שמונה",
+      "lat": 33.21153900000001,
+      "lon": 35.578711
     }
   ],
   "isMultinational": false,
-  "facebookId": "100081271043663&paipv=0&eav=AfaYfjjiPqUO625fveTapg4MCfM7Kw-6M6Iv5JyHgcmADS7gsMYRu2IPzwk_Ah3XyNQ&_rdr",
-  "linkedinNum": 85873749
+  "isActive": true
 }

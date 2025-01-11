@@ -1,0 +1,31 @@
+{
+  "name": "Mindomics",
+  "description": "Mindomics is developing advanced machine learning algorithms to optimize the effectiveness of mental health care.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/mindomics-logo.webp",
+  "websiteUrl": "https://www.mind-omics.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000475512",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "האילנות",
+      "houseNumber": 42,
+      "city": "הרצליה",
+      "lat": 32.1783236,
+      "lon": 34.8453567
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

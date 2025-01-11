@@ -6,21 +6,26 @@
   "logoFile": "logos/aimbetter-logo.webp",
   "websiteUrl": "https://www.aimbetter.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "aimbettergroup",
+  "linkedinNum": 6444168,
   "crunchbaseId": null,
+  "ivcId": "A1000000198609",
   "finderId": "aimbetter",
   "xId": "better_aim",
+  "facebookId": "sqlservermonitor",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חודשי השנה",
       "houseNumber": 4,
-      "city": "אשקלון",
-      "lat": 31.6729205,
-      "lon": 34.5757598
+      "city": "הוד השרון",
+      "lat": 32.16201,
+      "lon": 34.886409
     }
   ],
   "isMultinational": false,
-  "facebookId": "sqlservermonitor",
-  "linkedinNum": 6444168
+  "isActive": true
 }

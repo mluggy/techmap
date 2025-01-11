@@ -1,0 +1,31 @@
+{
+  "name": "FXCM",
+  "description": "FXCM Israel, part of FXCM global, provides solutions for individual traders.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/fxcm-logo.webp",
+  "websiteUrl": "https://www.fxcm.co.il",
+  "careersUrl": null,
+  "linkedinId": "fxcm-israel",
+  "linkedinNum": 844274,
+  "crunchbaseId": null,
+  "ivcId": "A1000000212021",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יחזקאל",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.093397,
+      "lon": 34.7777669
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

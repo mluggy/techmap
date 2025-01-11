@@ -6,20 +6,26 @@
   "logoFile": "logos/innovative_assessments_international-logo.webp",
   "websiteUrl": "https://www.iassessments.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "innovative-assessments",
+  "linkedinNum": 10379319,
   "crunchbaseId": null,
+  "ivcId": "A1000000224141",
   "finderId": "innovative-assessments",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תרשיש",
-      "houseNumber": 31,
-      "city": "שוהם",
-      "lat": 31.9921762,
-      "lon": 34.9396509
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10379319
+  "isActive": true
 }

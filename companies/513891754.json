@@ -6,21 +6,26 @@
   "logoFile": "logos/mobilicom-logo.webp",
   "websiteUrl": "https://mobilicom.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mobilicom",
+  "linkedinNum": 269088,
   "crunchbaseId": null,
+  "ivcId": "A1000000010373",
   "finderId": "mobilicom",
   "xId": "mobilicomasx",
+  "facebookId": "mobilicom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רקפת",
       "houseNumber": 1,
-      "city": "שוהם",
-      "lat": 32.01948610162985,
-      "lon": 34.961390245419054
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.8834712,
+      "lon": 35.016816
     }
   ],
   "isMultinational": false,
-  "facebookId": "mobilicom",
-  "linkedinNum": 269088
+  "isActive": true
 }

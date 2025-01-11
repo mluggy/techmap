@@ -6,21 +6,26 @@
   "logoFile": "logos/eventgo-logo.webp",
   "websiteUrl": "https://eventgo.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "eventgoinc",
+  "linkedinNum": 3264988,
   "crunchbaseId": null,
+  "ivcId": "A1000000008706",
   "finderId": "eventgo",
   "xId": null,
+  "facebookId": "EventgoLtd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החילזון",
-      "houseNumber": 3,
-      "city": "רמת גן",
-      "lat": 32.0861321,
-      "lon": 34.8040698
+      "street": "פנקס",
+      "houseNumber": 24,
+      "city": "תל אביב-יפו",
+      "lat": 32.0908006,
+      "lon": 34.7858239
     }
   ],
   "isMultinational": false,
-  "facebookId": "EventgoLtd",
-  "linkedinNum": 3264988
+  "isActive": true
 }

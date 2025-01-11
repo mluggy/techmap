@@ -1,23 +1,31 @@
 {
   "name": "Walleworkers AI",
-  "description": "Operating in secret to develop innovative solutions.",
-  "categoryId": 1,
+  "description": "WalleWorkers is dedicated to unleashing the potential of AI. The company builds a platform that connects businesses to a future, where AI is utilized.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/walleworkers_ai-logo.webp",
-  "websiteUrl": "https://www.andmilo.com/",
+  "websiteUrl": "https://www.walleworkers.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000460317",
   "finderId": "walleworkers-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הקרן",
+      "street": "Hakeren Street",
       "houseNumber": 8,
-      "city": "הרצליה",
-      "lat": 32.15981295,
-      "lon": 34.8220386548347
+      "city": "Herzliya",
+      "lat": 32.1595391,
+      "lon": 34.8230526
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

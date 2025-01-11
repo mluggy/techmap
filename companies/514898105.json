@@ -1,16 +1,22 @@
 {
   "name": "Intuitive",
   "description": "Committed to leading the industry by providing advanced systems, technology, and management solutions for targeted outcomes.",
-  "size": "s",
   "categoryId": 14,
+  "size": "s",
   "logoFile": "logos/intuitive_marketing-logo.webp",
   "websiteUrl": "https://www.intuitive.com/en-us",
   "careersUrl": "https://irtc-hq.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 2089819,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "intuitive",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הזית גני יהודה",
@@ -20,6 +26,6 @@
       "lon": 34.88131954592422
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 2089819
+  "isMultinational": false,
+  "isActive": true
 }

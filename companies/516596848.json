@@ -1,25 +1,31 @@
 {
   "name": "NetaGenomiX",
-  "description": "Revolutionizing Plant Genetics",
+  "description": "NetaGenomiX aims to develop, grow and supply better annual and perennial, high-yielding sustainable crop varieties, better adapted to climate change with improved nutritional and health properties.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/netagenomix-logo.webp",
-  "websiteUrl": "https://netagenomix.com/",
+  "websiteUrl": "https://agchimedes.com/distree",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "netagenomix",
+  "linkedinNum": 100164472,
   "crunchbaseId": null,
+  "ivcId": "A1000000409959",
   "finderId": "netagenomix",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בית ספר חקלאי מקווה ישראל",
+      "street": "מקווה ישראל",
       "houseNumber": null,
-      "city": "מקווה ישראל",
-      "lat": 32.02931658707364,
-      "lon": 34.780903191517965
+      "city": "חולון",
+      "lat": 32.0283105,
+      "lon": 34.7778564
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 100164472
+  "isActive": true
 }

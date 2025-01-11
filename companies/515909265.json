@@ -6,11 +6,17 @@
   "logoFile": "logos/neureality-logo.webp",
   "websiteUrl": "https://www.neureality.ai/",
   "careersUrl": "https://www.neureality.ai/careers/",
-  "isHiring": true,
   "linkedinId": "neureality",
+  "linkedinNum": 33289514,
   "crunchbaseId": null,
+  "ivcId": "A1000000294834",
   "finderId": "neureality",
   "xId": "neureality_ai",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תרשיש",
@@ -22,11 +28,11 @@
     {
       "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.069018,
       "lon": 34.7941094
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 33289514
+  "isActive": true
 }

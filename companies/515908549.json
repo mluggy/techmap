@@ -6,12 +6,26 @@
   "logoFile": "logos/novagreen-logo.webp",
   "websiteUrl": "https://novagreen-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "novaplasma-com",
+  "linkedinNum": 18883554,
   "crunchbaseId": "novagreen",
+  "ivcId": "A1000000295532",
   "finderId": "novagreen",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "קיבוץ מגידו",
+      "lat": 32.57923343409223,
+      "lon": 35.17969127007853
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 18883554
+  "isActive": true
 }

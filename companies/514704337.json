@@ -6,13 +6,26 @@
   "logoFile": "logos/sensoguard-logo.webp",
   "websiteUrl": "https://www.sensoguard.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "sensoguard-ltd-",
+  "linkedinNum": 2977317,
   "crunchbaseId": null,
+  "ivcId": "A1000000169655",
   "finderId": "sensoguard",
   "xId": "sensoguard",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "sensoguard",
-  "linkedinNum": 2977317
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרוב",
+      "houseNumber": 1,
+      "city": "מודיעין",
+      "lat": 31.89667717844944,
+      "lon": 35.034295216277584
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/oracle_demantra_r_d_center_israel_ltd-logo.webp",
   "websiteUrl": "https://www.oracle.com/",
   "careersUrl": "https://www.oracle.com/careers/",
-  "isHiring": true,
   "linkedinId": "oracle",
+  "linkedinNum": 1028,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "oracle",
   "xId": "Oracle",
+  "facebookId": "oracleisrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברט אהרון",
@@ -20,7 +26,6 @@
       "lon": 34.8613485
     }
   ],
-  "isMultinational": true,
-  "facebookId": "oracleisrael",
-  "linkedinNum": 1028
+  "isMultinational": false,
+  "isActive": true
 }

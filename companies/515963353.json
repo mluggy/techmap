@@ -6,20 +6,26 @@
   "logoFile": "logos/liquidapps-logo.webp",
   "websiteUrl": "https://liquidapps.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "liquidapps",
+  "linkedinNum": 13007933,
   "crunchbaseId": null,
+  "ivcId": "A1000000324379",
   "finderId": "liquidapp",
   "xId": "LiquidAppsIO",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עמק ברכה",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.07702,
-      "lon": 34.795463
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.0771755,
+      "lon": 34.7960283
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 13007933
+  "isActive": true
 }

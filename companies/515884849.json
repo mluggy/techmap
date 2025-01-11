@@ -6,20 +6,26 @@
   "logoFile": "logos/the_mediterranean_food_lab-logo.webp",
   "websiteUrl": "https://www.med-food-lab.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "the-mediterranean-food-lab",
+  "linkedinNum": 68513278,
   "crunchbaseId": null,
+  "ivcId": "A1000000369506",
   "finderId": "the-mediterranean-food-lab",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בית השואבה",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.065729,
-      "lon": 34.771718
+      "street": "נחלת בנימין",
+      "houseNumber": 36,
+      "city": "תל אביב-יפו",
+      "lat": 32.0650841,
+      "lon": 34.7708837
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68513278
+  "isActive": true
 }

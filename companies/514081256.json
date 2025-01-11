@@ -1,16 +1,22 @@
 {
   "name": "Bayer",
   "description": "Developing innovative agricultural solutions to support farmers and enhance crop production for a sustainable future.",
-  "size": "m",
   "categoryId": 17,
+  "size": "m",
   "logoFile": "logos/bayer_israel-logo.webp",
   "websiteUrl": "https://www.bayer.com/",
   "careersUrl": "https://www.bayer.com/en/career",
-  "isHiring": true,
   "linkedinId": "bayer",
+  "linkedinNum": 1893,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bayer",
   "xId": "bayer",
+  "facebookId": "bayer.israel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "החרש",
@@ -20,7 +26,6 @@
       "lon": 34.896831
     }
   ],
-  "isMultinational": true,
-  "facebookId": "bayer.israel",
-  "linkedinNum": 1893
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,12 +6,26 @@
   "logoFile": "logos/real_view_imaging-logo.webp",
   "websiteUrl": "https://realviewimaging.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "realview-imaging",
+  "linkedinNum": 2239612,
   "crunchbaseId": null,
+  "ivcId": "A1000000002659",
   "finderId": "realview-imaging",
   "xId": "realviewimaging",
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "התנופה",
+      "houseNumber": 4,
+      "city": "יוקנעם עילית",
+      "lat": 32.6676416,
+      "lon": 35.107299
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 2239612
+  "isActive": true
 }

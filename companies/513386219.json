@@ -6,21 +6,26 @@
   "logoFile": "logos/atlantium_technologies-logo.webp",
   "websiteUrl": "https://atlantium.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "atlantium",
+  "linkedinNum": 72888,
   "crunchbaseId": null,
+  "ivcId": "A1000000007277",
   "finderId": "atlantium",
   "xId": "atlantiumuv",
+  "facebookId": "atlantiumuv",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרטוב",
-      "houseNumber": 9,
+      "street": "המלאכה",
+      "houseNumber": 11,
       "city": "בית שמש",
-      "lat": 31.74604985141803,
-      "lon": 34.99390957502699
+      "lat": 31.7744136,
+      "lon": 34.999083
     }
   ],
   "isMultinational": false,
-  "facebookId": "atlantiumuv",
-  "linkedinNum": 72888
+  "isActive": true
 }

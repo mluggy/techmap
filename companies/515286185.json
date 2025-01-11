@@ -1,26 +1,31 @@
 {
   "name": "Sabres Security",
-  "description": "Protection for Open-source CMS Applications",
+  "description": "Protection for Open-source CMS Applications.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/sabres_security-logo.webp",
   "websiteUrl": "https://www.sabressecurity.com",
   "careersUrl": "https://careers.sabresystems.com/",
-  "isHiring": true,
   "linkedinId": "sabres-security",
+  "linkedinNum": 10680548,
   "crunchbaseId": "sabres-security",
+  "ivcId": "A1000000269671",
   "finderId": "sabres-security",
   "xId": null,
+  "facebookId": "sabressec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המשביר",
-      "houseNumber": 19,
-      "city": "חולון",
-      "lat": 32.014275,
-      "lon": 34.8023584
+      "street": "מצדה",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.09470710000001,
+      "lon": 34.8242972
     }
   ],
   "isMultinational": false,
-  "facebookId": "sabressec",
-  "linkedinNum": 10680548
+  "isActive": true
 }

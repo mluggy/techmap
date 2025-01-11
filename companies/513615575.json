@@ -6,11 +6,17 @@
   "logoFile": "logos/reach_investments-logo.webp",
   "websiteUrl": "https://reachhq.com/static/index.html",
   "careersUrl": "https://www.livemedhealth.com/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 10466693,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "livemed",
   "xId": "reachhqcom",
+  "facebookId": "reachhqcom",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גרינברג אורי צבי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "reachhqcom",
-  "linkedinNum": 10466693
+  "isActive": true
 }

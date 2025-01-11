@@ -1,16 +1,22 @@
 {
   "name": "BLender",
-  "description": "Global Lending Platform",
+  "description": "Global Lending Platform.",
   "categoryId": 10,
   "size": "s",
   "logoFile": "logos/blender_p_2_p_israel-logo.webp",
   "websiteUrl": "https://blender.global/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 8000917,
   "crunchbaseId": null,
+  "ivcId": "A1000000024040",
   "finderId": "blender",
   "xId": "BLender_Lending",
+  "facebookId": "blender.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ז'בוטינסקי",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "blender.co.il",
-  "linkedinNum": 8000917
+  "isActive": true
 }

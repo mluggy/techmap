@@ -6,21 +6,26 @@
   "logoFile": "logos/feature_forward-logo.webp",
   "websiteUrl": "https://www.featureforward.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "feature-forward",
+  "linkedinNum": 10231052,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "feature-forward",
   "xId": "featureforward",
+  "facebookId": "FeatureForward",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הארבעה",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0705297,
       "lon": 34.7872761
     }
   ],
   "isMultinational": false,
-  "facebookId": "FeatureForward",
-  "linkedinNum": 10231052
+  "isActive": true
 }

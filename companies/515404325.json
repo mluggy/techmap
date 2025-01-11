@@ -6,21 +6,26 @@
   "logoFile": "logos/webz_io-logo.webp",
   "websiteUrl": "https://webz.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "webz-io-official",
+  "linkedinNum": 4849734,
   "crunchbaseId": null,
+  "ivcId": "A1000000200245",
   "finderId": "webhose-io",
   "xId": "webz_io",
+  "facebookId": "webz.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מצדה",
+      "street": "מסדה",
       "houseNumber": 7,
-      "city": "בני ברק",
-      "lat": 32.0935847,
-      "lon": 34.8251159
+      "city": "פתח תקווה",
+      "lat": 32.0912711,
+      "lon": 34.8517589
     }
   ],
   "isMultinational": false,
-  "facebookId": "webz.io",
-  "linkedinNum": 4849734
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Agwa",
-  "description": "Autonomous AI-driven Home Vegetable Grower",
+  "description": "Autonomous AI-driven Home Vegetable Grower.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/agwa_farm-logo.webp",
   "websiteUrl": "https://www.agwafarm.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "agwafarm",
+  "linkedinNum": 34877400,
   "crunchbaseId": null,
+  "ivcId": "A1000000320230",
   "finderId": "agwa",
   "xId": null,
+  "facebookId": "agwafarm.virtual.agronomist",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
       "houseNumber": null,
-      "city": "בר-לב",
-      "lat": 32.90561775,
-      "lon": 35.193001605491105
+      "city": "אחיהוד",
+      "lat": 32.907405,
+      "lon": 35.171715
     }
   ],
   "isMultinational": false,
-  "facebookId": "agwafarm.virtual.agronomist",
-  "linkedinNum": 34877400
+  "isActive": true
 }

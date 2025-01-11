@@ -1,16 +1,22 @@
 {
   "name": "Bsense Bio Therapeutics",
-  "description": "Neuropathic Pain Treatment",
+  "description": "Bsense Bio Therapeutics is developing small molecules for the treatment of sensory hyperexcitability related disorders.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/bsense_bio_therapeutics-logo.webp",
-  "websiteUrl": "https://www.futurx.co.il/portfolio/bsense-bio-therapeutics/",
+  "websiteUrl": "https://www.bsense-bio.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mbcure-ltd-",
+  "linkedinNum": 9442156,
   "crunchbaseId": null,
+  "ivcId": "A1000000267201",
   "finderId": "bsense-bio-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רמון אילן",
@@ -20,5 +26,6 @@
       "lon": 34.80439671200948
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

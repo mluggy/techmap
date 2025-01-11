@@ -6,21 +6,26 @@
   "logoFile": "logos/degem_engineering_s_y-logo.webp",
   "websiteUrl": "https://3degem.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 70451567,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "degem",
   "xId": null,
+  "facebookId": "3degem",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 156,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0797181,
       "lon": 34.7957816
     }
   ],
   "isMultinational": false,
-  "facebookId": "3degem",
-  "linkedinNum": 70451567
+  "isActive": true
 }

@@ -6,19 +6,26 @@
   "logoFile": "logos/parasonic-logo.webp",
   "websiteUrl": "https://para-sonic.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "parasonic",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פאת השולחן",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.077864,
       "lon": 34.80064
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

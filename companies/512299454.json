@@ -6,21 +6,26 @@
   "logoFile": "logos/tav_tech-logo.webp",
   "websiteUrl": "https://tav-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tav-tech-ltd",
+  "linkedinNum": 976069,
   "crunchbaseId": null,
+  "ivcId": "A1000000007153",
   "finderId": "tavtech",
   "xId": null,
+  "facebookId": "Tav-Tech-Jet-Your-Skin-117818894908437",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך העצמאות",
       "houseNumber": 40,
-      "city": "יהוד-מונוסון",
-      "lat": 32.0267353,
-      "lon": 34.8933861
+      "city": "יהוד מונוסון",
+      "lat": 32.0280854,
+      "lon": 34.8885086
     }
   ],
   "isMultinational": false,
-  "facebookId": "Tav-Tech-Jet-Your-Skin-117818894908437",
-  "linkedinNum": 976069
+  "isActive": true
 }

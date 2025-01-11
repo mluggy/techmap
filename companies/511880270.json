@@ -6,20 +6,26 @@
   "logoFile": "logos/artware-logo.webp",
   "websiteUrl": "https://www.artwaresoft.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "artwaresoft",
+  "linkedinNum": 300918,
   "crunchbaseId": null,
+  "ivcId": "A1000000199677",
   "finderId": "artware",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הכלנית",
+      "street": "מבוא הכלנית",
       "houseNumber": 15,
-      "city": "כוכב יאיר",
-      "lat": 32.2251307,
-      "lon": 35.003459
+      "city": "כוכב יאיר צור יגאל",
+      "lat": 32.2245479,
+      "lon": 35.0041987
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 300918
+  "isActive": true
 }

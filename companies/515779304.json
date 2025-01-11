@@ -6,12 +6,26 @@
   "logoFile": "logos/h_4_bees-logo.webp",
   "websiteUrl": "https://h4bees.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "h4bees",
+  "linkedinNum": 82637762,
   "crunchbaseId": null,
+  "ivcId": "A1000000460570",
   "finderId": "h4bees",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "שדרות",
+      "lat": 31.52269399999999,
+      "lon": 34.595581
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 82637762
+  "isActive": true
 }

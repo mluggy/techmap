@@ -3,14 +3,20 @@
   "description": "Soly uniquely combines specialized trauma AI, immediate SOS help, and a comprehensive app interface, all of which are underpinned by evidence-based ...",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/soly_emotional_health-logo.webp",
+  "logoFile": "logos/soly-emotional-health-logo.webp",
   "websiteUrl": "https://soly.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "hellosoly",
+  "linkedinNum": 80716095,
   "crunchbaseId": "soly-emotional-health",
+  "ivcId": "A1000000459610",
   "finderId": "soly-emotional-health",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלפסי",
@@ -19,5 +25,7 @@
       "lat": 31.7730258,
       "lon": 35.2120321
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

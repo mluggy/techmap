@@ -6,11 +6,17 @@
   "logoFile": "logos/appsflyer-logo.webp",
   "websiteUrl": "https://www.appsflyer.com/",
   "careersUrl": "https://careers.appsflyer.com/",
-  "isHiring": true,
   "linkedinId": "appsflyerhq",
+  "linkedinNum": 2233984,
   "crunchbaseId": null,
+  "ivcId": "A1000000009183",
   "finderId": "appsflyer",
   "xId": "appsflyer",
+  "facebookId": "AppsFlyer",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "AppsFlyer",
-  "linkedinNum": 2233984
+  "isActive": true
 }

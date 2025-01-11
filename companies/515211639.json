@@ -6,19 +6,26 @@
   "logoFile": "logos/revtimize-logo.webp",
   "websiteUrl": "https://www.revtimize.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "revtimize",
+  "ivcId": "A1000000227920",
   "finderId": "revtimize",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רפידים",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.109332,
-      "lon": 34.814709
+      "street": "הנחושת",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.1099275,
+      "lon": 34.8381351
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

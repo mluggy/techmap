@@ -6,20 +6,26 @@
   "logoFile": "logos/setbone_medical-logo.webp",
   "websiteUrl": "https://www.setbone.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "setbone-medical",
+  "linkedinNum": 75860698,
   "crunchbaseId": null,
+  "ivcId": "A1000000248058",
   "finderId": "setbone-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ברקוביץ",
-      "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.078703,
-      "lon": 34.7870616
+      "street": "פנחס ספיר",
+      "houseNumber": 7,
+      "city": "נס ציונה",
+      "lat": 31.9161023,
+      "lon": 34.8038912
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 75860698
+  "isActive": true
 }

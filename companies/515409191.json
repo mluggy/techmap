@@ -6,11 +6,17 @@
   "logoFile": "logos/onmap-logo.webp",
   "websiteUrl": "https://www.onmap.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10694773,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "onmap",
   "xId": "OnMap_ltd",
+  "facebookId": "onmapltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פיק\"א",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "onmapltd",
-  "linkedinNum": 10694773
+  "isActive": true
 }

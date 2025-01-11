@@ -1,0 +1,31 @@
+{
+  "name": "myAir",
+  "description": "myAir is a data-driven foodtech startup that leverages AI to personalize stress relief via plant-powered nutrition bars.",
+  "categoryId": 14,
+  "size": "s",
+  "logoFile": "logos/myair-logo.webp",
+  "websiteUrl": "https://myair.ai",
+  "careersUrl": null,
+  "linkedinId": "myair-foodtech",
+  "linkedinNum": 34924716,
+  "crunchbaseId": null,
+  "ivcId": "A1000000309658",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שלוש",
+      "houseNumber": 11,
+      "city": "תל אביב-יפו",
+      "lat": 32.0621057,
+      "lon": 34.7641326
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

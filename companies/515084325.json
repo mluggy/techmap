@@ -1,16 +1,23 @@
 {
   "name": "Celestya",
-  "description": "Human Behavior and Awareness Training for Mitigating Cyber Risks",
+  "description": "Human Behavior and Awareness Training for Mitigating Cyber Risks.",
   "categoryId": 7,
   "size": "xs",
   "logoFile": "logos/celestya-logo.webp",
   "websiteUrl": "https://www.celestya.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000219851",
   "finderId": "celestya",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

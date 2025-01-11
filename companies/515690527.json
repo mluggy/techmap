@@ -1,26 +1,31 @@
 {
   "name": "FUTURING UP",
-  "description": "Digital Platform for Life After Retirement",
+  "description": "Digital Platform for Life After Retirement.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/futuring_up_technologies_2017-logo.webp",
   "websiteUrl": "https://www.futuringup.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "futuring-up",
+  "linkedinNum": 18187694,
   "crunchbaseId": "futuringup-technologies",
+  "ivcId": "A1000000255599",
   "finderId": "futuring-up",
   "xId": null,
+  "facebookId": "FuturingUp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הרוקמים",
-      "houseNumber": 26,
-      "city": "חולון",
-      "lat": 32.0077054,
-      "lon": 34.80060304320986
+      "street": "שוקן",
+      "houseNumber": 32,
+      "city": "תל אביב-יפו",
+      "lat": 32.0509009,
+      "lon": 34.7715214
     }
   ],
   "isMultinational": false,
-  "facebookId": "FuturingUp",
-  "linkedinNum": 18187694
+  "isActive": true
 }

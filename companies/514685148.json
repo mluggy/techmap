@@ -1,16 +1,22 @@
 {
   "name": "Safeguard Applied Innovation",
-  "description": "Safety Management Platform for the Construction Industry",
+  "description": "Safety Management Platform for the Construction Industry.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/safeguard_applied_innovation-logo.webp",
   "websiteUrl": "https://en.safeguard.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "safeguardappliedinnovation",
+  "linkedinNum": 3334371,
   "crunchbaseId": "safeguard-applied-innovation",
+  "ivcId": "A1000000236917",
   "finderId": "safeguard-applied-innovation",
   "xId": null,
+  "facebookId": "Safeguard-applied-innovation-209967329881388",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הלוי שלמה (מומו)",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Safeguard-applied-innovation-209967329881388",
-  "linkedinNum": 3334371
+  "isActive": true
 }

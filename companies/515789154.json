@@ -6,11 +6,17 @@
   "logoFile": "logos/polywizz-logo.webp",
   "websiteUrl": "https://www.polywizz.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "polywizz",
+  "linkedinNum": 25075175,
   "crunchbaseId": null,
+  "ivcId": "A1000000254045",
   "finderId": "polywizz",
   "xId": "poly_wizz",
+  "facebookId": "polywizz",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מצדה",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "polywizz",
-  "linkedinNum": 25075175
+  "isActive": true
 }

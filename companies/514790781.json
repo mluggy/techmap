@@ -6,21 +6,26 @@
   "logoFile": "logos/sailpoint_technologies_israel-logo.webp",
   "websiteUrl": "https://www.sailpoint.com/",
   "careersUrl": "https://www.sailpoint.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "sailpoint-technologies",
+  "linkedinNum": 47456,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sailpoint",
   "xId": "SailPoint",
+  "facebookId": "SailPoint",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נירים",
       "houseNumber": 1,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.062277,
       "lon": 34.79049
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SailPoint",
-  "linkedinNum": 47456
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/curalife-logo.webp",
   "websiteUrl": "https://curalife.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "curalife",
+  "linkedinNum": 5344384,
   "crunchbaseId": null,
+  "ivcId": "A1000000368638",
   "finderId": "curalife",
   "xId": "CuraLife",
+  "facebookId": "curalife",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עין גנים",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.062983,
-      "lon": 34.768536
+      "street": "מיקוניס",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0601154,
+      "lon": 34.7855471
     }
   ],
   "isMultinational": false,
-  "facebookId": "curalife",
-  "linkedinNum": 5344384
+  "isActive": true
 }

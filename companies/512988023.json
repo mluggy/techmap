@@ -6,21 +6,26 @@
   "logoFile": "logos/urban_aeronautics-logo.webp",
   "websiteUrl": "https://www.urbanaero.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "urban-aeronautics",
+  "linkedinNum": 2101704,
   "crunchbaseId": null,
+  "ivcId": "A1000000004195",
   "finderId": "urban-aeronautics",
   "xId": "realurbanaero",
+  "facebookId": "RealUrbanAero",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחל שניר",
       "houseNumber": 10,
-      "city": "יבנה",
-      "lat": 31.8993354,
-      "lon": 34.7385308
+      "city": "אשדוד",
+      "lat": 31.7815202,
+      "lon": 34.6337159
     }
   ],
   "isMultinational": false,
-  "facebookId": "RealUrbanAero",
-  "linkedinNum": 2101704
+  "isActive": true
 }

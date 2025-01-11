@@ -6,20 +6,26 @@
   "logoFile": "logos/upwind_security-logo.webp",
   "websiteUrl": "https://www.upwind.io/",
   "careersUrl": "https://www.upwind.io/careers",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "upwind-security",
   "xId": "upwindsecurity",
+  "facebookId": "upwindsec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 152,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.079241,
       "lon": 34.795072
     }
   ],
   "isMultinational": false,
-  "facebookId": "upwindsec"
+  "isActive": true
 }

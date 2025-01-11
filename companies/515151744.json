@@ -6,21 +6,26 @@
   "logoFile": "logos/colu_technologies-logo.webp",
   "websiteUrl": "https://colu.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "colu-co",
+  "linkedinNum": 4859812,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "colu",
   "xId": "ColuApp",
+  "facebookId": "ColuApp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072746,
       "lon": 34.794968
     }
   ],
   "isMultinational": false,
-  "facebookId": "ColuApp",
-  "linkedinNum": 4859812
+  "isActive": true
 }

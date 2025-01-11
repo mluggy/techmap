@@ -6,22 +6,26 @@
   "logoFile": "logos/comunix-logo.webp",
   "websiteUrl": "https://www.getcomunix.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "getcomunix",
+  "linkedinNum": 11368521,
   "crunchbaseId": null,
+  "ivcId": "A1000000293742",
   "finderId": "comunix",
   "xId": null,
+  "facebookId": "joinpokerface",
+  "breezyId": null,
+  "comeetId": "comunix/86.006",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
-      "houseNumber": 23,
-      "city": "תל אביב - יפו",
-      "lat": 32.063834,
-      "lon": 34.780027
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.07939100000001,
+      "lon": 34.793797
     }
   ],
   "isMultinational": false,
-  "facebookId": "joinpokerface",
-  "linkedinNum": 11368521,
-  "comeetId": "comunix/86.006"
+  "isActive": true
 }

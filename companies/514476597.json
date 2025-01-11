@@ -6,11 +6,17 @@
   "logoFile": "logos/edge_social-logo.webp",
   "websiteUrl": "https://translate.google.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dau-up-excitead",
   "xId": null,
+  "facebookId": "edge226",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "edge226"
+  "isActive": true
 }

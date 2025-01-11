@@ -6,11 +6,17 @@
   "logoFile": "logos/parallel_wireless_israel-logo.webp",
   "websiteUrl": "https://www.parallelwireless.com/",
   "careersUrl": "https://www.parallelwireless.com/careers/",
-  "isHiring": true,
   "linkedinId": "parallel-wireless-inc",
+  "linkedinNum": 2875687,
   "crunchbaseId": "parallel-wireless",
+  "ivcId": null,
   "finderId": "parallel-wireless",
   "xId": "Parallel_tw",
+  "facebookId": "ParallelWireless",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": "parallelwireless",
   "addresses": [
     {
       "street": "צור צור יגאל",
@@ -20,8 +26,6 @@
       "lon": 34.9891577
     }
   ],
-  "isMultinational": true,
-  "facebookId": "ParallelWireless",
-  "linkedinNum": 2875687,
-  "leverId": "parallelwireless"
+  "isMultinational": false,
+  "isActive": true
 }

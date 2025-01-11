@@ -6,22 +6,26 @@
   "logoFile": "logos/ai_21_labs-logo.webp",
   "websiteUrl": "https://www.ai21.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ai21",
+  "linkedinNum": 18424078,
   "crunchbaseId": null,
+  "ivcId": "A1000000249053",
   "finderId": "ai211",
   "xId": "AI21Labs",
+  "facebookId": "AI21Labs",
+  "breezyId": null,
+  "comeetId": "ai21/E6.001",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבן גבירול",
-      "houseNumber": 124,
-      "city": "תל אביב - יפו",
-      "lat": 32.0869162,
-      "lon": 34.7822126
+      "street": "ליאונרדו דה וינצ'י",
+      "houseNumber": 14,
+      "city": "תל אביב-יפו",
+      "lat": 32.0741843,
+      "lon": 34.785566
     }
   ],
   "isMultinational": false,
-  "facebookId": "AI21Labs",
-  "linkedinNum": 18424078,
-  "comeetId": "ai21/E6.001"
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/pendo_io_israel-logo.webp",
   "websiteUrl": "https://www.pendo.io/",
   "careersUrl": "https://www.pendo.io/careers/",
-  "isHiring": true,
   "linkedinId": "pendo-io",
+  "linkedinNum": 5071271,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "pendo",
   "xId": null,
+  "facebookId": "Pendoio",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריק איינשטיין",
@@ -20,7 +26,6 @@
       "lon": 34.8150141
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Pendoio",
-  "linkedinNum": 5071271
+  "isMultinational": false,
+  "isActive": true
 }

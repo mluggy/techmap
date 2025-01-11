@@ -1,0 +1,31 @@
+{
+  "name": "Scopus Medical",
+  "description": "Scopus Medical Systems is developing a system for 3D treatment of cancerous tumors.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/scopus_medical-logo.webp",
+  "websiteUrl": "https://scopusmed.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000485669",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הרב טולדנו",
+      "houseNumber": 8,
+      "city": "נתניה",
+      "lat": 32.3093888,
+      "lon": 34.8806418
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

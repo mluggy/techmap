@@ -6,13 +6,17 @@
   "logoFile": "logos/paradox1.webp",
   "websiteUrl": "https://www.paradox.ai/",
   "careersUrl": "https://careers.paradox.ai/",
-  "isHiring": true,
   "linkedinId": "paradoxolivia",
   "linkedinNum": 10804989,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "paradox1",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טבנקין יצחק",
@@ -22,5 +26,6 @@
       "lon": 34.86041438856084
     }
   ],
-  "isMultinational": true
+  "isMultinational": false,
+  "isActive": true
 }

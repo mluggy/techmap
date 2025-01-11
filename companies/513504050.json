@@ -6,11 +6,17 @@
   "logoFile": "logos/cnoga_medical-logo.webp",
   "websiteUrl": "https://www.cnogacare.co/",
   "careersUrl": "https://www.cnogacare.co/careers",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "cnoga-medical",
+  "linkedinNum": 141654,
   "crunchbaseId": null,
+  "ivcId": "A1000000004637",
   "finderId": "cnoga-medical",
   "xId": "Cnoga",
+  "facebookId": "cnogamedicalltd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "תרשיש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "cnogamedicalltd",
-  "linkedinNum": 141654
+  "isActive": true
 }

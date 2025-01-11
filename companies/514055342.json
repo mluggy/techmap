@@ -1,26 +1,31 @@
 {
   "name": "DOT Compliance",
-  "description": "Provides an efficient, pre-configured Quality Management Solution on the Salesforce.com platform for highly regulated industries.",
+  "description": "Dot Compliance delivers ready to use quality management software solutions designed specifically for the life science industry; medical devices, biotechnology, and pharmaceutical companies.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/dot_compliance-logo.webp",
-  "websiteUrl": "https://www.dotcompliance.com/",
+  "websiteUrl": "https://www.dotcompliancesuite.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dot-compliance",
+  "linkedinNum": 10474061,
   "crunchbaseId": "dot-compliance-israel",
+  "ivcId": "A1000000223166",
   "finderId": "dot-compliance",
   "xId": "Dotcompliance_",
+  "facebookId": "100066867279108",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גולדה מאיר",
-      "houseNumber": 5,
-      "city": "נס ציונה",
-      "lat": 31.9137859,
-      "lon": 34.8024773
+      "street": "אופנהיימר",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.1185525,
+      "lon": 34.8004103
     }
   ],
   "isMultinational": false,
-  "facebookId": "100066867279108",
-  "linkedinNum": 10474061
+  "isActive": true
 }

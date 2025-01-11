@@ -1,16 +1,22 @@
 {
   "name": "Biota",
-  "description": "Oral Filmstrips for Drug and Supplement Delivery",
+  "description": "Oral Filmstrips for Drug and Supplement Delivery.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/biota-logo.webp",
   "websiteUrl": "https://algifilm.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000005370",
   "finderId": "biota",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האלון",
@@ -20,5 +26,6 @@
       "lon": 34.9244448
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

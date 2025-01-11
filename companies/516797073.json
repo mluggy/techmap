@@ -1,18 +1,22 @@
 {
   "name": "MentAI",
-  "description": "In-vitro Fertilizations Monitoring Platform",
+  "description": "In-vitro Fertilizations Monitoring Platform.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/mentai.webp",
   "websiteUrl": "https://www.mentai.health/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "mentai-health",
   "linkedinNum": 77015861,
   "crunchbaseId": null,
+  "ivcId": "A1000000374601",
   "finderId": "mentai",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אשכול",
@@ -22,5 +26,6 @@
       "lon": 34.93722374230783
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

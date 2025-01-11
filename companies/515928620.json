@@ -1,0 +1,31 @@
+{
+  "name": "Trado",
+  "description": "Trado is an AI-powered e-commerce platform for buyers and sellers to manage their money simply and transparently.",
+  "categoryId": 9,
+  "size": "xs",
+  "logoFile": "logos/trado-logo.webp",
+  "websiteUrl": "https://trado.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000465166",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "מבשרת ציון",
+      "lat": 31.80495489999999,
+      "lon": 35.151392
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

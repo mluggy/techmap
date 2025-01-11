@@ -6,22 +6,26 @@
   "logoFile": "logos/percepto_robotics-logo.webp",
   "websiteUrl": "https://percepto.co/",
   "careersUrl": "https://percepto.co/careers/",
-  "isHiring": true,
   "linkedinId": "perceptoautonomousdrones",
+  "linkedinNum": 5366007,
   "crunchbaseId": "percepto",
+  "ivcId": "A1000000188076",
   "finderId": "percepto",
   "xId": "PerceptoDrones",
+  "facebookId": "perceptodrones",
+  "breezyId": null,
+  "comeetId": "percepto/44.000",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות דם המכבים",
+      "street": "דם המכבים",
       "houseNumber": 38,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9036665,
-      "lon": 35.0067451
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.90385969999999,
+      "lon": 35.0066062
     }
   ],
   "isMultinational": false,
-  "facebookId": "perceptodrones",
-  "linkedinNum": 5366007,
-  "comeetId": "percepto/44.000"
+  "isActive": true
 }

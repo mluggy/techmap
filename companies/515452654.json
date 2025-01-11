@@ -6,21 +6,26 @@
   "logoFile": "logos/tempramed_israel_ltd-logo.webp",
   "websiteUrl": "https://tempramed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tempramed",
+  "linkedinNum": 10696908,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tempramed",
   "xId": "TempraMed_VIVI",
+  "facebookId": "VIVI-Cooling-Products-314967455559284",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הא באייר",
       "houseNumber": 64,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.088043,
       "lon": 34.789287
     }
   ],
   "isMultinational": false,
-  "facebookId": "VIVI-Cooling-Products-314967455559284",
-  "linkedinNum": 10696908
+  "isActive": true
 }

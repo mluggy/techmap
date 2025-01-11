@@ -1,25 +1,31 @@
 {
   "name": "VALOP",
-  "description": "AI-powered SaaS for Sustainable Goal Achievement in Enterprises",
+  "description": "AI-powered SaaS for Sustainable Goal Achievement in Enterprises.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/valop.webp",
   "websiteUrl": "https://www.valop.io/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "valopsoftware",
   "linkedinNum": 93375691,
   "crunchbaseId": null,
+  "ivcId": "A1000000432561",
   "finderId": "valop",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "המעגן",
+      "street": "המעיין",
       "houseNumber": 13,
-      "city": "נהרייה",
-      "lat": 33.03778360788212,
-      "lon": 35.10210248476755
+      "city": "בן עמי",
+      "lat": 33.0030705,
+      "lon": 35.1218497
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

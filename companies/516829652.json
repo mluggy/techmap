@@ -3,21 +3,29 @@
   "description": "Elevate orthopedic care with custom, lightweight, 3D-printed casts for personalized patient healing.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/gero_3_d-logo.webp",
+  "logoFile": "logos/gero-3-d-logo.webp",
   "websiteUrl": "https://gero3d.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "gero3d",
+  "linkedinNum": 97920648,
   "crunchbaseId": null,
+  "ivcId": "A1000000456327",
   "finderId": "gero3d",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ויצמן",
-      "houseNumber": 14,
-      "city": "תל אביב - יפו",
-      "lat": 32.0816614,
-      "lon": 34.7896633
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

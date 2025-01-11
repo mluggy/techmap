@@ -1,16 +1,22 @@
 {
   "name": "CatAI",
-  "description": "AI-enhanced Personal Health Care Monitoring",
+  "description": "AI-enhanced Personal Health Care Monitoring.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/cat_ai-logo.webp",
+  "logoFile": "logos/catai-logo.webp",
   "websiteUrl": "https://www.CatAI.io",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "catai-ltd",
+  "linkedinNum": 80069911,
   "crunchbaseId": null,
+  "ivcId": "A1000000413938",
   "finderId": "catai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שנקר אריה",
@@ -20,5 +26,6 @@
       "lon": 34.8093221
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

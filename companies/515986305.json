@@ -6,11 +6,17 @@
   "logoFile": "logos/vimeo_israel-logo.webp",
   "websiteUrl": "https://vimeo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "vimeo",
+  "linkedinNum": 167813,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "vimeo",
   "xId": "Vimeo",
+  "facebookId": "Vimeo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המזמרה",
@@ -20,7 +26,6 @@
       "lon": 34.7946749
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Vimeo",
-  "linkedinNum": 167813
+  "isMultinational": false,
+  "isActive": true
 }

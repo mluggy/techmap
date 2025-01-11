@@ -3,14 +3,20 @@
   "description": "Our company provides satellite connectivity for smartphones, wearables, sensors, and various other devices.",
   "categoryId": 18,
   "size": "l",
-  "logoFile": "logos/skylo_technologies_israel-logo.webp",
+  "logoFile": "logos/skylo-technologies-israel-logo.webp",
   "websiteUrl": "https://www.skylo.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "skylotech",
+  "linkedinNum": 40962637,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "skylo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
@@ -19,5 +25,7 @@
       "lat": 32.1302892,
       "lon": 34.8947603
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

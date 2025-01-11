@@ -6,22 +6,26 @@
   "logoFile": "logos/atera_networks-logo.webp",
   "websiteUrl": "https://www.atera.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "atera-networks",
+  "linkedinNum": 98739,
   "crunchbaseId": "atera-networks-ltd",
+  "ivcId": "A1000000008974",
   "finderId": "atera-networks",
   "xId": "ateracloud",
+  "facebookId": "AteraCloud",
+  "breezyId": null,
+  "comeetId": "atera/63.00B",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות רוטשילד",
-      "houseNumber": 45,
-      "city": "תל אביב - יפו",
-      "lat": 32.064232399999995,
-      "lon": 34.77442479088546
+      "street": "אלנבי",
+      "houseNumber": 105,
+      "city": "תל אביב-יפו",
+      "lat": 32.0639457,
+      "lon": 34.7729989
     }
   ],
   "isMultinational": false,
-  "facebookId": "AteraCloud",
-  "linkedinNum": 98739,
-  "comeetId": "atera/63.00B"
+  "isActive": true
 }

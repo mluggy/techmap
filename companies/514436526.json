@@ -1,26 +1,31 @@
 {
   "name": "VideoFlow",
-  "description": "Solutions for Improving IP Network Reliability",
+  "description": "Solutions for Improving IP Network Reliability.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/video_flow-logo.webp",
   "websiteUrl": "https://www.video-flow.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "videoflow-ltd",
+  "linkedinNum": 2386186,
   "crunchbaseId": null,
+  "ivcId": "A1000000021903",
   "finderId": "videoflow",
   "xId": "ofl_videoflow",
+  "facebookId": "VideoFlow-346001595849062",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הזית",
-      "houseNumber": 12,
+      "street": "עבד אל כרים קאסם",
+      "houseNumber": null,
       "city": "כפר קאסם",
-      "lat": 32.1063026,
-      "lon": 34.9543129
+      "lat": 32.1091501,
+      "lon": 34.9624392
     }
   ],
   "isMultinational": false,
-  "facebookId": "VideoFlow-346001595849062",
-  "linkedinNum": 2386186
+  "isActive": true
 }

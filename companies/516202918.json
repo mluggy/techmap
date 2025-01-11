@@ -6,20 +6,26 @@
   "logoFile": "logos/qedma_quantum_computing-logo.webp",
   "websiteUrl": "https://www.qedma.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "qedma-quantum-computing",
+  "linkedinNum": 71646090,
   "crunchbaseId": null,
+  "ivcId": "A1000000342603",
   "finderId": "qedma-quantum-computing",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' רוקח",
+      "street": "שדרות רוקח",
       "houseNumber": 101,
-      "city": "תל אביב - יפו",
-      "lat": 32.1053566,
-      "lon": 34.811018495092924
+      "city": "תל אביב-יפו",
+      "lat": 32.1053012,
+      "lon": 34.8110208
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 71646090
+  "isActive": true
 }

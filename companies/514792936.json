@@ -1,15 +1,31 @@
 {
   "name": "G A L Water Technologies",
-  "description": "A free service that instantly translates words, phrases, and web pages from English to over 100 languages.",
-  "categoryId": 12,
+  "description": "GALMOBILE Ltd.",
+  "categoryId": 17,
   "size": "xs",
-  "logoFile": "logos/g_a_l_water_technologies-logo.webp",
-  "websiteUrl": "https://translate.google.co.il/",
+  "logoFile": "logos/g-a-l-water-technologies-logo.webp",
+  "websiteUrl": "https://galmobile.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "g-a-l-water-technologies-ltd-",
+  "linkedinNum": 10692664,
   "crunchbaseId": null,
+  "ivcId": "A1000000188212",
   "finderId": "g-a-l-water-technologies",
   "xId": null,
-  "addresses": []
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השיטה",
+      "houseNumber": 45,
+      "city": "קיסריה",
+      "lat": 32.4734263,
+      "lon": 34.94041199999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

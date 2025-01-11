@@ -1,0 +1,31 @@
+{
+  "name": "Owrita",
+  "description": "Owrita is a Business Security Solution.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/owrita-logo.webp",
+  "websiteUrl": "https://owrita.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000456631",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הזית",
+      "houseNumber": 80,
+      "city": "ראש העין",
+      "lat": 32.1078902,
+      "lon": 34.9558296
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

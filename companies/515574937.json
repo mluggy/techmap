@@ -6,21 +6,26 @@
   "logoFile": "logos/dustphotonics-logo.webp",
   "websiteUrl": "https://www.dustphotonics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dustphotonics",
+  "linkedinNum": 27219735,
   "crunchbaseId": null,
+  "ivcId": "A1000000261968",
   "finderId": "dust-photonics",
   "xId": "DustPhotonics",
+  "facebookId": "dustphotonics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צלע ההר",
-      "houseNumber": 11,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9161844,
-      "lon": 34.9690754
+      "street": null,
+      "houseNumber": null,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.92110599999999,
+      "lon": 34.970959
     }
   ],
   "isMultinational": false,
-  "facebookId": "dustphotonics",
-  "linkedinNum": 27219735
+  "isActive": true
 }

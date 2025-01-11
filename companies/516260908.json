@@ -1,0 +1,31 @@
+{
+  "name": "Feed-U",
+  "description": "Feed-U offers software development services, such as web application services and interface development to companies & organizations with a strong emphasis on transparency, collaboration, reliability and optimal implementation, which includes economic viability and fast delivery times.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/feed-u-logo.webp",
+  "websiteUrl": "https://feedu.co.il",
+  "careersUrl": null,
+  "linkedinId": "food-book",
+  "linkedinNum": 73475777,
+  "crunchbaseId": null,
+  "ivcId": "A1000000355406",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מיכאל נאמן",
+      "houseNumber": 18,
+      "city": "תל אביב-יפו",
+      "lat": 32.138469,
+      "lon": 34.794354
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

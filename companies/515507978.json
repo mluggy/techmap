@@ -1,25 +1,31 @@
 {
   "name": "W-Cycle",
-  "description": "Heavy Duty, Sustainable and Compostable Packaging Solutions",
+  "description": "Heavy Duty, Sustainable and Compostable Packaging Solutions.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/w-cycle.webp",
   "websiteUrl": "https://www.w-cycle.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "wcycle",
   "linkedinNum": 18436536,
   "crunchbaseId": null,
+  "ivcId": "A1000000299865",
   "finderId": "w-cycle",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": null,
       "houseNumber": null,
       "city": "גן שמואל",
-      "lat": 32.45328731733551,
-      "lon": 34.95001160943411
+      "lat": 32.452911,
+      "lon": 34.949311
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

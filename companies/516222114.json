@@ -6,20 +6,26 @@
   "logoFile": "logos/inspir_labs-logo.webp",
   "websiteUrl": "https://www.inspirlabs.com/",
   "careersUrl": "https://www.inspirlabs.com/careers",
-  "isHiring": true,
   "linkedinId": "inspir-labs-ltd",
+  "linkedinNum": 68555024,
   "crunchbaseId": "inspir-labs",
+  "ivcId": "A1000000355703",
   "finderId": "inspir-labs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הטחנה",
-      "houseNumber": 1,
-      "city": "כפר סבא",
-      "lat": 32.1727607,
-      "lon": 34.8930781
+      "street": "אריק איינשטיין",
+      "houseNumber": null,
+      "city": "הרצליה",
+      "lat": 32.1624164,
+      "lon": 34.814725
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 68555024
+  "isActive": true
 }

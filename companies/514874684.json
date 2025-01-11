@@ -6,22 +6,26 @@
   "logoFile": "logos/brandshield-logo.webp",
   "websiteUrl": "https://www.brandshield.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "brandshield",
+  "linkedinNum": 2231196,
   "crunchbaseId": null,
+  "ivcId": "A1000000022381",
   "finderId": "brandshield",
   "xId": "brandshieldltd",
+  "facebookId": "BrandShield",
+  "breezyId": null,
+  "comeetId": "brandshield/13.002",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שנקר אריה",
-      "houseNumber": 4,
+      "street": "רחוב אריה בן אליעזר",
+      "houseNumber": null,
       "city": "הרצליה",
-      "lat": 32.1605452,
-      "lon": 34.8093221
+      "lat": 32.1765825,
+      "lon": 34.8083144
     }
   ],
   "isMultinational": false,
-  "facebookId": "BrandShield",
-  "linkedinNum": 2231196,
-  "comeetId": "brandshield/13.002"
+  "isActive": true
 }

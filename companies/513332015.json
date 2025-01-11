@@ -6,21 +6,26 @@
   "logoFile": "logos/spetz_tech-logo.webp",
   "websiteUrl": "https://www.spetz.app/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "spetz-ltd",
+  "linkedinNum": 28864040,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "spetz1",
   "xId": null,
+  "facebookId": "spetz.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הפלך",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.050538,
       "lon": 34.766862
     }
   ],
   "isMultinational": false,
-  "facebookId": "spetz.il",
-  "linkedinNum": 28864040
+  "isActive": true
 }

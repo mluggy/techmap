@@ -1,16 +1,22 @@
 {
   "name": "Avaya",
   "description": "A platform offering comprehensive training and certification programs for communication and collaboration technology skills.",
-  "size": "l",
   "categoryId": 18,
+  "size": "l",
   "logoFile": "logos/avaya_communication_israel_ltd-logo.webp",
   "websiteUrl": "https://www.avaya.com/",
   "careersUrl": "https://www.avaya.com/en/about-avaya/careers/welcome/",
-  "isHiring": true,
   "linkedinId": "avaya",
+  "linkedinNum": 17954157,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "avaya",
   "xId": "avaya",
+  "facebookId": "avayail",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרוקמים",
@@ -20,7 +26,6 @@
       "lon": 34.80060304320986
     }
   ],
-  "isMultinational": true,
-  "facebookId": "avayail",
-  "linkedinNum": 17954157
+  "isMultinational": false,
+  "isActive": true
 }

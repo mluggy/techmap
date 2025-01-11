@@ -6,21 +6,26 @@
   "logoFile": "logos/modelity_technologies_ltd-logo.webp",
   "websiteUrl": "https://modelity.com/",
   "careersUrl": "https://modelity.com/about-us/careers/",
-  "isHiring": true,
   "linkedinId": "modelity-technologies",
+  "linkedinNum": 145431,
   "crunchbaseId": "modelity",
+  "ivcId": null,
   "finderId": "modelity",
   "xId": null,
+  "facebookId": "modelity",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 76,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.065426,
       "lon": 34.792758
     }
   ],
   "isMultinational": false,
-  "facebookId": "modelity",
-  "linkedinNum": 145431
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/cornix_10-logo.webp",
   "websiteUrl": "https://cornix.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cornix-io",
+  "linkedinNum": 19051716,
   "crunchbaseId": null,
+  "ivcId": "A1000000371564",
   "finderId": "cornix",
   "xId": "cornix_io",
+  "facebookId": "cornix.io",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יונה וולך",
-      "houseNumber": 8,
-      "city": "הוד השרון",
-      "lat": 32.1476666,
-      "lon": 34.8935194
+      "street": "איתמר",
+      "houseNumber": 10,
+      "city": "רמת גן",
+      "lat": 32.090164,
+      "lon": 34.8067822
     }
   ],
   "isMultinational": false,
-  "facebookId": "cornix.io",
-  "linkedinNum": 19051716
+  "isActive": true
 }

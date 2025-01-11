@@ -1,26 +1,31 @@
 {
   "name": "Flask Data",
-  "description": "Real-time Data Collection for Clinical Trials",
+  "description": "Real-time Data Collection for Clinical Trials.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/flask_data-logo.webp",
   "websiteUrl": "https://flaskdata.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "flaskdata",
+  "linkedinNum": 10224748,
   "crunchbaseId": null,
+  "ivcId": "A1000000231144",
   "finderId": "flask-data",
   "xId": "flaskdata",
+  "facebookId": "Flaskdata-100609114743592",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "עמק דותן",
-      "houseNumber": 107,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9001475,
-      "lon": 35.0132653
+      "street": "עמק איילון",
+      "houseNumber": 48,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.9029559,
+      "lon": 35.0121845
     }
   ],
   "isMultinational": false,
-  "facebookId": "Flaskdata-100609114743592",
-  "linkedinNum": 10224748
+  "isActive": true
 }

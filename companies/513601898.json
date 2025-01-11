@@ -6,13 +6,26 @@
   "logoFile": "logos/meditouch-logo.webp",
   "websiteUrl": "https://meditouch.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "meditouch-ltd",
+  "linkedinNum": 1715028,
   "crunchbaseId": null,
+  "ivcId": "A1000000002987",
   "finderId": "meditouch",
   "xId": "meditouchl",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "MediTouch",
-  "linkedinNum": 1715028
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המלאכה",
+      "houseNumber": 45,
+      "city": "נתניה",
+      "lat": 32.284355,
+      "lon": 34.8606355
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

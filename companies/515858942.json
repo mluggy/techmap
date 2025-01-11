@@ -6,21 +6,26 @@
   "logoFile": "logos/aireye-logo.webp",
   "websiteUrl": "https://aireye.tech/",
   "careersUrl": "https://aireye.tech/about/careers/",
-  "isHiring": true,
   "linkedinId": "aireye",
+  "linkedinNum": 68504032,
   "crunchbaseId": null,
+  "ivcId": "A1000000256775",
   "finderId": "AirEye",
   "xId": "AirEyeSecurity",
+  "facebookId": "Aireye.tech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אלון יגאל",
-      "houseNumber": 114,
-      "city": "תל אביב - יפו",
-      "lat": 32.072746,
-      "lon": 34.794968
+      "street": null,
+      "houseNumber": null,
+      "city": "בית הלוי",
+      "lat": 32.351596,
+      "lon": 34.930443
     }
   ],
   "isMultinational": false,
-  "facebookId": "Aireye.tech",
-  "linkedinNum": 68504032
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "Maverick Medical AI",
-  "description": "An AI-powered platform that independently learns and performs medical coding.",
-  "categoryId": 1,
+  "description": "Maverick is an operator of a real-time autonomous medical coding platform, designed to detect risk factors in medical records.",
+  "categoryId": 12,
   "size": "s",
   "logoFile": "logos/maverick_medical_ai-logo.webp",
-  "websiteUrl": "https://maverick-ai.com/",
-  "careersUrl": "https://maverick-ai.com/maverick-medical-ai-jobs-career-opportunities/",
-  "isHiring": true,
+  "websiteUrl": "https://www.maverick-med.com",
+  "careersUrl": null,
   "linkedinId": "maverick-medical-ai",
+  "linkedinNum": 18799726,
   "crunchbaseId": "maverick-medical-ai",
+  "ivcId": "A1000000256758",
   "finderId": "maverick-medical-ai",
   "xId": null,
+  "facebookId": "Maverick-Medical-AI-2196666750619130",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגליל",
-      "houseNumber": 10,
-      "city": "פרדס חנה-כרכור",
-      "lat": 32.4806629,
-      "lon": 34.9872327
+      "street": "שדרות רוקח",
+      "houseNumber": 101,
+      "city": "תל אביב-יפו",
+      "lat": 32.1053012,
+      "lon": 34.8110208
     }
   ],
   "isMultinational": false,
-  "facebookId": "Maverick-Medical-AI-2196666750619130",
-  "linkedinNum": 18799726
+  "isActive": true
 }

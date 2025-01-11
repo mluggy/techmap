@@ -6,11 +6,17 @@
   "logoFile": "logos/bright_security-logo.webp",
   "websiteUrl": "https://brightsec.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 11291424,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bright-security",
   "xId": "BrightAppSec",
+  "facebookId": "BrightAppSec",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השחר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "BrightAppSec",
-  "linkedinNum": 11291424
+  "isActive": true
 }

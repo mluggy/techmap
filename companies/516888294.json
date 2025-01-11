@@ -3,21 +3,29 @@
   "description": "We enhance website performance by analyzing traffic data and optimizing user experience through the use of cookies.",
   "categoryId": 1,
   "size": "xs",
-  "logoFile": "logos/raincheck_ai-logo.webp",
+  "logoFile": "logos/raincheck-ai-logo.webp",
   "websiteUrl": "https://raincheck.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "raincheckit",
+  "linkedinNum": 6420886,
   "crunchbaseId": null,
+  "ivcId": "A1000000460405",
   "finderId": "raincheck-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "באדר יוחנן",
-      "houseNumber": 4,
-      "city": "רמת גן",
-      "lat": 32.0728439,
-      "lon": 34.8318052
+      "street": "יקינטון",
+      "houseNumber": 12,
+      "city": "חריש",
+      "lat": 32.4524234,
+      "lon": 35.0540712
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

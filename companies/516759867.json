@@ -6,21 +6,26 @@
   "logoFile": "logos/my_branda-logo.webp",
   "websiteUrl": "https://www.mybranda.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mybranda",
+  "linkedinNum": 81458505,
   "crunchbaseId": null,
+  "ivcId": "A1000000411389",
   "finderId": "mybranda",
   "xId": "mybrenda",
+  "facebookId": "myBranda.FB",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "משאבים",
-      "houseNumber": 38,
-      "city": "הוד השרון",
-      "lat": 32.1595182,
-      "lon": 34.89029454929721
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "myBranda.FB",
-  "linkedinNum": 81458505
+  "isActive": true
 }

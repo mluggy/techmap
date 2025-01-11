@@ -6,11 +6,17 @@
   "logoFile": "logos/89_bio-logo.webp",
   "websiteUrl": "https://www.89bio.com/",
   "careersUrl": "https://www.89bio.com/careers/",
-  "isHiring": true,
   "linkedinId": "89bio",
+  "linkedinNum": 54350802,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "89bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 54350802
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/waves_audio-logo.webp",
   "websiteUrl": "https://www.waves.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "waves",
+  "linkedinNum": 16901,
   "crunchbaseId": null,
+  "ivcId": "A1000000007865",
   "finderId": "waves",
   "xId": "WavesAudioLtd",
+  "facebookId": "waves",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "דרך מנחם בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "city": "תל אביב-יפו",
+      "lat": 32.074573,
+      "lon": 34.7918101
     }
   ],
   "isMultinational": false,
-  "facebookId": "waves",
-  "linkedinNum": 16901
+  "isActive": true
 }

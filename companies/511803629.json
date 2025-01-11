@@ -6,20 +6,26 @@
   "logoFile": "logos/sling-logo.webp",
   "websiteUrl": "https://www.slingscore.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sling-score",
+  "linkedinNum": 74986121,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sling-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מנחם בגין",
       "houseNumber": 52,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063947383479075,
       "lon": 34.78155562886322
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74986121
+  "isActive": true
 }

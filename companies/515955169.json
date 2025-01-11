@@ -6,21 +6,26 @@
   "logoFile": "logos/streetwize_simulations-logo.webp",
   "websiteUrl": "https://www.streetwizevr.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "streetwize-simulations",
+  "linkedinNum": 12645139,
   "crunchbaseId": null,
+  "ivcId": "A1000000280449",
   "finderId": "streetwize-simulations",
   "xId": "streetwizevr",
+  "facebookId": "StreetWizeVR",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "זכרון יעקב",
-      "houseNumber": 8,
-      "city": "תל אביב - יפו",
-      "lat": 32.084115,
-      "lon": 34.790161
+      "street": "יעקב",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.1200593,
+      "lon": 34.81234
     }
   ],
   "isMultinational": false,
-  "facebookId": "StreetWizeVR",
-  "linkedinNum": 12645139
+  "isActive": true
 }

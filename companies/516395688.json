@@ -6,20 +6,26 @@
   "logoFile": "logos/wisor_ai-logo.webp",
   "websiteUrl": "https://wisor.ai/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "wisorai",
+  "linkedinNum": 70396459,
   "crunchbaseId": null,
+  "ivcId": "A1000000355719",
   "finderId": "wisor-ai",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "לינקולן",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.066035,
-      "lon": 34.782959
+      "street": "מנחם בגין",
+      "houseNumber": 80,
+      "city": "תל אביב-יפו",
+      "lat": 32.0930893,
+      "lon": 34.8322702
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70396459
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/3_dsellers-logo.webp",
   "websiteUrl": "https://www.3dsellers.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 1559246,
   "crunchbaseId": null,
+  "ivcId": "A1000000009691",
   "finderId": "3dsellers",
   "xId": "3dsellers",
+  "facebookId": "3dsellers",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגבור האלמוני",
+      "street": "הגיבור האלמוני",
       "houseNumber": 38,
-      "city": "תל אביב - יפו",
-      "lat": 32.05841892522462,
-      "lon": 34.79960233285159
+      "city": "תל אביב-יפו",
+      "lat": 32.0582644,
+      "lon": 34.7995916
     }
   ],
   "isMultinational": false,
-  "facebookId": "3dsellers",
-  "linkedinNum": 1559246
+  "isActive": true
 }

@@ -1,18 +1,31 @@
 {
   "name": "Green Point",
-  "description": "A locally owned dispensary in Maryland offering cannabis products across multiple locations serving Anne Arundel, Howard, and Prince George's counties.",
-  "categoryId": 9,
+  "description": "Green Point headquartered in Israel, is at the forefront of revolutionizing cannabis home use.",
+  "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/green_point_cover_solutions-logo.webp",
-  "websiteUrl": "https://www.gpwellness.com/",
+  "websiteUrl": "https://puredrop-presale.com/distribution_b2b/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "green-point-ltd",
+  "linkedinNum": 31429821,
   "crunchbaseId": null,
+  "ivcId": "A1000000414267",
   "finderId": "green-point",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "Green-Point-%D7%92%D7%A8%D7%99%D7%9F-%D7%A4%D7%95%D7%99%D7%A0%D7%98-103419837843761",
-  "linkedinNum": 31429821
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הכשרת היישוב",
+      "houseNumber": 49,
+      "city": "באר שבע",
+      "lat": 31.2148881,
+      "lon": 34.8129553
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/prosper_3_d-logo.webp",
   "websiteUrl": "https://www.prosper3d.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "prosper3d",
+  "linkedinNum": 17882396,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "prosper3d",
   "xId": "prosper3d",
+  "facebookId": "prosper3d",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 116,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073165,
       "lon": 34.795106
     }
   ],
   "isMultinational": false,
-  "facebookId": "prosper3d",
-  "linkedinNum": 17882396
+  "isActive": true
 }

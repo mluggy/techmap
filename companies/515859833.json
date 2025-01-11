@@ -1,25 +1,31 @@
 {
   "name": "Capsoul Diamond",
-  "description": "Transforming the lab-grown diamond industry through innovative design and strategic partnerships, CAPSOUL combines cutting-edge technology with a creative vision.",
-  "categoryId": 9,
+  "description": "Capsoul Diamond is a startup pioneering the field of Diamond Design: Allowing cutting-edge, innovative Haute Couture brands to offer their customers diamonds that are uniquely designed for their brand and collections, and tailored for the new generations of luxury consumers.",
+  "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/capsoul_diamond-logo.webp",
-  "websiteUrl": "https://www.capsouldiamond.com/",
+  "websiteUrl": "https://niritdamri.wixsite.com/diamond",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "capsoul-diamond",
+  "linkedinNum": 14028163,
   "crunchbaseId": null,
+  "ivcId": "A1000000335579",
   "finderId": "capsoul-diamond",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": 382,
-      "city": "עלי זהב",
-      "lat": 32.07241590762317,
-      "lon": 35.064122125461225
+      "street": "הארבעה",
+      "houseNumber": 18,
+      "city": "תל אביב-יפו",
+      "lat": 32.0702743,
+      "lon": 34.7852716
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 14028163
+  "isActive": true
 }

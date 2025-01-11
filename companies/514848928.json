@@ -6,12 +6,17 @@
   "logoFile": "logos/scylladb-logo.webp",
   "websiteUrl": "https://www.scylladb.com/",
   "careersUrl": "https://www.scylladb.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "scylladb",
+  "linkedinNum": 10201068,
   "crunchbaseId": "scylladb",
+  "ivcId": "A1000000022841",
   "finderId": "cloudius-systems",
   "xId": "ScyllaDB",
   "facebookId": "scylladb",
+  "breezyId": null,
+  "comeetId": "scylladb/E4.006",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,7 +26,6 @@
       "lon": 34.811599
     }
   ],
-  "comeetId" : "scylladb/E4.006",
-  "isMultinational": true,
-  "linkedinNum": 10201068
+  "isMultinational": false,
+  "isActive": true
 }

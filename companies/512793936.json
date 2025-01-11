@@ -6,19 +6,26 @@
   "logoFile": "logos/planium_software_ltd-logo.webp",
   "websiteUrl": "https://www.planium.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000004011",
   "finderId": "planium",
   "xId": "planium",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "טבת",
       "houseNumber": 16,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9157297,
-      "lon": 35.0079671
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.9157714,
+      "lon": 35.0081542
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

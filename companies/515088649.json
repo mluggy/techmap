@@ -1,0 +1,31 @@
+{
+  "name": "Caja Robotics",
+  "description": "Caja Robotics offers a robotic mini-load system for goods-to-person order fulfillment.",
+  "categoryId": 9,
+  "size": "m",
+  "logoFile": "logos/caja-robotics-logo.webp",
+  "websiteUrl": "https://www.cajarobotics.com",
+  "careersUrl": "https://cajarobotics.net/company/#career",
+  "linkedinId": "caja-robotics",
+  "linkedinNum": 4850978,
+  "crunchbaseId": null,
+  "ivcId": "A1000000190143",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הטחנה",
+      "houseNumber": 44,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5139701,
+      "lon": 34.9489188
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

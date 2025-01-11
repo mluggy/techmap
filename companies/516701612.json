@@ -6,20 +6,26 @@
   "logoFile": "logos/q-int.webp",
   "websiteUrl": "https://www.q-int.com",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 79827266,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "q-int",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בלפור",
       "houseNumber": 19,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.06819796774524,
       "lon": 34.77292147289375
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Sports Events 365",
+  "description": "Sports Events 365 is a location-based search engine and ticket provider for upcoming shows and sports events worldwide.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/sports-events-365-logo.webp",
+  "websiteUrl": "http://www.sportsevents365.com",
+  "careersUrl": null,
+  "linkedinId": "sports-events-365",
+  "linkedinNum": 1024134,
+  "crunchbaseId": null,
+  "ivcId": "A1000000008685",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "טירת כרמל",
+      "lat": 32.762127,
+      "lon": 34.97298
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

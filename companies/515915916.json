@@ -3,14 +3,20 @@
   "description": "A pioneering R&D platform focused on developing novel cannabis-based medical solutions through strategic partnerships.",
   "categoryId": 12,
   "size": "xs",
-  "logoFile": "logos/cannamore_biotechs-logo.webp",
+  "logoFile": "logos/cannamore-biotechs-logo.webp",
   "websiteUrl": "https://cannamorebio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "cannamore",
+  "linkedinNum": 42950635,
   "crunchbaseId": null,
+  "ivcId": "A1000000295742",
   "finderId": "cannamore-biotechs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -20,5 +26,6 @@
       "lon": 34.823239
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

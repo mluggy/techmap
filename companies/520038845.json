@@ -6,11 +6,17 @@
   "logoFile": "logos/western_digital_israel-logo.webp",
   "websiteUrl": "https://www.westerndigital.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "western-digital",
+  "linkedinNum": 4593,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "western-digital",
   "xId": "westerndigital",
+  "facebookId": "WesternDigitalIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "עתירי ידע",
@@ -20,7 +26,6 @@
       "lon": 34.9279525
     }
   ],
-  "isMultinational": true,
-  "facebookId": "WesternDigitalIsrael",
-  "linkedinNum": 4593
+  "isMultinational": false,
+  "isActive": true
 }

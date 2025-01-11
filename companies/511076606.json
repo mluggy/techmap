@@ -6,21 +6,26 @@
   "logoFile": "logos/comda-logo.webp",
   "websiteUrl": "https://en.comda.co.il/",
   "careersUrl": "https://www.comda.co.il/jobs/",
-  "isHiring": true,
   "linkedinId": "comda",
+  "linkedinNum": 54722,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "comda",
   "xId": "Comda_LTD",
+  "facebookId": "ComdaLTD",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דבורה הנביאה",
       "houseNumber": 126,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.113296,
       "lon": 34.842221
     }
   ],
   "isMultinational": false,
-  "facebookId": "ComdaLTD",
-  "linkedinNum": 54722
+  "isActive": true
 }

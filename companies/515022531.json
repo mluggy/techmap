@@ -6,21 +6,26 @@
   "logoFile": "logos/adscale-logo.webp",
   "websiteUrl": "https://adscale.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "adscale",
+  "linkedinNum": 17889734,
   "crunchbaseId": null,
+  "ivcId": "A1000000316357",
   "finderId": "adscale",
   "xId": "adscale",
+  "facebookId": "AdScaleSoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנוריות",
-      "houseNumber": 15,
-      "city": "יקנעם עילית",
-      "lat": 32.6567843,
-      "lon": 35.1101813
+      "street": "התמר",
+      "houseNumber": 3,
+      "city": "יוקנעם עילית",
+      "lat": 32.6608395,
+      "lon": 35.1060744
     }
   ],
   "isMultinational": false,
-  "facebookId": "AdScaleSoftware",
-  "linkedinNum": 17889734
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Corner Shot",
+  "description": "Corner Shot Company is a globally-renown creator and developer of weapon systems.",
+  "categoryId": 7,
+  "size": "xs",
+  "logoFile": "logos/corner_shot-logo.webp",
+  "websiteUrl": "http://www.cornershot.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004970",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "מעלה המגדל",
+      "houseNumber": 3,
+      "city": "אור יהודה",
+      "lat": 32.0218276,
+      "lon": 34.8636642
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,21 +6,26 @@
   "logoFile": "logos/demoleap_ai-logo.webp",
   "websiteUrl": "https://www.demoleap.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "demoleap",
+  "linkedinNum": 70427121,
   "crunchbaseId": "demoleap",
+  "ivcId": null,
   "finderId": "demoleap",
   "xId": null,
+  "facebookId": "Demoleap-102427161744847",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.075175,
       "lon": 34.78205
     }
   ],
   "isMultinational": false,
-  "facebookId": "Demoleap-102427161744847",
-  "linkedinNum": 70427121
+  "isActive": true
 }

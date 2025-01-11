@@ -1,26 +1,31 @@
 {
   "name": "Xplorer Globe Net",
-  "description": "Social Travel Community Network",
+  "description": "Social Travel Community Network.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/xplorer_globe_net-logo.webp",
   "websiteUrl": "https://www.xplorer.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 3215894,
   "crunchbaseId": "xplorer-globe-net",
+  "ivcId": "A1000000021358",
   "finderId": "xplorer-global-net",
   "xId": null,
+  "facebookId": "www.xplorer.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רמון אילן",
-      "houseNumber": 5,
-      "city": "נס ציונה",
-      "lat": 31.9180848,
-      "lon": 34.8066017
+      "street": "אופנהיימר",
+      "houseNumber": 7,
+      "city": "תל אביב-יפו",
+      "lat": 32.1195054,
+      "lon": 34.7995436
     }
   ],
   "isMultinational": false,
-  "facebookId": "www.xplorer.co.il",
-  "linkedinNum": 3215894
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "TrackiMed",
-  "description": "Hospital Operating Room's Silent Champion The First-of-a-Kind Tailored AI Virtual Assistant Nurse",
+  "description": "Hospital Operating Room's Silent Champion The First-of-a-Kind Tailored AI Virtual Assistant Nurse.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/trackimed-logo.webp",
   "websiteUrl": "https://www.trackimed.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "trackimed",
+  "linkedinNum": 101297824,
   "crunchbaseId": null,
+  "ivcId": "A1000000368236",
   "finderId": "trackimed",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הברקת",
+      "street": "ברקת",
       "houseNumber": 8,
-      "city": "תל מונד",
-      "lat": 32.2499457,
-      "lon": 34.9087449
+      "city": "כפר יונה",
+      "lat": 32.309377,
+      "lon": 34.9382817
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 101297824
+  "isActive": true
 }

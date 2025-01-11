@@ -6,21 +6,26 @@
   "logoFile": "logos/deemedya_m_s-logo.webp",
   "websiteUrl": "https://www.deemedya.com/",
   "careersUrl": "https://www.deemedya.com/#careers",
-  "isHiring": true,
   "linkedinId": "deemedya",
+  "linkedinNum": 1303902,
   "crunchbaseId": "deemedya",
+  "ivcId": "A1000000022443",
   "finderId": "deemedya",
   "xId": "deemedya",
+  "facebookId": "Deemedya",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "נחלת יצחק",
+      "street": "נחלת בנימין",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.074857,
-      "lon": 34.796826
+      "city": "תל אביב-יפו",
+      "lat": 32.068724,
+      "lon": 34.7699018
     }
   ],
   "isMultinational": false,
-  "facebookId": "Deemedya",
-  "linkedinNum": 1303902
+  "isActive": true
 }

@@ -1,24 +1,31 @@
 {
   "name": "Noxon",
-  "description": "Drug Development for Fibrotic Lung Diseases",
+  "description": "Drug Development for Fibrotic Lung Diseases.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/noxon-logo.webp",
   "websiteUrl": "https://ngt-healthcare2.com/noxon/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000424776",
   "finderId": "noxon",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ואדי אל-חאג'",
+      "street": "ואדי אל חאג'",
       "houseNumber": 13,
       "city": "נצרת",
-      "lat": 32.6901031,
-      "lon": 35.298186
+      "lat": 32.6900962,
+      "lon": 35.3001352
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

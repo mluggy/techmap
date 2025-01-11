@@ -1,26 +1,31 @@
 {
   "name": "Beeper Communications",
-  "description": "Emergency Communication Systems",
+  "description": "Emergency Communication Systems.",
   "categoryId": 3,
   "size": "m",
   "logoFile": "logos/beeper_communications_israel-logo.webp",
   "websiteUrl": "https://he.beepergroup.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "beeper-communications-israel-ltd",
+  "linkedinNum": 512663,
   "crunchbaseId": "beeper-communications",
+  "ivcId": "A1000000013116",
   "finderId": "beeper-communications",
   "xId": null,
+  "facebookId": "Beeper.Jobs",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ביאליק",
       "houseNumber": 147,
       "city": "רמת גן",
-      "lat": 32.0816104,
-      "lon": 34.8148549
+      "lat": 32.0890603,
+      "lon": 34.8019134
     }
   ],
   "isMultinational": false,
-  "facebookId": "Beeper.Jobs",
-  "linkedinNum": 512663
+  "isActive": true
 }

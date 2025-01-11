@@ -1,0 +1,31 @@
+{
+  "name": "MyBodyPro",
+  "description": "MyBodyPro is a SaaS platform that leverages AI & top trainers' knowledge to scale the athlete-to-fitness coach experience.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/mybodypro-logo.webp",
+  "websiteUrl": "https://mybodypro.fit",
+  "careersUrl": null,
+  "linkedinId": "mybodypro",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000458663",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הדובדבן",
+      "houseNumber": 9,
+      "city": "קרית אונו",
+      "lat": 32.0691164,
+      "lon": 34.8645018
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

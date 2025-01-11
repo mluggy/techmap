@@ -1,0 +1,31 @@
+{
+  "name": "CardioGard",
+  "description": "CardioGard is developing a specially designed arterial (aortic) cannula for use in cardiac surgery for the purpose of removal of gaseous and solid embolic material emanating during aortic manipulations.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/cardiogard-logo.webp",
+  "websiteUrl": "http://www.cardiogard.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001080",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יוני נתניהו",
+      "houseNumber": 6,
+      "city": "אור יהודה",
+      "lat": 32.0224469,
+      "lon": 34.8598618
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

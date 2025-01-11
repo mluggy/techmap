@@ -6,20 +6,26 @@
   "logoFile": "logos/fitnuts_pro-logo.webp",
   "websiteUrl": "https://fitnuts.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "fitnuts",
   "xId": "fitnutspro",
+  "facebookId": "fitnutspro",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הרכבת",
       "houseNumber": 58,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.060334,
       "lon": 34.782124
     }
   ],
   "isMultinational": false,
-  "facebookId": "fitnutspro"
+  "isActive": true
 }

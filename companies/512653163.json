@@ -6,11 +6,17 @@
   "logoFile": "logos/charactell-logo.webp",
   "websiteUrl": "https://www.charactell.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 351049,
   "crunchbaseId": null,
+  "ivcId": "A1000000007561",
   "finderId": "charactell",
   "xId": null,
+  "facebookId": "charactell.ocr",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בר כוכבא",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "charactell.ocr",
-  "linkedinNum": 351049
+  "isActive": true
 }

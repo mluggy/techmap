@@ -1,26 +1,31 @@
 {
   "name": "Class.Me",
-  "description": "A platform facilitating virtual classrooms and affordable tutor support for students and teachers.",
-  "categoryId": 14,
+  "description": "UniMastery is a collaborative messaging studying app that enables real time social communication, learning and sharing for students in the same class.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/class_me-logo.webp",
-  "websiteUrl": "https://class.me/",
+  "websiteUrl": "https://unimastery.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "unimastery",
+  "linkedinNum": 17988712,
   "crunchbaseId": null,
+  "ivcId": "A1000000234203",
   "finderId": "class-me",
   "xId": null,
+  "facebookId": "Class.Me",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שינמן פנחס",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.12505738415727,
       "lon": 34.79625422005718
     }
   ],
   "isMultinational": false,
-  "facebookId": "Class.Me",
-  "linkedinNum": 17988712
+  "isActive": true
 }

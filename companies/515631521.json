@@ -6,21 +6,26 @@
   "logoFile": "logos/aquafit_intimate_ltd-logo.webp",
   "websiteUrl": "https://aquafit-intimate.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "aquafit-intimate",
+  "linkedinNum": 65303501,
   "crunchbaseId": null,
+  "ivcId": "A1000000303319",
   "finderId": "aquafit-intimate",
   "xId": null,
+  "facebookId": "Aquafit.intimate",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנביאים",
       "houseNumber": 21,
-      "city": "תל אביב - יפו",
-      "lat": 32.076024,
-      "lon": 34.779244
+      "city": "תל אביב-יפו",
+      "lat": 32.0761227,
+      "lon": 34.779301
     }
   ],
   "isMultinational": false,
-  "facebookId": "Aquafit.intimate",
-  "linkedinNum": 65303501
+  "isActive": true
 }

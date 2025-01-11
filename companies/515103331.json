@@ -1,0 +1,31 @@
+{
+  "name": "Skinapp",
+  "description": "Skinapp's app is using advanced technologies and was specifically designed to meet the need for immediate, independent and intelligent identification of suspicious moles and skin lesions.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/skinapp-logo.webp",
+  "websiteUrl": "https://skinappchecker.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000458847",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות אבא אבן",
+      "houseNumber": 1,
+      "city": "הרצליה",
+      "lat": 32.1610168,
+      "lon": 34.8107993
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

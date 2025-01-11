@@ -6,18 +6,26 @@
   "logoFile": "logos/peersmd-logo.webp",
   "websiteUrl": "https://www.peers.md/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "peers-md",
+  "linkedinNum": 87409430,
   "crunchbaseId": null,
+  "ivcId": "A1000000454504",
   "finderId": "peersmd",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אבנר",
-      "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.12466,
-      "lon": 34.832539
+      "street": "תובל",
+      "houseNumber": 40,
+      "city": "רמת גן",
+      "lat": 32.0850056,
+      "lon": 34.80180989999999
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

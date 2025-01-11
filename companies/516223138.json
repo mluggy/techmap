@@ -1,25 +1,31 @@
 {
   "name": "Tingo Medical",
-  "description": "Continuous Glucose Monitoring Device for Diabetes Patients",
+  "description": "Continuous Glucose Monitoring Device for Diabetes Patients.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/tingo_medical-logo.webp",
   "websiteUrl": "https://tingomedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tingo-medical-ltd",
+  "linkedinNum": 96764094,
   "crunchbaseId": null,
+  "ivcId": "A1000000349350",
   "finderId": "tingo-medical",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד הרכס",
+      "street": "שדרות הרכס",
       "houseNumber": 13,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.9228472,
-      "lon": 34.9906948
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.9227861,
+      "lon": 34.9910721
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 96764094
+  "isActive": true
 }

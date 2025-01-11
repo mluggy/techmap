@@ -6,11 +6,17 @@
   "logoFile": "logos/h_2_oll-logo.webp",
   "websiteUrl": "https://h2oll.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "h2oll",
+  "linkedinNum": 90865178,
   "crunchbaseId": null,
+  "ivcId": "A1000000357822",
   "finderId": "h2oll",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נתיב אפקים",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 90865178
+  "isActive": true
 }

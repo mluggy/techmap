@@ -1,0 +1,31 @@
+{
+  "name": "smarTrike",
+  "description": "Smart-Trike is a consumer goods company that providing ride-on-vehicles for children.",
+  "categoryId": 14,
+  "size": "m",
+  "logoFile": "logos/smartrike-logo.webp",
+  "websiteUrl": "https://www.smartrike.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000245109",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "לשם",
+      "houseNumber": 12,
+      "city": "קרית גת",
+      "lat": 31.5908756,
+      "lon": 34.7882004
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

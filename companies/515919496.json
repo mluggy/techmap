@@ -6,20 +6,26 @@
   "logoFile": "logos/exero_medical-logo.webp",
   "websiteUrl": "https://exeromedical.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "exero-medical",
+  "linkedinNum": 18838545,
   "crunchbaseId": null,
+  "ivcId": "A1000000268044",
   "finderId": "exero-medical",
   "xId": "ExeroMedical",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שרון אריאל",
+      "street": "אריאל שרון",
       "houseNumber": 8,
-      "city": "אור יהודה",
-      "lat": 32.0215775,
-      "lon": 34.854526
+      "city": "גבעתיים",
+      "lat": 32.0799227,
+      "lon": 34.8008861
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 18838545
+  "isActive": true
 }

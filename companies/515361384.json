@@ -6,21 +6,26 @@
   "logoFile": "logos/accelario_software-logo.webp",
   "websiteUrl": "https://accelario.com/",
   "careersUrl": "https://accelario.com/careers/",
-  "isHiring": true,
   "linkedinId": "accelario",
+  "linkedinNum": 4832578,
   "crunchbaseId": "accelario",
+  "ivcId": "A1000000189812",
   "finderId": "accelario",
   "xId": "Accelario2",
+  "facebookId": "Accelario-105614770849534",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד נים",
+      "street": "שדרות נים",
       "houseNumber": 2,
       "city": "ראשון לציון",
-      "lat": 31.949713600000003,
-      "lon": 34.80328505744155
+      "lat": 31.95017679999999,
+      "lon": 34.8029427
     }
   ],
   "isMultinational": false,
-  "facebookId": "Accelario-105614770849534",
-  "linkedinNum": 4832578
+  "isActive": true
 }

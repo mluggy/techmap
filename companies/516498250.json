@@ -1,18 +1,31 @@
 {
   "name": "SemiConductor Devices",
-  "description": "Infrared Detector and Laser Diode Manufacturer",
+  "description": "Infrared Detector and Laser Diode Manufacturer.",
   "categoryId": 3,
   "size": "l",
   "logoFile": "logos/semiconductor_devices-logo.webp",
   "websiteUrl": "https://www.scd.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "scd",
+  "linkedinNum": 20718,
   "crunchbaseId": null,
+  "ivcId": "A1000000005905",
   "finderId": "semiconductor-devices",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "scd.israel",
-  "linkedinNum": 20718
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "לשם פארק התעשייה",
+      "houseNumber": null,
+      "city": "קיסריה",
+      "lat": 32.4830081,
+      "lon": 34.9455119
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

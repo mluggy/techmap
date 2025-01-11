@@ -6,11 +6,17 @@
   "logoFile": "logos/hobiz_app-logo.webp",
   "websiteUrl": "https://www.hobizapp.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "hobiz-app",
+  "linkedinNum": 76357883,
   "crunchbaseId": null,
+  "ivcId": "A1000000371591",
   "finderId": "hobizapp",
   "xId": "hobizapp",
+  "facebookId": "pg",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סוקולוב",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pg",
-  "linkedinNum": 76357883
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "InterMatch",
+  "description": "Founded in 2007, InterMatch specializes in creating private online communities.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/intermatch-logo.webp",
+  "websiteUrl": "http://www.alpha.co.il",
+  "careersUrl": null,
+  "linkedinId": "intermatch",
+  "linkedinNum": 14821894,
+  "crunchbaseId": null,
+  "ivcId": "A1000000009291",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 34,
+      "city": "תל אביב-יפו",
+      "lat": 32.1091364,
+      "lon": 34.8408152
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

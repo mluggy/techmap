@@ -1,0 +1,31 @@
+{
+  "name": "Lawflex",
+  "description": "LawFlex is Israel's legal resourcing venture.",
+  "categoryId": 6,
+  "size": "s",
+  "logoFile": "logos/lawflex-logo.webp",
+  "websiteUrl": "http://www.lawflex.com",
+  "careersUrl": null,
+  "linkedinId": "lawflex",
+  "linkedinNum": 6395755,
+  "crunchbaseId": null,
+  "ivcId": "A1000000242353",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המסגר",
+      "houseNumber": 26,
+      "city": "תל אביב-יפו",
+      "lat": 32.0625322,
+      "lon": 34.7853517
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

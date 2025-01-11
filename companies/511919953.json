@@ -1,26 +1,31 @@
 {
   "name": "Totem Plus",
-  "description": "Automation and Navigation Systems",
-  "categoryId": 7,
+  "description": "Totem Plus has been developing ship automation and marine computerized applications since 1994.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/totem_plus_ltd-logo.webp",
-  "websiteUrl": "https://www.totem-plus.com/",
+  "websiteUrl": "http://www.totemplus.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "totem-plus",
+  "linkedinNum": 738585,
   "crunchbaseId": "totem-plus",
+  "ivcId": "A1000000009092",
   "finderId": "totem-plus",
   "xId": null,
+  "facebookId": "totem-plus-474204652751467",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנביאים",
       "houseNumber": 6,
       "city": "רמת השרון",
-      "lat": 32.1262676,
-      "lon": 34.8531236
+      "lat": 32.1305528,
+      "lon": 34.8537141
     }
   ],
   "isMultinational": false,
-  "facebookId": "totem-plus-474204652751467",
-  "linkedinNum": 738585
+  "isActive": true
 }

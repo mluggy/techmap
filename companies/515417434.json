@@ -1,26 +1,31 @@
 {
   "name": "Tigapo",
-  "description": "The platform enhances player enjoyment and engagement in entertainment centers, boosting session length, spending, and repeat visits.",
-  "categoryId": 11,
+  "description": "Tigapo has developed an innovative IoT management and payment system for coin operated machines.",
+  "categoryId": 18,
   "size": "xs",
   "logoFile": "logos/tigapo-logo.webp",
-  "websiteUrl": "https://tigapo.nayax.com/",
+  "websiteUrl": "http://tigapo.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tigapo",
+  "linkedinNum": 10697821,
   "crunchbaseId": null,
+  "ivcId": "A1000000224850",
   "finderId": "tipago",
   "xId": null,
+  "facebookId": "TigapoLevelUp",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אריק איינשטיין",
-      "houseNumber": 3,
-      "city": "הרצליה",
-      "lat": 32.1640314,
-      "lon": 34.8154209
+      "street": "דרך יפו",
+      "houseNumber": 132,
+      "city": "תל אביב-יפו",
+      "lat": 32.0605256,
+      "lon": 34.7738401
     }
   ],
   "isMultinational": false,
-  "facebookId": "TigapoLevelUp",
-  "linkedinNum": 10697821
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Revium Recovery",
-  "description": "Healthcare",
+  "description": "Healthcare.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/revium_recovery-logo.webp",
   "websiteUrl": "https://www.reviumrecovery.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 70892814,
   "crunchbaseId": null,
+  "ivcId": "A1000000433779",
   "finderId": "revium-recovery",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הטחנה",
-      "houseNumber": 1,
-      "city": "כפר סבא",
-      "lat": 32.1732974,
-      "lon": 34.8910865
+      "street": "מצדה",
+      "houseNumber": 5,
+      "city": "בני ברק",
+      "lat": 32.093639,
+      "lon": 34.8247297
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 70892814
+  "isActive": true
 }

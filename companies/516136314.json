@@ -3,14 +3,20 @@
   "description": "Revolutionizing food production with innovative ingredients and technologies to enhance textures in alternative protein products.",
   "categoryId": 17,
   "size": "s",
-  "logoFile": "logos/meat_the_end-logo.webp",
+  "logoFile": "logos/meat-the-end-logo.webp",
   "websiteUrl": "https://www.meattheend.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "meat-the-end-inc",
+  "linkedinNum": 66969818,
   "crunchbaseId": null,
+  "ivcId": "A1000000335621",
   "finderId": "meat-the-end",
   "xId": null,
+  "facebookId": "meat.TheEnd",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ספיר פנחס",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "meat.TheEnd"
+  "isActive": true
 }

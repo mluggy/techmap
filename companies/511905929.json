@@ -1,26 +1,31 @@
 {
   "name": "Visionix",
-  "description": "Non-contact 3D Optical Measurement Systems",
+  "description": "Visionix® is based on the expertise of “Wavefront” technology that enables you to analyze all of the optic systems.",
   "categoryId": 12,
   "size": "m",
   "logoFile": "logos/visionix_ltd-logo.webp",
-  "websiteUrl": "https://luneautech.com/visionix-accueil/",
+  "websiteUrl": "https://www.visionix.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "visionix-usa",
+  "linkedinNum": 78227,
   "crunchbaseId": null,
+  "ivcId": "A1000000006489",
   "finderId": "visionix",
   "xId": "VisionixUSA",
+  "facebookId": "visionixusa",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגן הטכנולוגי",
-      "houseNumber": 4,
+      "street": null,
+      "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.75025875,
-      "lon": 35.18612507516873
+      "lat": 31.768319,
+      "lon": 35.21371
     }
   ],
   "isMultinational": false,
-  "facebookId": "visionixusa",
-  "linkedinNum": 78227
+  "isActive": true
 }

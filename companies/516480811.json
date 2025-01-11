@@ -6,20 +6,26 @@
   "logoFile": "logos/chaos_labs-logo.webp",
   "websiteUrl": "https://chaoslabs.xyz/",
   "careersUrl": "https://chaoslabs.xyz/careers",
-  "isHiring": true,
   "linkedinId": "chaos-labs-xyz",
+  "linkedinNum": 81000155,
   "crunchbaseId": "chaos-labs",
+  "ivcId": null,
   "finderId": "chaos-labs",
   "xId": "chaos_labs",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 52,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0634798,
       "lon": 34.7802841
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 81000155
+  "isActive": true
 }

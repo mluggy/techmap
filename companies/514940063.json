@@ -6,21 +6,26 @@
   "logoFile": "logos/folloze_il-logo.webp",
   "websiteUrl": "https://www.folloze.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "folloze",
+  "linkedinNum": 3240893,
   "crunchbaseId": "folloze",
+  "ivcId": null,
   "finderId": "folloze",
   "xId": "folloze",
+  "facebookId": "folloze",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 116,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0608197,
       "lon": 34.7771205
     }
   ],
   "isMultinational": false,
-  "facebookId": "folloze",
-  "linkedinNum": 3240893
+  "isActive": true
 }

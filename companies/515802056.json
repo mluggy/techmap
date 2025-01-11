@@ -1,25 +1,31 @@
 {
   "name": "4Cast",
-  "description": "Decision Intelligence Powered by AI .",
-  "categoryId": 1,
-  "size": "m",
+  "description": "4Cast a spinoff of Eltel Technologistics and is focused on solutions that support decision-making, training and talent management.",
+  "categoryId": 7,
+  "size": "s",
   "logoFile": "logos/4_cast-logo.webp",
-  "websiteUrl": "https://4cast-ai.com",
-  "careersUrl": "https://4cast-ai.com/job-openings/",
-  "isHiring": true,
+  "websiteUrl": "https://4cast-solutions.com",
+  "careersUrl": null,
   "linkedinId": "4cast-ai",
+  "linkedinNum": 28644331,
   "crunchbaseId": "4cast-systems",
+  "ivcId": "A1000000275407",
   "finderId": "4cast",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גיסין אבשלום",
-      "houseNumber": 53,
+      "street": "מרטין גהל",
+      "houseNumber": 7,
       "city": "פתח תקווה",
-      "lat": 32.098081,
-      "lon": 34.8836515
+      "lat": 32.0987043,
+      "lon": 34.8511207
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28644331
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/bio_tip-logo.webp",
   "websiteUrl": "https://biotip.co.il/",
   "careersUrl": "https://biotip.co.il/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "biotip",
+  "linkedinNum": 82414642,
   "crunchbaseId": null,
+  "ivcId": "A1000000460602",
   "finderId": "do-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "חממה טכנולוגית סאוטאפ",
+      "street": null,
       "houseNumber": null,
-      "city": "מ.א. שער הנגב",
-      "lat": 31.513912506165372,
-      "lon": 34.59481463151246
+      "city": "שדרות",
+      "lat": 31.52269399999999,
+      "lon": 34.595581
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82414642
+  "isActive": true
 }

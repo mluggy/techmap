@@ -6,21 +6,26 @@
   "logoFile": "logos/noon_aesthetics_m_r-logo.webp",
   "websiteUrl": "https://noonaesthetics.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "noon-aesthetics",
+  "linkedinNum": 27166555,
   "crunchbaseId": null,
+  "ivcId": "A1000000293203",
   "finderId": "noon-aesthetics",
   "xId": null,
+  "facebookId": "NOONAesthetics",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אהבת ציון",
-      "houseNumber": 18,
-      "city": "תל אביב - יפו",
-      "lat": 32.088392,
-      "lon": 34.79379
+      "street": "שער ציון",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.095689,
+      "lon": 34.773783
     }
   ],
   "isMultinational": false,
-  "facebookId": "NOONAesthetics",
-  "linkedinNum": 27166555
+  "isActive": true
 }

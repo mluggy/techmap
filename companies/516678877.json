@@ -6,20 +6,26 @@
   "logoFile": "logos/filo_systems-logo.webp",
   "websiteUrl": "https://www.filo.systems/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "filo-systems",
+  "linkedinNum": 89378233,
   "crunchbaseId": null,
+  "ivcId": "A1000000432664",
   "finderId": "filo-systems",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כיכר בן גוריון",
-      "houseNumber": 1,
-      "city": "קריית טבעון",
-      "lat": 32.72189555,
-      "lon": 35.130042396881834
+      "street": null,
+      "houseNumber": null,
+      "city": "קרית טבעון",
+      "lat": 32.7225564,
+      "lon": 35.1302145
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 89378233
+  "isActive": true
 }

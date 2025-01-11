@@ -1,0 +1,31 @@
+{
+  "name": "Yuki Technologies",
+  "description": "Yuki Technologies allows the users' to effortlessly streamline their data cloud operations (e.g Snowflake, DataBricks, BigQuery and more), allowing data teams to focus on data instead of optimization.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/yuki_technologies-logo.webp",
+  "websiteUrl": "https://www.yukidata.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000460349",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אלרואי",
+      "houseNumber": 22,
+      "city": "רמת גן",
+      "lat": 32.0714675,
+      "lon": 34.819983
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

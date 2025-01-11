@@ -1,0 +1,31 @@
+{
+  "name": "DevOcean",
+  "description": "DevOcean’s SaaS platform helps to collect security insights from all cloud and security tools, generating a single “pane of glass” that exposes each risk and its corresponding effect on every part of the cloud application.",
+  "categoryId": 7,
+  "size": "s",
+  "logoFile": "logos/devocean-logo.webp",
+  "websiteUrl": "https://www.devocean.security",
+  "careersUrl": "https://www.devocean.security/careers",
+  "linkedinId": "devocean-security",
+  "linkedinNum": 82027729,
+  "crunchbaseId": null,
+  "ivcId": "A1000000379616",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "דרך השלום",
+      "houseNumber": 87,
+      "city": "תל אביב-יפו",
+      "lat": 32.0635952,
+      "lon": 34.8038534
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

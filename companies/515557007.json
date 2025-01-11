@@ -1,25 +1,31 @@
 {
   "name": "Mata",
-  "description": "Autonomous Method for Thinning Trees",
+  "description": "Autonomous Method for Thinning Trees.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/mata_and_ilan-logo.webp",
   "websiteUrl": "https://www.matagritech.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "matagritech",
+  "linkedinNum": 89865905,
   "crunchbaseId": null,
+  "ivcId": "A1000000432639",
   "finderId": "mata",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגדוד העברי",
-      "houseNumber": 5,
-      "city": "אשדוד",
-      "lat": 31.7919633,
-      "lon": 34.6394279
+      "street": null,
+      "houseNumber": null,
+      "city": "נוב",
+      "lat": 32.832852,
+      "lon": 35.783574
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 89865905
+  "isActive": true
 }

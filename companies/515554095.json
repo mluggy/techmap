@@ -1,26 +1,31 @@
 {
   "name": "Snappers",
-  "description": "Crowdsourced Live Video Reporting",
+  "description": "Crowdsourced Live Video Reporting.",
   "categoryId": 8,
   "size": "xs",
   "logoFile": "logos/snappers_tv-logo.webp",
   "websiteUrl": "https://www.snappers.tv",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "snappers-tv",
+  "linkedinNum": 10452867,
   "crunchbaseId": null,
+  "ivcId": "A1000000169628",
   "finderId": "snappers",
   "xId": "SnappersTv",
+  "facebookId": "snappersTv",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שרון אריאל",
+      "street": "אריאל שרון",
       "houseNumber": 8,
-      "city": "אור יהודה",
-      "lat": 32.0215775,
-      "lon": 34.854526
+      "city": "גבעתיים",
+      "lat": 32.0799227,
+      "lon": 34.8008861
     }
   ],
   "isMultinational": false,
-  "facebookId": "snappersTv",
-  "linkedinNum": 10452867
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/uplifted_ai-logo.webp",
   "websiteUrl": "https://www.uplifted.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "upliftedai",
+  "linkedinNum": 91559517,
   "crunchbaseId": null,
+  "ivcId": "A1000000385096",
   "finderId": "uplifted",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 30,
-      "city": "תל אביב - יפו",
-      "lat": 32.075175,
-      "lon": 34.78205
+      "city": "בני ברק",
+      "lat": 32.0907333,
+      "lon": 34.8300528
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 91559517
+  "isActive": true
 }

@@ -6,13 +6,26 @@
   "logoFile": "logos/ai_dock-logo.webp",
   "websiteUrl": "https://aidock.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ai-dock",
+  "linkedinNum": 18864815,
   "crunchbaseId": null,
+  "ivcId": "A1000000252296",
   "finderId": "aidock1",
   "xId": "dock_ai",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "AiDockLtd",
-  "linkedinNum": 18864815
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אופנהיימר",
+      "houseNumber": 2,
+      "city": "תל אביב-יפו",
+      "lat": 32.1185525,
+      "lon": 34.8004103
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

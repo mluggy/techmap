@@ -1,25 +1,31 @@
 {
   "name": "ioTech",
-  "description": "Digital Manufacturing for Electronics",
+  "description": "Digital Manufacturing for Electronics.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/iotech_verticals-logo.webp",
   "websiteUrl": "https://i-o-tech.com/",
   "careersUrl": "https://www.iotechsys.com/company/careers/",
-  "isHiring": true,
   "linkedinId": "iotech-systems",
+  "linkedinNum": 17967458,
   "crunchbaseId": null,
+  "ivcId": "A1000000230118",
   "finderId": "iotech",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הגנן",
-      "houseNumber": 28,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.8828339,
-      "lon": 34.9624834
+      "street": "המעיין",
+      "houseNumber": 2,
+      "city": "מודיעין מכבים רעות",
+      "lat": 31.921992,
+      "lon": 34.969105
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 17967458
+  "isActive": true
 }

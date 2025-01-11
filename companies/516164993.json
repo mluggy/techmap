@@ -6,21 +6,26 @@
   "logoFile": "logos/meta_bim-logo.webp",
   "websiteUrl": "https://www.meta-bim.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "metabim",
+  "linkedinNum": 26485463,
   "crunchbaseId": null,
+  "ivcId": "A1000000353085",
   "finderId": "metabim",
   "xId": null,
+  "facebookId": "METABIMZONE",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "פולד ברכה",
-      "houseNumber": 13,
-      "city": "חיפה",
-      "lat": 32.8200942,
-      "lon": 35.0745216
+      "street": "החשמונאים",
+      "houseNumber": 103,
+      "city": "תל אביב-יפו",
+      "lat": 32.0695959,
+      "lon": 34.784603
     }
   ],
   "isMultinational": false,
-  "facebookId": "METABIMZONE",
-  "linkedinNum": 26485463
+  "isActive": true
 }

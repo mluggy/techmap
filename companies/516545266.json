@@ -6,20 +6,26 @@
   "logoFile": "logos/dragonflydb-logo.webp",
   "websiteUrl": "https://www.dragonflydb.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dragonflydb",
+  "linkedinNum": 82089379,
   "crunchbaseId": null,
+  "ivcId": "A1000000392487",
   "finderId": "dragonflydb",
   "xId": "dragonflydbio",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ילין מור נתן",
-      "houseNumber": 24,
-      "city": "תל אביב - יפו",
-      "lat": 32.07107222943664,
-      "lon": 34.79166460309122
+      "street": "ביל\"ו",
+      "houseNumber": 64,
+      "city": "תל אביב-יפו",
+      "lat": 32.0721954,
+      "lon": 34.7810924
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 82089379
+  "isActive": true
 }

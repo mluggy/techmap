@@ -6,20 +6,26 @@
   "logoFile": "logos/ez_pack_water-logo.webp",
   "websiteUrl": "https://www.ezpackwater.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ezpack-water-ltd-",
+  "linkedinNum": 2207651,
   "crunchbaseId": null,
+  "ivcId": "A1000000010265",
   "finderId": "ezpack",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שמרת",
-      "houseNumber": null,
-      "city": "שמרת",
-      "lat": 32.95158813288127,
-      "lon": 35.09534266561655
+      "street": "הברוש",
+      "houseNumber": 19,
+      "city": "סביון",
+      "lat": 32.0457727,
+      "lon": 34.8729623
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2207651
+  "isActive": true
 }

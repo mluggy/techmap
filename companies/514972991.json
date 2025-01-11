@@ -6,11 +6,17 @@
   "logoFile": "logos/tami_flour-logo.webp",
   "websiteUrl": "https://tamiflour.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tami-flour",
   "xId": "TamiFlour",
+  "facebookId": "TamiFlour",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית אל",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TamiFlour"
+  "isActive": true
 }

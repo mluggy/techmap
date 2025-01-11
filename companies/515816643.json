@@ -1,0 +1,31 @@
+{
+  "name": "SuperBuzz",
+  "description": "SuperBuzz provides real-time marketing automation platform that increases customer engagement through dynamic Push notifications campaigns that deliver relevant, personalized messages in micro-moments that matter across mobile and desktop.",
+  "categoryId": 8,
+  "size": "xs",
+  "logoFile": "logos/superbuzz-logo.webp",
+  "websiteUrl": "https://www.superbuzz.io",
+  "careersUrl": null,
+  "linkedinId": "superbuzz-io",
+  "linkedinNum": 75418696,
+  "crunchbaseId": null,
+  "ivcId": "A1000000376359",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 45,
+      "city": "תל אביב-יפו",
+      "lat": 32.0642414,
+      "lon": 34.7746166
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -6,11 +6,17 @@
   "logoFile": "logos/pontic_health-logo.webp",
   "websiteUrl": "https://www.pontichealth.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "pontic-health",
+  "ivcId": null,
   "finderId": "pontic-health",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ג'ו עמר",
@@ -20,5 +26,6 @@
       "lon": 34.8933454
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/daytwo-logo.webp",
   "websiteUrl": "https://www.daytwo.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10304777,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "daytwo",
   "xId": "daytwohealth",
+  "facebookId": "DayTwoHealth",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072746,
       "lon": 34.794968
     }
   ],
   "isMultinational": false,
-  "facebookId": "DayTwoHealth",
-  "linkedinNum": 10304777
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/core_flow-logo.webp",
   "websiteUrl": "https://www.coreflow.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "coreflow",
+  "linkedinNum": 80370,
   "crunchbaseId": null,
+  "ivcId": "A1000000007783",
   "finderId": "coreflow",
   "xId": "Coreflowltd",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "כרמל",
-      "houseNumber": 2,
-      "city": "דלית אל-כרמל",
-      "lat": 32.69768215177662,
-      "lon": 35.04808604241058
+      "street": "חיפה",
+      "houseNumber": null,
+      "city": "דאלית אל-כרמל",
+      "lat": 32.6917792,
+      "lon": 35.0639771
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 80370
+  "isActive": true
 }

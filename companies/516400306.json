@@ -6,19 +6,26 @@
   "logoFile": "logos/watairgy-logo.webp",
   "websiteUrl": "https://www.watairgy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "watair-uk",
+  "linkedinNum": 70470576,
   "crunchbaseId": null,
+  "ivcId": "A1000000424507",
   "finderId": "watairgy-1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "משה בן נחמן",
-      "houseNumber": 23,
+      "street": "נחמן סירקין",
+      "houseNumber": null,
       "city": "ראשון לציון",
-      "lat": 31.9474314,
-      "lon": 34.812364
+      "lat": 31.9711533,
+      "lon": 34.7942027
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -6,20 +6,26 @@
   "logoFile": "logos/gelt_simple-logo.webp",
   "websiteUrl": "https://www.joingelt.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 74761698,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "gelt",
   "xId": "GeltTaxes",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נחלת יצחק",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.073975,
       "lon": 34.79994
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74761698
+  "isActive": true
 }

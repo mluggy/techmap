@@ -6,20 +6,26 @@
   "logoFile": "logos/medic_shoes-logo.webp",
   "websiteUrl": "https://www.medicshoes.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "medic-shoes",
   "xId": "medicshoes",
+  "facebookId": "Medic-Shoes-352010451674685",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גורדון י ל",
       "houseNumber": 41,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.081873,
       "lon": 34.774011
     }
   ],
   "isMultinational": false,
-  "facebookId": "Medic-Shoes-352010451674685"
+  "isActive": true
 }

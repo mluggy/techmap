@@ -1,0 +1,31 @@
+{
+  "name": "Trusty",
+  "description": "Trusty is an insurance marketplace and an online platform that provides various online tools, allowing insurance businesses from all sizes to objectively compete for insurance consumers.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/trusty-logo.webp",
+  "websiteUrl": "https://trusty.co.il",
+  "careersUrl": null,
+  "linkedinId": "trustyltd",
+  "linkedinNum": 42307253,
+  "crunchbaseId": null,
+  "ivcId": "A1000000284535",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

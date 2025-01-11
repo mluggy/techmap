@@ -6,11 +6,17 @@
   "logoFile": "logos/papaya_global-logo.webp",
   "websiteUrl": "https://www.papayaglobal.com/",
   "careersUrl": "https://www.papayaglobal.com/careers/",
-  "isHiring": true,
   "linkedinId": "papaya-global",
+  "linkedinNum": 7957327,
   "crunchbaseId": null,
+  "ivcId": "A1000000212536",
   "finderId": "Papaya",
   "xId": "Papaya_Global",
+  "facebookId": "papayag",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המדע",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "papayag",
-  "linkedinNum": 7957327
+  "isActive": true
 }

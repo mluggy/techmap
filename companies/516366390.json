@@ -1,0 +1,31 @@
+{
+  "name": "SkillsUp",
+  "description": "Skillsup is a provider of personalized career guidance services, intended for individual's career goal development.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/skillsup-logo.webp",
+  "websiteUrl": "https://www.skillsup.ai",
+  "careersUrl": null,
+  "linkedinId": "skillsupai",
+  "linkedinNum": 69484887,
+  "crunchbaseId": null,
+  "ivcId": "A1000000369555",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ויתקין",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.0909503,
+      "lon": 34.77358359999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

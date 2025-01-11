@@ -6,21 +6,26 @@
   "logoFile": "logos/pzartech-logo.webp",
   "websiteUrl": "https://www.pzartech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "pzartech",
+  "linkedinNum": 3677433,
   "crunchbaseId": "pzartech",
+  "ivcId": "A1000000169648",
   "finderId": "pzartech",
   "xId": "Pzartech",
+  "facebookId": "Pzartech",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אהרונוביץ",
+      "street": "אהרונוביץ'",
       "houseNumber": 3,
-      "city": "תל אביב - יפו",
-      "lat": 32.078199,
-      "lon": 34.771976
+      "city": "תל אביב-יפו",
+      "lat": 32.0781844,
+      "lon": 34.7719044
     }
   ],
   "isMultinational": false,
-  "facebookId": "Pzartech",
-  "linkedinNum": 3677433
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/asensus_surgical_israel-logo.webp",
   "websiteUrl": "https://www.asensus.com/",
   "careersUrl": "https://www.asensus.com/explore-careers",
-  "isHiring": true,
   "linkedinId": "asensus-surgical-inc",
+  "linkedinNum": 486080,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "asensus",
   "xId": "TransEnterix",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הקידמה",
@@ -20,6 +26,6 @@
       "lon": 35.107023
     }
   ],
-  "isMultinational": true,
-  "linkedinNum": 486080
+  "isMultinational": false,
+  "isActive": true
 }

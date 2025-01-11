@@ -6,20 +6,26 @@
   "logoFile": "logos/orsense-logo.webp",
   "websiteUrl": "https://orsense.com/",
   "careersUrl": "https://orsense.com/careers/",
-  "isHiring": true,
   "linkedinId": "orsense",
+  "linkedinNum": 105808,
   "crunchbaseId": null,
+  "ivcId": "A1000000003658",
   "finderId": "orsense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הנחושת",
-      "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.10981,
-      "lon": 34.838876
+      "street": "המפלסים",
+      "houseNumber": 17,
+      "city": "פתח תקווה",
+      "lat": 32.1011023,
+      "lon": 34.8626612
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 105808
+  "isActive": true
 }

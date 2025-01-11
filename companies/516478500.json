@@ -6,21 +6,26 @@
   "logoFile": "logos/eureka_security-logo.webp",
   "websiteUrl": "https://www.eureka.security/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 77654153,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "eureka-security",
   "xId": "Eureka_Sec",
+  "facebookId": "eurekaclouddata",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד' בן ציון",
       "houseNumber": 32,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072347,
       "lon": 34.777976
     }
   ],
   "isMultinational": false,
-  "facebookId": "eurekaclouddata",
-  "linkedinNum": 77654153
+  "isActive": true
 }

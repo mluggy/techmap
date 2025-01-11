@@ -6,20 +6,26 @@
   "logoFile": "logos/round_trip-logo.webp",
   "websiteUrl": "https://www.roundtrip.co.il/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "round-trip-travel-technology-solutions",
+  "linkedinNum": 28979574,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "round-trip",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ליסין",
       "houseNumber": 8,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.085383,
       "lon": 34.791635
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 28979574
+  "isActive": true
 }

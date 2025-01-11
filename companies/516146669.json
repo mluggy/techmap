@@ -1,16 +1,22 @@
 {
   "name": "CargoZone Workspace",
-  "description": "Procurement and Shipping Solutions",
+  "description": "Procurement and Shipping Solutions.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/cargozone-logo.webp",
   "websiteUrl": "https://cargozone.ai/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "cargozone",
+  "linkedinNum": 37813797,
   "crunchbaseId": null,
+  "ivcId": "A1000000321505",
   "finderId": "cargozone",
   "xId": null,
+  "facebookId": "wherefreighthappens",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חלמיש",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "wherefreighthappens",
-  "linkedinNum": 37813797
+  "isActive": true
 }

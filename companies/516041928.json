@@ -6,21 +6,26 @@
   "logoFile": "logos/mappo_tourism-logo.webp",
   "websiteUrl": "https://www.mappo.world/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "mappoworld",
+  "linkedinNum": 18161119,
   "crunchbaseId": null,
+  "ivcId": "A1000000202807",
   "finderId": "books-on-map",
   "xId": null,
+  "facebookId": "Mappo.world",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": null,
-      "houseNumber": 1,
-      "city": "אבנת",
-      "lat": 32.9280587,
-      "lon": 35.272169
+      "street": "הנחושת",
+      "houseNumber": 6,
+      "city": "תל אביב-יפו",
+      "lat": 32.1097786,
+      "lon": 34.8392628
     }
   ],
   "isMultinational": false,
-  "facebookId": "Mappo.world",
-  "linkedinNum": 18161119
+  "isActive": true
 }

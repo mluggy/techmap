@@ -1,0 +1,31 @@
+{
+  "name": "Eden Medical",
+  "description": "Eden Medical develops a platform that provides fast response time for real-time whole genome inference.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/eden_medical-logo.webp",
+  "websiteUrl": "https://www.eden-medomics.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000492801",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "אבא אבן",
+      "houseNumber": 3,
+      "city": "ירושלים",
+      "lat": 31.785265,
+      "lon": 35.2054583
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

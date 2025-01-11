@@ -6,21 +6,26 @@
   "logoFile": "logos/mesh_security-logo.webp",
   "websiteUrl": "https://mesh.security/",
   "careersUrl": "https://www.meshsecurity.io/careers",
-  "isHiring": true,
   "linkedinId": "mesh-cybersecurity",
+  "linkedinNum": 82520762,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "cyence-networks",
   "xId": "MeshSecurityZT",
+  "facebookId": "thecybermesh",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 114,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.072746,
       "lon": 34.794968
     }
   ],
   "isMultinational": false,
-  "facebookId": "thecybermesh",
-  "linkedinNum": 82520762
+  "isActive": true
 }

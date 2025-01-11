@@ -6,13 +6,26 @@
   "logoFile": "logos/manna_irrigation-logo.webp",
   "websiteUrl": "https://manna-irrigation.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "manna-irrigation",
+  "linkedinNum": 7952201,
   "crunchbaseId": null,
+  "ivcId": "A1000000220429",
   "finderId": "manna-irrigation",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "mannaIrrigation",
-  "linkedinNum": 7952201
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "גבת",
+      "lat": 32.67656,
+      "lon": 35.213151
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

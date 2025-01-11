@@ -1,0 +1,31 @@
+{
+  "name": "Trip Gator",
+  "description": "Trip Gator's technology automatically generates low-cost vacation packages.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/trip-gator-logo.webp",
+  "websiteUrl": "http://trip-gator.com",
+  "careersUrl": null,
+  "linkedinId": "trip-gator-%D7%A2%D7%A4%D7%A0%D7%95",
+  "linkedinNum": 64765762,
+  "crunchbaseId": null,
+  "ivcId": "A1000000350066",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בועז",
+      "houseNumber": 6,
+      "city": "רמת גן",
+      "lat": 32.0800538,
+      "lon": 34.8067954
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

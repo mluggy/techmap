@@ -6,11 +6,17 @@
   "logoFile": "logos/robodeck-logo.webp",
   "websiteUrl": "https://www.robo-deck.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "robodeck",
+  "linkedinNum": 72434005,
   "crunchbaseId": null,
+  "ivcId": "A1000000418094",
   "finderId": "robodeck",
   "xId": null,
+  "facebookId": "robodeck",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הגפנים",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "robodeck",
-  "linkedinNum": 72434005
+  "isActive": true
 }

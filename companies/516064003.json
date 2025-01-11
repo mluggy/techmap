@@ -6,11 +6,17 @@
   "logoFile": "logos/opster-logo.webp",
   "websiteUrl": "https://opster.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 28499299,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "opster",
   "xId": "OpsterHQ",
+  "facebookId": "OpsterHQ",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השיזף",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "OpsterHQ",
-  "linkedinNum": 28499299
+  "isActive": true
 }

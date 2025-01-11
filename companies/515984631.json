@@ -6,20 +6,26 @@
   "logoFile": "logos/roadsense_advanced_technologies-logo.webp",
   "websiteUrl": "https://www.roadsense.tech/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "roadsense-advanced-technologies",
+  "linkedinNum": 35636020,
   "crunchbaseId": null,
+  "ivcId": "A1000000272512",
   "finderId": "roadsense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "ההדרים",
-      "houseNumber": 22,
-      "city": "כפר יונה",
-      "lat": 32.31493989402396,
-      "lon": 34.93964684775995
+      "street": "שדרות מנחם בגין",
+      "houseNumber": 150,
+      "city": "בית דגן",
+      "lat": 32.0055596,
+      "lon": 34.8347959
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 35636020
+  "isActive": true
 }

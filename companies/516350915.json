@@ -1,26 +1,31 @@
 {
   "name": "Piiano",
-  "description": "Data Privacy Engineering for the Cloud",
+  "description": "Data Privacy Engineering for the Cloud.",
   "categoryId": 7,
   "size": "s",
   "logoFile": "logos/piiano_privacy_solutions-logo.webp",
   "websiteUrl": "https://piiano.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "piiano",
+  "linkedinNum": 74522235,
   "crunchbaseId": null,
+  "ivcId": "A1000000364907",
   "finderId": "piiano",
   "xId": "PrivacyPiiano",
+  "facebookId": "PiianoPrivacy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך בגין",
+      "street": "מנחם בגין",
       "houseNumber": 132,
-      "city": "תל אביב - יפו",
-      "lat": 32.074196,
-      "lon": 34.7921772
+      "city": "תל אביב-יפו",
+      "lat": 32.0930881,
+      "lon": 34.8322718
     }
   ],
   "isMultinational": false,
-  "facebookId": "PiianoPrivacy",
-  "linkedinNum": 74522235
+  "isActive": true
 }

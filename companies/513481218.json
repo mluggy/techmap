@@ -1,16 +1,22 @@
 {
   "name": "Point of View Software",
-  "description": "Business Intelligence Platform",
+  "description": "Business Intelligence Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/point_of_view_software-logo.webp",
   "websiteUrl": "https://www.povsw.com",
   "careersUrl": "https://www.viewpoint.com/company/careers",
-  "isHiring": true,
   "linkedinId": "point-of-view-software",
+  "linkedinNum": 850250,
   "crunchbaseId": null,
+  "ivcId": "A1000000003099",
   "finderId": "point-of-view-software",
   "xId": null,
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "משכית",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 850250
+  "isActive": true
 }

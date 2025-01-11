@@ -1,26 +1,31 @@
 {
   "name": "Enroute",
-  "description": "eCommerce Layer for Mobility Services",
+  "description": "eCommerce Layer for Mobility Services.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/enroute-logo.webp",
   "websiteUrl": "https://enroute.tech",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "enroute-tech",
+  "linkedinNum": 18304803,
   "crunchbaseId": null,
+  "ivcId": "A1000000223811",
   "finderId": "enroute",
   "xId": "EnrouteTech",
+  "facebookId": "Enroute-346634125809169",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שבח",
-      "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.061248,
-      "lon": 34.783449
+      "street": "שדרות ח\"ן",
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0747228,
+      "lon": 34.7801548
     }
   ],
   "isMultinational": false,
-  "facebookId": "Enroute-346634125809169",
-  "linkedinNum": 18304803
+  "isActive": true
 }

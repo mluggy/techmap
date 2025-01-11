@@ -6,21 +6,26 @@
   "logoFile": "logos/s_park_parking_technologies-logo.webp",
   "websiteUrl": "https://www.parking-polly.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "spark-parking-technology",
+  "linkedinNum": 2876069,
   "crunchbaseId": "spark-parking-technologies",
+  "ivcId": null,
   "finderId": "spark_parking",
   "xId": "sPARK_Parking",
+  "facebookId": "polly.parkingfairy",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלון יגאל",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0687595,
       "lon": 34.7939327
     }
   ],
   "isMultinational": false,
-  "facebookId": "polly.parkingfairy",
-  "linkedinNum": 2876069
+  "isActive": true
 }

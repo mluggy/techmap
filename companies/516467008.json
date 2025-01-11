@@ -1,25 +1,31 @@
 {
   "name": "DOTS, Data of the Soil",
-  "description": "Real-time Soil Nitrate Monitoring",
+  "description": "Real-time Soil Nitrate Monitoring.",
   "categoryId": 17,
   "size": "xs",
   "logoFile": "logos/dots_data_of_the_soil-logo.webp",
   "websiteUrl": "https://dotsoil.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "dots-data-of-the-soil",
+  "linkedinNum": 79865339,
   "crunchbaseId": null,
+  "ivcId": "A1000000361143",
   "finderId": "dots-data-of-the-soil",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "דרך חברון",
-      "houseNumber": 24,
-      "city": "ירושלים",
-      "lat": 31.7316844,
-      "lon": 35.20565
+      "street": null,
+      "houseNumber": null,
+      "city": "באר שבע",
+      "lat": 31.2521018,
+      "lon": 34.7867691
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 79865339
+  "isActive": true
 }

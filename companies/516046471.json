@@ -1,26 +1,31 @@
 {
   "name": "CASTOR",
-  "description": "Automatically Identify Suitable Parts for Additive Manufacturing",
+  "description": "Automatically Identify Suitable Parts for Additive Manufacturing.",
   "categoryId": 14,
   "size": "s",
   "logoFile": "logos/castor_engineering-logo.webp",
   "websiteUrl": "https://www.3dcastor.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "3dcastor",
+  "linkedinNum": 11301127,
   "crunchbaseId": null,
+  "ivcId": "A1000000238315",
   "finderId": "castor",
   "xId": null,
+  "facebookId": "3DCastor",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רקפת",
-      "houseNumber": 309,
-      "city": "צופים",
-      "lat": 32.19524362667152,
-      "lon": 35.01118524050559
+      "street": "חיים לבנון",
+      "houseNumber": 30,
+      "city": "תל אביב-יפו",
+      "lat": 32.1078239,
+      "lon": 34.8018067
     }
   ],
   "isMultinational": false,
-  "facebookId": "3DCastor",
-  "linkedinNum": 11301127
+  "isActive": true
 }

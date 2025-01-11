@@ -1,17 +1,23 @@
 {
   "name": "Memtex",
-  "description": "Miniature Tactical Wireless Surveillance Systems",
+  "description": "Miniature Tactical Wireless Surveillance Systems.",
   "categoryId": 7,
   "size": "xs",
-  "logoFile": "logos/memtex_israel-logo.webp",
+  "logoFile": "logos/memtex-logo.webp",
   "websiteUrl": "https://www.memtex.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "memtex",
+  "linkedinNum": 417032,
   "crunchbaseId": null,
+  "ivcId": "A1000000004531",
   "finderId": "mmetex",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [],
   "isMultinational": false,
-  "linkedinNum": 417032
+  "isActive": true
 }

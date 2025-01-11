@@ -6,21 +6,26 @@
   "logoFile": "logos/zecops_israel-logo.webp",
   "websiteUrl": "https://www.zecops.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18253737,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zecops",
   "xId": "ZecOps",
+  "facebookId": "zecopsinc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המסגר",
       "houseNumber": 42,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0650402,
       "lon": 34.7863315801129
     }
   ],
   "isMultinational": false,
-  "facebookId": "zecopsinc",
-  "linkedinNum": 18253737
+  "isActive": true
 }

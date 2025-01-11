@@ -1,17 +1,22 @@
 {
   "name": "DreaMed Diabetes",
-  "description": "Personalized Diabetes Treatment Optimization Solutions",
+  "description": "DreaMed Diabetes develops solutions and personalized decision-support systems (DSS) to optimize insulin therapy for Type 1 and Type 2 diabetes.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/dreamed-diabetes.webp",
-  "websiteUrl": "https://www.dreamed-diabetes.com/",
+  "websiteUrl": "https://dreamed.ai",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 5220173,
   "crunchbaseId": null,
+  "ivcId": "A1000000181427",
   "finderId": "dreamed-diabetes",
   "xId": "dreameddiabetes",
   "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קפלן אליעזר",
@@ -21,5 +26,6 @@
       "lon": 34.86780635660082
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

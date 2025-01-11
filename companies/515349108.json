@@ -6,21 +6,26 @@
   "logoFile": "logos/rspct_basketball_technologies-logo.webp",
   "websiteUrl": "https://www.rspctbasketball.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "rspctbasketball",
+  "linkedinNum": 18142098,
   "crunchbaseId": null,
+  "ivcId": "A1000000203124",
   "finderId": "rspct-basketball-technologies",
   "xId": "rspctbasketball",
+  "facebookId": "rspctbasketball",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "סנהדרין",
       "houseNumber": 15,
-      "city": "תל אביב - יפו",
-      "lat": 32.09721,
-      "lon": 34.796858
+      "city": "תל אביב-יפו",
+      "lat": 32.097393,
+      "lon": 34.7967821
     }
   ],
   "isMultinational": false,
-  "facebookId": "rspctbasketball",
-  "linkedinNum": 18142098
+  "isActive": true
 }

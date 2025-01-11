@@ -6,21 +6,26 @@
   "logoFile": "logos/scoompa-logo.webp",
   "websiteUrl": "https://www.scoompa.com/",
   "careersUrl": "https://scoompa.com/jobs",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "scoompa",
+  "linkedinNum": 2221391,
   "crunchbaseId": null,
+  "ivcId": "A1000000006401",
   "finderId": "scoompa",
   "xId": "scoompafun",
+  "facebookId": "scoompa.mobile",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "אביצור שמואל",
+      "street": "פרופ' שמואל אביצור",
       "houseNumber": 10,
-      "city": "תל אביב - יפו",
-      "lat": 32.051249,
-      "lon": 34.755022
+      "city": "תל אביב-יפו",
+      "lat": 32.0513384,
+      "lon": 34.7554866
     }
   ],
   "isMultinational": false,
-  "facebookId": "scoompa.mobile",
-  "linkedinNum": 2221391
+  "isActive": true
 }

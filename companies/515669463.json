@@ -6,20 +6,26 @@
   "logoFile": "logos/dcentralab-logo.webp",
   "websiteUrl": "https://www.dcentralab.com/",
   "careersUrl": "https://www.dcentralab.com/jobs",
-  "isHiring": true,
   "linkedinId": "dcentralab",
+  "linkedinNum": 74475870,
   "crunchbaseId": "dcentralab",
+  "ivcId": "A1000000257792",
   "finderId": "dcentralab",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "החרש",
-      "houseNumber": 20,
-      "city": "תל אביב - יפו",
-      "lat": 32.05865,
-      "lon": 34.784414
+      "street": "שדרות יהודית",
+      "houseNumber": 19,
+      "city": "תל אביב-יפו",
+      "lat": 32.0700923,
+      "lon": 34.7908567
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 74475870
+  "isActive": true
 }

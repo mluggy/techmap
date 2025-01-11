@@ -6,21 +6,26 @@
   "logoFile": "logos/bepro_travel-logo.webp",
   "websiteUrl": "https://www.beprotravel.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 10046445,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bepro-travel",
   "xId": null,
+  "facebookId": "beprotravel",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרד",
       "houseNumber": 29,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.063593,
       "lon": 34.763472
     }
   ],
   "isMultinational": false,
-  "facebookId": "beprotravel",
-  "linkedinNum": 10046445
+  "isActive": true
 }

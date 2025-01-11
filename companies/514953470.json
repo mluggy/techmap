@@ -1,0 +1,31 @@
+{
+  "name": "Bellboy",
+  "description": "Bellboy is a Hotel Management System provider that has defined a new approach to modern day hotel management.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/bellboy-logo.webp",
+  "websiteUrl": "http://mii.co.il",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000183019",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הברזל",
+      "houseNumber": 34,
+      "city": "תל אביב-יפו",
+      "lat": 32.1091364,
+      "lon": 34.8408152
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

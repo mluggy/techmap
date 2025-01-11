@@ -6,20 +6,26 @@
   "logoFile": "logos/connvas-logo.webp",
   "websiteUrl": "https://www.connvas.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "connvas",
+  "linkedinNum": 72102435,
   "crunchbaseId": null,
+  "ivcId": "A1000000348140",
   "finderId": "connvas",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "בן ציון שמחה",
-      "houseNumber": 9,
+      "street": "ציון",
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.7855,
-      "lon": 35.016075
+      "lat": 32.790757,
+      "lon": 35.0154216
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72102435
+  "isActive": true
 }

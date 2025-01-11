@@ -1,0 +1,31 @@
+{
+  "name": "SIM.Space",
+  "description": "SIM.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/sim-space-logo.webp",
+  "websiteUrl": "http://sim.space",
+  "careersUrl": "http://sim.space/web/index.php/jobs",
+  "linkedinId": "sim-space",
+  "linkedinNum": 14061787,
+  "crunchbaseId": null,
+  "ivcId": "A1000000424797",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "סוקניק",
+      "houseNumber": 4,
+      "city": "יהוד מונוסון",
+      "lat": 32.0367278,
+      "lon": 34.8941235
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

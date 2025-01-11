@@ -6,21 +6,26 @@
   "logoFile": "logos/peech_technology-logo.webp",
   "websiteUrl": "https://www.peech-ai.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "peechai",
+  "linkedinNum": 65881146,
   "crunchbaseId": null,
+  "ivcId": "A1000000330043",
   "finderId": "peech",
   "xId": null,
+  "facebookId": "peechglobal",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גיצבורג",
+      "street": "גינצבורג",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.07017632977494,
-      "lon": 34.797778018756375
+      "city": "ראשון לציון",
+      "lat": 31.9907566,
+      "lon": 34.7682948
     }
   ],
   "isMultinational": false,
-  "facebookId": "peechglobal",
-  "linkedinNum": 65881146
+  "isActive": true
 }

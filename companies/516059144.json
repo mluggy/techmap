@@ -6,11 +6,17 @@
   "logoFile": "logos/othereality-logo.webp",
   "websiteUrl": "https://www.othereality.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "othereality",
+  "linkedinNum": 64505048,
   "crunchbaseId": null,
+  "ivcId": "A1000000270930",
   "finderId": "othereality",
   "xId": "othereality_",
+  "facebookId": "OtheReality.startup",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבי בנימין",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "OtheReality.startup",
-  "linkedinNum": 64505048
+  "isActive": true
 }

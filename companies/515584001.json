@@ -6,21 +6,26 @@
   "logoFile": "logos/poptin_ltd-logo.webp",
   "websiteUrl": "https://www.poptin.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "poptin",
+  "linkedinNum": 15144567,
   "crunchbaseId": null,
+  "ivcId": "A1000000224967",
   "finderId": "poptin",
   "xId": "poptins",
+  "facebookId": "www.popt.in",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד ירושלים",
-      "houseNumber": 18,
-      "city": "אשדוד",
-      "lat": 31.7887034,
-      "lon": 34.6587003
+      "street": "אלוף קלמן מגן",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.0713993,
+      "lon": 34.7865759
     }
   ],
   "isMultinational": false,
-  "facebookId": "www.popt.in",
-  "linkedinNum": 15144567
+  "isActive": true
 }

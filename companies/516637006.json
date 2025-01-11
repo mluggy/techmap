@@ -6,20 +6,26 @@
   "logoFile": "logos/dibble.webp",
   "websiteUrl": "https://dibble.co.il/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 69212360,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "dibble",
   "xId": null,
   "facebookId": "dibble.co.il",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המרץ",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.051600061031884,
       "lon": 34.77268243090451
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,26 +1,31 @@
 {
   "name": "NozNoz",
-  "description": "Nasal-based Weight Management Technology",
+  "description": "Nasal-based Weight Management Technology.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/beck_medical-logo.webp",
   "websiteUrl": "https://noznoz.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "beck-medical",
+  "linkedinNum": 35495802,
   "crunchbaseId": null,
+  "ivcId": "A1000000268446",
   "finderId": "beck-medical",
   "xId": null,
+  "facebookId": "NozNozWeightManagement",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הארזים גבעת עדה",
+      "street": "הארזים",
       "houseNumber": 34,
-      "city": "גבעת עדה",
-      "lat": 32.52242617492569,
-      "lon": 34.99404113367883
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.5222453,
+      "lon": 34.9940304
     }
   ],
   "isMultinational": false,
-  "facebookId": "NozNozWeightManagement",
-  "linkedinNum": 35495802
+  "isActive": true
 }

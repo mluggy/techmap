@@ -1,0 +1,31 @@
+{
+  "name": "Viewz",
+  "description": "Viewz is a SaaS fintech company, providing full accounting solution for reporting and analytics.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/viewz-logo.webp",
+  "websiteUrl": "https://www.viewz.co",
+  "careersUrl": null,
+  "linkedinId": "viewz.co",
+  "linkedinNum": 101670172,
+  "crunchbaseId": null,
+  "ivcId": "A1000000469508",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "חיים בר-לב",
+      "houseNumber": 10,
+      "city": "קרית אונו",
+      "lat": 32.0582975,
+      "lon": 34.858318
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Chillz",
+  "description": "Chillz is the all-in-one app for the best bars, clubs, events and music festivals.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/chillz-logo.webp",
+  "websiteUrl": "https://www.chillz.com",
+  "careersUrl": null,
+  "linkedinId": "chillzapp",
+  "linkedinNum": 26518186,
+  "crunchbaseId": null,
+  "ivcId": "A1000000492605",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "בצלאל",
+      "houseNumber": 4,
+      "city": "תל אביב-יפו",
+      "lat": 32.08127650000001,
+      "lon": 34.7835979
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

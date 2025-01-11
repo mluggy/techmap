@@ -6,21 +6,26 @@
   "logoFile": "logos/microbot_medical-logo.webp",
   "websiteUrl": "https://microbotmedical.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "microbot-medical",
+  "linkedinNum": 1502003,
   "crunchbaseId": null,
+  "ivcId": "A1000000001209",
   "finderId": "microbot-medical",
   "xId": "MicrobotMedical",
+  "facebookId": "microbotmedical",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "היזמה",
+      "street": "היוזמה",
       "houseNumber": 6,
-      "city": "יקנעם עילית",
-      "lat": 32.66990136292796,
-      "lon": 35.10576848900816
+      "city": "יוקנעם עילית",
+      "lat": 32.6685512,
+      "lon": 35.1054214
     }
   ],
   "isMultinational": false,
-  "facebookId": "microbotmedical",
-  "linkedinNum": 1502003
+  "isActive": true
 }

@@ -1,16 +1,22 @@
 {
   "name": "Climber O.D.E",
-  "description": "Personal Escalator for Home Use",
+  "description": "Personal Escalator for Home Use.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/climber_o_d_e-logo.webp",
   "websiteUrl": "https://www.climber-ltd.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000284643",
   "finderId": "climber",
   "xId": null,
+  "facebookId": "TheClimberEscalator",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שארית הפליטה",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "TheClimberEscalator"
+  "isActive": true
 }

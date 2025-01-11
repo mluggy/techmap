@@ -6,21 +6,26 @@
   "logoFile": "logos/zoomin_software-logo.webp",
   "websiteUrl": "https://www.zoominsoftware.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "zoomin-software",
+  "linkedinNum": 10490599,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "zoomin",
   "xId": "ZoominSoftware",
+  "facebookId": "ZoominSoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אבן גבירול",
       "houseNumber": 124,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.0869162,
       "lon": 34.7822126
     }
   ],
   "isMultinational": false,
-  "facebookId": "ZoominSoftware",
-  "linkedinNum": 10490599
+  "isActive": true
 }

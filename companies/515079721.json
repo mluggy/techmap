@@ -6,20 +6,26 @@
   "logoFile": "logos/energy_re_connect-logo.webp",
   "websiteUrl": "https://www.energyreconnect.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 4856373,
   "crunchbaseId": null,
+  "ivcId": "A1000000187005",
   "finderId": "energy-re-connect",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גורדון י ל",
+      "street": "J. L. Gordon Street",
       "houseNumber": 49,
-      "city": "תל אביב - יפו",
-      "lat": 32.081685,
-      "lon": 34.775
+      "city": "Tel Aviv-Yafo",
+      "lat": 32.0816897,
+      "lon": 34.7748691
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 4856373
+  "isActive": true
 }

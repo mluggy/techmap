@@ -3,14 +3,20 @@
   "description": "Specializing in 3D stereo vision technology, Foresight delivers tailored perception solutions for diverse industries including automotive, agriculture, defense, and robotics.",
   "categoryId": 5,
   "size": "m",
-  "logoFile": "logos/foresight_automotive-logo.webp",
+  "logoFile": "logos/foresight-automotive-logo.webp",
   "websiteUrl": "https://www.foresightauto.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "foresight-automotive",
+  "linkedinNum": 10469458,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "foresight-automotive",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גולדה מאיר",
@@ -19,5 +25,7 @@
       "lat": 31.9137859,
       "lon": 34.8024773
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,25 +1,31 @@
 {
   "name": "Chain Reaction",
-  "description": "Blockchain and Privacy Technologies for Enhanced Compute Performance",
+  "description": "Blockchain and Privacy Technologies for Enhanced Compute Performance.",
   "categoryId": 14,
   "size": "m",
   "logoFile": "logos/chain_reaction-logo.webp",
   "websiteUrl": "https://www.chain-reaction.io",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "chainreaction11",
+  "linkedinNum": 72665759,
   "crunchbaseId": null,
+  "ivcId": "A1000000305124",
   "finderId": "chain-reaction",
   "xId": "chainreactioni0",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הכרמל",
       "houseNumber": 2,
-      "city": "יקנעם עילית",
-      "lat": 32.6578027,
-      "lon": 35.1002987
+      "city": "יוקנעם עילית",
+      "lat": 32.6624558,
+      "lon": 35.1049443
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72665759
+  "isActive": true
 }

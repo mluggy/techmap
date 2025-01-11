@@ -1,0 +1,31 @@
+{
+  "name": "Stroke Rehab",
+  "description": "Stroke Rehab was founded to transform the rehabilitation process for stroke survivors, replacing endless, expensive physiotherapy-based rehab with a unique solution that puts the patient in the driving seat for the very first time – with dramatic results.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/stroke_rehab-logo.webp",
+  "websiteUrl": "https://www.cvarehab.com",
+  "careersUrl": null,
+  "linkedinId": "cvarehab",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000276354",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "ליאון שטיין",
+      "houseNumber": 10,
+      "city": "חיפה",
+      "lat": 32.7912492,
+      "lon": 35.0367255
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

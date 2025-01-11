@@ -6,20 +6,26 @@
   "logoFile": "logos/unit_finance-logo.webp",
   "websiteUrl": "https://www.unit.co/",
   "careersUrl": "https://www.unit.co/careers",
-  "isHiring": true,
   "linkedinId": "unit-finance",
+  "linkedinNum": 20401117,
   "crunchbaseId": "unit",
+  "ivcId": null,
   "finderId": "unit-finance",
   "xId": "unit_co_",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דרך בגין",
       "houseNumber": 152,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.079241,
       "lon": 34.795072
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 20401117
+  "isActive": true
 }

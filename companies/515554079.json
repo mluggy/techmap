@@ -6,21 +6,26 @@
   "logoFile": "logos/tailormed_medical-logo.webp",
   "websiteUrl": "https://tailormed.co/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 17884412,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "tailormed-medical",
   "xId": "tailormedtweet",
+  "facebookId": "TailorMed.co",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מוזס יהודה ונח",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.075798,
       "lon": 34.794728
     }
   ],
   "isMultinational": false,
-  "facebookId": "TailorMed.co",
-  "linkedinNum": 17884412
+  "isActive": true
 }

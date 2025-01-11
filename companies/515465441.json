@@ -6,21 +6,26 @@
   "logoFile": "logos/go_heja-logo.webp",
   "websiteUrl": "https://www.goheja.site/",
   "careersUrl": "https://jobs.heja.io/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 10560891,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "go-heja",
   "xId": null,
+  "facebookId": "goheja",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "לוין שלום",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.12611,
       "lon": 34.828828
     }
   ],
   "isMultinational": false,
-  "facebookId": "goheja",
-  "linkedinNum": 10560891
+  "isActive": true
 }

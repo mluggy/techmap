@@ -1,25 +1,31 @@
 {
   "name": "Co-energy",
-  "description": "Modular Pyrolysis Solution for Waste Reduction",
+  "description": "Modular Pyrolysis Solution for Waste Reduction.",
   "categoryId": 17,
   "size": "s",
   "logoFile": "logos/co_energy-logo.webp",
   "websiteUrl": "https://co-energy.energy/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "coenergy-israelltd",
+  "linkedinNum": 77660022,
   "crunchbaseId": null,
+  "ivcId": "A1000000380600",
   "finderId": "co-energy",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קהילת לודג'",
+      "street": "קהילת לודז'",
       "houseNumber": 41,
-      "city": "תל אביב - יפו",
-      "lat": 32.1495484,
-      "lon": 34.8440306
+      "city": "תל אביב-יפו",
+      "lat": 32.1070344,
+      "lon": 34.8170776
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 77660022
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "EZmob",
+  "description": "EZmob is a full-service mobile advertising company offering both technology and expertise in the areas of strategy, creative development, and media buys for brands, direct advertisers, and agencies.",
+  "categoryId": 18,
+  "size": "s",
+  "logoFile": "logos/ezmob-logo.webp",
+  "websiteUrl": "https://ezmob.com",
+  "careersUrl": "https://ezmob.com/jobs/",
+  "linkedinId": "ezmob",
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000182714",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות שאול המלך",
+      "houseNumber": 39,
+      "city": "תל אביב-יפו",
+      "lat": 32.0778182,
+      "lon": 34.79062529999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

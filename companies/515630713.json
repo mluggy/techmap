@@ -6,11 +6,17 @@
   "logoFile": "logos/upstream_security-logo.webp",
   "websiteUrl": "https://upstream.auto/",
   "careersUrl": "https://upstream.auto/careers/",
-  "isHiring": true,
   "linkedinId": "upstream-security",
+  "linkedinNum": 17950408,
   "crunchbaseId": "upstream-security",
+  "ivcId": null,
   "finderId": "upstream-security",
   "xId": "upstreamauto",
+  "facebookId": "upstream.auto",
+  "breezyId": null,
+  "comeetId": "upstream/E4.003",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ספיר",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "upstream.auto",
-  "linkedinNum": 17950408,
-  "comeetId": "upstream/E4.003"
+  "isActive": true
 }

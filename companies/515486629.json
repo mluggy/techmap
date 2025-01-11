@@ -6,22 +6,26 @@
   "logoFile": "logos/cymotive-logo.webp",
   "websiteUrl": "https://www.cymotive.com/",
   "careersUrl": "https://www.cymotive.com/join-the-team/",
-  "isHiring": true,
   "linkedinId": "cymotive",
+  "linkedinNum": 10961812,
   "crunchbaseId": "cymotive-technologies",
+  "ivcId": "A1000000222322",
   "finderId": "cymotive-technologies",
   "xId": null,
+  "facebookId": "CyMotive",
+  "breezyId": null,
+  "comeetId": "cymotive/F1.008",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "יגאל אלון",
       "houseNumber": 94,
-      "city": "תל אביב - יפו",
-      "lat": 32.0687595,
-      "lon": 34.7939327
+      "city": "תל אביב-יפו",
+      "lat": 32.0686173,
+      "lon": 34.7937882
     }
   ],
   "isMultinational": false,
-  "facebookId": "CyMotive",
-  "linkedinNum": 10961812,
-  "comeetId": "cymotive/F1.008"
+  "isActive": true
 }

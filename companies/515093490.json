@@ -6,21 +6,26 @@
   "logoFile": "logos/tempdrop-logo.webp",
   "websiteUrl": "https://www.tempdrop.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "tempdrop",
+  "linkedinNum": 17968802,
   "crunchbaseId": null,
+  "ivcId": "A1000000024887",
   "finderId": "tempdrop",
   "xId": "Temp_drop",
+  "facebookId": "pages",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "השלושה",
-      "houseNumber": 2,
-      "city": "תל אביב - יפו",
-      "lat": 32.0617382,
-      "lon": 34.7882304
+      "street": "התעשייה",
+      "houseNumber": 11,
+      "city": "רעננה",
+      "lat": 32.1961697,
+      "lon": 34.8802394
     }
   ],
   "isMultinational": false,
-  "facebookId": "pages",
-  "linkedinNum": 17968802
+  "isActive": true
 }

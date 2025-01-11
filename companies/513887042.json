@@ -6,11 +6,17 @@
   "logoFile": "logos/valens_semiconductor-logo.webp",
   "websiteUrl": "https://www.valens.com/",
   "careersUrl": "https://valensglobal.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "valens",
+  "linkedinNum": 109337,
   "crunchbaseId": null,
+  "ivcId": "A1000000006542",
   "finderId": "valens",
   "xId": "ValensAuto",
+  "facebookId": "ValensSemiconductor",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנגר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "ValensSemiconductor",
-  "linkedinNum": 109337
+  "isActive": true
 }

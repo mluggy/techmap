@@ -1,0 +1,31 @@
+{
+  "name": "ISR",
+  "description": "ISR Corporation is well recognized as a pioneer in the mapping and tracking industry.",
+  "categoryId": 18,
+  "size": "xs",
+  "logoFile": "logos/isr-logo.webp",
+  "websiteUrl": "https://isrtransit.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000004911",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "ירושלים",
+      "lat": 31.790544,
+      "lon": 35.194715
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Moose Care Products",
+  "description": "Moose Care is a smart device in a size of an average coffee mug that produces warm, dense and pampering shaving foam in a short time.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/moose_care_products-logo.webp",
+  "websiteUrl": "https://www.moosecare.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000342421",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "יהואש",
+      "houseNumber": 13,
+      "city": "תל אביב-יפו",
+      "lat": 32.0817331,
+      "lon": 34.7690681
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

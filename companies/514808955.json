@@ -6,11 +6,17 @@
   "logoFile": "logos/raziel_therapeutics_rt-logo.webp",
   "websiteUrl": "https://www.raziel-therapy.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": "raziel-therapeutics-6a82",
+  "ivcId": "A1000000020691",
   "finderId": "raziel-therapeutics",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "פלאוט מנחם",
@@ -20,5 +26,6 @@
       "lon": 34.8069706
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

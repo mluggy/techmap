@@ -1,25 +1,31 @@
 {
   "name": "Softwear Suit",
-  "description": "Analytical Software for Machine-generated Data",
+  "description": "Softwear suit Ltd is a provider of high-end software services, specializing in report and analysis applications development.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/softwear_suit-logo.webp",
-  "websiteUrl": "https://subdomain.softwear.co.il/",
+  "websiteUrl": "http://www.logbi.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "softwear-suit-ltd",
+  "linkedinNum": 618049,
   "crunchbaseId": null,
+  "ivcId": "A1000000198286",
   "finderId": "softwear",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "התע\"ש",
-      "houseNumber": 20,
+      "street": null,
+      "houseNumber": null,
       "city": "כפר סבא",
-      "lat": 32.1789899,
-      "lon": 34.9284423
+      "lat": 32.178195,
+      "lon": 34.90761
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 618049
+  "isActive": true
 }

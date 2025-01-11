@@ -1,0 +1,31 @@
+{
+  "name": "PetSapien",
+  "description": "PetSapien is building a personalised data platform for dogs wellbeing & nutrition.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/petsapien-logo.webp",
+  "websiteUrl": "https://www.petsapien.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000302398",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שדרות רוטשילד",
+      "houseNumber": 121,
+      "city": "תל אביב-יפו",
+      "lat": 32.0703226,
+      "lon": 34.7784724
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

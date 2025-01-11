@@ -1,16 +1,22 @@
 {
   "name": "SAP",
   "description": "Streamlining travel, expense, and invoice processes for enhanced oversight and control.",
-  "size": "xl",
   "categoryId": 14,
+  "size": "xl",
   "logoFile": "logos/sap_port_business_solutions-logo.webp",
   "websiteUrl": "https://www.sap.com/",
   "careersUrl": "https://jobs.sap.com/",
-  "isHiring": true,
   "linkedinId": "sap",
+  "linkedinNum": 1115,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "sap",
   "xId": "sap_labs_israel",
+  "facebookId": "SAPLabsIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד הרכס",
@@ -20,7 +26,6 @@
       "lon": 34.9906948
     }
   ],
-  "isMultinational": true,
-  "facebookId": "SAPLabsIsrael",
-  "linkedinNum": 1115
+  "isMultinational": false,
+  "isActive": true
 }

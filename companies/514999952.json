@@ -6,21 +6,26 @@
   "logoFile": "logos/nextferm_technologies-logo.webp",
   "websiteUrl": "https://nextferm.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "c-r-bio-labs",
+  "linkedinNum": 5348213,
   "crunchbaseId": null,
+  "ivcId": "A1000000219319",
   "finderId": "nextferm-technologies",
   "xId": null,
+  "facebookId": "nextferm",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הקידמה",
-      "houseNumber": 7,
-      "city": "יקנעם עילית",
-      "lat": 32.66993075,
-      "lon": 35.10747075437456
+      "street": "היצירה",
+      "houseNumber": 2,
+      "city": "יוקנעם עילית",
+      "lat": 32.6579014,
+      "lon": 35.09806349999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "nextferm",
-  "linkedinNum": 5348213
+  "isActive": true
 }

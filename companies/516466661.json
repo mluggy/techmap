@@ -1,16 +1,22 @@
 {
   "name": "OncoDecipher",
-  "description": "We offer a diagnostic panel that identifies key genetic alterations in lung cancer to guide treatment and prognosis.",
+  "description": "OncoDecipher develops a computational biology platform to identify silent mutations and improve pharmaceutical companies’ ability to identify patients that will benefit from the treatment.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/oncodecipher-logo.webp",
-  "websiteUrl": "https://www.oncodesc.com/?ae_global_templates=popup-oncodecipher-lung-absolute-2-0-ngs-panel",
+  "websiteUrl": "https://www.oncodecipher.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000364827",
   "finderId": "oncodecipher",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "זרחין אלכסנדר",
@@ -20,5 +26,6 @@
       "lon": 34.8811941
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

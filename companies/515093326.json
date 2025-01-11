@@ -6,21 +6,26 @@
   "logoFile": "logos/tailor_brands-logo.webp",
   "websiteUrl": "https://www.tailorbrands.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "tailor-brands",
+  "linkedinNum": 5309961,
   "crunchbaseId": null,
+  "ivcId": "A1000000177417",
   "finderId": "tailor-brands",
   "xId": "tailorbrands",
+  "facebookId": "tailorbrands",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אלנבי",
       "houseNumber": 113,
-      "city": "תל אביב - יפו",
-      "lat": 32.062766,
-      "lon": 34.773452
+      "city": "תל אביב-יפו",
+      "lat": 32.0627306,
+      "lon": 34.7734003
     }
   ],
   "isMultinational": false,
-  "facebookId": "tailorbrands",
-  "linkedinNum": 5309961
+  "isActive": true
 }

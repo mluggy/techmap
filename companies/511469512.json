@@ -6,11 +6,17 @@
   "logoFile": "logos/fluence_water_israel-logo.webp",
   "websiteUrl": "https://www.fluencecorp.com/",
   "careersUrl": "https://fluenceenergy.com/energy-storage-careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "fluence-corporate",
+  "linkedinNum": 18150486,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "fluence-corporation",
   "xId": "fluencecorp",
+  "facebookId": "FluenceCorporation",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הנפח",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "FluenceCorporation",
-  "linkedinNum": 18150486
+  "isActive": true
 }

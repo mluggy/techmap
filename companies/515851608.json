@@ -6,11 +6,17 @@
   "logoFile": "logos/kaholo-logo.webp",
   "websiteUrl": "https://kaholo.io/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kaholo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "ברמן בני",
@@ -19,5 +25,7 @@
       "lat": 32.2783096,
       "lon": 34.8473934
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

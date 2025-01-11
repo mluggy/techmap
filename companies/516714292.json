@@ -1,25 +1,31 @@
 {
   "name": "ViTAs Labs",
-  "description": "Cognitive Training Tool",
-  "categoryId": 14,
+  "description": "ViTAs' system provides a virtual reality training solution for athletes and coaches.",
+  "categoryId": 13,
   "size": "xs",
   "logoFile": "logos/vitas_labs-logo.webp",
-  "websiteUrl": "https://www.vtactica.com/",
+  "websiteUrl": "https://www.vitas-labs.com",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "vitaslabs",
+  "linkedinNum": 91059793,
   "crunchbaseId": null,
+  "ivcId": "A1000000431626",
   "finderId": "vitas-labs",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "יצחק (זיקו) גרציאני",
+      "street": "יצחק ארצי",
       "houseNumber": 4,
-      "city": "תל אביב - יפו",
-      "lat": 32.068629,
-      "lon": 34.785878
+      "city": "תל אביב-יפו",
+      "lat": 32.1196917,
+      "lon": 34.7825721
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 91059793
+  "isActive": true
 }

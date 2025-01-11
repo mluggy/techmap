@@ -6,11 +6,17 @@
   "logoFile": "logos/siemens-logo.webp",
   "websiteUrl": "https://www.siemens.com/",
   "careersUrl": "https://www.siemens.com/global/en/company/jobs.html",
-  "isHiring": true,
   "linkedinId": "siemens",
+  "linkedinNum": 1043,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "siemens",
   "xId": "Siemens",
+  "facebookId": "Siemens",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אריאב אורי",
@@ -20,7 +26,6 @@
       "lon": 34.9418895
     }
   ],
-  "isMultinational": true,
-  "facebookId": "Siemens",
-  "linkedinNum": 1043
+  "isMultinational": false,
+  "isActive": true
 }

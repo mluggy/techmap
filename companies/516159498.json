@@ -1,16 +1,22 @@
 {
   "name": "Validoo",
-  "description": "Automated Verification for Digitization Workflows",
+  "description": "Automated Verification for Digitization Workflows.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/validoo-logo.webp",
   "websiteUrl": "https://www.validoo.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "validoo-io",
+  "linkedinNum": 69058612,
   "crunchbaseId": null,
+  "ivcId": "A1000000338082",
   "finderId": "validoo",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גלבוע",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 69058612
+  "isActive": true
 }

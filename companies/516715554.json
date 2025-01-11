@@ -6,18 +6,26 @@
   "logoFile": "logos/simple_implants-logo.webp",
   "websiteUrl": "https://www.mis-implants.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "simple-implants",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "קהילת אודסה",
       "houseNumber": 13,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.108147,
       "lon": 34.826052
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

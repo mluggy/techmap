@@ -6,21 +6,26 @@
   "logoFile": "logos/littleone_care-logo.webp",
   "websiteUrl": "https://www.littleone.care/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "littleonecare",
+  "linkedinNum": 20555634,
   "crunchbaseId": null,
+  "ivcId": "A1000000311975",
   "finderId": "littleone-care",
   "xId": "littleonecare",
+  "facebookId": "little1care",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שד' בן ציון",
+      "street": "ישראל בן ציון",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
-      "lat": 32.073701,
-      "lon": 34.776519
+      "city": "בת ים",
+      "lat": 32.0163494,
+      "lon": 34.7458963
     }
   ],
   "isMultinational": false,
-  "facebookId": "little1care",
-  "linkedinNum": 20555634
+  "isActive": true
 }

@@ -6,21 +6,26 @@
   "logoFile": "logos/blue_tree_technologies-logo.webp",
   "websiteUrl": "https://bluetree-tech.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "blue-tree-technologies",
+  "linkedinNum": 54130138,
   "crunchbaseId": null,
+  "ivcId": "A1000000316644",
   "finderId": "bluetree",
   "xId": "BlueTreeTechno",
+  "facebookId": "bluetreetechnologies",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חצב",
       "houseNumber": 30,
-      "city": "קריית שמונה",
-      "lat": 33.2115548,
-      "lon": 35.5787624
+      "city": "קרית שמונה",
+      "lat": 33.21153900000001,
+      "lon": 35.578711
     }
   ],
   "isMultinational": false,
-  "facebookId": "bluetreetechnologies",
-  "linkedinNum": 54130138
+  "isActive": true
 }

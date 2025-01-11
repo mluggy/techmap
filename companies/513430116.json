@@ -6,12 +6,17 @@
   "logoFile": "logos/p-marom.webp",
   "websiteUrl": "https://www.pmarom.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 739696,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "p-marom",
   "xId": null,
   "facebookId": "P.MAROM.AGRICULTURALPROJECTS",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": ".",
@@ -21,5 +26,6 @@
       "lon": 34.913168572388614
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

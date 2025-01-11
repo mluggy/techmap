@@ -1,0 +1,31 @@
+{
+  "name": "Somebuddy",
+  "description": "Somebuddy Therapy is based on a smart algorithm, which focuses on the personalization of psychologists, social workers, expression therapists, creative therapists, NLP therapists, business coaches, career counselors, as well as family and couple therapists.",
+  "categoryId": 12,
+  "size": "xs",
+  "logoFile": "logos/somebuddy-logo.webp",
+  "websiteUrl": "https://somebuddytherapy.co.il",
+  "careersUrl": "https://somebuddytherapy.co.il/jobs/",
+  "linkedinId": "somebuddytherapy",
+  "linkedinNum": 37210643,
+  "crunchbaseId": null,
+  "ivcId": "A1000000315023",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "קהילת בודפשט",
+      "houseNumber": 3,
+      "city": "תל אביב-יפו",
+      "lat": 32.1104285,
+      "lon": 34.8234373
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

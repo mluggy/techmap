@@ -6,20 +6,26 @@
   "logoFile": "logos/revenue_stream-logo.webp",
   "websiteUrl": "https://www.revenue-stream.com/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "revenuestream",
+  "linkedinNum": 2755839,
   "crunchbaseId": null,
+  "ivcId": "A1000000022857",
   "finderId": "revenuestream",
   "xId": "revnu_stream",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "תרפ\"ב",
-      "houseNumber": 17,
-      "city": "רמת גן",
-      "lat": 32.0796822,
-      "lon": 34.8027192
+      "street": "הבנים",
+      "houseNumber": 69,
+      "city": "הרצליה",
+      "lat": 32.1633545,
+      "lon": 34.8511248
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 2755839
+  "isActive": true
 }

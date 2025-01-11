@@ -6,20 +6,26 @@
   "logoFile": "logos/rumenera-logo.webp",
   "websiteUrl": "https://www.rumenera.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "rumenera-by-huminn",
+  "linkedinNum": 92489290,
   "crunchbaseId": null,
+  "ivcId": "A1000000433919",
   "finderId": "rumenera",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "הירקון",
-      "houseNumber": 5,
-      "city": "בני ברק",
-      "lat": 32.0955017,
-      "lon": 34.8234431
+      "street": "יגאל אלון",
+      "houseNumber": 94,
+      "city": "תל אביב-יפו",
+      "lat": 32.0689894,
+      "lon": 34.7940425
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 92489290
+  "isActive": true
 }

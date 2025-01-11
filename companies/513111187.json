@@ -1,16 +1,22 @@
 {
   "name": "Accenture",
   "description": "Accenture is a global professional services company specializing in IT services and consulting, helping businesses drive innovation and efficiency.",
-  "size": "l",
   "categoryId": 14,
+  "size": "l",
   "logoFile": "logos/accenture-logo.webp",
   "websiteUrl": "https://www.accenture.com/",
   "careersUrl": "https://www.accenture.com/us-en/careers",
-  "isHiring": true,
   "linkedinId": "accenture_israel",
+  "linkedinNum": 9328397,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "accenture",
   "xId": "AccentureLabs",
+  "facebookId": "AccentureIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "המנופים",
@@ -20,7 +26,6 @@
       "lon": 34.8083843
     }
   ],
-  "isMultinational": true,
-  "facebookId": "AccentureIsrael",
-  "linkedinNum": 9328397
+  "isMultinational": false,
+  "isActive": true
 }

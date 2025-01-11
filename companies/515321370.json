@@ -6,20 +6,26 @@
   "logoFile": "logos/beeeye_i_t_technologies-logo.webp",
   "websiteUrl": "https://beeeye.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "beeeye",
+  "linkedinNum": 10252143,
   "crunchbaseId": "beeeye-b615",
+  "ivcId": "A1000000221487",
   "finderId": "beeeye-it-technologies",
   "xId": "beeeyemodeling",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "קציר אפריים",
-      "houseNumber": 13,
-      "city": "הוד השרון",
-      "lat": 32.167185849999996,
-      "lon": 34.900009894588024
+      "street": "המלאכה",
+      "houseNumber": 6,
+      "city": "בנימינה גבעת עדה",
+      "lat": 32.513772,
+      "lon": 34.9480707
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 10252143
+  "isActive": true
 }

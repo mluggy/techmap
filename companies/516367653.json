@@ -3,14 +3,20 @@
   "description": "A medication using monoclonal antibodies designed for individuals with asthma.",
   "categoryId": 12,
   "size": "s",
-  "logoFile": "logos/upstream_bio-logo.webp",
+  "logoFile": "logos/upstream-bio-logo.webp",
   "websiteUrl": "https://www.upstreambio.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "upstreambio",
+  "linkedinNum": 83116643,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "upstream-bio",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הר דפנה",
@@ -19,5 +25,7 @@
       "lat": 32.0501694,
       "lon": 34.8702898
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

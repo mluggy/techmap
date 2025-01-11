@@ -1,25 +1,31 @@
 {
   "name": "Regenyx Medical",
-  "description": "Soft Tissue Restoration",
+  "description": "Soft Tissue Restoration.",
   "categoryId": 12,
   "size": "xs",
   "logoFile": "logos/regenyx-medical.webp",
   "websiteUrl": "https://regenyxmed.com/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": null,
   "linkedinNum": 102185269,
   "crunchbaseId": null,
+  "ivcId": "A1000000257036",
   "finderId": "regenyx-medical",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האנרגיה",
-      "houseNumber": 77,
-      "city": "באר שבע",
-      "lat": 31.263448646045035,
-      "lon": 34.81085927282681
+      "street": "ברגמן",
+      "houseNumber": 2,
+      "city": "ראשון לציון",
+      "lat": 31.981167,
+      "lon": 34.770544
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

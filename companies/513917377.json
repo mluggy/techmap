@@ -6,11 +6,17 @@
   "logoFile": "logos/kaltura-logo.webp",
   "websiteUrl": "https://corp.kaltura.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "kaltura",
+  "linkedinNum": 92413,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "kaltura",
   "xId": "kaltura",
+  "facebookId": "Kaltura",
+  "breezyId": null,
+  "comeetId": "kaltura/E2.00D",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הירקון",
@@ -21,7 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "Kaltura",
-  "linkedinNum": 92413,
-  "comeetId": "kaltura/E2.00D"
+  "isActive": true
 }

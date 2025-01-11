@@ -1,0 +1,31 @@
+{
+  "name": "Countit",
+  "description": "CountIt is a movie-attendance validation and BI tool for Cinema chains, film studios, production companies and distributors.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/countit-logo.webp",
+  "websiteUrl": "https://countit.online",
+  "careersUrl": null,
+  "linkedinId": "countitonline",
+  "linkedinNum": 69207172,
+  "crunchbaseId": null,
+  "ivcId": "A1000000425122",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "המנופים",
+      "houseNumber": 10,
+      "city": "הרצליה",
+      "lat": 32.1595829,
+      "lon": 34.8083893
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

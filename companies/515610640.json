@@ -1,0 +1,31 @@
+{
+  "name": "Doublero",
+  "description": "Doublero's predict engine effectively identifies market trends by monitoring the features and functionalities of top-selling products across various marketplaces.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/doublero-logo.webp",
+  "websiteUrl": "https://doublero.com",
+  "careersUrl": "mailto:career@doublero.com",
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000469555",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החרש",
+      "houseNumber": 20,
+      "city": "תל אביב-יפו",
+      "lat": 32.0588715,
+      "lon": 34.7845818
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

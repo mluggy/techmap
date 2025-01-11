@@ -6,22 +6,26 @@
   "logoFile": "logos/jifiti_israel-logo.webp",
   "websiteUrl": "https://www.jifiti.com/",
   "careersUrl": "https://www.jifiti.com/jobs/",
-  "isHiring": true,
   "linkedinId": "jifiti",
+  "linkedinNum": 1956915,
   "crunchbaseId": "jifiti-com",
+  "ivcId": "A1000000001888",
   "finderId": "jifiti",
   "xId": "JifitiPayments",
+  "facebookId": "jifiti",
+  "breezyId": null,
+  "comeetId": "jifiti/47.005",
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות דם המכבים",
-      "houseNumber": 28,
-      "city": "מודיעין-מכבים-רעות",
-      "lat": 31.905411899999997,
-      "lon": 35.005662165798086
+      "street": "יצחק רבין",
+      "houseNumber": 51,
+      "city": "לוד",
+      "lat": 31.95297189999999,
+      "lon": 34.8743685
     }
   ],
   "isMultinational": false,
-  "facebookId": "jifiti",
-  "linkedinNum": 1956915,
-  "comeetId": "jifiti/47.005"
+  "isActive": true
 }

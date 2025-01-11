@@ -6,11 +6,17 @@
   "logoFile": "logos/bareket_astro-logo.webp",
   "websiteUrl": "https://emerald-planetariums.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "bareket-astro-ltd",
   "xId": null,
+  "facebookId": "EmeraldPlanetariums",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "שד הרכס",
@@ -21,5 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "EmeraldPlanetariums"
+  "isActive": true
 }

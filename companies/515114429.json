@@ -6,13 +6,26 @@
   "logoFile": "logos/aquarius_engines_a_m_l_td-logo.webp",
   "websiteUrl": "https://www.aquariusengines.com/",
   "careersUrl": "https://www.aquariusengines.com/careers/",
-  "isHiring": true,
-  "linkedinId": null,
+  "linkedinId": "aquarius-engines",
+  "linkedinNum": 4839401,
   "crunchbaseId": null,
+  "ivcId": "A1000000206148",
   "finderId": "aquarius-engines",
   "xId": "aquariusengines",
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "aquariusengines",
-  "linkedinNum": 4839401
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "יקום",
+      "lat": 32.249196,
+      "lon": 34.84190299999999
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

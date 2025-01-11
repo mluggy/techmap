@@ -1,0 +1,31 @@
+{
+  "name": "DbNinja",
+  "description": "Vayer Software developed a web-based application called DbNinja.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/dbninja-logo.webp",
+  "websiteUrl": "http://www.dbninja.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000023756",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "שניר",
+      "houseNumber": 44,
+      "city": "כפר ורדים",
+      "lat": 32.99372710000001,
+      "lon": 35.2826716
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

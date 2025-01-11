@@ -6,20 +6,26 @@
   "logoFile": "logos/permit_io-logo.webp",
   "websiteUrl": "https://www.permit.io/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "permitio",
+  "linkedinNum": 72387999,
   "crunchbaseId": null,
+  "ivcId": "A1000000359168",
   "finderId": "authorizon-technologies",
   "xId": "permit_io",
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "בית הלל",
       "houseNumber": 6,
-      "city": "תל אביב - יפו",
-      "lat": 32.069416,
-      "lon": 34.789403
+      "city": "תל אביב-יפו",
+      "lat": 32.0694358,
+      "lon": 34.7892903
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 72387999
+  "isActive": true
 }

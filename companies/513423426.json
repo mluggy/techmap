@@ -6,21 +6,26 @@
   "logoFile": "logos/intelligym_labs-logo.webp",
   "websiteUrl": "https://www.intelligym.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "ace-applied-cognitive-engineering-",
+  "linkedinNum": 1337757,
   "crunchbaseId": null,
+  "ivcId": "A1000000007274",
   "finderId": "intelligym-labs",
   "xId": "trainintelligym",
+  "facebookId": "SoccerIntelliGym",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "רגב אריה",
-      "houseNumber": 7,
-      "city": "נתניה",
-      "lat": 32.2810102,
-      "lon": 34.8632635
+      "street": "הבנאי",
+      "houseNumber": 5,
+      "city": "הוד השרון",
+      "lat": 32.1557263,
+      "lon": 34.9228673
     }
   ],
   "isMultinational": false,
-  "facebookId": "SoccerIntelliGym",
-  "linkedinNum": 1337757
+  "isActive": true
 }

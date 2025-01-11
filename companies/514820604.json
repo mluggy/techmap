@@ -6,12 +6,26 @@
   "logoFile": "logos/targetgene_biotechnologies-logo.webp",
   "websiteUrl": "https://targetgenebio.com/",
   "careersUrl": "https://targetgenebio.com/careers/",
-  "isHiring": true,
   "linkedinId": "targetgene-biotechnologies-ltd",
+  "linkedinNum": 3216766,
   "crunchbaseId": null,
+  "ivcId": "A1000000022370",
   "finderId": "targetgene",
   "xId": null,
-  "addresses": [],
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "רחובות",
+      "lat": 31.8943652,
+      "lon": 34.8115292
+    }
+  ],
   "isMultinational": false,
-  "linkedinNum": 3216766
+  "isActive": true
 }

@@ -6,11 +6,17 @@
   "logoFile": "logos/dooblo-logo.webp",
   "websiteUrl": "https://www.dooblo.net/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "dooblo",
+  "linkedinNum": 472459,
   "crunchbaseId": null,
+  "ivcId": "A1000000009535",
   "finderId": "dooblo",
   "xId": "SurveyToGo",
+  "facebookId": "SurveyToGo",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנא",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "SurveyToGo",
-  "linkedinNum": 472459
+  "isActive": true
 }

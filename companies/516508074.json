@@ -1,0 +1,31 @@
+{
+  "name": "ehouse",
+  "description": "ehouse is building the operational rails for the future of eCommerce, with the first all-in-one logistics OS, allowing merchants to focus on growing their business rather than just running it.",
+  "categoryId": 9,
+  "size": "s",
+  "logoFile": "logos/ehouse-logo.webp",
+  "websiteUrl": "https://joinehouse.com",
+  "careersUrl": "https://joinehouse.com/#join-us",
+  "linkedinId": "ehousespace",
+  "linkedinNum": 71570243,
+  "crunchbaseId": null,
+  "ivcId": "A1000000384582",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "תל גיבורים",
+      "houseNumber": 5,
+      "city": "תל אביב-יפו",
+      "lat": 32.0414866,
+      "lon": 34.7704038
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

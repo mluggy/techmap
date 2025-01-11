@@ -1,25 +1,31 @@
 {
   "name": "FINQ",
-  "description": "An intelligent investment platform utilizing big data and AI to provide modern, intermediary-free financial solutions for all.",
-  "categoryId": 10,
+  "description": "Finq has developed an accessible, objective and comprehensive marketplace for financial, pension and insurance products, while complying with strict regulatory conditions, designed to allow the users to receive personalized information for making financial decisions, investment proposals and opening an investment portfolio, tailored specifically to their needs.",
+  "categoryId": 14,
   "size": "s",
   "logoFile": "logos/finq_digital-logo.webp",
-  "websiteUrl": "https://finqai.com/",
+  "websiteUrl": "https://finqai.co.il/en",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "finqfinance",
+  "linkedinNum": null,
   "crunchbaseId": null,
+  "ivcId": "A1000000294014",
   "finderId": "finq",
   "xId": null,
+  "facebookId": "finqai",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "מונטיפיורי",
       "houseNumber": 42,
-      "city": "תל אביב - יפו",
-      "lat": 32.06565,
-      "lon": 34.774042
+      "city": "תל אביב-יפו",
+      "lat": 32.0656424,
+      "lon": 34.7740828
     }
   ],
   "isMultinational": false,
-  "facebookId": "finqai"
+  "isActive": true
 }

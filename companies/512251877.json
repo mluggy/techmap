@@ -1,16 +1,22 @@
 {
   "name": "Forum Engineering Technologies",
-  "description": "Dental Solutions",
+  "description": "Dental Solutions.",
   "categoryId": 12,
   "size": "s",
   "logoFile": "logos/forum_engineering_technologies_96_ltd-logo.webp",
   "websiteUrl": "https://www.forumtec.net/",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "forum-engineering-technologies-96-ltd",
+  "linkedinNum": 847391,
   "crunchbaseId": null,
+  "ivcId": "A1000000024757",
   "finderId": "forum-engineering-technologies",
   "xId": null,
+  "facebookId": "forumtec.net",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "חוצות היוצר",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "forumtec.net",
-  "linkedinNum": 847391
+  "isActive": true
 }

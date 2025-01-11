@@ -6,21 +6,26 @@
   "logoFile": "logos/arshow-logo.webp",
   "websiteUrl": "https://www.arshowpro.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 18470526,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "arshow",
   "xId": null,
+  "facebookId": "ARShowStagingDream",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אנטוקולסקי",
       "houseNumber": 7,
-      "city": "תל אביב - יפו",
+      "city": "תל אביב-יפו",
       "lat": 32.084416,
       "lon": 34.7826105
     }
   ],
   "isMultinational": false,
-  "facebookId": "ARShowStagingDream",
-  "linkedinNum": 18470526
+  "isActive": true
 }

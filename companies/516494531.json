@@ -3,14 +3,20 @@
   "description": "A beauty service providers app.",
   "categoryId": 10,
   "size": "xs",
-  "logoFile": "logos/glow_application-logo.webp",
+  "logoFile": "logos/glow-application-logo.webp",
   "websiteUrl": "https://www.glowapp.co.il/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "glow-application-ltd-glow-app",
+  "linkedinNum": 82136755,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "glow-application",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "נעמי שמר",
@@ -19,5 +25,7 @@
       "lat": 32.19467255,
       "lon": 34.86333624485158
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

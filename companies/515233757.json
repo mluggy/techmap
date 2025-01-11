@@ -6,11 +6,17 @@
   "logoFile": "logos/secupi-logo.webp",
   "websiteUrl": "https://secupi.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": null,
+  "linkedinNum": 6361829,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "secupi",
   "xId": "Secu_Pi",
+  "facebookId": "secupi",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רקפת",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "secupi",
-  "linkedinNum": 6361829
+  "isActive": true
 }

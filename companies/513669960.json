@@ -6,11 +6,17 @@
   "logoFile": "logos/nuvoton_technology_israel-logo.webp",
   "websiteUrl": "https://www.nuvoton.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "nuvoton-technology-israel-ltd",
+  "linkedinNum": 411045,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "nuvoton",
   "xId": "nuvoton",
+  "facebookId": "NuvotonIsrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "הסדנאות",
@@ -20,7 +26,6 @@
       "lon": 34.8064697
     }
   ],
-  "isMultinational": true,
-  "facebookId": "NuvotonIsrael",
-  "linkedinNum": 411045
+  "isMultinational": false,
+  "isActive": true
 }

@@ -1,0 +1,31 @@
+{
+  "name": "Roads.AI",
+  "description": "Roads A.",
+  "categoryId": 13,
+  "size": "xs",
+  "logoFile": "logos/roads_ai-logo.webp",
+  "websiteUrl": "http://121gw.tech",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000257511",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "השרון",
+      "houseNumber": 1,
+      "city": "אבן יהודה",
+      "lat": 32.2667958,
+      "lon": 34.8897863
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

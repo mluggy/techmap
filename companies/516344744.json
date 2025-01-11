@@ -6,18 +6,26 @@
   "logoFile": "logos/elinkair-logo.webp",
   "websiteUrl": "https://www.elinkair.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "elinkair",
+  "linkedinNum": 71487087,
   "crunchbaseId": null,
+  "ivcId": "A1000000431189",
   "finderId": "elinkair",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "גבעת דאונס",
-      "houseNumber": 39,
+      "street": null,
+      "houseNumber": null,
       "city": "חיפה",
-      "lat": 32.7800945,
-      "lon": 34.9920222
+      "lat": 32.7940463,
+      "lon": 34.989571
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

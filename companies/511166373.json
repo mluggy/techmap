@@ -6,11 +6,17 @@
   "logoFile": "logos/applied_materials_israel_ltd-logo.webp",
   "websiteUrl": "https://www.appliedmaterials.com/",
   "careersUrl": "https://www.appliedmaterials.com/us/en/careers.html",
-  "isHiring": true,
   "linkedinId": "applied-materials",
+  "linkedinNum": 36103307,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "applied-materials",
   "xId": "applied_il",
+  "facebookId": "appliedmaterialsisrael",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "אופנהיימר",
@@ -20,7 +26,6 @@
       "lon": 34.8080738
     }
   ],
-  "isMultinational": true,
-  "facebookId": "appliedmaterialsisrael",
-  "linkedinNum": 36103307
+  "isMultinational": false,
+  "isActive": true
 }

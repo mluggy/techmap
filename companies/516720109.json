@@ -1,17 +1,22 @@
 {
   "name": "Wonka",
-  "description": "Innovative Sampling Intelligence Platform",
+  "description": "Innovative Sampling Intelligence Platform.",
   "categoryId": 14,
   "size": "xs",
   "logoFile": "logos/wonka.webp",
   "websiteUrl": "https://wonka.cloud/",
   "careersUrl": null,
-  "isHiring": false,
+  "linkedinId": "wonkacloud",
   "linkedinNum": 93374565,
   "crunchbaseId": null,
+  "ivcId": "A1000000440317",
   "finderId": "wonka",
   "xId": null,
   "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "השפלה",
@@ -21,5 +26,6 @@
       "lon": 34.86011563243273
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

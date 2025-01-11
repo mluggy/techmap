@@ -1,26 +1,31 @@
 {
   "name": "Buzzilla",
-  "description": "Social Media Monitoring and Analysis",
+  "description": "Social Media Monitoring and Analysis.",
   "categoryId": 8,
   "size": "s",
   "logoFile": "logos/buzzilla-logo.webp",
   "websiteUrl": "https://www.buzzilla.com",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "buzzilla",
+  "linkedinNum": 760059,
   "crunchbaseId": null,
+  "ivcId": "A1000000009859",
   "finderId": "buzzilla",
   "xId": "buzzilla",
+  "facebookId": "buzzilla.inc",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "מצדה",
+      "street": "מסדה",
       "houseNumber": 7,
-      "city": "בני ברק",
-      "lat": 32.0935847,
-      "lon": 34.8251159
+      "city": "פתח תקווה",
+      "lat": 32.0912711,
+      "lon": 34.8517589
     }
   ],
   "isMultinational": false,
-  "facebookId": "buzzilla.inc",
-  "linkedinNum": 760059
+  "isActive": true
 }

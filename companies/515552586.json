@@ -6,11 +6,17 @@
   "logoFile": "logos/hygear-logo.webp",
   "websiteUrl": "https://hygearfit.com/",
   "careersUrl": "https://hygear.com/about-us/careers/",
-  "isHiring": true,
   "linkedinId": null,
+  "linkedinNum": 17921203,
   "crunchbaseId": null,
+  "ivcId": null,
   "finderId": "HYGEAR",
   "xId": null,
+  "facebookId": "HyfitGear",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבין יצחק",
@@ -21,6 +27,5 @@
     }
   ],
   "isMultinational": false,
-  "facebookId": "HyfitGear",
-  "linkedinNum": 17921203
+  "isActive": true
 }

@@ -9,9 +9,14 @@
   "linkedinId": "feelthere",
   "linkedinNum": 80698311,
   "crunchbaseId": "feelthere",
+  "ivcId": "A1000000391585",
   "finderId": "feelthere",
   "xId": "feelthere_live",
   "facebookId": "feelthere.live",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "האורגים",
@@ -21,5 +26,6 @@
       "lon": 34.65631663839678
     }
   ],
-  "isMultinational": false
+  "isMultinational": false,
+  "isActive": true
 }

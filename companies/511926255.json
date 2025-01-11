@@ -6,21 +6,26 @@
   "logoFile": "logos/acktar_ltd-logo.webp",
   "websiteUrl": "https://acktar.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "acktar-international",
+  "linkedinNum": 69254113,
   "crunchbaseId": null,
+  "ivcId": "A1000000008040",
   "finderId": "acktar",
   "xId": null,
+  "facebookId": "Acktar-143757935772770",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "שדרות אבץ",
-      "houseNumber": 19,
-      "city": "קריית גת",
-      "lat": 31.589942119594134,
-      "lon": 34.78574378423733
+      "street": "לשם",
+      "houseNumber": 1,
+      "city": "קרית גת",
+      "lat": 31.5947706,
+      "lon": 34.7842729
     }
   ],
   "isMultinational": false,
-  "facebookId": "Acktar-143757935772770",
-  "linkedinNum": 69254113
+  "isActive": true
 }

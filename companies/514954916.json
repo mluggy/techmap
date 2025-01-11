@@ -6,20 +6,26 @@
   "logoFile": "logos/neurolief-logo.webp",
   "websiteUrl": "https://www.relivion.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "neurolief",
+  "linkedinNum": 11692471,
   "crunchbaseId": null,
+  "ivcId": "A1000000195115",
   "finderId": "neurolief",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "גיבורי ישראל",
       "houseNumber": 12,
-      "city": "נתניה",
-      "lat": 32.2778462,
-      "lon": 34.8599377
+      "city": "בני ברק",
+      "lat": 32.0818254,
+      "lon": 34.843004
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 11692471
+  "isActive": true
 }

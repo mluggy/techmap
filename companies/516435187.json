@@ -6,18 +6,26 @@
   "logoFile": "logos/sharksense-logo.webp",
   "websiteUrl": "https://www.sharksense.tech/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "sharksensedigital",
+  "linkedinNum": 14519233,
   "crunchbaseId": null,
+  "ivcId": "A1000000483934",
   "finderId": "sharksense",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "רבוצקי",
       "houseNumber": 8,
       "city": "רעננה",
-      "lat": 32.1861232,
-      "lon": 34.8866394
+      "lat": 32.1791558,
+      "lon": 34.8848289
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

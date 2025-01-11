@@ -6,20 +6,26 @@
   "logoFile": "logos/catalife-logo.webp",
   "websiteUrl": "https://catalife-technologies.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "catalife-ltd",
+  "linkedinNum": 19172860,
   "crunchbaseId": null,
+  "ivcId": "A1000000293486",
   "finderId": "catalife1",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "האוניברסיטה העברית",
+      "street": "חטיבת ירושלים",
       "houseNumber": null,
       "city": "ירושלים",
-      "lat": 31.7990709,
-      "lon": 35.2337532
+      "lat": 31.7735853,
+      "lon": 35.2267778
     }
   ],
   "isMultinational": false,
-  "linkedinNum": 19172860
+  "isActive": true
 }

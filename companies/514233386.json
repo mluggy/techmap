@@ -1,0 +1,31 @@
+{
+  "name": "Nanoplate",
+  "description": "Nanoplate deals with the research and development of innovative and economical plating nanotechnology, based on scientifically proven results.",
+  "categoryId": 16,
+  "size": "xs",
+  "logoFile": "logos/nanoplate-logo.webp",
+  "websiteUrl": "http://www.nanoplate-israel.com",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": "A1000000001835",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "החשמונאים",
+      "houseNumber": 9,
+      "city": "בני ברק",
+      "lat": 32.095379,
+      "lon": 34.8254149
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

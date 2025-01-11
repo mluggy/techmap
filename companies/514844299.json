@@ -6,13 +6,26 @@
   "logoFile": "logos/augwind-logo.webp",
   "websiteUrl": "https://www.aug-wind.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "augwind-energy",
+  "linkedinNum": 34919851,
   "crunchbaseId": null,
+  "ivcId": "A1000000022007",
   "finderId": "augwind",
   "xId": null,
-  "addresses": [],
-  "isMultinational": false,
   "facebookId": "AUGWIND",
-  "linkedinNum": 34919851
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "יקום",
+      "lat": 32.2485115,
+      "lon": 34.8360619
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

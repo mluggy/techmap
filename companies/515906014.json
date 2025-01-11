@@ -1,0 +1,31 @@
+{
+  "name": "Growth-X",
+  "description": "Growth-X is a subscription-based application that helps companies generate highly engaged and targeted leads in a cost-effective way.",
+  "categoryId": 14,
+  "size": "xs",
+  "logoFile": "logos/growth-x-logo.webp",
+  "websiteUrl": "http://growth-x.com",
+  "careersUrl": "https://wellfound.com/company/growth-x/jobs",
+  "linkedinId": "growth-x",
+  "linkedinNum": 7968429,
+  "crunchbaseId": null,
+  "ivcId": "A1000000263226",
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": "הזרם",
+      "houseNumber": 10,
+      "city": "תל אביב-יפו",
+      "lat": 32.0504443,
+      "lon": 34.7663172
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

@@ -1,26 +1,31 @@
 {
   "name": "Timing",
-  "description": "AI-Driven Field Service Management Solution",
+  "description": "AI-Driven Field Service Management Solution.",
   "categoryId": 5,
   "size": "xs",
   "logoFile": "logos/timing_engineering_2009-logo.webp",
   "websiteUrl": "https://www.timing.tech",
   "careersUrl": null,
-  "isHiring": false,
-  "linkedinId": null,
+  "linkedinId": "timingtech",
+  "linkedinNum": 10456237,
   "crunchbaseId": null,
+  "ivcId": "A1000000199444",
   "finderId": "timing",
   "xId": "Timingtech",
+  "facebookId": "Timingtechsoftware",
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
-      "street": "צורן",
-      "houseNumber": 34,
-      "city": "שמשית",
-      "lat": 32.7316462,
-      "lon": 35.2433425
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.0852999,
+      "lon": 34.78176759999999
     }
   ],
   "isMultinational": false,
-  "facebookId": "Timingtechsoftware",
-  "linkedinNum": 10456237
+  "isActive": true
 }

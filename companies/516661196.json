@@ -4,13 +4,19 @@
   "categoryId": 1,
   "size": "xs",
   "logoFile": "logos/quamcore-logo.webp",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.quamcore.com/",
   "careersUrl": null,
-  "isHiring": false,
   "linkedinId": "quamcore?trk=similar-pages",
+  "linkedinNum": 101275107,
   "crunchbaseId": null,
+  "ivcId": "A1000000459754",
   "finderId": "quamcore",
   "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
   "addresses": [
     {
       "street": "דוכיפת",
@@ -19,5 +25,7 @@
       "lat": 31.8963521,
       "lon": 35.002413
     }
-  ]
+  ],
+  "isMultinational": false,
+  "isActive": true
 }

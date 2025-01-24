@@ -1,0 +1,31 @@
+{
+  "name": "Lemniscate",
+  "description": "Husqvarna's artificial intelligence lab in Tel Aviv.",
+  "categoryId": 1,
+  "size": "xs",
+  "logoFile": "logos/tlv_ai_lab-logo.webp",
+  "websiteUrl": "https://www.linkedin.com/in/odidahan/",
+  "careersUrl": null,
+  "linkedinId": null,
+  "linkedinNum": null,
+  "crunchbaseId": null,
+  "ivcId": null,
+  "finderId": null,
+  "xId": null,
+  "facebookId": null,
+  "breezyId": null,
+  "comeetId": null,
+  "greenhouseId": null,
+  "leverId": null,
+  "addresses": [
+    {
+      "street": null,
+      "houseNumber": null,
+      "city": "תל אביב-יפו",
+      "lat": 32.08266893667231,
+      "lon": 34.78591254030853
+    }
+  ],
+  "isMultinational": false,
+  "isActive": true
+}

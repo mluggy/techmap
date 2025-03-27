@@ -1,6 +1,6 @@
 {
   "name": "NextSilicon",
-  "description": "A deep tech startup innovating dynamic runtime hardware reconfiguration for advanced HPC solutions, with offices in Tel Aviv, Europe, and the US.",
+  "description": "A deep tech startup innovating dynamic runtime hardware reconfiguration for advanced HPC solutions, with offices in Tel Aviv, Haifa, Europe, and the US.",
   "categoryId": 16,
   "size": "l",
   "logoFile": "logos/next_silicon-logo.webp",
@@ -24,8 +24,15 @@
       "city": "גבעתיים",
       "lat": 32.0661187,
       "lon": 34.8047208
+    },
+    {
+      "street":"אנדרי סחרוב",
+      "houseNumber":"9",
+      "city":"חיפה",
+      "lat": 32.7891835,
+      "lon": 34.9457771
     }
   ],
-  "isMultinational": false,
+  "isMultinational": true,
   "isActive": true
 }
